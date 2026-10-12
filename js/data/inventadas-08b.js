@@ -85,7 +85,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 430, prot: 18, hc: 62, grasa: 12 },
   etiquetas: ["rápida", "vegano", "ligera", "bol", "ideal para llevar", "económica", "superalimentos", "bajo en colesterol"],
-  consejo: "Para convertirlo en plato más completo, añade un huevo mollet (pon 2 huevos en el cestillo con las verduras: con 3 min más 10 de reposo salen con la yema cremosa)."
+  consejo: "Para convertirlo en plato más completo, añade un huevo mollet (pon 2 huevos en el cestillo con las verduras: con 3 min más 10 de reposo salen con la yema cremosa).",
+  alternativa: "Si tu súper no tiene pak choi, pon en el cestillo 200 g de brócoli en ramilletes pequeños o unas hojas de acelga tierna: se hacen en los mismos 3 min y aportan el mismo toque verde crujiente."
 });
 
 window.RECETAS_SEED.push({
@@ -256,7 +257,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 540, prot: 46, hc: 44, grasa: 20 },
   etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno", "una sola olla", "superalimentos", "bajo en colesterol"],
-  consejo: "El muslo de pavo aguanta la presión mucho mejor que la pechuga, que quedaría seca. Si solo tienes pechuga, añádela en dados en el paso 5 y cuécela 5 min destapada."
+  consejo: "El muslo de pavo aguanta la presión mucho mejor que la pechuga, que quedaría seca. Si solo tienes pechuga, añádela en dados en el paso 5 y cuécela 5 min destapada.",
+  alternativa: "En cazuela normal, guisa el pavo tapado 35 min a fuego suave antes de añadir las judías y el kale, en lugar de los 8 min a presión."
 });
 
 window.RECETAS_SEED.push({
@@ -302,7 +304,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 690, prot: 38, hc: 70, grasa: 28 },
   etiquetas: ["sopa", "contundente", "invierno", "fin de semana"],
-  consejo: "Si quieres un caldo más lechoso tipo tonkotsu, añade 300 g de huesos de cerdo o alitas de pollo con la panceta y sube a 40 min de presión."
+  consejo: "Si quieres un caldo más lechoso tipo tonkotsu, añade 300 g de huesos de cerdo o alitas de pollo con la panceta y sube a 40 min de presión.",
+  alternativa: "Sin olla exprés, cuece la panceta en el caldo en una cazuela tapada 1 h a fuego muy suave, hasta que se deje cortar con facilidad; repón con un poco de agua si baja mucho."
 });
 
 window.RECETAS_SEED.push({
@@ -346,7 +349,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 600, prot: 18, hc: 74, grasa: 26 },
   etiquetas: ["arroz", "otoño", "cremoso", "rápida", "una sola olla", "poco especiada"],
-  consejo: "Sin panceta es un plato vegetariano redondo; sustituye su crujiente por nueces tostadas picadas."
+  consejo: "Sin panceta es un plato vegetariano redondo; sustituye su crujiente por nueces tostadas picadas.",
+  alternativa: "Si no hay salvia fresca, usa 1 cdta de salvia seca añadida con el arroz o 1 rama de romero fresco picado fino; el aroma cambia poco y el plato sigue igual de otoñal."
 });
 
 window.RECETAS_SEED.push({
@@ -398,7 +402,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 700, prot: 44, hc: 60, grasa: 30 },
   etiquetas: ["picante", "batch cooking", "contundente", "de cuchara", "ideal para llevar"],
-  consejo: "El chili mejora al día siguiente y congela de maravilla. Con carne de ternera para guisar en tacos pequeños en vez de picada, sube a 25 min de presión: es la versión texana."
+  consejo: "El chili mejora al día siguiente y congela de maravilla. Con carne de ternera para guisar en tacos pequeños en vez de picada, sube a 25 min de presión: es la versión texana.",
+  alternativa: "Sin olla, deja el chili 30 min tapado a fuego suave en una cazuela. ¿No tienes chipotle? 1 cdta extra de pimentón ahumado y una pizca más de cayena cumplen el mismo papel."
 });
 
 window.RECETAS_SEED.push({
@@ -718,7 +723,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 680, prot: 44, hc: 54, grasa: 30 },
   etiquetas: ["guiso", "otoño", "contundente", "fin de semana", "batch cooking", "poco especiada"],
-  consejo: "La paleta tiene la grasa justa para la olla; el lomo se secaría. Si quieres aligerar, cambia la nata por yogur griego añadido fuera del fuego."
+  consejo: "La paleta tiene la grasa justa para la olla; el lomo se secaría. Si quieres aligerar, cambia la nata por yogur griego añadido fuera del fuego.",
+  alternativa: "Si lo haces en cazuela, guisa la paleta tapada 1 h 15 min a fuego suave y añade las patatas en los últimos 20 min."
 });
 
 window.RECETAS_SEED.push({
@@ -817,7 +823,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 760, prot: 46, hc: 60, grasa: 36 },
   etiquetas: ["picante", "especiado", "contundente", "fin de semana", "batch cooking", "sin verduras"],
-  consejo: "La reducción final es el paso que define el rendang: no te saltes los últimos 10 min aunque parezca que ya está. En olla tradicional son 3 h; aquí poco más de 1."
+  consejo: "La reducción final es el paso que define el rendang: no te saltes los últimos 10 min aunque parezca que ya está. En olla tradicional son 3 h; aquí poco más de 1.",
+  alternativa: "Si no encuentras hierba limón, sustitúyela por la ralladura de 1 lima más una tira de piel de limón sin parte blanca, retirada antes de reducir; el aroma cítrico se mantiene."
 });
 
 window.RECETAS_SEED.push({
@@ -861,7 +868,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 520, prot: 20, hc: 50, grasa: 26 },
   etiquetas: ["sopa", "invierno", "vegetariano", "cena", "gratinado", "poco especiada"],
-  consejo: "Usa caldo de verduras si la quieres vegetariana del todo. El secreto es la paciencia con la cebolla: cuanto más oscura (sin quemarse), más dulce y profunda la sopa."
+  consejo: "Usa caldo de verduras si la quieres vegetariana del todo. El secreto es la paciencia con la cebolla: cuanto más oscura (sin quemarse), más dulce y profunda la sopa.",
+  alternativa: "Si no tienes gruyère, el emmental rallado (los mismos 80 g) gratina igual de bien; con un poco de parmesano mezclado ganas el punto salado y avellanado."
 });
 
 window.RECETAS_SEED.push({
@@ -911,7 +919,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 620, prot: 50, hc: 24, grasa: 36 },
   etiquetas: ["guiso", "fin de semana", "invierno", "alta en proteína", "de víspera", "poco especiada"],
-  consejo: "Un vino que te beberías, no uno de cocina: la salsa es básicamente vino reducido. Acompaña con puré de patata si quieres un plato de domingo completo."
+  consejo: "Un vino que te beberías, no uno de cocina: la salsa es básicamente vino reducido. Acompaña con puré de patata si quieres un plato de domingo completo.",
+  alternativa: "En cazuela tradicional, cuece el pollo tapado 40 min a fuego suave en vez de 12 min a presión, y reduce después la salsa destapada hasta que nape."
 });
 
 window.RECETAS_SEED.push({
@@ -1068,7 +1077,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 820, prot: 48, hc: 66, grasa: 40 },
   etiquetas: ["especiado", "picante", "contundente", "fin de semana", "de víspera"],
-  consejo: "Para que el yogur no se corte, añádelo a temperatura ambiente y en cucharadas sobre la carne caliente, removiendo. El pimentón dulce sustituye al chile cachemir y da color sin exceso de picante."
+  consejo: "Para que el yogur no se corte, añádelo a temperatura ambiente y en cucharadas sobre la carne caliente, removiendo. El pimentón dulce sustituye al chile cachemir y da color sin exceso de picante.",
+  alternativa: "Sin olla exprés, el cordero necesita 1 h 30 min en cazuela tapada a fuego mínimo; añade un poco de agua caliente si la salsa se agarra al fondo."
 });
 
 window.RECETAS_SEED.push({
@@ -1115,7 +1125,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 900, prot: 56, hc: 50, grasa: 52 },
   etiquetas: ["contundente", "invierno", "fin de semana", "oktoberfest", "guiso", "poco especiada"],
-  consejo: "Si los codillos son muy grandes y no caben, pide al carnicero que los parta por la mitad a lo largo. El caldo sobrante, desgrasado, es una base estupenda para sopa de lentejas."
+  consejo: "Si los codillos son muy grandes y no caben, pide al carnicero que los parta por la mitad a lo largo. El caldo sobrante, desgrasado, es una base estupenda para sopa de lentejas.",
+  alternativa: "Sin olla, cuece los codillos en cazuela tapada con la cerveza y el agua 2 h 30 min a fuego suave (añade 300 ml más de agua) y luego dóralos en el horno igual."
 });
 
 window.RECETAS_SEED.push({
@@ -1165,5 +1176,6 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 670, prot: 44, hc: 36, grasa: 38 },
   etiquetas: ["casquería", "de víspera", "contundente", "guiso", "fin de semana", "económica", "poco especiada"],
-  consejo: "Pelar la lengua en caliente es imprescindible: fría no sale. Con el caldo de la primera cocción (muy gelatinoso) tienes base para una sopa de fideos al día siguiente."
+  consejo: "Pelar la lengua en caliente es imprescindible: fría no sale. Con el caldo de la primera cocción (muy gelatinoso) tienes base para una sopa de fideos al día siguiente.",
+  alternativa: "En cazuela convencional, la lengua necesita unas 2 h 30 min de cocción suave tapada para poder pelarla, y el estofado final, 30 min en lugar de 10."
 });

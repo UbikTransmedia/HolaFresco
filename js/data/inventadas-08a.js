@@ -125,7 +125,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 320, prot: 10, hc: 30, grasa: 17 },
   etiquetas: ["rápida", "ligera", "vegetariano", "verano", "ideal para llevar", "económica", "poco especiada", "bajo en colesterol"],
-  consejo: "La remolacha cocida aguanta 5 días en la nevera: haz el doble y tendrás base para ensaladas y hummus rosa toda la semana."
+  consejo: "La remolacha cocida aguanta 5 días en la nevera: haz el doble y tendrás base para ensaladas y hummus rosa toda la semana.",
+  alternativa: "Sin olla exprés, cuece las remolachas enteras y con piel en una cazuela cubiertas de agua 45-50 min a fuego medio; o sáltate la cocción con 500 g de remolacha cocida envasada al vacío."
 });
 
 window.RECETAS_SEED.push({
@@ -169,7 +170,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 560, prot: 16, hc: 72, grasa: 22 },
   etiquetas: ["rápida", "vegetariano", "cremoso", "una sola olla", "otoño", "poco especiada"],
-  consejo: "La proporción mágica en olla exprés es 1 parte de arroz por 2,5 de líquido (vino incluido). Con esto no fallarás con ningún risotto."
+  consejo: "La proporción mágica en olla exprés es 1 parte de arroz por 2,5 de líquido (vino incluido). Con esto no fallarás con ningún risotto.",
+  alternativa: "En una cazuela normal también sale: añade el caldo caliente en 3 tandas y cuece 18 min a fuego medio removiendo a menudo en lugar de los 6 min de presión; puede pedirte 100 ml más de caldo."
 });
 
 window.RECETAS_SEED.push({
@@ -215,7 +217,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 410, prot: 34, hc: 48, grasa: 8 },
   etiquetas: ["rápida", "ligera", "sopa", "alta en proteína", "sin gluten", "invierno", "sin verduras", "bajo en colesterol"],
-  consejo: "Si tienes 10 min más, sustituye el caldo envasado por el de la receta de sopa de pollo de este bloque: el pho sube de nivel."
+  consejo: "Si tienes 10 min más, sustituye el caldo envasado por el de la receta de sopa de pollo de este bloque: el pho sube de nivel.",
+  alternativa: "Si no tienes olla exprés, hierve el caldo con la pechuga, la cebolla tostada y las especias en una cazuela tapada 20 min a fuego suave; el pollo queda igual de jugoso."
 });
 
 window.RECETAS_SEED.push({
@@ -263,7 +266,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 520, prot: 22, hc: 60, grasa: 20 },
   etiquetas: ["de cuchara", "vegano", "económica", "batch cooking", "rápida", "superalimentos"],
-  consejo: "Las lentejas rojas se pasan enseguida: 5 min es el punto. Si quieres textura con más grano, usa 4 min y despresuriza natural 10."
+  consejo: "Las lentejas rojas se pasan enseguida: 5 min es el punto. Si quieres textura con más grano, usa 4 min y despresuriza natural 10.",
+  alternativa: "En un cazo normal, cuece las lentejas rojas tapadas 18-20 min a fuego suave, removiendo de vez en cuando y añadiendo un chorrito de agua si se espesan demasiado."
 });
 
 window.RECETAS_SEED.push({
@@ -308,7 +312,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 600, prot: 42, hc: 32, grasa: 34 },
   etiquetas: ["una sola olla", "para niños", "otoño", "alta en proteína", "poco especiada"],
-  consejo: "Si prefieres la piel del pollo crujiente al servir, pásalo 3 min bajo el grill del horno mientras reduces la salsa."
+  consejo: "Si prefieres la piel del pollo crujiente al servir, pásalo 3 min bajo el grill del horno mientras reduces la salsa.",
+  alternativa: "Sin olla, guisa los contramuslos con las patatas en una cazuela tapada 30 min a fuego suave (en lugar de 8 min a presión) y termina reduciendo la salsa con la nata igual."
 });
 
 window.RECETAS_SEED.push({
@@ -355,7 +360,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 500, prot: 34, hc: 42, grasa: 22 },
   etiquetas: ["de cuchara", "marinero", "alta en proteína", "primavera", "poco especiada"],
-  consejo: "La sepia congelada va perfecta aquí y sale más barata: descongélala en la nevera la noche antes y sécala muy bien."
+  consejo: "La sepia congelada va perfecta aquí y sale más barata: descongélala en la nevera la noche antes y sécala muy bien.",
+  alternativa: "En cazuela tradicional: deja la sepia tapada 35 min a fuego suave hasta que esté tierna, añade las patatas con agua a ras y cuece 15-18 min más antes de echar los guisantes."
 });
 
 window.RECETAS_SEED.push({
@@ -494,7 +500,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 720, prot: 36, hc: 58, grasa: 36 },
   etiquetas: ["de cuchara", "invierno", "económica", "contundente", "batch cooking"],
-  consejo: "Pide la costilla carnosa, no la de churrasco. Si te gusta la salsa más espesa, machaca dos trozos de patata y remueve."
+  consejo: "Pide la costilla carnosa, no la de churrasco. Si te gusta la salsa más espesa, machaca dos trozos de patata y remueve.",
+  alternativa: "Sin olla exprés, cuece la costilla en cazuela tapada 40 min a fuego suave, añade las patatas y deja otros 20 min, hasta que estén tiernas y suelten almidón."
 });
 
 window.RECETAS_SEED.push({
@@ -686,7 +693,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 620, prot: 44, hc: 48, grasa: 28 },
   etiquetas: ["una sola olla", "económica", "especiado", "fin de semana"],
-  consejo: "Si encuentras limón encurtido marroquí, sustituye las rodajas escaldadas por medio limón encurtido picado: ganas en autenticidad."
+  consejo: "Si encuentras limón encurtido marroquí, sustituye las rodajas escaldadas por medio limón encurtido picado: ganas en autenticidad.",
+  alternativa: "Si lo haces en cazuela, tapa y cuece 35 min a fuego suave en lugar de 10 min a presión; sin la despresurización, ve directo a reducir la salsa con las aceitunas."
 });
 
 window.RECETAS_SEED.push({
@@ -731,7 +739,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 400, prot: 34, hc: 40, grasa: 10 },
   etiquetas: ["sopa", "ligera", "invierno", "económica", "para niños", "batch cooking", "poco especiada"],
-  consejo: "Haz el doble de caldo y congélalo en tarros: es la base de medio recetario. Las alitas son la parte más barata y la que más gelatina da."
+  consejo: "Haz el doble de caldo y congélalo en tarros: es la base de medio recetario. Las alitas son la parte más barata y la que más gelatina da.",
+  alternativa: "Para hacer el caldo sin olla exprés, cuece las alitas tostadas en cazuela tapada 1 h 15 min a fuego muy suave, desespumando al principio; añade 200 ml más de agua para compensar la evaporación."
 });
 
 window.RECETAS_SEED.push({
@@ -870,7 +879,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 740, prot: 46, hc: 60, grasa: 34 },
   etiquetas: ["de cuchara", "invierno", "guiso", "batch cooking", "fin de semana", "poco especiada"],
-  consejo: "La cerveza negra deja un amargor noble: si no te convence, equilibra al final con otra cucharadita de azúcar o un chorro de nata."
+  consejo: "La cerveza negra deja un amargor noble: si no te convence, equilibra al final con otra cucharadita de azúcar o un chorro de nata.",
+  alternativa: "En cazuela de hierro, guisa la carne tapada 2 h a fuego mínimo en vez de 25 min a presión y cuece las patatas aparte en agua con sal 20 min."
 });
 
 window.RECETAS_SEED.push({
@@ -971,7 +981,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 880, prot: 52, hc: 44, grasa: 54 },
   etiquetas: ["fin de semana", "invierno", "guiso", "contundente", "de víspera", "poco especiada"],
-  consejo: "Si el rabo es de vaca (más barato que el de toro de lidia) el tiempo es el mismo. Deshuesado y en frío, la carne con su salsa es un relleno espectacular para raviolis o croquetas."
+  consejo: "Si el rabo es de vaca (más barato que el de toro de lidia) el tiempo es el mismo. Deshuesado y en frío, la carne con su salsa es un relleno espectacular para raviolis o croquetas.",
+  alternativa: "Sin olla exprés, el rabo necesita entre 3 h y 3 h 30 min en cazuela tapada a fuego muy suave (o en el horno a 160 °C), dándole la vuelta de vez en cuando; las patatas, cocidas aparte en 20 min."
 });
 
 window.RECETAS_SEED.push({
@@ -1022,7 +1033,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 820, prot: 48, hc: 50, grasa: 46 },
   etiquetas: ["fin de semana", "picante", "guiso", "contundente", "de víspera"],
-  consejo: "El mole gana con el reposo: hazlo la víspera y recalienta a fuego lento con un chorrito de caldo. Carrillada de cerdo blanco también sirve; dale 5 min menos."
+  consejo: "El mole gana con el reposo: hazlo la víspera y recalienta a fuego lento con un chorrito de caldo. Carrillada de cerdo blanco también sirve; dale 5 min menos.",
+  alternativa: "En cazuela, cuece las carrilladas tapadas 1 h 45 min a fuego mínimo. Si no encuentras chipotle en adobo, usa 1 guindilla seca y 1 cdta de pimentón ahumado: el mole sigue siendo ahumado y picante."
 });
 
 window.RECETAS_SEED.push({
@@ -1071,7 +1083,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 680, prot: 44, hc: 62, grasa: 28 },
   etiquetas: ["batch cooking", "guiso", "contundente", "de víspera", "ideal para llevar", "poco especiada"],
-  consejo: "La falda es barata y perfecta para desmechar; también sirve morcillo. Sobras: rellena empanadillas o tacos, o mézclala con huevo revuelto."
+  consejo: "La falda es barata y perfecta para desmechar; también sirve morcillo. Sobras: rellena empanadillas o tacos, o mézclala con huevo revuelto.",
+  alternativa: "Sin olla exprés, cuece la falda en cazuela tapada 2 h a fuego suave hasta que se deshilache, y deja el guiso final 25 min destapado en lugar de 10 min a presión."
 });
 
 window.RECETAS_SEED.push({

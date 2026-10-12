@@ -45,7 +45,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 465, prot: 27, hc: 26, grasa: 28 },
   etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "picante"],
-  consejo: "La maicena es la clave del crujiente: el tofu tiene que estar bien seco antes de rebozarlo y no muevas los dados hasta que se despeguen solos de la sartén."
+  consejo: "La maicena es la clave del crujiente: el tofu tiene que estar bien seco antes de rebozarlo y no muevas los dados hasta que se despeguen solos de la sartén.",
+  alternativa: "Si no encuentras pak choi, usa acelgas tiernas o col china cortada en trozos (los mismos 300 g); los tallos de acelga piden 1 minuto más de salteado antes de añadir las hojas."
 });
 
 window.RECETAS_SEED.push({
@@ -139,7 +140,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 725, prot: 22, hc: 92, grasa: 30 },
   etiquetas: ["contundente", "para niños", "económica", "batch cooking"],
-  consejo: "Las hamburguesas se pueden formar el día anterior o congelar crudas entre papel de horno. Si la masa queda húmeda, añade pan rallado de cucharada en cucharada."
+  consejo: "Las hamburguesas se pueden formar el día anterior o congelar crudas entre papel de horno. Si la masa queda húmeda, añade pan rallado de cucharada en cucharada.",
+  alternativa: "Sin chipotle en adobo: mezcla en la veganesa ½ cdta de pimentón ahumado picante, unas gotas de vinagre de manzana y una pizca de azúcar; da el mismo toque ahumado y algo menos de fuego."
 });
 
 window.RECETAS_SEED.push({
@@ -235,7 +237,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 620, prot: 28, hc: 72, grasa: 24 },
   etiquetas: ["marinado", "alta en proteína", "ideal para llevar", "agridulce", "bajo en colesterol"],
-  consejo: "El hervido previo del tempeh es el truco que lo cambia todo: queda jugoso y nada amargo. La marinada sirve también para tofu o seitán."
+  consejo: "El hervido previo del tempeh es el truco que lo cambia todo: queda jugoso y nada amargo. La marinada sirve también para tofu o seitán.",
+  alternativa: "Si no tienes pasta de tamarindo, cámbiala por 1 cda de zumo de lima y 1 cda de vinagre de manzana con 1 cdta más de azúcar moreno; el glaseado queda igual de agridulce, algo menos afrutado."
 });
 
 window.RECETAS_SEED.push({
@@ -374,7 +377,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 550, prot: 26, hc: 67, grasa: 20 },
   etiquetas: ["para compartir", "batch cooking", "alta en proteína", "fin de semana", "verduras escondidas", "bajo en colesterol"],
-  consejo: "Se congelan crudas en una bandeja separadas entre sí y después en bolsa. Se cocinan directamente del congelador igual que frescas, añadiendo 2 minutos a la fase de vapor."
+  consejo: "Se congelan crudas en una bandeja separadas entre sí y después en bolsa. Se cocinan directamente del congelador igual que frescas, añadiendo 2 minutos a la fase de vapor.",
+  alternativa: "Para ahorrarte la masa, usa unas 24 obleas de gyoza congeladas de la sección asiática; si no hay shiitake frescas, valen champiñones marrones (mismo peso) o 20 g de shiitake secas hidratadas 20 minutos en agua caliente."
 });
 
 window.RECETAS_SEED.push({
@@ -567,7 +571,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 468, prot: 20, hc: 70, grasa: 12 },
   etiquetas: ["ligera", "picante", "económica", "verano", "para compartir", "bajo en colesterol"],
-  consejo: "No amontones las setas en la sartén: si se cuecen en su propio jugo no se doran. Dos tandas a fuego fuerte es la diferencia entre unas setas blandas y unas que saben a brasa."
+  consejo: "No amontones las setas en la sartén: si se cuecen en su propio jugo no se doran. Dos tandas a fuego fuerte es la diferencia entre unas setas blandas y unas que saben a brasa.",
+  alternativa: "Sin pasta de achiote, mezcla 1 cdta de pimentón dulce, ½ cdta más de orégano y 1 cda extra de vinagre de manzana con el zumo de naranja: el color rojizo y el fondo terroso quedan muy parecidos."
 });
 
 window.RECETAS_SEED.push({
@@ -717,7 +722,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 573, prot: 28, hc: 68, grasa: 21 },
   etiquetas: ["al horno", "crujiente", "para compartir", "alta en proteína", "poco especiada", "bajo en colesterol"],
-  consejo: "El agua con gas muy fría y no remover de más es lo que hace que el rebozado cruja: los grumos son buenos. Si no tienes harina de garbanzo, usa harina de trigo y una pizca de levadura química."
+  consejo: "El agua con gas muy fría y no remover de más es lo que hace que el rebozado cruja: los grumos son buenos. Si no tienes harina de garbanzo, usa harina de trigo y una pizca de levadura química.",
+  alternativa: "Si no tienes panko, usa pan rallado de miga gruesa (los mismos 40 g) o tritura un par de rebanadas de pan del día anterior a trozos irregulares; cruje casi igual."
 });
 
 window.RECETAS_SEED.push({
@@ -1056,7 +1062,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 614, prot: 33, hc: 35, grasa: 38 },
   etiquetas: ["a la plancha", "alta en proteína", "primavera", "fin de semana", "poco especiada"],
-  consejo: "El romesco se conserva una semana en la nevera y mejora con los días: sirve para cualquier verdura asada, para calçots o para untar en pan. Fuera de temporada, usa alcachofas en conserva y sáltate el paso de cocerlas."
+  consejo: "El romesco se conserva una semana en la nevera y mejora con los días: sirve para cualquier verdura asada, para calçots o para untar en pan. Fuera de temporada, usa alcachofas en conserva y sáltate el paso de cocerlas.",
+  alternativa: "Si en tu zona no hay ñora, pon 1 cda de carne de pimiento choricero de bote o, en su defecto, ½ cdta más de pimentón dulce en el romesco, sin remojo."
 });
 
 window.RECETAS_SEED.push({
@@ -1216,5 +1223,6 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 718, prot: 48, hc: 82, grasa: 22 },
   etiquetas: ["de cuchara", "contundente", "invierno", "batch cooking", "fin de semana", "alta en proteína", "poco especiada", "bajo en colesterol"],
-  consejo: "Como todos los estofados, está mejor al día siguiente. Usa un vino que te beberías: la mitad del sabor del plato viene de ahí. El pimentón ahumado sustituye al toque del bacon del original."
+  consejo: "Como todos los estofados, está mejor al día siguiente. Usa un vino que te beberías: la mitad del sabor del plato viene de ahí. El pimentón ahumado sustituye al toque del bacon del original.",
+  alternativa: "Si no encuentras cebollitas francesas, usa chalotas peladas enteras (mismo peso) o 2 cebollas pequeñas en cuartos con la raíz para que no se deshagan; dóralas igual antes de guisar."
 });

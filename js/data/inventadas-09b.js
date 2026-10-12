@@ -139,6 +139,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 36, hc: 71, grasa: 29 },
   etiquetas: ["tradicional", "fin de semana", "una sola sartén", "sin gluten", "poco especiada"],
   consejo: "Con prisa, sustituye el fumet casero por 500 ml de caldo de pescado de brik de buena calidad y ahorra 35 minutos; el azafrán y la ñora siguen marcando la diferencia.",
+  alternativa: "Donde no se encuentren ñoras, usa 1½ cda de carne de pimiento choricero de bote en el sofrito (sin remojo); el arroz mantiene su color rojizo y ese dulzor tostado.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -316,6 +317,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 29, hc: 75, grasa: 24 },
   etiquetas: ["económica", "omega-3", "rápida", "despensa", "superalimentos", "bajo en colesterol"],
   consejo: "El pan rallado tostado era el 'parmesano de los pobres' en Sicilia y aquí sustituye al queso con ventaja: el pescado azul y el queso no se llevan bien.",
+  alternativa: "Si no hay bulbo de hinojo, sofríe 2 ramas de apio en láminas con la cebolla y añade ½ cdta de semillas de hinojo machacadas: recupera el aroma anisado tan típico de la receta siciliana.",
   contundencia: "media",
   coste: "media"
 });
@@ -496,6 +498,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 23, hc: 62, grasa: 11 },
   etiquetas: ["rápida", "ligera", "vegana", "de cuchara", "invierno", "sin gluten", "económica", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Los fideos se sirven aparte y se añade el caldo encima: si los cueces dentro de la sopa, absorben el caldo y se pasan en minutos.",
+  alternativa: "Si no encuentras pak choi, echa al caldo las hojas de 2-3 acelgas tiernas troceadas (los tallos, 2 min antes) o un buen puñado de espinacas al final; el resultado es igual de ligero.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -630,6 +633,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 17, hc: 60, grasa: 18 },
   etiquetas: ["ligera", "vegetariana", "ideal para llevar", "otoño", "invierno", "superalimentos", "poco especiada"],
   consejo: "Si tienes remolacha cruda, ásala entera envuelta en papel de aluminio 50 minutos a 200 °C: queda más dulce y con más sabor que la cocida al vacío.",
+  alternativa: "Si no encuentras farro, cuece los mismos 110 g de cebada perlada en un tiempo muy parecido, o espelta en grano, que necesita unos 40 min; la textura masticable se mantiene.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -676,6 +680,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 24, hc: 83, grasa: 22 },
   etiquetas: ["vegana", "sin gluten", "económica", "batch cooking", "de cuchara", "especiado", "superalimentos"],
   consejo: "El mijo tostado antes de cocer no se apelmaza y gana sabor. Si te sobra, al día siguiente se saltea como un arroz frito.",
+  alternativa: "Si no tienes mijo, usa quinoa (los mismos 130 g, enjuagada): tuéstala igual y cuécela 15 min con 260 ml de agua; sigue siendo vegana y sin gluten.",
   contundencia: "media",
   coste: "económica"
 });
@@ -873,6 +878,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 45, hc: 92, grasa: 22 },
   etiquetas: ["una sola cazuela", "fin de semana", "para niños", "batch cooking", "bajo en colesterol"],
   consejo: "El cilantro es el alma del plato: no escatimes. Si lo tuyo no es el cilantro, la versión con perejil y albahaca también funciona, aunque será otro plato.",
+  alternativa: "Sin pasta de ají amarillo, tritura ½ pimiento amarillo asado de bote con ½ chile fresco y una pizca de cúrcuma; aporta el mismo color dorado y un picor afrutado suave.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1151,6 +1157,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 830, prot: 34, hc: 82, grasa: 40 },
   etiquetas: ["pasta fresca", "vegetariana", "fin de semana", "otoño", "festivo", "verduras escondidas", "poco especiada"],
   consejo: "Los raviolis crudos se congelan en la bandeja separados y luego en bolsa; cuécelos directamente del congelador 1-2 minutos más. Así una tarde de domingo da para 2 cenas.",
+  alternativa: "Si no encuentras ricotta, vale requesón bien escurrido (los mismos 150 g); y si no hay salvia fresca, perfuma la mantequilla con 1 rama de romero o 1 cdta de salvia seca, retirándolos antes de servir.",
   contundencia: "contundente",
   coste: "media"
 });

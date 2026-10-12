@@ -136,6 +136,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 40, hc: 54, grasa: 38 },
   etiquetas: ["invierno", "batch cooking", "alta en proteína", "de cuchara y tenedor", "poco especiada"],
   consejo: "Las lentejas y los pimientos se pueden asar y cocer la víspera; al día siguiente solo tienes que templar las lentejas 1 minuto en el microondas y hacer los huevos.",
+  alternativa: "Para no encender el horno, usa 250 g de pimiento rojo asado de bote en tiras, escurrido, y aprovecha 1 cda de su líquido para la vinagreta; te ahorras 45 minutos.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -183,6 +184,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 30, hc: 64, grasa: 24 },
   etiquetas: ["rápida", "verano", "ideal para llevar", "sin horno", "superalimentos", "bajo en colesterol"],
   consejo: "Si lo llevas al trabajo, guarda el tofu aparte y añádelo al final para que no se ablande con el aliño.",
+  alternativa: "Si no encuentras fideos soba, cuece los mismos 120 g de espaguetis integrales finos o de fideos udon según el paquete y enfríalos igual en agua fría; el aliño se agarra exactamente igual.",
   contundencia: "media",
   coste: "media"
 });
@@ -232,6 +234,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 53, hc: 96, grasa: 22 },
   etiquetas: ["alta en proteína", "picante", "ideal para llevar", "batch cooking", "bowl", "bajo en colesterol"],
   consejo: "Para una versión más ligera, cambia la mitad del arroz por más lechuga y añade medio aguacate en láminas: pierdes hidrato y ganas grasa buena.",
+  alternativa: "Si en tu súper no hay chipotle en adobo, marina el pollo con 1 cdta de pimentón ahumado picante, 1 cdta de tomate concentrado y un chorrito de zumo de lima: mantiene el ahumado con algo menos de picor.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -405,6 +408,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 27, hc: 59, grasa: 31 },
   etiquetas: ["invierno", "al horno", "ideal para llevar", "vegetariana", "superalimentos", "poco especiada"],
   consejo: "Asa el doble de remolacha: aguanta 5 días en la nevera y te sirve para hummus, cremas o para repetir la ensalada entre semana en 10 minutos.",
+  alternativa: "Para tenerla en 20 minutos, usa 400 g de remolacha cocida envasada al vacío en gajos y salta el asado; aliñada con el tomillo picado por encima apenas se nota la diferencia.",
   contundencia: "media",
   coste: "media"
 });
@@ -865,6 +869,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 45, hc: 48, grasa: 26 },
   etiquetas: ["al horno", "alta en proteína", "invierno", "omega 3", "superalimentos", "poco especiada"],
   consejo: "La piel del salmón queda crujiente si la secas muy bien y la pones los últimos 2 minutos con el grill; trocéala y espárcela por encima como si fueran chips.",
+  alternativa: "Con 250 g de lentejas pardinas cocidas de bote, enjuagadas y templadas 1 minuto en el microondas, te saltas la cocción del paso 1 y la ensalada queda lista en lo que se hornea el salmón.",
   contundencia: "media",
   coste: "premium"
 });

@@ -179,6 +179,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 50, hc: 75, grasa: 30 },
   etiquetas: ["alta en proteína", "bowl", "wok", "para niños"],
   consejo: "Pide al carnicero que corte la carne en la máquina de fiambre, muy fina: es el secreto de un bulgogi tierno que se hace en 2 minutos.",
+  alternativa: "Si no tienes gochujang, mezcla 1 cdta de sriracha, 1 cdta de miso o de tomate concentrado y una pizca de azúcar moreno: da el mismo punto picante y dulzón para acompañar el bowl.",
   contundencia: "contundente",
   coste: "premium"
 });

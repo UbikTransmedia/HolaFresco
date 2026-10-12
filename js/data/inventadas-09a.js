@@ -172,6 +172,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 47, hc: 65, grasa: 37 },
   etiquetas: ["al horno", "vegetariana", "batch cooking", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Si tus placas no son precocidas, remójalas 10 minutos en agua caliente antes de montar y añade 100 ml de agua a la salsa.",
+  alternativa: "Si no encuentras ricotta, usa requesón (los mismos 200 g) bien escurrido y aplastado con un tenedor; queda algo más firme, así que añádele 1-2 cda de leche al mezclarlo con las espinacas.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -349,6 +350,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 22, hc: 79, grasa: 23 },
   etiquetas: ["vegetariana", "invierno", "otoño", "de cuchara", "poco especiada"],
   consejo: "No laves el arroz y no dejes de remover al final: el almidón que suelta es lo que da la cremosidad sin necesidad de nata.",
+  alternativa: "¿Sin salvia fresca? Fríe en el aceite 1 cdta de salvia seca justo antes del arroz, o usa unas agujas de romero fresco muy picadas; el risotto conserva su perfume herbáceo.",
   contundencia: "media",
   coste: "media"
 });
@@ -397,6 +399,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 40, hc: 75, grasa: 22 },
   etiquetas: ["al horno", "alta en proteína", "una bandeja", "ideal para llevar", "batch cooking", "bajo en colesterol"],
   consejo: "El cuscús queda más suelto si lo hidratas con la cantidad justa de líquido (1,5 veces su volumen) y lo dejas tapado sin tocarlo los 5 minutos completos.",
+  alternativa: "Si no tienes ras el hanout, mezcla ½ cdta de cúrcuma, ½ de canela, ½ de jengibre molido y ½ de cilantro molido, y súmalo al comino de la receta; el aroma queda muy cercano.",
   contundencia: "media",
   coste: "económica"
 });
@@ -442,6 +445,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 39, hc: 68, grasa: 19 },
   etiquetas: ["rápida", "una sola sartén", "alta en proteína", "para niños"],
   consejo: "Corta la ternera medio congelada (20 minutos en el congelador) para conseguir tiras muy finas; y no la amontones en el wok o se cocerá en vez de dorarse.",
+  alternativa: "Cuando no haya pak choi, saltea 200 g de bimi o de col china en tiras gruesas (los tallos primero, 1 min antes que las hojas): el contraste tierno-crujiente se mantiene.",
   contundencia: "media",
   coste: "media"
 });
@@ -852,6 +856,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 40, hc: 75, grasa: 21 },
   etiquetas: ["una sola sartén", "agridulce", "alta en proteína", "sin gluten"],
   consejo: "No cuezas los fideos en agua hirviendo: se pasan en el wok. El remojo en agua caliente del grifo los deja en el punto para terminar en la salsa.",
+  alternativa: "Si no consigues pasta de tamarindo, prepara la salsa con 1 cda de zumo de lima, 1 cda de vinagre de arroz y ½ cda más de azúcar moreno; el pad thai sale menos oscuro pero con el mismo equilibrio agridulce.",
   contundencia: "media",
   coste: "media"
 });
@@ -898,6 +903,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 860, prot: 41, hc: 76, grasa: 44 },
   etiquetas: ["al horno", "batch cooking", "invierno", "para niños", "fin de semana"],
   consejo: "Las salchichas ya aportan grasa y sal: por eso el ragú lleva solo 1 cucharada de aceite y conviene probar antes de salar.",
+  alternativa: "Si no encuentras hinojo fresco, lamina 2 ramas de apio y sube a 1½ cdta las semillas de hinojo: el ragú mantiene su aroma anisado y la textura tierna de la verdura.",
   contundencia: "contundente",
   coste: "media"
 });

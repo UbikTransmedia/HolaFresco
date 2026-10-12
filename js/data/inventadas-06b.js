@@ -46,7 +46,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 473, prot: 25, hc: 46, grasa: 21 },
   etiquetas: ["rápida", "ligera", "ideal para llevar", "alta en proteína", "verano", "poco especiada", "bajo en colesterol"],
-  consejo: "Aliña la patata y las judías cuando aún queman: absorben la vinagreta mucho mejor. Para llevar al trabajo está igual de buena fría."
+  consejo: "Aliña la patata y las judías cuando aún queman: absorben la vinagreta mucho mejor. Para llevar al trabajo está igual de buena fría.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme ahumado (los mismos 200 g) en dados, bien secado con papel: se dora en 6–8 minutos y no necesita hervido previo."
 });
 
 window.RECETAS_SEED.push({
@@ -517,7 +518,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 755, prot: 37, hc: 91, grasa: 27 },
   etiquetas: ["de cuchara", "contundente", "económica", "batch cooking", "picante", "alta en proteína", "invierno"],
-  consejo: "El cacao puro y la pizca de canela no se notan como tales: redondean el chili y le dan profundidad. Haz el doble, porque mejora de un día para otro y congela perfectamente."
+  consejo: "El cacao puro y la pizca de canela no se notan como tales: redondean el chili y le dan profundidad. Haz el doble, porque mejora de un día para otro y congela perfectamente.",
+  alternativa: "¿No hay chipotle en adobo? Ponle 1 cdta de pimentón ahumado picante y 1 cdta de tomate concentrado extra con un chorrito de vinagre; el chili conserva su punto ahumado."
 });
 
 window.RECETAS_SEED.push({
@@ -662,7 +664,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 463, prot: 27, hc: 37, grasa: 23 },
   etiquetas: ["al horno", "picante", "ligera", "crujiente", "económica", "para compartir", "bajo en colesterol"],
-  consejo: "La doble capa (papilla de garbanzo y después panko con maicena) hace que el rebozado aguante la salsa sin reblandecerse. Si quieres un plato más contundente, mete el tofu en pan de hamburguesa con lechuga y más ranch."
+  consejo: "La doble capa (papilla de garbanzo y después panko con maicena) hace que el rebozado aguante la salsa sin reblandecerse. Si quieres un plato más contundente, mete el tofu en pan de hamburguesa con lechuga y más ranch.",
+  alternativa: "Sin panko, reboza con pan rallado grueso o con copos de maíz naturales sin azúcar machacados a mano (30 g); el tofu queda igual de crujiente bajo la salsa búfalo."
 });
 
 window.RECETAS_SEED.push({
@@ -709,7 +712,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 644, prot: 31, hc: 67, grasa: 28 },
   etiquetas: ["marinado", "a la plancha", "alta en proteína", "picante", "para compartir"],
-  consejo: "La pera rallada es el secreto del bulgogi: sus enzimas ablandan y su azúcar carameliza. Si no tienes gochujang, sustitúyelo por una cucharadita de sriracha y otra de miso."
+  consejo: "La pera rallada es el secreto del bulgogi: sus enzimas ablandan y su azúcar carameliza. Si no tienes gochujang, sustitúyelo por una cucharadita de sriracha y otra de miso.",
+  alternativa: "Si no encuentras kimchi vegano, haz un encurtido exprés: 100 g de col china en tiras con 1 cda de vinagre de arroz, ½ cdta de azúcar, sal y copos de chile; déjalo 15 minutos mientras se marina el tofu."
 });
 
 window.RECETAS_SEED.push({
@@ -805,7 +809,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 450, prot: 26, hc: 60, grasa: 11 },
   etiquetas: ["de cuchara", "ligera", "invierno", "batch cooking", "bajo en colesterol"],
-  consejo: "El caldo mejora de un día para otro y se congela muy bien: haz el doble y tendrás pho en 15 minutos la próxima vez. No te cortes al tostar la cebolla; el color oscuro es el que da el sabor."
+  consejo: "El caldo mejora de un día para otro y se congela muy bien: haz el doble y tendrás pho en 15 minutos la próxima vez. No te cortes al tostar la cebolla; el color oscuro es el que da el sabor.",
+  alternativa: "Si no hay shiitake frescas, echa 15 g de shiitake secas directamente al caldo mientras cuece (aportan aún más sabor) o usa champiñones marrones laminados, los mismos 100 g."
 });
 
 window.RECETAS_SEED.push({
@@ -942,7 +947,8 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 860, prot: 34, hc: 110, grasa: 30 },
   etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "poco especiada"],
-  consejo: "Si la bechamel queda espesa al montar, aclárala con un chorrito de bebida vegetal: las placas sin cocción necesitan líquido para hidratarse. Congela por porciones ya horneada."
+  consejo: "Si la bechamel queda espesa al montar, aclárala con un chorrito de bebida vegetal: las placas sin cocción necesitan líquido para hidratarse. Congela por porciones ya horneada.",
+  alternativa: "Con prisa, usa 250 g de lentejas pardinas cocidas de bote, bien enjuagadas, y sáltate el paso 1: añádelas a la salsa junto con el tomate."
 });
 
 window.RECETAS_SEED.push({
@@ -1174,5 +1180,6 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 770, prot: 30, hc: 109, grasa: 22 },
   etiquetas: ["al horno", "batch cooking", "invierno", "económica", "para niños", "poco especiada", "bajo en colesterol"],
-  consejo: "Los surcos del tenedor en el puré no son solo decoración: son los que se tuestan y dan la costra crujiente. Se puede montar la víspera y hornear al día siguiente 25 minutos."
+  consejo: "Los surcos del tenedor en el puré no son solo decoración: son los que se tuestan y dan la costra crujiente. Se puede montar la víspera y hornear al día siguiente 25 minutos.",
+  alternativa: "Con lentejas cocidas de bote (300 g, enjuagadas) reduce el caldo a 150 ml y deja el relleno solo 10 minutos tapado, lo justo para que espese."
 });
