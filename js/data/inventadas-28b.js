@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 445, prot: 10, hc: 54, grasa: 21 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegana", "sin verduras", "poco especiada", "bajo en colesterol"],
-  consejo: "El nombre viene de ajo y pollo, aunque no lleva pollo: es la salsa la que se hacía para el ave. Si quieres darle más fondo, añade un huevo escalfado al final o unos tacos de bacalao.",
+  consejo: "El nombre viene de ajo y pollo, aunque no lleva pollo: es la salsa la que se hacía para el ave. Si quieres darle más fondo, añade al final unos dados de tofu firme o un puñado de garbanzos cocidos.",
   contundencia: "ligera",
   coste: "económica"
 });

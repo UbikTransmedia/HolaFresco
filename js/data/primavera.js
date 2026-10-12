@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 465, prot: 22, hc: 42, grasa: 23 },
   etiquetas: ["primavera", "creativa", "ligera", "vegana", "sin gluten", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
-  consejo: "En Francia esta ensalada se hace con lentejas verdes de Le Puy, que no se deshacen; las pardinas cocidas son la alternativa más parecida. Para llevar, guarda la vinagreta y los canónigos aparte y mézclalo todo al comer: aguanta 2 días en la nevera. Si quieres más proteína, añade un huevo mollet por persona.",
+  consejo: "En Francia esta ensalada se hace con lentejas verdes de Le Puy, que no se deshacen; las pardinas cocidas son la alternativa más parecida. Para llevar, guarda la vinagreta y los canónigos aparte y mézclalo todo al comer: aguanta 2 días en la nevera. Si quieres más proteína, añade unos dados de tofu firme dorado por persona.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

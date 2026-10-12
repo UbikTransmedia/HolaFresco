@@ -773,7 +773,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 460, prot: 16, hc: 54.5, grasa: 20 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegana", "sin gluten", "ligera", "fácil", "tupper", "ideal para llevar", "batch cooking", "otoño", "superalimentos", "poco especiada", "bajo en colesterol"],
-  consejo: "Para el tupper, pon los canónigos encima y aliña al comer. Si quieres más proteína, añade 150 g de garbanzos cocidos asados con la calabaza o un huevo duro por persona.",
+  consejo: "Para el tupper, pon los canónigos encima y aliña al comer. Si quieres más proteína, añade 150 g de garbanzos cocidos asados con la calabaza o unos dados de tofu firme dorado.",
   contundencia: "ligera",
   coste: "media",
   tupper: true

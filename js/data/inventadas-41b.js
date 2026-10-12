@@ -818,7 +818,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 542, prot: 22, hc: 69, grasa: 20 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "vegana", "sin gluten", "fácil", "tupper", "ideal para llevar", "verano", "económica", "superalimentos", "bajo en colesterol"],
-  consejo: "Sin el aguacate aguanta 3 días en la nevera y gana sabor; añade el aguacate el día que la comas. Si quieres más proteína, añade gambas cocidas o dados de queso fresco.",
+  consejo: "Sin el aguacate aguanta 3 días en la nevera y gana sabor; añade el aguacate el día que la comas. Si quieres más proteína, añade dados de tofu firme a la plancha o un puñado de pipas de calabaza tostadas.",
   contundencia: "media",
   coste: "económica",
   tupper: true

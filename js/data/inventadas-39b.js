@@ -260,7 +260,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 308, prot: 16, hc: 34, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "rápida", "batch cooking", "fácil", "detox", "poco especiada", "bajo en colesterol"],
-  consejo: "Aguanta 3 días en la nevera en un tupper hermético y se congela bien. Recalienta 3 minutos a 800 W tapada, removiendo a mitad, y añade un chorrito de agua si ha espesado. Lleva los champiñones tostados aparte. Para hacerla plato único, acompáñala con un huevo duro o una tostada de pan integral con hummus.",
+  consejo: "Aguanta 3 días en la nevera en un tupper hermético y se congela bien. Recalienta 3 minutos a 800 W tapada, removiendo a mitad, y añade un chorrito de agua si ha espesado. Lleva los champiñones tostados aparte. Para hacerla plato único, acompáñala con unos garbanzos tostados o una tostada de pan integral con hummus.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -926,7 +926,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 388, prot: 20, hc: 50, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "de cuchara", "ligera", "batch cooking", "económica", "fácil", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
-  consejo: "Aguanta 3-4 días en la nevera y se congela bien. Recalienta tapada 3 minutos a 800 W. El limón pierde fuerza con los días: lleva un gajo aparte y exprímelo justo antes de comer. Si quieres más proteína, añade al tupper un huevo duro o unos dados de queso feta.",
+  consejo: "Aguanta 3-4 días en la nevera y se congela bien. Recalienta tapada 3 minutos a 800 W. El limón pierde fuerza con los días: lleva un gajo aparte y exprímelo justo antes de comer. Si quieres más proteína, añade al tupper unos dados de tofu firme o un puñado de garbanzos tostados.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

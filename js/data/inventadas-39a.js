@@ -395,7 +395,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 350, prot: 18, hc: 38, grasa: 14 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "batch cooking", "fácil", "rápida", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
-  consejo: "Enfríala rápido (en un bol dentro de agua fría) para que conserve el color verde. Aguanta 3 días en un tupper hermético bien cerrado. Recalienta 3 minutos a 800 W removiendo a mitad, y añade las semillas de calabaza al final para que crujan. Para más proteína, acompáñala de un huevo duro.",
+  consejo: "Enfríala rápido (en un bol dentro de agua fría) para que conserve el color verde. Aguanta 3 días en un tupper hermético bien cerrado. Recalienta 3 minutos a 800 W removiendo a mitad, y añade las semillas de calabaza al final para que crujan. Para más proteína, acompáñala de garbanzos tostados o de una tostada con hummus.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

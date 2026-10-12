@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 605, prot: 21, hc: 87, grasa: 19 },
   etiquetas: ["al horno", "ideal para llevar", "económica", "vegana", "batch cooking", "poco especiada", "bajo en colesterol"],
-  consejo: "Para subir la proteína sin tocar el sabor, añade 100 g de queso feta desmenuzado o un huevo cocido por persona; con la zanahoria y la canela funciona de maravilla.",
+  consejo: "Para subir la proteína sin tocar el sabor, añade 100 g de tofu firme marinado en limón y sal, desmenuzado como un feta, o un puñado de almendras tostadas; con la zanahoria y la canela funciona de maravilla.",
   contundencia: "media",
   coste: "económica"
 });

@@ -85,7 +85,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 430, prot: 18, hc: 62, grasa: 12 },
   etiquetas: ["rápida", "vegano", "ligera", "bol", "ideal para llevar", "económica", "superalimentos", "bajo en colesterol"],
-  consejo: "Para convertirlo en plato más completo, añade un huevo mollet (pon 2 huevos en el cestillo con las verduras: con 3 min más 10 de reposo salen con la yema cremosa).",
+  consejo: "Para convertirlo en plato más completo, añade 150 g de tofu firme en dados al cestillo con las verduras: se calienta en los mismos minutos y absorbe la salsa.",
   alternativa: "Si tu súper no tiene pak choi, pon en el cestillo 200 g de brócoli en ramilletes pequeños o unas hojas de acelga tierna: se hacen en los mismos 3 min y aportan el mismo toque verde crujiente."
 });
 

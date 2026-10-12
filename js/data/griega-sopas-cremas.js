@@ -456,7 +456,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 445, prot: 8, hc: 58, grasa: 20 },
   etiquetas: ["tradicional", "de cuchara", "vegana", "ligera", "económica", "sin gluten", "detox", "poco especiada", "bajo en colesterol"],
-  consejo: "Es una sopa nistísimi, de las que se comen durante la Cuaresma ortodoxa, sin carne, pescado, lácteos ni huevo: el sabor se lo dan el aceite de oliva abundante, el tomate y el limón final. Fuera de Cuaresma, acompáñala con un taco de feta y aceitunas, o con un huevo duro, para hacerla más completa. Está aún mejor al día siguiente y aguanta 3 días en la nevera.",
+  consejo: "Es una sopa nistísimi, de las que se comen durante la Cuaresma ortodoxa, sin carne, pescado, lácteos ni huevo: el sabor se lo dan el aceite de oliva abundante, el tomate y el limón final. Fuera de Cuaresma, acompáñala con aceitunas y unos garbanzos tostados para hacerla más completa (si no necesitas que sea vegana, también con un taco de feta). Está aún mejor al día siguiente y aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -868,7 +868,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 430, prot: 11, hc: 49, grasa: 21 },
   etiquetas: ["creativa", "vegana", "ligera", "primavera", "sin gluten", "detox", "poco especiada", "bajo en colesterol"],
-  consejo: "«A la políta» quiere decir «a la manera de la Ciudad», es decir, de Constantinopla: así llamaban los griegos de Estambul a sus alcachofas guisadas en aceite con patata, zanahoria y eneldo, que llevaron a Atenas. Con alcachofas frescas, límpialas, frótalas con limón y añade 5 minutos al paso 3. Para hacerla plato único, sírvela con garbanzos tostados o con un huevo poché. Aguanta 3 días en la nevera.",
+  consejo: "«A la políta» quiere decir «a la manera de la Ciudad», es decir, de Constantinopla: así llamaban los griegos de Estambul a sus alcachofas guisadas en aceite con patata, zanahoria y eneldo, que llevaron a Atenas. Con alcachofas frescas, límpialas, frótalas con limón y añade 5 minutos al paso 3. Para hacerla plato único, sírvela con garbanzos tostados o con dados de tofu dorado. Aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
