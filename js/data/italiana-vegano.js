@@ -477,6 +477,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 35, hc: 41, grasa: 30 },
   etiquetas: ["creativa", "alta en proteína", "primavera", "poco especiada"],
   consejo: "La piccata es un plato de trattoria de escalopes de ternera; el seitán funciona de maravilla porque la harina con la que lo enharinas espesa la salsa igual que la carne. Si tu seitán viene en caldo, sécalo muy bien o no se dorará. Sin vino, usa más caldo y un chorrito extra de limón. El seitán en su salsa aguanta 3 días en la nevera.",
+  alternativa: "Si no encuentras seitán, usa 250 g de tofu firme prensado 15 min bajo peso y cortado en filetes de 1 cm; enharínalo igual y dóralo 3 min por lado, porque tarda algo más en coger costra.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -620,6 +621,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 39, hc: 75, grasa: 37 },
   etiquetas: ["creativa", "alta en proteína", "batch cooking"],
   consejo: "Hervir el tempeh unos minutos antes de usarlo es el truco para quitarle el amargor y que absorba mejor los aliños. Las semillas de hinojo y la guindilla son el aroma de la salsiccia del sur de Italia, por eso estas polpette recuerdan a las de carne. Aguantan 3 días en la nevera en su salsa y se congelan bien; también puedes servirlas con espaguetis o sobre polenta.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme bien prensado: sáltate el hervido, desmenúzalo con las manos antes de triturarlo y añade 1 cda más de pan rallado si la masa queda húmeda.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -799,6 +801,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 33, hc: 71, grasa: 19 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "sin verduras", "bajo en colesterol"],
   consejo: "La carbonara romana se hace con yema, pecorino y guanciale; aquí el tofu ahumado hace de guanciale y el tofu sedoso con levadura nutricional, de crema de yema y queso. La sal kala namak (sal negra, en tiendas de especias o herbolarios) tiene un aroma sulfuroso que recuerda al huevo: es opcional pero marca la diferencia. Como la original, se come al momento: al recalentarla la crema espesa y pierde su textura sedosa.",
+  alternativa: "Si no encuentras tofu sedoso, tritura 150 g de tofu firme con 80 ml de bebida de soja sin azúcar hasta que quede muy liso: la crema sale igual de sedosa, solo algo más densa.",
   tupper: false,
   contundencia: "media",
   coste: "media"

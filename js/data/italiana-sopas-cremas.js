@@ -102,6 +102,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 46, hc: 42, grasa: 33 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "A los milaneses los llamaban «busecconi» por lo mucho que les gustaba este plato. Como todos los guisos de callos, gana al día siguiente y se congela muy bien. Si tus callos son crudos, cuécelos antes 2 horas en agua con sal, laurel y media cebolla. En Milán se usan las alubias grandes llamadas «de Spagna»: los judiones cocidos son un buen sustituto.",
+  alternativa: "Con olla exprés, tras añadir el caldo cierra y cuenta 30-35 min desde que suba la válvula, en lugar de 1 h 45 min; deja que baje sola, abre, añade las alubias y cuece 10 min destapado.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -621,6 +622,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 660, prot: 46, hc: 50, grasa: 28 },
   etiquetas: ["creativa", "alta en proteína", "otoño", "invierno", "batch cooking", "poco especiada"],
   consejo: "El marsala es el vino generoso de Sicilia; los escalopines y el pollo al marsala con setas son un clásico de las trattorias de toda Italia y de las italoamericanas. Un oloroso o un amontillado español funcionan muy bien en su lugar. Si tu farro no es perlado, déjalo en remojo la noche antes o cuécelo 40 minutos. En el tupper el farro sigue absorbiendo caldo: añade un chorrito al recalentar.",
+  alternativa: "Si no encuentras farro perlado, usa 100 g de trigo tierno precocido tipo Ebly y añádelo cuando el caldo con el pollo lleve 10 min, porque se hace en 10-12: queda con la misma mordida.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -707,6 +709,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 30, hc: 58, grasa: 38 },
   etiquetas: ["creativa", "rápida", "invierno", "para niños"],
   consejo: "Es una sopa de las trattorias italoamericanas, que juegan con los sabores de la salchicha con hinojo del sur de Italia. Sírvela recién hecha: los gnocchi absorben el caldo y se ablandan si esperan. Para aligerarla, cambia la nata por leche y añade un puñado más de espinacas.",
+  alternativa: "Si no encuentras bulbo de hinojo, rehoga 1 rama de apio picada en su lugar y sube las semillas de hinojo a 1 cdta; para terminar, unas hojas de perejil o eneldo en vez de las barbas.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"

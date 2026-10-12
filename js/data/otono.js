@@ -50,6 +50,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 26, hc: 77, grasa: 26 },
   etiquetas: ["tradicional", "otoño", "de cuchara", "sin gluten", "batch cooking", "poco especiada"],
   consejo: "El ash-e anar es la sopa de otoño de Azerbaiyán iraní y Teherán, cuando llegan las granadas. La melaza de granada (rob-e anar) se vende en tiendas de productos de Oriente Medio; si no la encuentras, reduce 300 ml de zumo de granada con una cucharada de azúcar hasta que quede como un sirope. Se congela muy bien sin la cebolla frita, que conviene hacer al momento.",
+  alternativa: "Si no encuentras guisantes partidos amarillos, usa los mismos 60 g de lentejas rojas, que tampoco necesitan remojo: cuécelas solo 15 min antes de añadir el arroz, porque se deshacen antes.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -93,6 +94,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 28, hc: 60, grasa: 32 },
   etiquetas: ["creativa", "otoño", "rápida", "económica", "sin gluten", "superalimentos", "poco especiada"],
   consejo: "Las acelgas de otoño tienen las pencas más tiernas y anchas del año: no las tires, son la parte más sabrosa. Si quieres el plato sin huevo, sustitúyelo por unas lascas de queso curado o deja la legumbre sola como guarnición de un pescado a la plancha. Sin el huevo, aguanta 2 días en la nevera.",
+  alternativa: "Si los piñones están por las nubes, tuesta 25 g de almendra laminada igual, 2-3 min en seco: aporta el mismo crujiente dulce junto a las pasas.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -137,6 +139,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 45, hc: 104, grasa: 27 },
   etiquetas: ["tradicional", "otoño", "invierno", "de cuchara", "económica", "batch cooking", "poco especiada"],
   consejo: "En los Apalaches las soup beans se ponían al fuego por la mañana y se comían por la noche con pan de maíz sin azúcar, como aquí. Las alubias aguantan 4 días en la nevera y se congelan bien; el pan de maíz está mejor recién hecho, pero al día siguiente puedes abrirlo y tostarlo en la sartén con un poco de mantequilla.",
+  alternativa: "Si no has remojado las alubias, cuece primero el codillo con la cebolla y el laurel en 1 litro de agua 1 h 15 min y añade 400 g de alubias pintas cocidas de bote, enjuagadas, los últimos 20 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -181,6 +184,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 31, hc: 40, grasa: 34 },
   etiquetas: ["creativa", "otoño", "rápida", "sin gluten", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Septiembre es el mes en que se cruzan los últimos higos y la caballa vuelve a estar gorda y barata. Pide en la pescadería que te la abran en filetes y te quiten la espina central. Si no hay higos, sirve la caballa igual con uvas asadas o con gajos de caqui firme crudo.",
+  alternativa: "Si no encuentras hinojo, corta 3 ramas de apio tierno en láminas finas al bies (también 5 min en agua fría) y termina con sus hojas: la ensalada pierde el anisado, pero mantiene el crujiente.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -267,6 +271,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 660, prot: 36, hc: 83, grasa: 20 },
   etiquetas: ["creativa", "otoño", "invierno", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El buri daikon japonés se hace con pez limón (seriola), que en España se encuentra en otoño en algunas pescaderías: si lo ves, úsalo en lugar del salmón con el mismo método. El guiso está aún mejor al día siguiente, cuando el daikon ha absorbido más caldo; recaliéntalo a fuego suave.",
+  alternativa: "Si no encuentras daikon, usa 400 g de nabo blanco y precuécelo solo 10 min, porque se ablanda antes. Sin mirin, cambia sus 3 cda por vino blanco y sube el azúcar a 2 cda.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -624,6 +629,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 17, hc: 96, grasa: 17 },
   etiquetas: ["creativa", "otoño", "vegana", "económica", "sin lácteos", "bajo en colesterol"],
   consejo: "El amchur (mango verde seco en polvo) y el fenogreco se encuentran en tiendas de productos indios; el amchur se sustituye bien por zumo de limón. La asafétida comercial suele llevar harina de trigo: omítela si necesitas el plato sin gluten. Aguanta 3 días en la nevera y está aún mejor recalentado.",
+  alternativa: "Si no encuentras fenogreco ni asafétida, prescinde de ellos y añade 1 diente de ajo picado con el jengibre, que aporta el aroma de la asafétida; solo perderás el leve amargor del fenogreco.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -714,6 +720,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 650, prot: 42, hc: 46, grasa: 33 },
   etiquetas: ["creativa", "otoño", "alta en proteína", "sin gluten", "superalimentos", "poco especiada"],
   consejo: "Usa caqui de pulpa firme (persimon o rojo brillante), que se come como una manzana; el caqui blando tradicional se deshace en la ensalada. Si no tienes kale, sirve con espinacas baby sin masajear. El kale aliñado aguanta un día en la nevera, pero el caqui y las pecanas añádelos al momento.",
+  alternativa: "Si no encuentras nueces pecanas, usa nueces normales tostadas igual; y si no tienes sirope de arce, la misma cucharadita de miel funciona en la vinagreta sin que se note.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -894,6 +901,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 15, hc: 59, grasa: 19 },
   etiquetas: ["tradicional", "otoño", "de cuchara", "ligera", "poco especiada"],
   consejo: "En Polonia la zupa grzybowa se hace con las setas secadas en septiembre, cuando media familia sale al bosque a buscarlas, y es también uno de los platos de la cena de Nochebuena. Puedes sustituir los tallarines por patata cocida en dados. Sin la pasta, la sopa aguanta 3 días en la nevera.",
+  alternativa: "Si no encuentras chirivía, añade otra media zanahoria y 1 rama de apio en dados: el caldo pierde un poco de dulzor, pero la sopa apenas cambia.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"

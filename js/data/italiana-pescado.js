@@ -532,6 +532,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 35, hc: 42, grasa: 28 },
   etiquetas: ["creativa", "rápida", "para invitados", "verano", "alta en proteína", "poco especiada"],
   consejo: "Para comer pescado crudo con seguridad debe haberse congelado al menos 5 días a -20 °C (un congelador doméstico de tres estrellas o más), lo que elimina el riesgo de anisakis: congélalo tú o cómpralo ya ultracongelado. El crudo es la versión marinera del carpaccio y se hace igual con dorada, corvina o vieiras. Puedes preparar el aceite de albahaca y las guarniciones con antelación, pero no aliñes el pescado hasta el último momento.",
+  alternativa: "Si no encuentras hinojo, lamina finísima 1 rama de apio tierno (con mandolina, si tienes) y añade unas hojas de eneldo: conserva el crujiente fresco y un leve punto anisado junto a los cítricos.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -577,6 +578,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 40, hc: 41, grasa: 20 },
   etiquetas: ["creativa", "para niños", "alta en proteína", "verano", "poco especiada"],
   consejo: "El fritto misto de la costa italiana se fríe en aceite abundante con solo harina o sémola; en la airfryer el panko es el que da el crujiente, porque el aire caliente no llega a tostar la harina sola. No llenes la cesta: si las piezas se tocan, se cuecen al vapor en vez de dorarse. Prueba a añadir unas hojas de salvia o rodajas finas de limón a la cesta: se vuelven crujientes y se comen.",
+  alternativa: "Si no encuentras panko, usa 60 g de pan rallado grueso, mejor de pan duro rallado en casa, que cruje casi igual; sin airfryer, hornéalo sobre rejilla a 220 °C 12-15 min, girándolo a mitad.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -621,6 +623,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 33, hc: 52, grasa: 35 },
   etiquetas: ["creativa", "ideal para llevar", "batch cooking", "otoño", "invierno", "superalimentos", "poco especiada"],
   consejo: "El radicchio es la achicoria roja del Véneto: su amargor se equilibra con la naranja y la miel. Si no lo encuentras, usa endibia roja o escarola. El farro es un trigo antiguo, pariente de la espelta, que en Italia se come como el arroz; también vale la cebada perlada. Para llevar, guarda la vinagreta aparte y móntalo al momento: aguanta 2 días en la nevera.",
+  alternativa: "Si no encuentras hinojo, lamina fino 1 rama de apio tierno, que da el mismo contrapunto crujiente; y si no hay farro ni cebada, usa 100 g de trigo tierno tipo Ebly, cocido solo 10-12 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"

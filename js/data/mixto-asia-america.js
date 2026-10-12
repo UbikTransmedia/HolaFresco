@@ -133,6 +133,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 32, hc: 91, grasa: 13 },
   etiquetas: ["tradicional", "batch cooking", "sin lácteos", "otoño", "invierno", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Gomoku mame significa «soja de cinco cosas» y es un clásico de la comida casera y de las cajas de Año Nuevo. Si encuentras konjac, raíz de loto o bardana en una tienda asiática, añade 50 g de cualquiera de ellas en dados con la zanahoria. Para ahorrar tiempo, cuece la soja remojada 20 minutos en olla exprés. Está aún mejor al día siguiente y aguanta 4 días en la nevera: es un acompañamiento perfecto para los tuppers.",
+  alternativa: "Si no encuentras mirin, sustitúyelo por 2 cda de jerez fino o de vino blanco y sube el azúcar a 1,5 cda: el glaseado de la soja queda igual de brillante y dulce.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -602,6 +603,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 380, prot: 32, hc: 25, grasa: 16 },
   etiquetas: ["tradicional", "ligera", "sin gluten", "alta en proteína", "verano", "poco especiada"],
   consejo: "El aliño Green Goddess se inventó en el Palace Hotel de San Francisco en los años veinte, y se servía sobre marisco. La versión clásica lleva mayonesa; con yogur griego y aguacate pesa la mitad y queda igual de verde. El aliño aguanta 2 días en la nevera con film pegado a la superficie para que no se oscurezca; la ensalada, móntala al momento.",
+  alternativa: "Si no encuentras estragón fresco, usa 0,5 cdta de estragón seco, hidratado 5 min en el zumo de limón antes de triturar, o unas hojas de albahaca: el aliño conserva su punto anisado.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"

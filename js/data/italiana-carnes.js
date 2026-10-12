@@ -55,6 +55,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 46, hc: 60, grasa: 25 },
   etiquetas: ["tradicional", "invierno", "batch cooking", "para invitados", "sin gluten", "poco especiada"],
   consejo: "El brasato es el gran guiso de fiesta del Piamonte y allí se hace con Barolo, su vino más famoso, pero cualquier tinto con cuerpo y poca madera funciona. Mejora de un día para otro: guarda la carne entera dentro de su salsa hasta 3 días en la nevera y córtala en frío, que salen lonchas más limpias; luego calienta las lonchas en la salsa a fuego suave.",
+  alternativa: "Si tienes prisa, la olla exprés lo deja en menos de 1 h: tras evaporar el alcohol, cierra y cuenta 50-55 min desde que suba la válvula, deja que baje sola y, si la salsa queda líquida, redúcela destapada antes de triturarla.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -629,6 +630,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 51, hc: 20, grasa: 29 },
   etiquetas: ["creativa", "alta en proteína", "batch cooking", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "El polpettone es el pastel de carne de las casas italianas, que normalmente se hace al horno. En el microondas queda muy jugoso porque se cuece en su propio vapor; si tu microondas tiene grill, dale 5 minutos al final para que se dore. Frío y en lonchas es un buen relleno de bocadillo, y aguanta 3 días en la nevera.",
+  alternativa: "Sin microondas, hornéalo en una fuente a 190 °C 35-40 min, con el tomate alrededor y tapado con papel de aluminio los primeros 20 min, hasta que el centro llegue a 75 °C; además quedará más dorado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -804,6 +806,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 46, hc: 34, grasa: 35 },
   etiquetas: ["creativa", "alta en proteína", "invierno", "para invitados", "poco especiada"],
   consejo: "Pistacho, naranja, hinojo y aceitunas son sabores de Sicilia, donde se hace una costra parecida para el pez espada. Usa pistachos pelados y sin sal, y no los tritures hasta hacerlos polvo: los trocitos son los que crujen. La ensalada aguanta un día en la nevera; el pollo, mejor recién hecho.",
+  alternativa: "Si no encuentras bulbo de hinojo, lamina muy finas 2 ramas de apio tierno con sus hojas: dan el mismo crujiente fresco a la ensalada de naranja, aunque sin el toque anisado.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -847,6 +850,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 44, hc: 52, grasa: 43 },
   etiquetas: ["creativa", "rápida", "para niños", "una sola sartén", "poco especiada"],
   consejo: "La mezcla de ternera y cerdo es la de las polpette italianas: la ternera aporta sabor y el cerdo, jugosidad. Usa mozzarella de bloque para pizza mejor que la fresca en bola, que suelta agua y hace reventar el relleno. Para los niños, cambia el pesto rojo por salsa de tomate con orégano.",
+  alternativa: "Si no encuentras pesto rojo, tritura 4 tomates secos en aceite con 1 cda de su aceite y 10 g de parmesano rallado: sale una pasta igual de intensa para untar el pan.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"

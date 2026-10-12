@@ -143,6 +143,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 34, hc: 16, grasa: 56 },
   etiquetas: ["keto", "tradicional", "picante", "sin gluten", "alta en proteína", "verano"],
   consejo: "El Adana auténtico, de la ciudad turca del mismo nombre, se hace con cordero y grasa de cola picados a cuchillo y solo lleva pimiento, sal y chile: sin huevo ni pan, por eso hay que amasarlo tanto. Pide paleta picada con su grasa; la pierna magra da kebabs secos. La melaza de granada es intensa y algo dulce: con una cucharadita basta para todo el ezme.",
+  alternativa: "Sin melaza de granada ni zumaque, aliña el ezme con 1 cdta más de zumo de limón y unas gotas de vinagre balsámico, y espolvorea al servir ralladura de limón: mantiene el punto ácido sin añadir azúcar.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -287,6 +288,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 756, prot: 49, hc: 14, grasa: 56 },
   etiquetas: ["keto", "tradicional", "picante", "sin gluten", "batch cooking", "invierno", "de cuchara"],
   consejo: "En Texas el chili «de verdad» no lleva alubias ni tomate: es carne en salsa de chiles secos, y los puristas texanos lo defienden así desde hace más de un siglo. Allí lo espesan al final con un poco de harina de maíz nixtamalizado; aquí la salsa reduce sola. Los chiles secos mexicanos se encuentran en tiendas latinas y online; si no, usa 2 ñoras y 1 cucharadita de pimentón picante. Está aún mejor al día siguiente y se congela perfecto.",
+  alternativa: "Para acortar, usa olla exprés: tras añadir el caldo, cierra y cuenta 35-40 min desde que suba la válvula en lugar de casi 2 h; deja que baje sola y, si la salsa queda líquida, redúcela destapada 10 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -467,6 +469,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 666, prot: 31, hc: 5, grasa: 58 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "para invitados", "para picar"],
   consejo: "El baccalà mantecato es el gran bocado de los bacari venecianos, donde se sirve sobre polenta asada. Allí se hace con stoccafisso (bacalao seco al aire) y se bate a mano largo rato. El truco es incorporar el aceite muy despacio y con el pescado aún caliente. Aguanta 3 días en la nevera: sácalo media hora antes para que recupere la textura.",
+  alternativa: "Si no encuentras radicchio, usa 4 endibias (rojas, si las hay) partidas a lo largo y márcalas igual 1-2 min por lado: el amargor tostado que equilibra el bacalao es casi el mismo.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -553,6 +556,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 43, hc: 8, grasa: 59 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "rápida", "verano", "alta en proteína"],
   consejo: "La ventresca es el vientre del atún, la parte más grasa y cotizada de las almadrabas de Cádiz, que se calan de abril a junio. Como queda poco hecha por dentro, cómprala ultracongelada o congélala tú al menos 5 días a -20 °C antes de cocinarla para eliminar el riesgo de anisakis, y descongélala en la nevera; si cocinas para embarazadas, niños pequeños o personas inmunodeprimidas, hazla 3 minutos por lado. La pipirrana de Jaén se liga con yema cocida y ajo, sin cebolla ni vinagre.",
+  alternativa: "Si no encuentras ventresca fresca, usa lomo de atún o de bonito en filetes de 2 cm: al ser más magro, márcalo solo 45 s por lado y riégalo con un buen hilo de aceite al servir.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"
@@ -900,6 +904,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 35, hc: 11, grasa: 47 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "de cuchara", "invierno", "batch cooking", "fin de semana"],
   consejo: "El galbitang es la sopa de las bodas y de los días de frío en Corea; allí se sirve con un cuenco de arroz al lado y a menudo con fideos de boniato dentro, que aquí se omiten. El remojo y el primer hervor que se tira son la clave de un caldo transparente. Sale aún mejor hecho la víspera: al enfriarse, la grasa sube y se retira en bloque (quita solo una parte para que siga siendo keto). Aguanta 3 días en la nevera.",
+  alternativa: "Si no encuentras daikon, usa el mismo peso de nabo blanco, que en el caldo queda casi igual (sácalo a los 30-35 min). Con olla exprés, cuece las costillas 40 min a presión y luego el nabo 12 min sin tapa.",
   tupper: true,
   contundencia: "media",
   coste: "media"

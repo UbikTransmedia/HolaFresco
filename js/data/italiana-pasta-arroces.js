@@ -185,6 +185,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 50, hc: 74, grasa: 23 },
   etiquetas: ["tradicional", "invierno", "otoño", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "El ragú de jabalí es el gran plato de caza de la Maremma y del Chianti, y casi siempre se sirve con pappardelle, cintas anchas que sujetan bien la carne. En España el jabalí se encuentra en carnicerías de caza de octubre a febrero; si lo cambias por carrillada o paleta de cerdo, basta con 1 hora de marinada. Haz el doble: el ragú mejora al día siguiente y se congela hasta 3 meses.",
+  alternativa: "En olla exprés el ragú se hace en 45 min: tras añadir el tomate y solo 150 ml de caldo, cierra y cuenta desde que suba la válvula; deja que baje sola, deshilacha la carne y reduce destapado 10 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -276,6 +277,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 34, hc: 62, grasa: 20 },
   etiquetas: ["tradicional", "invierno", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Pese al nombre, la genovese es napolitana y no tiene nada que ver con el pesto: la tradición la atribuye a los cocineros genoveses que tenían fondas en el puerto de Nápoles. En las casas se guisa un trozo grande de carne que luego se come de segundo plato; aquí va desmenuzada en la salsa para que sea plato único. Se congela muy bien, así que merece la pena hacer el doble.",
+  alternativa: "Si no encuentras paccheri ni ziti, usa los mismos 160 g de rigatoni o de macarrones gruesos, que también recogen el ragú de cebolla por dentro; cuécelos igual, 2 min menos, y termínalos en la cazuela.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -612,6 +614,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 17, hc: 61, grasa: 15 },
   etiquetas: ["creativa", "vegana", "económica", "ligera", "ideal para llevar", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El salmoriglio es el aliño siciliano y calabrés de limón, orégano, ajo y aceite con el que se riega el pez espada a la brasa; aquí despierta un bol de cereal y legumbre. Las lentejas pequeñas de Castelluccio o de Ustica son las más italianas, pero las pardinas se comportan igual. Aguanta 3 días en la nevera: guarda el salmoriglio aparte y añádelo al servir, con un puñado de rúcula si quieres.",
+  alternativa: "Sin airfryer, asa la berenjena y la cebolla en el horno a 220 °C 25 min, con los cherry los últimos 8. Si no hay cebada perlada, cuece las lentejas solas y añade 70 g de trigo tierno tipo Ebly en sus últimos 12 min.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

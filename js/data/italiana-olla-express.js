@@ -91,6 +91,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 25, hc: 68, grasa: 35 },
   etiquetas: ["tradicional", "sin gluten", "invierno", "una sola olla", "sin verduras", "poco especiada"],
   consejo: "La luganega es la salchicha fresca lombarda, larga y fina, aromatizada solo con sal, pimienta y a veces parmesano; aquí funciona cualquier salchicha fresca de cerdo de buena calidad sin pimentón ni ajo fuerte. En algunas casas de Monza se moja con vino tinto en lugar de blanco. El risotto no aguanta recalentado: si sobra, forma bolitas, rellénalas de mozzarella y hornéalas como arancini.",
+  alternativa: "Si no tienes olla exprés, hazlo como un risotto clásico en cazuela ancha: tras el vino, añade el caldo caliente con el azafrán cazo a cazo, removiendo, 17-18 min; necesitarás unos 650 ml en lugar de 400.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -138,6 +139,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 27, hc: 88, grasa: 27 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "En Friuli se hace con alubias borlotti, rosadas con vetas granates, que quedan muy cremosas; las pintas son el mejor sustituto. Para una versión vegetariana quita la panceta y añade una corteza de parmesano a la cocción. Espesa mucho en la nevera (aguanta 3 días): al recalentar, alárgala con agua caliente.",
+  alternativa: "En cazuela normal, tapada y a fuego suave, la sopa necesita 1 h 30 min y 300 ml más de agua; echa la cebada a mitad de cocción para que quede entera y las alubias, cremosas.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -231,6 +233,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 67, hc: 57, grasa: 29 },
   etiquetas: ["tradicional", "alta en proteína", "invierno", "de cuchara", "para invitados", "poco especiada"],
   consejo: "En Emilia el caldo se hace con capón y ternera, y la carne cocida («il lesso») se sirve después con mostarda o salsa verde. El caldo que sobra se congela perfectamente en raciones. Los tortellini, siempre al momento: en la nevera absorben el caldo y se deshacen. Si sobra carne, pícala y conviértela en albóndigas al día siguiente.",
+  alternativa: "Sin olla a presión, haz el caldo en una cazuela grande con 2 litros de agua, tapada a medias y a fuego muy suave, 2 h 30 min, hasta que el morcillo esté tierno: sale igual de limpio, solo tarda más.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -270,6 +273,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 45, hc: 35, grasa: 22.5 },
   etiquetas: ["tradicional", "alta en proteína", "invierno", "batch cooking", "sin lácteos", "sin verduras"],
   consejo: "Se cuenta que lo cocinaban los obreros de los hornos de tejas de Impruneta, cerca de Florencia, dejando la olla de barro en la boca del horno toda la noche, y que Brunelleschi lo daba a los albañiles de la cúpula de la catedral. Usa pimienta en grano recién machacada, nunca molida de bote: es todo el sabor del plato. Mejora de un día para otro y se congela bien.",
+  alternativa: "También puedes guisarlo como en Impruneta: cazuela de barro o de hierro tapada, a fuego mínimo (o en el horno a 150 °C) unas 3 h, añadiendo un poco de agua si el vino baja de la mitad de la carne.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -319,6 +323,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 34, hc: 27, grasa: 49 },
   etiquetas: ["tradicional", "invierno", "para invitados", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "Los vaccinari eran los matarifes del barrio romano del Testaccio, a los que se pagaba en parte con el «quinto quarto»: la casquería y el rabo. El cacao y las pasas son el toque agridulce de la receta antigua; puedes prescindir del cacao, pero no del apio. Hazlo la víspera: en frío la grasa sube y se retira entera, y el guiso gana sabor. Con la salsa que sobre se aliñan unos rigatoni, como hacen en Roma.",
+  alternativa: "Sin olla exprés, el rabo necesita 3 h-3 h 30 min en cazuela tapada a fuego suave, con 300 ml más de agua, hasta que la carne se separe del hueso; después sigue igual con el apio, las pasas y el cacao.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -457,6 +462,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 48, hc: 66, grasa: 30.5 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "alta en proteína", "poco especiada"],
   consejo: "En Cerdeña se hace con oveja adulta, que necesita casi tres horas de fuego; con paletilla de cordero bastan 30 minutos de presión. Si encuentras carne de oveja o de borrego, alarga la primera presión a 40 min. El nombre, «oveja con abrigo», viene de que la carne se sirve envuelta en sus verduras. El caldo que sobre sirve para cocer pasta pequeña al día siguiente.",
+  alternativa: "Si lo haces en cazuela, cuece el cordero tapado a fuego suave 1 h 15 min con 1,5 litros de agua (se evapora más) y después las patatas 20-25 min; con oveja, cuenta casi 3 h.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -687,6 +693,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 30, hc: 63, grasa: 30 },
   etiquetas: ["creativa", "económica", "picante", "sin lácteos", "invierno"],
   consejo: "La puttanesca es la salsa napolitana de despensa: tomate, aceitunas, alcaparras y anchoa. Para una versión vegana, quita huevo y anchoas y añade otra cucharada de alcaparras. Los garbanzos en su salsa aguantan 3 días en la nevera: escalfa el huevo al recalentar cada ración en una sartén pequeña tapada.",
+  alternativa: "Si no has remojado los garbanzos, usa 400 g de garbanzos cocidos de bote, enjuagados, y hazlo en una cazuela normal: con solo 150 ml de agua bastan 15 min de hervor suave para que tomen la salsa.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -781,6 +788,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 27, hc: 24, grasa: 49 },
   etiquetas: ["creativa", "fin de semana", "para invitados", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "La porchetta auténtica es un cerdo entero deshuesado y asado a la leña, típico de Ariccia, en los Castelli Romani; esta versión conserva su aliño de hinojo, ajo, romero y pimienta. Las sobras, frías y en lonchas finas, hacen el mejor bocadillo con pan crujiente y rúcula. Para recuperar el crujiente, 4 min de airfryer a 200 °C.",
+  alternativa: "Sin airfryer, dora el rollo en el horno con grill a 230 °C, sobre una rejilla con bandeja debajo, 20-25 min, girándolo a mitad, hasta que la piel se ampolle y suene hueca.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -921,6 +929,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 30.5, hc: 42, grasa: 33 },
   etiquetas: ["creativa", "verano", "para niños", "batch cooking", "económica", "verduras escondidas", "poco especiada"],
   consejo: "El sformato es el flan salado de verdura de Toscana, Emilia y el Piamonte, que tradicionalmente se cuaja con bechamel al baño maría en el horno; esta versión con ricotta es más ligera y la olla exprés hace de baño maría en 10 minutos. Escurrir bien el calabacín es lo que evita que quede aguado. Puedes hacerlo con espinacas, guisantes o alcachofas, o en un solo molde de 750 ml con unos 18 min de presión. Aguantan 2 días en la nevera: recaliéntalos 1 min en el microondas o cómelos templados.",
+  alternativa: "Sin olla, cuaja las flaneras tapadas al baño maría en el horno a 170 °C, con agua caliente hasta media altura, 35-40 min, hasta que un palillo salga limpio.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

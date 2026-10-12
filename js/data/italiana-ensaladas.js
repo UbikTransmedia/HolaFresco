@@ -94,6 +94,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 40, hc: 42, grasa: 35 },
   etiquetas: ["tradicional", "sin lácteos", "alta en proteína", "ideal para llevar", "batch cooking", "invierno", "poco especiada"],
   consejo: "La receta la recogió Bartolomeo Stefani, cocinero de los Gonzaga en Mantua, en el siglo XVII, y todavía se prepara en la zona para las fiestas. Está aún mejor al día siguiente: guárdala sin los canónigos hasta 3 días en la nevera. Con el caldo que sobra tienes la base de un risotto o de una sopa.",
+  alternativa: "Fuera de Navidad cuesta encontrar piel de naranja escarchada: corta en daditos la piel de media naranja, sin nada de parte blanca, y cuécela 5 min en 2 cda de agua con 1 cda de azúcar, hasta que brille.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -324,6 +325,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 532, prot: 25, hc: 45, grasa: 28 },
   etiquetas: ["tradicional", "verano", "rápida", "sin gluten", "sin lácteos", "ideal para llevar", "poco especiada"],
   consejo: "Pantelleria, entre Sicilia y Túnez, es famosa por sus alcaparras; esta ensalada de pescadores se toma templada y cada familia le pone su toque: pepino, huevo duro, caballa en aceite o un poco de queso curado rallado. Aguanta 2 días en la nevera sin el pescado; añádelo al servir.",
+  alternativa: "Sin microondas, cuece las patatas enteras y con piel en agua fría con sal, 20-25 min desde que hierva, hasta que un cuchillo entre sin resistencia; el resto de la receta no cambia.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -506,6 +508,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 695, prot: 19, hc: 76, grasa: 35 },
   etiquetas: ["creativa", "vegetariana", "otoño", "al horno", "ideal para llevar", "poco especiada"],
   consejo: "La combinación de radicchio, gorgonzola y uva es muy del Véneto y la Lombardía en época de vendimia. Puedes cambiar la cebada por farro o espelta y las uvas por pera asada. Para llevar, guarda el queso y la rúcula aparte y monta el bol al momento; aguanta 3 días en la nevera.",
+  alternativa: "Si no encuentras cebada perlada, usa 120 g de trigo tierno precocido (tipo Ebly), que está en casi todos los súper: se cuece en 10-12 min mientras se asan las uvas y tiene la misma mordida.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -812,6 +815,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 568, prot: 43, hc: 43, grasa: 25 },
   etiquetas: ["creativa", "alta en proteína", "al horno", "sin lácteos", "otoño", "invierno", "poco especiada"],
   consejo: "La porchetta es el cerdo deshuesado, relleno de hinojo silvestre, ajo, romero y pimienta y asado durante horas que se vende en los mercados de Ariccia, en el Lacio, y de Umbría. Aquí sus aromas van sobre un solomillo, que se asa en un cuarto de hora. El hinojo crudo cortado muy fino es el contrapunto fresco: si tienes mandolina, úsala.",
+  alternativa: "Si no encuentras bulbo de hinojo, corta en láminas finas al bies 3 ramas de apio tierno y guarda sus hojas para el final: como el adobo ya lleva semillas de hinojo, el aroma anisado se mantiene.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -856,6 +860,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 722, prot: 31, hc: 57, grasa: 41 },
   etiquetas: ["creativa", "ideal para llevar", "batch cooking", "verano", "poco especiada"],
   consejo: "La mortadela de Bolonia suele llevar pistacho dentro, y el pesto de pistacho de Bronte, en Sicilia, se ha convertido en su compañero de moda en bocadillos y pizzas. Para llevar, guarda la rúcula y la mozzarella aparte; el farro con pesto aguanta 3 días en la nevera. Para una versión vegetariana, cambia la mortadela por garbanzos asados.",
+  alternativa: "Si no hay farro ni espelta perlada en tu súper, el trigo tierno precocido tipo Ebly (140 g) funciona igual de bien: cuécelo solo 10-12 min y mézclalo con el pesto aún templado.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

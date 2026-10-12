@@ -271,6 +271,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 830, prot: 42, hc: 86, grasa: 33 },
   etiquetas: ["tradicional", "de cuchara", "primavera", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "Se dice que lleva siete legumbres, siete verduras, siete pastas y siete horas de fuego: las virtudes de las amas de casa de Teramo, que vaciaban la despensa de invierno el 1 de mayo. Esta versión para dos simplifica, pero conserva la idea: legumbres secas cocidas con el cerdo, verdura nueva y pasta variada. Si encuentras almortas o habas secas, añádelas con las alubias. Al día siguiente está aún mejor; recaliéntala con un poco de agua.",
+  alternativa: "Si no has remojado nada, cuece la costilla 1 h en 1,2 litros de agua, con las lentejas en los últimos 35 min, y añade 125 g de garbanzos y 125 g de alubias pintas cocidas de bote, enjuagados, junto con el sofrito.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -358,6 +359,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 45, hc: 59, grasa: 37 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "En Cerdeña se cocina para el jueves lardero, con habas secas, cortezas, costillas, salchicha curada y el hinojo silvestre que crece en los caminos; el bulbo de hinojo con sus hojas y unas semillas lo imitan bien. Las habas secas peladas se encuentran en tiendas a granel y de alimentación italiana o magrebí; si no las encuentras, usa garbanzos secos con la misma cocción. Como todos los potajes, gana al día siguiente.",
+  alternativa: "Si no encuentras bulbo de hinojo, rehoga en su lugar 2 ramas de apio en dados y sube las semillas de hinojo a 1,5 cdta; al final, perejil picado en vez de sus hojitas.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -496,6 +498,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 27, hc: 46, grasa: 26 },
   etiquetas: ["creativa", "sin gluten", "primavera", "ideal para llevar", "poco especiada"],
   consejo: "Las alcachofas a la romana se guisan enteras con mentuccia (una menta silvestre), ajo y perejil; aquí van en cuartos para que estén listas mientras se cuecen las lentejas. Frótate las manos y el cuchillo con limón para que no se ennegrezcan. Fuera de temporada, usa corazones de alcachofa congelados y reduce la cocción a 8 minutos. Para llevar aguanta 2 días: añade la rúcula y el queso al servir.",
+  alternativa: "Si no encuentras lentejas beluga, usa las mismas 140 g de pardinas, que también aguantan enteras: cuécelas 20-25 min y escúrrelas en cuanto estén tiernas; la ensalada solo pierde el color negro.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -761,6 +764,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 40, hc: 58, grasa: 35 },
   etiquetas: ["creativa", "alta en proteína", "verano", "superalimentos", "poco especiada"],
   consejo: "La pasta con le sarde es el gran plato de Palermo: sardinas, hinojo silvestre, pasas, piñones y azafrán, con pan rallado tostado en lugar de queso. Pide en la pescadería que te limpien y abran las sardinas en filetes; de junio a septiembre son baratas y están en su mejor momento. Fuera de temporada, usa sardinas en aceite de oliva escurridas y añádelas al final, sin marcarlas.",
+  alternativa: "Sin bulbo de hinojo, sofríe 2 ramas de apio en dados con la cebolla y añade 0,5 cdta de semillas de hinojo machacadas, que recuperan el aroma de la pasta con le sarde; termina con perejil en lugar de sus hojas.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -850,6 +854,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 31, hc: 62, grasa: 21 },
   etiquetas: ["creativa", "de cuchara", "invierno", "económica", "batch cooking", "poco especiada"],
   consejo: "Los guisantes partidos (secos, pelados y partidos por la mitad) se cuecen sin remojo y se deshacen solos: son perfectos para cremas. Se venden junto a las legumbres o a granel. Congela la crema en raciones; la ricotta, la menta y el jamón crujiente se preparan al servir. Si encuentras prosciutto crudo italiano, úsalo igual.",
+  alternativa: "Si no encuentras guisantes partidos, usa 450 g de guisantes congelados y solo 600 ml de caldo: cuece la patata 10 min, añade los guisantes y dales 8 min más; la crema sale igual de lisa, algo más dulce y más verde.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

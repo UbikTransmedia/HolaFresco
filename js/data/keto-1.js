@@ -239,6 +239,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 900, prot: 52, hc: 6, grasa: 75 },
   etiquetas: ["keto", "tradicional", "sin gluten", "picante", "al horno", "para compartir"],
   consejo: "Las alitas búfalo nacieron en un bar de Buffalo (Nueva York) en los años 60 con una salsa de solo dos ingredientes: salsa picante de cayena y mantequilla. El secreto para que queden crujientes sin freír es que la piel esté muy seca antes de hornearla. Si prefieres el dip clásico de queso azul, cambia el eneldo y el perejil por 40 g de queso azul desmenuzado.",
+  alternativa: "Si no encuentras salsa picante tipo Luisiana, mezcla 45 ml de vinagre de vino blanco con 2 cdta de Tabasco, 1 cdta de pimentón dulce y una pizca de ajo en polvo: queda igual de ácida, roja y picante.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -983,6 +984,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 21, hc: 12, grasa: 56 },
   etiquetas: ["keto", "creativa", "sin gluten", "poco especiada", "al horno", "para invitados"],
   consejo: "Los piquillos rellenos son un clásico navarro, normalmente de bacalao o carne con bechamel. Este relleno sin harina se sostiene gracias al queso de cabra, que se funde y liga las setas. Elige piquillos de Lodosa asados a la leña: son más carnosos y se rompen menos. Se pueden dejar rellenos el día antes y aguantan 2 días en la nevera.",
+  alternativa: "Si los piñones se te van de precio, usa 20 g de nueces picadas gruesas y tostadas 2 min en seco: aportan el mismo crujiente al relleno y encajan igual de bien en la dieta keto.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1075,6 +1077,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 805, prot: 42, hc: 13, grasa: 65 },
   etiquetas: ["keto", "creativa", "sin gluten", "poco especiada"],
   consejo: "El za'atar es una mezcla levantina de tomillo silvestre, zumaque y sésamo que se vende ya preparada; comprueba que no lleve harina ni azúcar. Empezar el pollo en la sartén fría funde la grasa de la piel poco a poco y la deja crujiente como un chicharrón, sin necesidad de rebozado. El aliño de tahini aguanta 4 días en la nevera.",
+  alternativa: "Si no encuentras za'atar ni zumaque, mezcla 1 cdta de tomillo seco, 1 cdta de orégano, 2 cdta de sésamo tostado y la ralladura de medio limón; usa la mitad para el pollo y el resto al servir.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
