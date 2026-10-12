@@ -137,6 +137,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 21, hc: 70, grasa: 25 },
   etiquetas: ["tradicional", "picante", "económica", "vegana", "bajo en colesterol"],
   consejo: "En Biskra la doubara se vende en puestos callejeros y se hace con garbanzos secos cocidos durante horas; con garbanzos de bote está lista en media hora y el resultado es muy parecido si aplastas una parte para espesar. El picadillo crudo no es un adorno: su frescor y el limón equilibran el picante. Si te gusta más suave, deja la harissa en media cucharada y pon un poco más de pimentón.",
+  alternativa: "Si no encuentras harissa, añade fuera del fuego 1 cdta más de pimentón dulce, ½ cdta de pimentón picante y una pizca de comino extra: la salsa sale igual de roja y picante.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -541,6 +542,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 41, hc: 33, grasa: 14 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "ligera", "bajo en colesterol", "ideal para llevar"],
   consejo: "La ensalada de zanahoria y naranja con canela es un clásico de las mesas del norte de Marruecos; un par de gotas de agua de azahar la acercan aún más al original. El yogur de la marinada protege el pavo y hace que se dore sin secarse. Todo aguanta 2 días en la nevera y se come bien frío.",
+  alternativa: "¿Sin harissa? Mezcla en el yogur 1 cdta de pimentón dulce, ¼ cdta de cayena y ½ cdta de comino; el adobo queda igual de rojizo y con el mismo picor.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -628,6 +630,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 32, hc: 36, grasa: 31 },
   etiquetas: ["creativa", "económica", "ideal para llevar", "para niños"],
   consejo: "Atún, alcaparras, perejil y harissa son los sabores de cualquier casa tunecina, de los briks al bocadillo de fricassé. Si es para niños, sirve el yogur sin harissa. Fría está igual de buena: aguanta 2 días en la nevera y es perfecta para llevar.",
+  alternativa: "Si no tienes harissa, colorea el yogur con ½ cdta de pimentón dulce, una pizca de cayena y unas gotas de aceite: sale una salsa igual de vistosa y con un picor que puedes dosificar.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -804,6 +807,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 27, hc: 50, grasa: 34 },
   etiquetas: ["tradicional", "picante", "ideal para llevar", "económica", "verano"],
   consejo: "Es una de las ensaladas de la mesa tunecina, junto a la mechouia y la salata tounsia; su nombre se traduce como «la madre de la sirena». La base de zanahoria aguanta 3 días en la nevera: añade el atún y el huevo al servir. Si la quieres más suave, reduce la harissa a la mitad.",
+  alternativa: "Si no encuentras harissa, maja con el ajo 1 cdta de pimentón dulce y ¼ cdta de cayena; la alcaravea, si no la hay, se cambia por la misma cantidad de comino, aunque pierde un poco su aroma anisado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -938,6 +942,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 715, prot: 41, hc: 84, grasa: 24 },
   etiquetas: ["tradicional", "picante", "de cuchara", "invierno"],
   consejo: "En Túnez el cuscús de pescado se hace al vapor sobre el caldo, con mero o dorada; hidratarlo con el propio caldo rojo da el mismo color y sabor en 5 minutos. Funciona con cualquier pescado blanco de carne firme: rape, merluza o bacalao fresco. Si sobra, guarda el cuscús y el guiso por separado.",
+  alternativa: "Sin harissa, rehoga con el concentrado 1 cdta de pimentón picante y ½ de pimentón dulce; y si no tienes alcaravea, usa ½ cdta de comino molido: el caldo rojo sabe casi igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -981,6 +986,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 19, hc: 68, grasa: 24 },
   etiquetas: ["creativa", "rápida", "picante", "para invitados"],
   consejo: "En Túnez la pasta con marisco y harissa es tan habitual como en Italia la de almejas con guindilla. El pan rallado tostado era el «parmesano de los pobres» de toda la costa mediterránea: aporta un crujiente que va de maravilla con el marisco. Puedes usar berberechos o mejillones, con el mismo método.",
+  alternativa: "Si no hay harissa en casa, saltea con el ajo 1 cdta de pimentón dulce y una guindilla seca desmenuzada: las almejas quedan con el mismo picor rojo.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1026,6 +1032,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 395, prot: 28, hc: 33, grasa: 17 },
   etiquetas: ["tradicional", "de cuchara", "ligera", "bajo en colesterol", "invierno"],
   consejo: "En Túnez se hace con la pasta diminuta llamada «lengua de pájaro»; el orzo o los piñones de pasta son el sustituto perfecto. El limón exprimido en el plato es imprescindible. Si la guardas, la pasta seguirá absorbiendo caldo: añade un poco de agua al recalentar.",
+  alternativa: "Si no encuentras harissa, rehoga con el tomate ½ cdta de pimentón dulce y una pizca de cayena: la chorba queda igual de roja y con un picor suave.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -1069,6 +1076,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 15, hc: 34, grasa: 25 },
   etiquetas: ["creativa", "ligera", "batch cooking", "verano"],
   consejo: "Los garbanzos dan cuerpo y proteína sin necesidad de nata ni patata. En verano está muy buena fría: déjala enfriar en la nevera y sírvela con el yogur muy frío. La crema sola aguanta 3 días en la nevera; los garbanzos crujientes, mejor al momento.",
+  alternativa: "Para el aceite de harissa sin harissa, templa fuera del fuego 1 cda de aceite con ½ cdta de pimentón dulce, una pizca de cayena y otra de comino: queda igual de rojo y aromático.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1113,6 +1121,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 660, prot: 34, hc: 66, grasa: 29 },
   etiquetas: ["creativa", "picante", "una sola sartén", "alta en proteína"],
   consejo: "Dorar el tofu antes y devolverlo a la salsa solo al final mantiene la costra crujiente. Con pimientos asados de bote el plato sale en media hora; si tienes tiempo, ásalos tú y la salsa ganará en sabor ahumado. Aguanta 3 días en la nevera, con el cuscús aparte.",
+  alternativa: "Si no encuentras alcaravea, machaca la misma cantidad de comino en grano o usa ½ cdta de comino molido; la harissa se puede cambiar por ½ cdta de pimentón picante.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"

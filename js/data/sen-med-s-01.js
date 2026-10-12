@@ -92,6 +92,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 44, hc: 28, grasa: 42 },
   etiquetas: ["creativa", "al horno", "sin gluten", "poco especiada", "otoño", "invierno"],
   consejo: "La coliflor con azafrán, pasas y piñones es una combinación de Sicilia y del sur de Italia que aquí acompaña al pollo. Corta los ramilletes pequeños y no amontones la bandeja: si se tocan demasiado, se cuecen al vapor en vez de tostarse. El trabajo activo son 15 minutos.",
+  alternativa: "Si prefieres no gastar en piñones, esparce 20 g de almendra laminada en el mismo momento: se tuesta en esos 5–8 min y hace con las pasas un contraste muy parecido.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -1002,6 +1003,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 30, hc: 63, grasa: 28 },
   etiquetas: ["tradicional", "rápida", "poco especiada", "primavera"],
   consejo: "En Istria se hace en abril con šparoge, los espárragos silvestres finos y algo amargos que se recogen en el monte, y con pljukanci, una pasta de harina y agua enrollada a mano en forma de huso. Los trigueros más finos son el mejor sustituto; si los tuyos son gruesos, pártelos a lo largo. En muchas casas cambian el jamón por gambas, o terminan el plato con un huevo batido que cuaja con el calor de la pasta.",
+  alternativa: "Si no encuentras casarecce ni strozzapreti, usa fusilli o macarrones (los mismos 160 g) con el tiempo del paquete menos 1 minuto: atrapan la salsa casi igual.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1094,6 +1096,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 505, prot: 27, hc: 56, grasa: 19 },
   etiquetas: ["creativa", "de cuchara", "sin gluten", "superalimentos", "poco especiada", "invierno"],
   consejo: "El tomate seco da al guiso un fondo dulce y concentrado sin necesidad de chorizo. Si quieres guardarlo, haz el guiso con espinacas hasta el paso 5 (aguanta 4 días en la nevera) y escalfa los huevos al recalentar cada ración.",
+  alternativa: "Con prisa, usa 400 g de lentejas pardinas de bote bien enjuagadas y solo 250 ml de agua: tras el sofrito, cuécelas 10 min en lugar de 25–30, lo justo para que espese el caldo.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

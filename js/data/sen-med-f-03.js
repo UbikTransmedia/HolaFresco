@@ -275,6 +275,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 514, prot: 24, hc: 10, grasa: 42 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "keto", "una sola sartén", "verano", "poco especiada"],
   consejo: "Un pesto sin ajo pierde poco si lleva aceite de ajo: el aroma está ahí y los fructanos no. Las judías verdes son bajas en FODMAP hasta unos 75 g por persona, justo lo que lleva la frittata, y los tomates cherry hasta unos 75 g. El pesto que sobre, cubierto con un hilo de aceite, aguanta 3 días en la nevera.",
+  alternativa: "Si los piñones se te van de precio, tuesta 20 g de nueces y tritúralas igual: el pesto sale un poco más terroso pero con la misma textura, y en esa ración las nueces siguen siendo bajas en FODMAP.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -405,6 +406,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 27, hc: 76, grasa: 34 },
   etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "al horno", "económica", "poco especiada"],
   consejo: "«Arraganate» viene de «rigano», el orégano, que en Basilicata y Apulia se pone sin miedo. La receta de las abuelas lleva cebolla en rodajas entre las capas; el aceite de ajo y el pimiento verde, que se tolera bien en cantidad, dan el fondo dulce sin sus fructanos. Los huevos del final la convierten en plato único; sin ellos es una guarnición estupenda para un pescado.",
+  alternativa: "Si no encuentras pecorino, mezcla el pan rallado con 40 g de manchego curado o de parmesano: la costra queda igual de dorada y crujiente, solo un poco menos salada.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -450,6 +452,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 18, hc: 81, grasa: 34 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "económica", "poco especiada", "otoño", "invierno"],
   consejo: "Las zanahorias no tienen límite de FODMAP, por eso pueden ser las protagonistas sin miedo. Cocerlas primero tapadas con poca agua y dorarlas después en la misma sartén las deja tiernas por dentro y caramelizadas por fuera, sin encender el horno. La polenta con leche sin lactosa queda igual de cremosa; si sobra, extiéndela en una bandeja y al día siguiente dórala a la plancha.",
+  alternativa: "El pecorino de la polenta se puede cambiar por los mismos 50 g de parmesano: queda algo más dulce y menos salada, así que rectifica de sal antes de servir.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -671,6 +674,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 643, prot: 28, hc: 63, grasa: 31 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "sin lactosa", "picante", "alta en proteína"],
   consejo: "El tempeh, fermentado, tolera mucho mejor que la soja en grano: es bajo en FODMAP hasta unos 100 g por persona, justo lo que lleva la receta. La guindilla da solo un punto suave; si no toleras el picante, quítala: el plato sigue siendo sabroso por la almendra tostada y el limón. La salsa también va muy bien con huevos duros o con tofu.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme bien prensado y en dados de 2 cm: dóralo 8–10 min, un poco más que el tempeh, para que haga costra antes de añadir la salsa.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -717,6 +721,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 731, prot: 35, hc: 65, grasa: 37 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "sin lactosa", "al horno", "superalimentos", "alta en proteína", "poco especiada", "otoño"],
   consejo: "Las uvas son de las frutas más seguras con intestino irritable y, asadas, se convierten en una salsa dulce que equilibra el vinagre. El tamari es salsa de soja sin trigo; la normal lleva gluten. Mezclar el tofu primero con el tamari y luego con la maicena es lo que le da costra en el horno sin freírlo.",
+  alternativa: "Si no tienes tamari, usa la misma cucharada de una salsa de soja que indique «sin gluten» en la etiqueta; la normal lleva trigo y aquí no sirve.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -761,6 +766,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 512, prot: 22, hc: 31, grasa: 33 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "frito", "alta en proteína", "poco especiada", "rápida"],
   consejo: "Hervir el tempeh unos minutos antes de rebozarlo es un truco de las cocinas indonesias que lo vuelve más suave y le quita el punto amargo. La harina de maíz fina (no la maicena) da una costra crujiente sin gluten. Comprueba que la mayonesa no lleve ajo ni cebolla en polvo, y si quieres que no tenga huevo, usa una vegana.",
+  alternativa: "Sin tempeh, corta 250 g de tofu firme en bastones y, en lugar de hervirlos, prénsalos 10 min entre papel de cocina; rebózalos igual: quedan más tiernos por dentro y la costra, igual de crujiente.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -894,6 +900,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 608, prot: 15, hc: 55, grasa: 36 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "al horno", "ideal para llevar", "verano", "poco especiada"],
   consejo: "El mijo es un cereal sin gluten y bajo en FODMAP que, tostado antes de cocerlo, queda suelto como un cuscús. El pimiento rojo asado es tolerable hasta unos 75 g por persona, por eso se mezcla con el verde, que admite más cantidad. El feta, en esta ración, apenas aporta lactosa. Aguanta 2 días en la nevera: añade el feta y los piñones al servir.",
+  alternativa: "Si no encuentras mijo, usa los mismos 120 g de quinoa bien lavada y cuécela 12 min en 260 ml de agua; los piñones se pueden cambiar por 20 g de almendra laminada tostada.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -981,6 +988,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 628, prot: 15, hc: 70, grasa: 32 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "superalimentos", "poco especiada", "invierno"],
   consejo: "El kale (el cavolo nero de Toscana) no tiene límite de FODMAP y aguanta la cocción del risotto sin deshacerse. Como el caldo de verduras comprado casi siempre lleva cebolla o ajo, aquí se usa agua con sal: el sabor lo ponen el pecorino, el limón y las avellanas tostadas, que son seguras hasta unas 10 por persona. La mantequilla y el pecorino apenas tienen lactosa.",
+  alternativa: "Sin pecorino, manteca el risotto con 40 g de parmesano o grana padano bien curados: liga igual y sigue casi sin lactosa, aunque pide una pizca más de sal.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -1024,6 +1032,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 15, hc: 82, grasa: 31 },
   etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "rápida", "verano"],
   consejo: "El pesto a la calabresa se hace en Calabria con pimientos, tomate, ricotta, pecorino y guindilla; aquí la ricotta se cambia por queso crema sin lactosa, que liga igual y no da molestias. El pimiento rojo es bajo en FODMAP hasta unos 75 g por persona, por eso va mezclado con el verde. La guindilla es opcional: si te sienta mal el picante, déjala fuera.",
+  alternativa: "Si en tu súper no hay pecorino, vale un manchego viejo rallado (40 g), que también es de oveja y casi no tiene lactosa; con parmesano el pesto queda más suave.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"

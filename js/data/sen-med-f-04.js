@@ -316,6 +316,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 505, prot: 40, hc: 32, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten"],
   consejo: "El zalzett tal-Malti es una salchicha de cerdo con semillas de cilantro, pimienta, perejil y ajo que en Malta se come fresca, curada o a la plancha. Las salchichas industriales suelen llevar ajo, cebolla y aditivos con FODMAP: hechas en casa con aceite de ajo y carne magra son mucho más digestivas. Se pueden formar la víspera y guardar tapadas en la nevera.",
+  alternativa: "Si no tienes semillas de hinojo, usa ¾ cdta de matalahúva (anís en grano): da a las patatas un aroma anisado casi idéntico y se encuentra en cualquier súper.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -670,6 +671,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 21, hc: 73, grasa: 25 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "al horno", "sin gluten"],
   consejo: "Usa calabaza japonesa (kabocha), que es baja en FODMAP en ración generosa; la calabaza violín o cacahuete conviene limitarla a unos 45 g por persona. El feta en 25 g por ración tiene poca lactosa. Sin anchoas y con más alcaparras queda vegetariana.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies toda por cacahuete (solo es baja en FODMAP hasta ~45 g por persona): asa 90 g de cacahuete con 450 g de zanahoria y chirivía en bastones gruesos, el mismo tiempo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

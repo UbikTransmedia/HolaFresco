@@ -838,6 +838,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 20, hc: 61, grasa: 34 },
   etiquetas: ["creativa", "superalimentos", "sin lácteos", "otoño", "invierno"],
   consejo: "En el Líbano la salatet sabanekh se hace con espinacas tiernas y mucho zumaque; la cebolla macerada en el ácido pierde el picor y tiñe el aliño. El zumaque se vende en tiendas de especias; si no lo tienes, usa ralladura de limón. Los garbanzos crujientes se ablandan con el tiempo: tuéstalos justo antes de servir.",
+  alternativa: "En lugar de piñones, tuesta 30 g de almendra laminada 2–3 min en la sartén en seco: aporta el mismo crujiente a la ensalada y sale bastante más barata.",
   tupper: false,
   contundencia: "media",
   coste: "media"

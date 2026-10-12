@@ -170,6 +170,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 48, hc: 25, grasa: 36 },
   etiquetas: ["tradicional", "al horno", "alta en proteína", "pescado azul", "económica"],
   consejo: "Es el plato de las familias de pescadores de Bari y de la costa de Salerno, cuando el boquerón llega barato en primavera y verano. La clave es secarlos bien: si entran mojados, el pan rallado se empapa y no cruje. También está buena tibia al día siguiente, aunque pierde el crujiente.",
+  alternativa: "Sin pecorino, un queso de oveja curado rallado (los mismos 30 g) da a la capa de pan el mismo punto salado; con parmesano queda algo más suave.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -385,6 +386,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 32, hc: 36, grasa: 37 },
   etiquetas: ["tradicional", "al horno", "para invitados", "invierno", "poco especiada"],
   consejo: "En la Puglia es el asado de Pascua y de los domingos, a veces con lampascioni (bulbos de jacinto silvestre) que aquí no se encuentran. El trabajo activo es de 20 minutos: lo demás es horno. El papel de aluminio de la primera fase evita que el cordero se seque mientras las patatas se cuecen en el vino.",
+  alternativa: "Para la costra vale un manchego bien curado en lugar del pecorino (30 g): también es de oveja y se gratina igual sobre el cordero y las patatas.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -474,6 +476,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 40, hc: 32, grasa: 50 },
   etiquetas: ["tradicional", "para niños", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "En Nápoles las polpette de domingo llevan piñones y pasas, y la salsa sirve de primer plato con pasta antes de comerlas de segundo. Amasa poco y con las manos húmedas: cuanto más se trabaja la carne, más duras quedan. Se congelan muy bien en su salsa.",
+  alternativa: "Si no tienes pecorino, amasa las albóndigas con 30 g de parmesano y una pizca más de sal: el pecorino es más salado y picante, pero en la salsa apenas se nota.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -558,6 +561,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 19, hc: 30, grasa: 34 },
   etiquetas: ["tradicional", "rápida", "económica"],
   consejo: "En Calabria se mete en una pagnotta y se lleva al campo: también está bueno frío dentro de un bocadillo. El secreto es la paciencia con los pimientos, que deben quedar blandos y dulces antes de que entre el huevo. Retira la sartén del fuego un poco antes de lo que creas: el calor residual termina de cuajarlo.",
+  alternativa: "El pecorino se puede cambiar por 20 g de grana padano o de un queso de oveja viejo: el revuelto queda un poco menos sabroso, así que no escatimes la sal.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -601,6 +605,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 27, hc: 40, grasa: 41 },
   etiquetas: ["tradicional", "económica", "ideal para llevar", "picante"],
   consejo: "Es la frittata de las meriendas de campo en Calabria, hecha con la cebolla roja de Tropea, tan dulce que se come casi cruda; cualquier cebolla morada pochada con paciencia se le acerca. Si no quieres picante, sáltate la guindilla. Fría y entre dos rebanadas de pan es el bocadillo calabrés de siempre, y aguanta 2 días en la nevera.",
+  alternativa: "Si en tu supermercado no hay pecorino, bate los huevos con 40 g de manchego curado rallado: aporta el mismo contrapunto salado a la dulzura de la cebolla.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -646,6 +651,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 14, hc: 50, grasa: 28 },
   etiquetas: ["tradicional", "al horno", "económica", "aprovechamiento", "poco especiada"],
   consejo: "Es un plato de aprovechamiento del pan del día anterior que en Nápoles se come tibio o frío, y que al día siguiente está aún mejor. El trabajo activo es de 20 minutos; el resto es horno. Para una versión vegetariana, quita las anchoas y añade una cucharada más de alcaparras.",
+  alternativa: "Para el relleno, el pecorino admite cambio por la misma cantidad de parmesano; como las anchoas y las alcaparras ya salan, apenas notarás la diferencia.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -689,6 +695,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 19, hc: 43, grasa: 33 },
   etiquetas: ["tradicional", "económica", "invierno", "una sola olla", "poco especiada"],
   consejo: "En el este de Sicilia llaman «broccolo» a la coliflor, y este «brócoli ahogado» se cuece tapado en su propio vapor y en el vino, sin nada de agua. Si usas coliflor verde (romanesco), mejor aún. Sobrante, se tritura grueso y se convierte en salsa para pasta corta.",
+  alternativa: "Sin pecorino, reparte entre las capas 40 g de parmesano o de un manchego viejo rallados: la coliflor queda igual de sabrosa, solo algo menos punzante.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -731,6 +738,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 490, prot: 15, hc: 37, grasa: 32 },
   etiquetas: ["creativa", "al horno", "invierno", "poco especiada"],
   consejo: "Las alcachofas rellenas de pan y queso son un clásico de Sicilia y la Puglia; aquí se hacen abiertas para que la costra cruja. La temporada va de noviembre a abril. Fuera de temporada, usa corazones de alcachofa en conserva bien escurridos y sáltate el primer horneado tapado.",
+  alternativa: "Si no encuentras pecorino, la costra sale casi igual con 40 g de parmesano o grana padano rallados finos; añade una pizca de sal a la mezcla de pan.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -900,6 +908,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 20, hc: 84, grasa: 35 },
   etiquetas: ["tradicional", "rápida", "económica", "verano", "picante"],
   consejo: "Se dice que los carreteros que cruzaban Sicilia se la preparaban con lo que llevaban: tomate, ajo, queso duro y pan. Solo vale la pena con tomates de verano muy maduros; en invierno, usa tomates cherry partidos y déjalos macerar 20 minutos con la sal.",
+  alternativa: "Si no tienes pecorino, ralla sobre la pasta 40 g de un queso de oveja curado, tipo manchego viejo: es lo que más se le parece en sal y punzada; el parmesano la deja más dulce.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -990,6 +999,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 21, hc: 82, grasa: 26 },
   etiquetas: ["tradicional", "de cuchara", "económica", "otoño", "picante"],
   consejo: "En los montes de la Sila, en Calabria, se hace en otoño con porcini frescos; aquí el champiñón pone el cuerpo y un puñado de boletus seco, el aroma. El agua de remojo de las setas es lo que más sabor da: viértela despacio, o cuélala con un papel de cocina, para dejar la tierra atrás. Guarda la sopa sin el pan; aguanta 3 días en la nevera.",
+  alternativa: "Sobre el pan tostado, el pecorino se puede cambiar por 30 g de parmesano o de manchego viejo rallados: con el calor de la sopa se funden igual.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1033,6 +1043,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 21, hc: 52, grasa: 27 },
   etiquetas: ["tradicional", "de cuchara", "económica", "verano", "para niños", "poco especiada"],
   consejo: "En Nápoles la «minestra 'e cucuzziell» se hace en verano con los calabacines de la huerta y la pasta rota que queda en el fondo de los paquetes. El huevo con queso se añade fuera del fuego, como en la carbonara, para que haga hebras cremosas y no grumos de tortilla. Si la quieres sin huevo, termínala solo con los quesos y la albahaca.",
+  alternativa: "Si no tienes pecorino, liga la sopa solo con parmesano (40 g en total): las hebras salen igual de cremosas, con un sabor algo más dulce.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

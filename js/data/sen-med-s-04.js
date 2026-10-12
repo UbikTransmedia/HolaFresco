@@ -1015,6 +1015,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 36, hc: 43, grasa: 26 },
   etiquetas: ["creativa", "de cuchara", "invierno", "para niños", "económica", "poco especiada"],
   consejo: "La canela con tomate es el perfume del kapama y de muchos guisos griegos: en poca cantidad no sabe a postre, sino que redondea la acidez del tomate. El orzo sigue absorbiendo caldo al reposar; si lo guardas, recaliéntalo con un chorrito de agua o cuece la pasta aparte y añádela al servir.",
+  alternativa: "Si no encuentras orzo, usa los mismos 80 g de pasta piñón o de estrellitas y cuécela el tiempo que marque el paquete: la sopa queda prácticamente igual.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

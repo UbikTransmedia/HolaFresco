@@ -445,6 +445,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 44, hc: 54, grasa: 27 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "verano"],
   consejo: "La salsa vierge, nacida en la cocina moderna del sur de Francia, es casi una ensalada de tomate tibia: necesita tomates muy maduros y buen aceite. Para el tupper, guarda la salsa aparte y añádela al calentar el pavo. También va de maravilla con pescado a la plancha.",
+  alternativa: "Los piñones se pueden cambiar por 20 g de almendra laminada, tostada igual 2 min en la sartén antes del pavo: dan al cuscús el mismo crujiente por bastante menos dinero.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1107,6 +1108,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 31, hc: 49, grasa: 43 },
   etiquetas: ["creativa", "alta en proteína"],
   consejo: "Prensar el tofu es lo que permite que la costra quede crujiente y no se despegue. Las hierbas provenzales (tomillo, romero, ajedrea, orégano) son una mezcla que se vende ya hecha; si quieres hacerla en casa, no le pongas lavanda en exceso, que amarga. Aguanta 2 días en la nevera, aunque la costra se ablanda.",
+  alternativa: "Sin microondas, cuece las patatas en cuartos 10–12 min en agua con sal mientras se prensa el tofu, y escúrrelas bien antes de saltearlas.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
