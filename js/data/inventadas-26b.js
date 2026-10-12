@@ -126,6 +126,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 38, hc: 62, grasa: 36 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "Como todas las sopas con cebada, espesa mucho al día siguiente: alárgala con agua caliente al recalentar. Si la haces la víspera y la enfrías, podrás quitar toda la grasa del cordero de una sola vez.",
+  alternativa: "Si no encuentras guisantes amarillos partidos, pon la misma cantidad de lentejas rojas, que se deshacen igual y espesan el caldo; la chirivía se puede cambiar por un nabo pequeño.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -534,6 +535,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 38, hc: 48, grasa: 20 },
   etiquetas: ["tradicional", "de cuchara", "para invitados", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En las islas griegas el pescado y las verduras se sirven aparte, como segundo plato, y la sopa sola como primero. El truco del avgolemono es templar el huevo poco a poco con el caldo, nunca al revés.",
+  alternativa: "El rape puede ser caro: unos lomos de merluza o de corvina (300 g) funcionan igual de bien; cuécelos 2-3 min menos para que no se rompan.",
   contundencia: "media",
   coste: "premium"
 });
@@ -709,6 +711,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 36, hc: 40, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "para niños", "invierno"],
   consejo: "El arroz crudo dentro de la albóndiga es la gracia: se cuece en el caldo y las hace esponjosas. Para que no se deshagan, no dejes que el caldo hierva a borbotones fuertes.",
+  alternativa: "Si no tienes chipotle en adobo, sustitúyelo por 1 cdta de pimentón de la Vera picante (o dulce con una pizca de cayena), que aporta el mismo toque ahumado.",
   contundencia: "media",
   coste: "media"
 });
@@ -755,6 +758,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 44, hc: 80, grasa: 24 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "bajo en colesterol"],
   consejo: "En Perú es el plato de la madrugada después de las fiestas, 'el levantamuertos'. Las espinacas no son tradicionales, pero refuerzan el color verde sin que se note el sabor.",
+  alternativa: "Si no encuentras pasta de ají amarillo, tritura medio pimiento amarillo asado con una pizca de cayena y otra de cúrcuma: da un color y un picor muy parecidos.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -799,6 +803,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 40, hc: 56, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "rápida", "invierno"],
   consejo: "Si encuentras ají panca en pasta, úsalo en lugar del pimentón: le da su color rojo oscuro y un sabor afrutado. La leche se añade siempre al final y sin que hierva fuerte, para que no se corte.",
+  alternativa: "Sin pasta de ají amarillo, basta con una pizca de cayena y otra de cúrcuma añadidas con el pimentón; cambia poco el sabor y mantiene el tono anaranjado.",
   contundencia: "media",
   coste: "media"
 });

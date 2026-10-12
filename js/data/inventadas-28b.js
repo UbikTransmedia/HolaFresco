@@ -206,6 +206,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 860, prot: 53, hc: 54, grasa: 48 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking"],
   consejo: "El caldo de las manitas que te sobre cuaja en la nevera como una gelatina: es el mejor fondo para unas lentejas o un arroz caldoso. Pide al carnicero manitas delanteras, que tienen más carne.",
+  alternativa: "Sin olla exprés: cuece las manitas en cazuela tapada a fuego suave 2 h 30 min y luego los garbanzos con el sofrito y el caldo otras 2 h; o usa 350 g de garbanzos de bote y guisa solo 20 min.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -466,6 +467,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 43, hc: 54, grasa: 23 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "para invitados"],
   consejo: "Los chipirones se saltean aparte y se añaden al final: si los cueces con las alubias a presión quedan como gomas. Con tinta el guiso queda negro y todavía más marinero.",
+  alternativa: "Con alubias de bote (unos 450 g, bien enjuagadas) te ahorras el paso 1: hiérvelas suave 10 min con el sofrito, los chipirones y 300 ml de agua, moviendo la cazuela para que engorde el caldo.",
   contundencia: "media",
   coste: "media"
 });
@@ -691,6 +693,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 922, prot: 39, hc: 88, grasa: 46 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "poco especiada"],
   consejo: "Es comida de arrieros de Minas Gerais. Si la haces la víspera, la grasa cuaja arriba en la nevera y se retira de una pieza: el guiso queda igual de meloso y mucho más ligero.",
+  alternativa: "Si no encuentras yuca, ni fresca ni congelada, usa la misma cantidad de patata harinosa con 5 min de presión: se deshace igual y deja el guiso cremoso, aunque algo menos elástico.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -731,6 +734,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 529, prot: 35, hc: 68, grasa: 13 },
   etiquetas: ["tradicional", "fácil", "para niños", "batch cooking", "poco especiada"],
   consejo: "En Japón es el plato que sabe a casa de madre, y como todos los guisos está más rico al día siguiente. Acompáñalo de un cuenco de arroz blanco si tienes mucha hambre.",
+  alternativa: "Si no tienes mirin, mezcla 2 cda de vino blanco dulce (o jerez) con 1 cdta de azúcar extra: aporta el mismo brillo y el toque dulce del caldo.",
   contundencia: "media",
   coste: "media"
 });
@@ -774,6 +778,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 598, prot: 53, hc: 65, grasa: 14 },
   etiquetas: ["tradicional", "fácil", "económica", "picante", "alta en proteína", "bajo en colesterol"],
   consejo: "El primer hervor rápido del pollo es el truco coreano para un guiso sin espuma ni grasa. Si no te gusta el picante, reduce el gochujang a 1 cucharada y quita el pimentón picante.",
+  alternativa: "Sin gochujang, mezcla 1 cda de sriracha con 1 cda de tomate concentrado y 1 cdta de azúcar: picante, rojo y algo dulce, muy parecido al original.",
   contundencia: "media",
   coste: "económica"
 });
@@ -820,6 +825,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 1014, prot: 49, hc: 98, grasa: 48 },
   etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "Es el plato de las grandes fiestas coreanas. La pera no solo endulza: sus enzimas ablandan la carne. Si lo haces la víspera, retira la grasa cuajada en frío y queda perfecto.",
+  alternativa: "El mirin se puede sustituir por 2 cda de jerez fino o vino blanco con 1 cdta más de azúcar moreno; la salsa queda igual de lacada.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -914,6 +920,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 404, prot: 18, hc: 65, grasa: 8 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "ligera", "vegana", "batch cooking", "detox", "bajo en colesterol"],
   consejo: "En el sur de la India se toma con arroz o con idlis en el desayuno. El tamarindo da su acidez característica: si no lo tienes, usa el zumo de media lima al final.",
+  alternativa: "Si no encuentras guisantes amarillos partidos ni toor dal, usa lentejas rojas (120 g) con 5 min de presión en lugar de 10; las semillas de mostaza pueden cambiarse por comino en grano.",
   contundencia: "ligera",
   coste: "económica"
 });

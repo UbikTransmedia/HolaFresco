@@ -42,6 +42,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 813, prot: 50, hc: 52, grasa: 45 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Las alubias pintas no se salan hasta el final: con sal desde el principio la piel se endurece. Y como todos los guisos de legumbre, al día siguiente están todavía mejores.",
+  alternativa: "Sin olla exprés: cuece la oreja 1 h en cazuela tapada; luego añade alubias, sofrito y agua y deja 1 h 30 min a fuego suave, asustándolas con un chorrito de agua fría un par de veces.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -83,6 +84,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 993, prot: 61, hc: 50, grasa: 61 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
   consejo: "Guarda el caldo de la cocción: con unas alubias y un puñado de grelos tienes un caldo gallego para el día siguiente. Si no encuentras grelos, usa nabizas o, en su defecto, acelgas.",
+  alternativa: "En cazuela normal: cuece el lacón tapado a fuego suave 1 h 15 min en lugar de 30 min a presión, y luego las patatas, el chorizo y los grelos 20 min más.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -128,6 +130,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 1021, prot: 46, hc: 72, grasa: 61 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Echa siempre los garbanzos con el agua ya hirviendo: si los pones en frío quedan duros y con la piel suelta. Y no pinches la morcilla, que se vacía en el caldo.",
+  alternativa: "Si no tienes olla exprés, cuece los garbanzos con las carnes en una cazuela grande tapada, a hervor suave, unas 2 h 30 min, añadiendo agua caliente si baja el nivel.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -170,6 +173,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 571, prot: 22, hc: 87, grasa: 15 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "vegana", "poco especiada", "bajo en colesterol"],
   consejo: "En Binéfar hay quien le pone un trozo de costilla o unas rodajas de longaniza al cocer las alubias: si quieres un recao más de fiesta, añádelas en el primer paso.",
+  alternativa: "Sin olla: cuece las alubias en cazuela tapada 1 h 30 min a fuego suave y el arroz 15-18 min con el sofrito y la patata; o tira de 400 g de alubias blancas de bote, enjuagadas, y empieza por el sofrito.",
   contundencia: "media",
   coste: "económica"
 });
@@ -215,6 +219,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 865, prot: 36, hc: 79, grasa: 45 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Es potaje de las abuelas canarias y andaluzas: el hinojo silvestre de los caminos es más aromático que el de bulbo, pero el de mercado funciona muy bien si incluyes los tallos y las hojas.",
+  alternativa: "Para hacerlo en cazuela, cuenta unas 2 h de hervor suave para los garbanzos y la costilla (en vez de 20 min a presión) y luego 20 min con el hinojo y las verduras.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -293,6 +298,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 856, prot: 36, hc: 61, grasa: 52 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Como lleva costilla y rabo con hueso, avisa a los comensales. El caldo es oro: desgrásalo en frío y úsalo para una sopa de ajo o unas alubias.",
+  alternativa: "Sin olla exprés, cuece el botillo en cazuela a fuego muy suave, sin que llegue a borbotear, unas 2 h; las patatas y el repollo, en su caldo, 25 min.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -383,6 +389,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 844, prot: 58, hc: 54, grasa: 44 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "sin verduras"],
   consejo: "Es la versión de carne del pulpo á feira, y el aceite y el pimentón deben ser buenos porque son toda la salsa. Con el caldo, unos fideos y la carne que sobre tienes la cena resuelta.",
+  alternativa: "También sale en cazuela: tapa y deja la carne a fuego suave 1 h 45 min o hasta que esté tierna; después cuece los cachelos en ese caldo unos 20 min.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -560,6 +567,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 759, prot: 56, hc: 46, grasa: 39 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "para invitados", "de domingo", "poco especiada"],
   consejo: "El estofado toledano mejora de un día para otro, y frío en su salsa se convierte casi en un escabeche suave. Si la perdiz es de caza, déjala 5 minutos más de presión.",
+  alternativa: "Si no encuentras perdiz, usa 4 codornices (o contramuslos de pintada) y reduce la presión a 10 min; el estofado y su toque avinagrado no cambian.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -606,6 +614,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 784, prot: 70, hc: 54, grasa: 32 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "para invitados", "de domingo", "verduras escondidas", "poco especiada"],
   consejo: "El chocolate no se nota: redondea la salsa y le quita aspereza al vino, un truco de las cocinas de caza. Si no encuentras jabalí, haz la receta igual con carrillada o paleta de cerdo.",
+  alternativa: "Sin olla exprés, guisa el jabalí en cazuela tapada a fuego mínimo unas 2 h, con algo más de líquido; las patatas, 20 min en la salsa ya triturada.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -784,6 +793,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 581, prot: 41, hc: 43, grasa: 27 },
   etiquetas: ["tradicional", "fácil", "picante", "para invitados", "sin verduras"],
   consejo: "El original es de anguila, pero con rape queda más fácil y gusta a todo el mundo. Mueve la olla en vaivén en vez de remover: así el pescado no se rompe y la salsa liga.",
+  alternativa: "Si el rape te sale caro, usa rosada en tacos (los mismos 400 g): es firme y aguanta bien el guiso; añádela un par de minutos más tarde porque se hace antes.",
   contundencia: "media",
   coste: "premium"
 });

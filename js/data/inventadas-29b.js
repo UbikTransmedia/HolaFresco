@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 20, hc: 56, grasa: 30 },
   etiquetas: ["tradicional", "económica", "fácil", "para niños", "poco especiada"],
   consejo: "La patata cocida la víspera y fría es el secreto suizo: suelta menos almidón y el rösti queda suelto y crujiente. No la aplastes en la sartén.",
+  alternativa: "¿Sin gruyère en casa? Un emmental o un queso de barra semicurado rallado (40 g) funde igual entre las capas de patata; solo pierde un poco de su punto avellanado.",
   contundencia: "media",
   coste: "económica"
 });
@@ -296,6 +297,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 28, hc: 82, grasa: 28 },
   etiquetas: ["tradicional", "rápida", "saciante", "fácil", "sin verduras"],
   consejo: "En Amatrice no llevan ni ajo ni cebolla: solo el cerdo, el tomate y el queso. Empezar la panceta en sartén fría hace que suelte la grasa sin quemarse.",
+  alternativa: "Si no encuentras pecorino, ralla la misma cantidad de queso de oveja curado (un manchego viejo), que da un punto salado y picante muy parecido; el parmesano también sirve, con una pizca más de sal.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -551,6 +553,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 26, hc: 66, grasa: 40 },
   etiquetas: ["tradicional", "saciante", "invierno", "fácil", "poco especiada"],
   consejo: "Con polenta instantánea está lista en minutos y queda igual de cremosa. La que sobre se cuaja al enfriar: córtala en porciones y dórala en la sartén al día siguiente.",
+  alternativa: "Si no tienes salvia fresca, usa 1 cdta de salvia seca y échala a la mantequilla solo 30 segundos antes de apagar, para que perfume sin quemarse.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -767,6 +770,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 355, prot: 10, hc: 52, grasa: 12 },
   etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "No dejes que hierva tras añadir el vinagre o el rojo se volverá marrón. Usa guantes para pelar la remolacha y evitar mancharte las manos.",
+  alternativa: "Si no tienes pimienta de Jamaica, añade un clavo de olor entero con el laurel (retíralo al final) y unas bolitas de pimienta negra: el caldo mantiene su aroma especiado.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -855,6 +859,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 34, hc: 54, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "poco especiada"],
   consejo: "Como todas las sopas de cebada, espesa al reposar: al recalentarla añade un poco de agua. Si la enfrías, podrás retirar la grasa del cordero de la superficie.",
+  alternativa: "Los guisantes amarillos partidos pueden cambiarse por lentejas rojas en la misma cantidad; y si no hay cebada perlada en tu súper, usa 50 g de arroz redondo añadido en los últimos 20 min.",
   contundencia: "media",
   coste: "media"
 });

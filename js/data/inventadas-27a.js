@@ -375,6 +375,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 22, hc: 42, grasa: 36 },
   etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "poco especiada"],
   consejo: "Asar la berenjena en vez de freírla para vaciarla ahorra mucho aceite y la pulpa sale igual de melosa. Puedes dejarlas rellenas el día antes y gratinarlas justo antes de comer.",
+  alternativa: "Los piñones se pueden cambiar por la misma cantidad de almendra laminada, tostada un par de minutos en sartén seca antes de gratinar: da el mismo crujiente por menos dinero.",
   contundencia: "media",
   coste: "premium"
 });
@@ -502,6 +503,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 436, prot: 20, hc: 26, grasa: 28 },
   etiquetas: ["tradicional", "rápida", "fácil", "ligera", "poco especiada"],
   consejo: "El revuelto se termina con el calor residual: apártalo del fuego cuando aún parezca un poco crudo, porque en el plato seguirá cuajando. Fuera de temporada de ajetes, usa un puerro tierno en juliana.",
+  alternativa: "Si no hay setas de cardo, usa setas de ostra (gírgolas), los mismos 250 g y con el mismo tiempo de sartén; o una mezcla de champiñón y shiitake.",
   contundencia: "ligera",
   coste: "premium"
 });

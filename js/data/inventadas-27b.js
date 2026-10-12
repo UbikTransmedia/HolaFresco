@@ -131,6 +131,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 32, hc: 84, grasa: 24 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Triturar las verduras de la cocción con unas pocas alubias es el truco para un caldo espeso y sabroso sin añadir harina. Sala siempre al final: la sal al principio endurece la piel.",
+  alternativa: "Si no hiciste el remojo, usa 450 g de alubias blancas cocidas de bote, enjuagadas: cuece las verduras 20 min en 500 ml de agua y añade las alubias solo los últimos 10 min para que no se rompan.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -532,6 +533,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 798, prot: 22, hc: 74, grasa: 46 },
   etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "invierno", "de domingo", "poco especiada"],
   consejo: "Cocer primero las patatas en la nata es el truco de las abuelas del Delfinado: así el gratín queda cremoso y no se corta. Las patatas, siempre finas e iguales para que se hagan a la vez.",
+  alternativa: "Si no encuentras gruyère, el emmental rallado (los mismos 60 g) gratina igual de bien; queda algo más suave, así que añade una pizca más de pimienta.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -574,6 +576,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 796, prot: 36, hc: 64, grasa: 44 },
   etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "La primera crepe casi siempre sale mal: es la que calibra la sartén. Las crepes se pueden hacer el día antes y guardarlas apiladas y tapadas en la nevera.",
+  alternativa: "El gruyère se cambia sin problema por emmental, o por una mezcla de emmental y un poco de parmesano si quieres más sabor; misma cantidad y mismo gratinado.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -935,6 +938,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 566, prot: 18, hc: 74, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Se llaman 'viudas' porque no llevan carne: todo el sabor sale del sofrito y del pimiento choricero. Cascar las patatas en vez de cortarlas suelta el almidón que espesa el caldo.",
+  alternativa: "¿No tienes carne de choricero? Usa una ñora remojada en agua caliente 20 min y raspa su pulpa, o sube a 2 cdta el pimentón dulce: el caldo saldrá algo menos profundo.",
   contundencia: "media",
   coste: "económica"
 });

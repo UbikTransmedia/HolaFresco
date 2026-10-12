@@ -45,6 +45,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 910, prot: 62, hc: 98, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking", "poco especiada"],
   consejo: "La pringá sobrante es el mejor relleno de un montadito con pan tostado. Y si el caldo te sale con mucha grasa, enfríalo en la nevera: la grasa se queda arriba en una capa y la retiras con una cuchara.",
+  alternativa: "Con olla exprés: tras espumar, mete los garbanzos y cierra; cuenta 35 min desde que sube la válvula, abre, añade verduras y patatas y cuece 20 min más sin tapa en lugar de las 2 h 30 min de cazuela.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -97,6 +98,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 1010, prot: 70, hc: 92, grasa: 40 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Para que la pilota no se rompa al cocer, que el caldo no hierva a borbotones fuertes cuando la metas. Con la carne que sobre haz unas croquetas o unos canelones: es lo que se hace en Cataluña el día de San Esteban.",
+  alternativa: "Si en tu súper no hay galets, usa conchas grandes (conchiglioni) o macarrones gruesos, los mismos 80 g y con el mismo tiempo de cocción que marque el paquete.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -138,6 +140,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 880, prot: 40, hc: 82, grasa: 42 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "El pote está mucho mejor de un día para otro: el caldo engorda y los sabores se asientan. Si te queda muy espeso al recalentar, alárgalo con un chorrito de agua caliente.",
+  alternativa: "Fuera de Asturias, el compango se sustituye bien por chorizo y morcilla de cebolla curados normales; añade una pizca de pimentón ahumado al guiso para recuperar el punto de humo.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -185,6 +188,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 52, hc: 32, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las almejas sueltan la arena si las dejas una hora en agua fría con un buen puñado de sal. El caldo de cabezas se puede congelar: haz el doble y tendrás la base para un arroz caldoso otro día.",
+  alternativa: "Para abaratarla, cambia el rape por lomos de merluza o de rosada (los mismos 200 g) y échalos solo los últimos 3 min, porque se deshacen antes.",
   contundencia: "media",
   coste: "premium"
 });
@@ -734,6 +738,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 40, hc: 80, grasa: 40 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "En invierno se le añade cardo y nabo, y en algunos pueblos unas pelotas como las del cocido. El boniato le da un punto dulce muy característico: no lo cambies por más patata.",
+  alternativa: "Si no pusiste las judías en remojo, usa 300 g de judías blancas cocidas de bote, lavadas y escurridas, y añádelas en los últimos 15 min de guiso.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -945,6 +950,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 24, hc: 90, grasa: 34 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno"],
   consejo: "Las patatas deben quedar caldosas, no secas: si al reposar chupan todo el caldo, añade un poco de agua caliente. Y no les falta el pan: el caldo rojo es la mejor parte.",
+  alternativa: "Sin carne de pimiento choricero, pon la misma cantidad de pulpa de ñora o, en su defecto, 1 cdta más de pimentón dulce: el caldo queda igual de rojo, con algo menos de fondo.",
   contundencia: "contundente",
   coste: "económica"
 });

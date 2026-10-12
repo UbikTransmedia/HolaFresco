@@ -96,6 +96,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 40, hc: 60, grasa: 42 },
   etiquetas: ["tradicional", "saciante", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "El pan remojado en leche es el truco para que queden tiernas. Si no encuentras mermelada de arándanos rojos, una de frutos rojos poco dulce cumple el mismo papel de contraste.",
+  alternativa: "Si no encuentras pimienta de Jamaica, sustitúyela por una pizca de nuez moscada con otra, muy pequeña, de clavo molido: imita bien su aroma especiado.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -190,6 +191,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 38, hc: 52, grasa: 46 },
   etiquetas: ["tradicional", "saciante", "invierno", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "En Polonia se dice que el bigos es mejor recalentado al tercer día: hazlo doble y congela raciones. Enjuaga el chucrut si lo notas muy ácido.",
+  alternativa: "La pimienta de Jamaica se reemplaza por una pizca de clavo molido y unas vueltas más de pimienta negra; el guiso conserva su punto cálido y especiado.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -335,6 +337,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 42, hc: 72, grasa: 28 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "Una vez añadida la yema la salsa no debe hervir o se cortará. El caldo que sobra es oro: congélalo para una sopa.",
+  alternativa: "Si no encuentras cebollitas francesas, usa 4 chalotas partidas por la mitad o la parte blanca de 2 cebolletas en trozos grandes, glaseadas igual con la mantequilla.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -564,6 +567,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 830, prot: 30, hc: 52, grasa: 56 },
   etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "ideal para llevar", "poco especiada"],
   consejo: "La quiche lorraine auténtica no lleva cebolla ni muchos más ingredientes: bacon, huevo, nata y, como mucho, queso. El cuajado suave es la clave: sácala cuando el centro aún tiemble.",
+  alternativa: "Para el queso, el emmental rallado sirve sin problema si no tienes gruyère (los mismos 50 g); la quiche queda un pelín más suave y funde igual de bien.",
   contundencia: "contundente",
   coste: "media"
 });
