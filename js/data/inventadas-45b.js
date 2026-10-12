@@ -47,6 +47,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 46, hc: 46, grasa: 25 },
   etiquetas: ["otoño", "temporada", "setas", "para invitados", "sin gluten", "poco especiada"],
   consejo: "Las tres reglas de las setas sirven para todas (boletus, níscalos, champiñones): limpiarlas en seco, sartén muy caliente sin amontonar y sal al final. Si las amontonas o las salas pronto, sueltan agua y hierven en vez de dorarse.",
+  alternativa: "Para abaratarlo, usa mitad boletus congelados y mitad champiñón portobello: dóralos igual en la sartén muy caliente y el sabor a bosque se mantiene.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -100,6 +101,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 42, hc: 68, grasa: 44 },
   etiquetas: ["otoño", "temporada", "al horno", "batch cooking", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "Dorar la carne picada en tandas y sin removerla al principio es lo que separa un ragú sabroso de uno insípido: el sabor viene de la costra tostada. Este pastel aguanta 3 días en la nevera y se congela entero o por porciones.",
+  alternativa: "Si no encuentras chirivía, haz el puré con 400 g de patata y 1 zanahoria cocidas juntas; queda un poco menos dulce, pero gratina igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -144,6 +146,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 30, hc: 72, grasa: 40 },
   etiquetas: ["otoño", "temporada", "pasta", "para niños", "de domingo", "poco especiada"],
   consejo: "Las verduras asadas y aplastadas (calabaza, boniato, pimiento, berenjena) son la forma más fácil de hacer una salsa cremosa sin nata ni harina. Y la salvia frita 30 segundos en aceite pierde su aspereza y se vuelve un crujiente aromático para cualquier pasta o puré.",
+  alternativa: "Si no tienes salvia fresca, usa 1 cdta de salvia seca: la mitad con la calabaza y la otra mitad en la salsa (no la frías al final, porque se quema).",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -232,6 +235,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 20, hc: 77, grasa: 16 },
   etiquetas: ["otoño", "temporada", "de cuchara", "vegana", "batch cooking", "sin gluten", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para usar castañas frescas, hazles un corte en cruz en la parte abombada, hiérvelas 15 minutos (o ásalas 20 minutos a 200 °C) y pélalas en caliente envueltas en un paño: si se enfrían, la piel interior se pega. Así sirven para guisos, purés o rellenos.",
+  alternativa: "Sin remojo: usa 400 g de alubias blancas cocidas de bote enjuagadas; cuece la calabaza y el repollo con el sofrito en 600 ml de agua 20 minutos, añade las alubias 10 minutos y luego las castañas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -277,6 +281,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 40, hc: 66, grasa: 38 },
   etiquetas: ["otoño", "temporada", "para invitados", "de domingo", "sin gluten", "poco especiada"],
   consejo: "Empezar en sartén fría es la técnica para cualquier pieza con capa de grasa (pato, panceta, bacon, piel de pollo): la grasa se funde despacio antes de que la carne se pase. Guarda la grasa de pato en un tarro en la nevera: unas patatas fritas en ella son otra cosa.",
+  alternativa: "Si no encuentras chirivía, cuece 300 g de patata y 1 zanahoria en la leche con agua el mismo tiempo; el puré queda menos anisado, pero acompaña igual de bien al pato.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"
@@ -644,6 +649,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 58, hc: 43, grasa: 30 },
   etiquetas: ["otoño", "temporada", "caza", "setas", "batch cooking", "sin gluten", "de cuchara", "poco especiada"],
   consejo: "Despresurizar de forma natural es mejor para carnes y legumbres; la liberación rápida (bajo el grifo) se reserva para verduras o arroces que no deben pasarse. Si no encuentras níscalos, el guiso funciona con setas variadas o champiñón portobello.",
+  alternativa: "Sin olla exprés, guisa el conejo en cazuela tapada a fuego suave 45-50 minutos (añade 100 ml más de caldo) y termina con los níscalos y las castañas igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -733,6 +739,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 415, prot: 31, hc: 36, grasa: 16 },
   etiquetas: ["otoño", "temporada", "ligera", "setas", "tradicional", "de cuchara", "poco especiada", "bajo en colesterol"],
   consejo: "El vaivén de la cazuela es el secreto de la salsa verde y del pil pil: la piel de la merluza o del bacalao suelta gelatina que, con el movimiento, emulsiona con el aceite. Funciona siempre que la piel esté hacia arriba y el fuego sea suave.",
+  alternativa: "Si no encuentras níscalos frescos, usa 200 g de níscalos congelados o setas de cardo; saltéalas a fuego vivo hasta que pierdan el agua antes de añadirlas.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -778,6 +785,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 33, hc: 20, grasa: 26 },
   etiquetas: ["otoño", "temporada", "ligera", "al horno", "para invitados", "poco especiada"],
   consejo: "Una costra de frutos secos (2 partes de fruto seco por 1 de pan rallado, más hierbas, ralladura de cítrico y aceite) sirve para pescado blanco, salmón, cordero, pollo o coliflor asada. Es la manera más fácil de dar textura crujiente a algo hecho al horno.",
+  alternativa: "Si no tienes panko, vale pan rallado normal o miga seca; y la salvia fresca se puede cambiar por 1/2 cdta de salvia seca sobre la calabaza.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -829,6 +837,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 845, prot: 41, hc: 98, grasa: 32 },
   etiquetas: ["otoño", "temporada", "para invitados", "de domingo", "especiado", "sin gluten", "poco especiada"],
   consejo: "El método persa (remojar, hervir como pasta y terminar al vapor con un paño en la tapa) da el basmati más suelto que existe y sirve para cualquier arroz de acompañamiento. Si dejas el fondo con mantequilla unos minutos más, obtendrás el tahdig: la costra dorada que en Irán se disputa en la mesa.",
+  alternativa: "Si no encuentras cardamomo molido, prescinde de él y añade una pizca más de canela y un poco más de ralladura de naranja; el arroz sigue igual de perfumado.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -966,6 +975,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 20, hc: 77, grasa: 17 },
   etiquetas: ["otoño", "temporada", "setas", "cena", "bowl", "poco especiada"],
   consejo: "El glaseado japonés básico es 1 parte de soja, 1 de mirin y media de azúcar: reducido en la sartén sirve para setas, berenjena, tofu, pollo o salmón. Y el huevo de 6 minutos y medio es el punto mollet perfecto para cualquier bol o ramen.",
+  alternativa: "Si no tienes arroz para sushi, usa arroz redondo con la misma agua y tiempo; y sin mirin, sustitúyelo por 2 cda de vino blanco con 1 cdta más de azúcar.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1142,6 +1152,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 20, hc: 79, grasa: 26 },
   etiquetas: ["otoño", "temporada", "vegana", "al horno", "bowl", "ideal para llevar", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "La salsa de tahini (tahini, limón, ajo y agua fría) es una emulsión: aguanta 5 días en la nevera y sirve para falafel, verduras asadas, ensaladas o pescado. Guárdala aparte del bol si lo preparas para llevar y aliña al comer.",
+  alternativa: "Si no encuentras zumaque, termina el bol con la ralladura de medio limón; y si no hay trigo sarraceno, usa 120 g de quinoa cocida 12 minutos.",
   tupper: true,
   contundencia: "media",
   coste: "media"

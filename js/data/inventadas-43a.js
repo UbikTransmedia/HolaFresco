@@ -274,6 +274,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 43, hc: 61, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "especiada", "alta en proteína", "tupper", "bajo en colesterol"],
   consejo: "El orden de las especias en un curry rápido es siempre el mismo: enteras en el aceite, luego aromáticos (cebolla, ajo, jengibre), después las molidas unos segundos y enseguida el líquido. Así ninguna se quema. Este kadai aguanta 3 días en la nevera; añade el yogur al recalentar, no antes.",
+  alternativa: "Si no tienes garam masala, sustitúyelo por 1 cdta de curry en polvo con una pizca de canela molida; el kadai queda prácticamente igual de aromático.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -406,6 +407,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 34, hc: 47, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "picante", "una sola sartén", "alta en proteína"],
   consejo: "Una gamba cuajada en forma de C está en su punto; si se cierra en forma de O, está pasada. Sellar el marisco y terminarlo en la salsa al final es un truco que sirve para cualquier guiso rápido de gambas, calamar o sepia. El chipotle sobrante se congela en cubitos con su adobo.",
+  alternativa: "¿Sin chipotle en adobo? Usa 1 cdta de pimentón ahumado picante más 1/2 cdta de salsa picante: recupera el humo y el picor de la salsa a la diabla.",
   contundencia: "media",
   coste: "media",
   tupper: false
@@ -450,6 +452,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 38, hc: 34, grasa: 15 },
   etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "microondas", "poco especiada"],
   consejo: "Una capa fina de mostaza es el mejor pegamento para costras de pan rallado, frutos secos o hierbas: no necesitas huevo ni harina y la costra se dora en la sartén con muy poca grasa. Funciona igual con pechuga de pollo, salmón o merluza.",
+  alternativa: "Si no encuentras panko, usa pan rallado grueso o miga de pan del día anterior desmenuzada y tostada 1 minuto en la sartén; cruje casi igual.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -587,6 +590,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 33, hc: 71, grasa: 20 },
   etiquetas: ["rápida", "15 minutos", "olla exprés", "una sola olla", "especiada", "tupper", "bajo en colesterol"],
   consejo: "Para cualquier arroz largo en olla exprés: lávalo, nacáralo en la grasa, usa 1,5-1,6 partes de líquido y 4 minutos de presión con liberación rápida. Sirve igual con verduras, garbanzos cocidos o gambas (estas, añadidas al abrir la olla). Recalienta con una cucharada de agua para que no se seque.",
+  alternativa: "Sin olla exprés: hazlo en cazuela con tapa usando 270 ml de caldo; tras hervir, 12 minutos a fuego mínimo sin destapar y 5 de reposo fuera del fuego.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -632,6 +636,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 33, hc: 49, grasa: 15 },
   etiquetas: ["rápida", "15 minutos", "olla exprés", "de cuchara", "ligera", "tupper", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "En la olla exprés, el pescado no se cocina nunca a presión: se hace primero la base (patatas, arroz, legumbre) y el pescado o el marisco se añaden al abrir, con la olla destapada, 2-4 minutos según el grosor. Así no se deshace ni se seca. Al recalentarlo, hazlo a fuego suave sin hervir.",
+  alternativa: "Sin olla exprés, cuece las patatas en cazuela tapada a fuego medio 18-20 minutos, hasta que estén tiernas, y luego añade el bacalao igual que en la receta.",
   contundencia: "ligera",
   coste: "media",
   tupper: true
@@ -678,6 +683,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 29, hc: 59, grasa: 44 },
   etiquetas: ["rápida", "15 minutos", "vegetariana", "para compartir", "una sola sartén", "poco especiada"],
   consejo: "El halloumi aguanta el calor sin fundirse, así que es ideal para la plancha y las brochetas, pero se endurece al enfriarse: cocínalo siempre lo último y sírvelo enseguida. Las verduras de fajita se saltean a fuego vivo y removiendo poco para que se tuesten en vez de cocerse en su agua.",
+  alternativa: "Si no encuentras halloumi, usa queso para plancha o queso de freír (de los que venden en bloque junto al fresco): tampoco se funde y se dora igual.",
   contundencia: "contundente",
   coste: "media",
   tupper: false
@@ -720,6 +726,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 18, hc: 69, grasa: 20 },
   etiquetas: ["rápida", "15 minutos", "vegetariana", "una sola sartén", "para niños", "poco especiada"],
   consejo: "La mantequilla noisette (calentada hasta que se tuesta y huele a avellana) es una salsa en sí misma: sirve para pasta rellena, pescado blanco, verduras al vapor o puré. Retírala en cuanto tome color de avellana, porque en segundos pasa a quemada. Los gnocchi de paquete siempre quedan mejor dorados en sartén que hervidos.",
+  alternativa: "Si no hay salvia fresca, tuesta 1/2 cdta de salvia seca en la mantequilla los últimos 20 segundos; aporta el mismo aroma, aunque sin la hoja crujiente.",
   contundencia: "media",
   coste: "económica",
   tupper: false
@@ -814,6 +821,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 31, hc: 57, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "vegana", "alta en proteína", "económica", "bajo en colesterol"],
   consejo: "Para un buen tofu revuelto: escúrrelo bien, desmenúzalo a mano (queda más irregular que con tenedor), dóralo antes de añadir especias y sala al final. La cúrcuma da color y la sal kala namak, el sabor a huevo. Esta misma base admite espinacas, pimientos o champiñones.",
+  alternativa: "Si no encuentras sal kala namak, usa sal normal: el revuelto pierde un poco de ese matiz a huevo, pero color y textura quedan igual.",
   contundencia: "media",
   coste: "económica",
   tupper: false
@@ -1035,6 +1043,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 735, prot: 35, hc: 75, grasa: 33 },
   etiquetas: ["rápida", "15 minutos", "para invitados", "para niños", "poco especiada"],
   consejo: "Guarda siempre un vaso del agua de cocción de la pasta: su almidón convierte mantequilla, aceite o queso en una salsa cremosa y ligada sin nata. Añádela poco a poco moviendo la sartén. Tostar jamón curado en sartén seca da un crujiente que sirve para cremas, ensaladas o huevos.",
+  alternativa: "Para abaratarlo, cambia el ibérico por jamón serrano en lonchas finas: en la sartén seca queda igual de crujiente.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false

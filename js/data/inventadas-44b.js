@@ -50,6 +50,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 606, prot: 24, hc: 69, grasa: 26 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "vietnamita", "sin lactosa"],
   consejo: "Para un encurtido rápido, la base es 1 parte de vinagre por 1 de agua, más azúcar y sal. Sirve para pepino, rábano, zanahoria o col y aguanta 2 semanas en la nevera. Prensar el tofu firme antes de marinarlo es el primer paso de casi cualquier receta de tofu crujiente. La hierba limón es apta en la dieta baja en FODMAP y da un aroma cítrico.",
+  alternativa: "Si no encuentras hierba limón, añade a la marinada la ralladura de una lima entera y 1 cdta de su zumo; el aroma cítrico es muy parecido y sigue siendo bajo en FODMAP.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -187,6 +188,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 627, prot: 34, hc: 62, grasa: 27 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "alta en proteína", "tupper", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "La regla del arroz frito vale para cualquier grano: quinoa, arroz o mijo deben estar cocidos, fríos y secos antes de saltearlos. Hervir o cocer al vapor el tempeh 10 minutos antes de marinarlo o dorarlo le quita el amargor. El tempeh, a diferencia de otras legumbres, es apto en la dieta baja en FODMAP gracias a la fermentación.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme prensado en dados: sáltate el hervido, dóralo directamente 6-7 minutos y riégalo con el tamari igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -236,6 +238,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 26, hc: 57, grasa: 32 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "mexicana", "rápida", "picante"],
   consejo: "Cuando cocines con pimentón, añade un líquido justo después: se quema en segundos y amarga. Con esta misma mezcla de especias (pimentón ahumado, comino y orégano) puedes condimentar tofu desmigado o patatas al horno.",
+  alternativa: "Sin tempeh, desmiga 250 g de tofu firme bien prensado y dóralo 6-8 minutos antes de añadir las especias; el relleno queda igual de sabroso.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -286,6 +289,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 27, hc: 62, grasa: 26 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "ecuatoriana", "económica", "poco especiada"],
   consejo: "La levadura nutricional aporta un sabor que recuerda al queso y es muy útil en la cocina vegana: sustituye al queso rallado en purés, salsas y gratinados. La salsa de cacahuete batida con agua caliente aguanta 5 días en la nevera. Si espesa, aclárala con un poco de agua.",
+  alternativa: "Si no tienes levadura nutricional, omítela y añade una pizca más de sal y de cúrcuma al puré: las tortitas pierden algo del toque a queso, pero se forman y doran igual.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -419,6 +423,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 448, prot: 13, hc: 45, grasa: 24 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "al horno", "ligera", "tupper", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El tahini siempre espesa al principio cuando le añades limón y luego se vuelve cremoso con agua fría. Así se hace también la salsa del falafel y el aliño de muchas ensaladas. En la dieta baja en FODMAP, el tahini y las nueces son aptos en raciones de 1-2 cucharadas y 15 g por persona.",
+  alternativa: "Si no encuentras zumaque, sustitúyelo por la ralladura de medio limón mezclada con una pizca de pimentón dulce sobre la berenjena.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -468,6 +473,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 556, prot: 22, hc: 63, grasa: 24 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "tupper", "económica", "picante", "bajo en colesterol"],
   consejo: "Para hamburguesas, croquetas o tortitas de verdura sin huevo, elimina humedad (patata cocida al microondas o al horno en vez de hervida), añade un almidón (harina de arroz o maicena) y deja reposar la masa en frío. Las tikkis cocinadas aguantan 3 días en la nevera y se recalientan en sartén o airfryer. El chutney, guárdalo aparte.",
+  alternativa: "¿Sin garam masala? Usa 1/2 cdta de comino molido, 1/2 de cilantro molido y una pizca de canela; no lo cambies por curry en polvo, que suele llevar ajo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -606,6 +612,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 668, prot: 27, hc: 68, grasa: 32 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "invierno", "una sola olla", "tupper", "saciante", "poco especiada"],
   consejo: "Cocer una verdura de hoja (kale, col o acelga) al vapor encima de las patatas en la misma olla ahorra tiempo, cacharros y nutrientes. Las bebidas de almendra y de arroz son aptas en la dieta baja en FODMAP; la de soja hecha con haba entera, no. El stamppot aguanta 3 días en la nevera y se recalienta en sartén con un chorrito de aceite, quedando con costra.",
+  alternativa: "Si no encuentras tofu ahumado, dora 200 g de tofu firme con 1/2 cdta de pimentón ahumado al final; y el kale se puede cambiar por berza o col rizada con el mismo tiempo.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -745,6 +752,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 459, prot: 21, hc: 51, grasa: 19 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "de cuchara", "tradicional", "tupper", "económica", "ligera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Cachar las patatas en lugar de cortarlas es un truco de la cocina vasca que espesa cualquier guiso de patata sin harina. Un trozo de alga nori o kombu en el caldo aporta el sabor a mar en guisos veganos. Revisa la etiqueta de la carne de pimiento choricero, que a veces lleva cebolla o ajo.",
+  alternativa: "Si no encuentras carne de pimiento choricero, sustitúyela por 1 cdta de pimentón dulce añadida junto al ahumado; color y sabor quedan muy cercanos.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -888,6 +896,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 21, hc: 50, grasa: 19 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "de cuchara", "invierno", "tupper", "batch cooking", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "Los aceites infusionados con hierbas duras (romero, tomillo, salvia) se hacen a fuego muy suave y se guardan en la nevera hasta una semana. Sirven para terminar sopas, legumbres o verduras asadas. Como esta sopa lleva arroz, espesa al día siguiente; recaliéntala con un poco de caldo o de agua.",
+  alternativa: "Si no encuentras tofu ahumado, corta tofu firme en dados y dóralo en la sartén con una pizca de pimentón ahumado al final: aporta el mismo toque de humo a la sopa.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -1174,6 +1183,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 631, prot: 24, hc: 64, grasa: 31 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegano", "airfryer", "para invitados", "verano"],
   consejo: "La papilla de maicena y agua (1 parte de maicena por 1,5 de agua) es el pegamento vegano más sencillo para empanar con frutos secos, pan rallado o copos de maíz. En la dieta baja en FODMAP, la piña y la macadamia son aptas en raciones normales, mientras que el mango y los anacardos, que se suelen usar en platos tropicales, no lo son.",
+  alternativa: "Para abaratarlo, cambia la macadamia por 25 g de nueces; y sin airfryer, hornea los bastones a 200 °C 18-20 minutos, girándolos a mitad.",
   tupper: false,
   contundencia: "media",
   coste: "premium"

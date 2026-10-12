@@ -86,6 +86,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 34, hc: 49, grasa: 7 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "sin gluten", "alta en proteína", "ligera", "picante", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera. Las hierbas se ennegrecen si se mezclan antes, por eso van aparte en una bolsita con papel de cocina húmedo. Revisa que la salsa de pescado no lleve trigo si es para celíacos.",
+  alternativa: "Si no encuentras salsa de pescado, usa 1 cda de tamari y 1 filete de anchoa machacado (sigue siendo sin gluten); la chalota se puede cambiar por media cebolleta.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -175,7 +176,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 580, prot: 28, hc: 60, grasa: 25 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "alta en proteína", "poco especiada", "bajo en colesterol"],
-  consejo: "Los fideos de arroz se apelmazan en la nevera: suéltalos con un chorrito de agua o de zumo de lima antes de comer. Aguanta 3 días. Puedes cambiar el tofu por langostinos o pollo.",
+  consejo: "Los fideos de arroz se apelmazan en la nevera: suéltalos con un chorrito de agua o de zumo de lima antes de comer. Aguanta 3 días. Puedes cambiar el tofu por tempeh o por garbanzos cocidos.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -351,6 +352,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 24, hc: 63, grasa: 8 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "ligera", "económica", "verano", "superalimentos", "poco especiada"],
   consejo: "El pepino avinagrado aguanta 3 días y gana sabor. El surimi suele llevar almidón de trigo: si necesitas la versión sin gluten, cámbialo por gambas cocidas y usa tamari en lugar de salsa de soja.",
+  alternativa: "Si no encuentras wakame deshidratada, añade media hoja de nori en tiras al servir para el toque de mar y sube el pepino a 2 y medio; la textura cambia poco.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -393,6 +395,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 380, prot: 29, hc: 13, grasa: 23 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "sin gluten", "alta en proteína", "ligera", "vegetariana", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera y se come fría o a temperatura ambiente. Acompáñala de pan integral o de una ensalada de garbanzos si necesitas un plato más completo.",
+  alternativa: "En el horno: cuaja la frittata en el mismo molde a 180 °C 22-25 minutos, hasta que el palillo salga limpio.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -438,6 +441,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 44, hc: 61, grasa: 28 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Aguanta 3 días. La ternera en tiras finas se mantiene tierna en frío; si la prefieres templada, dale 30 segundos de microondas solo a la carne. Puedes usar pollo o pavo en lugar de ternera.",
+  alternativa: "Si no encuentras bulgur, usa 140 g de cuscús con el mismo volumen de agua hirviendo y 5 minutos tapado; queda algo más fino pero igual de bueno en frío.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -525,6 +529,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 32, hc: 65, grasa: 24 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "sin gluten", "vegana", "alta en proteína", "otoño", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La col lombarda aliñada aguanta 4 días y queda más tierna con las horas. Si no encuentras tempeh, usa tofu firme o garbanzos con la misma marinada. Elige trigo sarraceno y tamari con sello sin gluten para celíacos.",
+  alternativa: "Sin airfryer: hornea los dados de tempeh a 200 °C 15-18 minutos en bandeja con papel, dándoles la vuelta a mitad, y tuesta las semillas 3-4 minutos.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -662,6 +667,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 21, hc: 82, grasa: 15 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "sin gluten", "vegetariana", "alta en proteína", "bajo en colesterol"],
   consejo: "Los garbanzos pierden algo de crujiente en la nevera, pero siguen sabrosos; para recuperarlo, dales 3 minutos de airfryer. Comprueba que el garam masala no lleve harina si es para celíacos.",
+  alternativa: "Si no tienes garam masala, usa 1 cdta de curry en polvo sin gluten; y sin airfryer, hornea los garbanzos a 210 °C 25-30 minutos en bandeja, removiendo dos veces.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -790,6 +796,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 370, prot: 37, hc: 23, grasa: 14 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "rápida", "sin gluten", "alta en proteína", "ligera"],
   consejo: "Aguanta 2 días en la nevera por el marisco. Con langostinos congelados pelados sale más económica: descongélalos en la nevera la noche anterior y sécalos muy bien.",
+  alternativa: "Sin airfryer, haz los langostinos al ajillo en sartén: dora el ajo y la guindilla en el aceite a fuego medio y saltea los langostinos 2-3 minutos, hasta que estén rosados.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -919,6 +926,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 40, hc: 68, grasa: 30 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "vegana", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Aguanta 3 días y se come fría, templada o con 1 minuto de microondas. Si quieres una versión sin gluten, sustituye el seitán por garbanzos cocidos o tofu firme.",
+  alternativa: "Sin airfryer: asa patata, pimiento y cebolla en el horno a 210 °C 35-40 minutos, removiendo a mitad, y añade el seitán los últimos 10 minutos.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1048,6 +1056,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 37, hc: 25, grasa: 28 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "microondas", "sin gluten", "alta en proteína", "omega 3", "superalimentos", "poco especiada"],
   consejo: "Aguanta 2 días en la nevera. Cocina el salmón el día anterior mientras cenas otra cosa y tendrás la ensalada en 5 minutos. Con bonito en conserva sale más económica.",
+  alternativa: "Si no tienes airfryer, hornea el salmón a 200 °C 12-14 minutos; y si no encuentras chalota, usa un cuarto de cebolla morada muy picada.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -1091,7 +1100,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 425, prot: 16, hc: 46, grasa: 19 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "sin gluten", "vegana", "ligera", "económica", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
-  consejo: "La col lombarda es de las pocas verduras crudas que aguantan 3-4 días aliñadas e incluso mejoran. Si quieres más proteína, añade tofu ahumado en dados o un huevo duro.",
+  consejo: "La col lombarda es de las pocas verduras crudas que aguantan 3-4 días aliñadas e incluso mejoran. Si quieres más proteína, añade tofu ahumado en dados o un puñado de edamame.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

@@ -89,6 +89,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 43, hc: 73, grasa: 17 },
   etiquetas: ["primavera", "temporada", "arroz", "una sola olla", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "El pescado delicado (bacalao, merluza, rape) siempre entra en el arroz en los últimos minutos: así queda jugoso. Si lo pones desde el principio se seca y se convierte en hebras. Lo mismo vale para gambas o calamar en tiras.",
+  alternativa: "Si no encuentras habas frescas, usa 200 g de habitas baby congeladas, sin descongelar, en el mismo momento de la receta: son tiernas y no hace falta pelarlas.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -133,6 +134,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 15, hc: 44, grasa: 21 },
   etiquetas: ["primavera", "temporada", "ligera", "sin gluten", "verano", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El blanqueado con choque de frío es la técnica para conservar el color de cualquier verdura verde (judías, brócoli, espinacas, espárragos): hervor corto en agua con sal y directo a agua con hielo. Esta crema aguanta 3 días en la nevera; guarda el yogur y los rábanos aparte.",
+  alternativa: "Fuera de temporada, usa 400 g de guisantes finos congelados: escáldalos solo 2 minutos y pásalos al agua con hielo igual; la crema sale igual de verde y dulce.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -314,6 +316,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 21, hc: 56, grasa: 17 },
   etiquetas: ["primavera", "temporada", "ligera", "rápida", "cena", "poco especiada"],
   consejo: "El braseado a la francesa vale para zanahorias tiernas, habas, judías verdes o nabos: mantequilla, un dedo de líquido, una pizca de azúcar y tapa. Y para escalfar bien, el huevo tiene que ser muy fresco: la clara de un huevo viejo es líquida y se dispersa en el agua.",
+  alternativa: "Si no hay guisantes frescos, los finos congelados funcionan muy bien: échalos sin descongelar y acorta el braseado a 5-6 minutos.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -451,6 +454,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 25, hc: 47, grasa: 30 },
   etiquetas: ["primavera", "temporada", "aprovechamiento", "sin gluten", "batch cooking", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "Las hojas de rábano, remolacha o zanahoria son comestibles y sabrosas: saltéalas con ajo, añádelas a una tortilla o tritúralas en un pesto. Y recuerda la regla de las legumbres en ensalada: aliñarlas siempre en caliente.",
+  alternativa: "Si no encuentras lentejas beluga, usa la misma cantidad de lentejas pardinas: también quedan enteras, con unos 25 minutos de cocción.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -494,6 +498,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 22, hc: 66, grasa: 24 },
   etiquetas: ["primavera", "temporada", "rápida", "para niños", "cena", "poco especiada"],
   consejo: "El agua de cocción de la pasta es el mejor ligante de la cocina italiana: guarda siempre un vaso antes de escurrir. Con ella puedes convertir en salsa cremosa un queso, un pesto o unas verduras sin añadir nata.",
+  alternativa: "Si no encuentras orecchiette, usa conchiglie u otra pasta corta pequeña; y la ricotta se puede cambiar por requesón, que tiene una textura casi igual.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -714,6 +719,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 40, hc: 30, grasa: 17 },
   etiquetas: ["primavera", "temporada", "ligera", "alta en proteína", "sin gluten", "de cuchara", "poco especiada"],
   consejo: "La regla de oro del calamar, la sepia o el pulpo pequeño: o menos de 2 minutos a fuego muy fuerte, o más de 30 a fuego suave. Entre medias, las fibras se contraen y quedan como goma. Guisado aguanta 3 días y está aún mejor recalentado.",
+  alternativa: "Fuera de temporada, cambia las habas frescas por habitas baby congeladas: añádelas 8 minutos antes del final en lugar de cocerlas con los calamares desde el principio.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -758,6 +764,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 21, hc: 66, grasa: 25 },
   etiquetas: ["primavera", "temporada", "batch cooking", "ideal para llevar", "de cuchara", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La técnica zeytinyağlı (verdura en aceite, poca agua, una pizca de azúcar y limón, servida templada) funciona igual con judías verdes, alcachofas, puerros o apio nabo. Aguanta 4 días en la nevera y mejora de un día para otro.",
+  alternativa: "Si no encuentras bulgur, acompaña con 100 g de cuscús hidratado 5 minutos en 100 ml de agua hirviendo con sal; queda un grano algo más fino, igual de bueno con las habas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -945,6 +952,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 19, hc: 110, grasa: 21 },
   etiquetas: ["primavera", "temporada", "al horno", "para compartir", "para niños", "batch cooking"],
   consejo: "Tostar especias enteras en aceite (el tadka indio) es el paso que más sabor aporta a un plato especiado: hazlo con comino, mostaza o hinojo antes del sofrito. Las samosas crudas se congelan en bandeja y se hornean sin descongelar, 5 minutos más; ya horneadas aguantan 3 días y se recalientan en el horno para que vuelvan a crujir.",
+  alternativa: "Si no tienes garam masala, condimenta el relleno con 1 cdta de curry en polvo y 1/2 cdta de comino molido.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -992,6 +1000,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 39, hc: 75, grasa: 37 },
   etiquetas: ["primavera", "temporada", "al horno", "batch cooking", "para niños", "gratinado", "poco especiada"],
   consejo: "La bechamel es cuestión de proporción: 20 g de mantequilla y 20 g de harina por medio litro de leche para una salsa ligera, 30 + 30 para lasaña y 60 + 60 para croquetas. La lasaña horneada aguanta 3 días en la nevera y se congela por porciones.",
+  alternativa: "Si ya no hay guisantes frescos, usa 150 g de congelados sin descongelar: añádelos al relleno igual y salen tan dulces como los de temporada.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -1039,6 +1048,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 46, hc: 82, grasa: 20 },
   etiquetas: ["primavera", "temporada", "wok", "alta en proteína", "rápida", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "El velveting (marinar con maicena, soja y un poco de aceite) vale para cualquier carne o gamba que vaya al wok: es la razón por la que el pollo de los restaurantes chinos nunca está seco. Y cocina siempre por tandas: el wok solo funciona si no lo llenas.",
+  alternativa: "Si no encuentras mirin, mezcla 1 cda de vino blanco con 1/2 cdta de azúcar; da el mismo punto dulce al glaseado.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -1087,6 +1097,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 24, hc: 67, grasa: 16 },
   etiquetas: ["primavera", "temporada", "de cuchara", "batch cooking", "ideal para llevar", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "Un chorrito de vinagre al final despierta cualquier legumbre: el ácido realza los sabores sin notarse. Y en olla exprés, piensa en dos tiempos: lo duro (legumbre, carne) bajo presión, lo tierno (verduras verdes, hierbas) después, con la olla abierta.",
+  alternativa: "Sin olla exprés: cuece las lentejas con la patata y el caldo (unos 900 ml) en cazuela tapada a fuego suave 35-40 minutos, y sigue con los espárragos igual.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

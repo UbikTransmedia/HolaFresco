@@ -45,6 +45,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 583, prot: 22, hc: 54, grasa: 31 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "canaria", "para compartir", "sin lactosa", "sin verduras"],
   consejo: "Los fructanos del ajo son solubles en agua pero no en grasa. Por eso el aceite de ajo es apto aunque el diente no lo sea. Si lo haces en casa, calienta aceite con ajo laminado 3 minutos a fuego suave, cuélalo bien, guárdalo en la nevera y gástalo en 4 días. Los dos mojos aguantan una semana en un tarro cerrado en la nevera.",
+  alternativa: "Si no encuentras ñoras, haz el mojo rojo con 2 cdta más de pimentón dulce (3 en total) y 1 cda de agua caliente; y vale cualquier queso de cabra semicurado si no hay majorero.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -137,6 +138,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 769, prot: 29, hc: 71, grasa: 41 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "al horno", "para invitados", "técnica", "poco especiada"],
   consejo: "Esta técnica de cocer, extender, enfriar y cortar sirve para cualquier polenta o sémola. Con las sobras de polenta cremosa puedes hacer bastones fritos o a la plancha al día siguiente. Los ñoquis ya gratinados aguantan 3 días en la nevera y se recalientan en el horno 10 minutos a 200 °C.",
+  alternativa: "Si no tienes salvia fresca, perfuma la mantequilla con 1/2 cdta de salvia seca; y para abaratar, cambia los piñones por la misma cantidad de nueces troceadas (también aptas en bajo FODMAP).",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -232,6 +234,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 623, prot: 22, hc: 64, grasa: 31 },
   etiquetas: ["bajo en fodmap", "sin gluten", "sin lactosa", "vegetariano", "tupper", "ideal para llevar", "económica", "sin verduras"],
   consejo: "El tadka, es decir, freír especias enteras en grasa caliente y volcarlas al final, es la forma india de dar sabor sin cebolla ni ajo. Sirve para cualquier arroz, crema o guiso. La asafétida, en cantidad mínima, recuerda al sabor del ajo y la cebolla y es muy útil en la dieta baja en FODMAP. Este arroz aguanta 3 días en la nevera y se come templado o frío.",
+  alternativa: "Si no encuentras asafétida ni semillas de mostaza, haz el tadka solo con el comino en grano y 1 cdta de aceite de ajo añadida al final: mantiene el aroma sin salirte de la dieta.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -280,6 +283,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 583, prot: 24, hc: 43, grasa: 35 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "rápida", "económica"],
   consejo: "Cocer las patatas en el microondas antes de dorarlas ahorra la mitad del tiempo y del aceite, y sirve para cualquier receta de patatas salteadas o a lo pobre. Cuando metas en una tortilla verduras que llevan mucha agua, como el tomate o el calabacín, quítales las semillas o sécalas antes para que no se quede líquida.",
+  alternativa: "Si no tienes garam masala, mezcla 1/4 cdta de comino molido, 1/4 de cilantro molido y una pizca de canela; evita los curris en polvo, que a menudo llevan ajo o cebolla.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -592,6 +596,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 637, prot: 22, hc: 72, grasa: 29 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "rápida", "técnica", "poco especiada"],
   consejo: "La técnica de mezclar huevo, queso y agua de la pasta fuera del fuego sirve para cualquier carbonara o cacio e pepe. Si la salsa se te corta, añade un chorrito de agua caliente y remueve con energía. El pecorino y el parmesano son quesos curados casi sin lactosa, así que son una buena forma de dar sabor en la dieta baja en FODMAP.",
+  alternativa: "Si no encuentras pecorino, usa los mismos 50 g de parmesano muy curado: también es casi sin lactosa y la salsa liga igual, solo algo menos salada.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -637,6 +642,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 616, prot: 20, hc: 53, grasa: 36 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "al horno", "para invitados", "poco especiada"],
   consejo: "Apunta los tiempos del huevo cocido, siempre con el agua ya hirviendo y el huevo a temperatura ambiente: 6 minutos para mollet, 8 para yema cremosa y 10 para duro. Pasarlo después por agua con hielo es tan importante como el tiempo. El gruyère, como todos los quesos curados, tiene muy poca lactosa.",
+  alternativa: "Si no tienes gruyère, gratina con la misma cantidad de emmental o comté; son quesos curados con muy poca lactosa y funden igual.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -767,6 +773,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 464, prot: 14, hc: 48, grasa: 24 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "al horno", "ligera", "tupper", "otoño", "poco especiada"],
   consejo: "La proporción para que la quinoa quede suelta es 1 de grano por 2 de agua, con 12 minutos de cocción y 5 de reposo tapada. En la dieta baja en FODMAP importa la cantidad: la calabaza japonesa se tolera bien en raciones generosas, mientras que la de tipo violín conviene limitarla a unos 60 g por persona. Si te llevas el plato en tupper, guarda la menta y el aliño aparte.",
+  alternativa: "Si no encuentras zumaque, espolvorea la calabaza con la ralladura de medio limón y una pizca de sal en escamas: aporta el mismo toque ácido.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -1121,6 +1128,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 791, prot: 25, hc: 103, grasa: 31 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "al horno", "invierno", "tupper", "para niños", "poco especiada"],
   consejo: "Los productos sin lactosa (leche, nata, yogur) se usan igual que los normales y permiten mantener en la dieta baja en FODMAP las salsas cremosas y los gratinados. Cuando una fruta típica es alta en FODMAP, como la manzana o la pera, busca otra que tenga la misma función. Aquí la fresa da el punto ácido y dulce que da la compota de manzana. El gratinado aguanta 3 días en la nevera.",
+  alternativa: "En lugar de gruyère puedes usar 80 g de emmental rallado: funde y gratina igual y sigue siendo apto por su baja lactosa.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

@@ -130,6 +130,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 46, hc: 54, grasa: 18 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "alta en proteína", "picante", "bajo en colesterol"],
   consejo: "Si no te gusta el picante usa solo la salsa del adobo, sin el chile. Aguanta 3 días; el tomate suelta algo de agua, así que si la preparas para 3 días añádelo el mismo día o escúrrelo antes.",
+  alternativa: "Si no encuentras chipotle en adobo, bate en la vinagreta 1 cdta de pimentón ahumado picante, una pizca de cayena y 1 cdta de tomate concentrado: conserva el ahumado y el picor.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -173,6 +174,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 35, hc: 79, grasa: 19 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El arroz se endurece en la nevera: saca los onigiris 20 minutos antes de comer o dales 15 segundos de microondas con el film puesto. Aguantan 2 días. También puedes rellenarlos con atún y un poco de mayonesa.",
+  alternativa: "Si no tienes arroz para sushi, vale el arroz redondo de toda la vida con la misma agua y los mismos 12 minutos; lávalo igual de bien y queda lo bastante pegajoso para formar los onigiris.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -216,6 +218,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 40, hc: 46, grasa: 13 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "ligera", "poco especiada", "bajo en colesterol"],
   consejo: "Compra trigo sarraceno con sello sin gluten si es para celíacos, porque puede contaminarse en el envasado. La ensalada aguanta 3 días; la salsa de yogur, 3 días en bote cerrado.",
+  alternativa: "Si no encuentras trigo sarraceno, usa 90 g de quinoa cocida 12 minutos (también sin gluten); y si no hay eneldo fresco, 1 cdta de eneldo seco en la salsa de yogur cumple.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -259,6 +262,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 27, hc: 82, grasa: 34 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "batch cooking", "vegana", "rápida", "superalimentos", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera. Si la pasta absorbe el pesto y queda seca, añade al servir un chorrito de agua o de zumo de limón. Con pasta sin gluten la tienes apta para celíacos.",
+  alternativa: "Si no tienes levadura nutricional, prescinde de ella y añade al pesto 10 g más de nueces y una pizca extra de sal; pierde un punto de sabor a queso, pero sigue siendo vegano.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -302,6 +306,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 50, hc: 70, grasa: 28 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "alta en proteína", "poco especiada"],
   consejo: "El truco para que no se humedezcan es montarlos con el pollo frío y las verduras bien secas, con las espinacas haciendo de barrera. Aguantan 2 días envueltos en la nevera. Con tortillas de maíz grandes son aptos sin gluten.",
+  alternativa: "Para ir más rápido, sustituye el hummus exprés por 150 g de hummus comprado; si no tienes tahini en casa, el hummus de bote ya lo lleva.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -345,6 +350,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 20, hc: 50, grasa: 33 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "batch cooking", "otoño", "poco especiada"],
   consejo: "La cebada cocida aguanta 4 días en la nevera y no se ablanda como el arroz, por eso es ideal para tupper. Si quieres más proteína, añade un huevo duro por persona.",
+  alternativa: "Sin airfryer: asa las setas en el horno a 200 °C en una bandeja amplia 15-18 minutos, removiendo a mitad, y tuesta las nueces 4-5 minutos a 170 °C.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -697,6 +703,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 415, prot: 22, hc: 38, grasa: 19 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "ligera", "alta en proteína", "vegetariana"],
   consejo: "Aguanta 3 días; la cebolla al zumaque se vuelve más suave y rosada con las horas. Para versión vegana, sustituye el huevo por garbanzos tostados o tofu en dados.",
+  alternativa: "Si no encuentras zumaque, masajea la cebolla con la ralladura de medio limón, un chorrito de su zumo y la sal; da el mismo punto ácido y la suaviza igual.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -832,7 +839,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 390, prot: 16, hc: 38, grasa: 19 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "rápida", "sin gluten", "vegana", "ligera", "verano", "detox", "superalimentos"],
-  consejo: "Aguanta 3 días si añades el limón y la sal en el momento. Para más proteína, añade 100 g de tofu firme en dados o un yogur natural al lado.",
+  consejo: "Aguanta 3 días si añades el limón y la sal en el momento. Para más proteína, añade 100 g de tofu firme en dados o un yogur vegetal de soja al lado.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -880,6 +887,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 30, hc: 20, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "sin gluten", "alta en proteína", "ligera"],
   consejo: "La mechouia aguanta 4 días en la nevera y está mejor al día siguiente. Si tu airfryer es pequeña, asa las verduras en dos tandas. Acompáñala con pan para una comida más completa.",
+  alternativa: "Sin airfryer, asa las verduras en el horno a 220 °C 30-35 minutos y cuece los huevos 10 minutos en agua hirviendo; si no tienes alcaravea, pon 1/2 cdta más de comino.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1101,6 +1109,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 39, hc: 57, grasa: 27 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "rápida", "alta en proteína", "omega 3", "poco especiada"],
   consejo: "Aguanta 2 días en la nevera por el pescado. Con salmón congelado (descongelado en la nevera la noche antes) sale más económica e igual de rica.",
+  alternativa: "Si no encuentras cuscús perlado, usa la misma cantidad de pasta de piñones u orzo cocida el tiempo del paquete; la textura de bolitas es casi idéntica.",
   tupper: true,
   contundencia: "media",
   coste: "premium"

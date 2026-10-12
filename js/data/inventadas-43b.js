@@ -263,6 +263,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 45, hc: 36, grasa: 50 },
   etiquetas: ["rápida", "15 minutos", "para invitados", "alta en proteína", "microondas"],
   consejo: "Para un filete de 2 cm a fuego máximo: 2 minutos por lado es poco hecho, 3 punto medio y 4 hecho. Si es más grueso, márcalo y termínalo a fuego medio. El reposo forma parte de la cocción: nunca cortes la carne recién salida de la sartén.",
+  alternativa: "Si no encuentras pimienta verde en salmuera, machaca 1/2 cda de pimienta negra en grano y tuéstala unos segundos antes del brandy; la salsa pica algo más, así que pon un poco menos.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -312,6 +313,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 36, hc: 40, grasa: 18 },
   etiquetas: ["rápida", "15 minutos", "ligera", "especiada", "alta en proteína", "tupper"],
   consejo: "La base de masala (cebolla, ajo, jengibre, especias y tomate reducido hasta que suelta el aceite) se puede hacer en cantidad y congelar en raciones: con ella tienes un curry en 5 minutos añadiendo legumbre cocida, pollo, huevo duro o marisco. El marisco, siempre al final y a fuego suave.",
+  alternativa: "Si en casa no hay garam masala, añade 1 cdta de curry suave y una pizca de comino molido junto a la cúrcuma.",
   contundencia: "ligera",
   coste: "premium",
   tupper: true
@@ -359,6 +361,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 39, hc: 57, grasa: 41 },
   etiquetas: ["rápida", "15 minutos", "omega 3", "alta en proteína", "bowl", "superalimentos"],
   consejo: "Los glaseados con miel, azúcar o mirin se añaden siempre al final y a fuego medio, cuando la proteína ya está casi hecha: si van desde el principio, el azúcar se quema antes de que el interior se cocine. La misma técnica sirve para pollo, tofu o langostinos.",
+  alternativa: "Si no encuentras kimchi, usa la misma cantidad de chucrut escurrido con 1/2 cdta de pimentón picante y unas gotas de vinagre de arroz: conserva el punto ácido y picante.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -401,6 +404,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 33, hc: 28, grasa: 22 },
   etiquetas: ["rápida", "15 minutos", "ligera", "alta en proteína", "para invitados", "microondas", "bajo en colesterol"],
   consejo: "El ajo laminado siempre se empieza en aceite templado, no muy caliente: así perfuma el aceite y se dora de forma uniforme. Los pescados gelatinosos (rape, bacalao, merluza de pincho) ligan solos la salsa si mueves la sartén en vaivén; los pescados grasos, no.",
+  alternativa: "Para abaratarlo, usa lomos gruesos de merluza de pincho en lugar de rape: cocínalos 1 minuto y medio por lado, porque son más delicados; también ligan la salsa al moverla.",
   contundencia: "ligera",
   coste: "premium",
   tupper: false
@@ -578,6 +582,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 14, hc: 55, grasa: 20 },
   etiquetas: ["rápida", "15 minutos", "olla exprés", "ligera", "de cuchara", "económica", "tupper", "poco especiada"],
   consejo: "La patata es el espesante natural de las cremas de verdura: con un tercio de patata no necesitas nata. Puedes cocer huevos enteros en la olla exprés junto a cualquier crema o guiso de 5 minutos. El nabo pierde su punto amargo si lo rehogas antes en grasa; si es grande y fibroso, pélalo grueso.",
+  alternativa: "Sin olla exprés, cuece las verduras en cazuela tapada a fuego medio 20 minutos, hasta que el nabo esté tierno, y los huevos aparte en agua hirviendo 10 minutos.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -803,6 +808,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 21, hc: 85, grasa: 21 },
   etiquetas: ["rápida", "15 minutos", "vegana", "tupper", "ideal para llevar", "bajo en colesterol"],
   consejo: "Para caramelizar cebolla deprisa: córtala muy fina, sálala y tápala unos minutos para que se ablande con su propio vapor; luego destapa, añade una pizca de azúcar y sube el fuego. No es igual que una cebolla de 40 minutos, pero da un resultado dulce y meloso en 8. La tfaya se guarda 5 días en la nevera.",
+  alternativa: "Si no tienes ras el hanout, combina 1/2 cdta de comino, 1/2 cdta de pimentón dulce y una pizca más de canela; el aroma especiado se mantiene.",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -927,6 +933,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 685, prot: 25, hc: 72, grasa: 33 },
   etiquetas: ["rápida", "15 minutos", "técnica", "para invitados", "sin verduras"],
   consejo: "La gricia enseña la base de la carbonara y del cacio e pepe: grasa + agua de cocción con almidón + queso, mezclados fuera del fuego. El queso nunca va a la sartén al fuego, porque se funde en hebras y se apelmaza. Domina esta emulsión y harás cualquier pasta romana sin nata.",
+  alternativa: "Si no encuentras pecorino, usa parmesano o grana padano rallado muy fino (los mismos 50 g): la salsa liga igual, aunque queda algo menos salada y punzante.",
   contundencia: "contundente",
   coste: "media",
   tupper: false
@@ -973,6 +980,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 37, hc: 70, grasa: 17 },
   etiquetas: ["rápida", "15 minutos", "alta en proteína", "wok", "tupper", "bajo en colesterol"],
   consejo: "Echar las salsas líquidas (soja, vinagre, vino) por el borde caliente del wok en lugar de por el centro hace que se reduzcan y tuesten al instante, y aporta un aroma ahumado. Funciona en cualquier salteado: lomo saltado, arroz chaufa o verduras.",
+  alternativa: "Si no encuentras pasta de ají amarillo, mezcla 1 cdta de pimentón dulce con una pizca de cayena y unas gotas de vinagre; da color y un picor suave muy parecidos.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -1019,6 +1027,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 41, hc: 75, grasa: 16 },
   etiquetas: ["rápida", "15 minutos", "wok", "alta en proteína", "tupper", "poco especiada"],
   consejo: "Lo mein y chow mein usan los mismos fideos de huevo, pero en el lo mein se cuecen del todo y se mezclan con más salsa (resultado jugoso), mientras que en el chow mein se cuecen a medias y se tuestan en el wok (resultado crujiente). Elige según la textura que prefieras.",
+  alternativa: "Si no encuentras pak choi, usa 2 hojas de acelga tierna o col china: los tallos al principio, como en la receta, y las hojas al final.",
   contundencia: "media",
   coste: "premium",
   tupper: true
