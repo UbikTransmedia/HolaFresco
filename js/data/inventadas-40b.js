@@ -44,6 +44,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 390, prot: 19, hc: 44, grasa: 15 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegetariana", "ligera", "sin gluten", "fácil", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 5 días en la nevera y 3 meses congelada sin el parmesano. Descongela en la nevera y recalienta 3 minutos a 800 W removiendo a mitad. Si tienes una corteza de parmesano, cuécela con la sopa y retírala al final: da mucho sabor.",
+  alternativa: "Si no encuentras salvia fresca, usa ½ cdta de salvia seca o una ramita pequeña de romero que retirarás antes de triturar.",
   tupper: true
 });
 
@@ -406,6 +407,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 43, hc: 57, grasa: 18 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "fácil", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y mejora al reposar porque el bulgur absorbe el aliño. No se congela montada; el pavo asado sí, 2 meses. Se come fría. Para hacerla sin gluten, cambia el bulgur por quinoa.",
+  alternativa: "Sin zumaque, da el toque ácido con la ralladura de medio limón; fuera de temporada de granada, usa 30 g de arándanos rojos secos.",
   tupper: true
 });
 
@@ -682,6 +684,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 51, hc: 76, grasa: 20 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "sin gluten", "fácil", "invierno"],
   consejo: "Mejor al día siguiente. Aguanta 5 días en la nevera y 3 meses congelada en su salsa. Descongela en la nevera y recalienta tapada 3 minutos a 800 W. Cocinar el doble de carrillada no cuesta más trabajo: congela la mitad.",
+  alternativa: "En olla exprés, la carrillada queda tierna en 40-45 min desde que sube la válvula en vez de 2 h; sin cinco especias chinas, mezcla una pizca de canela, clavo, pimienta negra y semillas de hinojo.",
   tupper: true
 });
 
@@ -859,6 +862,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 20, hc: 39, grasa: 19 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelado. Descongela en la nevera y recalienta tapado 3 minutos a 700 W. Acompáñalo con un poco de arroz o pan de pita si lo quieres más saciante.",
+  alternativa: "Si no tienes ras el hanout, mezcla 1 cdta de comino, ½ de cúrcuma, ¼ de canela y ¼ de jengibre molido: el gratín conserva su aroma especiado.",
   tupper: true
 });
 
@@ -949,6 +953,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 27, hc: 45, grasa: 19 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegana", "ligera", "alta en proteína", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 5 días en la nevera. El tofu horneado puede congelarse 2 meses, aunque queda más esponjoso. Cómelo frío como ensalada o recalienta 2 minutos a 700 W. Sin gluten: cambia el bulgur por quinoa.",
+  alternativa: "Cuando no tengas za'atar, marina el tofu con 1 cdta de tomillo seco, 1 cdta de sésamo tostado y la ralladura del limón: el sabor es muy parecido.",
   tupper: true
 });
 

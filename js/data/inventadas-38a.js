@@ -219,6 +219,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 438, prot: 26, hc: 52, grasa: 14 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "ligera", "alta en proteína", "fácil", "poco especiada"],
   consejo: "Si te sobran, saca los mejillones de la concha y guárdalos en su salsa con la quinoa: aguantan 1 día en la nevera y se comen bien templados a 500 W. Las frondas verdes del hinojo sirven para decorar como si fueran eneldo.",
+  alternativa: "Si no encuentras hinojo, lamina fino 2 ramas de apio y añade ½ cdta de semillas de hinojo o de anís al vino: recuerda bastante al anisado del bulbo.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -453,6 +454,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 715, prot: 44, hc: 73, grasa: 27.5 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "batch cooking", "alta en proteína", "para niños", "poco especiada"],
   consejo: "Las albóndigas se congelan crudas o ya cocinadas; recaliéntalas con la salsa y tapadas a 600 W. Si quieres aligerarlas más, usa pavo picado en lugar de ternera.",
+  alternativa: "La mermelada de arándanos rojos se puede cambiar por la de frambuesa o grosella (las mismas 2 cda) con unas gotas de limón para acercarla a su punto ácido; si falta eneldo fresco, 1 cdta de eneldo seco.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -540,6 +542,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 21, hc: 60, grasa: 25.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "rápida", "fácil", "superalimentos", "poco especiada"],
   consejo: "Elige boniatos alargados y de grosor parecido para que se hagan a la vez. Para tupper, guarda el boniato con el relleno y lleva el yogur aparte: recalienta a 600 W 2 minutos y añade la salsa fría.",
+  alternativa: "¿Sin za'atar? Mezcla 1 cdta de tomillo seco, 1 cdta de sésamo tostado y la ralladura del medio limón con una pizca de sal: sale un aliño muy parecido.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -672,6 +675,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 32, hc: 46, grasa: 31 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil", "superalimentos", "poco especiada"],
   consejo: "El pesto aguanta 4 días en un tarro cubierto con un hilo de aceite para que no se oscurezca. Si el tofu te parece soso, déjalo 10 minutos en tamari con limón antes de cocinarlo.",
+  alternativa: "Si no tienes levadura nutricional, pon 15 g de parmesano rallado en el pesto; para mantenerlo vegetal, añade en su lugar 5 g más de nueces y una pizca extra de sal.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -717,6 +721,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 18, hc: 46, grasa: 16 },
   etiquetas: ["saludable", "práctica", "microondas", "ligera", "rápida", "fácil", "detox", "bajo en colesterol"],
   consejo: "Para desmoldar el tofu sedoso entero, pasa un cuchillo por el borde del envase y dale la vuelta sobre el plato. Si cambias la salsa de soja por tamari, el plato queda apto sin gluten. Es para comer recién hecho.",
+  alternativa: "Cuando no haya pak choi, usa 200 g de acelgas tiernas (pencas en tiras, hojas troceadas) o col china: las pencas necesitan 1 min más de vapor.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -763,6 +768,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 305, prot: 21, hc: 28, grasa: 12 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Haz el doble de boloñesa de soja y congélala: sirve para pasta o para rellenar una patata asada. Si la soja texturizada te sabe a poco, hidrátala en caldo de verduras caliente en lugar de agua.",
+  alternativa: "Puedes cambiar la soja texturizada por 250 g de lentejas cocidas de bote escurridas: sáltate la hidratación y añádelas directamente al tomate.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -856,6 +862,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 22, hc: 86, grasa: 19.5 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "batch cooking", "ideal para llevar", "alta en proteína", "rápida", "fácil", "bajo en colesterol"],
   consejo: "Guarda el cuscús y los garbanzos en el mismo tupper: el cuscús absorbe la salsa y queda aún más sabroso. Para hacerlo sin gluten, cambia el cuscús por quinoa cocida en el microondas (12 minutos).",
+  alternativa: "Si no hay ras el hanout, mezcla 1 cdta de comino, ½ de cúrcuma, ¼ de canela, ¼ de jengibre molido y una pizca de pimienta: los mismos 2 cdta en total.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1077,6 +1084,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 16, hc: 68, grasa: 28 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "rápida", "fácil", "superalimentos", "poco especiada"],
   consejo: "Para el tupper, pon abajo la quinoa y el boniato, encima las espinacas y lleva la vinagreta aparte: así las hojas no se ablandan. La granada desgranada aguanta 5 días en la nevera.",
+  alternativa: "Fuera de la temporada de granada (octubre a febrero), sustitúyela por 30 g de arándanos rojos deshidratados: aportan el mismo toque dulce y ácido.",
   tupper: true,
   contundencia: "media",
   coste: "media"

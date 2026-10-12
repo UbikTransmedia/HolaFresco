@@ -45,6 +45,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 347, prot: 36, hc: 26, grasa: 11 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "detox", "bajo en colesterol"],
   consejo: "La ensalada de col aguanta 2 días en la nevera e incluso mejora; el pescado, mejor recién hecho. También sirve con merluza o bacalao fresco. Si te gusta más picante, sube la cayena.",
+  alternativa: "Sin airfryer: hornea el abadejo especiado a 200 °C durante 12-14 min en bandeja con papel, con el horno bien precalentado.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -306,6 +307,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 387, prot: 42, hc: 12, grasa: 19 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "para niños", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Mezcla sésamo blanco y negro si tienes: queda muy vistoso. La ensalada de col china aguanta aliñada un día sin ablandarse, así que es buen tupper con el pavo aparte; recalienta el pavo 3 minutos en la airfryer para que recupere el crujiente.",
+  alternativa: "Si no encuentras col china, usa repollo blanco cortado muy fino (los mismos 250 g) y déjalo 10 min con el aliño para que se suavice.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -431,6 +433,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 537, prot: 38, hc: 54, grasa: 19 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "alta en proteína", "fácil", "tupper", "ideal para llevar", "aprovechamiento", "bajo en colesterol"],
   consejo: "Un tupper perfecto: aguanta 3 días en la nevera y se come frío o caliente. Si sustituyes el caldo por agua, sube un poco la sal. Para versión sin gluten, usa quinoa cocida en lugar de cuscús.",
+  alternativa: "Si no tienes harissa, sustituye la cucharadita por ½ cdta de pimentón dulce con una pizca de cayena y otra de comino.",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -478,6 +481,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 498, prot: 34, hc: 64, grasa: 12 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "alta en proteína", "sin gluten", "fácil"],
   consejo: "Si tienes hervidor de agua, úsalo para el paso 1 y ganarás 5 minutos. Los fideos de arroz se apelmazan en la nevera: si te sobra, añade un chorrito de agua y unas gotas de lima antes de comerlo frío al día siguiente.",
+  alternativa: "Sin salsa de pescado, sube el tamari a 1,5 cda y añade un poco de ralladura de lima: el aliño sigue igual de sabroso.",
   contundencia: "media",
   coste: "media",
   tupper: false
@@ -979,6 +983,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 433, prot: 20, hc: 25, grasa: 28 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "vegetariana", "sin gluten", "fácil", "tupper", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "Masajear el kale con limón y sal rompe sus fibras y le quita el amargor: no te saltes ese paso. A diferencia de la lechuga, aguanta aliñado 3 días en la nevera, así que es ideal para llevar.",
+  alternativa: "Si no hay kale, usa 200 g de berza o col de Milán en tiras muy finas: se masajea igual y también aguanta aliñada varios días.",
   contundencia: "ligera",
   coste: "media",
   tupper: true
@@ -1023,6 +1028,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 39, hc: 44, grasa: 22 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "alta en proteína", "sin gluten", "fácil", "aprovechamiento", "para niños", "superalimentos", "bajo en colesterol"],
   consejo: "Prepara todos los componentes y que cada uno monte su tostada en la mesa: así no se ablandan. El puré de alubias y la crema de yogur aguantan 3 días en la nevera. Para celíacos, comprueba que las tostadas sean 100 % maíz.",
+  alternativa: "¿Sin tostadas de maíz? Hornea 4 tortillas de maíz a 200 °C 6-8 min (o tuéstalas en sartén sin aceite) hasta que estén crujientes.",
   contundencia: "media",
   coste: "media",
   tupper: false

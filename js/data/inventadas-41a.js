@@ -42,6 +42,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 358, prot: 38, hc: 11, grasa: 18 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Si te sobran, guarda las brochetas sin la salsa hasta 3 días en la nevera: se comen bien frías, desmenuzadas en una ensalada, o recalentadas 3 minutos en la airfryer a 180 °C. Con pechuga de pollo funciona igual.",
+  alternativa: "Sin airfryer, asa las brochetas en la bandeja alta del horno a 220 °C durante 15-18 min, dándoles la vuelta a mitad, y termina 2 min con el grill para que se tuesten.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -217,6 +218,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 408, prot: 25, hc: 15, grasa: 28 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegetariana", "sin gluten", "tupper", "keto", "poco especiada"],
   consejo: "Las láminas deben quedar flexibles pero no blandas, o se romperán al enrollarlas. Se conservan 2 días en la nevera y se pueden comer templados o fríos; también puedes cambiar el requesón por ricotta.",
+  alternativa: "Para abaratar, cambia los piñones por la misma cantidad de almendra laminada o pipas de girasol peladas, tostadas un minuto en seco.",
   contundencia: "ligera",
   coste: "media",
   tupper: true
@@ -260,6 +262,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 504, prot: 44, hc: 31, grasa: 22 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "alta en proteína", "sin gluten", "fácil", "tupper", "ideal para llevar", "económica", "bajo en colesterol"],
   consejo: "La harissa cambia mucho de picante según la marca: empieza con media cucharada si no la conoces. Para tupper guarda el yogur aparte; el pollo con los garbanzos aguanta 3 días y está rico también frío.",
+  alternativa: "Si no hay harissa en tu súper, mezcla 1 cdta de pimentón dulce, ¼ cdta de cayena, ½ de comino y unas gotas de limón con el aceite del adobo.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -303,6 +306,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 364, prot: 14, hc: 33, grasa: 20 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "vegana", "sin gluten", "fácil", "tupper", "económica", "detox", "bajo en colesterol"],
   consejo: "Si tu airfryer es pequeña, cocina las berenjenas de dos en dos. Se conservan 3 días en la nevera con la salsa aparte; recaliéntalas 4 minutos a 180 °C o cómelas a temperatura ambiente, como un mezze.",
+  alternativa: "¿Sin ras el hanout? Sazona los garbanzos con ½ cdta de comino, ¼ de canela y ¼ de cúrcuma; sin airfryer, hornea las berenjenas a 200 °C unos 25 min.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -520,6 +524,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 319, prot: 38, hc: 8, grasa: 15 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa de jengibre y cebolleta aguanta 5 días en un tarro en la nevera y sirve para pescado, tofu o arroz. Para tupper, guarda el pollo en lonchas con la salsa por encima: así no se seca al recalentar.",
+  alternativa: "Si no encuentras pak choi, usa 250 g de acelgas tiernas o de col china en tiras: cocínalas el mismo tiempo, con las pencas debajo del pollo.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -1075,6 +1080,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 512, prot: 38, hc: 49, grasa: 18 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "alta en proteína", "fácil", "tupper", "ideal para llevar", "aprovechamiento", "poco especiada", "bajo en colesterol"],
   consejo: "Envuelto en papel de horno aguanta en la nevera hasta el día siguiente, ideal para llevar. Si te gusta templado, caliéntalo 1 minuto por cada lado en una sartén sin aceite. Para sin gluten, usa tortillas de maíz.",
+  alternativa: "El zumaque se puede reemplazar por la ralladura de medio limón con una pizca de pimentón: mantiene el toque ácido sobre el hummus.",
   contundencia: "media",
   coste: "media",
   tupper: true

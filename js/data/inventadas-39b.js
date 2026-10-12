@@ -130,6 +130,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 548, prot: 32, hc: 78, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "alta en proteína", "batch cooking", "económica", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "El picadillo aguanta 4 días en la nevera y se congela sin problema; el arroz, 3 días. Monta el tupper con el arroz a un lado y el picadillo al otro. Recalienta 2-3 minutos a 800 W tapado con 1 cucharada de agua. Añade unas pasas si te gusta el toque agridulce original. Comprueba que la soja texturizada sea apta si cocinas para celíacos.",
+  alternativa: "Si no tienes soja texturizada, usa 300 g de lentejas cocidas de bote escurridas en lugar de la soja y el caldo: añádelas con el tomate y cuece solo 5 min.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -173,6 +174,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 594, prot: 38, hc: 46, grasa: 28 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil", "superalimentos", "poco especiada"],
   consejo: "La salsa de yogur va siempre en un botecito aparte y se añade fría al final. Aguanta 2-3 días en la nevera. El salmón se puede comer frío sobre el farro templado; si lo calientas, 1 minuto y medio a 500 W tapado para que no se reseque ni huela.",
+  alternativa: "¿No encuentras farro? Cuece 100 g de trigo tierno o espelta en grano 25 min: la textura es prácticamente la misma.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -216,6 +218,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 574, prot: 20, hc: 74, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "airfryer", "vegana", "fácil", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El kale masajeado es de las pocas hojas que aguantan 3 días aliñadas sin estropearse. Guarda los garbanzos crujientes en un táper pequeño o una bolsa de papel y el aliño de tahini en un botecito: añádelos al final para que sigan crujientes. Se come frío o con el boniato templado 1 minuto al microondas.",
+  alternativa: "Sin airfryer: hornea los garbanzos y el boniato en bandeja con papel a 200 °C, 25-30 min, moviéndolos a mitad para que se doren por igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -301,6 +304,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 586, prot: 42, hc: 64, grasa: 18 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "airfryer", "alta en proteína", "picante", "fácil", "rápida", "bajo en colesterol"],
   consejo: "Los contramuslos son mucho más agradecidos que la pechuga para el tupper: siguen jugosos al recalentar. Aguanta 3 días en la nevera. Calienta 2 minutos a 800 W tapado (el cuscús, con una cucharada de agua) y añade al final el yogur a la menta, que llevarás en un botecito aparte.",
+  alternativa: "Si no tienes harissa, mezcla 1 cdta de pimentón dulce, ½ cdta de cayena, ½ de comino y 1 diente de ajo rallado con el aceite; sin airfryer, hornea a 200 °C unos 25 min.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -744,6 +748,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 596, prot: 40, hc: 64, grasa: 20 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "fácil", "batch cooking", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Mezcla el pesto siempre fuera del fuego: el limón y las espinacas lo mantienen verde 3 días en la nevera. Se come frío como ensalada de arroz o templado 1 minuto y medio a 600 W, tapado y sin pasarte para que el pesto no se oscurezca.",
+  alternativa: "Para abaratar el pesto, cambia los piñones por 15 g de almendras o nueces: apenas varía el sabor.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -878,6 +883,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 402, prot: 34, hc: 44, grasa: 10 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "vegana", "ligera", "alta en proteína", "de cuchara", "una sola olla", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera con su caldo. Recalienta tapado 2-3 minutos a 800 W removiendo a mitad; añade un chorrito de agua si ha espesado. Con alcachofas frescas en temporada queda aún mejor: límpialas y añádelas con la patata.",
+  alternativa: "Si no encuentras seitán, usa 200 g de heura en dados o 250 g de garbanzos cocidos, añadidos en los últimos 10 min del guiso.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -965,6 +971,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 458, prot: 30, hc: 62, grasa: 10 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "rápida", "ligera", "fácil"],
   consejo: "Aguanta 2 días en la nevera por el marisco. Antes de recalentar, salpica con 1 cucharada de agua, tapa y calienta 1 minuto y medio a 600 W: a más potencia los langostinos se quedan gomosos. También está rico frío como ensalada de fideos. Lleva la lima y el cilantro aparte.",
+  alternativa: "Sin salsa de pescado, añade ½ cda más de tamari y un poco de ralladura de lima: el salteado conserva su punto salino.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -1056,6 +1063,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 18, hc: 80, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "batch cooking", "económica", "fácil", "superalimentos"],
   consejo: "Aguanta 3-4 días en la nevera y se congela bien sin el arroz. En el tupper, arroz a un lado y curry al otro; recalienta tapado 2-3 minutos a 800 W. Lleva la otra media lima aparte para el final. Para más proteína, añade 100 g de tofu firme en dados con los garbanzos.",
+  alternativa: "Si no tienes pimienta de Jamaica, usa una pizca de canela, otra de clavo molido y un par de vueltas de pimienta negra.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

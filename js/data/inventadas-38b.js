@@ -126,6 +126,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 33, hc: 53, grasa: 7.5 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "ligera", "alta en proteína", "rápida", "fácil"],
   consejo: "Para el tupper, lleva el aliño aparte y mézclalo justo antes de comer: se toma frío, así que no hace falta recalentar. Las gambas congeladas peladas son una alternativa más barata a los langostinos.",
+  alternativa: "Si no encuentras salsa de pescado, machaca 1 filete de anchoa en aceite con 1 cda de tamari y 1 cda de agua: el nuoc cham conserva su fondo salino y umami.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -412,6 +413,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 44, hc: 63, grasa: 16 },
   etiquetas: ["saludable", "práctica", "microondas", "tupper", "ideal para llevar", "batch cooking", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "La caponata está aún mejor al día siguiente y se come fría o templada, así que este plato es perfecto para el tupper (3 días). Para hacerlo sin gluten, cambia el cuscús por quinoa cocida en el microondas.",
+  alternativa: "Para abaratar, cambia los piñones por 10 g de almendra laminada tostada un minuto en seco: el crujiente es casi igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -506,6 +508,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 23, hc: 16, grasa: 29 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ligera", "alta en proteína", "keto", "poco especiada"],
   consejo: "Si no tienes tiempo de limpiar alcachofas, usa corazones grandes en conserva: sáltate el paso 2 y rellénalos directamente. Las frescas están en su mejor momento de noviembre a abril. Aguantan 3 días en la nevera; recalienta tapadas a 600 W 2 minutos.",
+  alternativa: "Los piñones pueden sustituirse por la misma cantidad de almendra en láminas y, si no encuentras ricotta, sirve requesón bien escurrido (200 g).",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -689,6 +692,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 30, hc: 80, grasa: 30 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "alta en proteína", "picante", "fácil"],
   consejo: "Revisa la etiqueta de la pasta de curry: muchas llevan gamba o pescado, así que elige una vegana. Con leche de coco ligera ahorras unas 100 kcal por ración sin perder cremosidad.",
+  alternativa: "Si no hay tempeh, usa 200 g de tofu firme prensado 10 min y en dados: queda algo más suave, así que marínalo antes 5 min en el tamari con lima.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -953,6 +957,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 29, hc: 65, grasa: 19 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "La caballa es de los pescados azules más baratos y ricos en omega 3: pide al pescadero que te la deje en lomos. Este bol es para comer al momento; si te sobra pescado, desmenúzalo frío sobre arroz al día siguiente.",
+  alternativa: "¿Sin mirin? Mezcla 1 cda de vino blanco con ½ cdta de azúcar hasta disolverla: da el mismo toque dulzón a la salsa.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1045,6 +1050,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 385, prot: 7, hc: 53, grasa: 16 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "fácil", "invierno", "detox", "bajo en colesterol"],
   consejo: "Corta la chirivía en rodajas finas y del mismo grosor para que se cueza a la vez; si es grande, quita el corazón leñoso. Se congela bien sin el yogur. Para comida completa, acompáñala con un huevo escalfado en taza o con garbanzos.",
+  alternativa: "Si no encuentras chirivía, usa 250 g de zanahoria y 150 g de nabo: la crema sale un poco más dulce y anaranjada, con un sabor muy cercano.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

@@ -47,6 +47,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 48, hc: 55, grasa: 14 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "alta en proteína", "sin gluten", "una sola olla", "fácil", "invierno", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera y hasta 3 meses congelado. Descongela en la nevera la noche anterior y recalienta en el microondas 3-4 minutos a 800 W, tapado y removiendo a mitad, con un chorrito de agua porque la lenteja espesa al enfriar. Si eres celíaco, usa caldo y pimentón con sello sin gluten.",
+  alternativa: "Con lentejas pardinas cocidas de bote (unos 400 g escurridas) te ahorras media hora: baja el caldo a 400 ml, cuece primero el pollo y la calabaza y añade las lentejas en los últimos 10 min.",
   tupper: true
 });
 
@@ -189,6 +190,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 21, hc: 66, grasa: 12 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "ligera", "picante", "sin gluten", "fácil", "económica", "bajo en colesterol"],
   consejo: "Dura 4 días en la nevera y 3 meses en el congelador (sin el queso). Descongela en la nevera y recalienta 3 minutos a 800 W removiendo a mitad; añade el queso y el cilantro al final. Comprueba que el chipotle en adobo no lleve gluten.",
+  alternativa: "Si no encuentras chipotle en adobo, usa 1 cdta de pimentón ahumado con ¼ cdta de cayena y un chorrito de vinagre: mantiene el punto ahumado y picante.",
   tupper: true
 });
 
@@ -460,6 +462,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 46, hc: 72, grasa: 15 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "fácil", "invierno", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 3 meses en el congelador (el bulgur también congela bien). Descongela en la nevera y recalienta 3 minutos a 800 W tapado. Si quieres versión sin gluten, cambia el bulgur por quinoa.",
+  alternativa: "¿Sin ras el hanout? Prepara 2 cdta mezclando comino, cúrcuma, jengibre molido y una pizca de canela y de pimienta negra a partes casi iguales.",
   tupper: true
 });
 
@@ -693,6 +696,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 30, hc: 61, grasa: 22 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegana", "sin gluten", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera. La patata cambia de textura al congelarse, así que si vas a congelar, hazlo sin patata y añádela al recalentar. Recalienta 3 minutos a 800 W con un chorrito de agua. Si el tempeh te amarga, hiérvelo 5 minutos antes de dorarlo.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme bien prensado (dóralo igual) o 250 g de garbanzos cocidos añadidos en los últimos 10 min.",
   tupper: true
 });
 
@@ -739,6 +743,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 24, hc: 65, grasa: 11 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegana", "ligera", "sin gluten", "fácil", "económica", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 5 días en la nevera y 3 meses congelado. Espesa mucho al enfriarse: añade 3-4 cucharadas de agua y recalienta 3 minutos a 800 W removiendo. En olla exprés, los guisantes están en 12 minutos. Acompáñalo con arroz basmati si quieres un plato más saciante.",
+  alternativa: "Si no hay guisantes amarillos partidos, usa los mismos 160 g de lentejas rojas: se deshacen en 20 min y el dal queda casi idéntico; sin semillas de mostaza, basta con el comino en grano.",
   tupper: true
 });
 
@@ -783,6 +788,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 50, hc: 58, grasa: 21 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera sin aliñar. No congeles la ensalada montada; si quieres adelantar más, congela el pollo asado y el trigo sarraceno por separado (2 meses). Se come fría o templada 1 minuto en el microondas antes de añadir el aliño.",
+  alternativa: "El trigo sarraceno se puede cambiar por 120 g de quinoa (15 min de cocción): sigue siendo sin gluten y la ensalada apenas cambia.",
   tupper: true
 });
 
@@ -1046,6 +1052,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 39, hc: 50, grasa: 12 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "ligera", "alta en proteína", "sin gluten", "fácil"],
   consejo: "Aguanta 3 días en la nevera. Para congelar, guarda la salsa con la coliflor sin el pescado (3 meses) y añade el bacalao al recalentarla en un cazo. El curry completo, recaliéntalo tapado 2 minutos a 600 W y remueve con suavidad. Revisa que la salsa de pescado sea sin gluten.",
+  alternativa: "Si no tienes salsa de pescado, sustitúyela por 1 cda de tamari sin gluten y una pizca más de sal: el curry pierde muy poco.",
   tupper: true
 });
 

@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 522, prot: 38, hc: 52, grasa: 18 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "una sola sartén", "fácil", "batch cooking", "poco especiada"],
   consejo: "Reparte en dos tuppers de vidrio con todo su caldito: aguanta 3 días en la nevera. Recalienta tapado 2-3 minutos a potencia media (600 W) removiendo a mitad. Lleva aparte unas hojas de rúcula o unos gajos de naranja para añadir al final y darle frescor.",
+  alternativa: "Sin hinojo, cambia el bulbo por 2 ramas de apio en láminas y una pizca de semillas de anís o hinojo con el comino: el toque anisado se mantiene.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -220,6 +221,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 566, prot: 30, hc: 62, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "alta en proteína", "fácil", "superalimentos", "bajo en colesterol"],
   consejo: "Se puede comer frío como ensalada o templado 1 minuto y medio al microondas. Aguanta 3 días: monta la quinoa con verduras abajo y el tempeh arriba, y guarda la lima en cuñas aparte para exprimir al final. Si te apetece, añade medio aguacate en el momento de comer.",
+  alternativa: "Si no encuentras pasta de achiote, mezcla 1 cda de pimentón dulce, ¼ cdta de cúrcuma y 1 cdta de vinagre; y si falta tempeh, usa 200 g de tofu firme bien prensado.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -264,6 +266,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 564, prot: 38, hc: 58, grasa: 20 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "fácil", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría: no necesita microondas. El farro aliñado aguanta 3 días sin ablandarse, pero guarda la vinagreta restante en un botecito aparte y los canónigos y avellanas encima sin mezclar, para que sigan frescos y crujientes. Cambia la uva por manzana o pera según temporada.",
+  alternativa: "Si no hay farro, usa 120 g de trigo tierno para cocinar o cebada perlada: cuécelos 25-30 min y quedan igual de enteros y mordientes en la ensalada.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -484,6 +487,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 502, prot: 40, hc: 54, grasa: 14 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "una sola sartén", "picante", "fácil", "batch cooking"],
   consejo: "Aguanta 3 días en la nevera y se congela muy bien. Recalienta tapado 2-3 minutos a 800 W, removiendo a mitad. Lleva aparte una cucharada de yogur griego o unos dados de aguacate para añadir al final y suavizar el picante. Revisa que el chipotle en adobo sea apto si cocinas para celíacos.",
+  alternativa: "¿No tienes chipotle en adobo? Usa 1 cdta de pimentón ahumado, una pizca de cayena y 1 cdta de vinagre: conserva el ahumado y el picor.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -528,6 +532,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 688, prot: 42, hc: 76, grasa: 24 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "alta en proteína", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Pon el arroz abajo, la trucha y las verduras encima y vierte el jugo por encima para que el arroz no se seque. Aguanta 2-3 días en la nevera. Recalienta a 600 W 2 minutos tapado: a potencia media la trucha queda jugosa. También está rica templada, casi fría, como un poke cocinado.",
+  alternativa: "El pak choi se puede sustituir por 2 hojas grandes de acelga (pencas en bastones y hojas en tiras) o por 200 g de col china, con el mismo tiempo de cocción.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -927,6 +932,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 558, prot: 32, hc: 58, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "vegana", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El romesco aguanta 5 días en la nevera, así que puedes hacer doble cantidad. El plato montado aguanta 3 días: pon el romesco encima o en un botecito aparte. Recalienta el arroz con la heura 2 minutos a 800 W tapado y añade el romesco al final, frío o templado; si lo calientas mucho se separa el aceite.",
+  alternativa: "Si en tu zona no venden ñora, pon 1 cdta de carne de pimiento choricero de tarro o 1 cdta de pimentón dulce en la batidora: el romesco queda casi igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -970,6 +976,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 428, prot: 36, hc: 44, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "alta en proteína", "fácil"],
   consejo: "Está muy rica templada o fría, como ensalada. Aguanta 2 días en la nevera por el marisco. Si la quieres caliente, 1 minuto y medio a 600 W tapada, sin más, para que los langostinos no se queden gomosos. Lleva medio limón aparte para refrescar al final.",
+  alternativa: "Las lentejas beluga se pueden cambiar por pardinas (los mismos 130 g): cuécelas 25 min y escúrrelas en cuanto estén tiernas para que no se rompan.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -1059,6 +1066,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 536, prot: 38, hc: 60, grasa: 16 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "verano", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría y aguanta 3 días en la nevera. Si la preparas para varios días, guarda el tomate aparte y añádelo la misma mañana, así no se aguachina. Lleva medio limón para exprimir justo antes de comer: las hierbas recuperan todo su aroma.",
+  alternativa: "Si no encuentras mijo, usa 110 g de quinoa con la misma cocción; el zumaque se reemplaza con la ralladura de medio limón y una pizca de pimentón.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
