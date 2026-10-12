@@ -635,6 +635,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 715, prot: 30, hc: 43, grasa: 47 },
   etiquetas: ["creativa", "para niños", "económica", "verano"],
   consejo: "Salar y secar las rodajas antes de montarlas es lo que evita que el rebozado se despegue: el calabacín suelta mucha agua al calentarse. Elige calabacines rectos y del mismo grosor para que las rodajas casen, y un queso que funda bien sin ser muy graso. Si prefieres no freír, hornéalos 20 minutos a 200 °C sobre papel de horno, pintados con aceite y dándoles la vuelta a mitad.",
+  alternativa: "En freidora de aire: pinta los sanjacobos ya empanados con 2 cucharadas de aceite y hazlos a 190 °C 10–12 minutos en una sola capa, dándoles la vuelta a mitad; quedan crujientes con mucho menos aceite.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"

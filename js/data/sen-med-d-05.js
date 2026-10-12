@@ -1090,6 +1090,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 650, prot: 57, hc: 59, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína", "de cuchara", "invierno"],
   consejo: "El conejo es una de las carnes más magras y fáciles de digerir, y cocido así, desmenuzado en el caldo, se mastica sin esfuerzo. El aceite de ajo y el verde de la cebolleta dan el sabor de un sofrito sin sus FODMAP, y el arroz blanco y la patata son de los almidones mejor tolerados con intestino irritable. Desmenuza la carne con calma: el conejo tiene huesecillos finos. Aguanta 2 días en la nevera; el arroz se bebe el caldo, así que añade un poco de agua al recalentar.",
+  alternativa: "En olla exprés, el conejo está en 12 minutos desde que sube la válvula en lugar de 35; deja bajar la presión, sácalo y sigue igual con la patata y el arroz, ya sin presión.",
   tupper: true,
   contundencia: "media",
   coste: "media"

@@ -326,6 +326,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 38, hc: 50, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "económica"],
   consejo: "En Tarento, en Apulia, los mejillones se crían en el mar Pequeño desde hace siglos y entran en arroces, sopas y tortillas; esta frittata está inspirada en esa cocina. Los mejillones son bajos en FODMAP y muy ricos en hierro, y el pecorino, un queso curado de oveja, apenas conserva lactosa. Ábrelos en la sartén sin agua: el jugo que sueltan es muy salado, por eso los huevos llevan poca sal. Tibia o fría está igual de buena.",
+  alternativa: "Con 250 g de carne de mejillón cocida congelada te ahorras limpiarlos y abrirlos: descongélala en la nevera, sécala bien y añádela troceada al huevo; como sala menos que el mejillón recién abierto, pon una pizca más de sal.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -414,6 +415,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 505, prot: 17, hc: 55, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "una sola sartén", "poco especiada"],
   consejo: "Cada verdura va dentro de su ración segura: la calabaza japonesa (kabocha) es baja en FODMAP incluso en cantidad generosa, al contrario que la violín, y el pimiento verde y el kale son libres. El feta tiene muy poca lactosa: 30 g por persona no suelen dar problemas. Si quieres más proteína, pon encima un huevo escalfado por persona o unos dados de tofu firme dorado.",
+  alternativa: "Si no encuentras calabaza japonesa, usa 90 g de calabaza cacahuete y 210 g de zanahoria en dados de 1 cm (algo más pequeños, porque tarda más): entran a la vez con la patata y la sartén sigue siendo baja en FODMAP.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -502,6 +504,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 42, hc: 32, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lácteos", "bajo en colesterol", "alta en proteína", "otoño", "rápida"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa; la violín, en cambio, solo se tolera hasta unos 45 g. La granada es segura hasta unos 38 g de granos por persona y las nueces hasta 30 g, y esta ensalada se queda por debajo de las dos. Si la rúcula cruda te sienta pesada, cámbiala por espinacas tiernas, que se ablandan con el calor de la calabaza. Para llevar, guarda la vinagreta aparte y aliña al momento.",
+  alternativa: "En lugar de calabaza japonesa puedes dorar 90 g de calabaza cacahuete con 400 g de zanahoria en rodajas gruesas: tápalas 10 minutos en vez de 8 y luego dóralas igual. Queda un poco menos cremosa e igual de dulce.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -546,6 +549,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 37, hc: 69, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "rápida", "poco especiada", "alta en proteína"],
   consejo: "Las salchichas frescas llevan casi siempre ajo y cebolla; por eso aquí la salchicha se hace en casa, con pollo picado, hinojo y salvia, en dos minutos. El kale es bajo en FODMAP incluso en raciones generosas y, cocido con la pasta, queda tierno y fácil de digerir. La pasta sin gluten se pasa enseguida: escúrrela un minuto antes y termínala en la sartén con el agua de cocción.",
+  alternativa: "Si no encuentras semillas de hinojo, aromatiza el pollo con media cucharadita de matalahúva machacada: su anís es algo más marcado, pero la «salchicha» mantiene el aire italiano.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

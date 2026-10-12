@@ -49,6 +49,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 38, hc: 51, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "sin lácteos", "bajo en colesterol", "alta en proteína"],
   consejo: "Las salsas de frutos secos majados con perejil son muy de la cocina catalana y balear, donde ligan guisos y acompañan pescados. Los piñones son bajos en FODMAP hasta una cucharada por persona, que es lo que lleva el plato, y el ajo va como aceite aromatizado, sin fructanos. Diluir la salsa con el agua de las patatas en lugar de con más aceite la hace más ligera para un intestino sensible. Con dorada o con merluza sale igual de bien.",
+  alternativa: "Si los piñones se te van de precio, haz la salsa con 20 g de almendra cruda pelada, tostada igual 3 minutos: queda algo menos mantecosa pero igual de cremosa con el agua de las patatas, y son 10 g por persona, dentro de su ración tolerada.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -139,6 +140,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 38, hc: 50, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "sin lácteos", "bajo en colesterol", "alta en proteína"],
   consejo: "El papillote cocina el pescado en su propio vapor, sin grasa añadida y sin que se reseque: ábrelo en la mesa, porque sigue haciéndose dentro del paquete. La corvina, de carne firme, blanca y magra, aguanta muy bien este método y se digiere con facilidad; con merluza en lomos gruesos, dorada o lubina sale igual de bien. La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa, al contrario que la violín, y el pimentón dulce da color sin picar.",
+  alternativa: "Si no encuentras calabaza japonesa, pon 90 g de calabaza cacahuete y 200 g de zanahoria en rodajas finas, de 3 mm, que necesitan 1 minuto más de microondas: el papillote queda igual de vistoso y sigue siendo bajo en FODMAP.",
   tupper: false,
   contundencia: "media",
   coste: "media"

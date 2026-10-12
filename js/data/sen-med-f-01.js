@@ -1052,6 +1052,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 27, hc: 81, grasa: 19 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "sin lactosa", "de cuchara", "poco especiada", "bajo en colesterol", "invierno"],
   consejo: "Si las almejas no vienen purgadas, ponlas 1 hora antes en agua fría con una cucharada de sal para que suelten la arena. El aceite de ajo da todo el sabor del ajo sin sus FODMAP, y la parte verde de la cebolleta sustituye a la cebolla; el vino blanco se evapora casi entero y es bajo en FODMAP. Es mejor comerla recién hecha: recalentadas, las almejas se ponen gomosas.",
+  alternativa: "Para abaratar, usa chirlas en lugar de almejas (el mismo kilo): son más pequeñas, se abren en 2–3 minutos y, como tienen poca carne, déjalas todas en su concha.",
   tupper: false,
   contundencia: "media",
   coste: "premium"

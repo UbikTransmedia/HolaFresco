@@ -391,6 +391,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 46, hc: 33, grasa: 38 },
   etiquetas: ["tradicional", "todo en una olla", "de cuchara", "alta en proteína", "sin gluten", "batch cooking", "invierno"],
   consejo: "El cutturiddi se hacía con carne de oveja en un caldero sobre el fuego durante horas; con paletilla de cordero bastan 75 minutos. El trabajo activo son 20 minutos. Como todos los guisos, está mejor al día siguiente: aguanta 3 días en la nevera y se congela bien sin el queso.",
+  alternativa: "En olla exprés, guisa el cordero 15 minutos desde que suba la válvula en lugar de 50; deja bajar la presión, añade las patatas y cuécelas tapadas, sin presión, 20–25 minutos a fuego suave.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -954,6 +955,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 25, hc: 64, grasa: 18 },
   etiquetas: ["creativa", "todo en una olla", "rápida", "económica", "sin lactosa", "poco especiada"],
   consejo: "Es la despensa de la puttanesca (tomate, aceitunas, alcaparras) con el bonito de lata como proteína y la pasta cocida en la propia salsa, así que solo se mancha una cazuela. Puedes usar atún o caballa en aceite. Aguanta 2 días en la nevera y se come también templado.",
+  alternativa: "Si no encuentras orzo, usa los mismos 160 g de pasta de sopa tipo piñones, prácticamente igual de forma y tamaño; cuécela el tiempo del paquete y añade un chorrito de agua si se seca.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1081,6 +1083,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 30, hc: 60, grasa: 32 },
   etiquetas: ["creativa", "todo en una olla", "una sola sartén", "alta en proteína", "poco especiada", "ideal para llevar"],
   consejo: "El bulgur rojo con tomate y pimiento es el pilaf de diario de Chipre y del Egeo oriental; el tofu dorado le da la proteína que allí pondrían el halloumi o el pollo. Para una versión vegana, cambia el yogur por yogur de soja natural. Aguanta 3 días en la nevera y se come también frío.",
+  alternativa: "Si no tienes bulgur, usa 120 g de cuscús y solo 180 ml de caldo: viértelo hirviendo sobre el sofrito con el cuscús, apaga, pon el tofu encima, tapa y deja 5 minutos. El grano queda más fino, igual de esponjoso.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

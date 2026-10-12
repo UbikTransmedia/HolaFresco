@@ -321,6 +321,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 43, hc: 65, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína"],
   consejo: "El lomo de cerdo es una de las carnes más magras y, en filetes finos, se hace en cuatro minutos sin resecarse. La mandarina es baja en FODMAP y su zumo, ligado con una cucharadita de maicena, hace una salsa sin mantequilla ni nata. Las almendras se toleran bien hasta unas 10 por persona; aquí van laminadas y en poca cantidad. Si te cuesta digerir la espinaca poco hecha, saltéala un minuto más.",
+  alternativa: "Cuando no sea temporada de mandarinas, usa el zumo y la ralladura de 1 naranja grande (unos 150 ml): el glaseado sale un pelín más ácido, así que redúcelo 30 segundos más antes de devolver los filetes.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -365,6 +366,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 475, prot: 31, hc: 37, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin lactosa", "poco especiada"],
   consejo: "El çöp şiş original se marina con zumo de cebolla y pimiento picante; aquí el pimentón dulce, el tomillo y el zumaque de la ensalada dan el sabor sin irritar. Usa pierna limpia de grasa visible y dados pequeños: el cordero magro a la plancha es digestivo, mientras que las chuletas o la paletilla son mucho más grasas. Si no encuentras pan de pita sin gluten, sírvelo con tortillas de maíz calientes o con arroz.",
+  alternativa: "Sin zumaque, ralla sobre la ensalada la piel de medio limón y añade unas gotas más de su zumo y una pizca de pimentón dulce: tendrá el mismo toque ácido y rojizo.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -498,6 +500,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 38, hc: 48, grasa: 25 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "una sola sartén", "sin gluten", "poco especiada", "alta en proteína"],
   consejo: "El calabacín es bajo en FODMAP hasta unos 65 g por persona y el tomate cherry hasta 75 g: la receta va justo en ese límite, completada con pimiento verde, que se tolera mejor. El feta tiene muy poca lactosa y en 15 g por ración es apto. La quinoa es un cereal sin gluten muy bien tolerado; si la cueces de más, se convierte en una buena base para la comida del día siguiente.",
+  alternativa: "Si no encuentras kalamata, usa aceitunas negras de Aragón, los mismos 20 g sin hueso: tienen un sabor afrutado y algo vinoso muy parecido, mucho más que las negras cacereñas.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -713,6 +716,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 25, hc: 23, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "poco especiada", "otoño"],
   consejo: "La calabaza japonesa (kabocha) es la única que se puede comer en ración generosa en una dieta baja en FODMAP; la calabaza violín o butternut no pasa de 45 g por persona. Hecha al vapor en el microondas queda melosa sin una gota de grasa. Si los huevos escalfados te dan respeto, haz huevos mollet: 6 minutos en agua hirviendo, agua fría y pelar.",
+  alternativa: "Si no encuentras calabaza japonesa, haz en el microondas 90 g de calabaza cacahuete con 200 g de zanahoria y 150 g de patata en dados de 2 cm, 10–12 min: el chafado queda igual de dulce y anaranjado, algo menos harinoso, y sigue siendo bajo en FODMAP.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -888,6 +892,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 21, hc: 51, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "Pese al nombre, el trigo sarraceno no es trigo ni lleva gluten, y es bajo en FODMAP en raciones normales; tostarlo antes de cocerlo le da un sabor a avellana muy rico. El jamón crujiente se hace en seco, con su propia grasa, sin necesidad de freír nada. Las nueces son de los frutos secos mejor tolerados (hasta 30 g por persona).",
+  alternativa: "Si no tienes trigo sarraceno, usa los mismos 120 g de quinoa: lávala, escúrrela bien, tuéstala igual 2 minutos y cuécela 12–13; pierde parte del sabor a avellana, pero la ensalada sigue siendo sin gluten y baja en FODMAP.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -931,6 +936,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 29, hc: 72, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "El salmón aporta omega 3 y, en dados, se hace en dos minutos sin secarse. La salsa no lleva nata: el almidón del agua de cocción liga el limón y el aceite. Las espinacas y el tomate cherry (hasta 75 g por persona) son bajos en FODMAP. Elige una pasta sin gluten de maíz y arroz y cuécela justo al dente: pasada se apelmaza y sienta más pesada.",
+  alternativa: "Si no encuentras eneldo fresco, usa 1 cucharadita de eneldo seco y añádelo con el zumo de limón en el paso 5, no al final, para que se hidrate en la salsa.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1018,6 +1024,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 18, hc: 77, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "poco especiada", "superalimentos"],
   consejo: "El kale (el cavolo nero toscano es su primo) es bajo en FODMAP incluso en ración generosa y, cortado fino y hecho al vapor de la sartén, deja de ser duro y fibroso. Si te cuesta digerir la fibra de las hojas, pícalo más fino todavía o tritura la mitad con el agua de la pasta para hacer una salsa verde. Los tomates cherry, sin pasar de 75 g por persona.",
+  alternativa: "Para abaratar, cambia los piñones por 20 g de almendra laminada, tostada igual en seco 2 minutos: da el mismo crujiente y se queda dentro de la ración tolerada (unas 10 almendras por persona).",
   tupper: true,
   contundencia: "media",
   coste: "media"

@@ -758,6 +758,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 490, prot: 22, hc: 55, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "vegetariana", "poco especiada", "invierno"],
   consejo: "La fonduta del Piamonte y el Valle de Aosta se sirve con polenta, tostadas o verduras; hecha con leche sin lactosa y un queso curado como la fontina o el emmental no tiene lactosa apreciable. El vapor deja las verduras tiernas y fáciles de digerir sin añadir grasa, y las judías verdes van en 60 g por persona, dentro de su ración baja en FODMAP. Si la salsa se espesa demasiado al reposar, aclárala con un chorrito de leche caliente.",
+  alternativa: "Si no hay calabaza japonesa, cambia sus 300 g por 90 g de calabaza cacahuete y 200 g más de zanahoria: la zanahoria extra va al cestillo desde el principio y la cacahuete, en el segundo turno, con las judías.",
   tupper: false,
   contundencia: "media",
   coste: "media"

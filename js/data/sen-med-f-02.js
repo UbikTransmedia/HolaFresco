@@ -318,6 +318,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 45, hc: 46, grasa: 35 },
   etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "sin lactosa", "al horno"],
   consejo: "«Ubriaco» significa borracho: en el Chianti las chuletas se cocinan en el vino de la casa, y el alcohol se evapora casi todo durante la reducción. El original lleva dientes de ajo enteros; el aceite de ajo da el mismo perfume sin fructanos. Las semillas de hinojo, a diferencia del bulbo en cantidad, son bajas en FODMAP y le dan el aroma de la finocchiona toscana.",
+  alternativa: "Si no encuentras semillas de hinojo, usa media cucharadita de matalahúva (anís verde en grano), algo más intensa: machácala igual y échala con las chuletas; el aroma anisado es casi el mismo.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -495,6 +496,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 26, hc: 32, grasa: 38 },
   etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "invierno", "batch cooking"],
   consejo: "Las «spuntature» son las puntas de costilla, un corte barato que en Roma se guisa en tomate y se sirve sobre polenta extendida en una tabla de madera, para comer en el centro de la mesa. El sofrito original lleva cebolla y ajo: aquí la zanahoria picada da cuerpo y dulzor y el aceite de ajo, el aroma. El trabajo activo es de 20 minutos; el resto, la cazuela sola. Se congela muy bien.",
+  alternativa: "En olla exprés, guisa las costillas con el tomate y el agua 20 minutos desde que suba la válvula en lugar de 50; después reduce la salsa destapada 5–8 minutos a fuego medio, hasta que espese y brille.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -713,6 +715,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 23, hc: 60, grasa: 33 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "al horno", "invierno"],
   consejo: "Zanahoria y chirivía son libres en una dieta baja en FODMAP y, asadas, tienen un dulzor que no necesita miel. Las almendras sí tienen límite (unas 10 por persona, la cantidad de la receta). La cecina y el manchego curado aportan la proteína y la sal; si no encuentras cecina, usa jamón serrano en lonchas, que también se encrespa en el horno.",
+  alternativa: "Si no encuentras chirivía, asa 800 g de zanahoria en total, en los mismos bastones y con el mismo tiempo: queda algo más dulce y menos terrosa, y la salsa verde con alcaparras lo equilibra.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -937,6 +940,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 34, hc: 58, grasa: 26 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "invierno", "batch cooking"],
   consejo: "El trabajo activo son 20 minutos: el guiso se hace solo. El ragú italiano lleva sofrito de cebolla y apio, que son altos en FODMAP; aquí la zanahoria y el romero dan el fondo, y la naranja, en zumo y ralladura, aporta el dulzor clásico del pato. Quitar la piel reduce mucho la grasa. El ragú se congela bien.",
+  alternativa: "En olla exprés, los muslos de pato están tiernos en 25 minutos desde que sube la válvula, en vez de 60; luego desmenúzalos y reduce el ragú destapado mientras se cuece la pasta.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -981,6 +985,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 685, prot: 35, hc: 75, grasa: 27 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "alta en proteína"],
   consejo: "La pasta sin gluten suelta mucho almidón: el agua de cocción liga la salsa mejor que con la pasta normal, así que no la tires. El pecorino curado es apto (la lactosa desaparece en la maduración) y el tomate cherry, hasta 75 g por persona. Si no tienes pierna de cordero, usa filetes de cuello o de paletilla deshuesada.",
+  alternativa: "Si no tienes pecorino, sirve el plato con los mismos 30 g de parmesano o grana padano: es más suave y menos salado, así que prueba la salsa y ajusta la sal al final.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"

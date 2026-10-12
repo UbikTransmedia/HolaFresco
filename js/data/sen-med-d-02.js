@@ -52,6 +52,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 35, hc: 47, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína", "al horno"],
   consejo: "El pez de San Pedro (gallo de San Pedro) es muy apreciado en Provenza por su carne blanca, fina y magra, que se digiere con facilidad; pide al pescadero los filetes ya sacados. Los tomates asados lentamente se toleran mejor que crudos y el tomate pera no tiene límite de ración bajo en FODMAP; las aceitunas tampoco dan problemas en esta cantidad. El puré lleva aceite de oliva en lugar de leche y mantequilla, así que es apto sin lactosa. El horno trabaja solo: el trabajo activo no pasa de 20 minutos.",
+  alternativa: "Si no encuentras pez de San Pedro o está muy caro, usa filetes de dorada o lubina con piel, mucho más fáciles de encontrar: al ser algo más gruesos, dales 1 minuto más por el lado de la piel.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -929,6 +930,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 35, hc: 86, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "al horno", "para niños"],
   consejo: "En Sicilia los arancini se fríen y se rellenan de ragú o de jamón y queso; horneados con una costra de pan rallado sin gluten pintada con aceite salen crujientes sin la grasa del baño de aceite, mucho más llevaderos para un intestino sensible. La clave es que el arroz esté frío y bien seco antes de formar las bolas: si está caliente o húmedo se abren en el horno. Puedes dejarlos formados la víspera en la nevera y hornearlos al momento.",
+  alternativa: "En freidora de aire, pinta los arancini con el aceite y hazlos a 200 °C 15–18 minutos, en una sola capa (en dos tandas si no caben) y girándolos a mitad: salen igual de dorados sin encender el horno.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1100,6 +1102,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 46, hc: 35, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "de cuchara", "para niños"],
   consejo: "La crema reale es la guarnición de los caldos de Navidad de Lombardía, el Piamonte y Emilia: un flan salado de huevo, leche y queso que se corta en dados y se añade en el plato. Es de lo más suave que hay para un intestino irritable: huevo cuajado al baño maría, pollo hervido y un caldo limpio. Con leche sin lactosa y un queso muy curado como el parmesano no tiene lactosa apreciable. La crema se puede hacer la víspera y guardar tapada en la nevera.",
+  alternativa: "Sin horno, cuaja la crema al baño maría en el fuego: tapa el molde con papel de aluminio, ponlo en una cazuela con agua caliente hasta la mitad, tapa y deja 20–25 minutos a fuego suave, sin que el agua borbotee.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
