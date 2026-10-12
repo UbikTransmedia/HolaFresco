@@ -235,6 +235,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 695, prot: 36, hc: 72, grasa: 29 },
   etiquetas: ["tradicional", "picante", "sin gluten", "sin lácteos", "para invitados"],
   consejo: "El empal gepuk es un clásico de la cocina sundanesa de Java Occidental: la carne se cuece con especias y azúcar de palma hasta quedar tierna y dulce, se aplasta y se fríe para que caramelice. Se come con arroz, sambal y verduras crudas (lalapan). La carne cocida aguanta 4 días en la nevera con su jugo: aplástala y fríela justo antes de comer.",
+  alternativa: "Con olla exprés, cuece la pieza con el bumbu, el agua de coco y solo 300 ml de agua 30 min a presión en lugar de 75 min, y reduce después destapado igual; sin terasi, machaca en el sambal 1 filete de anchoa en aceite.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -328,6 +329,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 42, hc: 67, grasa: 21 },
   etiquetas: ["creativa", "al horno", "sin gluten", "batch cooking", "bajo en colesterol"],
   consejo: "Laos es el único país del sudeste asiático que usa el eneldo en abundancia, en sopas, pescados y la salchicha sai oua, de donde salen estas albóndigas. Con pavo picado quedan igual de bien. Crudas se congelan perfectamente en bandeja y luego en bolsa.",
+  alternativa: "Sin hierba limón, mezcla con el pollo la ralladura fina de 1 limón (solo la parte amarilla): conserva el aroma cítrico y la albóndiga queda sin fibras.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -374,6 +376,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 33, hc: 68, grasa: 37 },
   etiquetas: ["creativa", "picante", "para invitados"],
   consejo: "La salsa de pimienta negra nació en los puestos de Singapur en los años cincuenta para el cangrejo; aquí se aprovecha con cordero, que aguanta bien su fuerza. Machaca la pimienta en el mortero, no la muelas: los trozos gruesos son los que dan el carácter.",
+  alternativa: "Sin pak choi, saltea 300 g de col china en tiras anchas, primero las pencas 1 min y luego las hojas; la soja oscura se puede cambiar por soja normal con 1/2 cdta de azúcar moreno, aunque el glaseado queda algo menos oscuro.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"
@@ -554,6 +557,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 685, prot: 22, hc: 85, grasa: 27 },
   etiquetas: ["tradicional", "económica"],
   consejo: "La masa mejora si reposa toda la noche en la nevera bien untada de aceite; sácala 1 hora antes de estirarla. En Malasia se pide para desayunar o a cualquier hora en los puestos mamak, de origen indio musulmán. El dal sobrante se congela muy bien.",
+  alternativa: "Si no encuentras ghee, clarifica 40 g de mantequilla: fúndela a fuego suave, retira la espuma y usa solo la grasa dorada, sin el suero blanco del fondo; también vale mantequilla derretida con unas gotas de aceite.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -645,6 +649,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 17, hc: 81, grasa: 26 },
   etiquetas: ["tradicional", "para invitados", "verduras escondidas"],
   consejo: "Pese a su nombre inglés no lleva zanahoria: «carrot» viene de que en hokkien el nabo y la zanahoria se llaman igual. El pastel se puede hacer hasta 4 días antes y guardarlo envuelto en la nevera; así el salteado final se hace en 15 minutos. En Singapur se le añade nabo encurtido salado (chai poh) si lo encuentras.",
+  alternativa: "Si no encuentras daikon, usa 400 g de nabo blanco del mercado: tiene un sabor algo más intenso y suelta menos agua, así que cuécelo con 30 ml más de agua en el primer paso.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -737,6 +742,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 22, hc: 64, grasa: 31 },
   etiquetas: ["creativa", "una sola sartén", "económica"],
   consejo: "La base de tomate y coco se puede preparar el día anterior: al día siguiente solo calientas y escalfas los huevos. Si prefieres pan, un pan crujiente para mojar sustituye bien al arroz.",
+  alternativa: "Sin hierba limón, sofríe con el picado la ralladura de 1/2 limón y cuece la salsa con 2 tiras de su piel en lugar de los tallos; las hojas de lima kaffir se pueden cambiar por 1 hoja de laurel y la ralladura de la media lima.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -783,6 +789,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 31, hc: 60, grasa: 36 },
   etiquetas: ["creativa", "rápida", "económica", "para niños"],
   consejo: "El martabak telur se hace con una masa estirada finísima, como la del roti canai, rellena de huevo, cebolleta y carne picada, y se dobla en un paquete sobre una plancha enorme; las tortillas de trigo dan un resultado parecido en un momento. Puedes añadir al relleno un puñado de guisantes o patata cocida en dados. Se come recién hecho, cuando la tortilla cruje.",
+  alternativa: "Si no tienes soja dulce, calienta 30 s 2 cda de salsa de soja con 1 cda de azúcar moreno, hasta que se disuelva y espese un poco: sirve igual para mojar.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"

@@ -149,6 +149,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 44, hc: 82, grasa: 31 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "poco especiada"],
   consejo: "El pochero es la versión filipina del puchero español: en vez de caldo claro lleva tomate y plátano saba, y se acompaña de arroz y de una salsa de berenjena asada machacada con ajo y vinagre. Sirve también con cerdo o ternera. Aguanta 3 días en la nevera; si lo haces con antelación, añade la col al recalentar para que no amarillee.",
+  alternativa: "Si no encuentras plátano macho, usa 2 plátanos de Canarias aún firmes (con la punta verde): dóralos igual, pero ponlos solo en los 3 últimos minutos, porque se ablandan mucho antes; quedan algo más dulces.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -388,6 +389,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 22, hc: 95, grasa: 22 },
   etiquetas: ["creativa", "sin gluten", "económica", "batch cooking", "de cuchara", "otoño", "superalimentos", "poco especiada"],
   consejo: "El kroeung es la pasta aromática que sostiene la cocina camboyana: es la base del amok y de muchos samlor (guisos). Haz el doble y congela el resto en una cubitera: tendrás curry en 15 minutos otro día. Para versión vegana, cambia la salsa de pescado por salsa de soja.",
+  alternativa: "Si no encuentras hierba limón, tritura en el kroeung la piel fina de 1 limón, sin nada de la parte blanca: aporta el mismo aroma cítrico.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -432,6 +434,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 725, prot: 31, hc: 72, grasa: 35 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "picante"],
   consejo: "El panang es más espeso y menos caldoso que los curris rojo y verde, y suele llevar cacahuete en la propia pasta. Muchas pastas de curry tailandesas llevan pasta de gambas: si buscas un plato vegano, revisa la etiqueta. Aguanta 2 días en la nevera; las judías pierden algo de color pero no de sabor.",
+  alternativa: "Sin hojas de lima kaffir, cuece la salsa con 1 hoja de laurel y la piel de 1/2 lima en tiras, y retíralas antes de servir; para terminar, ralla por encima un poco de piel de lima en lugar de la juliana.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -476,6 +479,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 32, hc: 53, grasa: 39 },
   etiquetas: ["creativa", "picante", "económica", "de cuchara"],
   consejo: "El laksa de Singapur es una sopa de fideos con caldo de coco y gambas; aquí ese caldo hace de salsa para las lentejas. La pasta de laksa suele llevar gambas secas: no es vegetariana. Las lentejas beluga mantienen la forma al recalentar, así que el guiso aguanta 3 días; guarda los brotes y el cilantro aparte.",
+  alternativa: "Si no encuentras lentejas beluga cocidas, usa 400 g de pardinas de bote bien enjuagadas y déjalas solo 5 min en la salsa: son algo más blandas, así que remueve con suavidad.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -567,6 +571,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 21, hc: 64, grasa: 30 },
   etiquetas: ["creativa", "vegana", "sin gluten", "de cuchara", "económica", "batch cooking"],
   consejo: "En las casas de comidas de Padang el gulai se hace con jaca verde, hojas de mandioca o pescado; los garbanzos no son tradicionales, pero encajan con su salsa de coco y cúrcuma. Acompáñalo con arroz si quieres un plato más completo. Aguanta 3 días en la nevera.",
+  alternativa: "Sin hierba limón ni lima kaffir, fríe el bumbu con 2 tiras anchas de piel de limón y otras 2 de lima (sin la parte blanca) y retíralas al final, como harías con las hojas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -659,6 +664,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 36, hc: 62, grasa: 8 },
   etiquetas: ["tradicional", "al horno", "ligera", "sin gluten", "sin lácteos", "alta en proteína", "picante", "para invitados", "bajo en colesterol"],
   consejo: "En Tailandia el pla pao se hace con tilapia rellena de hierba limón y pandan y se asa sobre brasas cubierto de sal; el horno da un resultado igual de jugoso. La sal no sala la carne porque la piel y las escamas la protegen, por eso no hay que descamar el pescado. También funciona con lubina o con un besugo pequeño. Se come recién hecho.",
+  alternativa: "Si no tienes hierba limón ni hojas de lima kaffir, rellena el vientre con la piel de 1 limón y de 1 lima en tiras gruesas y 2 hojas de laurel, junto a los tallos de cilantro: la carne se perfuma casi igual.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -756,6 +762,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 40, hc: 70, grasa: 30 },
   etiquetas: ["tradicional", "frito", "sin gluten", "para compartir"],
   consejo: "En Tailandia el tod mun se hace con pez cuchillo (pla grai), muy elástico; la merluza, el abadejo o la bacaladilla funcionan si el pescado está bien frío y amasas con energía. Fríelos al momento: recalentados pierden la textura. La masa cruda aguanta unas horas tapada en la nevera.",
+  alternativa: "Si no encuentras hojas de lima kaffir, añade a la masa la ralladura fina de 1 lima en lugar de la juliana; para el ajat, el vinagre de arroz se puede cambiar por vinagre de manzana rebajado con 1 cda más de agua.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -848,6 +855,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 33, hc: 42, grasa: 26 },
   etiquetas: ["creativa", "sin gluten", "alta en proteína", "para invitados", "verano"],
   consejo: "Matah significa «crudo» en balinés: es una salsa sin cocinar que en Bali acompaña al pescado a la brasa y al pollo. Sin la pasta de gambas sigue estando buena, pero pierde su fondo marino. El sambal aguanta un día en la nevera; la lubina, mejor recién hecha.",
+  alternativa: "Si no encuentras pasta de gambas, machaca 1 filete de anchoa en aceite y frótalo con las chalotas; sin hierba limón, pica muy fina la piel de 1/2 limón (solo la parte amarilla) y mézclala en el sambal.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -943,6 +951,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 41, hc: 72, grasa: 12 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "sin gluten", "picante", "verano", "bajo en colesterol"],
   consejo: "El jaew es la salsa de mojar de Laos y de Isán, la región tailandesa de cultura lao, donde acompaña a carnes a la brasa y arroz glutinoso. Como el centro del atún queda crudo, usa atún que se haya congelado a -20 °C al menos 5 días (o cómpralo ya ultracongelado) para evitar el anisakis. No se guarda: márcalo en el momento.",
+  alternativa: "Si no tienes tamarindo, prepara el jaew con el zumo de 1 lima más y 1/2 cdta más de azúcar de palma o moreno: queda menos afrutado, pero igual de ácido y equilibrado.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -1037,6 +1046,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 40, hc: 74, grasa: 19 },
   etiquetas: ["creativa", "rápida", "picante", "económica"],
   consejo: "Kam heong es una salsa cantonesa-malaya que se hace con cangrejo, almejas o calamar; en Malasia lleva siempre hojas de curry, que puedes añadir con el ajo si las encuentras en una tienda india. Las gambas secas se venden en tiendas asiáticas y dan el sabor profundo del plato. Cómelo al momento.",
+  alternativa: "Si no encuentras gambas secas ni pasta de gambas, fríe en la mantequilla 2 filetes de anchoa picados 1 min, hasta que se deshagan: dan el mismo fondo salado y marino.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

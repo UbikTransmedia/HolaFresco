@@ -47,6 +47,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 25, hc: 72, grasa: 34 },
   etiquetas: ["slow cooker", "creativa", "de cuchara", "invierno", "otoño", "económica", "batch cooking", "poco especiada"],
   consejo: "La olla lenta funciona mejor llena entre la mitad y dos tercios: si la tuya es de más de 5 litros, dobla la receta y congela la mitad (sin la morcilla, que se añade al recalentar). Si usas morcilla de cebolla, ponla solo 15 minutos porque es más blanda.",
+  alternativa: "Sin olla lenta: cuécelo en cazuela tapada a fuego suave unas 2 h 30 min con 1 l de agua en vez de 700 ml, añadiendo la calabaza solo en los últimos 40 min para que no se deshaga y la morcilla, 10 min al final.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -93,6 +94,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 33, hc: 80, grasa: 24 },
   etiquetas: ["slow cooker", "tradicional", "de cuchara", "picante", "batch cooking", "invierno"],
   consejo: "Son típicos de Nuevo León y el norte de México: «borrachos» por la cerveza; sin ella y con más chile y salchicha se llaman frijoles charros. El alcohol se evapora en buena parte durante las horas de cocción, pero si comen niños puedes cambiar la cerveza por caldo. Congelan muy bien con su caldo.",
+  alternativa: "Si no encuentras jalapeño fresco, usa 1 guindilla verde fresca o 5-6 rodajas de jalapeño de bote; y si no tienes olla lenta, tras el hervor de 10 min cuécelo todo en cazuela tapada a fuego suave 2 h-2 h 30 min, añadiendo agua caliente si se quedan secos.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -192,6 +194,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 890, prot: 47, hc: 106, grasa: 30 },
   etiquetas: ["slow cooker", "tradicional", "batch cooking", "invierno", "para niños"],
   consejo: "En Japón casi todo el mundo usa bloques de roux comprados; con el roux casero controlas la sal y el picante. El curry japonés es más dulce que el indio: si te gusta así, añade una cucharadita de miel o de kétchup con el roux. Está todavía mejor al día siguiente.",
+  alternativa: "Si no tienes slow cooker, guisa la carne con la cebolla y la zanahoria en cazuela tapada a fuego mínimo 2 h 30 min con 600 ml de agua, metiendo la patata en la última hora; el vinagre de arroz del pepino se puede cambiar por vinagre de manzana con una pizca de azúcar.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -239,6 +242,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 24, hc: 69, grasa: 26 },
   etiquetas: ["slow cooker", "tradicional", "otoño", "invierno", "sin gluten", "para invitados", "sin verduras", "poco especiada"],
   consejo: "En Irán el membrillo (beh) se guisa con cordero o ternera desde octubre. El membrillo fresco crudo es duro y astringente, pero tras horas de cocción se vuelve rosado, tierno y muy aromático. Fuera de temporada, usa 2 manzanas ácidas y añádelas solo en las 2 últimas horas.",
+  alternativa: "Si no encuentras guisantes partidos amarillos, pon 40 g de lentejas rojas desde el principio: tras tantas horas se deshacen, pero espesan la salsa igual y apenas cambian el sabor.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -283,6 +287,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 870, prot: 42, hc: 72, grasa: 44 },
   etiquetas: ["slow cooker", "tradicional", "otoño", "invierno", "sin gluten", "batch cooking", "poco especiada"],
   consejo: "Es el «porc à la normande» de la región de la sidra y la nata; allí se termina a veces con un chorrito de calvados. Usa sidra seca (brut): la dulce deja la salsa empalagosa. Si recalientas, hazlo a fuego suave para que la nata no se corte.",
+  alternativa: "También sale al horno: monta todo en una cazuela de hierro tapada y hornéala a 150 °C unas 2 h 30 min; después, ya sobre el fuego, añade la nata con la mostaza y la maicena y la segunda manzana, y deja 15 min destapado.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -376,6 +381,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 38, hc: 46, grasa: 25 },
   etiquetas: ["slow cooker", "tradicional", "picante", "bajo en colesterol"],
   consejo: "El chraime es el pescado del viernes por la noche de los judíos de Libia y Marruecos. Si lo preparas en domingo, haz el doble de salsa y congela la mitad: el día que la uses solo tendrás que calentarla en una cazuela y cocer el pescado 8-10 minutos dentro.",
+  alternativa: "Sin olla lenta, cuece la salsa en cazuela tapada a fuego suave 40-45 min, removiendo de vez en cuando y con un chorrito de agua si espesa demasiado; luego hunde la merluza y deja 8-10 min tapado.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -426,6 +432,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 21, hc: 84, grasa: 18 },
   etiquetas: ["slow cooker", "creativa", "vegana", "batch cooking", "invierno", "otoño", "bajo en colesterol"],
   consejo: "El ras el hanout es una mezcla marroquí que se vende ya hecha; si no lo encuentras, usa 1 cucharadita de comino, 1/2 de cúrcuma, 1/2 de jengibre molido y 1/2 de pimentón. El tajine congela perfecto; el cuscús hazlo siempre al momento.",
+  alternativa: "Con garbanzos cocidos de bote (unos 350 g escurridos y enjuagados) te ahorras el remojo: pon 300 ml de caldo en la olla en lugar de 400 y programa BAJO 4-5 horas, lo justo para que la calabaza y la zanahoria se ablanden.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -477,6 +484,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 820, prot: 29, hc: 110, grasa: 28 },
   etiquetas: ["slow cooker", "creativa", "vegana", "de cuchara", "invierno", "batch cooking", "superalimentos"],
   consejo: "El gumbo z'herbes se cocinaba el Jueves Santo con siete, nueve u once verduras distintas (un número impar trae suerte); puedes añadir berros, hojas de rábano o col. El roux puede hacerse la noche antes y guardarse en la nevera. Si no comes picante, quita la cayena.",
+  alternativa: "En cazuela: deslíe el roux con el caldo caliente, añade las hojas, las alubias y las especias y cuece tapado a fuego suave 1 h, removiendo de vez en cuando para que no se agarre al fondo.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -521,6 +529,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 31, hc: 76, grasa: 46 },
   etiquetas: ["slow cooker", "creativa", "sin gluten", "otoño", "invierno", "poco especiada"],
   consejo: "Si vas a estar fuera más de 7 horas, añade 100 ml más de agua al principio. La polenta que sobre se endurece en la nevera: córtala en bastones y dórala en la sartén al día siguiente. Para una versión más suave, cambia el gorgonzola por taleggio o queso de cabra.",
+  alternativa: "Sin olla lenta, cuece la polenta en cazuela a fuego mínimo 40-45 min con los mismos líquidos, removiendo cada 5 min con una cuchara de madera para que no se pegue; queda igual de cremosa.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -615,6 +624,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 43, hc: 66, grasa: 20 },
   etiquetas: ["slow cooker", "tradicional", "de cuchara", "invierno", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "La cebada sigue absorbiendo caldo en la nevera: al día siguiente tendrás casi un guiso, así que recalienta con un vaso de agua. En Polonia se sirve a veces con una cucharada de nata agria. Puedes hacerla con costilla de cerdo en lugar de pollo.",
+  alternativa: "Si no tienes pimienta de Jamaica, pon 1 clavo de olor y 4-5 granos más de pimienta negra; sin olla lenta, hazla en una cazuela tapada a fuego suave 1 h con 200 ml más de agua, hasta que la cebada esté tierna.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -662,6 +672,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 47, hc: 49, grasa: 27 },
   etiquetas: ["slow cooker", "tradicional", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Puedes congelar el ragú sin la pasta hasta 3 meses. En Liguria se hace parecido con aceitunas negras y piñones al final. Si no encuentras pappardelle, vale cualquier pasta al huevo ancha, como tagliatelle.",
+  alternativa: "Si no tienes olla lenta, tras el sofrito y el vino guisa el conejo en cazuela tapada a fuego suave 1 h 15 min-1 h 30 min con 150 ml de agua, hasta que la carne se separe sola del hueso.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -708,6 +719,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 56, hc: 68, grasa: 24 },
   etiquetas: ["slow cooker", "tradicional", "picante", "de cuchara", "invierno", "alta en proteína"],
   consejo: "Es la sopa nacional de Taiwán. La pasta de alubias picante (doubanjiang) se encuentra en tiendas asiáticas; si no la tienes, usa 1 cucharada de pasta de miso con 1 cucharadita de guindilla en copos. Guarda caldo y carne juntos y cuece los fideos siempre al momento.",
+  alternativa: "Si no encuentras pak choi, usa 4 hojas de col china en trozos grandes, escaldadas 1 min con los fideos; y sin olla lenta, cuece la carne en cazuela tapada a fuego mínimo 2 h 30 min, o 40 min en olla exprés.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

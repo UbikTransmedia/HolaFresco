@@ -51,6 +51,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 839, prot: 31, hc: 82, grasa: 43 },
   etiquetas: ["tradicional", "vegana", "de cuchara", "batch cooking", "sin lácteos", "invierno"],
   consejo: "En Java el lodeh lleva chayote, jaca verde, galanga y hoja de salam (si quieres, añade 2 hojas de laurel con la hierba limón), y muchas casas añaden pasta de gambas: esta versión es la vegetariana de los días de ayuno. Mejora de un día para otro y aguanta 3 días en la nevera; recalienta a fuego suave con un chorrito de agua.",
+  alternativa: "Si no encuentras tempeh, pon 100 g más de tofu firme, bien prensado y dorado igual; y si te falta la hierba limón, echa al guiso 2 tiras de piel de limón (sin lo blanco) y retíralas antes de servir.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -287,6 +288,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 633, prot: 27, hc: 75, grasa: 25 },
   etiquetas: ["creativa", "vegana", "picante", "airfryer", "alta en proteína", "sin lácteos", "bajo en colesterol"],
   consejo: "El balado es un sambal de chile y tomate de Sumatra occidental; en Indonesia la berenjena (terong balado) se fríe en abundante aceite, y la airfryer consigue la misma pulpa cremosa con mucha menos grasa. Para bajar el picante, quita las semillas a los chiles. El balado aguanta 5 días en la nevera y sirve también para huevos o patatas.",
+  alternativa: "Sin airfryer, asa las medias berenjenas en el horno a 220 °C 25-30 min y después el tempeh 12-15 min, girándolo a mitad; si no encuentras tempeh, usa 250 g de tofu firme bien prensado en bastones.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -512,6 +514,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 594, prot: 30, hc: 42, grasa: 34 },
   etiquetas: ["creativa", "vegana", "alta en proteína", "batch cooking", "ideal para llevar", "sin lácteos", "superalimentos"],
   consejo: "El urap tradicional de Java y Bali usa hojas de mandioca, col y brotes, y el coco se cuece al vapor con kencur y pasta de gambas; tostarlo en sartén le da un sabor más avellanado y lo conserva mejor. Aguanta 2 días en la nevera y se come frío o templado, así que va muy bien en fiambrera.",
+  alternativa: "Sin tempeh, usa 250 g de tofu firme bien escurrido en dados: mézclalo igual con la soja dulce y hornéalo 20-25 min, hasta que esté dorado por fuera.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -692,6 +695,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 682, prot: 35, hc: 77, grasa: 26 },
   etiquetas: ["tradicional", "rápida", "al wok", "sin lácteos"],
   consejo: "El sabor ahumado (wok hei) solo aparece si el wok está muy caliente y no lo sobrecargas: si tu fuego es doméstico, haz la receta en dos tandas. En Penang lleva también berberechos y se fríe con manteca de cerdo; el chorizo chino se encuentra en tiendas asiáticas y le da su punto dulce y graso característico.",
+  alternativa: "Si no encuentras chorizo chino, usa 60 g de bacon en tiras finas, dorado antes con una pizca de azúcar; y la soja dulce se puede cambiar por 1,5 cda de soja normal con 1 cdta de azúcar moreno.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -974,6 +978,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 28, hc: 57, grasa: 30 },
   etiquetas: ["creativa", "picante", "sin gluten", "sin lácteos", "omega 3", "económica"],
   consejo: "En Tailandia el khanom jeen se hace con fideos frescos de arroz fermentado y la salsa nam ya lleva pescado machacado, krachai y pasta de curry; muchas casas tailandesas usan caballa en lata como atajo, y funciona de maravilla. Las verduras crudas son parte del plato: aportan frescor y crujiente frente a la salsa. La salsa aguanta 2 días en la nevera; cuece los fideos en el momento.",
+  alternativa: "Sin hierba limón ni hojas de lima kaffir, tritura en la pasta la ralladura de 1 lima y cuece la salsa con 1 hoja de laurel en lugar de las hojas de lima: el fondo cítrico apenas cambia.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -1071,6 +1076,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 599, prot: 28, hc: 61, grasa: 27 },
   etiquetas: ["creativa", "al horno", "picante", "sin gluten", "sin lácteos", "ideal para llevar"],
   consejo: "En Indonesia el nasi bakar se rellena de tongkol (bonito del Índico) o de pollo, se envuelve en hoja de plátano y se tuesta sobre brasas; la conserva de bonito es un atajo muy fiel. La hoja de plátano, que se vende congelada en tiendas asiáticas, le da un aroma vegetal ahumado. Los paquetes, ya montados, aguantan 2 días en la nevera y se hornean al momento.",
+  alternativa: "Si te falta hierba limón, cuece el arroz con 2 tiras de piel de limón junto al laurel; las hojas de lima kaffir del relleno se pueden cambiar por la ralladura de 1 lima, añadida con el bonito.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

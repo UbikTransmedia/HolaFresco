@@ -291,6 +291,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 34, hc: 57, grasa: 19 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "económica"],
   consejo: "En Camboya el caldo se hace con huesos de cerdo y calamar seco durante horas; esta versión con caldo de pollo y rábano mantiene el carácter en media hora. Si lo quieres más auténtico, añade al caldo un puñado de gambas secas de tienda asiática. Guarda el caldo aparte y cuece los fideos en el momento para que no se ablanden.",
+  alternativa: "Si no encuentras daikon, usa 100 g de nabo blanco corriente pelado: cocido 15 min en el caldo le da el mismo dulzor limpio.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -432,6 +433,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 26, hc: 49, grasa: 32 },
   etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "de cuchara"],
   consejo: "Es la sopa cotidiana de las casas sundanesas, que se toma con arroz, tempeh o pescado frito y sambal. La versión tradicional lleva melinjo y yaca verde; con judías verdes, calabacín y col el resultado es muy fiel. Si te sobra, al día siguiente está aún más rica; el tempeh, mejor recién frito.",
+  alternativa: "Sin tempeh, corta 200 g de tofu firme en lonchas de 1 cm, sécalas bien y fríelas igual, 4 min por cada lado, hasta que estén doradas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -713,6 +715,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 34, hc: 51, grasa: 31 },
   etiquetas: ["tradicional", "sin gluten", "invierno", "batch cooking", "poco especiada"],
   consejo: "Es el guiso de las fiestas y los domingos en Pampanga. La salsa se deja sin sal casi a propósito porque el bagoong (pasta de gambas fermentada) aporta el contraste; si no la encuentras, sirve aparte salsa de pescado con lima y chile. En olla tradicional, el rabo necesita unas 3 horas de cocción suave. Mejora al día siguiente.",
+  alternativa: "Si no encuentras pak choi, usa 4 hojas de col china o 150 g de acelgas tiernas en trozos grandes, y añádelas igual, solo 2 min al final.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -859,6 +862,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 32, hc: 49, grasa: 46 },
   etiquetas: ["tradicional", "picante", "sin gluten", "invierno", "batch cooking", "sin verduras"],
   consejo: "El gulai es la familia de currys de la cocina de Padang (Sumatra Occidental) y de Malasia; con cabrito (kambing) es el más festivo, y aquí se hace con cordero, más fácil de encontrar. Lleva también hojas de lima kaffir y galanga: si las tienes, añádelas con la hierba limón. Con cordero lechal, reduce la presión a 15 minutos.",
+  alternativa: "Sin olla exprés, cuece el cordero en cazuela tapada a fuego suave 1 h 30 min con 400 ml de agua en lugar de 200, hasta que se separe del hueso; luego sigue igual con el coco y el tamarindo.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -907,6 +911,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 31, hc: 45, grasa: 36 },
   etiquetas: ["tradicional", "sin gluten", "para niños", "económica", "sin verduras", "poco especiada"],
   consejo: "Es el plato del Lebaran, la fiesta del fin del Ramadán en Indonesia, y se sirve con ketupat (arroz prensado en hoja de palma). Al no llevar chile ni cúrcuma, gusta a todo el mundo; para los adultos, pon sambal al lado. Aguanta 3 días; recaliéntalo a fuego suave para que el coco no se corte.",
+  alternativa: "En cazuela normal: tras añadir el agua, tapa y cuece el pollo a fuego suave 30-35 min con 100 ml más de agua; después incorpora la leche de coco como se indica.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -948,6 +953,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 49, hc: 58, grasa: 28 },
   etiquetas: ["tradicional", "picante", "de cuchara", "invierno"],
   consejo: "La versión de Singapur, de los estibadores teochew, es clara y lleva solo ajo y pimienta blanca; la de Malasia (Klang) es oscura y herbal, con soja oscura, anís, canela, setas y hierbas chinas. Se acompaña con té chino para cortar la grasa y, si lo encuentras, con you tiao (churros chinos) para mojar. Los ajos salen tan tiernos que se untan en el arroz. Para hacerlo sin gluten, usa tamari.",
+  alternativa: "Si no tienes olla a presión, cuece las costillas en cazuela tapada a fuego muy suave 1 h 30 min con 300 ml más de agua; sin pak choi, escalda en el caldo 4 hojas de col china troceadas, 2 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -994,6 +1000,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 26, hc: 74, grasa: 13 },
   etiquetas: ["creativa", "vegana", "sin lácteos", "de cuchara", "económica", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "El pinakbet de Ilocos lleva melón amargo (ampalaya), okra, berenjena, calabaza y judías largas, y se sala con bagoong, la pasta de gambas fermentada; el miso le da un fondo salado y profundo parecido sin producto animal. Si encuentras melón amargo u okra en una tienda asiática, añádelos con la berenjena. El tiempo no cuenta el remojo. Aguanta 4 días en la nevera.",
+  alternativa: "Si se te olvida el remojo, usa 400 g de alubias blancas cocidas de bote, enjuagadas: sáltate la cocción a presión y cambia el caldo reservado por 250 ml de caldo de verduras.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1041,6 +1048,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 46, hc: 38, grasa: 32 },
   etiquetas: ["creativa", "sin gluten", "económica", "alta en proteína", "batch cooking"],
   consejo: "El muslo de pavo es de las carnes más baratas y con más sabor, pero necesita cocción larga: la olla exprés lo deja tierno en media hora. Con la misma base (chalota, hierba limón y cúrcuma) puedes cocinar contramuslos de pollo con 12 minutos de presión. Aguanta 3 días y se congela bien.",
+  alternativa: "Sin olla exprés, cuece el muslo en una cazuela tapada a fuego suave 1 h 30 min con 200 ml más de caldo, hasta que la carne se despegue del hueso; luego sigue igual con el boniato.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1134,6 +1142,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 40, hc: 47, grasa: 29 },
   etiquetas: ["creativa", "picante", "sin gluten", "de cuchara"],
   consejo: "El calamar se pone duro con 2 minutos de fuego y vuelve a ablandarse con un guiso largo: la olla exprés acorta ese guiso a un cuarto de hora. Funciona igual con sepia o pota, más baratas. Aguanta 2 días en la nevera; recalienta a fuego suave.",
+  alternativa: "En cazuela tradicional, guisa el calamar tapado a fuego suave 40-45 min con 100 ml más de agua, y añade la patata y las judías para los últimos 15 min.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1180,6 +1189,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 845, prot: 52, hc: 67, grasa: 40 },
   etiquetas: ["creativa", "picante", "sin gluten", "batch cooking", "invierno"],
   consejo: "El panang tailandés es un curry seco que se hace con carne tierna en pocos minutos; aquí se adapta a un corte de guiso, más barato y sabroso, gracias a la presión. Freír la pasta en la crema de coco hasta que se corte es la técnica tailandesa para sacar todo su aroma. Aguanta 4 días y mejora de un día para otro.",
+  alternativa: "Sin olla exprés, cuece la carne tapada a fuego mínimo unas 2 h con 300 ml de agua en vez de 150; y si no encuentras hojas de lima kaffir, añade con la zanahoria la ralladura de 1 lima.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
