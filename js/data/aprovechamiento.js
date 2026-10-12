@@ -830,6 +830,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 33, hc: 65, grasa: 19 },
   etiquetas: ["aprovechamiento", "tradicional", "rápida", "sin gluten", "verano"],
   consejo: "El khao yam es el desayuno y almuerzo de Pattani y Nakhon Si Thammarat, en el sur de Tailandia, pensado para el arroz cocido frío; allí se aliña con budu, una salsa de pescado fermentado espesa, y se espolvorea con gamba seca molida. Si no tienes arroz sobrante, cuece 140 g de arroz jazmín, extiéndelo en una bandeja y enfríalo bien antes de usarlo. Sustituye el pomelo por naranja y la hierba limón por ralladura de lima. El arroz cocido es delicado: úsalo en las 24 horas siguientes y guárdalo siempre en la nevera.",
+  alternativa: "Si no encuentras hojas de lima kaffir, añade al aliño la ralladura fina de 1 lima más (solo la parte verde): da casi el mismo perfume cítrico.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1053,6 +1054,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 745, prot: 42, hc: 77, grasa: 29 },
   etiquetas: ["aprovechamiento", "tradicional", "al horno", "para niños", "poco especiada"],
   consejo: "La doria la inventó hacia 1930 Saly Weil, el chef suizo del Hotel New Grand de Yokohama, para un cliente enfermo, y se convirtió en el plato de cafetería japonés para el arroz que sobra. Si no tienes arroz sobrante, cuece 140 g de arroz y déjalo enfriar. En lugar de gambas puedes usar pollo asado desmenuzado o salmón cocido que te hayan sobrado. Mejor comerla recién gratinada: el arroz no debería recalentarse una segunda vez.",
+  alternativa: "Si no tienes panko, usa la misma cucharada de pan rallado normal mezclado con unas gotas de aceite: gratina igual de crujiente.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"

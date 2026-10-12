@@ -94,6 +94,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 513, prot: 33, hc: 66, grasa: 13 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten", "al horno"],
   consejo: "El liboké se cocina en Kinsasa y Brazzaville en hojas de marantácea sobre las brasas; las hojas de plátano (en tiendas latinas y asiáticas, congeladas) dan el mismo perfume, y el aluminio sirve igual. La cocción en paquete es de las más suaves para el intestino: sin grasa añadida a fuego vivo y con el pescado al vapor de su jugo. La yuca es baja en FODMAP en raciones normales (unos 150 g cocida), pero cuécela siempre a fondo y retira la fibra central, que es dura de digerir.",
+  alternativa: "Si no encuentras yuca fresca, usa yuca congelada (ya pelada y sin fibra; cuécela 20 minutos sin descongelar) o los mismos 300 g de patata cocida 20 minutos: queda algo menos densa.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -184,6 +185,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 517, prot: 33, hc: 58, grasa: 17 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "de cuchara"],
   consejo: "En Angola el calulu mezcla pescado seco y fresco, quimbombó y hojas de boniato con mucho dendê; aquí el aceite de palma queda en un acento de una cucharada, suficiente para darle su color y aroma sin cargar la grasa. La berenjena es baja en FODMAP hasta unos 75 g por persona y las espinacas son libres. El funje es la mandioca en su forma más digestiva: sin fibra dura, sin gluten y muy saciante; hazlo al momento, porque al enfriarse se endurece.",
+  alternativa: "Si no encuentras aceite de palma, usa 1 cda de aceite de oliva con media cucharadita de pimentón dulce: da el color rojizo y un aroma muy cercano.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -229,6 +231,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 45, hc: 70, grasa: 20 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten"],
   consejo: "A orillas del lago Victoria se usa tilapia frita en aceite y después guisada; la dorada marcada en la sartén con una cucharada de aceite da el mismo contraste de piel tostada y salsa sin una fritura que cueste digerir. El ugali se come con los dedos para recoger la salsa: mastica despacio, porque es una masa densa. El kale bien cocido y cortado fino es mucho más amable con el intestino que crudo.",
+  alternativa: "Si no encuentras harina de maíz blanca para ugali, usa la misma cantidad de harina de maíz blanca precocida (tipo P.A.N.): cuaja antes, así que trabájala solo 3-4 minutos y añade un chorrito de agua si queda muy dura.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -320,6 +323,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 35, hc: 80, grasa: 19 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten"],
   consejo: "El mufete es la comida de domingo de la Ilha de Luanda: carapau o cacusso a la brasa con mandioca, batata-doce, banana-pão, feijão de óleo de palma, farofa y molho cru de cebolla y vinagre. Aquí se quedan fuera las alubias (legumbre) y la guindilla, la cebolla del molho se cambia por el verde de la cebolleta y el carapau es nuestro jurel. El boniato va en 75 g por persona, su ración baja en FODMAP, y la mandioca bien cocida es muy saciante y sin gluten. Si el vinagre crudo te irrita, aliña el molho solo con limón.",
+  alternativa: "Si no encuentras farinha de mandioca, tuesta del mismo modo 30 g de harina de maíz precocida (tipo P.A.N.), como una farofa de milho; sin aceite de palma, usa aceite de oliva con una pizca de pimentón dulce.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -503,6 +507,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 38, hc: 44, grasa: 23 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "invierno"],
   consejo: "En Etiopía los guisos se dividen en wat, rojos y picantes de berbere, y alicha, amarillos y suaves de cúrcuma: el alicha es el que se da a niños y convalecientes. La cebolla, base de todos ellos, se sustituye aquí por mucho verde de cebolleta. El teff es bajo en FODMAP en grano y en tortita; la injera auténtica fermenta 3 días, y la versión rápida con bicarbonato y limón es más suave para quien se hincha con fermentados. La mantequilla clarificada apenas tiene lactosa.",
+  alternativa: "Si no encuentras harina de teff, usa 100 g de harina de trigo sarraceno (sin gluten, en herbolarios y grandes superficies): las tortitas salen con el mismo color oscuro y un sabor tostado muy parecido.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -681,6 +686,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 509, prot: 33, hc: 56, grasa: 17 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "sin gluten", "de cuchara", "invierno", "batch cooking"],
   consejo: "El kondré se cocina en las bodas y funerales del oeste de Camerún con cabra o cerdo, pèbè (nuez moscada africana) y pimienta blanca de Penja; la nuez moscada común lo sustituye bien. Las hojas de apio y el ajo que lleva el original se cambian por perejil, albahaca y aceite de ajo. El plátano macho pintón espesa la salsa con su almidón y es más digerible que el verde, rico en almidón resistente; no pases de unos 150 g por persona.",
+  alternativa: "Si no encuentras aceite de palma, usa otra cucharadita de aceite de oliva con una pizca de pimentón dulce: aporta el color y apenas se nota la diferencia.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -814,6 +820,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 561, prot: 39, hc: 63, grasa: 17 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten"],
   consejo: "En las shisa nyama de Soweto la carne se asa a la vista y se sirve con pap y sheba, una salsa de tomate, cebolla y chile; esta versión sustituye la cebolla por el verde de la cebolleta, quita el chile y suma naranja y jengibre para darle viveza. El pap de maíz es uno de los acompañamientos más digestivos que existen: sin gluten, sin FODMAP y muy suave. Elige cortes magros y no pases la carne de punto para que no quede dura de masticar.",
+  alternativa: "Si no encuentras harina de maíz blanca, usa la misma cantidad de polenta de cocción rápida: el pap queda amarillo pero con la misma textura; cuécelo 5 minutos en lugar de 12.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1031,6 +1038,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 479, prot: 19, hc: 67, grasa: 15 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "al horno"],
   consejo: "En Kinsasa la yuca y las hojas guisadas en aceite de palma (pondu) son el día a día; aquí se unen con huevo al horno, con solo una cucharadita de dendê para darle su aroma de nuez y su color sin pasar de los 15 g de grasa. Cuece la yuca hasta que esté completamente tierna: cruda o poco hecha es indigesta. Si la yema líquida te sienta mal, deja el huevo 3 minutos más.",
+  alternativa: "Si no encuentras yuca, usa 300 g de patata cocida 20 minutos y chafada: queda algo más cremosa; sin aceite de palma, termina con un hilo de aceite de oliva y una pizca de pimentón dulce.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -1126,6 +1134,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 29, hc: 67, grasa: 20 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten", "superalimentos", "ideal para llevar"],
   consejo: "El mijo, base del thiakry y del fura del Sahel, no tiene gluten y es bajo en FODMAP; tostarlo antes de cocerlo le da un sabor de avellana. El tempeh es apto en dieta baja en FODMAP hasta unos 100 g por persona porque la fermentación consume parte de sus oligosacáridos, y escaldarlo antes lo hace aún más suave. Las pipas de calabaza son bajas en FODMAP hasta unos 23 g por ración.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme bien prensado, sin hervirlo: se glasea igual, aunque queda más suave; sin mijo, usa 120 g de quinoa lavada cocida 12 minutos en 240 ml de agua.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

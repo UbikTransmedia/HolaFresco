@@ -188,6 +188,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 800, prot: 42, hc: 80, grasa: 35 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "sin lácteos", "de cuchara", "invierno"],
   consejo: "En Jamaica se añaden «spinners», unas bolitas de harina de trigo que cuecen en el guiso; si en casa hay celíacos, déjalas fuera o hazlas con harina de maíz precocida amasada con agua y sal. La leche de coco no es un alérgeno de declaración obligatoria, pero si cocinas para alguien con alergia grave a frutos secos mira que la lata no diga «puede contener». Si tu carnicero pica o trocea en la misma tabla que hamburguesas o salchichas, pídele que la limpie antes.",
+  alternativa: "Si no encuentras pimienta de Jamaica en grano, usa 1 cdta de pimienta negra en grano y 2 clavos.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -334,6 +335,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 42, hc: 42, grasa: 49 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "al horno", "poco especiada"],
   consejo: "La toum es la alternativa al alioli y a la mayonesa cuando hay alergia al huevo: solo ajo, aceite, limón y sal. Lo que sobre aguanta una semana en un bote cerrado en la nevera. En el Líbano el pollo se envuelve en pan de pita; si en la mesa hay celíacos, que el pan vaya en su cesta y no toque la bandeja, y lava la tabla y el cuchillo si han cortado pan antes.",
+  alternativa: "Si no tienes pimienta de Jamaica molida, usa una pizca de clavo molido y otra de nuez moscada.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -380,6 +382,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 39, hc: 70, grasa: 39 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "sin lácteos", "alta en proteína", "poco especiada"],
   consejo: "El vinagrete brasileño se aliña con vinagre; aquí lleva lima para que no tenga sulfitos. La harina de mandioca no tiene gluten, pero algunas se muelen en molinos que también trabajan trigo: si hay celíacos, busca una con el sello sin gluten. La farofa clásica se tuesta en mantequilla; la grasa de la panceta la sustituye de maravilla.",
+  alternativa: "Si no encuentras harina de mandioca, usa la misma cantidad de harina de maíz precocida marcada sin gluten y tuéstala igual: la farofa queda algo más fina pero igual de crujiente.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -704,6 +707,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 19, hc: 92, grasa: 28 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "batch cooking"],
   consejo: "Las pastas de curry tailandesas de bote llevan casi siempre pasta de gambas y a veces salsa de pescado o de soja: lee la etiqueta o haz esta, que se congela en cubitos para el siguiente curry. En los restaurantes tailandeses pregunta siempre, porque la salsa de pescado está en casi todo. La galanga es la raíz original; el jengibre la sustituye bien.",
+  alternativa: "Si no encuentras hierba limón, tritura en la pasta la ralladura de 1 lima y una tira de piel de limón sin la parte blanca, y añade el zumo de la lima entera al final.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1017,6 +1021,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 21, hc: 67, grasa: 29 },
   etiquetas: ["creativa", "sin gluten", "apta para alergias", "vegana", "otoño", "ideal para llevar", "superalimentos", "poco especiada"],
   consejo: "El zumaque es una baya ácida molida que hace de vinagre sin aportar sulfitos. No lo confundas con el za'atar, que casi siempre lleva sésamo. Compra las pipas de calabaza peladas y al natural, y fíjate en el «puede contener»: muchas se envasan en las mismas líneas que almendras y cacahuetes; si hay alergia grave a frutos secos, busca un envasador libre de ellos. Para llevar, guarda la rúcula y las pipas aparte.",
+  alternativa: "Si no tienes zumaque, usa la ralladura de 1 limón y unas gotas más de su zumo en el aliño: aporta la misma acidez sin vinagre.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1379,6 +1384,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 42, hc: 70, grasa: 30 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "picante", "batch cooking"],
   consejo: "En Nuevo México la salsa se espesa a veces con harina de trigo; la harina de maíz precocida hace lo mismo sin gluten. Los botes de «chili powder» suelen mezclar chile con ajo en polvo, sal y a veces harinas o trazas de mostaza: con los chiles secos enteros sabes exactamente lo que comes. Revisa también que las tortillas sean 100 % maíz. Mejora al día siguiente y se congela bien.",
+  alternativa: "Si no encuentras chiles guajillo ni ancho, usa 6 ñoras y 1 guindilla seca, tostadas y remojadas igual; sin olla exprés, cuece el cerdo en cazuela tapada a fuego suave 1 h 30 min con 200 ml más de agua.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"

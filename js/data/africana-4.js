@@ -269,6 +269,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 860, prot: 58, hc: 54, grasa: 46 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "fin de semana"],
   consejo: "Las hojas de ndolé (Vernonia) son muy amargas y en Camerún se lavan varias veces; la rúcula aporta un punto de ese amargor. Si encuentras ndolé seco o congelado en una tienda africana, úsalo en lugar de las espinacas. Si solo tienes cacahuetes tostados sin sal, no los cuezas: tritúralos con 300 ml del caldo de la carne. Se acompaña también de miondo o de bobolo, palitos de yuca fermentada. Aguanta 3 días en la nevera.",
+  alternativa: "Sin olla exprés: cuece la ternera con los cacahuetes y los aromáticos en cazuela tapada a fuego suave 1 h 30 min, con 300 ml más de agua, en lugar de 25 min a presión.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -317,6 +318,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 36, hc: 43, grasa: 31 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "invierno", "batch cooking", "plato único"],
   consejo: "Bredie es la palabra afrikáans para estofado, y el de tomate es el más popular de El Cabo: se cocina hasta que el tomate se vuelve casi mermelada, por eso lleva su punto de azúcar. Se sirve con arroz blanco o amarillo y, a veces, con judías verdes. Está aún mejor al día siguiente; aguanta 3 días en la nevera y se congela sin problema.",
+  alternativa: "Sin olla exprés: guisa el cordero en cazuela tapada a fuego suave 1 h 30 min con 150 ml más de agua, y añade las patatas los últimos 25 min.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -362,6 +364,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 810, prot: 43, hc: 66, grasa: 42 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "invierno", "batch cooking"],
   consejo: "El ravitoto sy henakisoa (hojas de yuca machacadas con cerdo) es uno de los platos más queridos de Madagascar; en la costa se le añade coco y en el altiplano se deja sin él. Las hojas de yuca machacadas y congeladas se venden en algunas tiendas africanas y asiáticas: si las encuentras, úsalas en lugar de la col y cuenta 30 minutos de presión. Aguanta 3 días en la nevera.",
+  alternativa: "Sin olla exprés: cuece el cerdo con las hojas en cazuela tapada a fuego suave 1 h, con 150 ml más de agua, en lugar de 20 min a presión.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -410,6 +413,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 60, hc: 76, grasa: 18 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "para invitados", "poco especiada"],
   consejo: "En Mauricio el pulpo se llama ourite y el daube, herencia francesa adaptada con las especias de la isla, se hace con pulpo, pollo o ternera; en Rodrigues el pulpo se seca al sol antes de guisarlo. Si el pulpo es congelado, quedará más tierno, porque la congelación rompe sus fibras. Un pulpo de 1,5 kg necesitaría 15-18 minutos de presión. Aguanta 2 días en la nevera.",
+  alternativa: "Con pulpo ya cocido (unos 450 g) sáltate el paso 1 y usa 100 ml de agua en lugar de su caldo; sin olla exprés, cuece el pulpo crudo en cazuela con agua hirviendo 40-45 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -453,6 +457,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 49, hc: 53, grasa: 24 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "En Botsuana el seswaa se cocina en ollas de hierro de tres patas para bodas, funerales y fiestas, y tradicionalmente lo machacan los hombres con una cuchara de madera. El pap se hace con harina de maíz blanca, que encontrarás en tiendas africanas o latinas; la polenta instantánea es un buen sustituto. La carne aguanta 3 días en la nevera: recaliéntala con un chorrito de agua.",
+  alternativa: "Sin olla exprés: cuece la carne en cazuela tapada a fuego suave 2 h 30 min con 1 litro de agua, hasta que se deshaga, y luego reduce como indica la receta.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -498,6 +503,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 42, hc: 56, grasa: 18 },
   etiquetas: ["creativa", "picante", "alta en proteína", "económica"],
   consejo: "Si no tienes berbere, mezcla 1 cda de pimentón dulce, 1 cdta de pimentón picante y una pizca de jengibre molido, canela, clavo, comino y cardamomo. El muslo de pavo aguanta la presión sin secarse, algo que la pechuga no haría. En Eritrea el zigni se acompaña de injera o de pan de trigo, y a veces se le añaden guisantes al final. Aguanta 3 días en la nevera.",
+  alternativa: "Sin olla exprés: cuece el pavo en la salsa en cazuela tapada a fuego suave 35-40 min, con 100 ml más de agua, en lugar de 8 min a presión.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -544,6 +550,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 43, hc: 66, grasa: 36 },
   etiquetas: ["creativa", "picante", "sin gluten", "alta en proteína", "fin de semana"],
   consejo: "Los tibs son el plato de celebración de Etiopía: carne salteada a fuego vivo con cebolla, chile verde y romero, que allí se usa mucho. Al guisarlos a presión ganas una paletilla melosa sin perder el final de salteado. Sin berbere, mezcla 1,5 cdta de pimentón dulce, media de pimentón picante y una pizca de jengibre, cardamomo y clavo. El awaze tradicional se hace con tej, vino de miel; el tinto funciona bien. Aguanta 2-3 días en la nevera.",
+  alternativa: "Sin olla exprés: guisa el cordero en cazuela tapada a fuego suave 1 h 15 min con 300 ml de agua en lugar de 150 ml, y sigue con el paso 6.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -591,6 +598,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 50, hc: 68, grasa: 18 },
   etiquetas: ["creativa", "picante", "sin lácteos", "alta en proteína", "económica", "bajo en colesterol"],
   consejo: "Kedjenou viene del baulé y alude a sacudir: el pollo se cuece sin agua en una canari, vasija de barro sellada con hojas de plátano, que se agita de vez en cuando sin abrirla para que no se pegue. El tradicional lleva pollo de corral con hueso: si lo usas, cuenta 10 minutos de presión. En Abiyán se acompaña de attiéké, cuscús de yuca fermentada que se vende congelado en tiendas africanas. Aguanta 3 días en la nevera.",
+  alternativa: "Sin olla exprés: cuece en cazuela bien tapada a fuego suave 30-35 min con 50 ml más de agua, sacudiéndola de vez en cuando sin destaparla.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -632,6 +640,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 21, hc: 87, grasa: 22 },
   etiquetas: ["creativa", "económica", "sin gluten", "picante", "batch cooking", "de cuchara", "verduras escondidas"],
   consejo: "En Nigeria se hace con honey beans (oloyin), unas alubias pequeñas y dulces, y con ñame (ewa ati isu); las alubias pintas y el boniato recuerdan ese dulzor. Se acompaña con plátano macho frito o con pan. Sin las gambas secas es apto para veganos. Aguanta 4 días en la nevera y se congela bien; al recalentarlo, añade agua porque espesa mucho.",
+  alternativa: "Sin remojo ni olla exprés: usa 450 g de alubias pintas cocidas de bote, enjuagadas; cuece el boniato en cazuela con 300 ml de agua 15 min, añade las alubias y la salsa y sigue con el paso 5.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -679,6 +688,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 35, hc: 40, grasa: 34 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "económica", "picante", "invierno"],
   consejo: "En Nairobi el matumbo se suele hacer en wet fry, guisado con tomate y cebolla, y se come con ugali o chapati; la versión con coco es propia de la costa swahili. Para el ugali, cuece polenta con el doble de agua hasta que quede muy firme. Los callos ya limpios y escaldados se compran en cualquier carnicería o mercado. Aguanta 3 días en la nevera y mejora al día siguiente.",
+  alternativa: "Sin olla exprés: cuece los callos en cazuela tapada a fuego suave 2 h con 600 ml de agua, y añade la patata y el pimiento los últimos 20 min.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

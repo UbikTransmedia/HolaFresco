@@ -278,6 +278,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 37, hc: 61, grasa: 16 },
   etiquetas: ["creativa", "alta en proteína", "batch cooking", "ideal para llevar", "bajo en colesterol"],
   consejo: "En Sudáfrica el pickled fish se prepara en Semana Santa y se deja en la nevera 1 o 2 días antes de comerlo frío con pan con mantequilla; así gana mucho, y dura hasta 5 días tapado. Para una versión sin gluten, dora el pescado sin harina o con maicena.",
+  alternativa: "Si no tienes pimienta de Jamaica en grano, usa 4 granos de pimienta negra y 1 clavo en el escabeche.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -959,6 +960,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 370, prot: 31, hc: 54, grasa: 3 },
   etiquetas: ["tradicional", "ligera", "sin lácteos", "picante", "de cuchara", "invierno", "bajo en colesterol"],
   consejo: "La pepper soup se hace también con cabra, pollo o pez gato. La hoja que la perfuma en Nigeria es la scent leaf (albahaca africana); la albahaca con unas hojas de menta se le parece mucho. Si encuentras mezcla de especias para pepper soup en tiendas africanas, usa 1 cucharada en lugar de las especias del mortero.",
+  alternativa: "Si no encuentras yuca, usa 250 g de patata en trozos y cuécela solo 10 min antes de añadir la pasta; sin pimienta de Jamaica, pon 4 granos de pimienta negra en el mortero.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"

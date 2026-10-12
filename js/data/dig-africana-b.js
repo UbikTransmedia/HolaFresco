@@ -233,6 +233,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 21, hc: 78, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "superalimentos", "económica"],
   consejo: "El cacahuete es bajo en FODMAP hasta unos 30 g por persona; molido fino, como lo machacan en Zambia, se digiere mucho mejor que entero y espesa la salsa sin necesidad de grasa añadida. El kale y las espinacas son libres. En Zambia la nshima se come con la mano derecha: se hace una bolita, se aplasta con el pulgar y se usa para recoger la verdura. Mastica despacio: la polenta firme sacia mucho.",
+  alternativa: "Si no encuentras harina de maíz blanca, usa la misma cantidad de harina de maíz blanca precocida (tipo P.A.N.): añádela toda poco a poco al agua hirviendo y bate 3-4 minutos, sin la fase de gachas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -374,6 +375,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 25, hc: 55, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "al horno"],
   consejo: "El tempeh es una de las proteínas vegetales mejor toleradas en la dieta baja en FODMAP: la fermentación reduce sus galactanos. El chatini de Mauricio lleva siempre guindilla verde y ajo; aquí el frescor lo ponen la menta, el jengibre y la lima. El coco rallado se queda en 10 g por persona y el boniato en 75 g, dentro de sus raciones seguras. El chatini aguanta 2 días en la nevera tapado con film en contacto.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme bien prensado y cortado en lonchas de 1 cm: a la plancha toma la misma costra, aunque queda más suave de sabor.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -417,6 +419,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 22, hc: 62, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "ideal para llevar"],
   consejo: "En Nigeria se usa abacha seca (yuca rallada, cocida y secada al sol) que se rehidrata en agua; con yuca fresca bien cocida y cortada en tiras se consigue la misma textura. La original lleva ugba (semillas fermentadas de una legumbre), cebolla y chile, que aquí se sustituyen por cebolleta verde y pimienta; el bacalao desalado recuerda al okporoko, el pescado seco que se usa en Nigeria, y la nuez moscada al ehuru (nuez moscada africana). El aceite de palma se queda en un acento de una cucharadita por persona. La yuca, bien cocida, es baja en FODMAP y muy saciante.",
+  alternativa: "Si no encuentras aceite de palma, aliña con 2 cdta más de aceite de oliva y media cucharadita de pimentón dulce: conserva el color anaranjado de la abacha.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -594,6 +597,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 36, hc: 69, grasa: 9 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "económica"],
   consejo: "En Madagascar se hace con brèdes (hojas tiernas de mostaza, berro o petsaï, que es el pak choi) y carne de cebú o cerdo, y se acompaña de sakay, una pasta picante que aquí se omite. Es uno de los platos más suaves que existen para un intestino irritable: arroz muy cocido, carne magra y hojas libres de FODMAP. Al recalentarlo, añade agua: el arroz sigue absorbiendo caldo.",
+  alternativa: "Si no encuentras pak choi, usa el mismo peso de acelga tierna (pencas en trozos y hojas picadas); sin berros, pon un puñado de rúcula al final, que da el mismo punto picante.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -639,6 +643,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 17, hc: 74, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "al horno", "poco especiada", "para niños", "económica"],
   consejo: "En Sudáfrica se hace con mealie meal (harina de maíz blanco) y salsa de tomate y cebolla; la parte verde de la cebolleta da el mismo sabor sin fructanos. El cheddar curado y la mantequilla tienen trazas mínimas de lactosa y son aptos en estas cantidades. El maíz dulce se limita a 30 g por persona para no pasarse de sorbitol. Puedes dejarlo montado el día anterior y hornearlo al momento.",
+  alternativa: "Si no encuentras harina de maíz blanca, usa la misma cantidad de polenta de cocción rápida: queda amarilla pero igual de firme; cuécela 5 minutos en lugar de 15.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -779,6 +784,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 628, prot: 45, hc: 76, grasa: 16 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "para niños"],
   consejo: "El bol renversé nació en los restaurantes sino-mauricianos y hoy es uno de los platos más pedidos de la isla. El original lleva champiñones y ajo picado: los champiñones se cambian por brotes de soja, libres de FODMAP, y el ajo por aceite de ajo. La salsa de ostras es baja en FODMAP en esta cantidad, pero revisa la etiqueta: elígela sin ajo y sin trigo. Pasar el pollo por maicena antes de saltearlo lo deja muy tierno, más fácil de masticar y digerir.",
+  alternativa: "Si no encuentras salsa de ostras sin gluten ni ajo, usa 1 cda más de tamari con 1 cdta de azúcar moreno: da el mismo punto dulce y salado.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -822,6 +828,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 35, hc: 56, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "una sola sartén"],
   consejo: "El mijo es un cereal sin gluten y bajo en FODMAP que en África occidental se come a diario; tostado antes de cocerlo queda más sabroso y se digiere mejor. La leche de coco se queda en 50 ml por persona. Cocinar la merluza al vapor sobre el propio cereal la deja jugosa sin añadir grasa. Si lo guardas, el mijo espesa: aflójalo con un poco de caldo al recalentarlo.",
+  alternativa: "Si no encuentras mijo, usa 140 g de arroz redondo sin tostar: cuécelo igual, añadiendo el caldo por tercios, unos 18 minutos; queda igual de cremoso.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -869,6 +876,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 19, hc: 57, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "superalimentos"],
   consejo: "El teff es un grano integral sin gluten, bajo en FODMAP y rico en hierro y fibra; en grano se vende en herbolarios y tiendas ecológicas. El niter kibbeh auténtico lleva ajo, cebolla y korarima; esta versión con cardamomo, clavo, tomillo y jengibre conserva su perfume. La mantequilla tiene apenas trazas de lactosa y es apta en esta cantidad. Si te cuesta digerir el grano integral, cuécelo 5 minutos más con un poco más de caldo.",
+  alternativa: "Si no encuentras teff en grano, usa 120 g de quinoa lavada, cocida 20 minutos en el mismo caldo y removida al final para que quede cremosa: sabor algo menos tostado.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -1001,6 +1009,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 36, hc: 53, grasa: 11 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "detox", "ligera"],
   consejo: "En Mauricio el bouillon brèdes se hace con hojas de chayote, de calabaza o de berro y se toma junto al arroz y un plato principal; el pak choi y las espinacas son el sustituto fácil y libre de FODMAP. Cocer el pescado sin que el caldo hierva lo deja tierno y muy digestivo. El jengibre en bastones aporta calor sin picar y ayuda a quien tiene digestiones lentas.",
+  alternativa: "Si no encuentras pak choi, usa el mismo peso de acelga tierna: echa primero las pencas en trozos 3 minutos y luego las hojas.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -1138,6 +1147,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 485, prot: 43, hc: 61, grasa: 8 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína", "de cuchara", "económica"],
   consejo: "Precocer la yuca y tirar esa primera agua es una costumbre de toda África oriental que la hace más suave y elimina su leve amargor. La pechuga de pavo es magra y de las carnes que mejor se toleran con el intestino irritable. Si quieres un caldo casero apto, cuece carcasas de pollo con zanahoria, la parte verde del puerro y laurel. Se conserva 3 días en la nevera; añade el limón al servir.",
+  alternativa: "Si no encuentras yuca, usa 250 g de patata en dados sin precocer: añádela al caldo con la zanahoria y cuece los mismos 15 minutos.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

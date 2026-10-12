@@ -47,6 +47,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 27, hc: 70, grasa: 21 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "vegana", "económica", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En las tabernas checas este puré se sirve con pan de centeno y pepinillos en vinagre, justo las dos cosas que fallan con alergias (gluten y sulfitos): por eso aquí lo acompaña una ensalada fresca de pepino al limón. Las legumbres secas a granel pueden traer algún grano de trigo o cebada del campo; para celíacos compra guisantes envasados con la indicación «sin gluten» y repásalos antes de lavarlos. El puré aguanta 3 días en la nevera y se recalienta con un chorrito de agua.",
+  alternativa: "Si no encuentras guisantes partidos, usa los mismos 200 g de lentejas rojas con solo 600 ml de agua: se deshacen en 20-25 minutos y el puré queda casi igual, algo más anaranjado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -139,6 +140,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 29, hc: 120, grasa: 20 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "económica", "ideal para llevar", "poco especiada"],
   consejo: "El tutu nació para aprovechar el feijão del día anterior y es comida de casa en Minas Gerais. La harina de mandioca no tiene gluten, pero a granel comparte silos y cucharones con harinas de trigo: cómprala envasada y que indique «sin gluten». El bacon envasado puede llevar lactosa, proteína de leche o dextrosa de trigo; lee la etiqueta. Si sobra, el tutu espesa en la nevera: recaliéntalo con un poco de agua.",
+  alternativa: "Si no encuentras harina de mandioca, usa 40 g de harina de maíz precocida (tipo P.A.N., sin gluten), añadida en lluvia y cocida 3-4 minutos más removiendo: espesa igual y el sabor apenas cambia.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1219,6 +1221,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 390, prot: 12, hc: 54, grasa: 14 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "económica", "ligera", "invierno", "poco especiada"],
   consejo: "La kartoflanka se hace con «włoszczyzna», el manojo de verduras para sopa polaco: zanahoria, raíz de perejil, apio nabo y puerro. El apio nabo es el mismo alérgeno que el apio, así que aquí lo sustituye la chirivía, que se parece a la raíz de perejil. Hay quien la termina con nata agria: sin ella queda igual de reconfortante. Lee la etiqueta del bacon, que puede llevar lactosa o proteína de leche.",
+  alternativa: "Si no encuentras chirivía, pon otra zanahoria y 100 g de nabo en daditos: dan el mismo punto dulce y terroso, y se cuecen en el mismo tiempo.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1312,6 +1315,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 970, prot: 54, hc: 93, grasa: 41 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "picante", "batch cooking", "ideal para llevar"],
   consejo: "El curry en polvo jamaicano, como casi todos los curris en polvo comerciales, puede llevar semillas de mostaza y a veces apio: por eso aquí se mezclan las especias en casa. El habanero entero perfuma sin picar demasiado; si lo rompes, el plato será muy picante. Revisa que la leche de coco solo lleve coco y agua (algunas añaden espesantes o se envasan junto a frutos secos).",
+  alternativa: "Sin olla exprés: cuece el curry en cazuela tapada 35-40 minutos a fuego suave en lugar de 12 minutos a presión, con 100 ml más de agua, hasta que el pollo esté tierno.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1358,6 +1362,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 40, hc: 49, grasa: 24 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "apta para alergias", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "La jardinera de casa suele llevar un chorro de vino blanco y a veces se espesa con harina. Aquí la patata chascada espesa la salsa sin gluten y el sofrito largo sustituye al vino. Pide la carne sin adobar ni «preparar»: algunos adobos de carnicería llevan sulfitos o lactosa. Se congela muy bien en raciones.",
+  alternativa: "Sin olla exprés: guisa la carne en cazuela tapada 1 h 30 min a fuego suave en lugar de 25 minutos a presión, con 250 ml más de agua; luego añade patatas y zanahoria y cuece 20-25 minutos más.",
   tupper: true,
   contundencia: "media",
   coste: "media"

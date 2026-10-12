@@ -725,6 +725,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 16, hc: 104, grasa: 22 },
   etiquetas: ["tradicional", "económica", "invierno", "sin lácteos", "superalimentos", "bajo en colesterol"],
   consejo: "La injera auténtica fermenta 2 o 3 días y queda ácida y esponjosa; esta versión con bicarbonato y vinagre imita el sabor en media hora. La harina de teff se vende en herbolarios y tiendas ecológicas. Si sólo usas teff, la injera no lleva gluten, pero muchas harinas se envasan en fábricas con trigo. El atakilt wat recalentado mejora; las injeras se guardan envueltas en film.",
+  alternativa: "Si no encuentras harina de teff, usa la misma cantidad de harina de trigo sarraceno: la injera sale algo más oscura y menos esponjosa, pero con la misma técnica y tiempos.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -819,6 +820,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 23, hc: 104, grasa: 29 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "económica", "batch cooking", "superalimentos"],
   consejo: "El waakye es el desayuno-almuerzo más popular de Ghana y se vende envuelto en hoja de plátano con un sinfín de guarniciones: gari, espaguetis, huevo duro, plátano frito o shito (que lleva pescado). Si remojas las alubias 2 horas antes, se cuecen en 15 minutos. Arroz y salsa se conservan por separado 3 días en la nevera.",
+  alternativa: "Sin remojo: usa 300 g de alubias carillas cocidas de bote, enjuagadas; cuece el arroz con 300 ml de agua, el bicarbonato y sal, tapado, 12 min, y añade las alubias los últimos 5 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -954,6 +956,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 20, hc: 86, grasa: 23 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "verano", "ideal para llevar", "superalimentos", "bajo en colesterol"],
   consejo: "En Senegal la ensalada de niébé (alubia carilla) se adereza con mostaza, lima y cebolla, igual que el yassa. El mijo, cereal básico del Sahel, se encuentra en herbolarios y supermercados en la sección de cereales. Para llevar, guarda las pipas aparte para que sigan crujientes; la ensalada aguanta 2 días en la nevera.",
+  alternativa: "Si no tienes mijo, usa 100 g de quinoa lavada con 200 ml de agua: cuécela tapada 12 min y déjala reposar 5; queda igual de suelta y sigue sin gluten.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1098,6 +1101,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 475, prot: 15, hc: 72, grasa: 14 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "ligera", "económica", "detox", "bajo en colesterol"],
   consejo: "El romazava es el plato nacional de Madagascar: un caldo de cebú (o cerdo) con varias hojas verdes, entre ellas la brède mafane, que produce un hormigueo en la lengua. Los berros aportan el punto picante y la pimienta de Sichuan recuerda ese cosquilleo. En Madagascar el arroz es el centro de la comida y se sirve en grandes cantidades.",
+  alternativa: "Si no encuentras berros, usa la misma cantidad de rúcula, que aporta el mismo punto picante; sin pimienta de Sichuan, termina con ralladura de lima y pimienta negra recién molida.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

@@ -128,6 +128,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 810, prot: 28, hc: 105, grasa: 31 },
   etiquetas: ["tradicional", "vegana", "económica", "picante", "batch cooking", "sin verduras"],
   consejo: "Es comida callejera de Lagos: las vendedoras, que en su origen eran de Togo (agoyin), la sirven con pan o con plátano frito. La salsa aguanta 2 semanas en un tarro en la nevera y se usa como condimento. Si no encuentras carillas, sirve con alubias pintas, aunque tardan más en deshacerse.",
+  alternativa: "Sin remojo: usa 400 g de alubias carillas cocidas de bote, enjuagadas, y cuécelas 10 min con un dedo de agua hasta que se deshagan; si no encuentras ñoras, sustitúyelas por 2 cdta de pimentón dulce desleídas en el triturado.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -982,6 +983,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 885, prot: 51, hc: 85, grasa: 38 },
   etiquetas: ["tradicional", "al horno", "para niños", "batch cooking", "sin verduras"],
   consejo: "El bobotie lo llevaron a Ciudad del Cabo los esclavos y cocineros traídos de Indonesia y Malasia, y es casi plato nacional. Se sirve con arroz amarillo con pasas, chutney y rodajas de plátano. Aguanta 3 días en la nevera y se congela en porciones; también se hace con cordero picado.",
+  alternativa: "Si no encuentras chutney de mango, usa 2 cda de mermelada de albaricoque con unas gotas de vinagre y una pizca de curry: da el mismo punto agridulce.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -1122,6 +1124,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 50, hc: 54, grasa: 28 },
   etiquetas: ["creativa", "sin gluten", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "Madagascar produce la mayor parte de la vainilla del mundo y en la isla se usa también con pato, pollo y langostinos. Las brèdes son las verduras de hoja salteadas o en caldo que acompañan el arroz en cada comida malgache y mauriciana. Lava la vaina usada, sécala y guárdala en el azúcar para aromatizarlo.",
+  alternativa: "Si no tienes vaina de vainilla, usa 1 cdta de extracto de vainilla puro (sin azúcar) y añádelo a la salsa al final, ya fuera del fuego, para que no pierda aroma.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
