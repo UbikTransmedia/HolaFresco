@@ -349,6 +349,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 42, hc: 56, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "batch cooking", "invierno"],
   consejo: "En Córcega el veau aux olives se cuece con vino blanco y se sirve con pulenda de castaña; esta versión sin alcohol ni cebolla conserva el sabor gracias al tomate y a la salvia. Escaldar las aceitunas es un gesto corso que las suaviza y deja el guiso menos salado, algo que agradece quien sufre hinchazón. El guiso mejora de un día para otro: haz el doble y congela la mitad. La polenta (maíz) es naturalmente sin gluten.",
+  alternativa: "Con olla exprés, cuece la ternera con el tomate, la salvia, el laurel y solo 200 ml de agua 25 min desde que suba la válvula, en vez de 75 min; luego añade las aceitunas escaldadas y deja reducir 8-10 min destapado.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -389,6 +390,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 40, hc: 35, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "al horno", "alta en proteína", "ligera", "otoño"],
   consejo: "Usa calabaza japonesa (kabocha) o la de piel verde: es baja en FODMAP incluso en ración generosa, a diferencia de la calabaza violín, que hay que limitar a unos 45 g. El papillote cocina el pavo en su vapor y lo mantiene jugoso con muy poca grasa. Si la calabaza es de piel fina puedes dejarla sin pelar: se ablanda en el horno.",
+  alternativa: "Si no encuentras calabaza japonesa, no la cambies sin más por cacahuete: pon solo 90 g de esta (45 g por persona) y completa con 310 g de zanahoria en láminas de 3 mm. Los piñones pueden ser 15 g de almendra laminada tostada.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -470,6 +472,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 375, prot: 36, hc: 22, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "al horno", "alta en proteína", "ligera", "una sola sartén"],
   consejo: "El limón del marinado ablanda la fibra del pollo, que queda más tierno y fácil de digerir. 75 g de judías verdes por persona es la ración baja en FODMAP; la calabaza japonesa se puede poner en abundancia. Si quieres un plato más completo, añade una patata pequeña por persona en gajos junto a la calabaza.",
+  alternativa: "Sin kabocha, usa 90 g de calabaza cacahuete y 310 g de zanahoria en bastones gruesos, que entran al horno a la vez: el plato conserva su dulzor y sigue siendo bajo en FODMAP.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -684,6 +687,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 21, hc: 60, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "al horno", "otoño", "invierno", "para niños"],
   consejo: "El tian de courge es un clásico del interior de Provenza que toma el nombre de la fuente de barro en la que se hornea. Hazlo con calabaza japonesa o de piel verde, bajas en FODMAP en ración generosa; la calabaza violín (butternut) solo se tolera en poca cantidad. Aguanta 3 días en la nevera y se recalienta en porciones.",
+  alternativa: "Si no hay calabaza japonesa, cuece al vapor 90 g de calabaza cacahuete, 400 g de zanahoria en rodajas finas y 210 g de patata, 15-18 min: el tian sale algo más claro y menos dulce, pero sigue siendo bajo en FODMAP.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -727,6 +731,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 19, hc: 77, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "superalimentos", "al horno", "otoño"],
   consejo: "El feta es un queso con muy poca lactosa y, en 25 g por persona, se tolera bien en una dieta baja en FODMAP; la chirivía, la zanahoria y las espinacas son libres. La quinoa aporta proteína completa: lávala siempre para quitar las saponinas, que amargan y pueden irritar. Si quieres más proteína, añade un huevo mollet.",
+  alternativa: "Si no encuentras chirivía, usa 300 g más de zanahoria en los mismos bastones y con el mismo tiempo de horno: pierde el punto anisado, pero sigue siendo libre de FODMAP y combina igual con la crema de feta.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -897,6 +902,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 40, hc: 74, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "batch cooking"],
   consejo: "En Malta el conejo se guisa con vino tinto, mucho ajo y cebolla; la salsa sirve de primer plato con espaguetis y la carne se come después. Aquí va todo junto y sin alcohol. El conejo es una de las carnes más magras y digestivas. La salsa se congela muy bien: haz el doble y tendrás una comida lista en 10 minutos.",
+  alternativa: "A presión, el conejo queda tierno en 15 min desde que sube la válvula (con solo 200 ml de agua) en lugar de 50 min; después deshébralo y reduce la salsa destapada 8-10 min antes de mezclarla con la pasta.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1069,6 +1075,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 27, hc: 40, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "de cuchara", "otoño", "invierno", "ligera"],
   consejo: "La calabaza japonesa y la zanahoria son de las verduras más seguras en una dieta baja en FODMAP y, trituradas, apenas exigen trabajo al intestino. El lenguado, casi sin grasa, se cuece en el vapor de la propia crema: un solo fuego y nada que fregar. Las pipas de calabaza aportan un punto crujiente (15 g para dos es una ración bien tolerada).",
+  alternativa: "Para la crema sin calabaza japonesa: 90 g de cacahuete, 300 g más de zanahoria y 110 g más de patata, con los mismos 20 min. Queda un poco menos dulce, igual de fina y dentro de la ración tolerada.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"

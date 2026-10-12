@@ -47,6 +47,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 35, hc: 41, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "detox", "de cuchara", "alta en proteína"],
   consejo: "Triturar solo una parte de las verduras da un caldo con cuerpo sin harina ni nata, y la calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa; la violín, en cambio, conviene limitarla a 45 g por persona. Escalfar la corvina en un caldo que apenas tiembla la deja jugosa y muy fácil de digerir. Vale igual con merluza, lubina o abadejo.",
+  alternativa: "Cuando no encuentres kabocha, cámbiala por 90 g de calabaza cacahuete, 110 g más de patata y 100 g más de zanahoria: el caldo triturado queda igual de cremoso, algo menos anaranjado, y no pasas de 45 g de cacahuete por persona.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -306,6 +307,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 485, prot: 36, hc: 48, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "de cuchara", "alta en proteína", "invierno", "batch cooking"],
   consejo: "La pierna es la parte más magra del cordero; quitarle la grasa visible antes de guisar deja un caldo limpio y ligero. Zanahoria, chirivía y patata son libres en la dieta baja en FODMAP. El trabajo activo es de unos 15 minutos y el guiso mejora de un día para otro; si lo enfrías, podrás retirar la grasa que suba a la superficie.",
+  alternativa: "La chirivía se puede cambiar por la misma cantidad de nabo pequeño o de zanahoria, en trozos iguales y con el mismo tiempo: el guiso queda algo menos dulce y sigue siendo bajo en FODMAP.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -351,6 +353,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 38, hc: 65, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "de cuchara", "invierno", "alta en proteína"],
   consejo: "En Istria y en toda Croacia la «juha i lešo meso» se acompaña de umak od rajčice, una salsa de tomate ligada con un poco de harina; con harina de arroz queda igual. Son 2 horas de cazuela pero apenas 20 minutos de trabajo; en olla exprés, la carne se hace en 35 minutos. Si dejas enfriar el caldo, la grasa se solidifica arriba y se retira con una cuchara: un caldo desgrasado es mucho más ligero.",
+  alternativa: "Sin chirivía, usa un nabo pequeño de unos 100 g en trozos grandes: se cuece en los mismos 25 min y da al caldo un fondo terroso parecido.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -395,6 +398,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 36, hc: 30, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en raciones generosas, a diferencia de la violín, que conviene limitar a 45 g. Escalfar en agua que apenas tiembla evita que la pechuga se reseque, y la carne tierna se mastica y digiere mejor. El caldo que sobra se congela para otra sopa.",
+  alternativa: "La crema también sale con 90 g de calabaza cacahuete, 130 g más de patata y 130 g más de zanahoria, cocidos los mismos 15 min: algo menos dulce, igual de espesa y dentro del límite tolerado de cacahuete.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -440,6 +444,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 40, hc: 39, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína"],
   consejo: "El solomillo es la pieza más magra del cerdo y, terminado en caldo en vez de solo a la plancha, queda tierno y fácil de masticar. La chirivía es baja en FODMAP y da una crema dulce y sedosa sin nata. Las judías verdes se quedan en 70 g por persona, dentro de la ración bien tolerada. Usa un caldo de pollo casero o uno comercial sin cebolla ni ajo.",
+  alternativa: "Cuando no haya chirivía, prepara la crema con 120 g de zanahoria y 80 g de nabo, en los mismos dados y con el mismo tiempo: sale más anaranjada y menos anisada, pero igual de sedosa y baja en FODMAP.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"

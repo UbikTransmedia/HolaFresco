@@ -617,6 +617,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 33, hc: 60, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "alta en proteína"],
   consejo: "La ojja se hace en Túnez con harissa, mucho ajo y a veces merguez; esta versión conserva el pimiento verde, el tomate, el comino y la alcaravea (las especias del tabel tunecino) y deja fuera el picante, que irrita el intestino. El pimiento verde se tolera en mucha más cantidad que el rojo. Si no comes marisco, sustituye las gambas por dados de pechuga de pollo dorados al principio con los pimientos.",
+  alternativa: "Si no encuentras alcaravea, prescinde de ella y sube el comino a ¾ de cucharadita: se pierde un ligero matiz anisado, pero la salsa conserva el perfume tunecino.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -919,6 +920,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 490, prot: 17, hc: 66, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada"],
   consejo: "En la costa de Sorrento y Amalfi el risotto al limone se hace con los limones de la zona y se manteca con mantequilla; aquí lo hacen la yema y el parmesano, que dan cremosidad con menos grasa. El parmesano curado es prácticamente libre de lactosa. Comprueba que el caldo no lleve cebolla ni ajo: los de brick casi siempre los llevan.",
+  alternativa: "Si no tienes arborio, usa arroz redondo corriente (el bomba no, que apenas suelta almidón): los mismos 17-18 min, removiendo un poco más a menudo para que quede cremoso.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -1003,6 +1005,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 25, hc: 76, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "otoño", "para niños"],
   consejo: "La calabaza japonesa (kabocha) es la variedad baja en FODMAP que admite ración generosa; la violín o butternut no debe pasar de 45 g por persona. El puré de calabaza hace de colchón para el huevo: la salsa queda cremosa con menos yema y menos queso. Si el jamón te resulta pesado, quítalo: la salvia crujiente basta para dar contraste. Mezcla siempre con el fuego apagado para que el huevo no forme grumos.",
+  alternativa: "Sin calabaza japonesa, cuece 90 g de calabaza cacahuete y 210 g de zanahoria en rodajas finas 10-12 min y tritúralas igual: la crema sigue siendo naranja y suave, algo más dulce, y apta en FODMAP.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

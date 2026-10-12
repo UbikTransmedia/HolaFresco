@@ -98,6 +98,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 38, hc: 38, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "bajo en colesterol", "al horno", "alta en proteína"],
   consejo: "El tarator libanés lleva ajo machacado; sin él, el limón y el comino del pescado mantienen el sabor de los chiringuitos de la costa. El tahini es bajo en FODMAP en raciones de una cucharada por persona, como aquí. La berenjena va en su ración tolerada (unos 70 g por persona): las verduras asadas hasta quedar blandas, y no a medio hacer, se digieren mucho mejor.",
+  alternativa: "Si no encuentras zumaque, espolvorea al servir la ralladura de medio limón con una pizca de pimentón dulce: da un punto ácido y rojizo muy parecido sobre las verduras.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -142,6 +143,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 31, hc: 50, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "al horno", "una sola sartén"],
   consejo: "La chirivía, la zanahoria y la patata son verduras libres en una dieta baja en FODMAP, así que la bandeja puede ser tan generosa como quieras. El salmón aporta grasa buena, pero si notas digestiones lentas por la grasa, retírale la piel antes de servir o cámbialo por merluza (hornéala solo 8-10 minutos).",
+  alternativa: "Si en tu frutería no hay chirivía, reparte esos 200 g entre zanahoria y patata en los mismos bastones: la bandeja pierde el toque anisado, pero se asa en el mismo tiempo.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -230,6 +232,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 28, hc: 46, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "al horno", "económica"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa, a diferencia de la violín, que conviene limitar a 45 g por persona. El aliño sin aceite y el pepino sin semillas hacen que la caballa, que ya aporta su propia grasa, resulte ligera; si un pescado graso te sienta pesado, retírale la piel después de hornear.",
+  alternativa: "En lugar de kabocha, puedes asar 90 g de calabaza cacahuete en gajos y añadir 160 g más de patata: la bandeja queda algo menos dulce, se hace en el mismo tiempo y no pasas de la ración tolerada.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -363,6 +366,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 43, hc: 38, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "alta en proteína", "de cuchara", "batch cooking"],
   consejo: "Kamoun es «comino» en árabe tunecino, y esta salsa se hace tradicionalmente con ajo y harissa; aquí se quitan el picante y el ajo (el aceite de ajo da el aroma sin fructanos) y se deja el comino, que además se ha usado siempre para aliviar los gases. Es un guiso de trabajo activo corto y mejora de un día para otro; guárdalo aparte de las verduras.",
+  alternativa: "Con olla exprés, la carne se ablanda en 25-30 min desde que sube la válvula, con 350 ml de agua en lugar de 500; después reduce la salsa destapada unos 10 min y sigue igual.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -797,6 +801,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 27, hc: 31, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "al horno", "detox"],
   consejo: "El tofu firme es bajo en FODMAP porque al prensarlo pierde el suero donde quedan los galactooligosacáridos de la soja; el tofu sedoso, en cambio, no es apto. Las almendras se toleran bien hasta 10 unidades por persona, y aquí van 6. El kale, cocinado, es más fácil de digerir que crudo.",
+  alternativa: "A falta de calabaza japonesa, usa 90 g de calabaza cacahuete, 150 g más de zanahoria y 160 g de patata en gajos finos: se asan en el mismo tiempo y el plato sigue siendo bajo en FODMAP.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -884,6 +889,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 525, prot: 16, hc: 66, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "ideal para llevar"],
   consejo: "A pesar de su nombre, el trigo sarraceno no es trigo: es un pseudocereal sin gluten y bajo en FODMAP. El feta tiene poca lactosa y se tolera bien en ración de 30 g por persona; las nueces, hasta 30 g. Si llevas la ensalada en tupper, guarda la rúcula aparte y añádela al servir.",
+  alternativa: "Si no encuentras trigo sarraceno, usa 120 g de quinoa lavada y cuécela 12-14 min en el agua hirviendo; escúrrela bien. Pierde el sabor tostado, pero queda igual de suelta, sin gluten y baja en FODMAP.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -970,6 +976,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 15, hc: 86, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "para niños"],
   consejo: "Cocer la patata, las judías y la pasta en la misma agua es el truco de las casas pugliesas: el almidón liga la salsa sin nata ni mantequilla. El pecorino curado tiene muy poca lactosa. Las judías verdes van en su ración baja en FODMAP (75 g por persona); la pasta sin gluten se pasa enseguida, así que pruébala un minuto antes de lo indicado.",
+  alternativa: "Si no tienes pecorino, ralla la misma cantidad de parmesano curado: es menos salado y picante, así que prueba de sal al final, y sigue siendo prácticamente libre de lactosa.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

@@ -48,6 +48,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 43, hc: 50, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína"],
   consejo: "El mijo es uno de los cereales sin gluten mejor tolerados en el intestino irritable, y cocido con algo más de caldo que de costumbre queda cremoso sin necesidad de nata ni mantequilla. Lavarlo bien le quita el amargor de la cáscara. La corvina se puede cambiar por dorada, lubina o merluza; mastica despacio el pescado con piel crujiente si te cuesta digerirlo, o quítasela.",
+  alternativa: "Con arroz redondo en lugar de mijo (los mismos 120 g): nacáralo en el aceite de ajo y añade el caldo caliente en 3-4 tandas durante 17-18 min, removiendo; con el parmesano y el limón queda igual de cremoso.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -272,6 +273,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 41, hc: 64, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "batch cooking", "alta en proteína", "invierno"],
   consejo: "La gardiane auténtica se hace con carne de toro de la Camarga marinada en vino tinto; aquí una cucharada de vinagre de vino aporta ese punto ácido sin alcohol, y el arroz blanco que la acompaña es el de los arrozales de la propia Camarga. Solo trabajas 20 minutos: el resto es fuego lento. La cocción larga deja la carne muy tierna y fácil de digerir; quita la grasa que flote antes de servir y, si la haces la víspera, retírala ya fría de la superficie.",
+  alternativa: "Si tienes olla exprés, ciérrala tras añadir el caldo y cuece 30 min desde que suba la válvula en vez de la hora y cuarto; abre, añade las aceitunas y deja 10-15 min destapado hasta que la salsa ligue.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -713,6 +715,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 14, hc: 56, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "detox", "al horno", "verano"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa, a diferencia de la calabaza violín; el calabacín y los cherrys van en la cantidad tolerada (60-70 g por persona). Lavar la quinoa elimina las saponinas, que le dan amargor y pueden irritar el intestino. El yogur sin lactosa mantiene la frescura del tzatziki sin la lactosa del normal.",
+  alternativa: "Si no encuentras kabocha, ensarta 90 g de calabaza cacahuete y 110 g de zanahoria en rodajas de 1 cm (más finas, para que se asen a la vez): así no pasas de 45 g de cacahuete por persona.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -930,6 +933,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 38, hc: 76, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "batch cooking", "para niños"],
   consejo: "El rosto llegó a Gibraltar con los marineros genoveses y es hoy uno de sus platos de domingo; lleva cebolla, ajo, champiñones y a veces vino, que aquí se sustituyen por cebolleta verde, aceite de ajo y más zanahoria para que sea apto para el intestino irritable. El trabajo activo son 15 minutos; el resto es fuego lento. La salsa se congela muy bien: haz doble cantidad.",
+  alternativa: "La olla exprés reduce el guiso a 30 min desde que sube la válvula; luego destapa y deja reducir la salsa 10 min, hasta que espese, antes de mezclarla con los macarrones.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1062,6 +1066,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 33, hc: 38, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "de cuchara", "batch cooking", "invierno"],
   consejo: "El mijo suelta almidón y espesa la sopa sin harina ni nata. La calabaza japonesa es baja en FODMAP en ración generosa; no la cambies por calabaza violín, que solo se tolera en 45 g por persona. El contramuslo de pavo sin piel es jugoso y magro; si recalientas la sopa, añade un chorrito de agua porque el mijo sigue absorbiendo caldo.",
+  alternativa: "Sin mijo, pon 60 g de arroz redondo, que espesa la sopa igual y tarda casi lo mismo. Y si no hay calabaza japonesa, usa solo 90 g de cacahuete y completa con 160 g más de zanahoria.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

@@ -92,6 +92,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 495, prot: 46, hc: 42, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína", "de cuchara", "batch cooking"],
   consejo: "En Sète la rouille de seiche se guisa con ajo, vino blanco y un chorro de coñac y se liga con una rouille de ajo, yema y aceite; aquí la rouille se hace con patata del propio guiso y aceite de ajo, sin huevo crudo ni fructanos. La sepia necesita cocción larga y suave: así queda tierna y se digiere bien, pero mastícala despacio. Es casi sin grasa y el trabajo activo no pasa de 20 minutos; recalentada al día siguiente está aún mejor.",
+  alternativa: "Para la sepia, la olla exprés ahorra media hora: cuécela con el tomate, las hierbas, el azafrán y 300 ml de agua 12 min a presión; abre, añade las patatas y el agua restante y termina destapado 18-20 min.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -222,6 +223,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 31, hc: 42, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína", "ligera"],
   consejo: "Todo se cuece al vapor en un solo recipiente y la grasa va en crudo, en la salsa, que es como mejor se tolera. La calabaza japonesa, la zanahoria y la patata son libres de FODMAP, y media cucharadita de mostaza de Dijon para dos queda muy por debajo de la ración que puede molestar. El rodaballo tiene una carne gelatinosa y fina; con lenguado o gallo el plato queda igual de digestivo y más económico.",
+  alternativa: "Si tu súper no tiene calabaza japonesa, pon 90 g de calabaza cacahuete en su lugar y sube la zanahoria a 310 g (la de más va desde el principio con la patata); sigue siendo bajo en FODMAP.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -396,6 +398,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 36, hc: 30, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína", "al horno", "otoño"],
   consejo: "La pierna es la parte más magra del cordero; quitarle la grasa visible antes de hornearla deja el plato en unos 22 g de grasa por ración, dentro de lo que se digiere bien. La calabaza japonesa es libre de FODMAP incluso en ración generosa y 70 g de judías verdes por persona están dentro de la ración tolerada. Una cucharadita de mostaza para dos es una cantidad baja en FODMAP y no pica.",
+  alternativa: "¿Sin calabaza japonesa? Cuece al vapor 90 g de calabaza cacahuete, 250 g de zanahoria en rodajas finas y 160 g de patata, y cháfalos juntos: el puré queda menos dulce pero igual de suave y respeta los 45 g de cacahuete por persona.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -876,6 +879,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 39, hc: 52, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína", "superalimentos"],
   consejo: "El mijo es un cereal sin gluten bajo en FODMAP, de sabor suave y muy fácil de digerir; tostarlo antes de cocerlo evita que quede pastoso. Una naranja por persona y 15 g de nueces están dentro de las raciones toleradas. Si tienes digestiones lentas, cambia las espinacas crudas por espinacas salteadas un minuto.",
+  alternativa: "Si no encuentras mijo, usa 100 g de quinoa bien lavada: cuécela sin tostar 12 min en los mismos 250 ml de agua y déjala reposar 5 min; queda algo más firme y sigue siendo sin gluten y baja en FODMAP.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -999,6 +1003,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 38, hc: 70, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "rápida"],
   consejo: "El agua de cocción de la pasta, rica en almidón, liga el zumo de limón y el parmesano en una salsa cremosa sin nata ni mantequilla. Las espinacas cocinadas son libres de FODMAP, así que puedes duplicarlas si quieres más verdura. Mastica despacio: la pasta sin gluten bien masticada se digiere mucho mejor.",
+  alternativa: "Los piñones encarecen mucho el plato: 15 g de almendra laminada, tostada igual en la sartén, dan el mismo crujiente y siguen siendo una ración baja en FODMAP.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

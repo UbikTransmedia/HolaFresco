@@ -140,6 +140,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 25, hc: 52, grasa: 18 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "poco especiada", "invierno"],
   consejo: "Las legumbres con almejas son un clásico de vigilia de toda la costa norte. Las almejas entran al final, ya abiertas, para que no se queden duras, y su jugo es el que da sabor a mar al caldo. Puedes adelantar las lentejas con el sofrito y abrir las almejas justo antes de comer.",
+  alternativa: "Con prisa, cambia las lentejas secas por 400 g de pardinas cocidas de bote, enjuagadas: cuécelas solo 10 min con el sofrito, la zanahoria en dados pequeños, el laurel y 400 ml de agua, y sigue con las almejas como indica la receta.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -354,6 +355,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 45, hc: 22, grasa: 30 },
   etiquetas: ["tradicional", "alta en proteína", "batch cooking", "poco especiada", "invierno"],
   consejo: "La «cazadora» lleva el nombre de los guisos de caza con setas del monte; en casa se hace con conejo de granja y champiñones, o con níscalos en otoño. El trabajo activo son unos 25 minutos y el resto es cazuela tapada. Como todos los guisos, gana de un día para otro: aguanta 3 días en la nevera y se congela bien. Acompáñalo con pan o con patatas fritas en dados.",
+  alternativa: "En olla exprés, tras añadir el conejo, el tomate y el agua, cierra y cuece 12 min desde que suba la válvula en lugar de 35-40 min; abre y, si la salsa ha quedado clara, redúcela destapada 3-4 min.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -398,6 +400,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 44, hc: 46, grasa: 44 },
   etiquetas: ["tradicional", "de cuchara", "alta en proteína", "invierno"],
   consejo: "El ajillo pastor es el guiso de los pastores de la sierra de Jaén, que se hacía con cordero o chivo, ajos y pimentón en una sartén al fuego. El vinagre no se nota como tal: da el punto ácido que aligera la grasa del cordero. El trabajo activo son 25 minutos; el resto es cazuela tapada. También se hace con conejo o con contramuslos de pollo (entonces bastan 25 minutos antes de añadir las patatas).",
+  alternativa: "Para acortar el guiso, cuece el cordero en olla exprés 15 min desde que suba la válvula en vez de 40 min tapado; después abre, añade las patatas y el majado y termina sin presión los 20 min de la receta.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -441,6 +444,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 50, hc: 36, grasa: 32 },
   etiquetas: ["creativa", "una sola sartén", "alta en proteína", "sin gluten", "poco especiada", "primavera"],
   consejo: "Si tienes prisa, usa corazones de alcachofa congelados: entran directamente en el paso 4, sin agua con limón. Las patatas nuevas pequeñas se cuecen enteras en la salsa en 15 minutos; si las tuyas son grandes, córtalas en cuartos. Aguanta 2 días en la nevera.",
+  alternativa: "Fuera de temporada de ajos tiernos, cámbialos por 1 cebolleta en tiras y 2 dientes de ajo laminados: la cebolleta entra donde iban los ajetes y el ajo, solo 1 min antes de devolver el pollo.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -783,6 +787,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 38, hc: 39, grasa: 26 },
   etiquetas: ["tradicional", "sin gluten", "alta en proteína", "verano", "ideal para llevar", "económica", "poco especiada"],
   consejo: "Las huevas aliñadas son de los bares de Cádiz y Huelva, que las preparan con huevas de merluza, de choco o de maruca cocidas con laurel y un picadillo de tomate, pimiento y cebolla con vinagre de Jerez. Ganan reposando unas horas en la nevera, así que puedes hacerlas por la mañana; aguantan 2 días. Cuécelas a fuego suave para que no se abran.",
+  alternativa: "Si no encuentras huevas frescas de merluza, usa 300 g de huevas cocidas en conserva (se venden en lata o envasadas): sáltate su cocción, escúrrelas, córtalas en rodajas y alíñalas igual; la receta se queda en unos 25 min.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
