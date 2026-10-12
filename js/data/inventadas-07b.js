@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "vinagre de arroz", q: 2, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "miel", q: 1, u: "cdta" },
+    { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
@@ -452,7 +452,7 @@ window.RECETAS_SEED.push({
     "Pon a hervir agua con sal para el edamame. Envuelve el tofu en un paño limpio y presiónalo 5 minutos con un peso encima para sacarle el agua; mientras, ralla el jengibre y la piel de la lima. Corta el tofu en dados de 2 cm y rebózalos con la maicena y una pizca de sal.",
     "Cuece el edamame 4 minutos en agua hirviendo con sal, escúrrelo y refréscalo.",
     "Corta las dos coles en tiras muy finas (mandolina o cuchillo afilado), la zanahoria en juliana, el pimiento en tiras finas y la cebolleta al bies. Ponlo todo en un bol grande con el edamame.",
-    "Prepara el aliño: mezcla la soja, el vinagre, el zumo de la lima, la ralladura, la miel, el jengibre y el aceite de sésamo. Vierte sobre las verduras, remueve bien con las manos y deja reposar 10 minutos para que la col se ablande un poco. Mientras, pica los cacahuetes y el cilantro y corta el chile en rodajas.",
+    "Prepara el aliño: mezcla la soja, el vinagre, el zumo de la lima, la ralladura, el sirope de arce, el jengibre y el aceite de sésamo. Vierte sobre las verduras, remueve bien con las manos y deja reposar 10 minutos para que la col se ablande un poco. Mientras, pica los cacahuetes y el cilantro y corta el chile en rodajas.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y dora el tofu 7-8 minutos, dándole la vuelta a cada cara, hasta que esté crujiente y dorado.",
     "Tuesta el sésamo 1 minuto en la sartén vacía. Reparte el slaw en dos cuencos, pon encima el tofu caliente y termina con los cacahuetes, el sésamo, el cilantro y el chile."
   ],

@@ -67,7 +67,7 @@ window.RECETAS_SEED.push({
     { n: "tahini", q: 1, u: "cda" },
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
-    { n: "miel", q: 1, u: "cdta" },
+    { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "jengibre fresco", q: 10, u: "g", nota: "rallado" },
     { n: "sésamo", q: 1, u: "cda", nota: "tostado" },
@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
     "Enjuaga el arroz hasta que el agua salga clara y ponlo en el fondo de la olla con el agua y una pizca de sal, bien nivelado.",
     "Coloca el cestillo encima (sin tocar el arroz) y dentro el edamame, la zanahoria en bastones y los pak choi partidos a lo largo.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 3 min. Aparta y deja despresurizar de forma natural 10 min: el arroz termina de absorber el agua.",
-    "Mientras, bate en un bol el tahini, la soja, el vinagre, la miel, el aceite de sésamo y el jengibre con 1-2 cda de agua caliente hasta tener una salsa lisa.",
+    "Mientras, bate en un bol el tahini, la soja, el vinagre, el sirope de arce, el aceite de sésamo y el jengibre con 1-2 cda de agua caliente hasta tener una salsa lisa.",
     "Abre la olla, retira el cestillo y ahueca el arroz con un tenedor.",
     "Monta los boles: arroz, encima las verduras y el edamame, la salsa de sésamo por todo, sésamo tostado, cebolleta en rodajitas y un toque de sriracha si lo quieres picante."
   ],
