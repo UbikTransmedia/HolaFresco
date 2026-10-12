@@ -273,6 +273,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 38, hc: 52, grasa: 22 },
   etiquetas: ["económica", "alta en proteína", "verano", "aprovechamiento", "poco especiada", "bajo en colesterol"],
   consejo: "El fattoush nació para aprovechar el pan del día anterior: cualquier pan de pita o tortilla de trigo vieja sirve. Si no encuentras melaza de granada, usa media cucharadita de miel con unas gotas de vinagre balsámico.",
+  alternativa: "Si no tienes zumaque, condimenta el pollo con la ralladura de 1 limón y 0,5 cdta de pimentón dulce, y añade unas gotas más de limón al aliño: el toque ácido queda muy parecido.",
   contundencia: "media",
   coste: "económica"
 });
@@ -318,6 +319,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 30, hc: 40, grasa: 18 },
   etiquetas: ["ligera", "para invitados", "alta en proteína", "otoño", "poco especiada"],
   consejo: "La clave de la vieira es una sartén muy caliente y una vieira muy seca: si suelta agua, se cuece en lugar de dorarse. Puedes sustituirlas por langostinos grandes para abaratar el plato.",
+  alternativa: "Si no encuentras lentejas beluga, usa pardinas (los mismos 110 g), cocidas 20-22 min y escurridas con cuidado para que no se rompan; quedan algo menos firmes pero igual de sabrosas.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -369,6 +371,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 34, hc: 100, grasa: 24 },
   etiquetas: ["batch cooking", "económica", "ideal para llevar", "picante", "superalimentos"],
   consejo: "Cuece el doble de alubias y congélalas en su caldo: con eso tienes media receta hecha la próxima vez. Si vas con prisa, usa 400 g de alubias negras cocidas de bote y la receta se queda en 45 minutos.",
+  alternativa: "En lugar del chipotle en adobo, añade al yogur 1 cdta de pimentón ahumado, una pizca de cayena y unas gotas de vinagre de manzana: conserva el picante ahumado del aliño.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -652,6 +655,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 20, hc: 52, grasa: 18 },
   etiquetas: ["ligera", "al horno", "económica", "vegetariana", "invierno", "bajo en colesterol"],
   consejo: "Asa varias remolachas a la vez: peladas y en la nevera aguantan 5 días. El dukkah sobrante, en un tarro bien cerrado, es estupendo sobre huevos, cremas o pan con aceite.",
+  alternativa: "Si no tienes ras el hanout, prepáralo al momento: 0,5 cdta de comino molido, 0,25 cdta de canela, 0,25 cdta de jengibre molido y una pizca de cúrcuma y de pimienta.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -785,6 +789,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 46, hc: 56, grasa: 36 },
   etiquetas: ["para niños", "alta en proteína", "sin horno", "poco especiada"],
   consejo: "Para una versión más ligera, hornea el pollo empanado a 210 °C durante 18 minutos sobre papel, pulverizado con un poco de aceite. El aliño ranchero aguanta 3 días en la nevera.",
+  alternativa: "Si no encuentras panko, usa 60 g de pan rallado grueso o de copos de maíz sin azúcar machacados groseramente: el empanado queda igual de crujiente.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -838,6 +843,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 36, hc: 76, grasa: 24 },
   etiquetas: ["económica", "batch cooking", "ideal para llevar", "al horno", "bajo en colesterol"],
   consejo: "Si encuentras biber salçası (pasta de pimiento turca) en tiendas de alimentación turca, usa una cucharada en lugar de los piquillos: el kısır tendrá su color y sabor auténticos.",
+  alternativa: "Sin melaza de granada, mezcla 1 cdta de miel con 2 cdtas de zumo de limón y unas gotas de vinagre balsámico; si no quieres encender el horno, dora las albóndigas en sartén 10-12 min.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -923,6 +929,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 26, hc: 44, grasa: 18 },
   etiquetas: ["ligera", "rápida", "ideal para llevar", "vegana", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, guarda el aguacate y el aliño aparte y mézclalos al comer: la col lombarda y la quinoa aguantan perfectamente 2 días aliñadas.",
+  alternativa: "Si solo encuentras tofu natural, prénsalo, dóralo en la sartén y añádele al final 0,5 cdta de pimentón ahumado y un chorrito de salsa de soja: recupera el punto ahumado.",
   contundencia: "ligera",
   coste: "media"
 });

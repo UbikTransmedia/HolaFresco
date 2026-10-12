@@ -209,6 +209,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 404, prot: 20, hc: 36, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "verano", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Para un labneh de verdad, deja el yogur salado colgando en un paño sobre un colador toda la noche en la nevera: queda tan denso que se unta como queso crema. Si no tienes zaatar, mezcla tomillo seco, sésamo tostado y una pizca de zumaque.",
+  alternativa: "Si no tienes zumaque, ralla la piel de medio limón sobre los garbanzos al servir: da ese mismo punto ácido y aromático.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -845,6 +846,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 612, prot: 20, hc: 52, grasa: 36 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "verano", "ideal para llevar", "poco especiada"],
   consejo: "La caponata gana mucho de un día para otro: hazla la víspera y añade la burrata en el momento. Sin burrata, unas lascas de queso ricotta salada o de parmesano también funcionan.",
+  alternativa: "Para que salga más económica, cambia los piñones por 30 g de almendra laminada tostada en seco: encaja igual de bien con las pasas y el agridulce.",
   contundencia: "media",
   coste: "premium"
 });

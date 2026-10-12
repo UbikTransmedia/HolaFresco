@@ -349,6 +349,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 44, hc: 70, grasa: 34 },
   etiquetas: ["para niños", "olla exprés", "alta en proteína"],
   consejo: "El yogur nunca debe ir bajo presión: se corta y la salsa queda granulosa.",
+  alternativa: "Sin olla exprés, guisa el pollo en cazuela tapada a fuego suave unos 25 min en lugar de 7 min a presión, con 50 ml más de caldo; el yogur se añade igual, al final y fuera del hervor.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -437,6 +438,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 32, hc: 64, grasa: 22 },
   etiquetas: ["económica", "batch cooking", "olla exprés", "street food"],
   consejo: "Cortar el cerdo a cuchillo en vez de usar picada es lo que da la textura melosa del lu rou fan.",
+  alternativa: "Si no encuentras pak choi, usa hojas tiernas de acelga o col china en la misma cantidad; y si te falta el cinco especias, mezcla una pizca de canela, anís estrellado molido, clavo y pimienta.",
   contundencia: "media",
   coste: "económica"
 });
@@ -532,6 +534,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 37, hc: 68, grasa: 12 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "olla exprés", "alta en proteína", "poco especiada"],
   consejo: "Si te gusta más espesa, al final liga con 1 cucharada de harina disuelta en agua fría y deja hervir 1 minuto, como se hace en Marruecos.",
+  alternativa: "En cazuela normal, guisa la ternera con las lentejas tapada a fuego suave 1 h (en vez de 15 min a presión), añadiendo agua caliente si espesa demasiado.",
   contundencia: "media",
   coste: "media"
 });
@@ -620,6 +623,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 32, hc: 68, grasa: 16 },
   etiquetas: ["marisco", "olla exprés", "sin gluten", "fin de semana", "poco especiada"],
   consejo: "Remover enérgicamente al final suelta el almidón del arroz y da la textura melosa sin mantequilla ni queso.",
+  alternativa: "Si en tu zona no hay ñoras, cambia la ñora por 1 cdta de carne de pimiento choricero de bote, o sube el pimentón dulce a 1 cdta: el sofrito queda casi igual.",
   contundencia: "media",
   coste: "premium"
 });
@@ -665,6 +669,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 40, hc: 62, grasa: 16 },
   etiquetas: ["olla exprés", "alta en proteína", "fin de semana", "poco especiada"],
   consejo: "Congelar el pulpo antes de cocinarlo rompe sus fibras: por eso el congelado queda más tierno que el fresco.",
+  alternativa: "Sin olla exprés, estofa el pulpo en cazuela tapada a fuego muy suave 50-60 min, hasta que se pinche con facilidad, en lugar de los 15 min a presión; luego sigue con el orzo igual.",
   contundencia: "media",
   coste: "premium"
 });
@@ -713,6 +718,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 24, hc: 88, grasa: 12 },
   etiquetas: ["económica", "vegetariana", "batch cooking", "picante", "olla exprés", "sin gluten", "bajo en colesterol"],
   consejo: "No añadas el tomate ni la sal hasta que las alubias estén tiernas: el ácido y la sal endurecen la piel de la legumbre.",
+  alternativa: "Si no tienes chipotle en adobo, usa 1 cdta más de pimentón ahumado y una pizca de cayena; con prisa, cambia las alubias secas por 500 g cocidas de bote y guisa 25 min en cazuela con 200 ml de agua.",
   contundencia: "media",
   coste: "económica"
 });
@@ -761,6 +767,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 27, hc: 102, grasa: 20 },
   etiquetas: ["económica", "vegetariana", "de cuchara", "batch cooking", "olla exprés", "superalimentos", "bajo en colesterol"],
   consejo: "Si olvidaste el remojo, cuécelos sin remojar 45 minutos de presión con el agua subida a 700 ml.",
+  alternativa: "Si no quieres cocer desde seco, usa 400 g de garbanzos cocidos de bote escurridos y guísalos con la salsa 15 min en cazuela, con solo 200 ml de agua.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -846,6 +853,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 735, prot: 48, hc: 50, grasa: 38 },
   etiquetas: ["fin de semana", "alta en proteína", "olla exprés", "invierno", "poco especiada"],
   consejo: "Guarda la grasa de pato que sobra: es perfecta para unas patatas asadas otro día.",
+  alternativa: "Si no hay lentejas beluga, usa pardinas (los mismos 140 g) con 2 min más de presión; quedan algo más blandas y terrosas, pero combinan igual de bien con el pato.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -892,6 +900,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 21, hc: 62, grasa: 14 },
   etiquetas: ["ligera", "económica", "vegetariana", "de cuchara", "batch cooking", "olla exprés", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si guardas raciones, guarda la pasta aparte o añádela al recalentar: si no, absorbe todo el caldo.",
+  alternativa: "Para ahorrarte la cocción desde seco, usa 300 g de alubias blancas cocidas de bote y baja el agua a 800 ml: cuece las verduras 15 min en cazuela y añade las alubias con la pasta.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -936,6 +945,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 52, hc: 46, grasa: 44 },
   etiquetas: ["fin de semana", "invierno", "olla exprés", "al horno", "sin gluten", "poco especiada"],
   consejo: "Desgrasa el jugo de la olla con una cuchara antes de regar la fuente: el cordero suelta mucha grasa.",
+  alternativa: "Sin olla exprés, hornea el cordero tapado con aluminio a 170 °C unas 2 h, añade las patatas a mitad de cocción y destapa los últimos 20 min para que se dore.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -1031,6 +1041,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 36, hc: 48, grasa: 10 },
   etiquetas: ["ligera", "de cuchara", "batch cooking", "olla exprés", "sin gluten"],
   consejo: "Haz el doble de caldo y congélalo en raciones: con él tienes un pho en 10 minutos cualquier día.",
+  alternativa: "Sin olla exprés, cuece los huesos en una cazuela grande a fuego mínimo, apenas borboteando, unas 3 h y media, desespumando y reponiendo agua caliente; el caldo sale incluso más limpio.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -1076,6 +1087,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 920, prot: 50, hc: 90, grasa: 40 },
   etiquetas: ["de cuchara", "invierno", "fin de semana", "olla exprés", "sin gluten", "poco especiada"],
   consejo: "La naranja no es decoración: su acidez corta la grasa del cerdo y hace el plato mucho más ligero en boca.",
+  alternativa: "También sale en cazuela tapada: cuece las alubias remojadas con la costilla a fuego suave 1 h 45 min en vez de 30 min a presión, con unos 300 ml más de agua.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -1120,6 +1132,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 33, hc: 36, grasa: 15 },
   etiquetas: ["ligera", "económica", "de cuchara", "invierno", "olla exprés", "sin gluten", "poco especiada"],
   consejo: "Si hierve después de añadir el huevo, se corta en hebras: mantén siempre el fuego al mínimo.",
+  alternativa: "Si no tienes olla exprés, haz el caldo de carcasa y contramuslos en cazuela a fuego suave 1 h 30 min, con 300 ml más de agua para compensar lo que se evapora.",
   contundencia: "ligera",
   coste: "económica"
 });

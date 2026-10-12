@@ -719,6 +719,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 593, prot: 45, hc: 47, grasa: 25 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Añade unos dados de feta o una cucharada de yogur al servir para darle un punto cremoso y salado.",
+  alternativa: "Para abaratar, cambia los piñones por 25 g de almendra laminada o de pipas de girasol peladas, tostadas en la sartén hasta que se doren.",
   contundencia: "media",
   coste: "media"
 });
@@ -808,6 +809,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 429, prot: 41, hc: 29, grasa: 17 },
   etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El yogur ablanda la carne y el tomate concentrado le da color de asador: no te saltes el marinado aunque sea corto.",
+  alternativa: "Si no encuentras zumaque, sazona la ensalada de pastor con ralladura de limón y una pizca de pimentón dulce: recuerda bastante a su acidez afrutada.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -972,6 +974,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 815, prot: 39, hc: 64, grasa: 45 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "sin verduras", "poco especiada"],
   consejo: "Acompáñalo con pepino, rábanos y unas hojas de menta para picar entre bocado y bocado: refrescan y aligeran el plato.",
+  alternativa: "Los piñones pueden sustituirse por almendra laminada o anacardos picados (20 g), dorados en el mismo aceite de la carne; el contraste crujiente se mantiene.",
   contundencia: "contundente",
   coste: "media"
 });

@@ -288,6 +288,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 574, prot: 22, hc: 54, grasa: 30 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "poco especiada"],
   consejo: "Añade un huevo duro o un puñado de piñones tostados para hacerlo aún más completo. El hummus sobrante dura 4 días en la nevera.",
+  alternativa: "Si te quedas sin tahini, muele 2 cda de sésamo tostado con un chorro de aceite hasta obtener una pasta y úsala igual: el hummus queda algo más rústico pero con el mismo gusto.",
   contundencia: "media",
   coste: "económica"
 });
@@ -636,6 +637,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 587, prot: 42, hc: 35, grasa: 31 },
   etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "La salsa verde aguanta 2 días en la nevera cubierta de aceite y sirve también para pescado blanco o patatas. Si sobra salmón, desmígalo con las lentejas en una ensalada fría.",
+  alternativa: "Si no encuentras lentejas beluga, usa pardinas (120 g, unos 20-25 min de cocción); y si no hay hinojo, asa en su lugar una cebolla morada en gajos con 2 ramas de apio.",
   contundencia: "media",
   coste: "premium"
 });
@@ -816,6 +818,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 525, prot: 21, hc: 63, grasa: 21 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "económica", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "La fava espesa mucho al enfriarse: para recuperarla, bate con un poco de agua caliente. Coronada con pulpo a la plancha o sardinas se convierte en un plato de fiesta.",
+  alternativa: "Si no hay guisantes amarillos partidos, usa los mismos 150 g de lentejas rojas: se cuecen en 20 min en vez de 40 y el puré queda igual de cremoso, aunque más anaranjado.",
   contundencia: "media",
   coste: "económica"
 });
@@ -1031,6 +1034,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 709, prot: 34, hc: 60, grasa: 37 },
   etiquetas: ["mediterránea", "aromática", "al horno", "invierno", "batch cooking"],
   consejo: "Cuece el doble de alubias y congela la mitad en su caldo: tendrás base para otro guiso. Si no encuentras salvia, usa romero.",
+  alternativa: "Con prisa, usa 500 g de alubias blancas cocidas de bote, enjuagadas, en lugar de las secas: sáltate la cocción inicial y hornea directamente con el tomate y las salchichas.",
   contundencia: "contundente",
   coste: "media"
 });

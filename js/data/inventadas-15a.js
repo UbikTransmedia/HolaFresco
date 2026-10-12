@@ -84,6 +84,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 35, hc: 42, grasa: 28 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano", "ideal para llevar", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "El tabulé auténtico lleva mucha más hierba que bulgur: no tengas miedo con el perejil. Aguanta perfecto en la nevera un día, así que puedes duplicarlo y llevarlo al trabajo con salmón frío desmigado.",
+  alternativa: "¿Sin zumaque? Ralla la piel de medio limón sobre el tabulé justo antes de servir y añade una pizca de sal: aporta el mismo punto ácido y fresco.",
   contundencia: "media",
   coste: "premium"
 });
@@ -340,6 +341,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 38, hc: 82, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ideal para llevar", "económica", "picante"],
   consejo: "Envuelto en papel de horno y film aguanta perfecto unas horas: es el clásico bocadillo de playa tunecino. Ajusta la harissa a tu gusto; con una cucharadita ya pica con alegría.",
+  alternativa: "Si no encuentras harissa, mezcla 1 cdta de pimentón picante, 0,5 cdta de comino y una pizca de cayena con 1 cda de aceite de oliva y unas gotas de limón: pica y perfuma casi igual.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -467,6 +469,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 34, hc: 36, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa admite el doble de cantidad y se congela muy bien: tenla lista para otro día con merluza, pez espada o incluso huevos escalfados en ella.",
+  alternativa: "Si los piñones se te van de presupuesto, usa la misma cantidad de almendra laminada tostada en seco un par de minutos: mantiene el crujiente y el contraste con las pasas.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -598,6 +601,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 38, hc: 34, grasa: 28 },
   etiquetas: ["mediterránea", "aromática", "para invitados", "verano", "alta en proteína", "poco especiada"],
   consejo: "No pases el atún: si lo cocinas más de 2 minutos en total se seca. La caponata, como cualquier guiso siciliano, mejora en la nevera; hazla la víspera y sírvela a temperatura ambiente.",
+  alternativa: "Si el atún rojo está muy caro, usa lomos de atún claro o, en verano, bonito del norte del mismo grosor; márcalos igual de rápido para que no se sequen.",
   contundencia: "media",
   coste: "premium"
 });
@@ -1029,6 +1033,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 675, prot: 42, hc: 50, grasa: 34 },
   etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "ideal para llevar", "poco especiada"],
   consejo: "El bonito confitado se conserva hasta 5 días en la nevera cubierto con su aceite: úsalo en ensaladas, bocadillos o con pimientos asados. Cuela el aceite sobrante y guárdalo para sofritos de pescado.",
+  alternativa: "Fuera de la temporada de bonito (de junio a septiembre), confita un lomo de atún claro del mismo grosor: el tiempo de horno es el mismo y la textura queda casi idéntica.",
   contundencia: "contundente",
   coste: "media"
 });

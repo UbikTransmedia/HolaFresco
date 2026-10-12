@@ -85,6 +85,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 434, prot: 28, hc: 40, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Un poco de ralladura de naranja sobre las sardinas une los dos elementos del plato. Si te gusta el picante, añade unas escamas de guindilla al tomate rallado.",
+  alternativa: "Si no encuentras hinojo, lamina muy fino 2 ramas de apio y añade al aliño 0,5 cdta de semillas de hinojo o de anís machacadas: conserva el crujiente y el aroma anisado.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -181,6 +182,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 660, prot: 52, hc: 50, grasa: 28 },
   etiquetas: ["mediterránea", "aromática", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "Están aún más ricos de un día para otro: guárdalos en su salsa y caliéntalos a fuego suave tapados. Puedes añadir unas pasas al relleno para un aire siciliano.",
+  alternativa: "Para el relleno puedes cambiar los piñones por almendras crudas picadas o nueces (los mismos 20 g), tostadas un minuto en la sartén: el resultado apenas cambia y sale más barato.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -481,6 +483,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 558, prot: 32, hc: 58, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ideal para llevar", "verano", "libanesa", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Un buen tabulé es más ensalada de hierbas que de cereal: no escatimes perejil. Aguanta 2 días en la nevera; añade la caballa al servir.",
+  alternativa: "Si te falta el zumaque, sustitúyelo por la ralladura de un limón mezclada con una pizca de pimentón dulce, espolvoreada al final sobre el tabulé.",
   contundencia: "media",
   coste: "económica"
 });
@@ -524,6 +527,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 424, prot: 32, hc: 38, grasa: 16 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "libanesa", "poco especiada", "bajo en colesterol"],
   consejo: "Si no tienes melaza de granada, sustitúyela por una cucharadita de miel y un chorrito de vinagre balsámico. La pita, siempre en el último momento para que cruja.",
+  alternativa: "Cuando no tengas zumaque, espolvorea la ensalada con ralladura fina de limón y una pizca de pimentón, y aliña con un chorrito extra de zumo: el toque ácido se mantiene.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -656,6 +660,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 442, prot: 38, hc: 32, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "para invitados", "poco especiada"],
   consejo: "El pulpo cocido envasado es un gran atajo: con 5 minutos de plancha muy caliente parece recién hecho. Si quieres un aceite más perfumado, templa el aceite con el pimentón 10 segundos fuera del fuego, nunca más o amargará.",
+  alternativa: "Si no tienes tahini, tritura 1 cda de sésamo tostado con 1 cda del aceite antes de añadir los garbanzos; la crema queda un poco menos sedosa pero con el mismo sabor.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -881,6 +886,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 32, hc: 56, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "La caponata está mejor a temperatura ambiente y al día siguiente, cuando el agridulce se asienta. Guarda el atún aparte y añádelo al servir.",
+  alternativa: "Si prefieres no gastar en piñones, tuesta 15 g de almendra laminada: aporta el mismo crujiente a la caponata con un sabor muy parecido.",
   contundencia: "media",
   coste: "económica"
 });

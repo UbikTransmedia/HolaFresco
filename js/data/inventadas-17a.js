@@ -479,6 +479,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 25, hc: 58, grasa: 31 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ideal para llevar", "verano", "poco especiada"],
   consejo: "Para aligerarla, asa la berenjena pintada de aceite a 220 °C 20 minutos en vez de dorarla en sartén. Una cucharadita de amba o de mango picante es el toque tradicional.",
+  alternativa: "¿No tienes zumaque? Espolvorea la ensalada picada con ralladura de limón y una pizca de pimentón dulce; mantiene el toque ácido que equilibra la berenjena.",
   contundencia: "media",
   coste: "económica"
 });
@@ -733,6 +734,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 26, hc: 34, grasa: 33 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "para invitados", "poco especiada"],
   consejo: "La mantequilla tostada con alcaparras es la clave del plato: vigílala porque pasa de dorada a quemada en segundos. En otoño, cambia los espárragos por brócoli en ramitos.",
+  alternativa: "Si los piñones te resultan caros, usa avellanas troceadas o almendra laminada (25 g), tostadas en la mantequilla junto a las alcaparras.",
   contundencia: "media",
   coste: "premium"
 });
