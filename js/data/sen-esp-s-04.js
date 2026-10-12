@@ -3,7 +3,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 /* Recetas SENCILLAS de cocina ESPAÑOLA: comida rápida de casa (bloque esp-s-04: inv-5215 a inv-5239).
    Revueltos, tortillas, arroces, pastas y platos de sartén de diario, casi todos en media hora o menos,
    con legumbre de bote cuando conviene. Clásicos de casa y de barra (serranito, zorza, higadillos al fino,
-   revuelto de gulas y ajetes, calabacines rellenos, langostinos a la plancha…) y versiones libres y sencillas.
+   revuelto de gulas y ajetes, langostinos a la plancha…) y versiones libres y sencillas (sanjacobos de calabacín…).
    Ingredientes de supermercado, técnicas caseras y cantidades para 2 raciones. */
 
 window.RECETAS_SEED.push({
@@ -600,43 +600,43 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-5229",
-  nombre: "Calabacines rellenos de carne picada y tomate gratinados con queso",
-  subtitulo: "las barquitas de calabacín de casa, con su propia pulpa en el relleno de carne y un gratinado dorado",
+  nombre: "Sanjacobos de calabacín con jamón cocido y queso, con ensalada de tomate y lechuga",
+  subtitulo: "dos rodajas gruesas de calabacín con su loncha de jamón y de queso en medio, rebozadas y doradas a la sartén",
   origen: "inventada",
   categoria: "verduras",
   cocina: "española",
   momentos: ["comida", "cena"],
-  proteina: "ternera",
-  tiempo: 40,
+  proteina: "verdura",
+  tiempo: 35,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "microondas"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "calabacín", q: 2, u: "ud", nota: "medianos, unos 600 g" },
-    { n: "ternera picada", q: 200, u: "g" },
-    { n: "cebolla", q: 0.5, u: "ud" },
-    { n: "ajo", q: 1, u: "diente" },
-    { n: "tomate triturado", q: 200, u: "g" },
-    { n: "orégano seco", q: 1, u: "cdta" },
-    { n: "queso rallado", q: 40, u: "g" },
-    { n: "pan rallado", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "calabacín", q: 2, u: "ud", nota: "medianos y rectos, unos 500 g" },
+    { n: "jamón cocido", q: 3, u: "loncha" },
+    { n: "queso en lonchas", q: 3, u: "loncha", nota: "que funda bien: havarti, edam o similar" },
+    { n: "huevo", q: 2, u: "ud" },
+    { n: "harina de trigo", q: 30, u: "g" },
+    { n: "pan rallado", q: 50, u: "g" },
+    { n: "aceite de oliva", q: 200, u: "ml", nota: "para freír" },
+    { n: "tomate", q: 2, u: "ud" },
+    { n: "lechuga", q: 0.5, u: "ud" },
+    { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Enciende el horno a 200 °C. Parte los calabacines por la mitad a lo largo y vacíalos con una cucharilla, dejando 1 cm de pared; pica la pulpa que saques. Pica la cebolla y el ajo.",
-    "Pon las barquitas boca abajo en un plato apto para microondas, tápalas y cuécelas 5 minutos a máxima potencia, para que se ablanden.",
-    "Mientras, calienta el aceite en una sartén a fuego medio y pocha la cebolla 5 minutos. Añade el ajo 1 minuto y luego la carne; sube el fuego y deshazla con una cuchara 4 minutos, hasta que pierda el color rosado. Agrega la pulpa del calabacín 3 minutos.",
-    "Añade el tomate, el orégano, sal y pimienta y cocina 6 minutos, hasta que el relleno espese y no quede caldo. Mezcla en un cuenco el queso con el pan rallado.",
-    "Coloca las barquitas boca arriba en una fuente de horno, sálalas por dentro y rellénalas con la carne. Cúbrelas con la mezcla de queso y pan rallado.",
-    "Hornea 12–15 minutos en la parte alta, hasta que estén gratinadas. Deja reposar 2 minutos antes de servir."
+    "Lava los calabacines, despúntalos y córtalos en rodajas de 1 cm (salen unas 16). Sálalas por las dos caras y déjalas sobre papel de cocina 10 minutos para que suelten agua.",
+    "Mientras sudan, corta el jamón y el queso en trozos del tamaño de las rodajas. Corta los tomates en gajos y la lechuga en tiras, y alíñalos en una fuente con sal, el orégano y una cucharada del aceite. Prepara tres platos hondos: pon la harina en uno, el pan rallado en otro y bate los huevos en el tercero.",
+    "Seca bien las rodajas con más papel. Monta los sanjacobos: una rodaja, un trozo de jamón, uno de queso y otra rodaja encima; aprieta con la palma para que queden compactos.",
+    "Pasa cada sanjacobo por la harina y luego por el huevo, sujetándolo con dos dedos para que no se desmonte; termina cubriéndolo de pan rallado y apriétalo bien por los bordes para sellarlo.",
+    "Calienta el resto del aceite en una sartén amplia a fuego medio (está a punto cuando una miga de pan burbujea sin quemarse). Fríe los sanjacobos por tandas, 3 minutos por cada lado, hasta que estén dorados y el queso empiece a fundirse. Escúrrelos sobre papel de cocina.",
+    "Sírvelos recién hechos, con la ensalada al lado."
   ],
-  nutricion: { kcal: 474, prot: 30, hc: 21, grasa: 30 },
-  etiquetas: ["tradicional", "al horno", "para niños", "batch cooking", "verano"],
-  consejo: "Ablandar las barquitas en el microondas antes de rellenarlas acorta el horno a la mitad y evita que el relleno se seque mientras el calabacín termina de hacerse. Aprovecha la pulpa en el relleno: le da jugosidad y no se tira nada. Se pueden dejar rellenas por la mañana y gratinar a la hora de cenar.",
-  tupper: true,
-  contundencia: "ligera",
+  nutricion: { kcal: 715, prot: 30, hc: 43, grasa: 47 },
+  etiquetas: ["creativa", "para niños", "económica", "verano"],
+  consejo: "Salar y secar las rodajas antes de montarlas es lo que evita que el rebozado se despegue: el calabacín suelta mucha agua al calentarse. Elige calabacines rectos y del mismo grosor para que las rodajas casen, y un queso que funda bien sin ser muy graso. Si prefieres no freír, hornéalos 20 minutos a 200 °C sobre papel de horno, pintados con aceite y dándoles la vuelta a mitad.",
+  tupper: false,
+  contundencia: "contundente",
   coste: "económica"
 });
 

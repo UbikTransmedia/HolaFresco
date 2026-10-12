@@ -6,9 +6,9 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
    contundencia ligera o media. Atajos honestos: pescado en filetes o lomos, patata y arroz que se cuecen mientras se
    prepara lo demás (o ya cocidos), polenta instantánea, verduras de cocción corta y caldo ya hecho sin cebolla.
    Tradicionales adaptadas (clòtxines al vapor, polpette in bianco, çöp şiş,
-   kıymalı yumurta, pomodori gratinati, minestra di zucchine e patate cacio e uova) y creativas sencillas (pescadilla a la plancha con salsa de pimiento verde, lomo de
+   kıymalı yumurta, pomodori gratinati) y creativas sencillas (pescadilla a la plancha con salsa de pimiento verde, lomo de
    cerdo a la mandarina, tallarines de zanahoria al pesto, revuelto de tofu, espaguetis con salmón, arroz salteado con
-   bonito, sopa de rape con arroz…).
+   bonito, sopa de rape con arroz, sopa de pollo al pesto genovés…).
    Bajas en FODMAP (aceite de ajo, parte verde de la cebolleta, sin gluten, sin legumbres, sin lácteos con lactosa),
    sin picante, sin alcohol, sin fritos y con ≤ 25 g de grasa por ración; raciones de cada verdura dentro de los
    límites de Monash. Cantidades para 2 raciones. */
@@ -1066,43 +1066,43 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-5014",
-  nombre: "Minestra di zucchine e patate cacio e uova: sopa napolitana de calabacín y patata ligada con huevo y parmesano",
-  subtitulo: "la sopa de verano de las casas de Nápoles: patata y calabacín muy tiernos y, fuera del fuego, huevo batido con queso que la vuelve cremosa",
+  nombre: "Sopa de pollo al pesto genovés con patata, judías verdes, calabacín y pasta corta sin gluten",
+  subtitulo: "el minestrone de Liguria con pollo en lugar de alubias y su cucharada de pesto de albahaca añadida en el plato",
   origen: "inventada",
   categoria: "sopas-cremas",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
-  proteina: "huevo",
+  proteina: "pollo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "patata", q: 400, u: "g" },
-    { n: "calabacín", q: 130, u: "g" },
-    { n: "zanahoria", q: 1, u: "ud" },
-    { n: "tomate cherry", q: 100, u: "g" },
-    { n: "caldo de verduras", q: 800, u: "ml", nota: "casero o sin cebolla ni ajo" },
-    { n: "huevo", q: 2, u: "ud" },
-    { n: "parmesano", q: 30, u: "g" },
-    { n: "albahaca fresca", q: 0.5, u: "manojo" },
-    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "caldo de pollo", q: 900, u: "ml", nota: "casero o sin cebolla ni ajo" },
+    { n: "pollo (pechuga)", q: 200, u: "g" },
+    { n: "patata", q: 250, u: "g" },
+    { n: "zanahoria", q: 120, u: "g" },
+    { n: "judías verdes", q: 120, u: "g" },
+    { n: "calabacín", q: 120, u: "g" },
+    { n: "tomate pera", q: 150, u: "g" },
+    { n: "pasta sin gluten", q: 50, u: "g", nota: "corta y pequeña, tipo coditos" },
+    { n: "albahaca fresca", q: 1, u: "manojo" },
+    { n: "parmesano", q: 25, u: "g" },
+    { n: "piñones", q: 10, u: "g" },
     { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon el caldo a calentar. Mientras, pela las patatas y la zanahoria y córtalas en dados de 1,5 cm; corta el calabacín en dados del mismo tamaño y los tomates cherry en cuartos.",
-    "Calienta el aceite de ajo en una olla a fuego medio y rehoga la patata y la zanahoria 3 minutos, removiendo. Añade el calabacín y los tomates y rehoga 2 minutos más.",
-    "Vierte el caldo caliente, sala con moderación, tapa y cuece 15 minutos a fuego medio, hasta que la patata esté muy tierna y empiece a deshacerse.",
-    "Mientras se cuece, ralla el parmesano, pica el perejil y la albahaca y bate los huevos en un bol con el queso, el perejil y pimienta.",
-    "Aplasta unos trozos de patata contra la olla con una cuchara para espesar. Aparta la olla del fuego, espera 1 minuto y vierte el huevo batido en un hilo fino, removiendo sin parar: debe quedar una sopa cremosa con hebras finas, sin grumos de huevo cuajado.",
-    "Termina con la albahaca y sirve enseguida."
+    "Pon el caldo a calentar en una olla a fuego fuerte. Mientras, pela la patata y la zanahoria y córtalas en dados de 1 cm; despunta las judías verdes y córtalas en trozos de 2 cm; corta el calabacín en dados de 1 cm y el tomate en dados pequeños.",
+    "Cuando el caldo hierva, añade la patata, la zanahoria y las judías, sala con moderación y cuece 6 minutos a fuego medio. Mientras, corta la pechuga en dados de 1,5 cm.",
+    "Echa la pasta, el calabacín y el tomate y cuece 4 minutos. Añade el pollo y cuece 6-7 minutos más, hasta que la pasta esté al dente y los dados de pollo estén blancos por dentro.",
+    "Mientras se cuece la sopa, prepara el pesto: ralla el parmesano, deshoja la albahaca y májala en un mortero (o pícala muy fina) con los piñones y una pizca de sal; añade el aceite de ajo, la mitad del queso y una cucharada del caldo caliente y sigue hasta tener una pasta verde y brillante.",
+    "Aparta la olla del fuego y prueba de sal. Sirve la sopa en platos hondos con una cucharada de pesto en el centro y el resto del parmesano por encima: cada uno lo mezcla en su plato."
   ],
-  nutricion: { kcal: 395, prot: 19, hc: 41, grasa: 17 },
-  etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin gluten", "poco especiada", "de cuchara", "verano"],
-  consejo: "En Nápoles la minestra lleva mucho calabacín; aquí la mayor parte es patata, porque el calabacín es bajo en FODMAP solo hasta unos 65 g por persona. El huevo con queso, añadido fuera del fuego, la liga sin nata ni mantequilla y aporta la proteína de la cena. El parmesano curado apenas tiene lactosa. Si quieres más cuerpo, cuece 40 g de pasta corta sin gluten en el caldo los últimos minutos.",
+  nutricion: { kcal: 565, prot: 36, hc: 50, grasa: 24 },
+  etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "poco especiada", "de cuchara", "alta en proteína", "verano"],
+  consejo: "En Génova el minestrone lleva alubias y se termina con una cucharada de pesto; aquí el pollo pone la proteína en lugar de las legumbres, el aceite de ajo da al pesto su aroma sin fructanos y la pasta es sin gluten. El calabacín y las judías verdes van en 60 g por persona, dentro de su ración tolerada. Añade el pesto en el plato y no en la olla: si hierve, la albahaca se oscurece y pierde su perfume.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica"
 });

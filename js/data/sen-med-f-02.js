@@ -3,9 +3,9 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 /* Recetas INVENTADAS SENCILLAS y BAJAS EN FODMAP de cocina MEDITERRÁNEA (bloque med-f-02: inv-5065 a inv-5089).
    Hilo conductor: las carnes (pollo, pavo, cerdo, ternera, cordero y conejo), protagonistas en los segundos y
    presentes también en huevos, verduras, tofu, ensaladas, pastas y sopas; el pescado y el marisco completan el bloque.
-   Platos tradicionales de Roma (spuntature al sugo, costolette d'abbacchio panate, fettuccine alla romana), Toscana
-   (maiale ubriaco, frittata in zoccoli), Venecia (paeta al malgaragno), Milán (paillard), Nápoles (impepata di cozze)
-   y el sur de España (conejo en salsa de almendras), adaptados sin perder su alma, y creaciones sencillas de
+   Platos tradicionales de Roma (spuntature al sugo, costolette d'abbacchio panate, fettuccine alla romana,
+   saltimbocca), Toscana (maiale ubriaco, frittata in zoccoli), Venecia (paeta al malgaragno), Milán (paillard)
+   y Huelva (albóndigas de choco), adaptados sin perder su alma, y creaciones sencillas de
    inspiración mediterránea (escarola rellena a la napolitana, ragú de pato, sopa de rabo…). Bajas en FODMAP: sin ajo ni cebolla (aceite de ajo, parte verde de la cebolleta), sin
    gluten (pasta, pan y pan rallado sin gluten, harina de arroz, polenta, quinoa, arroz), sin legumbres, setas,
    coliflor, manzana, pera ni miel, sin lácteos con lactosa (quesos curados, leche y yogur sin lactosa) y con las
@@ -147,44 +147,49 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-5068",
-  nombre: "Impepata di cozze: mejillones a la pimienta negra con perejil y limón a la napolitana",
-  subtitulo: "los mejillones del Jueves Santo napolitano, abiertos en su jugo con mucha pimienta recién molida, con pan sin gluten y ensalada de tomate",
+  nombre: "Albóndigas de choco a la onubense en salsa de tomate y vino blanco con patatas",
+  subtitulo: "las albóndigas de sepia de Huelva, doradas y guisadas en su salsa con las patatas en la misma cazuela",
   origen: "inventada",
   categoria: "pescado",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "marisco",
-  tiempo: 20,
-  dificultad: "fácil",
-  equipo: ["cazuela"],
+  tiempo: 55,
+  dificultad: "media",
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones", q: 1500, u: "g" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
-    { n: "pimienta negra en grano", q: 1, u: "cdta", nota: "molida al momento" },
+    { n: "sepia", q: 450, u: "g", nota: "limpia; en Huelva, choco" },
+    { n: "pan sin gluten", q: 1, u: "rebanada" },
+    { n: "huevo", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "limón", q: 1, u: "ud" },
-    { n: "pan sin gluten", q: 4, u: "rebanada" },
-    { n: "tomate pera", q: 300, u: "g" },
-    { n: "rúcula", q: 40, u: "g" },
-    { n: "orégano seco", q: 0.5, u: "cdta" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "harina de arroz", q: 25, u: "g" },
+    { n: "pimiento verde", q: 1, u: "ud" },
+    { n: "cebolleta (parte verde)", q: 30, u: "g" },
+    { n: "vino blanco", q: 80, u: "ml" },
+    { n: "tomate triturado", q: 400, u: "g" },
+    { n: "laurel", q: 1, u: "hoja" },
+    { n: "patata", q: 300, u: "g" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
+    { n: "agua", q: 250, u: "ml" },
     { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Limpia los mejillones: arráncales las barbas tirando hacia la punta de la concha, frótalos bajo el grifo y desecha los rotos y los abiertos que no se cierren al darles un golpecito. Pica el perejil y corta el limón en gajos.",
-    "Prepara la ensalada: corta el tomate en gajos, mézclalo con la rúcula y alíñalo con el orégano, el aceite de oliva y sal.",
-    "Tuesta las rebanadas de pan en una sartén o en la tostadora hasta que estén doradas y crujientes.",
-    "Calienta el aceite de ajo en una cazuela ancha con tapa a fuego fuerte. Echa los mejillones, muele encima la pimienta, tapa y sacude la cazuela cada minuto. En 4–5 minutos estarán abiertos.",
-    "Destapa, añade el perejil y el zumo de un gajo de limón y remueve para que se mezclen con el jugo que han soltado. Desecha los que sigan cerrados.",
-    "Sirve los mejillones en platos hondos con todo su caldo, más pimienta por encima, los gajos de limón, el pan para mojar y la ensalada al lado."
+    "Pon el pan a remojar en un cuenco con un chorrito de agua. Mientras, seca la sepia con papel de cocina, córtala en trozos y pícala fina a cuchillo o con la picadora a golpes cortos, sin llegar a hacerla puré. Pica el perejil.",
+    "Escurre el pan apretándolo con la mano y mézclalo en un bol con la sepia, el huevo, la mitad del perejil, el aceite de ajo, sal y pimienta. Deja reposar la masa 10 minutos en la nevera para que tome cuerpo. Mientras, pica la parte verde de la cebolleta, corta el pimiento en daditos y pela las patatas y cáscalas en trozos de 3 cm.",
+    "Con las manos húmedas, forma unas 16 albóndigas del tamaño de una nuez y pásalas por la harina de arroz. Calienta el aceite de oliva en una cazuela ancha a fuego medio-alto y dóralas 4 minutos, girándolas, hasta que tengan costra por todos lados. Sácalas a un plato.",
+    "En el mismo aceite, rehoga el pimiento y la cebolleta 4 minutos a fuego medio. Vierte el vino y deja que se evapore 2 minutos; añade el tomate, el laurel y sal y cuece 5 minutos.",
+    "Incorpora las patatas y el agua, tapa y cuece 15 minutos a fuego suave. Añade las albóndigas y cuece 10 minutos más, moviendo la cazuela de vez en cuando, hasta que las patatas estén tiernas y la salsa trabada.",
+    "Retira el laurel, espolvorea el resto del perejil y sirve."
   ],
-  nutricion: { kcal: 515, prot: 26, hc: 41, grasa: 27 },
-  etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "sin lactosa", "rápida", "económica"],
-  consejo: "En Nápoles la impepata se come el Jueves Santo y en las noches de verano: solo mejillones, ajo, pimienta y perejil. Aquí el ajo va en el aceite, que da su aroma sin los fructanos; los mejillones no necesitan sal porque sueltan agua de mar. No los cocines más de lo necesario: en cuanto se abren, al plato, o se encogen y quedan gomosos.",
-  tupper: false,
+  nutricion: { kcal: 640, prot: 47, hc: 54, grasa: 23 },
+  etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "sin lactosa", "una sola olla", "de cuchara"],
+  consejo: "En Huelva el choco es la sepia, y sus albóndigas en salsa con patatas son un guiso de diario en todas las casas. Pica la sepia a cuchillo o a golpes de picadora, sin triturarla, para que la albóndiga quede jugosa y con textura. La cebolla y el ajo de la receta original se sustituyen por la parte verde de la cebolleta y el aceite de ajo, y el pan es sin gluten; el alcohol del vino se evapora durante la cocción.",
+  tupper: true,
   contundencia: "media",
-  coste: "económica"
+  coste: "media"
 });
 
 window.RECETAS_SEED.push({
@@ -365,44 +370,43 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-5073",
-  nombre: "Conejo en salsa de almendras y azafrán al vino fino con patatas en la misma cazuela",
-  subtitulo: "el guiso de domingo de muchas casas del sur: una picada de almendra y pan frito espesa la salsa y la vuelve dorada y perfumada",
+  nombre: "Saltimbocca alla romana: escalopines de ternera con jamón y salvia al vino blanco con patatas al romero",
+  subtitulo: "el segundo más rápido de las trattorie de Roma, ligado con mantequilla en la misma sartén",
   origen: "inventada",
   categoria: "carnes",
   cocina: "mediterránea",
-  momentos: ["comida"],
-  proteina: "mixto",
-  tiempo: 50,
+  momentos: ["comida", "cena"],
+  proteina: "ternera",
+  tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "mortero"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "conejo troceado", q: 700, u: "g" },
-    { n: "almendras", q: 20, u: "g", nota: "crudas y peladas" },
-    { n: "pan sin gluten", q: 1, u: "rebanada" },
-    { n: "azafrán", q: 1, u: "pizca" },
-    { n: "vino fino", q: 80, u: "ml" },
-    { n: "caldo de pollo", q: 300, u: "ml", nota: "casero o sin cebolla ni ajo" },
-    { n: "patata", q: 400, u: "g" },
+    { n: "patata", q: 450, u: "g" },
+    { n: "romero fresco", q: 1, u: "rama" },
     { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "laurel", q: 1, u: "hoja" },
-    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "escalopines de ternera", q: 320, u: "g", nota: "4 filetes finos de tapa o babilla" },
+    { n: "jamón serrano", q: 2, u: "loncha", nota: "en Roma, prosciutto crudo" },
+    { n: "salvia fresca", q: 4, u: "hoja" },
+    { n: "harina de arroz", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "mantequilla", q: 15, u: "g" },
+    { n: "vino blanco", q: 100, u: "ml" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Seca el conejo con papel de cocina y salpimiéntalo. Pela las patatas y córtalas en dados de 3 cm. Pon el caldo a calentar con el azafrán.",
-    "Calienta el aceite de oliva en una cazuela ancha a fuego medio y dora las almendras y la rebanada de pan 2–3 minutos, hasta que estén doradas. Pásalos al mortero.",
-    "En la misma cazuela añade el aceite de ajo y dora el conejo a fuego medio-alto 8 minutos, girándolo, hasta que esté dorado por todos los lados.",
-    "Vierte el vino fino y deja que se evapore 2 minutos raspando el fondo. Añade el caldo con el azafrán, el laurel, las patatas y sal; tapa y cuece a fuego medio-bajo 25 minutos.",
-    "Mientras se guisa, pica el perejil y machácalo en el mortero con las almendras, el pan y 2 cucharadas del caldo de la cazuela hasta tener una pasta: es la picada.",
-    "Incorpora la picada a la cazuela, muévela en vaivén para que se reparta y cuece 5 minutos más destapado, hasta que la salsa espese y las patatas estén tiernas. Retira el laurel y sirve."
+    "Precalienta el horno a 210 °C. Mientras se calienta, pela las patatas, córtalas en dados de 2,5 cm, sécalas y mézclalas en una bandeja con el aceite de ajo, las hojas de romero y sal. Hornéalas 35 minutos, moviéndolas a mitad, hasta que estén doradas y tiernas.",
+    "Mientras se asan, aplana los filetes de ternera entre dos hojas de papel de horno con el fondo de un cazo hasta dejarlos de 3-4 mm. Sálalos poco, porque el jamón ya es salado, y ponles pimienta. Corta las lonchas de jamón por la mitad.",
+    "Coloca sobre cada filete media loncha de jamón y una hoja de salvia y sujétalas con un palillo, como un hilván. Pasa solo la cara de la carne por la harina de arroz y sacude el exceso.",
+    "Cuando a las patatas les queden 8 minutos, calienta el aceite de oliva y la mitad de la mantequilla en una sartén amplia a fuego medio-alto. Dora los saltimbocca 2 minutos por el lado de la carne y 30 segundos por el del jamón. Sácalos a un plato caliente.",
+    "Vierte el vino en la sartén, raspa el fondo y deja que hierva 2 minutos, hasta que se reduzca a la mitad. Fuera del fuego, añade el resto de la mantequilla y mueve la sartén hasta que la salsa quede brillante.",
+    "Quita los palillos y sirve los saltimbocca con la salsa por encima y las patatas al romero al lado."
   ],
-  nutricion: { kcal: 620, prot: 48, hc: 46, grasa: 27 },
-  etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "sin lactosa", "una sola olla", "alta en proteína", "otoño"],
-  consejo: "La picada de siempre lleva ajo frito; aquí el aceite de ajo pone ese sabor sin fructanos, y el pan es sin gluten. Las almendras quedan en unos 10 g por persona, dentro de la ración baja en FODMAP. El vino fino se evapora casi entero, pero puedes cambiarlo por más caldo con unas gotas de vinagre de Jerez.",
-  tupper: true,
+  nutricion: { kcal: 590, prot: 44, hc: 39, grasa: 27 },
+  etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "alta en proteína", "poco especiada"],
+  consejo: "Saltimbocca significa «salta a la boca»: en Roma se hacen con escalopines de ternera lechal, prosciutto y salvia, y se ligan con mantequilla y vino blanco en un minuto. El jamón y la salvia van solo por una cara y apenas se le da la vuelta, para que el jamón no se reseque. Con harina de arroz en lugar de trigo el plato es sin gluten, y la mantequilla, en esta cantidad, es baja en lactosa; el alcohol del vino se evapora al reducirlo.",
+  tupper: false,
   contundencia: "media",
   coste: "media"
 });

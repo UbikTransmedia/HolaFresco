@@ -3,7 +3,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 /* Recetas INVENTADAS mediterráneas SENCILLAS de UN SOLO RECIPIENTE (bloque med-s-11: inv-4690 a inv-4714).
    Bandejas de horno, cazuelas y sartenes en las que se hace el plato entero: fagioli al fiasco y alla maruzzara,
    cim i tomba de Mallorca, pollo alla potentina, cutturiddi lucano, cerdo con pimientos en vinagre a la calabresa,
-   gratin de blettes nizardo, scarola napoletana, pantzaria me skordalia griegas, pasta e zucca, düğün çorbası turca…
+   gratin de blettes nizardo, scarola napoletana, pantzaria me skordalia griegas, pasta e zucca, cardone in brodo…
    y la otra mitad versiones creativas con los mismos sabores (bandejas de pescado y verdura, huevos al horno,
    arroz al horno en fuente, orzo en una olla, ensaladas templadas asadas). Ingredientes de supermercado. 2 raciones. */
 
@@ -961,47 +961,42 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4712",
-  nombre: "Düğün çorbası: sopa turca de boda de cordero deshebrado ligada con yema y limón, con mantequilla al pimentón",
-  subtitulo: "el caldo de cordero de las bodas de Anatolia, trabado con harina y una liaison de yema y limón, y rematado en el plato con mantequilla roja",
+  nombre: "Cardone in brodo: sopa napolitana de Navidad con cardo, albondiguitas de ternera y huevo batido con parmesano",
+  subtitulo: "el caldo de las fiestas de Nápoles y los Abruzos, con el cardo tierno, albóndigas del tamaño de una avellana y hebras de huevo y queso",
   origen: "inventada",
   categoria: "sopas-cremas",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
-  proteina: "cordero",
-  tiempo: 110,
-  dificultad: "media",
-  equipo: ["cazuela"],
+  proteina: "ternera",
+  tiempo: 35,
+  dificultad: "fácil",
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero para guisar", q: 400, u: "g", nota: "paletilla o cuello; si lleva hueso, unos 600 g" },
-    { n: "cebolla", q: 1, u: "ud" },
-    { n: "zanahoria", q: 1, u: "ud" },
-    { n: "laurel", q: 1, u: "hoja" },
-    { n: "pimienta en grano", q: 0.5, u: "cdta" },
-    { n: "harina de trigo", q: 30, u: "g" },
-    { n: "mantequilla", q: 30, u: "g" },
-    { n: "yema de huevo", q: 1, u: "ud" },
-    { n: "limón", q: 1, u: "ud" },
-    { n: "pimentón dulce", q: 1, u: "cdta" },
-    { n: "copos de guindilla", q: 0.5, u: "cdta", nota: "o una pizca de cayena" },
-    { n: "agua", q: 1500, u: "ml" },
+    { n: "caldo de pollo", q: 1200, u: "ml", nota: "mejor casero" },
+    { n: "cardo cocido", q: 400, u: "g", nota: "de bote, escurrido; o 700 g de cardo fresco" },
+    { n: "ternera picada", q: 200, u: "g" },
+    { n: "huevo", q: 3, u: "ud" },
+    { n: "parmesano", q: 50, u: "g" },
+    { n: "pan rallado", q: 25, u: "g" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
+    { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Corta el cordero en 4-5 trozos grandes y ponlo en una cazuela con el agua fría. Llévalo a ebullición a fuego medio y retira con una espumadera la espuma gris durante 5 minutos, hasta que salga blanca.",
-    "Mientras sube el hervor, pela la cebolla y pártela por la mitad, y pela la zanahoria y córtala en tres trozos. Añádelas a la cazuela con el laurel, la pimienta en grano y sal, tapa a medias y cuece 75 minutos a fuego suave, hasta que la carne se separe sola con un tenedor.",
-    "Durante la cocción, exprime el limón, separa la yema de la clara (guarda la clara para otro uso) y bátela en un cuenco con el zumo de limón.",
-    "Saca la carne a un plato y cuela el caldo a un bol: deben quedar alrededor de 1 litro (completa con agua caliente si falta). Desecha la cebolla, la zanahoria y el laurel. Deshebra la carne con dos tenedores, quitando la grasa dura y los huesos si los hay.",
-    "En la misma cazuela, derrite 20 g de mantequilla a fuego medio, añade la harina y remueve 2 minutos, hasta que huela a galleta sin tomar color. Vierte el caldo caliente poco a poco, batiendo con varillas para que no se formen grumos, y cuece 8 minutos a fuego suave, hasta que espese ligeramente. Devuelve la carne.",
-    "Templa la mezcla de yema y limón añadiéndole dos cucharones de sopa caliente, de uno en uno y sin dejar de batir. Baja el fuego al mínimo, vierte la mezcla en la cazuela y remueve 1 minuto sin que vuelva a hervir, o la yema se cortará. Prueba de sal.",
-    "En un cazo pequeño, derrite el resto de la mantequilla, retíralo del fuego y añade el pimentón y la guindilla; remueve 10 segundos. Sirve la sopa en platos hondos con un hilo de mantequilla roja por encima."
+    "Pon el caldo a calentar en una olla grande a fuego medio. Mientras, escurre el cardo, enjuágalo bajo el grifo y córtalo en trozos de 2 cm. Pica el perejil y ralla el parmesano.",
+    "En un bol, mezcla la carne picada con 1 huevo, el pan rallado, 20 g del parmesano, la mitad del perejil, la nuez moscada, sal y pimienta. Con las manos húmedas, forma albondiguitas del tamaño de una avellana grande; salen unas 30.",
+    "Cuando el caldo hierva, echa las albondiguitas, baja a fuego suave y cuécelas 8 minutos sin que borbotee, hasta que suban a la superficie y estén hechas por dentro. Añade el cardo y cuece 5 minutos más para que tome el sabor del caldo.",
+    "Mientras se cuecen, bate los otros 2 huevos en un cuenco con el resto del parmesano y del perejil y un poco de pimienta.",
+    "Sube el fuego hasta que el caldo vuelva a hervir suavemente, vierte el huevo en un hilo fino removiendo con un tenedor y deja 1 minuto sin tocar, hasta que cuaje en hebras. Prueba de sal y sirve enseguida."
   ],
-  nutricion: { kcal: 570, prot: 45, hc: 22, grasa: 33 },
-  etiquetas: ["tradicional", "todo en una olla", "de cuchara", "alta en proteína", "invierno", "batch cooking"],
-  consejo: "La düğün çorbası es la sopa que se servía en las bodas de Anatolia, hecha con el caldo y la carne de los corderos del banquete; la liaison de yema y limón (terbiye) le da su textura sedosa y su punto ácido. El trabajo activo son unos 25 minutos. Aguanta 2 días en la nevera: recaliéntala a fuego suave sin que hierva y añade la mantequilla roja al servir.",
-  tupper: true,
+  nutricion: { kcal: 520, prot: 47, hc: 18, grasa: 29 },
+  etiquetas: ["tradicional", "todo en una olla", "de cuchara", "alta en proteína", "poco especiada", "invierno"],
+  consejo: "En Nápoles y en los Abruzos el cardo en caldo es la sopa de Navidad: se hace con el caldo de gallina de la víspera, albondiguitas y huevo batido con queso que se cuaja al final. El cardo de bote ya viene cocido y ahorra casi una hora; si lo compras fresco, quítale los hilos, frótalo con limón y cuécelo 40 minutos en agua con sal antes de empezar. Con un buen caldo casero es otra sopa.",
+  tupper: false,
   contundencia: "media",
-  coste: "premium"
+  coste: "económica"
 });
 
 window.RECETAS_SEED.push({

@@ -4,10 +4,10 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
    Hilo conductor: verduras asadas y al vapor como protagonistas o como guarnición generosa. Bandejas de horno,
    cestillos de vapor y guisos lentos de patata, zanahoria, chirivía, pimiento verde, espinacas, judías verdes,
    calabaza japonesa y, en su ración, berenjena, calabacín y pimiento rojo. Platos tradicionales de Liguria (orata
-   alla ligure, torta di verdure), Líbano (samkeh meshwiyeh), Túnez (kamounia), Sicilia (zucca in agrodolce)
+   alla ligure), Líbano (samkeh meshwiyeh), Túnez (kamounia), Sicilia (zucca in agrodolce)
    e Italia (fesa di tacchino al forno, peperoni e patate, pasta con fagiolini e patate, gnocchi al pomodoro,
    insalata di mare, minestra di riso e patate), adaptados sin perder su alma, y creaciones sencillas de
-   inspiración mediterránea. Bajas en FODMAP (aceite de ajo, parte verde de la cebolleta, cebollino, sin gluten, sin
+   inspiración mediterránea (verduras al vapor con fonduta…). Bajas en FODMAP (aceite de ajo, parte verde de la cebolleta, cebollino, sin gluten, sin
    legumbres, sin lácteos con lactosa), sin picante, sin alcohol, sin fritos y con ≤ 25 g de grasa por ración;
    raciones de cada verdura moderada dentro de los límites de Monash y sin sumar varias al máximo en el mismo plato.
    Cantidades para 2 raciones. */
@@ -721,47 +721,46 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4881",
-  nombre: "Torta di verdure ligure sin masa: pastel al horno de espinacas, calabacín y arroz con parmesano y mejorana, con tomate aliñado",
-  subtitulo: "la torta verde de las casas de Liguria, cuajada con huevo y queso en un molde y sin la masa, para comer templada o fría",
+  nombre: "Verduras al vapor con fonduta: patata, zanahoria, calabaza japonesa y judías verdes con salsa caliente de fontina",
+  subtitulo: "la salsa de queso fundido de los valles alpinos de Italia, ligada con yema, sobre una cesta de verduras recién hechas al vapor",
   origen: "inventada",
   categoria: "verduras",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "verdura",
-  tiempo: 60,
-  dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén", "bol"],
+  tiempo: 40,
+  dificultad: "media",
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "espinacas frescas", q: 250, u: "g" },
-    { n: "calabacín", q: 120, u: "g" },
-    { n: "arroz redondo", q: 100, u: "g" },
-    { n: "huevo", q: 3, u: "ud" },
-    { n: "parmesano", q: 40, u: "g" },
-    { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "mejorana seca", q: 1, u: "cdta", nota: "o tomillo seco" },
-    { n: "pan rallado sin gluten", q: 20, u: "g" },
-    { n: "tomate pera", q: 200, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "agua", q: 600, u: "ml" },
+    { n: "patata", q: 400, u: "g" },
+    { n: "zanahoria", q: 200, u: "g" },
+    { n: "calabaza japonesa", q: 300, u: "g" },
+    { n: "judías verdes", q: 120, u: "g" },
+    { n: "queso fontina", q: 80, u: "g", nota: "o emmental" },
+    { n: "leche sin lactosa", q: 120, u: "ml" },
+    { n: "yema de huevo", q: 2, u: "ud" },
+    { n: "maicena", q: 1, u: "cdta" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
+    { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
+    { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 190 °C y pon el agua a hervir con sal en una cazuela. Cuando hierva, añade el arroz y cuécelo 10 minutos: quedará a medio hacer y terminará en el horno. Escúrrelo.",
-    "Mientras se cuece, ralla el calabacín grueso y escúrrelo apretándolo con las manos, pica las espinacas, corta la parte verde de la cebolleta en aros y ralla el parmesano.",
-    "En una sartén con el aceite de ajo a fuego medio, rehoga las espinacas 2 minutos hasta que mermen; añade el calabacín y la cebolleta y cocina 3 minutos más. Escurre el líquido que suelten.",
-    "En un bol, bate los huevos con el parmesano (reserva 1 cucharada), la mejorana, sal y pimienta, y mezcla con el arroz y las verduras.",
-    "Unta un molde de 20-22 cm con el aceite de oliva y espolvorea la mitad del pan rallado. Vierte la mezcla, alisa y cubre con el resto del pan rallado y el parmesano reservado. Hornea 30 minutos, hasta que esté cuajada y dorada.",
-    "Mientras se hornea, corta el tomate en rodajas y sálalo. Deja reposar la torta 10 minutos, córtala en porciones y sírvela con el tomate."
+    "Corta el queso en dados pequeños y ponlo en un cazo con la leche: mientras preparas lo demás se ablanda y luego fundirá antes y sin hacer hilos. Pon a hervir agua en una cazuela con cestillo de vapor.",
+    "Mientras se calienta el agua, pela las patatas y la zanahoria; corta las patatas en trozos de 4 cm y la zanahoria en bastones gruesos. Corta la calabaza con su piel en gajos de 2 cm, quitando las semillas, y despunta las judías verdes.",
+    "Cuando hierva el agua, pon en el cestillo las patatas y la zanahoria, tapa y cuece al vapor 10 minutos. Añade la calabaza y las judías y cuece 10-12 minutos más, hasta que todo esté tierno al pincharlo.",
+    "Mientras se hacen las verduras, calienta el cazo del queso a fuego muy suave, removiendo con unas varillas, hasta que el queso se funda en la leche y la salsa quede lisa, 6-8 minutos; no debe hervir. En un bol, bate las yemas con la maicena y la nuez moscada, y pica el cebollino.",
+    "Añade a las yemas dos cucharadas de la salsa caliente sin dejar de batir, viértelo en el cazo y remueve 2-3 minutos a fuego mínimo, hasta que la fonduta espese y nape la cuchara. Apártala del fuego enseguida para que no se corte.",
+    "Reparte las verduras en platos calientes, sálalas ligeramente, cúbrelas con la fonduta y termina con el cebollino y pimienta negra recién molida."
   ],
-  nutricion: { kcal: 535, prot: 25, hc: 54, grasa: 23 },
-  etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "al horno", "sin gluten", "vegetariana", "verduras escondidas", "poco especiada"],
-  consejo: "En Liguria se hace con borraja, acelgas o hierbas silvestres y suele ir entre dos láminas de masa; sin ella es más ligera y apta sin gluten. La ración de calabacín (60 g por persona) queda dentro de lo tolerado y las espinacas son libres. Aguanta 3 días en la nevera y fría está aún mejor.",
-  tupper: true,
+  nutricion: { kcal: 490, prot: 22, hc: 55, grasa: 19 },
+  etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "vegetariana", "poco especiada", "invierno"],
+  consejo: "La fonduta del Piamonte y el Valle de Aosta se sirve con polenta, tostadas o verduras; hecha con leche sin lactosa y un queso curado como la fontina o el emmental no tiene lactosa apreciable. El vapor deja las verduras tiernas y fáciles de digerir sin añadir grasa, y las judías verdes van en 60 g por persona, dentro de su ración baja en FODMAP. Si la salsa se espesa demasiado al reposar, aclárala con un chorrito de leche caliente.",
+  tupper: false,
   contundencia: "media",
-  coste: "económica"
+  coste: "media"
 });
 
 window.RECETAS_SEED.push({
