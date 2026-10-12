@@ -92,6 +92,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 841, prot: 52, hc: 57, grasa: 45 },
   etiquetas: ["olla exprés", "invierno", "tupper", "batch cooking", "alta en proteína", "granos poco usados", "cebada", "cocina didáctica", "poco especiada"],
   consejo: "En la olla exprés, los ingredientes con tiempos distintos se cuecen en dos tandas: primero lo más duro (la carne) y luego lo rápido (grano, patata). Antes de cerrar, desglasa siempre el fondo con un líquido: el tostado pegado es sabor y, además, evita que se queme durante la cocción a presión.",
+  alternativa: "Sin olla exprés: guisa las carrilladas en una cazuela tapada a fuego suave 2 h 15 min y añade la cebada los últimos 35 minutos con más caldo si hace falta.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -321,6 +322,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 794, prot: 22, hc: 100, grasa: 34 },
   etiquetas: ["vegana", "sin gluten", "picante", "tupper", "granos poco usados", "azukis", "cocina didáctica"],
   consejo: "Cualquier legumbre cocida (azukis, pintas, negras, carillas) sirve para un refrito: lo importante es aplastarla en grasa caliente con su propio caldo hasta que espese. El encurtido rápido de cebolla en lima o vinagre (30 minutos) mejora tacos, ensaladas, bocadillos y platos de legumbre. El refrito aguanta 4 días en la nevera.",
+  alternativa: "Si no encuentras chipotle en adobo, usa 1 cdta de pimentón ahumado y media guindilla en la salsa: el humo y el picor quedan muy parecidos.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -814,6 +816,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 453, prot: 25, hc: 41, grasa: 21 },
   etiquetas: ["sin gluten", "ligera", "para invitados", "granos poco usados", "trigo sarraceno", "cocina didáctica", "poco especiada"],
   consejo: "La harina de trigo sarraceno no tiene gluten, así que la masa no se vuelve elástica: la esponjosidad la aportan la clara montada y la levadura. El truco de las burbujas para dar la vuelta vale para cualquier tortita o crep. Los blinis se congelan bien y se recalientan 1 minuto en la tostadora.",
+  alternativa: "Sin nata agria, mezcla 60 g de yogur griego con unas gotas de limón o usa crème fraîche: el contraste ácido es el mismo.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -949,6 +952,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 396, prot: 12, hc: 51, grasa: 16 },
   etiquetas: ["vegana", "ligera", "verano", "tupper", "ideal para llevar", "económica", "granos poco usados", "cebada", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Cualquier grano cocido y frío (cebada, bulgur, quinoa, farro, trigo sarraceno) sirve de base para una ensalada tipo tabulé: calcula 1 parte de grano por 2 de verdura y hierbas. El zumaque aporta acidez sin líquido, perfecto para que las ensaladas de tupper no se encharquen.",
+  alternativa: "Si no encuentras zumaque, sustitúyelo por la ralladura fina de medio limón al aliñar: la ensalada queda igual de fresca.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1087,6 +1091,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 603, prot: 28, hc: 62, grasa: 27 },
   etiquetas: ["sin gluten", "vegetariana", "al horno", "tupper", "ideal para llevar", "verano", "granos poco usados", "polenta", "poco especiada"],
   consejo: "Salar las verduras acuosas (calabacín, berenjena, pepino) y dejarlas escurrir 10 minutos evita que suelten agua en el horno y encharquen tartas, gratinados o pizzas. Esta torta se come fría al día siguiente, como una quiche.",
+  alternativa: "Si no encuentras ricotta, usa requesón (los mismos 150 g) bien escurrido: el resultado es prácticamente igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"

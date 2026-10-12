@@ -46,6 +46,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 30, hc: 74, grasa: 25 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "tupper", "batch cooking", "al horno", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Escaldar el tempeh 8-10 minutos antes de marinarlo o glasearlo es el gesto que más cambia su sabor: elimina el regusto amargo y abre su textura como una esponja. Sirve igual para cualquier receta con tempeh. El farro cocido aguanta 4 días en la nevera y se puede congelar en raciones.",
+  alternativa: "Si no encuentras farro, usa espelta en grano o cebada perlada (mismos 120 g y tiempos de cocción parecidos): tienen una textura muy similar.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -97,6 +98,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 815, prot: 35, hc: 106, grasa: 28 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "slow cooker", "tupper", "batch cooking", "invierno", "de cuchara"],
   consejo: "Mezclar soja con azúcar moreno (2:1) es el truco para imitar la soja dulce (kecap manis) en cualquier receta indonesia o en un glaseado. Las especias enteras (anís, canela, clavo) aguantan bien las cocciones largas sin amargar; las molidas, en cambio, se añaden al final.",
+  alternativa: "Sin slow cooker, guisa en una cazuela tapada a fuego mínimo 1 h, removiendo de vez en cuando y añadiendo 100 ml más de caldo si se seca.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -144,6 +146,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 28, hc: 50, grasa: 29 },
   etiquetas: ["proteína vegetal", "alta en proteína", "airfryer", "rápida", "sándwich", "cena de viernes", "poco especiada"],
   consejo: "Escurrir bien los ingredientes húmedos (chucrut, tomate, pepinillo) antes de montar un sándwich caliente es la clave para que el pan no se reblandezca. El adobo de soja, pimentón ahumado y pimienta sirve también para dar sabor ahumado al seitán, al tofu o a unas zanahorias en láminas.",
+  alternativa: "Sin airfryer, dora el tempeh en sartén 2-3 minutos por lado y tuesta los sándwiches en la misma sartén con una tapa encima, 3 minutos por cara; si no tienes alcaravea, usa comino en grano.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -193,6 +196,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 32, hc: 88, grasa: 32 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "picante", "tupper", "una sola sartén"],
   consejo: "Freír una pasta de especias hasta que el aceite se separe es la técnica base de los curris del sudeste asiático y de la India: así pierde el sabor a crudo y libera los aromas solubles en grasa. Si te sobra sambal, guárdalo cubierto de aceite en la nevera hasta una semana.",
+  alternativa: "Si no encuentras hierba limón, añade a la pasta la ralladura de la lima y una hoja de laurel durante la cocción (retírala al servir).",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -288,6 +292,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 46, hc: 82, grasa: 20 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "slow cooker", "tupper", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En la olla lenta, las verduras duras (patata, zanahoria, nabo) van abajo y en contacto con el líquido; las proteínas delicadas, arriba. Esta regla sirve para cualquier guiso de slow cooker. El chucrut enjuagado también es estupendo salteado con manzana como guarnición de cualquier plato de tofu o legumbre.",
+  alternativa: "Sin olla lenta, hazlo en una cazuela tapada a fuego suave 50-60 minutos, hasta que las patatas estén tiernas; con el mismo orden de capas.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -337,6 +342,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 37, hc: 46, grasa: 12 },
   etiquetas: ["proteína vegetal", "alta en proteína", "picante", "de cuchara", "rápida", "ligera", "tupper", "invierno", "bajo en colesterol"],
   consejo: "El equilibrio de la sopa agripicante está en añadir el ácido y la pimienta al final, con el fuego apagado: así conservan toda su fuerza. Si la guardas, hazlo sin los fideos y añádelos al recalentar, porque se hinchan y se comen el caldo.",
+  alternativa: "Las shiitake se pueden cambiar por champiñón portobello laminado y el pak choi por acelga tierna en tiras; la sopa casi no cambia.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -524,6 +530,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 33, hc: 59, grasa: 25 },
   etiquetas: ["proteína vegetal", "alta en proteína", "airfryer", "tupper", "para niños", "sin gluten", "bajo en colesterol"],
   consejo: "La harina de garbanzo es el sustituto vegano del huevo en hamburguesas, tortitas y croquetas: liga al hidratarse y al calentarse. Reposar la masa 10 minutos en frío antes de cocinarla hace que no se rompa. Las tortitas aguantan 3 días en la nevera y se recalientan en la airfryer 4 minutos a 180 °C, recuperando el crujiente.",
+  alternativa: "En horno: coloca las tortitas pintadas de aceite sobre papel y hornéalas a 210 °C 15-18 minutos, volteándolas a mitad.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -576,6 +583,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 675, prot: 43, hc: 90, grasa: 15 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "slow cooker", "tupper", "batch cooking", "invierno", "económica", "poco especiada"],
   consejo: "Hidratar la soja texturizada en caldo sazonado (y no en agua) y dorarla después es la regla de oro para que sepa a guiso de carne: sirve para boloñesas, chilis o rellenos. Tostar la harina en la grasa antes de añadir el líquido (un roux) es la forma clásica de espesar un estofado sin grumos.",
+  alternativa: "Sin slow cooker: guisa en cazuela tapada a fuego muy suave 1 h 15 min, removiendo de vez en cuando; reduce el caldo a 300 ml porque evapora más.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -623,6 +631,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 25, hc: 51, grasa: 17 },
   etiquetas: ["proteína vegetal", "alta en proteína", "ligera", "tupper", "ideal para llevar", "para compartir", "verano", "económica", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El altramuz es una de las legumbres con más proteína (unos 16 g por 100 g cocido) y ya viene cocido: sólo hay que desalarlo y pelarlo. Funciona igual en ensaladas, salteados o triturado en cualquier crema de untar. El hummus aguanta 4 días en la nevera tapado con una película de aceite; los garbanzos crujientes, guárdalos aparte en un tarro.",
+  alternativa: "Si no encuentras za'atar, mezcla 1/2 cdta de tomillo seco, 1/2 cdta de sésamo tostado y un poco de ralladura de limón.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -769,6 +778,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 805, prot: 32, hc: 117, grasa: 23 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "airfryer", "para niños", "rebozado sin huevo", "bajo en colesterol"],
   consejo: "La mezcla de harina y bebida vegetal sustituye al huevo batido en cualquier empanado vegano: aguanta el pan rallado igual de bien. En la airfryer, el rebozado siempre necesita un poco de aceite pulverizado para dorarse. La salsa de curry japonesa se congela perfectamente y vale para tofu, verduras o garbanzos.",
+  alternativa: "Sin airfryer, hornea los filetes rebozados a 210 °C 15 minutos, dándoles la vuelta a mitad; y si no tienes panko, pan rallado grueso cumple casi igual.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -820,6 +830,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 815, prot: 39, hc: 93, grasa: 31 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "slow cooker", "tupper", "batch cooking", "sin gluten", "económica"],
   consejo: "Las hojas secas de fenogreco (kasuri methi) se añaden al final y frotadas entre las manos: es el ingrediente que hace que un curry casero sepa 'a restaurante indio'. Y el tofu destinado a guisos largos, dóralo siempre antes: la costra lo protege y evita que se desmigue.",
+  alternativa: "Sin olla lenta, cocina el curry en una cazuela tapada a fuego mínimo 40-45 minutos, hasta que la patata esté tierna; remueve de vez en cuando.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -957,6 +968,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 31, hc: 84, grasa: 23 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "airfryer", "tupper", "para niños", "congelable", "poco especiada"],
   consejo: "Cualquier relleno para empanadillas, croquetas o canelones debe estar frío y lo más seco posible antes de rellenar: es lo que evita que la masa se rompa. Puedes congelar las empanadillas crudas en una bandeja y luego en bolsa: se hacen directamente congeladas en la airfryer, con 3-4 minutos más.",
+  alternativa: "Sin airfryer, hornéalas en bandeja con papel a 200 °C 15-18 minutos, hasta que estén doradas; no hace falta darles la vuelta.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1100,6 +1112,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 27, hc: 132, grasa: 13 },
   etiquetas: ["proteína vegetal", "proteína completa", "saciante", "slow cooker", "tupper", "batch cooking", "sin gluten", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "El arroz con lentejas es la pareja perfecta: juntos aportan todos los aminoácidos esenciales, igual que la carne. Las legumbres se salan al final de la cocción para que la piel no se endurezca; esto vale para cualquier legumbre seca. La menestra se congela muy bien en raciones.",
+  alternativa: "Sin slow cooker, cuece las lentejas pardinas en cazuela tapada 40-45 minutos a fuego suave; si no encuentras achiote, usa 1 cdta de pimentón dulce con una pizca de cúrcuma.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1145,6 +1158,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 25, hc: 43, grasa: 28 },
   etiquetas: ["proteína vegetal", "alta en proteína", "airfryer", "picante", "para compartir", "de tapeo"],
   consejo: "Lavar y secar bien la patata cortada es el secreto de cualquier patata crujiente, frita, al horno o en airfryer: el almidón superficial y el agua son los que la reblandecen. La salsa brava aguanta una semana en la nevera y sirve para huevos, tofu o verduras asadas.",
+  alternativa: "Sin airfryer, asa las patatas en el horno a 220 °C 30-35 minutos, girándolas a mitad, y añade la heura los últimos 10 minutos.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1188,6 +1202,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 29, hc: 27, grasa: 22 },
   etiquetas: ["proteína vegetal", "alta en proteína", "ligera", "rápida", "primavera", "tupper", "una sola sartén", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para que un salteado quede dorado y no cocido, la sartén debe estar muy caliente y sin amontonar: si los ingredientes no caben en una capa, hazlos por tandas. La ralladura de limón se añade siempre fuera del fuego, porque su aroma es muy volátil.",
+  alternativa: "Fuera de temporada de ajos tiernos, usa 2 dientes de ajo laminados y la parte verde de 2 cebolletas en rodajas: el salteado queda muy parecido.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"

@@ -48,6 +48,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 32, hc: 71, grasa: 24 },
   etiquetas: ["proteína vegetal", "alta en proteína", "airfryer", "picante", "para niños", "comida para llevar casera", "bajo en colesterol"],
   consejo: "Para que un rebozado crujiente aguante la salsa, mezcla el tofu con la salsa ya espesa, fuera del fuego y justo antes de servir. El rebozado de maicena en airfryer sirve igual para coliflor, setas o seitán. La salsa agridulce base (soja, vinagre, azúcar y maicena) es reutilizable con cualquier salteado.",
+  alternativa: "Sin airfryer, hornea el tofu rebozado sobre papel a 220 °C 20-25 minutos, girándolo a mitad, hasta que cruja.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -95,6 +96,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 815, prot: 41, hc: 94, grasa: 31 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "para invitados", "técnica", "de domingo", "poco especiada"],
   consejo: "La técnica persa del arroz en dos tiempos (hervido corto y luego al vapor con la tapa envuelta en un paño) da granos sueltos y largos y sirve para cualquier pilaf. El yogur vegetal en la base ayuda a formar una costra crujiente y dorada; si no tienes, usa solo aceite y una rebanada fina de patata en el fondo.",
+  alternativa: "Si no encuentras melaza de granada, reduce a la mitad 100 ml de zumo de granada con 1 cdta de azúcar y unas gotas de limón; o usa 1 cda de sirope de arce más 1 cda de zumo de limón.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"
@@ -143,6 +145,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 35, hc: 93, grasa: 30 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "slow cooker", "tupper", "batch cooking", "sin gluten", "invierno", "superalimentos"],
   consejo: "Los guisos con frutos secos o crema de cacahuete resultan pesados si no llevan un ácido al final: un chorrito de lima, limón o vinagre los aligera al instante. Es una regla que funciona en cualquier guiso cremoso. El mafé espesa al enfriarse; al recalentarlo, añade un poco de agua.",
+  alternativa: "Sin olla lenta, guisa el mafé en cazuela tapada a fuego suave 35-40 minutos, removiendo para que la crema de cacahuete no se pegue; el kale se cambia por espinacas sin problema.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -188,6 +191,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 25, hc: 58, grasa: 12 },
   etiquetas: ["proteína vegetal", "alta en proteína", "ligera", "de cuchara", "umami", "setas", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El dashi vegano de kombu y shiitake seco es una base de umami que mejora cualquier sopa, risotto o guiso de legumbres: la clave es empezar en frío y sacar el alga antes del hervor. Las shiitake rehidratadas no se tiran: se aprovechan en el propio plato o en un salteado.",
+  alternativa: "Si no encuentras kombu, haz el caldo solo con 20 g de shiitake seco: pierde algo de profundidad pero sigue siendo muy umami; y el mirin se sustituye por vino blanco con 1/2 cdta de azúcar.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -287,6 +291,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 380, prot: 24, hc: 42, grasa: 13 },
   etiquetas: ["proteína vegetal", "alta en proteína", "ligera", "airfryer", "tupper", "ideal para llevar", "verano", "sin gluten", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Cualquier legumbre cocida (garbanzos, altramuces, habas) se vuelve crujiente en la airfryer si está bien seca y lleva una pizca de maicena y aceite. Guárdalas en un tarro hermético, no en la nevera, para que no se ablanden; y en el tupper ponlas aparte hasta el momento de comer.",
+  alternativa: "En horno: extiende los altramuces en bandeja y ásalos a 210 °C 20-25 minutos, removiendo cada 8 minutos, hasta que crujan.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -337,6 +342,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 28, hc: 94, grasa: 22 },
   etiquetas: ["proteína vegetal", "proteína completa", "saciante", "de cuchara", "tupper", "una sola olla", "económica", "invierno"],
   consejo: "Dejar reposar cualquier masa de harina de trigo 15 minutos antes de estirarla (pasta, empanadillas, pan plano) relaja el gluten y hace que se estire sin encogerse. El equilibrio dulce, ácido y salado del dal guyaratí (azúcar, tamarindo y lima) es un buen recurso para animar cualquier legumbre sosa.",
+  alternativa: "Sin concentrado de tamarindo, usa el zumo de media lima extra con 1 cdta más de azúcar moreno; el dal mantiene su toque agridulce.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -382,6 +388,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 34, hc: 56, grasa: 29 },
   etiquetas: ["proteína vegetal", "alta en proteína", "primavera", "para invitados", "tupper", "rápida", "poco especiada"],
   consejo: "La crema de anacardos remojados es la base de casi todas las salsas cremosas veganas: con limón y ajo es una 'nata', con levadura nutricional sabe a queso y con chipotle es una salsa para tacos. El agua de cocción de la pasta es un ingrediente: guarda siempre un vaso para ajustar la salsa.",
+  alternativa: "Para abaratar, cambia los piñones por la misma cantidad de almendra laminada tostada: el crujiente es casi igual.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -428,6 +435,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 37, hc: 62, grasa: 14 },
   etiquetas: ["proteína vegetal", "alta en proteína", "airfryer", "para niños", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Cualquier glaseado con azúcar o miel (barbacoa, teriyaki, agridulce) se pinta en los últimos minutos de horno, parrilla o airfryer: así carameliza sin quemarse. Esta salsa barbacoa rápida dura una semana en la nevera y sirve para tofu, tempeh, alitas de coliflor o una hamburguesa.",
+  alternativa: "Sin airfryer: asa el boniato a 220 °C 20 minutos, añade el seitán glaseado y la mazorca y hornea 12 minutos más.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -522,6 +530,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 29, hc: 64, grasa: 29 },
   etiquetas: ["proteína vegetal", "alta en proteína", "al horno", "para invitados", "otoño", "Navidad", "tupper", "superalimentos", "poco especiada"],
   consejo: "Una capa fina de mostaza (o tahini, o hummus) es el pegamento vegano para fijar costras de frutos secos, hierbas o pan rallado sin usar huevo; sirve con tofu, coliflor o berenjena. Las coles de Bruselas siempre boca abajo y a horno fuerte: así dejan de ser amargas.",
+  alternativa: "Las nueces pecanas se cambian bien por nueces normales (mismos 30 g); la costra queda algo menos dulce y apenas se nota.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -660,6 +669,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 19, hc: 72, grasa: 9 },
   etiquetas: ["proteína vegetal", "proteína completa", "ligera", "de cuchara", "slow cooker", "tupper", "batch cooking", "otoño", "económica", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si cocinas legumbres secas en slow cooker (alubias rojas, pintas, negras), hiérvelas siempre 10 minutos a fuego fuerte antes: es una norma de seguridad. Las verduras blandas (calabaza, calabacín) se añaden en la última parte de la cocción. Freír hojas de salvia o romero en aceite da un aliño aromático para cualquier crema o legumbre.",
+  alternativa: "Sin olla lenta: usa olla exprés (alubias y espelta 25 minutos a presión, calabaza después 5 minutos sin presión); y sin tiempo para el remojo, usa 250 g de alubias pintas cocidas de bote añadidas con la calabaza.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -752,6 +762,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 27, hc: 65, grasa: 26 },
   etiquetas: ["proteína vegetal", "alta en proteína", "tupper", "una sola olla", "sin gluten", "verano", "poco especiada"],
   consejo: "La leche de coco se cuece siempre a fuego suave: si hierve a borbotones se separa la grasa y la salsa queda cortada. Los tallos del cilantro tienen más sabor que las hojas y aguantan la cocción; guarda las hojas para el final. Este encocado funciona igual con tofu firme o garbanzos.",
+  alternativa: "Si no encuentras pasta de achiote, la sustituye 1 cdta de pimentón dulce con una punta de cúrcuma, que da el mismo color rojizo.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -842,6 +853,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 36, hc: 92, grasa: 20 },
   etiquetas: ["proteína vegetal", "alta en proteína", "saciante", "picante", "para compartir", "bajo en colesterol"],
   consejo: "La yuca siempre se cuece antes de freír o dorar: así es segura, queda cremosa por dentro y crujiente por fuera. Congelada ya viene pelada y es igual de buena. La salsa criolla (cebolla morada, lima, ají y cilantro) acompaña cualquier legumbre, arroz o tostada.",
+  alternativa: "Sin pasta de ají amarillo, tritura un pimiento amarillo asado de bote con un poco de chile fresco y una pizca de cúrcuma; y la yuca se puede cambiar por patata cocida y dorada.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -886,6 +898,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 31, hc: 45, grasa: 24 },
   etiquetas: ["proteína vegetal", "alta en proteína", "rápida", "setas", "umami", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El miso es un marinado y un glaseado a la vez: mezclado con algo dulce (mirin, sirope) sirve para tofu, berenjena, coliflor o calabaza. Como lleva azúcares, termínalo siempre al grill o en la parte alta del horno y no lo pierdas de vista.",
+  alternativa: "El pak choi puede sustituirse por col china o acelga tierna, y el mirin por 1 cda de vino blanco con 1 cdta de azúcar; las shiitake, por champiñón marrón.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -1119,6 +1132,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 17, hc: 68, grasa: 11 },
   etiquetas: ["proteína vegetal", "proteína completa", "ligera", "tupper", "ideal para llevar", "verano", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El freekeh es trigo cosechado verde y tostado: tiene más proteína y fibra que el bulgur y un sabor ahumado. Si no lo encuentras, usa bulgur grueso o farro. Para llevar, guarda las hierbas picadas y el aliño aparte y mézclalo todo en el momento: así no se mustian.",
+  alternativa: "Si no tienes zumaque, añade la ralladura de un limón al aliño: da la misma acidez sin mojar la ensalada.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"

@@ -420,6 +420,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 787, prot: 41, hc: 68, grasa: 39 },
   etiquetas: ["carne poco habitual", "pato", "al horno", "para compartir", "de domingo"],
   consejo: "La fórmula «horno bajo y largo, golpe final fuerte» sirve para cualquier pieza con piel y grasa: muslos de pollo, codillo o panceta. Lo importante es la piel seca: humedad es igual a piel blanda.",
+  alternativa: "Si no encuentras cinco especias chinas, mezcla una pizca de canela, una de clavo molido, 1/4 cdta de anís (o un anís estrellado machacado) y 1/4 cdta de pimienta negra; el adobo sabe prácticamente igual.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -514,6 +515,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 821, prot: 42, hc: 89, grasa: 33 },
   etiquetas: ["carne poco habitual", "pato", "tupper", "de domingo", "para invitados", "invierno"],
   consejo: "Para desgrasar cualquier guiso con facilidad, déjalo enfriar en la nevera: la grasa sube y se solidifica en una capa que se retira de una pieza. Por eso los guisos de carnes grasas (pato, rabo, carrillada) mejoran hechos la víspera.",
+  alternativa: "Sin ras el hanout, prepara el tuyo con 1/2 cdta de comino, 1/2 de cilantro molido, 1/2 de pimentón dulce, 1/4 de cúrcuma y una pizca de jengibre y nuez moscada: suma las 2 cdta.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -560,6 +562,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 588, prot: 42, hc: 60, grasa: 20 },
   etiquetas: ["carne poco habitual", "pato", "salteado", "wok", "rápida", "alta en proteína", "sin lácteos", "superalimentos", "poco especiada"],
   consejo: "Cortar la carne a contrapelo es la clave de cualquier salteado tierno, sea ternera, cerdo o pato: acortas las fibras y la mordida se vuelve suave. Ten todo cortado antes de encender el wok: en un salteado no hay tiempo de picar.",
+  alternativa: "El pak choi se cambia bien por 4-5 hojas de acelga tierna (pencas en tiras finas, primero al wok); si no tienes mirin, usa 1 cda de vino blanco con 1/2 cdta de azúcar.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -698,6 +701,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 634, prot: 49, hc: 51, grasa: 26 },
   etiquetas: ["carne poco habitual", "codorniz", "a la plancha", "verano", "alta en proteína", "aprende a abrir en mariposa", "poco especiada"],
   consejo: "La técnica de abrir en mariposa (spatchcock) sirve para cualquier ave: un pollo entero abierto así se asa en 40 minutos en lugar de 70. Guarda las columnas en el congelador para el próximo caldo.",
+  alternativa: "Si no tienes zumaque, frota la ralladura de medio limón con una pizca de sal y espolvoréala al final: aporta la misma nota ácida y fresca.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -747,6 +751,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 47, hc: 56, grasa: 22 },
   etiquetas: ["carne poco habitual", "codorniz", "airfryer", "alta en proteína", "sin gluten", "verano"],
   consejo: "Los cortes superficiales antes de marinar sirven para cualquier pieza con hueso (muslos de pollo, cordero): duplican la superficie que toca el adobo. Si la marinada lleva yogur, nunca la reutilices como salsa sin hervirla.",
+  alternativa: "Sin airfryer, ásalas en el horno a 220 °C con aire, sobre rejilla, 20-22 minutos, dándoles la vuelta a mitad y terminando 2 minutos de grill para dorar la piel.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -791,6 +796,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 60, hc: 44, grasa: 36 },
   etiquetas: ["carne poco habitual", "pintada", "al horno", "otoño", "invierno", "para invitados", "de domingo", "sin gluten", "poco especiada"],
   consejo: "Despiezar un ave antes de asarla permite meter cada parte a su tiempo y es la manera de que muslo y pechuga salgan perfectos a la vez. Con el armazón que sobra prepara un caldo: cúbrelo de agua fría con una zanahoria y una cebolla y cuécelo 1 hora.",
+  alternativa: "Si no encuentras pintada, usa medio pollo de corral (unos 700 g) despiezado igual; la pechuga necesitará 5 minutos más de horno.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -835,6 +841,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 456, prot: 37, hc: 50, grasa: 12 },
   etiquetas: ["carne poco habitual", "gallina", "de cuchara", "invierno", "tupper", "batch cooking", "reconfortante", "sin lácteos", "poco especiada"],
   consejo: "La gallina da un caldo mucho más sabroso que el pollo porque es un animal adulto con más colágeno; necesita más tiempo, pero cunde para varias comidas. El caldo sobrante se congela en raciones 3 meses, y la carne que sobre es perfecta para croquetas o un arroz.",
+  alternativa: "Si en tu súper no hay gallina, cuece 600 g de muslos y contramuslos de pollo con piel más una carcasa de pollo: el caldo queda sabroso y bastan 1 h 15 min de cocción.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1150,6 +1157,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 35, hc: 67, grasa: 18 },
   etiquetas: ["pulpo", "pescado poco habitual", "para compartir", "picante", "sin gluten", "sin lácteos"],
   consejo: "Si compras pulpo crudo para cocerlo tú, congélalo antes (rompe las fibras y queda más tierno) y cuécelo 40-45 minutos en agua hirviendo, metiéndolo y sacándolo tres veces al principio para que la piel no se desprenda. El adobo de guajillo y achiote sirve igual para cerdo, pollo o coliflor.",
+  alternativa: "Si no encuentras guajillo ni achiote, sustitúyelos por 1 cda de pimentón dulce, 1/2 cdta de pimentón picante y una pizca de cúrcuma en el adobo: el color y el sabor quedan muy cerca.",
   tupper: false,
   contundencia: "media",
   coste: "premium"

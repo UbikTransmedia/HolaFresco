@@ -47,6 +47,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 16, hc: 76, grasa: 9 },
   etiquetas: ["cocinas del mundo", "india del sur", "de cuchara", "ligera", "vegano", "sin gluten", "económica", "picante", "invierno", "detox", "bajo en colesterol"],
   consejo: "La tadka (o tempero) es una técnica de toda la cocina india que puedes usar en cualquier sopa o legumbre: especias enteras fritas unos segundos en grasa caliente y volcadas al final. La grasa extrae aromas que el agua no saca, por eso se añade al terminar y no al principio.",
+  alternativa: "Si no encuentras concentrado de tamarindo, usa el zumo de 1 lima con 1 cdta de azúcar moreno: el rasam conserva su acidez afrutada.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -240,6 +241,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 745, prot: 26, hc: 81, grasa: 35 },
   etiquetas: ["cocinas del mundo", "india del norte", "vegetariana", "sin gluten", "una sola olla", "ideal para llevar", "batch cooking"],
   consejo: "Para un pulao suelto, mide el basmati remojado por volumen y añade 1,6 veces ese volumen de líquido (2 veces si no lo remojas). Con esta técnica de especias enteras en grasa puedes hacer un pulao con cualquier verdura o legumbre cocida.",
+  alternativa: "Si no encuentras paneer, usa halloumi (más salado, ajusta la sal) o queso fresco firme muy escurrido y dorado igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -343,6 +345,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 18, hc: 52, grasa: 17 },
   etiquetas: ["cocinas del mundo", "india", "vegano", "sin gluten", "ligera", "económica", "verano", "ideal para llevar", "alta en fibra", "detox", "bajo en colesterol"],
   consejo: "Las judías mungo no necesitan remojo y cuecen en 20 minutos: son una legumbre ideal para ensaladas improvisadas. La regla de oro de las ensaladas de legumbre: alíñalas en tibio, que absorben mejor, y añade crujientes y hierbas en el último momento.",
+  alternativa: "Sin judías mungo secas, usa 300 g de lentejas pardinas cocidas de bote bien enjuagadas: la textura es muy parecida y te ahorras la cocción.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -390,6 +393,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 14, hc: 72, grasa: 8 },
   etiquetas: ["cocinas del mundo", "india", "comida callejera", "vegano", "sin gluten", "ligera", "económica", "verano", "sin horno", "bajo en colesterol"],
   consejo: "Los dos chutneys (dulce de tamarindo y verde de hierbas) aguantan una semana en la nevera en un bote y alegran desde unas lentejas hasta un bocadillo de pollo. Si quieres preparar el bhel para llevar, lleva el arroz inflado en una bolsa aparte y mezcla al comer.",
+  alternativa: "Si no encuentras tamarindo, haz el chutney dulce con 2 cda de zumo de lima, 1 cda de azúcar moreno y 1 cda de dátil triturado o melaza.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -1001,6 +1005,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 25, hc: 74, grasa: 41 },
   etiquetas: ["cocinas del mundo", "estadounidense", "de cuchara", "invierno", "para niños", "reconfortante", "poco especiada"],
   consejo: "La patata nunca se tritura con batidora: el almidón se rompe y la crema queda pegajosa. Usa pasapurés o tenedor, o tritura solo la parte líquida. Si la recalientas, añade un chorrito de leche, porque el almidón la espesa al enfriar.",
+  alternativa: "¿Sin nata agria? Vale la misma cantidad de yogur griego natural o nata para montar con unas gotas de limón.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -1148,6 +1153,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 725, prot: 28, hc: 99, grasa: 24 },
   etiquetas: ["cocinas del mundo", "caribeña", "puertorriqueña", "una sola olla", "batch cooking", "ideal para llevar", "sin lácteos", "de fiesta", "poco especiada"],
   consejo: "El sofrito triturado (cebolla, pimiento, ajo y cilantro) se congela en cubiteras: un cubo basta para dar sabor a un arroz, unas alubias o un guiso. Los gandules (guandú) son una legumbre caribeña; los encontrarás en tiendas latinas y se pueden sustituir por alubias pintas o garbanzos.",
+  alternativa: "Si no encuentras pasta de achiote, el color y el sabor salen con 1 cdta de pimentón dulce y una pizca de cúrcuma en el sofrito.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -1192,6 +1198,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 17, hc: 67, grasa: 29 },
   etiquetas: ["cocinas del mundo", "mexicana", "una sola sartén", "económica", "picante", "rápida", "adaptable a vegetariana"],
   consejo: "Tostar la pasta seca en grasa antes de añadir el líquido (como en la fideuá o el arroz pilaf) le da sabor a frutos secos y la hace más firme. El chipotle en adobo sobrante se congela en porciones dentro de una bolsa plana.",
+  alternativa: "Si no encuentras chipotle en adobo, tritura el tomate con 1 cdta de pimentón ahumado picante y 1 cdta de tomate concentrado; la nata agria se cambia por yogur griego.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

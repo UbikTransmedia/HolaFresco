@@ -48,6 +48,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 43, hc: 77, grasa: 21 },
   etiquetas: ["cocinas del mundo", "peruana", "marisco", "una sola olla", "para invitados", "alta en proteína"],
   consejo: "Sacar el marisco tras marcarlo y devolverlo al final evita que se pase: es la misma técnica que en una paella de gambas o un salteado. El parmesano al final no es un capricho: los peruanos lo usan para dar cremosidad y sabor salino, como el mantecado de un risotto.",
+  alternativa: "Si no encuentras pasta de ají amarillo, tritura un pimiento amarillo (crudo o asado) con media guindilla fresca y 1/2 cdta de cúrcuma: sustituye las 2 cda.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"
@@ -311,6 +312,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 16, hc: 87, grasa: 22 },
   etiquetas: ["cocinas del mundo", "caribeña", "jamaicana", "vegano", "sin gluten", "sin lácteos", "económica", "una sola olla", "ideal para llevar", "sin verduras"],
   consejo: "Cocer el arroz en leche de coco diluida (no pura, que se pega y se quema) es la base de muchos arroces caribeños y del sudeste asiático. El truco del chile entero sirve en cualquier guiso: aroma sin exceso de picor, y lo retiras al final.",
+  alternativa: "Sin pimienta de Jamaica, mezcla una pizca de clavo molido, otra de canela y 1/4 cdta de pimienta negra; el habanero se puede cambiar por una guindilla fresca entera.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -359,6 +361,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 28, hc: 66, grasa: 27 },
   etiquetas: ["cocinas del mundo", "indonesia", "vegano", "alta en proteína", "sin lácteos", "picante", "ideal para llevar"],
   consejo: "Si no encuentras kecap manis, mezcla 2 partes de salsa de soja con 1 de azúcar moreno y redúcelo: te sirve para cualquier salteado indonesio. El tempe orek aguanta 4 días en la nevera y se come también frío, como guarnición o en bocadillo.",
+  alternativa: "Si no tienes tamarindo, sustitúyelo por 1 cdta de zumo de lima: el glaseado conserva su punto ácido.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -449,6 +452,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 33, hc: 60, grasa: 26 },
   etiquetas: ["cocinas del mundo", "coreana", "vegano", "alta en proteína", "sin lácteos", "picante", "ideal para llevar", "económica"],
   consejo: "Prensar el tofu firme antes de cocinarlo cambia por completo el resultado: menos agua significa mejor dorado y más sabor. El 'jorim' (brasear en una salsa salada-dulce hasta reducirla) se aplica igual a patatas, berenjena o caballa.",
+  alternativa: "Si no encuentras gochujang, usa 1/2 cdta más de pimentón picante y otra 1/2 cdta de azúcar en la salsa; queda casi igual.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -715,6 +719,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 37, hc: 61, grasa: 43 },
   etiquetas: ["cocinas del mundo", "fusión coreano-mexicana", "picante", "sin lácteos", "para compartir", "street food"],
   consejo: "Congelar la carne 15 minutos es el truco para cortarla en láminas finas de salteado o carpaccio. El kimchi salteado es un condimento fantástico para un arroz frito, una tortilla o un bocadillo.",
+  alternativa: "Sin gochujang, prepara un sustituto con 1 cda de tomate concentrado, 1 cdta de pimentón picante y 1 cdta de miel: picante, dulce y pegajoso como el original.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -808,6 +813,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 42, hc: 98, grasa: 23 },
   etiquetas: ["cocinas del mundo", "fusión coreano-americana", "picante", "sin lácteos", "batch cooking", "ideal para llevar", "invierno", "alta en proteína"],
   consejo: "Las pastas fermentadas (gochujang, miso, doubanjiang) se tuestan un minuto en la grasa antes del líquido para intensificar su sabor, igual que el tomate concentrado. El chili está mejor al día siguiente y se congela perfectamente.",
+  alternativa: "Cambia las 2 cda de gochujang por 1 cda de tomate concentrado, 2 cdta de pimentón picante y 1 cdta de azúcar moreno, tostados un minuto en el aceite.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -857,6 +863,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 33, hc: 59, grasa: 38 },
   etiquetas: ["cocinas del mundo", "fusión indo-italiana", "vegetariana", "al horno", "para niños", "rápida", "cena de viernes"],
   consejo: "Precalentar la bandeja (o una piedra) en el horno es el secreto para bases crujientes en cualquier pizza o pan plano casero. La marinada de yogur y especias tikka funciona igual con pollo, coliflor o tofu.",
+  alternativa: "Si no encuentras paneer, el halloumi en dados funciona igual en la marinada y en el horno; no añadas sal porque ya es salado.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -996,6 +1003,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 18, hc: 74, grasa: 21 },
   etiquetas: ["cocinas del mundo", "fusión japonés-italiana", "wafu", "vegetariana", "rápida", "una sola sartén", "poco especiada"],
   consejo: "La combinación de mantequilla y salsa de soja es un clásico japonés que sirve para setas, maíz, pescado o arroz. Terminar la pasta en la sartén con agua de cocción es la técnica italiana para salsas que se pegan: el almidón del agua emulsiona la grasa.",
+  alternativa: "Si no tienes mirin, usa 1 cda de vino blanco con 1/2 cdta de azúcar; las shiitake se pueden cambiar por champiñón portobello.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -1140,6 +1148,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 50, hc: 69, grasa: 25 },
   etiquetas: ["cocinas del mundo", "fusión mexicano-japonesa", "olla exprés", "picante", "sin lácteos", "invierno", "para invitados", "de domingo", "sin verduras"],
   consejo: "Los chiles secos mexicanos (guajillo, ancho, pasilla) se tuestan unos segundos y se hidratan antes de triturarlos: así sueltan todo el aroma sin amargor. La carrillada en olla exprés queda melosa en 40 minutos; en cazuela tradicional necesitaría 2 horas y media.",
+  alternativa: "Sin chiles guajillo, usa 1 cda de pimentón dulce y 1 cdta de pimentón picante en el consomé (sin tostar ni hidratar): el color y el sabor quedan muy cerca.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"

@@ -492,6 +492,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 596, prot: 41, hc: 63, grasa: 20 },
   etiquetas: ["trucha", "pescado poco habitual", "rápida", "sin lácteos", "tupper", "picante", "bajo en colesterol"],
   consejo: "Presionar el filete con la espátula nada más ponerlo en la sartén evita que la piel se encoja y el pescado se arquee; así se dora de forma uniforme. La salsa chorrillana sirve igual para merluza, pollo o un bistec. En el tupper, lleva la salsa aparte.",
+  alternativa: "Sin pasta de ají amarillo, tritura medio pimiento amarillo asado (de bote o al microondas) con media guindilla fresca y una pizca de cúrcuma: el color y el picor afrutado quedan muy parecidos.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -535,6 +536,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 36, hc: 60, grasa: 14 },
   etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "omega 3", "tupper", "sin lácteos", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La tapa de papel apoyada sobre el guiso (otoshibuta en Japón) sirve para cualquier cocción en poco líquido: verduras glaseadas, pescados o carnes que no conviene mover. Las sardinas así guisadas aguantan 3 días en la nevera y están muy buenas frías.",
+  alternativa: "¿No tienes mirin? Cambia las 2 cda por 2 cda de vino blanco y sube el azúcar a 2 cdta; el glaseado queda igual de brillante.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -670,6 +672,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 442, prot: 34, hc: 36, grasa: 18 },
   etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "al horno", "crujiente", "ligera", "para niños", "omega 3", "poco especiada", "bajo en colesterol"],
   consejo: "Tostar el pan rallado o el panko antes de hornear es el secreto de los empanados al horno que parecen fritos: sirve para pechugas, merluza o verduras. La ensalada de col aguanta 2 días aliñada en la nevera y está aún mejor al día siguiente.",
+  alternativa: "Si no encuentras panko, usa pan rallado grueso o miga de pan duro desmenuzada y tostada antes igual que el panko; la costra cruje casi lo mismo.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -933,6 +936,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 563, prot: 36, hc: 80, grasa: 11 },
   etiquetas: ["pulpo", "pescado poco habitual", "salteado", "wok", "picante", "rápida", "sin lácteos"],
   consejo: "El pulpo cocido envasado es un gran atajo: solo necesita un golpe de calor fuerte para tostarse. Si lo tienes demasiado tiempo en el fuego, se endurece. La salsa de gochujang, soja y azúcar sirve para saltear tofu, pollo o cerdo.",
+  alternativa: "Si no encuentras gochujang, mezcla 1 cda de tomate concentrado, 1 cdta de pimentón picante, 1 cdta de miel y 1 cdta más de soja; tiene el mismo picor dulzón.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -1020,6 +1024,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 732, prot: 41, hc: 88, grasa: 24 },
   etiquetas: ["jurel", "pescado azul", "pescado poco habitual", "frito", "aprende a filetear", "sin gluten", "sin lácteos", "omega 3"],
   consejo: "Sacar lomos de un pescado redondo (jurel, caballa, sardina grande, dorada) siempre sigue la misma lógica: cuchillo pegado a la espina, cortes largos y sin serrar. La maicena es el rebozado más crujiente para cualquier fritura asiática, y además es sin gluten.",
+  alternativa: "Sin pasta de tamarindo, prepara la salsa con 2 cda de zumo de lima y 1/2 cda más de azúcar moreno: conserva el equilibrio agridulce.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -1113,6 +1118,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 727, prot: 33, hc: 79, grasa: 31 },
   etiquetas: ["berberechos", "marisco", "pescado poco habitual", "arroz", "aprende a limpiar", "primavera", "para invitados", "sin lácteos", "poco especiada"],
   consejo: "Purgar en agua con sal funciona para berberechos, almejas y navajas; las tellinas y las chirlas también lo agradecen. El marisco de concha se añade siempre al final, ya abierto: si lo cueces con el arroz, la carne se encoge y se seca.",
+  alternativa: "Si no hay berberechos frescos, usa la misma cantidad de almejas o chirlas, purgadas igual; el caldo y el resultado son casi idénticos.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"

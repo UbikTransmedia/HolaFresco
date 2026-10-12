@@ -188,6 +188,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 547, prot: 22, hc: 63, grasa: 23 },
   etiquetas: ["primavera", "tupper", "una sola olla", "granos poco usados", "espelta", "cocina didáctica", "poco especiada"],
   consejo: "Mantecar —apagar el fuego y batir con grasa fría y queso— funciona con cualquier grano que suelte almidón: arroz, espelta, cebada perlada o pasta corta cocida en poco caldo. El farrotto se recalienta mucho mejor que un risotto: añade un chorrito de caldo y calienta removiendo.",
+  alternativa: "Si no encuentras pecorino, usa la misma cantidad de parmesano o grana padano; queda un pelín menos salado, así que prueba antes de servir.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -411,6 +412,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 36, hc: 45, grasa: 14 },
   etiquetas: ["sin gluten", "ensalada completa", "tupper", "ideal para llevar", "verano", "económica", "alta en proteína", "granos poco usados", "alubia carilla", "superalimentos", "poco especiada"],
   consejo: "Aliña siempre las legumbres y los granos cuando aún están templados: el almidón caliente absorbe la vinagreta y el sabor llega hasta dentro. Esta ensalada aguanta 3 días en la nevera; si la preparas para tupper, añade el atún y el perejil el mismo día que vayas a comerla.",
+  alternativa: "Si no tienes tiempo de cocer las carillas, usa 300 g de alubias carilla cocidas de bote, enjuagadas: la ensalada está lista en 15 minutos.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -452,6 +454,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 398, prot: 24, hc: 17, grasa: 26 },
   etiquetas: ["sin gluten", "ligera", "primavera", "ideal para llevar", "económica", "granos poco usados", "habas", "cocina didáctica", "poco especiada"],
   consejo: "Blanquear y pelar las habas (y también el edamame o los guisantes grandes) es el gesto que separa unas habas correosas de unas tiernas y dulces. Las congeladas de calidad funcionan igual que las frescas. La tortilla aguanta 2 días en la nevera: tómala a temperatura ambiente, porque recalentada en el microondas se seca.",
+  alternativa: "Si no es temporada de ajos tiernos, usa 1 cebolleta tierna y 2 dientes de ajo en láminas finas, pochados a fuego suave.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -496,6 +499,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 35, hc: 52, grasa: 24 },
   etiquetas: ["vegana", "sin gluten", "alta en proteína", "tupper", "otoño", "granos poco usados", "lentejas beluga", "cocina didáctica", "poco especiada", "bajo en colesterol"],
   consejo: "Las lentejas pequeñas y oscuras (beluga, verdes du Puy, pardinas) son las que mejor mantienen la forma: úsalas en ensaladas y platos templados, y deja las rojas y las rubias grandes para cremas y guisos. Cuécelas siempre a hervor suave, nunca a borbotones.",
+  alternativa: "Si no encuentras tofu ahumado, usa tofu firme prensado y dóralo con 1/2 cdta de pimentón ahumado: recupera ese toque de humo.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -591,6 +595,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 696, prot: 48, hc: 63, grasa: 28 },
   etiquetas: ["sin gluten", "de cuchara", "invierno", "tupper", "batch cooking", "alta en proteína", "granos poco usados", "garbanzo negro", "poco especiada"],
   consejo: "El calamar tiene dos puntos tiernos: salteado 2 minutos a fuego vivo o guisado más de 20; entre medias se pone duro. Y para cualquier garbanzo, al agua siempre hirviendo y sin cortar la cocción con agua fría: el choque térmico endurece la piel y la separa del grano.",
+  alternativa: "Si no encuentras ñora, usa 1 cda de carne de pimiento choricero (de tarro): aporta el mismo sabor dulce y tostado.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -773,6 +778,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 846, prot: 38, hc: 61, grasa: 50 },
   etiquetas: ["invierno", "tupper", "económica", "granos poco usados", "farro", "cocina didáctica"],
   consejo: "Guardar un poco del agua de cocción de la pasta o del grano es el secreto de los salteados italianos: su almidón emulsiona la grasa y hace que la salsa se adhiera. El pan rallado tostado es el parmesano de los pobres: añade crujiente a cualquier pasta o verdura.",
+  alternativa: "Si no hay grelos, usa la misma cantidad de brócoli o bimi (o hojas de nabo); y el pecorino se puede cambiar por parmesano.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -818,6 +824,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 612, prot: 11, hc: 61, grasa: 36 },
   etiquetas: ["vegana", "sin gluten", "al horno", "para compartir", "granos poco usados", "polenta", "cocina didáctica", "poco especiada"],
   consejo: "Cuanto más fría y firme esté la polenta, más crujiente queda: si la preparas la víspera, mejor. El mismo método sirve en airfryer (200 °C, 15-18 minutos). El romesco aguanta una semana en la nevera y acompaña verduras a la brasa, pescado o pollo.",
+  alternativa: "Sin ñoras, cambia cada una por 1 cdta de carne de pimiento choricero de tarro; el romesco mantiene su sabor.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -1002,6 +1009,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 718, prot: 24, hc: 106, grasa: 22 },
   etiquetas: ["vegana", "sin gluten", "de cuchara", "tupper", "batch cooking", "económica", "granos poco usados", "alubia carilla", "bajo en colesterol"],
   consejo: "El momento en que el aceite se separa del sofrito es el punto de cualquier curry: indica que el tomate y la cebolla han perdido el agua y las especias se han cocinado. Las especias enteras van al principio, en el aceite caliente; las mezclas aromáticas molidas como el garam masala, al final, para que no pierdan perfume.",
+  alternativa: "En vez de alubias carilla secas, puedes usar 375 g de carillas cocidas de bote, escurridas: añádelas a la salsa y guisa solo 10 minutos.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
