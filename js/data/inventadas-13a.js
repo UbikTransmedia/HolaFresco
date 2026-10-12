@@ -129,6 +129,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 544, prot: 28, hc: 72, grasa: 16 },
   etiquetas: ["rápida", "de cuchara", "vegetariana", "invierno", "poco especiada"],
   consejo: "Si no encuentras mirin, sustitúyelo por la misma cantidad de vino blanco con media cucharadita extra de azúcar.",
+  alternativa: "Si te falta la wakame, desmenuza media hoja de alga nori sobre el bol justo al servir; el toque marino es casi el mismo, aunque la nori se ablanda enseguida.",
   contundencia: "media",
   coste: "media"
 });
@@ -175,6 +176,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 434, prot: 36, hc: 32, grasa: 18 },
   etiquetas: ["de cuchara", "picante", "ligera", "batch cooking", "invierno"],
   consejo: "El caldo sin aguacate ni queso se conserva 4 días en la nevera y mejora de un día para otro.",
+  alternativa: "Si no encuentras chipotle en adobo, añade al tomate 1 cdta de pimentón ahumado picante y 1 cdta de vinagre de vino al triturar; el caldo mantiene su picor ahumado.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -492,6 +494,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 694, prot: 42, hc: 64, grasa: 30 },
   etiquetas: ["de cuchara", "invierno", "para invitados", "batch cooking"],
   consejo: "Si tu cordero tiene hueso, déjalo: aporta gelatina y cuerpo al caldo. Retíralo antes de servir.",
+  alternativa: "En olla exprés, cuece el cordero con las especias y el agua 35 minutos a presión en lugar de la hora y media larga de cazuela; luego sigue con las lentejas sin tapa.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -587,6 +590,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 698, prot: 52, hc: 82, grasa: 18 },
   etiquetas: ["picante", "alta en proteína", "invierno", "para invitados"],
   consejo: "El sabor ahumado típico se consigue saltando las verduras a fuego máximo hasta que se chamusquen un poco: no tengas miedo al color.",
+  alternativa: "Sin gochujang, usa 1 cdta de sriracha y 1 cdta de miso (o de pasta de pimiento choricero) junto con el pimentón picante: el caldo queda igual de rojo y potente.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -680,6 +684,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 686, prot: 46, hc: 58, grasa: 30 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "Si tienes poco tiempo, usa alubias pintas cocidas de bote (400 g) y añádelas con las verduras en el paso 4.",
+  alternativa: "Si no hay chirivía, ponle un nabo pequeño o una zanahoria más con un trozo extra de apio; aporta un dulzor terroso muy parecido.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -728,6 +733,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 514, prot: 36, hc: 52, grasa: 18 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "poco especiada"],
   consejo: "Como todos los guisos, el borsch está mejor al día siguiente; se congela muy bien sin el yogur.",
+  alternativa: "Con olla exprés, cuece la ternera con el agua 30 minutos a presión, abre, añade remolacha, patata y col y termina 15 minutos sin presión; ahorras más de una hora.",
   contundencia: "media",
   coste: "media"
 });
@@ -909,6 +915,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 734, prot: 46, hc: 70, grasa: 30 },
   etiquetas: ["de cuchara", "para invitados", "batch cooking", "invierno"],
   consejo: "El maíz pozolero (cacahuazintle) se vende cocido en bote en tiendas latinas. Si no lo encuentras, usa garbanzos cocidos: cambia el plato, pero funciona.",
+  alternativa: "Si no tienes chile guajillo, tritura el adobo con 1 cda de pimentón dulce, 1 cdta de pimentón de la Vera picante y 1 cda de carne de pimiento choricero; el color y el sabor tostado se parecen mucho.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -995,6 +1002,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 330, prot: 38, hc: 22, grasa: 10 },
   etiquetas: ["ligera", "alta en proteína", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las albóndigas crudas se congelan muy bien en bandeja: tenlas listas y la cena sale en 15 minutos.",
+  alternativa: "Si no encuentras pak choi, usa un par de hojas de col china o acelga tierna en tiras; y las shiitake frescas pueden ser champiñones marrones laminados (100 g).",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -1080,6 +1088,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 574, prot: 34, hc: 60, grasa: 22 },
   etiquetas: ["rápida", "de cuchara", "picante", "económica", "aprovechamiento", "sin verduras"],
   consejo: "Es el desayuno callejero de Túnez: cuanto más duro sea el pan, mejor absorbe el caldo sin deshacerse.",
+  alternativa: "Si no tienes harissa, mezcla 1 cdta de pimentón picante, ½ cdta de pimentón dulce, una pizca de comino y 1 cda de aceite; casi igual de intensa y roja.",
   contundencia: "media",
   coste: "económica"
 });

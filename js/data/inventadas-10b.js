@@ -182,6 +182,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 13, hc: 41, grasa: 23 },
   etiquetas: ["de cuchara", "al horno", "ligera", "vegetariana", "otoño", "sin gluten", "poco especiada"],
   consejo: "También está buena fría en verano. Usa guantes o un tenedor para manejar la remolacha cruda si no quieres manos moradas.",
+  alternativa: "Si solo encuentras remolacha cocida envasada, usa los mismos 500 g y ahórrate casi todo el horno: asa solo la manzana, la cebolla y los ajos 20 minutos y tritura junto con la remolacha.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -273,6 +274,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 42, hc: 65, grasa: 21 },
   etiquetas: ["de cuchara", "picante", "ahumada", "alta en proteína", "sin gluten", "otoño"],
   consejo: "Con tortillas de maíz tostadas en tiras encima se convierte casi en una sopa de tortilla. El chipotle pica: empieza con una cucharadita y añade al final.",
+  alternativa: "¿Sin chipotle en adobo? Mezcla 1 cdta de pimentón ahumado picante con 1 cdta de tomate concentrado y unas gotas de vinagre; marina el pollo con eso y conserva el toque ahumado.",
   contundencia: "media",
   coste: "económica"
 });
@@ -368,6 +370,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 350, prot: 35, hc: 44, grasa: 4 },
   etiquetas: ["de cuchara", "rápida", "picante", "ligera", "sin gluten", "alta en proteína"],
   consejo: "Si tienes pasta de chile tailandesa (nam prik pao), una cucharada en lugar del curry rojo es la versión auténtica. Con pollo en tiras sale un tom yum gai igual de bueno.",
+  alternativa: "Cuando no haya hierba limón, pon en el caldo la piel de media lima y media de limón en tiras grandes, sin parte blanca, y sácalas antes de añadir los fideos.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -544,6 +547,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 42, hc: 47, grasa: 29 },
   etiquetas: ["de cuchara", "picante", "ahumada", "sin gluten", "alta en proteína", "para compartir"],
   consejo: "Pon los toppings en cuencos en la mesa para que cada uno monte su bol: así las tortillas no se ablandan antes de tiempo.",
+  alternativa: "Si no encuentras chipotle, sustituye la cucharada por 1 cdta de pimentón ahumado picante, ½ cdta de dulce y un chorrito de vinagre de vino en la batidora con el tomate; el caldo sale igual de ahumado y algo menos picante.",
   contundencia: "media",
   coste: "media"
 });
@@ -729,6 +733,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 29, hc: 78, grasa: 21 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "vegetariana", "económica", "integral", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Espesa mucho al enfriarse (en Toscana la recalientan al día siguiente y la llaman ribollita); añade caldo o agua y vuelve a hervir.",
+  alternativa: "Si no encuentras espelta en grano ni farro, usa cebada perlada (los mismos 100 g y el mismo tiempo de cocción): la textura es prácticamente igual de melosa.",
   contundencia: "media",
   coste: "económica"
 });
@@ -777,6 +782,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 31, hc: 60, grasa: 9 },
   etiquetas: ["de cuchara", "rápida", "ligera", "sin gluten", "fresca", "alta en proteína", "bajo en colesterol"],
   consejo: "Funciona igual con pollo o cerdo picados. Si quieres más cuerpo, añade un huevo batido en hilo al caldo hirviendo en el último minuto.",
+  alternativa: "En lugar de hierba limón fresca puedes usar una tira gruesa de piel de lima más ½ cdta de ralladura de limón, añadidas al caldo al empezar a hervir; retira la piel antes de servir.",
   contundencia: "ligera",
   coste: "económica"
 });

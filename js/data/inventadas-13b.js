@@ -268,6 +268,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 24, hc: 78, grasa: 18 },
   etiquetas: ["rápida", "económica", "picante", "vegetariana", "superalimentos", "bajo en colesterol"],
   consejo: "El relleno sobrante se congela perfecto y sirve también para burritos o para una ensalada de taco.",
+  alternativa: "¿Te falta el chipotle? Saltea las lentejas con 1 cdta de pimentón ahumado picante y ½ cdta de dulce, y un chorrito de vinagre de manzana: el relleno conserva el humo y el picor.",
   contundencia: "media",
   coste: "económica"
 });
@@ -367,6 +368,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 426, prot: 22, hc: 44, grasa: 18 },
   etiquetas: ["al horno", "ligera", "vegana", "primavera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si la masa queda demasiado blanda para formar bolas, añade una cucharada más de harina de garbanzo en lugar de pan rallado.",
+  alternativa: "Sin zumaque, termina la ensalada con ralladura de limón y una pizca de pimentón dulce: da la misma nota ácida sin añadir líquido.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -680,6 +682,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 556, prot: 32, hc: 62, grasa: 20 },
   etiquetas: ["al horno", "batch cooking", "vegetariana", "ideal para llevar", "poco especiada"],
   consejo: "Puedes dejar la fuente montada hasta el paso 5 y gratinarla justo antes de comer.",
+  alternativa: "Para ir más rápido, usa 350 g de lentejas pardinas cocidas de bote enjuagadas y salta directamente al guiso con el tomate; bastan 10 minutos de cocción antes de hornear.",
   contundencia: "media",
   coste: "media"
 });
@@ -1046,6 +1049,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 726, prot: 32, hc: 100, grasa: 22 },
   etiquetas: ["al horno", "económica", "batch cooking", "invierno", "para niños", "poco especiada"],
   consejo: "Son aún mejores recalentadas al día siguiente; en el desayuno inglés las encontrarás junto a un huevo frito.",
+  alternativa: "Si no remojaste las alubias, usa 450 g de alubias blancas cocidas de bote enjuagadas, sáltate el hervido y hornea la cazuela tapada solo 1 hora con 250 ml de agua.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1090,6 +1094,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 452, prot: 40, hc: 46, grasa: 12 },
   etiquetas: ["alta en proteína", "ligera", "para invitados", "verano", "poco especiada"],
   consejo: "Para ganar tiempo, usa 400 g de pulpo cocido envasado y empieza en el paso 2: el plato queda listo en 30 minutos.",
+  alternativa: "Si no encuentras lentejas beluga, usa pardinas (los mismos 120 g, unos 5 minutos más de cocción): quedan enteras y con buena textura para ensalada.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -1137,6 +1142,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 766, prot: 44, hc: 80, grasa: 30 },
   etiquetas: ["de cuchara", "invierno", "para invitados", "batch cooking", "poco especiada"],
   consejo: "El secreto es freír bien las hierbas: si te quedas corto, el guiso sabrá a ensalada cocida; cuando estén casi negras y aromáticas, están en su punto.",
+  alternativa: "Si no encuentras hojas de fenogreco, pon ½ cdta de curry en polvo (que lo lleva) y las hojas picadas de una rama de apio al freír las hierbas; recuerda bastante a su aroma amargo y meloso.",
   contundencia: "contundente",
   coste: "premium"
 });

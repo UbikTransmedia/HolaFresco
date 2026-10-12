@@ -130,6 +130,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 22, hc: 28, grasa: 28 },
   etiquetas: ["rápida", "verano", "ligera", "sin horno", "poco especiada"],
   consejo: "El halloumi se endurece al enfriarse, así que hazlo en el último momento y sírvelo recién salido de la sartén sobre la ensalada bien fría: el contraste es la gracia del plato.",
+  alternativa: "Si no encuentras halloumi, usa queso para plancha o freír (el de bloque firme que venden junto a los quesos frescos), los mismos 200 g; y sin zumaque, ralladura de lima con una pizca de pimentón dulce.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -303,6 +304,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 30, hc: 52, grasa: 40 },
   etiquetas: ["rápida", "una sola sartén", "picante", "comfort food"],
   consejo: "Fuego medio-bajo y paciencia: si la sartén está demasiado caliente el pan se quema antes de que el queso se funda. Un kimchi bien fermentado, algo ácido, es el que mejor contrasta con el queso.",
+  alternativa: "Si te falta el gochujang, mezcla en la mayonesa ½ cdta de sriracha y ½ cdta de miso: picor y fondo fermentado casi idénticos.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -435,6 +437,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 26, hc: 76, grasa: 22 },
   etiquetas: ["primavera", "una sola cazuela", "para niños", "poco especiada"],
   consejo: "El orzo suelta almidón como el arroz: remueve a menudo y no lo dejes reposar, que se apelmaza. Si sobra, se convierte en una ensalada tibia estupenda con unos tomates cherry.",
+  alternativa: "Si no encuentras orzo, usa pasta tipo piñón o «perla» (los mismos 160 g); se cocina igual con el caldo, en el mismo tiempo, y suelta el mismo almidón.",
   contundencia: "media",
   coste: "media"
 });
@@ -569,6 +572,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 20, hc: 70, grasa: 12 },
   etiquetas: ["ligera", "económica", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "La clave es el fuego medio-bajo: el huevo no debe tomar color, solo cuajar. Si no te sale un rollo perfecto, presiónalo caliente dentro del papel y tomará forma al reposar.",
+  alternativa: "Si no tienes arroz para sushi, vale arroz redondo de toda la vida (mismos 150 g y misma cantidad de agua); y en lugar de wakame puedes echar al miso una hoja de nori en tiras justo al servir.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -796,6 +800,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 32, hc: 82, grasa: 36 },
   etiquetas: ["invierno", "comfort food", "al horno", "para niños", "poco especiada"],
   consejo: "Si no tienes rallador, extiende un poco de masa sobre una tabla húmeda y corta tiras finas con un cuchillo directamente al agua, como se hace en Suabia.",
+  alternativa: "El gruyère puede cambiarse por emmental (100 g) con un puñado de parmesano rallado para darle el punto curado; funde igual de bien en el gratinado.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -885,6 +890,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 26, hc: 30, grasa: 42 },
   etiquetas: ["al horno", "para invitados", "técnica", "poco especiada"],
   consejo: "El soufflé no espera a nadie: siéntate a la mesa antes de sacarlo. Puedes dejar la base de bechamel con las yemas hecha con antelación; las claras, siempre al momento.",
+  alternativa: "Sin gruyère, usa 70 g de emmental rallado fino y sube el parmesano de la mezcla a 35 g: el soufflé sube igual y conserva un sabor intenso.",
   contundencia: "media",
   coste: "premium"
 });
@@ -937,6 +943,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 820, prot: 30, hc: 78, grasa: 44 },
   etiquetas: ["al horno", "para invitados", "invierno", "comfort food"],
   consejo: "Horneadas en lugar de fritas quedan más ligeras y no se rompen. La salsa se congela muy bien: haz el doble y tendrás base para un curry de verduras otro día.",
+  alternativa: "Si no encuentras paneer, usa queso fresco de Burgos bien escurrido y prensado en un paño 15 minutos (mismo peso) y añade 1 cda más de maicena a la masa para que las koftas no se abran.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -1037,6 +1044,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 22, hc: 84, grasa: 20 },
   etiquetas: ["para invitados", "fin de semana", "para niños", "poco especiada"],
   consejo: "Los baos cocidos se congelan perfectamente: regenéralos 5 minutos al vapor directamente congelados y quedan como recién hechos.",
+  alternativa: "Si no hay shiitake frescas, glasea champiñones portobello en láminas gruesas (los mismos 200 g); sueltan algo más de agua, así que dales 2 minutos más antes de añadir el hoisin.",
   contundencia: "media",
   coste: "media"
 });

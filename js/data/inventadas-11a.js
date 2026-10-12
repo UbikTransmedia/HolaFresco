@@ -176,6 +176,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 370, prot: 33, hc: 20, grasa: 17 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "picante", "una sola sartén"],
   consejo: "Para la versión más fiel, sustituye la mitad de la pimienta negra por pimienta de Sichuan tostada y molida.",
+  alternativa: "Si no encuentras pak choi, saltea en su lugar 300 g de col china en trozos grandes o de acelgas tiernas; añade primero los tallos y 1 minuto después las hojas.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -221,6 +222,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 380, prot: 34, hc: 32, grasa: 12 },
   etiquetas: ["rápida", "ligera", "picante", "económica", "alta en proteína"],
   consejo: "El calamar congelado funciona igual de bien: descongélalo en la nevera la víspera y sécalo a conciencia antes de saltear.",
+  alternativa: "Sin gochujang, mezcla 1 cda de sriracha con 1 cda de miso y ½ cdta más de azúcar: queda igual de picante y untuoso, con un fondo fermentado muy parecido.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -348,6 +350,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 37, hc: 50, grasa: 27 },
   etiquetas: ["al horno", "sin ensuciar", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Si los lomos son muy gruesos (más de 3 cm), alarga el horneado 3 minutos.",
+  alternativa: "Si no hay shiitake frescas, usa champiñones portobello o marrones laminados (los mismos 100 g); dentro del papillote se jugan casi igual.",
   contundencia: "media",
   coste: "premium"
 });
@@ -443,6 +446,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 29, hc: 43, grasa: 32 },
   etiquetas: ["para niños", "económica", "batch cooking", "poco especiada"],
   consejo: "Puedes congelar los pastelitos crudos y empanados, separados con papel; fríelos sin descongelar a fuego más suave, 5 minutos por lado.",
+  alternativa: "Si no tienes panko, empana con pan rallado grueso o con miga de pan del día anterior desmenuzada a mano (40 g); el rebozado sale un poco menos aireado pero igual de crujiente.",
   contundencia: "media",
   coste: "económica"
 });
@@ -486,6 +490,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 390, prot: 30, hc: 42, grasa: 11 },
   etiquetas: ["ligera", "sin horno", "verano", "para invitados", "bajo en colesterol"],
   consejo: "Para crudos, congela el pescado al menos 5 días a -20 °C (o cómpralo ya ultracongelado) para eliminar el riesgo de anisakis.",
+  alternativa: "Si no encuentras pasta de ají amarillo, tritura medio pimiento amarillo asado (o de bote) con una pizca de cayena y otra de cúrcuma; da el mismo color y un picor suave y afrutado.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -890,6 +895,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 42, hc: 66, grasa: 20 },
   etiquetas: ["al horno", "para niños", "versión ligera", "poco especiada"],
   consejo: "Para que el panko se dore bien en el horno sin freír, mézclalo con el aceite antes de empanar: es el secreto del crujiente.",
+  alternativa: "Sin panko, usa pan rallado de miga gruesa (los mismos 40 g) mezclado igual con el aceite; si lo tuestas 2 minutos en sartén antes de empanar, se dora mejor en el horno.",
   contundencia: "media",
   coste: "media"
 });
@@ -1027,6 +1033,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 51, hc: 50, grasa: 23 },
   etiquetas: ["de cuchara", "para invitados", "invierno", "sin gluten", "poco especiada"],
   consejo: "El pulpo congelado es más tierno que el fresco porque la congelación rompe sus fibras: no hace falta asustarlo ni golpearlo.",
+  alternativa: "Si no encuentras cebollitas francesas, usa chalotas peladas enteras (mismo peso); y la pimienta de Jamaica se cambia por un clavo de olor y una pizca más de canela, retirando el clavo al final.",
   contundencia: "media",
   coste: "premium"
 });

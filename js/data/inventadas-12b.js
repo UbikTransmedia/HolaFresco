@@ -207,6 +207,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 19, hc: 56, grasa: 15 },
   etiquetas: ["rápida", "ligera", "una sola sartén", "económica", "poco especiada"],
   consejo: "Si quieres más proteína sin recalentar el plato, añade 2 huevos escalfados encima o un puñado de garbanzos cocidos con las espinacas.",
+  alternativa: "¿No hay orzo? Usa pasta piñón o perla (los mismos 140 g) con el mismo caldo y el mismo tiempo; queda igual de cremosa.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -599,6 +600,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 49, hc: 62, grasa: 19 },
   etiquetas: ["para invitados", "de fin de semana", "alta en proteína", "poco especiada"],
   consejo: "Un buen caldo de pescado casero hecho con las cabezas de los langostinos y una espina de rape marca la diferencia. Acompáñalo de un alioli suave si te gusta.",
+  alternativa: "Para abaratarlo, cambia el rape por rosada o por más calamar (los mismos 150 g); la rosada añádela en los últimos 5 minutos para que no se deshaga.",
   contundencia: "media",
   coste: "premium"
 });
@@ -644,6 +646,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 845, prot: 37, hc: 96, grasa: 34 },
   etiquetas: ["al horno", "para niños", "invierno", "comfort food", "poco especiada"],
   consejo: "Mezcla el cheddar con un poco de gruyer o queso azul para una salsa más compleja. Puedes dejar la fuente montada en la nevera y hornearla al día siguiente, 5 minutos más.",
+  alternativa: "Si no tienes panko, cubre con pan rallado grueso o miga de pan seco desmenuzada (25 g) mezclada con la mantequilla fundida; la costra gratina casi igual.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -781,6 +784,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 800, prot: 43, hc: 77, grasa: 35 },
   etiquetas: ["para invitados", "de fin de semana", "al horno", "sin gluten"],
   consejo: "Para que la maqluba salga entera al volcarla, aprieta bien las capas, usa una cazuela de paredes rectas y no te saltes el reposo: el arroz se asienta y se despega solo.",
+  alternativa: "Si no encuentras pimienta de Jamaica, usa 2 clavos molidos con una pizca más de canela y otra de pimienta negra; perfuma el arroz prácticamente igual.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -1011,6 +1015,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 36, hc: 68, grasa: 41 },
   etiquetas: ["de fin de semana", "invierno", "para invitados", "aprovechamiento", "poco especiada"],
   consejo: "Lo ideal es estofar el rabo la víspera: al enfriar el caldo en la nevera la grasa se solidifica arriba y se retira entera. El arroz se hace al día siguiente en 20 minutos.",
+  alternativa: "Con olla exprés, estofa el rabo 50 minutos a presión en lugar de las 2 horas y media de cazuela; deja que baje la presión sola y sigue con el arroz igual.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -1060,6 +1065,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 885, prot: 41, hc: 84, grasa: 42 },
   etiquetas: ["al horno", "de fin de semana", "batch cooking", "invierno", "poco especiada"],
   consejo: "Con ternera picada sale igual de rico y más económico. Si puedes, usa pasta larga y hueca tipo bucatini, como en Grecia: las capas quedan más definidas.",
+  alternativa: "La pimienta de Jamaica se puede sustituir por un clavo de olor molido y una pizca de nuez moscada en el ragú: el aroma especiado del cordero apenas cambia.",
   contundencia: "contundente",
   coste: "media"
 });

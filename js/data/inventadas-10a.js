@@ -174,6 +174,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 49, hc: 76, grasa: 27 },
   etiquetas: ["de cuchara", "caldo casero", "invierno", "fin de semana", "alta en proteína", "poco especiada"],
   consejo: "El caldo se puede hacer el día antes (o doblar y congelar): al día siguiente retiras la grasa solidificada de la superficie y el ramen se monta en 15 minutos.",
+  alternativa: "Si no encuentras pak choi, usa 3 o 4 hojas de col china o acelga tierna, escaldadas 1 minuto en el caldo; y con olla exprés el caldo sale en 50 minutos a presión en lugar de 3 horas, algo menos turbio pero igual de sabroso.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -226,6 +227,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 57, hc: 75, grasa: 19 },
   etiquetas: ["de cuchara", "caldo casero", "fin de semana", "alta en proteína", "sin gluten"],
   consejo: "El caldo mejora al día siguiente y congela de maravilla; con la mitad del trabajo tienes dos cenas más. Si no encuentras huesos, pide en la carnicería un trozo de morcillo con hueso.",
+  alternativa: "Con olla exprés, cuece los huesos y la falda 1 hora a presión en vez de las 2 horas largas de cazuela; después cuela el caldo por un paño fino para que quede limpio.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -446,6 +448,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 27, hc: 54, grasa: 15 },
   etiquetas: ["rápida", "de cuchara", "vegana", "ligera", "cena ligera", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Cambia los soba por fideos udon o incluso por espaguetis finos; y si tienes huevo, uno cocido 7 minutos partido por la mitad la convierte en cena de domingo.",
+  alternativa: "Si no tienes wakame, corta 1 hoja de alga nori en tiras finas y añádela en el bol al servir; el pak choi lo cambias sin problema por acelga tierna o espinacas (mismo peso), cocidas solo 1 minuto.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -493,6 +496,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 36, hc: 50, grasa: 31 },
   etiquetas: ["de cuchara", "picante", "sin gluten", "invierno", "cremosa"],
   consejo: "Si tienes hojas de lima kaffir, dos hojas rotas en el caldo la llevan a otro nivel. La sopa recalienta bien, pero añade la lima siempre al final.",
+  alternativa: "Sin hierba limón fresca, echa al caldo la piel de 1 limón en tiras anchas (sin la parte blanca) o 1 cdta de hierba limón en pasta de tubo; retira las pieles antes de servir.",
   contundencia: "media",
   coste: "media"
 });
@@ -543,6 +547,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 40, hc: 69, grasa: 33 },
   etiquetas: ["de cuchara", "picante", "sin gluten", "cremosa", "fin de semana"],
   consejo: "Con tofu frito en dados en lugar de langostinos sale una laksa vegetariana estupenda; añade entonces una cucharada de salsa de soja en lugar de la de pescado.",
+  alternativa: "Si no encuentras hierba limón, sustitúyela por la ralladura de media lima y una tira de piel de limón en el sofrito; el aroma cítrico se mantiene casi igual.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -588,6 +593,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 42, hc: 52, grasa: 26 },
   etiquetas: ["de cuchara", "dumplings", "fin de semana", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Haz el doble de wonton y congélalos crudos en una bandeja separados; luego a una bolsa. Se cuecen directamente del congelador, 6 minutos.",
+  alternativa: "Si no hay obleas de wonton, valen obleas de gyoza congeladas (sección asiática) o las de empanadilla más finas, estiradas aún más con el rodillo y cortadas en cuadrados de 8 cm; el pak choi se cambia por col china.",
   contundencia: "media",
   coste: "media"
 });
@@ -687,6 +693,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 56, hc: 63, grasa: 31 },
   etiquetas: ["de cuchara", "fin de semana", "alta en proteína", "marisco", "para invitados"],
   consejo: "El caldo base (hasta el paso 3) puedes hacerlo por la mañana; con el pescado solo son 7 minutos finales y queda recién hecho.",
+  alternativa: "El rape puedes cambiarlo por merluza o rosada en lomos gruesos (los mismos 250 g); añádela 2 minutos más tarde que el rape porque se deshace antes.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -923,6 +930,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 46, hc: 63, grasa: 29 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "cocción lenta", "alta en proteína", "poco especiada"],
   consejo: "Al día siguiente la cebada habrá bebido casi todo el caldo: añade un vaso de agua o caldo al recalentar. Se congela bien en raciones.",
+  alternativa: "Con olla exprés: tras dorar la ternera y el sofrito, añade la cebada, el caldo y el agua y cuece 25 minutos a presión en lugar de la cocción lenta; abre, incorpora las setas y da 5 minutos más sin tapa.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -965,6 +973,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 46, hc: 35, grasa: 22 },
   etiquetas: ["de cuchara", "caldo casero", "invierno", "tradicional", "fin de semana", "batch cooking", "poco especiada"],
   consejo: "Haz el doble de caldo y congela la mitad en tarros: es la base de un arroz caldoso o de cualquier sopa rápida entre semana.",
+  alternativa: "Si tienes olla exprés, el caldo queda hecho en 40 minutos a presión en lugar de 2 horas; espúmalo antes de cerrar la olla y cuélalo igual.",
   contundencia: "media",
   coste: "media"
 });
@@ -1050,6 +1059,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 24, hc: 77, grasa: 33 },
   etiquetas: ["de cuchara", "al horno", "invierno", "gratinada", "cocción lenta", "vegetariana", "poco especiada"],
   consejo: "Puedes caramelizar la cebolla (pasos 1 y 2) el día antes; el resto se monta en media hora. Con caldo de verduras es vegetariana del todo.",
+  alternativa: "Si no encuentras gruyer, gratina con emmental rallado grueso (los mismos 90 g); funde igual de bien y solo pierde un punto de intensidad.",
   contundencia: "contundente",
   coste: "media"
 });

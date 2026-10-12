@@ -179,6 +179,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 18, hc: 57, grasa: 17 },
   etiquetas: ["rápida", "ligera", "ideal para llevar", "sin horno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Para llevar, envuelve cada wrap en papel de horno bien apretado: aguanta horas sin abrirse y se come a mordiscos sin manchar.",
+  alternativa: "Si no tienes zumaque, espolvorea el hummus con ralladura fina de limón y una pizca de pimentón dulce: aporta la misma acidez seca y el toque rojizo.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -354,6 +355,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 845, prot: 41, hc: 96, grasa: 33 },
   etiquetas: ["al horno", "alta en proteína", "para niños", "crujiente", "poco especiada"],
   consejo: "Con este mismo tofu katsu puedes hacer un curry japonés o un sándwich katsu sando entre dos rebanadas de pan de molde con la salsa y col.",
+  alternativa: "Sin panko, reboza con pan rallado grueso (60 g, comprueba que no lleve leche) o con copos de maíz sin azúcar triturados a mano; tuéstalo antes con el aceite para que dore igual en el horno.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -395,6 +397,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 795, prot: 28, hc: 99, grasa: 32 },
   etiquetas: ["económica", "invierno", "picante", "rápida", "superalimentos"],
   consejo: "No temas pasar el brócoli de punto: en esta receta tradicional se deshace a propósito y hace de salsa.",
+  alternativa: "Si no encuentras orecchiette, usa conchiglie o caracolas pequeñas (los mismos 160 g): recogen igual el brócoli deshecho y los garbanzos.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -628,6 +631,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 820, prot: 30, hc: 93, grasa: 36 },
   etiquetas: ["al horno", "batch cooking", "invierno", "para invitados", "poco especiada"],
   consejo: "Al día siguiente está aún mejor y se corta en porciones perfectas. Se congela bien ya horneada, en raciones.",
+  alternativa: "Con prisa, sustituye las lentejas secas por 300 g de lentejas pardinas cocidas de bote bien enjuagadas; añádelas al tomate y deja el ragú solo 10 minutos para que espese.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -869,6 +873,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 21, hc: 84, grasa: 20 },
   etiquetas: ["al horno", "para invitados", "batch cooking", "bajo en colesterol"],
   consejo: "La salsa de guajillo se congela perfectamente: haz el doble y tendrás base para chilaquiles o un guiso de alubias otro día.",
+  alternativa: "Si no hay chile guajillo, licúa la salsa con 1 cda de pimentón dulce, 1 cdta de pimentón ahumado y una pizca de cayena en lugar de los chiles; el color y el fondo tostado quedan muy parecidos.",
   contundencia: "media",
   coste: "media"
 });
@@ -958,6 +963,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 865, prot: 40, hc: 113, grasa: 28 },
   etiquetas: ["de cuchara", "invierno", "tradicional", "batch cooking", "económica", "poco especiada"],
   consejo: "Con los garbanzos y verduras que sobren haz ropa vieja: saltéalos en sartén con ajo, pimentón y un poco de tomate frito.",
+  alternativa: "Con olla exprés, los garbanzos remojados se cuecen con las verduras en 25 minutos a presión en lugar de unas 2 horas; o usa 400 g de garbanzos cocidos de bote, añadidos en los últimos 15 minutos.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1005,6 +1011,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 725, prot: 28, hc: 102, grasa: 23 },
   etiquetas: ["de cuchara", "batch cooking", "invierno", "económica"],
   consejo: "La paciencia es el ingrediente secreto: en los restaurantes se cocina durante horas. Al día siguiente está aún más cremoso; congélalo sin arroz.",
+  alternativa: "Si no encuentras lentejas beluga, usa pardinas secas (los mismos 140 g): se mantienen enteras igual de bien y dan un color algo más claro.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1103,6 +1110,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 19, hc: 55, grasa: 16 },
   etiquetas: ["de cuchara", "ligera", "económica", "batch cooking", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "En Cuba se termina con un chorrito de vino seco o vinagre al final: la acidez despierta el sabor de los frijoles. No te lo saltes.",
+  alternativa: "Sin remojo previo, usa 350 g de alubias negras cocidas de bote enjuagadas y cuécelas solo 20 minutos con el sofrito; en olla exprés, las secas remojadas están en 30 minutos.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -1148,6 +1156,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 17, hc: 65, grasa: 14.5 },
   etiquetas: ["de cuchara", "ligera", "otoño", "tradicional", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "El contraste dulce de la pera y la calabaza con la hierbabuena es lo que hace única esta olla: no sustituyas la pera por manzana, se deshace demasiado.",
+  alternativa: "Si tienes olla exprés, cuece los garbanzos remojados 20 minutos a presión, abre y sigue con la calabaza, las judías y la pera en cazuela destapada; te ahorras más de una hora.",
   contundencia: "ligera",
   coste: "económica"
 });
