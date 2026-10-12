@@ -46,6 +46,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 698, prot: 27, hc: 89, grasa: 26 },
   etiquetas: ["olla lenta", "slow cooker", "sin vigilancia", "de cuchara", "vegetariana", "batch cooking", "tupper", "económica", "invierno", "sin verduras", "poco especiada"],
   consejo: "Los huevos haminados son la gran lección de la olla lenta: cocidos horas a menos de 100 °C dentro del guiso, la clara toma color de café y la yema queda cremosa en vez de gris y harinosa. Puedes enterrar huevos con cáscara en cualquier potaje de cocción larga. Las alubias blancas aguantan bien la olla lenta tras su remojo; las rojas, en cambio, necesitan hervir 10 minutos antes porque sus lectinas solo se destruyen a ebullición franca.",
+  alternativa: "Sin olla lenta, haz el cholent como se hacía antes: en una cazuela de hierro tapada, en el horno a 110 °C durante 9-10 h. Revisa el líquido a media cocción y añade agua caliente si hace falta.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -95,6 +96,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 706, prot: 24, hc: 94, grasa: 26 },
   etiquetas: ["olla lenta", "slow cooker", "sin vigilancia", "de cuchara", "vegana", "otoño", "tupper", "batch cooking", "poco especiada"],
   consejo: "Sala las legumbres secas a mitad o al final de la cocción en olla lenta: el ácido del tomate y la sal al principio pueden endurecer la piel del garbanzo y alargar mucho el tiempo. Esta regla vale para cualquier legumbre seca en cocción lenta.",
+  alternativa: "Sin olla lenta: cuece los garbanzos con el sofrito en cazuela tapada a fuego suave 2 h 30 min (o 25 min en olla exprés) y añade setas y castañas para 15 min más, ya sin tapa.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -142,6 +144,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 746, prot: 26, hc: 111, grasa: 22 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "de cuchara", "tupper", "económica", "alta en fibra", "superalimentos", "bajo en colesterol"],
   consejo: "La tadka (especias fritas en grasa caliente al final) es el truco para cualquier guiso de cocción larga que sepa plano: los aromas volátiles se pierden tras horas de cocción, y añadirlos al final en aceite caliente los devuelve. Pruébala sobre lentejas, cremas de verduras o un hummus.",
+  alternativa: "Si no encuentras judía mungo, usa 140 g de lenteja verde o pardina, sin remojo: tarda lo mismo y el dal sale casi igual de cremoso. Sin olla lenta, cuécelo en cazuela tapada a fuego suave 45-50 min.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -190,6 +193,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 702, prot: 25, hc: 101, grasa: 22 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "de cuchara", "tupper", "económica", "año nuevo", "superalimentos", "bajo en colesterol"],
   consejo: "El pimentón ahumado es el sustituto vegetal del tocino en guisos de legumbre: una cucharadita por persona da ese fondo ahumado. Y el chorrito de vinagre al final es un truco universal: si un guiso largo sabe «pesado», casi siempre le falta acidez, no sal.",
+  alternativa: "Sin olla lenta, guisa las carillas remojadas en cazuela tapada a fuego suave 50-60 min con el resto de ingredientes y echa el kale los últimos 10 min.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -276,6 +280,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 552, prot: 34, hc: 32, grasa: 32 },
   etiquetas: ["olla lenta", "slow cooker", "baja temperatura", "sin gluten", "alta en proteína", "omega 3", "para invitados", "poco especiada"],
   consejo: "La olla lenta en LOW es un baño a baja temperatura casero: el pescado se cocina por igual de fuera a dentro y no suelta esa albúmina blanca que aparece cuando se cuece fuerte. Sirve para cualquier pescado graso (salmón, trucha, bonito). Y la mantequilla compuesta (mantequilla blanda + hierbas + cítrico) se guarda en rulo en el congelador para salsear al momento carnes y verduras.",
+  alternativa: "En horno: cuece las patatas con el caldo en una fuente tapada a 180 °C 40 min, baja a 110 °C, coloca el salmón sobre el limón y hornea tapado 20-25 min más; queda igual de jugoso.",
   contundencia: "media",
   coste: "premium"
 });
@@ -323,6 +328,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 689, prot: 33, hc: 65, grasa: 33 },
   etiquetas: ["olla lenta", "slow cooker", "sin gluten", "sin lactosa", "curry", "tupper"],
   consejo: "En la olla lenta, el pescado siempre entra al final: la base aromática necesita horas, pero la merluza solo 30-40 minutos en LOW. Cualquier guiso con pescado o marisco en olla lenta se organiza así. Si recalientas el moilee, hazlo a fuego suave y sin hervir para que el coco no se corte.",
+  alternativa: "Si no tienes semillas de mostaza, prescinde de ellas y añade ½ cdta de mostaza de Dijon a la leche de coco. Sin olla lenta, cuece la base en cazuela tapada a fuego suave 20 min y escalfa la merluza 8 min sin que llegue a hervir.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -415,6 +421,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 841, prot: 40, hc: 60, grasa: 49 },
   etiquetas: ["olla lenta", "slow cooker", "confitado", "para compartir", "tupper", "técnica", "sin verduras", "poco especiada"],
   consejo: "Para emulsionar cualquier crema con aceite (brandada, alioli, hummus, puré de patata a la francesa), los ingredientes deben estar a temperatura parecida y el aceite entrar poco a poco. La brandada aguanta 3 días en la nevera: gratínala unos minutos en el horno para servirla otra vez.",
+  alternativa: "Sin olla lenta, confita patata y ajos en un cazo con el aceite y el agua, tapado y a fuego mínimo, 30-35 min; añade el bacalao encima y deja 10 min más con el fuego al mínimo.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -506,6 +513,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 755, prot: 38, hc: 81, grasa: 31 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "alta en proteína", "tupper", "batch cooking"],
   consejo: "La olla lenta no reduce las salsas porque apenas evapora: si quieres una salsa espesa y brillante, termina siempre con maicena disuelta en agua fría y 15 minutos en HIGH sin tapa. Y prensar el tofu antes de cocinarlo sirve para cualquier receta: plancha, horno o guiso.",
+  alternativa: "Si no encuentras mirin, pon 2 cda de vino blanco y sube el azúcar moreno a 1 cda y media. Las shiitake frescas pueden ser champiñones portobello en cuartos: algo menos intensos, igual de carnosos.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -597,6 +605,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 592, prot: 21, hc: 82, grasa: 20 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "tupper", "económica", "verano", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Salar la berenjena 20 minutos antes de cocinarla sirve en cualquier receta donde vaya a absorber aceite o soltar agua (frita, a la plancha, en guiso): pierde humedad y amargor y queda más cremosa. El maghmour está aún mejor al día siguiente, frío o templado.",
+  alternativa: "¿Sin pimienta de Jamaica? Usa ¼ cdta de pimienta negra molida con una pizca de clavo y otra de canela: recuerda mucho a su aroma especiado.",
   contundencia: "media",
   coste: "económica"
 });
@@ -648,6 +657,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 642, prot: 25, hc: 77, grasa: 26 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "barbacoa", "tupper", "para compartir", "poco especiada"],
   consejo: "La jaca verde casi no tiene proteína: es la textura, no el alimento. Por eso aquí la acompaña la soja texturizada, que puedes añadir en seco a cualquier guiso de olla lenta o salsa de tomate para convertirla en un plato completo (calcula 30 g por persona y algo más de líquido).",
+  alternativa: "Si no encuentras jaca verde, deshilacha con las manos 400 g de setas de cardo y dóralas 8 min en sartén antes de pasarlas a la olla: dan la misma textura hebrosa y siguen siendo veganas.",
   contundencia: "media",
   coste: "media"
 });
@@ -781,6 +791,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 504, prot: 15, hc: 30, grasa: 36 },
   etiquetas: ["olla lenta", "slow cooker", "vegana", "sin gluten", "sin lactosa", "tupper", "económica", "invierno", "superalimentos", "poco especiada"],
   consejo: "Los frutos secos crudos (almendra, anacardo) triturados con el líquido de cocción son la mejor «nata» vegetal para cualquier crema: aportan cuerpo y suavidad sin lácteos. Y el aceite de pimentón se hace siempre fuera del fuego: el pimentón se quema en segundos y amarga.",
+  alternativa: "Sin olla lenta: cuece todo en cazuela tapada a fuego medio-bajo 30-35 min, hasta que la coliflor se deshaga, y tritura igual de bien para emulsionar la almendra.",
   contundencia: "media",
   coste: "económica"
 });
@@ -826,6 +837,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 499, prot: 15, hc: 58, grasa: 23 },
   etiquetas: ["olla lenta", "slow cooker", "vegetariana", "tupper", "invierno", "de cuchara", "poco especiada"],
   consejo: "La roux (grasa y harina a partes iguales, tostadas un par de minutos) es la base de la bechamel, del gumbo y de muchas sopas: sirve para espesar cualquier líquido. Añádela siempre disuelta en algo de líquido, nunca en seco sobre la sopa, o hará grumos. El arroz salvaje es en realidad la semilla de una hierba acuática y siempre tarda más que el arroz normal.",
+  alternativa: "Si no encuentras arroz salvaje, usa la misma cantidad de arroz integral: es menos crujiente pero da un toque de nuez parecido y aguanta igual la cocción larga.",
   contundencia: "media",
   coste: "media"
 });
@@ -869,6 +881,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 9, hc: 50, grasa: 26 },
   etiquetas: ["olla lenta", "slow cooker", "vegetariana", "sin gluten", "ligera", "otoño", "invierno", "tupper", "detox", "poco especiada"],
   consejo: "Una manzana ácida en una crema de verdura de raíz (apionabo, chirivía, calabaza, zanahoria) equilibra el dulzor y le da un fondo fresco. Tostar los frutos secos en sartén seca antes de usarlos multiplica su sabor y vale para cualquier ensalada, crema o postre.",
+  alternativa: "Si no hay apionabo, usa 400 g de patata más 2 ramas de apio en rodajas (y retira el puré de patata de la lista): la crema conserva su sabor fresco a apio, aunque algo más espesa.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -965,6 +978,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 599, prot: 14, hc: 75, grasa: 27 },
   etiquetas: ["sin fuego", "sin cocción", "vegana", "ideal para llevar", "tupper", "verano", "económica", "técnica", "superalimentos"],
   consejo: "El bulgur fino es un cereal ya precocido y secado: por eso basta hidratarlo en frío (amasado, como aquí, o en remojo 30 minutos para un tabulé). El grueso, en cambio, necesita cocción. Las köfte aguantan 2 días en la nevera bien tapadas; sácalas 15 minutos antes para que el aceite no esté rígido.",
+  alternativa: "Sin melaza de granada, reduce 200 ml de zumo de granada con 1 cda de limón a fuego medio hasta que queden 2 cda espesas; sirve también 1 cda de vinagre de Módena reducido con 1 cdta de azúcar.",
   contundencia: "media",
   coste: "media"
 });
@@ -1054,6 +1068,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 566, prot: 23, hc: 78, grasa: 18 },
   etiquetas: ["sin fuego", "sin cocción", "vegana", "verano", "rápida", "picante", "económica", "bajo en colesterol"],
   consejo: "Los fideos de arroz finos, los de cristal y el cuscús son los «cereales sin fuego» de la despensa: se rehidratan en agua templada o fría. Si preparas el plato con antelación, guarda fideos y caldo por separado: juntos, los fideos se hinchan y se rompen en una hora.",
+  alternativa: "Si no tienes gochujang, mezcla 1 cdta de tomate concentrado, 1 cdta de pimentón picante y ½ cdta de azúcar con un chorrito de soja: da el mismo picante dulzón y sigue siendo vegano.",
   contundencia: "media",
   coste: "económica"
 });

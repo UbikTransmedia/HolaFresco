@@ -48,6 +48,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 45, hc: 58, grasa: 38 },
   etiquetas: ["aprovechamiento", "al horno", "para niños", "crujiente", "económica"],
   consejo: "El pollo asado aguanta 3-4 días en la nevera: desmígalo en cuanto se temple (antes de 2 horas), guárdalo sin huesos en un recipiente hermético y con un par de cucharadas de su jugo para que no se reseque. También se congela desmigado hasta 3 meses. La técnica de enrollar y hornear con un pincelado de aceite sirve para cualquier taquito: crujiente de fritura con una fracción de la grasa.",
+  alternativa: "Si no encuentras nata agria, mezcla 60 g de yogur griego natural con unas gotas de lima y una pizca de sal: da la misma frescura ácida para acompañar las flautas.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -845,6 +846,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 30, hc: 62, grasa: 23 },
   etiquetas: ["aprovechamiento", "vegetariana", "sin gluten", "picante suave", "económica", "rápida", "sin verduras"],
   consejo: "Las legumbres cocidas aguantan 4 días en la nevera con su caldo y 3 meses congeladas. Triturar una legumbre con su caldo y un elemento ahumado o picante da una salsa versátil que sirve para enchiladas, para mojar pan o como base de un plato de huevos.",
+  alternativa: "Sin chipotle en adobo, tritura las alubias con 1 cdta de pimentón ahumado (mitad picante si te gusta) y un chorrito de vinagre; y si no tienes nata agria, vale yogur griego con limón.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -928,6 +930,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 36, hc: 62, grasa: 25 },
   etiquetas: ["aprovechamiento", "para llevar", "para niños", "cena rápida", "poco especiada"],
   consejo: "El pollo asado aguanta 3-4 días en la nevera desmigado y con su jugo. Las piadinas cocinadas se guardan 2 días envueltas en un paño dentro de una bolsa, o congeladas con papel entre ellas; se reavivan 30 segundos en la sartén. La masa es un pan plano universal: 140 g de harina, 80 ml de agua y 1 cucharada de aceite dan dos panes para wraps, pitas o kebab.",
+  alternativa: "Si vas con prisa, sáltate la masa y usa 2 tortillas de trigo grandes calentadas 30 segundos por cada lado en la sartén: quedan algo más finas, pero se rellenan y doblan igual.",
   tupper: false,
   contundencia: "media",
   coste: "media"

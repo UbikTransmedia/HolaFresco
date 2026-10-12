@@ -49,6 +49,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 390, prot: 19, hc: 34, grasa: 19 },
   etiquetas: ["técnica", "escalfar", "huevos", "francesa", "para invitados", "poco especiada"],
   consejo: "El error típico es el huevo deshilachado: casi siempre por agua que hierve fuerte o huevos poco frescos. Colarlos antes y mantener el agua temblando lo arregla. Puedes escalfarlos con antelación, enfriarlos en agua con hielo y guardarlos 1 día en la nevera; se recalientan 1 minuto en agua caliente sin hervir.",
+  alternativa: "Si no encuentras cebollitas francesas, usa 4 chalotas partidas por la mitad o la parte blanca de 6 cebolletas tiernas: se glasean igual en la mantequilla y la salsa conserva su dulzor.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -96,6 +97,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 28, hc: 28, grasa: 22 },
   etiquetas: ["técnica", "escalfar", "caldo corto", "ligera", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "El error más común al escalfar es dejar que el caldo hierva: el pescado se encoge y suelta una espuma blanca (albúmina). Si te pasa, aparta la cazuela y añade un vaso de agua fría para bajar la temperatura. El caldo corto colado se congela y sirve de base para una sopa o un arroz.",
+  alternativa: "Si el rape se sale de presupuesto, escalfa lomos gruesos de merluza o de bacalao fresco con piel: son más delicados, así que bastan 5-6 min en el caldo corto apenas tembloroso.",
   contundencia: "ligera",
   coste: "premium",
   tupper: false
@@ -510,6 +512,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 37, hc: 81, grasa: 35 },
   etiquetas: ["técnica", "sofrito", "arroz caldoso", "de cuchara", "tradicional", "poco especiada"],
   consejo: "Un sofrito corto (10 minutos) deja el tomate ácido y aguado; el largo es la base de arroces, guisos y legumbres. Haz el doble y congela la mitad en porciones: te ahorra 30 minutos la próxima vez. Si no tienes ñora, usa 1 cucharada de carne de pimiento choricero.",
+  alternativa: "Fuera de temporada, cambia las alcachofas frescas por 250 g de corazones de alcachofa congelados: añádelos directamente con el arroz, sin limpiarlos ni pasarlos por limón.",
   contundencia: "contundente",
   coste: "media",
   tupper: false
@@ -753,6 +756,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 34, hc: 110, grasa: 22 },
   etiquetas: ["técnica", "tempura", "frito", "japonesa", "para invitados", "poco especiada"],
   consejo: "Las tres claves de una tempura ligera: masa helada (frena el gluten y crea contraste térmico), poco batida y fritura en tandas pequeñas para que el aceite no se enfríe. El error típico es preparar la masa con antelación: hazla justo al freír. Sirve para cualquier verdura, setas o pescado blanco.",
+  alternativa: "Para el tentsuyu sin mirin, usa 2 cda de vino blanco con 1 cdta de azúcar disuelta en el caldo caliente: la salsa queda igual de redonda y ligeramente dulce.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -981,6 +985,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 35, hc: 54, grasa: 30 },
   etiquetas: ["técnica", "saltear", "wok", "alta en proteína", "china", "poco especiada"],
   consejo: "El secreto del wok en casa es no llenarlo: en un fuego doméstico, nunca más de 200 g de ingrediente a la vez. Con vitrocerámica o inducción, usa una sartén grande de hierro y precaliéntala 3 minutos. Con la misma técnica, cambia el entrecot por pollo, tofu firme o gambas.",
+  alternativa: "Si no hay pak choi, usa 4-5 hojas de acelga tierna o un cuarto de col china: separa las pencas, que van primero al wok, y añade las hojas en el último minuto.",
   contundencia: "media",
   coste: "premium",
   tupper: false
@@ -1028,6 +1033,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 615, prot: 23, hc: 79, grasa: 23 },
   etiquetas: ["técnica", "guisar", "de cuchara", "tupper", "batch cooking", "económica", "invierno", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "Un guiso a fuego lento mejora al día siguiente, porque el almidón termina de trabar el caldo. Rectifica de sal al final, cuando el caldo ya se ha reducido, y si quedan aguadas tritura un cazo de lentejas y devuélvelo. Con la misma técnica (frío, hervor mínimo, sin remover) guisas cualquier legumbre o un estofado de carne.",
+  alternativa: "Si no encuentras chirivía, pon otra zanahoria y un nabo pequeño en dados: mantienen el punto dulce y terroso del guiso y se cuecen en el mismo tiempo.",
   contundencia: "media",
   coste: "económica",
   tupper: true

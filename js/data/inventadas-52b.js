@@ -44,6 +44,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 24, hc: 38, grasa: 20 },
   etiquetas: ["para invitados", "ligera", "sin gluten", "elegante", "otoño", "invierno", "poco especiada"],
   consejo: "Adelanta el puré hasta 1 día antes y recaliéntalo con un chorrito de leche; también puedes dejar las vieiras secas sobre papel en la nevera unas horas. Lo único que se hace al momento es marcarlas: 2 minutos y medio en total. La regla para marcar cualquier marisco o pescado (vieiras, langostinos, atún) es superficie bien seca, sartén muy caliente y no moverlos.",
+  alternativa: "Si no hay chirivía, haz el puré con 350 g de coliflor cocida 12 min: sale igual de fino y suave. Las vieiras congeladas sin coral funcionan bien si las descongelas en la nevera y las secas muy a fondo.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -266,6 +267,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 22, hc: 10, grasa: 38 },
   etiquetas: ["para invitados", "ligera", "rápida", "sin gluten", "primavera", "entrante", "keto", "poco especiada"],
   consejo: "Puedes dejar la vinagreta hecha y los piñones tostados desde la mañana, y los espárragos limpios en un vaso con agua en la nevera, como un ramo. El jamón ibérico se saca de la nevera 20 minutos antes: a temperatura ambiente la grasa brilla y se funde en la boca. Montar la ensalada en fuente grande y no en platos individuales queda más generoso y es más rápido.",
+  alternativa: "Para una versión más económica, tuesta almendra laminada en lugar de piñones y usa un buen jamón serrano de bodega: la ensalada conserva el contraste crujiente y salado.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -620,6 +622,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 22, hc: 46, grasa: 20 },
   etiquetas: ["para invitados", "vegana", "ligera", "sin lactosa", "brochetas", "poco especiada", "bajo en colesterol"],
   consejo: "Puedes montar las brochetas y hacer el tare hasta 1 día antes; el tare aguanta semanas en la nevera y sirve para pollo, salmón o berenjena. La regla de los glaseados con azúcar (teriyaki, miel, barbacoa) es la misma: cocinar primero el alimento y pintar solo al final.",
+  alternativa: "Para el tare sin mirin, sustitúyelo por 2 cda de vino blanco y añade otra cdta de azúcar moreno. Si no encuentras shiitake fresco, ensarta champiñones grandes o portobello en cuartos.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -978,6 +981,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 38, hc: 56, grasa: 27 },
   etiquetas: ["para invitados", "sin gluten", "especiado", "tupper", "invierno", "sin verduras"],
   consejo: "La salsa (pasos 4 a 6) se puede hacer el día antes y guardar en la nevera; al servir, caliéntala suave y dora el cordero en 2 minutos. Templar el yogur con un poco de salsa caliente antes de añadirlo es el truco para que no se corte en ningún curry o guiso.",
+  alternativa: "Si no tienes vainas de cardamomo, pon una pizca generosa de cardamomo molido con el garam masala, o en su defecto ¼ cdta de canela: el korma mantiene su aroma dulce.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -1025,6 +1029,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 42, hc: 52, grasa: 14 },
   etiquetas: ["para invitados", "sin gluten", "sin lactosa", "brochetas", "verano", "para compartir", "sin verduras"],
   consejo: "Deja la carne marinando desde la mañana y las brochetas montadas en la nevera; la salsa verde y la cebolla encurtida aguantan 2 días. Servir los elementos por separado para que cada uno monte su taco es la forma más fácil de que una cena de invitados parezca abundante y relajada.",
+  alternativa: "En lugar de pasta de achiote, marina la carne con 2 cdta de pimentón dulce, 1 cda de vinagre de manzana y el doble de orégano: da el mismo tono rojizo y un sabor muy parecido.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1112,6 +1117,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 22, hc: 58, grasa: 30 },
   etiquetas: ["para invitados", "vegetariana", "rápida", "elegante", "italiana", "poco especiada"],
   consejo: "Deja los piñones tostados y la ensalada cortada antes de que lleguen los invitados: la pasta y la salsa salen en 5 minutos. La mantequilla avellana (beurre noisette) es una salsa en sí misma y sirve para ñoquis, raviolis, pescado blanco o verduras al vapor; vigílala por el color y el olor, nunca por el tiempo.",
+  alternativa: "Si no encuentras salvia fresca, fríe en la mantequilla 1 cdta de salvia seca durante solo 20 segundos, o sustitúyela por hojas de albahaca: pierdes el crujiente de la hoja, no el aroma.",
   tupper: false,
   contundencia: "media",
   coste: "premium"

@@ -265,6 +265,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 685, prot: 32, hc: 47, grasa: 41 },
   etiquetas: ["sin fuego", "sin cocción", "rápida", "para compartir", "para invitados", "omega 3", "picoteo"],
   consejo: "Remojar la cebolla o cebolleta cruda en agua fría con un chorrito de vinagre 5-10 minutos le quita el picor que repite y la deja crujiente: úsalo en cualquier ensalada, tartar o tosta. La ventresca, por su grasa, pide poco aliño: basta un hilo de aceite.",
+  alternativa: "Para no disparar el presupuesto, cambia la ventresca por bonito del norte en aceite de oliva, en lomos grandes: queda un poco menos meloso, pero la tosta funciona igual con los piquillos.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -401,6 +402,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 585, prot: 16, hc: 65, grasa: 29 },
   etiquetas: ["sin fuego", "sin cocción", "vegetariana", "rápida", "para compartir", "tupper", "picoteo"],
   consejo: "El pan rallado o la miga de pan es el espesante clásico de las salsas frías trituradas (muhammara, salmorejo, ajoblanco, romesco): absorbe el líquido y da cuerpo sin cocinar. La muhammara aguanta 4 días en la nevera y mejora al día siguiente.",
+  alternativa: "Si no tienes melaza de granada, mezcla 2 cdta de zumo de limón con 1 cdta de miel o azúcar moreno: replica ese contrapunto agridulce de la muhammara.",
   contundencia: "media",
   coste: "media"
 });
@@ -493,6 +495,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 427, prot: 14, hc: 50, grasa: 19 },
   etiquetas: ["olla exprés", "ligera", "de cuchara", "cena ligera", "económica", "tupper", "rápida", "poco especiada"],
   consejo: "La olla exprés permite cocinar en dos pisos a la vez: lo que va en el líquido (sopa, legumbre, arroz) y lo que va al vapor en el cestillo (huevos, verduras, pescado). Elige alimentos con tiempos parecidos. Si vas a guardar la sopa en tupper, guarda los fideos aparte: absorben el caldo y se hinchan en horas.",
+  alternativa: "Sin olla exprés, cuece verduras y patata en el caldo en una cazuela tapada a fuego medio 15 min y hierve los huevos aparte 10 min; luego añade los fideos 3 min como en la receta.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -582,6 +585,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 31, hc: 24, grasa: 20 },
   etiquetas: ["olla exprés", "al vapor", "ligera", "sin gluten", "primavera", "para invitados", "rápida", "poco especiada"],
   consejo: "Para pescado en olla exprés: cestillo siempre fuera del líquido, presión baja si tu olla la tiene y despresurización rápida. Calcula 1-2 minutos para lomos de 2-3 cm de grosor; si son más gruesos, añade 1 minuto. El líquido aromático (vino, limón) perfuma el vapor y por tanto el pescado.",
+  alternativa: "Sin olla exprés: hierve las patatas 15 min en agua con el vino y el limón, pon encima una vaporera o colador tapado y cuece rodaballo y espárragos al vapor 6-7 min.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -716,6 +720,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 444, prot: 16, hc: 59, grasa: 16 },
   etiquetas: ["olla exprés", "al vapor", "ligera", "vegana", "económica", "tupper", "picante", "bajo en colesterol"],
   consejo: "Cocinar la berenjena al vapor en vez de freírla ahorra cientos de calorías y la deja igual de cremosa. Esta salsa (ajo, soja, vinagre, azúcar y aceite de sésamo) es un aliño universal de la cocina china: úsala con brócoli, judías verdes o pollo al vapor.",
+  alternativa: "Si no tienes aceite de chile, calienta 1 cda de aceite con una guindilla seca troceada 1 min y cuélalo. Sin olla exprés, cuece las berenjenas al vapor en una vaporera tapada 10-12 min.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -805,6 +810,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 431, prot: 28, hc: 55, grasa: 11 },
   etiquetas: ["olla exprés", "al vapor", "ligera", "cena ligera", "técnica", "marisco", "poco especiada"],
   consejo: "Cualquier flan salado o dulce (chawanmushi, flan de huevo, natillas al horno) queda liso si bates sin hacer espuma, cuelas la mezcla y lo cuajas a calor suave y tapado. El exceso de temperatura es lo que lo llena de agujeros: por eso aquí se usa presión baja.",
+  alternativa: "Sin mirin, pon 1 cda de vino blanco y una pizca de azúcar. Sin olla exprés, cuaja los cuencos tapados en una cazuela con 2 dedos de agua que apenas tiemble, tapada, 12-15 min.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -849,6 +855,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 22, hc: 45, grasa: 19 },
   etiquetas: ["olla exprés", "ligera", "de cuchara", "sin gluten", "económica", "tupper", "invierno", "bajo en colesterol"],
   consejo: "Las verduras de hoja amarga (escarola, endivia, achicoria, grelos) equilibran la cremosidad de las legumbres; añádelas al final con la olla abierta para que no se vuelvan grises. Si guardas sobras de parmesano, echa la corteza a la olla con las alubias: se deshace en sabor.",
+  alternativa: "Con alubias de bote: rehoga el sofrito en una cazuela, añade 400 g de alubias blancas cocidas y enjuagadas con 700 ml de caldo y el romero, y hierve suave 10 min antes de la escarola.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -944,6 +951,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 390, prot: 19, hc: 42, grasa: 15 },
   etiquetas: ["olla exprés", "ligera", "vegana", "sin gluten", "económica", "tupper", "cena ligera", "de cuchara", "detox", "bajo en colesterol"],
   consejo: "Las semillas de mostaza se fríen hasta que «saltan»: es la señal de que han liberado su aroma; si no saltan, saben amargas. Añadir calabacín, calabaza o espinacas a un dal es la forma más fácil de aligerarlo y sumar verdura sin cambiar su textura cremosa.",
+  alternativa: "Si no encuentras semillas de mostaza, dobla el comino en grano de la tadka. Sin olla exprés, cuece las lentejas rojas con el calabacín en cazuela tapada 20 min, removiendo de vez en cuando.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -987,6 +995,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 18, hc: 42, grasa: 22 },
   etiquetas: ["olla exprés", "ligera", "de cuchara", "picante", "económica", "aprovechamiento", "sin verduras"],
   consejo: "Para escalfar huevos en una sopa o en agua, el líquido debe temblar, no hervir, y el huevo entrar desde una taza a ras de la superficie. Y el pan duro en el fondo del plato es un recurso de aprovechamiento de muchas cocinas (leblebi, sopa de ajo, ribollita): no tires el pan del día anterior.",
+  alternativa: "Para ahorrarte el remojo, usa 250 g de garbanzos cocidos de bote, enjuagados: cuécelos con el caldo, los ajos y el comino en cazuela a fuego suave 15 min y sigue igual.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -1121,6 +1130,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 395, prot: 16, hc: 35, grasa: 20 },
   etiquetas: ["olla exprés", "ligera", "marisco", "invierno", "navidad", "de cuchara"],
   consejo: "Las verduras duras y fibrosas (cardo, alcachofa, borraja, acelga en penca) son las que más ganan en la olla exprés: reducen la cocción a una quinta parte. El agua de cocción del cardo es gelatinosa: guárdala siempre para ligar la salsa, igual que harías con el agua de la pasta.",
+  alternativa: "Fuera de temporada, usa 600 g de cardo en conserva, escurrido y enjuagado, y cuece solo la patata 20 min en agua; liga la salsa con 250 ml de ese agua de cocción, que espesa algo menos.",
   contundencia: "ligera",
   coste: "premium"
 });

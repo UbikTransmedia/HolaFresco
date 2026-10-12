@@ -181,6 +181,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 20, hc: 57, grasa: 31 },
   etiquetas: ["técnica", "encurtido rápido", "vegetariano", "tupper", "ideal para llevar", "sin gluten", "superalimentos", "poco especiada"],
   consejo: "Con la misma salmuera puedes encurtir pepino, zanahoria, rábano, hinojo o pimiento. El error típico es usar el vinagre sin diluir: el encurtido queda agresivo y pierde el crujiente. Para el tupper, lleva la rúcula y el aliño aparte; el líquido sobrante del encurtido es una base estupenda para vinagretas.",
+  alternativa: "Si no tienes semillas de mostaza para la salmuera, pon ½ cdta de pimienta negra en grano o de semillas de cilantro: el encurtido sale igual de aromático y crujiente.",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -266,6 +267,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 20, hc: 28, grasa: 30 },
   etiquetas: ["técnica", "bechamel", "gratinado", "tupper", "invierno", "poco especiada"],
   consejo: "Proporciones de bechamel: ligera, para napar y gratinar, unos 20-25 g de mantequilla y de harina por cada 400 ml de leche; espesa, para croquetas, 50 g de mantequilla y 60 g de harina por cada 500 ml. Si te salen grumos, pásala por la batidora y vuelve a calentarla. Para que no haga costra mientras esperas, cúbrela con film a piel.",
+  alternativa: "El gruyère puede ser emmental rallado, más fácil de encontrar y más barato: funde igual de bien y gratina con buen color, aunque es algo más suave de sabor.",
   contundencia: "ligera",
   coste: "media",
   tupper: true
@@ -409,6 +411,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 27, hc: 107, grasa: 26 },
   etiquetas: ["técnica", "legumbre desde seco", "olla exprés", "vegano", "tupper", "batch cooking", "económica"],
   consejo: "Tiempos orientativos en olla exprés a presión alta con legumbre remojada: garbanzos 18-22 minutos, alubias blancas 12-15 y lentejas pardinas (sin remojo) 8-10. El error típico es llenar demasiado la olla o abrirla de golpe: la espuma tapona la válvula y los granos se rompen. Cuece 500 g de una vez y congela por raciones con su caldo.",
+  alternativa: "¿Sin ras el hanout? Mezcla 1 cdta de comino, ½ cdta de cilantro molido, ½ de jengibre molido, ¼ de canela y una pizca de cúrcuma: el guiso conserva su perfume norteafricano.",
   contundencia: "contundente",
   coste: "económica",
   tupper: true
@@ -461,6 +464,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 885, prot: 45, hc: 64, grasa: 50 },
   etiquetas: ["técnica", "brasear", "glasear", "olla exprés", "de domingo", "tupper", "poco especiada"],
   consejo: "Brasear en olla exprés ahorra dos tercios del tiempo, pero pide menos líquido y un buen dorado previo: sin evaporación, el sabor sale de la costra inicial. Al glasear con melaza o miel, el error típico es gratinar demasiado, porque el azúcar pasa de lacado a quemado en un minuto. Las costillas braseadas aguantan 3 días; glaséalas justo antes de servir.",
+  alternativa: "Si no encuentras melaza de caña, usa la misma cantidad de miel de caña o 2 cda de azúcar moreno disueltas en 1 cda de agua caliente: el glaseado se lacará igual, algo menos amargo.",
   contundencia: "contundente",
   coste: "media",
   tupper: true
@@ -549,6 +553,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 320, prot: 20, hc: 42, grasa: 8 },
   etiquetas: ["técnica", "fondo", "dashi", "japonesa", "umami", "ligera", "poco especiada"],
   consejo: "El kombu y el bonito usados se aprovechan una segunda vez para un caldo más suave, ideal para guisos. El error típico es hervir el kombu: suelta mucílago y amarga. Versión vegana del dashi: kombu y shiitake seco en remojo frío toda la noche en la nevera.",
+  alternativa: "Para sustituir el mirin del caldo, usa 2 cda de vino blanco y 1 cdta de azúcar: el dashi conserva su punto dulce y apenas se nota la diferencia.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -696,6 +701,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 28, hc: 51, grasa: 32 },
   etiquetas: ["técnica", "marinar", "vegano", "alta en proteína", "tupper", "ideal para llevar", "superalimentos"],
   consejo: "Para marinar proteínas vegetales (tempeh, tofu, seitán), el truco es que estén calientes o bien secas: el tofu prensado y el tempeh precocido absorben el triple. El error típico es marinarlos en frío y poco tiempo: quedan sosos por dentro. Esta misma marinada sirve para pollo, como máximo 4 horas por el limón.",
+  alternativa: "Si no encuentras tempeh, prensa 250 g de tofu firme 20 min y córtalo en dados grandes: absorbe todavía mejor la marinada y, dorado en la sartén, aguanta en la brocheta.",
   contundencia: "media",
   coste: "media",
   tupper: true
