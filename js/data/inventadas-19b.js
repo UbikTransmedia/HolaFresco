@@ -86,6 +86,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 42, hc: 60, grasa: 15 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "económica", "alta en proteína", "ideal para llevar", "bajo en colesterol"],
   consejo: "Si tienes tiempo, deja el pollo marinando con el zaatar y el limón desde la mañana: queda mucho más aromático. Para llevar, pon el yogur en un botecito aparte.",
+  alternativa: "Sin zaatar ni zumaque, adoba el pollo con 1 cdta de tomillo seco, 1 cdta de sésamo, una pizca de pimentón y la ralladura del limón: conserva ese punto herbáceo y ácido.",
   contundencia: "media",
   coste: "económica"
 });
@@ -259,6 +260,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 34, hc: 58, grasa: 9 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "Funciona igual con merluza congelada: cocínala aún medio congelada y alarga 3 minutos la cocción. El jugo de la sartén es la salsa, así que riega bien el cuscús.",
+  alternativa: "Si no encuentras eneldo fresco, pica las hojitas verdes del propio hinojo y añade una pizca de eneldo seco al final: el aroma anisado se mantiene.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -391,6 +393,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 32, hc: 58, grasa: 9 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "ligera", "verano", "ideal para llevar", "poco especiada"],
   consejo: "Si el calamar es grande, haz cortes en rejilla antes de trocearlo: se dora mejor y queda más tierno. Con sepia o pulpo cocido también queda riquísimo.",
+  alternativa: "Si no tienes zumaque, termina el bulgur con ralladura de limón y una pizca de pimentón dulce; da un toque ácido y rojizo muy similar.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -522,6 +525,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 30, hc: 76, grasa: 16 },
   etiquetas: ["mediterránea", "aromática", "invierno", "poco especiada"],
   consejo: "Pide en la pescadería la sepia limpia y con su bolsita de tinta: si añades la tinta al caldo, tendrás un arroz negro meloso igual de fácil.",
+  alternativa: "Fuera de temporada de alcachofas, usa 6 corazones de alcachofa en conserva bien escurridos y añádelos 10 min antes del final para que no se deshagan.",
   contundencia: "media",
   coste: "media"
 });
@@ -869,6 +873,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 24, hc: 76, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "vegetariana", "batch cooking", "verano", "poco especiada"],
   consejo: "Si tu farro es integral (no perlado), déjalo en remojo 2 horas antes o añade 15 minutos al horneado. Con calabacín y pimiento rojo en lugar de berenjena queda igual de bueno.",
+  alternativa: "Si en tu súper no hay farro, usa espelta en grano o cebada perlada en la misma cantidad; quedan igual de enteras y melosas con el mismo tiempo de horno.",
   contundencia: "media",
   coste: "media"
 });
@@ -955,6 +960,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 34, hc: 70, grasa: 24 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "poco especiada", "bajo en colesterol"],
   consejo: "No metas el salmón desde el principio o quedará seco: con 8–10 minutos sobre el arroz caliente es suficiente. Con trucha o con bacalao fresco funciona igual de bien.",
+  alternativa: "Si no hay eneldo fresco, mezcla cebollino picado con una pizca de eneldo seco en el yogur: acompaña al salmón casi igual de bien.",
   contundencia: "media",
   coste: "premium"
 });
@@ -1091,6 +1097,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 48, hc: 70, grasa: 22 },
   etiquetas: ["mediterránea", "aromática", "invierno", "batch cooking", "poco especiada"],
   consejo: "No te saltes la gremolata: el perejil, el ajo crudo y el limón despiertan el guiso. Si te sobra carne, desmígala con su salsa y mézclala con el farro para un táper estupendo.",
+  alternativa: "Con olla exprés, brasea el ossobuco 35-40 min a presión con solo 400 ml de caldo en lugar de las casi 2 h en cazuela; si no encuentras farro, usa espelta en grano.",
   contundencia: "contundente",
   coste: "premium"
 });

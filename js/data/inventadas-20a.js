@@ -164,6 +164,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 17, hc: 34, grasa: 29 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "detox"],
   consejo: "Los garbanzos se ponen blandos si se mezclan con la crema antes de tiempo: añádelos justo al servir. Si la quieres más saciante, añade un huevo duro picado o unos dados de feta.",
+  alternativa: "Si no encuentras zaatar, saltea los garbanzos con 1 cdta de tomillo seco, 1 cdta de sésamo y un poco de ralladura de limón: el aroma tostado y herbal es prácticamente el mismo.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -250,6 +251,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 30, hc: 39, grasa: 37 },
   etiquetas: ["mediterránea", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "Si la ricotta es muy húmeda, déjala escurrir 1 hora en un colador con papel de cocina: las albóndigas quedarán más firmes. Puedes formarlas el día antes y guardarlas tapadas en la nevera.",
+  alternativa: "En lugar de ricotta puedes usar 180 g de requesón, escurrido 1 h en un colador con papel; si sigue húmedo, añade 1 cda más de pan rallado para que las albóndigas se mantengan firmes.",
   contundencia: "media",
   coste: "media"
 });
@@ -344,6 +346,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 33, hc: 51, grasa: 49 },
   etiquetas: ["mediterránea", "aromática", "al horno", "invierno"],
   consejo: "Si tienes fogón de gas, quema las berenjenas directamente sobre la llama 10 minutos: la crema tendrá un ahumado mucho más intenso. Añade unos granos de granada al servir si los tienes a mano.",
+  alternativa: "Para abaratar, cambia los piñones por 25 g de almendra laminada tostada en la sartén con el cordero: da el mismo crujiente dorado sobre la crema.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -564,6 +567,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 50, hc: 55, grasa: 32 },
   etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "invierno", "poco especiada"],
   consejo: "El orzo sigue absorbiendo caldo: si vas a guardar sopa, cuécelo aparte y añádelo al servir. Cambia el eneldo por perejil y menta si no te convence su anisado.",
+  alternativa: "Sin orzo, usa 120 g de pasta piñón o de fideo gordo, cocidos el mismo tiempo en el caldo; la sopa queda igual de reconfortante.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -776,6 +780,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 19, hc: 59, grasa: 33 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "batch cooking", "invierno"],
   consejo: "Asar las zanahorias en lugar de hervirlas concentra su dulzor y lo equilibra con las especias. Haz doble de crema y congélala en raciones; los garbanzos, mejor recién asados.",
+  alternativa: "Si no tienes ras el hanout, usa 0,5 cdta de cúrcuma, 0,5 cdta de jengibre molido y una pizca de canela y de pimienta junto al comino.",
   contundencia: "media",
   coste: "económica"
 });
@@ -824,6 +829,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 54, hc: 55, grasa: 38 },
   etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "invierno", "poco especiada"],
   consejo: "Como todo guiso, mejora al día siguiente: hazlo la víspera, enfríalo y retira la capa de grasa sólida antes de recalentar. La gremolata, siempre recién hecha.",
+  alternativa: "Con olla exprés, cuece el cordero con el caldo 35 min a presión en lugar de las 2 h de horno y añade luego las judías; si no hay kale, usa espinacas, que solo necesitan 2 min.",
   contundencia: "contundente",
   coste: "premium"
 });

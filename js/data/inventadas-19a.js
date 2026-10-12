@@ -120,6 +120,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 23, hc: 73, grasa: 26 },
   etiquetas: ["mediterránea", "aromática", "al horno", "verano", "vegetariana"],
   consejo: "Mezcla la ricotta con una pizca de sal, ralladura de limón y unas gotas de aceite antes de ponerla encima: imita la ricotta salata siciliana. Si te sobra berenjena asada, guárdala para una ensalada o una tostada.",
+  alternativa: "Si no encuentras ricotta, usa la misma cantidad de requesón escurrido y aplastado con un tenedor y una pizca de sal: aporta el mismo frescor lácteo sobre la berenjena.",
   contundencia: "media",
   coste: "económica"
 });
@@ -286,6 +287,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 39, hc: 67, grasa: 23 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "una sola sartén", "poco especiada"],
   consejo: "Si queda algo seco al sacarlo, añade un chorrito de caldo caliente y remueve: debe quedar meloso. Puedes cambiar las gambas por dados de pescado blanco o por garbanzos para una versión económica.",
+  alternativa: "Sin orzo, usa 150 g de pasta piñón, que se hornea igual en el caldo; y si no hay eneldo fresco, sirve con perejil picado y 0,5 cdta de eneldo seco mezclado con el limón.",
   contundencia: "media",
   coste: "media"
 });
@@ -327,6 +329,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 37, hc: 58, grasa: 10 },
   etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "batch cooking", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Tostar el orzo antes de añadir el caldo le da un sabor a fruto seco que marca la diferencia. Se recalienta muy bien con un chorrito de agua: perfecto para el táper.",
+  alternativa: "¿No encuentras orzo? La pasta piñón o el fideo cabello de ángel grueso se tuestan y absorben el caldo igual; usa los mismos 140 g y vigila 1-2 min antes el punto.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -412,6 +415,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 16, hc: 75, grasa: 12 },
   etiquetas: ["mediterránea", "fácil", "ligera", "aromática", "al horno", "batch cooking", "ideal para llevar", "vegetariana", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Duplica las verduras asadas y tendrás base para dos días. Si no encuentras cuscús perlado, usa orzo o cuscús normal hidratado con agua hirviendo.",
+  alternativa: "Si te falta zaatar para los garbanzos, combina 1 cdta de tomillo seco, 1 cdta de sésamo tostado y un poco de ralladura de limón; el resultado es casi idéntico.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -972,6 +976,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 26, hc: 87, grasa: 19 },
   etiquetas: ["mediterránea", "fácil", "aromática", "una sola sartén", "vegetariana"],
   consejo: "En Túnez se suele hacer con carne o pescado: si quieres, añade dados de pollo o atún en conserva en el paso 3. La harissa varía mucho de picante; empieza con la mitad y prueba.",
+  alternativa: "Si no tienes harissa, sofríe 1 cdta de pimentón picante, 0,5 cdta de pimentón dulce y una pizca de cayena con el ajo; sin alcaravea, sube el comino a 1,5 cdta.",
   contundencia: "media",
   coste: "económica"
 });

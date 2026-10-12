@@ -432,6 +432,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 502, prot: 40, hc: 45, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "invierno", "poco especiada"],
   consejo: "La sepia congelada queda incluso más tierna que la fresca, porque el frío rompe sus fibras. Si te sobra, añade un poco de caldo y tendrás una sopa estupenda para la cena.",
+  alternativa: "Sin olla exprés, guisa la sepia en cazuela tapada a fuego suave 35-40 min en lugar de 10 min a presión, con 100 ml más de agua, hasta que esté tierna.",
   contundencia: "media",
   coste: "media"
 });
@@ -477,6 +478,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 55, hc: 45, grasa: 30 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Una cucharadita de anchoa picada o de alcaparras en el sofrito potencia el sabor provenzal. Las sobras, desmigando el pollo, son un relleno buenísimo para una tosta.",
+  alternativa: "En cazuela normal: tapa y cuece a fuego suave 25 min en vez de los 8 min a presión, removiendo de vez en cuando; si se seca, añade un chorrito de caldo.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -566,6 +568,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 22, hc: 56, grasa: 17 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "batch cooking", "ideal para llevar", "invierno", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Calienta la última cucharada de aceite con una pizca de pimentón picante y viértela sobre el yogur al servir: es el toque turco que lo hace irresistible. Acompaña con pan de pita tostado.",
+  alternativa: "Si no tienes olla rápida, cuece las lentejas en cazuela tapada 35-40 min con 150 ml más de agua; o usa 350 g de lentejas cocidas de bote y guisa solo 15 min con 200 ml de agua.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -746,6 +749,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 674, prot: 46, hc: 64, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "invierno", "poco especiada"],
   consejo: "Si no encuentras farro, usa espelta en grano o cebada perlada con el mismo tiempo. Unas gotas de vinagre balsámico al servir realzan el sabor de las setas.",
+  alternativa: "Sin olla exprés, cuece el farro con el pollo en cazuela tapada a fuego suave 35-40 min (en vez de 12 min a presión), con 150 ml más de caldo caliente.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -791,6 +795,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 490, prot: 42, hc: 40, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Para una salsa avgolemono de verdad, bate un huevo con el zumo de limón, templa con un cazo de caldo y añádelo fuera del fuego removiendo. Fuera de temporada, usa corazones de alcachofa congelados.",
+  alternativa: "En cazuela tradicional, guisa la ternera tapada 1 h 15 min a fuego suave en vez de 25 min a presión y añade luego las alcachofas y la patata 20 min; sin eneldo fresco, usa 1 cdta de eneldo seco.",
   contundencia: "media",
   coste: "media"
 });
@@ -839,6 +844,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 742, prot: 42, hc: 58, grasa: 38 },
   etiquetas: ["mediterránea", "aromática", "invierno", "batch cooking"],
   consejo: "Una pizca de pimienta de Jamaica o de guindilla en escamas le da el toque de Anatolia. Si te sobra, desmenuza la carne y úsala para rellenar pitas con yogur y cebolla morada.",
+  alternativa: "Si no tienes olla exprés, estofa el cordero en cazuela tapada a fuego mínimo 1 h 15 min, con 150 ml más de agua, en lugar de los 25 min a presión.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -885,6 +891,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 44, hc: 46, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "alta en proteína"],
   consejo: "Comprar el pulpo congelado no es un defecto: la congelación lo ablanda y te ahorra asustarlo. Si quieres, añade patatas cascadas al abrir la olla y cuécelas con la salsa en lugar de los garbanzos.",
+  alternativa: "Sin olla rápida, cuece el pulpo en el sofrito en cazuela tapada a fuego muy suave 45-50 min, hasta que se pinche sin resistencia, en lugar de 12 min a presión.",
   contundencia: "media",
   coste: "premium"
 });
@@ -929,6 +936,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 764, prot: 40, hc: 70, grasa: 36 },
   etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Si olvidaste el remojo, usa 500 g de judías blancas cocidas de bote y reduce la presión a 3 minutos con solo 150 ml de agua. Un puñado de kale o de espinacas al final completa el plato.",
+  alternativa: "Sin olla exprés, cuece las judías remojadas en cazuela tapada a fuego suave 1 h 15 min-1 h 30 min, con 300 ml más de agua, en lugar de 15 min a presión.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -972,6 +980,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 554, prot: 46, hc: 34, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Un par de anchoas machacadas con el vinagre al final es el truco de la cacciatora romana. Puedes hacerla igual con contramuslos de pollo con hueso y el mismo tiempo.",
+  alternativa: "En cazuela, guisa el conejo tapado a fuego suave 25 min, añade las patatas y las aceitunas y cuece 20 min más, en lugar de los 8 + 4 min a presión.",
   contundencia: "media",
   coste: "media"
 });
@@ -1065,6 +1074,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 466, prot: 18, hc: 58, grasa: 18 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "invierno", "batch cooking", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El aceite en crudo al final no es opcional: es lo que hace la fasolada sedosa. Acompaña con queso feta y pan rústico; al día siguiente espesa y está todavía más rica.",
+  alternativa: "Si no tienes olla rápida, deja las judías en remojo la noche anterior y cuécelas en cazuela tapada 1 h 30 min con 400 ml más de agua; o usa 450 g de judías cocidas de bote y guisa solo 20 min.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -1112,6 +1122,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 768, prot: 58, hc: 44, grasa: 40 },
   etiquetas: ["mediterránea", "aromática", "invierno", "poco especiada"],
   consejo: "Puedes marinar la víspera y tener la comida resuelta en 1 hora. Si sobra carne, desmenúzala con su salsa y úsala como ragú para una pasta corta con pecorino o parmesano.",
+  alternativa: "Sin olla exprés, brasea los jarretes en cazuela tapada a fuego mínimo 2 h-2 h 15 min (o en el horno a 160 °C), con 200 ml más de agua, en vez de 40 min a presión.",
   contundencia: "contundente",
   coste: "premium"
 });

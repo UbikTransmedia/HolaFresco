@@ -497,6 +497,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 918, prot: 34, hc: 110, grasa: 38 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Para que el plátano quede dulce tiene que estar casi negro. Añadir agua a la panceta al principio la cuece por dentro antes de freírla: así queda tierna y crujiente a la vez.",
+  alternativa: "En olla exprés las alubias rojas remojadas se hacen en 25-30 min a presión en lugar de 1 h 45 min; después añade el hogao y deja 15 min destapado para espesar.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -740,6 +741,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 34, hc: 78, grasa: 18 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Los chícharos partidos no necesitan remojo y se deshacen solos, así que no hace falta triturar. Si espesa demasiado al reposar, aclara con agua caliente.",
+  alternativa: "Si no encuentras guisantes amarillos partidos, usa los mismos 140 g de lentejas rojas: tampoco necesitan remojo, se deshacen igual y bastan 25 min de cocción en total.",
   contundencia: "media",
   coste: "económica"
 });
@@ -1035,6 +1037,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 798, prot: 56, hc: 76, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "batch cooking", "picante"],
   consejo: "En Yucatán es el plato de los lunes. El rábano y la lima frescos son imprescindibles: cortan la grasa del cerdo y alegran el plato.",
+  alternativa: "Con olla rápida, cuece los frijoles remojados con el cerdo y el orégano 35 min a presión en vez de 2 h; si no encuentras habanero ni jalapeño, usa una guindilla fresca verde.",
   contundencia: "contundente",
   coste: "media"
 });

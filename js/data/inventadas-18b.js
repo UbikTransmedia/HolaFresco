@@ -431,6 +431,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 715, prot: 25, hc: 90, grasa: 28 },
   etiquetas: ["mediterránea", "aromática", "económica", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "La cebolla crujiente es el alma del plato: haz el doble y guárdala en un tarro hermético, aguanta crujiente 3 días. La mujaddara sobrante es perfecta para rellenar pimientos o una pita.",
+  alternativa: "Para ir rápido, usa lentejas pardinas de bote (unos 300 g escurridas) y cuece solo el arroz con el comino; luego mézclalo todo con la cebolla y te ahorras unos 20 min.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -1034,6 +1035,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 810, prot: 46, hc: 52, grasa: 46 },
   etiquetas: ["mediterránea", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "El trabajo activo son 15 minutos; el horno hace el resto. Exprime el limón asado sobre la ensalada justo antes de servir: su zumo caramelizado es puro sabor.",
+  alternativa: "Si los piñones se salen de presupuesto, sustitúyelos por 20 g de almendra laminada o nueces troceadas, tostadas 2 min en sartén seca: aportan el mismo crujiente.",
   contundencia: "contundente",
   coste: "media"
 });

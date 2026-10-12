@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 32, hc: 75, grasa: 18 },
   etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las almejas van siempre al final y fuera de las fabes, para que no se pasen ni llenen el guiso de arena. Si el caldo queda claro, aplasta unas cuantas fabes contra la pared de la cazuela: lo espesan sin harina extra.",
+  alternativa: "Con olla exprés, cuece las fabes 25 min a presión con fuego mínimo (en lugar de casi 2 h) y deja que baje sola para que no se pelen; después sigue con el sofrito y las almejas igual.",
   contundencia: "media",
   coste: "premium"
 });
@@ -83,6 +84,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 738, prot: 38, hc: 70, grasa: 34 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "batch cooking", "invierno", "picante", "sin verduras"],
   consejo: "En Murcia se comen de tapa en cazuelica de barro, así que si sobran ya tienes aperitivo. Las habas secas peladas (sin piel) se ablandan antes; si las compras con piel, cuenta media hora más.",
+  alternativa: "Para acortar las 2 h 30 min de cazuela, cuece las habas remojadas con el chorizo y el jamón en olla exprés 40-45 min y termina 10 min destapado para que espese el caldo.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -124,6 +126,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 888, prot: 42, hc: 72, grasa: 48 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
   consejo: "La clave de unas buenas alubias de Tolosa es la paciencia: fuego mínimo y nada de remover con cuchara. Si se rompen algunas, mejor: el caldo queda más meloso.",
+  alternativa: "Si tienes prisa, cuece las alubias en olla exprés unos 35 min a presión, desde que suba la válvula, en vez de 2 h 30 min; los sacramentos se preparan aparte igual.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -166,6 +169,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 928, prot: 50, hc: 65, grasa: 52 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Cocer la berza aparte evita que el cocido amargue y se ponga verde oscuro. Está todavía mejor al día siguiente: hazlo de víspera y caliéntalo despacio.",
+  alternativa: "En olla rápida, cuece las alubias con las carnes 30 min a presión en lugar de 2 h 30 min, abre, añade la berza ya cocida y deja 10 min sin tapa a fuego suave para que trabe.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -208,6 +212,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 836, prot: 62, hc: 75, grasa: 32 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "de domingo", "invierno", "batch cooking", "para invitados", "poco especiada"],
   consejo: "Los garbanzos se echan siempre con el agua ya hirviendo; si los pones en frío se quedan duros. Con la pringá que sobre, haz montaditos de pan tostado: es la merienda clásica de Sevilla.",
+  alternativa: "Si usas olla exprés, pon los garbanzos con las carnes y los huesos 25 min a presión (en vez de 2 h), abre, añade las verduras y la patata y cuécelo todo 20 min más sin tapa.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -253,6 +258,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 905, prot: 45, hc: 80, grasa: 45 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "El majado de pan, ajo y comino es lo que da a la berza su sabor jerezano y su caldo espeso. En temporada, cambia las judías verdes por tagarninas o cardillos, como se hace en Jerez.",
+  alternativa: "Para ahorrarte las 2 h de cazuela, cuece garbanzos, judías y carnes en olla exprés 25-30 min; luego añade las judías verdes, la calabaza y los embutidos y termina 25 min destapado.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -462,6 +468,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 776, prot: 34, hc: 88, grasa: 32 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Cascar la patata en vez de cortarla limpia hace que suelte almidón y engorde el caldo. Si no tienes carne de choricero, remoja 2 ñoras 30 minutos y raspa su pulpa.",
+  alternativa: "Para ir más rápido, cuece los garbanzos remojados en olla exprés 20 min en lugar de 1 h 30 min; después añade el sofrito y la patata cascada y sigue 20 min sin tapa.",
   contundencia: "contundente",
   coste: "económica"
 });

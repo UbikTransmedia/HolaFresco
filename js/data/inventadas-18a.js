@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 24, hc: 50, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "una sola sartén", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Seca muy bien los garbanzos con papel de cocina antes de saltearlos: así se doran y crujen en vez de cocerse al vapor.",
+  alternativa: "Si no encuentras zaatar, mezcla 1 cdta de tomillo seco, 1 cdta de sésamo tostado y la ralladura de medio limón: aporta el mismo aroma herbáceo y ácido a los garbanzos.",
   contundencia: "media",
   coste: "económica"
 });
@@ -125,6 +126,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 22, hc: 71, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "bajo en colesterol"],
   consejo: "Las sobras se comen frías como ensalada de pasta: añade tomate cherry y un chorrito más de limón.",
+  alternativa: "Si no tienes orzo, usa pasta piñón o fideo grueso (los mismos 140 g) y cuécelo 1-2 min menos de lo que indique el paquete; la textura queda prácticamente igual.",
   contundencia: "media",
   coste: "media"
 });
@@ -213,6 +215,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 32, hc: 48, grasa: 28 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "verano", "poco especiada"],
   consejo: "Si no encuentras melaza de granada, mezcla 1 cucharada de vinagre balsámico con media cucharadita de azúcar moreno.",
+  alternativa: "Sin zumaque, frota la heura con la ralladura de 1 limón y 0,5 cdta de pimentón dulce antes de dorarla, y añade unas gotas más de limón al aliño: el toque ácido se mantiene.",
   contundencia: "media",
   coste: "media"
 });
@@ -299,6 +302,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 31, hc: 62, grasa: 29 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "ideal para llevar", "poco especiada"],
   consejo: "Si el tempeh te resulta amargo, cuécelo 5 minutos en agua con sal antes de dorarlo: quedará más suave y absorberá mejor el limón.",
+  alternativa: "Si en tu súper no hay tempeh, cámbialo por 200 g de tofu firme prensado 10 min y cortado en dados: dóralo igual con el limón y las especias, queda algo más tierno.",
   contundencia: "media",
   coste: "media"
 });
@@ -383,6 +387,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 23, hc: 82, grasa: 30 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "ideal para llevar", "económica", "poco especiada"],
   consejo: "No tengas prisa con la cebolla: su dulzor tostado es todo el sabor del plato. Si haces el doble, guarda la mitad en un bote para ensaladas y cremas.",
+  alternativa: "Con lentejas pardinas cocidas de bote (unos 300 g escurridas) te ahorras 20 min: cuece el bulgur solo en 200 ml de agua 10-12 min y mezcla las lentejas al final para que se calienten.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -466,6 +471,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 765, prot: 23, hc: 92, grasa: 34 },
   etiquetas: ["mediterránea", "aromática", "invierno", "para compartir", "poco especiada"],
   consejo: "Si quieres los fideos bien de punta, mete la paella 3 minutos bajo el grill del horno al final.",
+  alternativa: "Si no encuentras veganesa, bate 50 ml de bebida de soja sin azúcar con el diente de ajo y una pizca de sal y añade 150 ml de aceite de girasol en hilo hasta que emulsione: es un allioli vegano casero.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -509,6 +515,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 20, hc: 52, grasa: 16 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "invierno", "batch cooking", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Al día siguiente está aún mejor: recaliéntala con un poco de agua, porque las judías espesan mucho en la nevera.",
+  alternativa: "Fuera de temporada de kale, usa la misma cantidad de berza o col rizada en tiras finas y déjala cocer 5 min más en el caldo hasta que esté tierna.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -552,6 +559,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 675, prot: 25, hc: 58, grasa: 38 },
   etiquetas: ["mediterránea", "aromática", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Si tienes, usa un fino o manzanilla en vez del vino blanco: le da un punto salino muy andaluz.",
+  alternativa: "¿No hay tempeh? Usa 200 g de tofu firme bien escurrido y en tacos; dóralo antes de la cebolla y añádelo de nuevo con el vino para que coja el sabor del encebollado.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -594,6 +602,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 17, hc: 55, grasa: 19 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "ideal para llevar", "verano", "batch cooking", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "La proporción buena del tabulé es más hierba que cereal: no escatimes perejil. Aguanta 3 días en la nevera.",
+  alternativa: "Si no tienes zumaque para la vinagreta, añade la ralladura de 1 limón y una pizca de pimentón dulce: el punto ácido y afrutado queda muy parecido.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -683,6 +692,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 23, hc: 75, grasa: 22 },
   etiquetas: ["mediterránea", "aromática", "ideal para llevar", "batch cooking", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si te gusta el picante, añade 1 cucharadita de pimentón picante o una cucharada de harissa al sofrito.",
+  alternativa: "Sin melaza de granada, mezcla 1 cda de vinagre balsámico con 1 cdta de azúcar moreno y unas gotas de limón; fuera de temporada de granada, cambia los granos por arándanos rojos secos.",
   contundencia: "media",
   coste: "económica"
 });
@@ -941,6 +951,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 17, hc: 55, grasa: 16 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "de cuchara", "batch cooking", "ideal para llevar", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Las judías no deben quedar al dente: en la cocina griega se guisan hasta que estén melosas y absorben el tomate. Al día siguiente están mejor.",
+  alternativa: "Si no encuentras eneldo fresco, usa 1 cdta de eneldo seco añadido 10 min antes de terminar el guiso, o las hojitas verdes de un bulbo de hinojo.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -982,6 +993,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 800, prot: 29, hc: 105, grasa: 29 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "poco especiada"],
   consejo: "La clave del arroz al horno es que el caldo entre hirviendo: así el grano empieza a cocer al momento y queda suelto.",
+  alternativa: "Si solo tienes tofu natural, córtalo en dados, dóralo y espolvoréale 0,5 cdta de pimentón ahumado antes de meterlo en el horno: recupera el toque ahumado.",
   contundencia: "contundente",
   coste: "económica"
 });
