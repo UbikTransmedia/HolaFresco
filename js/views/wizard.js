@@ -301,27 +301,6 @@
 
   const iconosReceta = (r) => h("small.muted", `${r.tiempo} min · ${r.nutricion.kcal || "?"} kcal · ${(Recetas.contundencia(r.contundencia) || {}).icono || ""} ${(Recetas.coste(r.coste) || {}).icono || ""}${r.cocina ? " · " + (Recetas.cocina(r.cocina) || {}).icono : ""}`);
 
-  /* Intercambiar recetas entre huecos (mismo momento en días contiguos, o comida y cena del mismo día) */
-  const intercambiar = (a, b, refrescar) => {
-    for (const c of ["recetaId", "avisos", "obligatoria", "usa", "historial"]) [a[c], b[c]] = [b[c], a[c]];
-    guardarBorrador();
-    refrescar();
-  };
-  const vecinoSlot = (s, delta) => {
-    const dias = Planificador.DIAS.filter((d) => st.resultado.slots.some((x) => x.dia === d.id && x.momento === s.momento));
-    const i = dias.findIndex((d) => d.id === s.dia);
-    const d = dias[i + delta];
-    return d ? st.resultado.slots.find((x) => x.dia === d.id && x.momento === s.momento) : null;
-  };
-  const botonesMover = (s, refrescar) => {
-    const ant = vecinoSlot(s, -1), sig = vecinoSlot(s, 1);
-    const nombre = (x) => `${Planificador.dia(x.dia).nombre} (${x.momento})`;
-    return [
-      ant ? h("button.btn.btn-mini.btn-suave", { type: "button", title: `Intercambiar con ${nombre(ant)}`, "aria-label": `Intercambiar con ${nombre(ant)}`, onClick: () => intercambiar(s, ant, refrescar) }, "◀") : null,
-      sig ? h("button.btn.btn-mini.btn-suave", { type: "button", title: `Intercambiar con ${nombre(sig)}`, "aria-label": `Intercambiar con ${nombre(sig)}`, onClick: () => intercambiar(s, sig, refrescar) }, "▶") : null,
-    ];
-  };
-
   const tarjetaSlot = (s, refrescar) => {
     const r = s.recetaId ? Recetas.porId(s.recetaId) : null;
     const personas = personasSeleccionadas();
@@ -348,7 +327,6 @@
       r ? h("button.slot-receta", { type: "button", title: "Ver receta", onClick: () => window.Vistas.recetas.abrirDetalle(r.id, { raciones }) }, h("span.slot-cat", Recetas.categoria(r.categoria).icono), h("span.slot-nombre", r.nombre), iconosReceta(r)) : h("p.muted", "Sin receta"),
       (s.avisos || []).map((a) => h("div.aviso.aviso-alerta.aviso-mini", "⚠️ ", a)),
       h("div.slot-acciones",
-        ...botonesMover(s, refrescar),
         h("button.btn.btn-mini.btn-suave", { type: "button", title: "Proponer otra receta al azar para este hueco", onClick: () => { const historial = [...(s.historial || []), s.recetaId].filter(Boolean).slice(-60); const res = Planificador.regenerarSlot(st.resultado, st.cfg, personas, s.dia + "|" + s.momento, historial); const nuevo = res.slots.find((x) => x.dia === s.dia && x.momento === s.momento); if (nuevo) { Object.assign(s, { recetaId: nuevo.recetaId, avisos: nuevo.avisos, obligatoria: false, usa: nuevo.usa || [], historial }); } guardarBorrador(); refrescar(); } }, "🔀 Otra"),
         h("button.btn.btn-mini.btn-suave", { type: "button", title: "Elegir una receta concreta", onClick: cambiar }, "🔍 Elegir"),
         r ? h("button.btn.btn-mini.btn-suave", { type: "button", title: `Copiar «${r.nombre}» en Markdown`, "aria-label": `Copiar ${r.nombre} en Markdown`, onClick: () => Recetas.copiarMarkdown(r.id, raciones) }, "📋 Copiar") : null
@@ -369,11 +347,7 @@
     const personas = personasSeleccionadas();
     const resumen = Planificador.resumenNutricional(res.slots);
     const dias = Planificador.DIAS.filter((d) => res.slots.some((s) => s.dia === d.id));
-    const grid = h("div.grid-semana", dias.map((d) => {
-      const comida = res.slots.find((x) => x.dia === d.id && x.momento === "comida"), cena = res.slots.find((x) => x.dia === d.id && x.momento === "cena");
-      const btnDia = comida && cena ? h("button.btn.btn-mini.btn-suave.btn-cambiar-dia", { type: "button", title: `Intercambiar comida y cena del ${d.nombre.toLowerCase()}`, "aria-label": `Intercambiar comida y cena del ${d.nombre.toLowerCase()}`, onClick: () => intercambiar(comida, cena, refrescar) }, "⇅ comida/cena") : null;
-      return h("div.columna-dia", h("div.dia-cab", h("h3.dia-titulo", d.nombre), btnDia), [comida, cena].map((s) => (s ? tarjetaSlot(s, refrescar) : null)));
-    }));
+    const grid = h("div.grid-semana", dias.map((d) => h("div.columna-dia", h("h3.dia-titulo", d.nombre), ["comida", "cena"].map((m) => { const s = res.slots.find((x) => x.dia === d.id && x.momento === m); return s ? tarjetaSlot(s, refrescar) : null; }))));
 
     const inputNombre = h("input.input", { type: "text", value: st.cfg.nombre || "", placeholder: nombreSugerido(), "aria-label": "Nombre del menú", onInput: (e) => { st.cfg.nombre = e.target.value; guardarBorrador(); } });
     const guardar = acciones.guardar = () => {
@@ -404,7 +378,7 @@
 
     UI.append(cont,
       h("div.resultado-barra",
-        h("div.resultado-info", h("strong", `${res.slots.length} comidas`), ` · ${personas.length} ${UI.plural(personas.length, "persona", "personas")} · ${res.raciones.toLocaleString("es-ES")} raciones por comida`, resumen ? h("span.muted", ` · media ${resumen.media.kcal} kcal y ${resumen.media.prot} g de proteína por ración`) : null,
+        h("div.resultado-info", h("strong", `${res.slots.length} comidas`), ` · ${personas.length} ${UI.plural(personas.length, "persona", "personas")} · ${res.raciones.toLocaleString("es-ES")} ${UI.plural(res.raciones, "ración", "raciones")} por comida`, resumen ? h("span.muted", ` · media ${resumen.media.kcal} kcal y ${resumen.media.prot} g de proteína por ración`) : null,
           personas.length > 1 ? h("div.reparto-menu", { title: "Qué parte de cada plato es para cada persona, según sus necesidades. Es igual para todos los platos del menú." }, "🍽️ Reparto de cada plato: ", h("strong", Nutricion.textoPorcentajes(Nutricion.repartoGrupo(personas)))) : null,
           resumen && personas.length ? h("div.reparto-menu", { title: "Energía media que come cada persona en cada comida del menú: kcal por ración estándar (calculadas a partir de los ingredientes) × su factor de ración" }, "🔥 Media por comida: ", h("strong", Nutricion.textoKcalPersonas(Nutricion.repartoGrupo(personas), resumen.media.kcal))) : null),
         h("div.resultado-acciones", h("button.btn", { type: "button", onClick: () => { generar(); refrescar(); UI.toast("Nuevo menú propuesto"); } }, "🎲 Proponer otro menú"))

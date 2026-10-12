@@ -25,7 +25,7 @@
     return rep && res ? Nutricion.textoKcalPersonas(rep, res.media.kcal) : "";
   };
   const textoRepartoMenu = (menu) => { const rep = repartoMenu(menu); return rep ? Nutricion.textoPorcentajes(rep) : ""; };
-  const textoRacionesMenu = (menu) => { const rep = repartoMenu(menu); return `${Number(menu.raciones).toLocaleString("es-ES")} raciones por comida${rep ? ` (${rep.map((f) => `${f.nombre} ${f.factor.toLocaleString("es-ES")}×`).join(" + ")})` : ""}`; };
+  const textoRacionesMenu = (menu) => { const rep = repartoMenu(menu); return `${Number(menu.raciones).toLocaleString("es-ES")} ${UI.plural(Number(menu.raciones), "ración", "raciones")} por comida${rep ? ` (${rep.map((f) => `${f.nombre} ${f.factor.toLocaleString("es-ES")}×`).join(" + ")})` : ""}`; };
 
   /* ---------- Almacén ---------- */
   const todos = () => DB.leer("menus", []).sort((a, b) => (b.creado || "").localeCompare(a.creado || ""));
