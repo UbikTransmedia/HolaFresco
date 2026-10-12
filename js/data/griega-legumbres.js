@@ -194,6 +194,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 32, hc: 64, grasa: 43 },
   etiquetas: ["tradicional", "de cuchara", "batch cooking", "invierno"],
   consejo: "En el norte de Grecia las alubias se guisan con loukaniko, la salchicha de cerdo ahumada aromatizada con puerro o piel de naranja, y con los pimientos rojos dulces de Florina. Aquí funciona una salchicha ahumada de cerdo de carnicería y pimientos asados de bote; para acercarte más al original, añade una tira de piel de naranja al guiso. Como todo guiso de alubias, gana al día siguiente: aguanta 3-4 días en la nevera y se congela bien.",
+  alternativa: "En olla exprés, cuece las alubias remojadas con el laurel y agua que las cubra dos dedos 12 min a presión (en vez de 1 h); luego añade el sofrito y sigue igual 20 min destapado.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

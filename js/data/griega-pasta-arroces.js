@@ -53,6 +53,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 31, hc: 81, grasa: 30 },
   etiquetas: ["tradicional", "alta en proteína", "ideal para llevar", "invierno", "sin verduras", "poco especiada"],
   consejo: "Los «polites», los griegos de Constantinopla, lo servían en Nochevieja o como relleno del pavo de Navidad, y lo llevaron consigo a Atenas cuando tuvieron que dejar la ciudad, sobre todo en las décadas de 1950 y 1960. Si no te gustan los higaditos, usa 250 g de contramuslo de pollo picado a cuchillo. La pimienta de Jamaica se vende también como «pimienta gorda»; si no la tienes, pon una pizca de clavo y otra de nuez moscada.",
+  alternativa: "Si los piñones se te van de precio, usa los mismos 25 g de almendra laminada y tuéstala igual en la mantequilla; el pilaf mantiene el contraste crujiente con las pasas.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

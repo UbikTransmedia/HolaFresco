@@ -131,6 +131,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 18, hc: 81, grasa: 32 },
   etiquetas: ["tradicional", "batch cooking", "otoño", "económica", "poco especiada"],
   consejo: "Los zrazy de patata son cocina casera de Bielorrusia, Ucrania y Lituania: se rellenan de setas, de huevo duro con cebolleta o de carne. El truco es que el puré esté seco y templado; caliente, la masa se pega y se abre al freír. Aguantan 2 días en la nevera y se recalientan en la sartén o 10 minutos en el horno a 180 °C.",
+  alternativa: "Si no encuentras nata agria, mezcla 70 g de yogur griego con 30 ml de nata para cocinar y unas gotas de limón; queda igual de espesa y con el mismo punto ácido.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -566,6 +567,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 20, hc: 63, grasa: 29 },
   etiquetas: ["creativa", "airfryer", "batch cooking", "ideal para llevar", "económica", "verduras escondidas"],
   consejo: "Los grechaniki son las croquetas de alforfón de la cocina ucraniana y rusa, que aprovechan la kasha del día anterior; suelen llevar carne picada, y esta versión la sustituye por queso y verdura. El rábano picante (khren o chrzan) se vende en bote en tiendas de productos del este; si no lo encuentras, usa una cucharadita de mostaza de Dijon fuerte. Sin airfryer, hornéalas 20 minutos a 200 °C. Aguantan 3 días en la nevera.",
+  alternativa: "Si en tu súper no hay smetana, prepara la salsa con 80 g de yogur griego y 2 cda de nata para cocinar, y mézclala con el rábano picante igual; cambia muy poco.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -836,6 +838,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 27, hc: 41, grasa: 39 },
   etiquetas: ["creativa", "para niños", "verano", "alta en proteína", "verduras escondidas", "poco especiada"],
   consejo: "En Ucrania, Rusia y Bielorrusia los syrniki suelen ser dulces y de desayuno, con mermelada; la versión salada con hierbas y verdura es una cena casera sencilla. El requesón tiene que estar seco: si suelta suero, escúrrelo 30 minutos en una gasa o la masa pedirá demasiada harina y quedarán duros.",
+  alternativa: "¿Sin nata agria? Bate 60 g de yogur griego con 1 cda de nata y un chorrito de zumo de limón: la textura y la acidez son casi idénticas a las de la smetana.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -875,6 +878,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 19, hc: 58, grasa: 16 },
   etiquetas: ["creativa", "rápida", "microondas", "ligera", "sin gluten", "económica", "poco especiada"],
   consejo: "Ziemniaki z twarożkiem, patatas nuevas cocidas con requesón, rábanos y cebollino, es la comida de verano del campo polaco; aquí se hace en el microondas y en formato de patata rellena. El twaróg polaco es un requesón seco y desmigable: un requesón escurrido o un queso fresco batido funcionan igual. Sin microondas, hornea las patatas 50 minutos a 200 °C.",
+  alternativa: "Para sustituir la nata agria, usa 3 cda de yogur griego con 1 cdta de nata o de mantequilla derretida; el relleno queda igual de cremoso y algo más fresco.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"

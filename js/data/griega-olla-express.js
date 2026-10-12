@@ -49,6 +49,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 44, hc: 20, grasa: 50 },
   etiquetas: ["tradicional", "invierno", "de cuchara", "alta en proteína", "sin gluten", "keto", "poco especiada"],
   consejo: "En Grecia se usa apio de hoja, más fino y aromático que el de rama; si encuentras apionabo, añade 150 g en dados junto con el apio para un sabor más profundo. El avgolemono no soporta recalentados fuertes: si vas a guardar una ración, apártala antes de ligar y haz la salsa al recalentar con 1 huevo y medio limón por ración.",
+  alternativa: "Sin olla exprés: guisa el cerdo en cazuela tapada 1 h a fuego suave con 150 ml más de agua, añade el apio y cuécelo 10 min más antes de ligar con el avgolemono.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -96,6 +97,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 43, hc: 45, grasa: 30 },
   etiquetas: ["tradicional", "otoño", "sin gluten", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "El membrillo se dora aparte y se añade al final para que no se deshaga bajo presión y conserve su punto ácido. Fuera de temporada (el membrillo se encuentra de octubre a diciembre) usa manzanas reinetas en gajos y cuécelas solo 6 min en la salsa. Como todos los guisos de vino y canela, está mejor de un día para otro y se congela muy bien.",
+  alternativa: "Si no tienes olla exprés, cuece la ternera en cazuela tapada a fuego lento 2 h, con 200 ml más de agua, hasta que se deshaga; el membrillo va igual al final.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -141,6 +143,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 40, hc: 28, grasa: 29 },
   etiquetas: ["tradicional", "verano", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "En Grecia se cocina en pleno verano con okra fresca y pequeña, y se come templado con pan y un trozo de feta. Si la encuentras fresca, recorta el tallo en forma de cono sin abrir la vaina, rocíala con 3 cda de vinagre y una pizca de sal, déjala 30 min y aclárala: así suelta mucha menos baba. Está aún mejor al día siguiente y aguanta 3 días en la nevera.",
+  alternativa: "En cazuela normal, cuece el pollo tapado 30 min a fuego suave en lugar de los 10 min de presión, con un chorrito más de agua; después sigue igual con la okra.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -187,6 +190,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 37, hc: 24, grasa: 41 },
   etiquetas: ["tradicional", "invierno", "sin gluten", "sin lácteos", "batch cooking", "económica"],
   consejo: "En el norte de Grecia se hace con la col prieta y dulce del invierno y se sirve con pan, feta y unas guindillas en vinagre. La guindilla seca sustituye al boukovo, los copos de pimiento picante que se usan en Macedonia. Como todos los guisos de col, está mejor al día siguiente: aguanta 3 días en la nevera y se congela bien.",
+  alternativa: "Sin olla: guisa el cerdo en cazuela tapada 50 min con 100 ml más de agua; añade la col encima, tapa y cuécela 15 min más hasta que esté tierna.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -237,6 +241,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 870, prot: 37, hc: 70, grasa: 47 },
   etiquetas: ["tradicional", "invierno", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "«Tas» es el cuenco hondo en que se guisaba: es un plato de la cocina politiki, la de los griegos de Estambul, que llegó a Tracia y Macedonia con los refugiados de 1922. Para una versión más económica usa aguja de ternera y cuenta 30 min de presión. El guiso aguanta 3 días en la nevera; el pilaf, mejor recién hecho.",
+  alternativa: "Sin olla exprés, el cordero necesita 1 h 15 min en cazuela tapada a fuego suave, con 150 ml más de agua; el pilaf se hace igual mientras tanto.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -280,6 +285,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 8, hc: 68, grasa: 28 },
   etiquetas: ["tradicional", "vegana", "sin gluten", "económica", "verano", "sin verduras", "poco especiada"],
   consejo: "Es uno de los ladera, los platos de aceite de oliva de los días de ayuno, y se hace en agosto, cuando el tomate maduro sobra: no recortes el aceite del final, es parte del plato. En Grecia se come templado, con aceitunas kalamata y pan; si no buscas versión vegana, ponle feta desmigada por encima. Aguanta 3 días en la nevera; al recalentar añade un chorrito de agua, porque el arroz absorbe el jugo.",
+  alternativa: "En cazuela, tapa y cuece el arroz 17–18 min a fuego suave en lugar de 6 min a presión, con 100 ml más de agua, y remueve un par de veces para que el tomate no se pegue.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -327,6 +333,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 660, prot: 40, hc: 24, grasa: 45 },
   etiquetas: ["tradicional", "verano", "sin gluten", "sin lácteos", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Es la ternera kokkinisti de todo el año, con tomate, canela y pimienta de Jamaica, pero con la berenjena de temporada. En las casas griegas la berenjena se fríe en abundante aceite; dorada en sartén queda igual de sabrosa y bastante más ligera. Se sirve con arroz blanco, pan o patatas fritas y un trozo de feta. Aguanta 3 días en la nevera y mejora de un día para otro.",
+  alternativa: "Sin olla exprés, cuece la ternera en cazuela tapada 1 h 45 min a fuego lento y con 200 ml más de agua; las berenjenas se doran y se añaden igual al final.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -373,6 +380,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 830, prot: 42, hc: 56, grasa: 46 },
   etiquetas: ["tradicional", "invierno", "sin gluten", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "El nombre viene de patata: en Naxos y Amorgos es el guiso de domingo con cabrito o cordero y a veces se termina en el horno de leña. Si quieres las patatas doradas por arriba, pasa el guiso a una fuente y gratínalo 10 min a 220 °C. Aguanta 3 días en la nevera y está mejor al día siguiente.",
+  alternativa: "Hazlo en cazuela si no tienes olla: el cordero va tapado 1 h 15 min a fuego suave con 150 ml más de agua, y las patatas, los últimos 25 min.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -463,6 +471,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 35, hc: 45, grasa: 48 },
   etiquetas: ["tradicional", "fin de semana", "sin gluten", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En Chipre se hacen en primavera con hojas tiernas de la parra del patio, que se congelan para todo el año; las de bote ya vienen cocidas en salmuera, por eso basta con escaldarlas. A diferencia de los dolmadakia de Cuaresma, solo de arroz, los koupepia llevan carne de cerdo y ternera. Aguantan 3 días en la nevera y están ricos fríos, como meze.",
+  alternativa: "Sin olla exprés, cuece los koupepia en una cazuela ancha tapada 45 min a fuego suave, con el plato encima, hasta que el arroz esté tierno; añade agua caliente si se quedan secos.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -555,6 +564,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 31, hc: 48, grasa: 30 },
   etiquetas: ["creativa", "alta en proteína", "vegetariana", "sin gluten", "otoño", "poco especiada"],
   consejo: "El halloumi es el queso de Chipre que se dora sin fundirse; si no lo encuentras, usa queso para plancha o feta en dados sin cocinar. Las lentejas aliñadas aguantan 3 días en la nevera y están ricas frías, pero el halloumi dóralo siempre al momento: recalentado se queda duro y gomoso.",
+  alternativa: "Sin olla, cuece las lentejas en cazuela 25 min a fuego suave con 700 ml de agua; o usa 400 g de lentejas cocidas de bote, enjuagadas y templadas, y aliña igual.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -601,6 +611,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 34, hc: 22, grasa: 52 },
   etiquetas: ["creativa", "para niños", "económica", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "En Grecia el aliño de limón, ajo y orégano (riganato) acompaña a casi todo lo que sale del asador; la miel ayuda a que se caramelice bajo el grill. La olla deja la carne tierna en menos de media hora y el gratinador pone el tostado. Si encuentras petimezi, el sirope de uva griego, úsalo en lugar de la miel. Las costillas cocidas aguantan 3 días en la nevera: glaséalas y gratínalas justo antes de comer.",
+  alternativa: "Sin olla exprés, hornea las costillas a 160 °C 1 h 30 min en una fuente tapada con papel de aluminio y los 250 ml de agua con limón, ajo y laurel; luego glasea y gratina igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -651,6 +662,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 45, hc: 56, grasa: 33 },
   etiquetas: ["creativa", "batch cooking", "alta en proteína", "invierno", "sin gluten", "poco especiada"],
   consejo: "La canela, el clavo y el vino tinto son el perfume del kima griego, la salsa de carne de los macarrones y del pastitsio; con alubias se convierte en plato único. Se congela muy bien en raciones. Si usas alubias rojas cocidas de bote (500 g escurridas), añade solo 150 ml de agua y cuenta 5 min de presión.",
+  alternativa: "Sin olla exprés, cuece las alubias remojadas en cazuela tapada a fuego suave 1 h 30 min, con 300 ml más de agua, hasta que estén cremosas.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -696,6 +708,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 42, hc: 32, grasa: 24 },
   etiquetas: ["creativa", "primavera", "alta en proteína", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "El calamar tiene dos puntos buenos: 1-2 minutos a fuego vivo o una cocción larga; entre medias queda gomoso. Bajo presión, 10 min equivalen a esa cocción larga y lo dejan tierno sin deshacerse. Si es congelado, descongélalo en la nevera y sécalo muy bien antes de saltearlo. Aguanta 2 días en la nevera; recaliéntalo a fuego suave.",
+  alternativa: "En cazuela, guisa el calamar tapado 40 min a fuego suave con 100 ml más de agua, en lugar de 10 min a presión; los guisantes van igual al final.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -788,6 +801,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 17, hc: 67, grasa: 24 },
   etiquetas: ["creativa", "vegetariana", "invierno", "batch cooking", "poco especiada"],
   consejo: "Krithari, la cebada, es un cereal antiguo en Grecia (de ahí viene el nombre del kritharaki, el orzo). Aguanta la presión sin pasarse y, a diferencia del arroz, se recalienta con un chorrito de caldo sin quedar pastosa: es perfecta para el táper. Si no tienes hinojo, usa apio; las acelgas se pueden cambiar por espinacas, que se añaden igual al final. Lleva gluten: para una versión sin gluten, cámbiala por arroz redondo con 6 min de presión.",
+  alternativa: "Sin olla, cuece la cebada en cazuela tapada 40 min a fuego suave con 150 ml más de caldo, removiendo de vez en cuando; el final con acelgas y feta no cambia.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -835,6 +849,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 21, hc: 77, grasa: 28 },
   etiquetas: ["creativa", "vegana", "sin gluten", "otoño", "económica", "batch cooking", "poco especiada"],
   consejo: "Las alubias de ojo negro (mavromatika en Grecia, carillas en España) se cuecen sin remojo previo y en poco tiempo. La naranja y el eneldo son la pareja de muchos guisos de aceite de las islas. Aguanta 4 días en la nevera y está mejor templado; si no buscas versión vegana, sírvelo con feta desmigada.",
+  alternativa: "Si no tienes olla exprés, cuece las alubias en cazuela tapada 30 min y añade después la calabaza con el zumo de naranja otros 10 min, hasta que esté tierna pero entera.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -884,6 +899,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 860, prot: 55, hc: 78, grasa: 34 },
   etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ouzo pierde el alcohol en la cocción y deja un aroma anisado suave que casa con el hinojo y la naranja; si no tienes, usa anís seco o 1 cdta de semillas de hinojo. El guiso se puede hacer el día antes, porque mejora, y se congela bien; el orzo, siempre al momento.",
+  alternativa: "Sin olla exprés: estofa los ossobucos en cazuela tapada 2 h a fuego lento, con 200 ml más de caldo, hasta que la carne se separe del hueso.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -930,6 +946,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 38, hc: 54, grasa: 24 },
   etiquetas: ["creativa", "otoño", "invierno", "sin gluten", "sin lácteos", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Las castañas son el fruto de otoño de las montañas griegas, del Pelion a Creta, y en muchas casas acompañan los guisos de fiesta con vino dulce, canela y pimienta de Jamaica. El Mavrodafni es un tinto dulce de Patras; si no lo encuentras, usa oporto o vino tinto con 1 cdta de miel. Con castañas frescas, hazles un corte, ásalas 20 min a 200 °C y pélalas en caliente. Aguanta 3 días en la nevera y está mejor al día siguiente.",
+  alternativa: "En cazuela convencional, cuece el pollo tapado 30 min a fuego suave en vez de 10 min a presión; luego añade las castañas y reduce igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"

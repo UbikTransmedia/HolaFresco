@@ -91,6 +91,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 594, prot: 35, hc: 46, grasa: 30 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "económica", "frito", "poco especiada"],
   consejo: "En las casas del mar Negro se acompaña de pan de maíz y cebolla cruda; si echas de menos ese punto, añade cebollino picado a la ensalada. Para la dieta baja en FODMAP hay que saber que la grasa no es un FODMAP, pero las frituras muy abundantes pueden disparar síntomas en el intestino irritable por sí solas: con 100 ml de aceite en sartén y bien escurridos los boquerones absorben poco.",
+  alternativa: "Si no encuentras zumaque, aliña la ensalada con la ralladura de medio limón y una pizca de pimentón dulce: aporta el mismo toque ácido y rojizo.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -180,6 +181,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 40, hc: 61, grasa: 24 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "picante", "ideal para llevar", "bajo en colesterol"],
   consejo: "Ambul thiyal significa «pescado agrio»: en Galle y Matara se cocía en seco con goraka para que aguantara días sin nevera, y se suele hacer con atún. Si encuentras hojas de curry, añade una rama con la canela. Para la dieta: el coco rallado es bajo en FODMAP hasta unos 18 g por ración y el tamarindo conviene usarlo en estas cantidades pequeñas; el ajo machacado de la receta original va sustituido por el aceite de ajo.",
+  alternativa: "Si no encuentras pasta de tamarindo, usa 2 cda de zumo de lima con 1 cdta de azúcar moreno en la pasta de especias; queda algo menos oscura, pero igual de agria.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -226,6 +228,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 572, prot: 40, hc: 40, grasa: 28 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "al horno", "para compartir"],
   consejo: "En las playas de Nayarit el pescado se asa en una parrilla doble, la «zaranda», sobre carbón de mangle. El adobo de allí lleva ajo, a veces cebolla y salsas de botella que casi siempre los contienen; el aceite de ajo y el tamari los sustituyen sin FODMAP. Dos o tres tortillas de maíz por ración son bajas en FODMAP: comprueba que sean 100 % de maíz, sin harina de trigo.",
+  alternativa: "Si no encuentras chiles guajillo y ancho, usa 3 ñoras hidratadas igual más 1 guindilla seca y 1 cdta de pimentón ahumado al triturar; el adobo sale muy parecido, algo menos afrutado.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -272,6 +275,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 707, prot: 39, hc: 68, grasa: 31 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "invierno", "poco especiada"],
   consejo: "En Hokkaido se hace en plancha grande con cebolla, setas shimeji y brotes de soja; quita las dos primeras y, si quieres más volumen, añade un puñado de brotes de soja, que son muy bajos en FODMAP. Elige miso de arroz (kome miso): el de cebada (mugi miso) lleva gluten. Hasta 1 cucharada de miso y unos 75 g de col blanca por ración están en verde en la dieta.",
+  alternativa: "¿Sin mirin? Sube el azúcar a 2 cdta y añade 1 cda más de sake o vino blanco; la salsa glasea igual y el cambio apenas se nota.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"
@@ -318,6 +322,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 693, prot: 44, hc: 64, grasa: 29 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "En Irán la marinada lleva cebolla rallada, que es justo lo que más fructanos aporta; el azafrán, el limón y el aceite de ajo sostienen el plato sin ella. El yogur sin lactosa marina igual de bien que el normal. Las brochetas frías son perfectas para el tupper del día siguiente con un poco de arroz.",
+  alternativa: "Si no tienes zumaque para los tomates, ralla por encima la piel del limón y añade unas gotas de su zumo; el toque ácido y fresco es prácticamente el mismo.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -639,6 +644,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 676, prot: 28, hc: 78, grasa: 28 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "de cuchara", "invierno", "poco especiada"],
   consejo: "En Japón lleva también bardana, konnyaku y la parte blanca del negi; sin ellos sigue siendo un tonjiru de casa. Para la dieta baja en FODMAP elige miso de arroz o mixto sin cebada y no pases de 2 cucharadas por ración; el daikon, la zanahoria y el tofu firme son bajos en FODMAP. Si usas dashi instantáneo, revisa que no lleve cebolla ni ajo en polvo.",
+  alternativa: "Si no encuentras daikon, usa los mismos 150 g de nabo pelado y en medias lunas; tiene un sabor muy parecido, también es bajo en FODMAP y se cuece en el mismo tiempo.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -910,6 +916,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 603, prot: 44, hc: 46, grasa: 27 },
   etiquetas: ["tradicional", "bajo en fodmap", "sin gluten", "sin lactosa", "invierno", "batch cooking", "poco especiada"],
   consejo: "Muchas recetas estadounidenses de pot roast usan un sobre de sopa de cebolla deshidratada: es de lo más concentrado en fructanos que hay. El dorado a fondo, el tomate concentrado y el vino dan aquí el sabor que aportaría la cebolla. El nabo y la zanahoria son bajos en FODMAP y la patata, libre. Se congela muy bien con su salsa.",
+  alternativa: "Sin olla exprés: hazlo en cazuela de fondo grueso tapada, 2 h 15 min a fuego suave con 150 ml más de agua, y añade las patatas, la zanahoria y el nabo los últimos 35 min.",
   tupper: true,
   contundencia: "media",
   coste: "media"

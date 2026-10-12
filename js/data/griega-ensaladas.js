@@ -559,6 +559,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 36, hc: 24, grasa: 43 },
   etiquetas: ["creativa", "para invitados", "al horno", "sin gluten", "alta en proteína", "otoño", "poco especiada"],
   consejo: "La melitzanosalata se puede hacer hasta 3 días antes y mejora en la nevera; sácala media hora antes de servir. Sala el cordero justo antes de marcarlo y no en la marinada, para que no suelte jugo y se dore bien. Con solomillo de cerdo o contramuslo de pollo queda igual de bien y sale más económica.",
+  alternativa: "Si los piñones te salen caros, tuesta en seco 20 g de almendra laminada; da el mismo crujiente tostado sobre la melitzanosalata y el plato apenas cambia.",
   tupper: false,
   contundencia: "media",
   coste: "premium"

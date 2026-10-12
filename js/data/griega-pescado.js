@@ -352,6 +352,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 44, hc: 50, grasa: 30 },
   etiquetas: ["tradicional", "al horno", "sin gluten", "alta en proteína", "fin de semana", "poco especiada"],
   consejo: "En las islas se rellenan calamares pequeños, de 12-15 cm; si solo encuentras grandes, usa 2 y alarga el horno 10 minutos. Puedes rellenarlos la víspera y guardarlos crudos en la nevera, ya en la fuente con la salsa: al día siguiente solo tienes que hornear. Aguantan 3 días en la nevera y también se comen templados.",
+  alternativa: "Para abaratar el relleno, cambia los piñones por 20 g de almendra cruda picada gruesa: se tuesta en el sofrito igual y casa muy bien con las pasas y la menta.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -797,6 +798,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 45, hc: 32, grasa: 32 },
   etiquetas: ["creativa", "sin gluten", "alta en proteína", "poco especiada"],
   consejo: "El secreto del avgolemono es templar el huevo: el caldo caliente se añade poco a poco y sin dejar de batir, y después la salsa nunca debe hervir. Si se corta, pásala unos segundos por la batidora con una cucharada de agua fría y se recupera. Queda igual de bien con lubina, merluza o bacalao.",
+  alternativa: "Si no quieres gastar en piñones, saltea las espinacas con 20 g de almendra laminada o de pipas de calabaza peladas; aportan el mismo punto crujiente.",
   tupper: false,
   contundencia: "media",
   coste: "media"

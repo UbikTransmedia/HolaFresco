@@ -132,6 +132,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 23, hc: 32, grasa: 36 },
   etiquetas: ["tradicional", "bajo en fodmap", "rápida", "sin gluten", "una sola sartén", "poco especiada"],
   consejo: "La mantequilla tiene muy poca lactosa y es apta en la dieta baja en FODMAP; los canónigos, el cebollino y el estragón también, así que es una cena segura para los días en que el intestino está más sensible. Revisa el pan sin gluten: algunos llevan inulina o harinas de legumbre, que sí son altas en FODMAP. Se come al momento.",
+  alternativa: "Si no encuentras estragón fresco, usa ½ cdta de estragón seco desmenuzado entre los dedos y añádelo a los huevos batidos para que se hidrate; el aroma anisado se mantiene.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -225,6 +226,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 25, hc: 53, grasa: 24 },
   etiquetas: ["creativa", "bajo en fodmap", "sin gluten", "picante", "económica"],
   consejo: "El berbere y muchas mezclas de especias del comercio llevan ajo y cebolla en polvo, que son muy altos en FODMAP; hacer la mezcla en casa con especias sueltas es la forma segura. La harina de teff es apta, no lleva gluten y se encuentra en herbolarios y supermercados grandes. La mantequilla sustituye al niter kibbeh, la mantequilla especiada etíope.",
+  alternativa: "Si no encuentras harina de teff, usa los mismos 120 g de harina de trigo sarraceno (también sin gluten y baja en FODMAP); las tortitas salen igual de esponjosas y con agujeritos, algo más oscuras.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -416,6 +418,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 655, prot: 14, hc: 84, grasa: 29 },
   etiquetas: ["creativa", "bajo en fodmap", "vegana", "sin gluten", "batch cooking", "invierno"],
   consejo: "No todas las calabazas son iguales en la dieta baja en FODMAP: la japonesa (kabocha) es apta en raciones generosas, mientras que la violín conviene limitarla a unos 60 g por persona, así que si solo tienes violín pon más zanahoria y chirivía. Las almendras son aptas hasta unas 10 por ración. Muchas mezclas de ras el hanout llevan ajo en polvo; por eso aquí van las especias sueltas.",
+  alternativa: "Si no encuentras mijo, cuece 120 g de quinoa lavada en 240 ml de agua 15 min tapada; si te falta la chirivía, pon una zanahoria más, cortada en bastones igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -516,6 +519,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 655, prot: 26, hc: 66, grasa: 32 },
   etiquetas: ["creativa", "bajo en fodmap", "vegana", "sin gluten", "picante", "alta en proteína", "superalimentos"],
   consejo: "Las mezclas cajún de bote casi siempre llevan ajo y cebolla en polvo, que concentran muchos fructanos; esta versión casera es apta. El tempeh es bajo en FODMAP hasta 100 g por ración, porque la fermentación reduce los galactanos de la soja, así que es una de las pocas proteínas vegetales seguras de esta dieta. En la «santísima trinidad» cajún, la cebolleta verde ocupa el sitio de la cebolla y el apio.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme prensado 10 min y cortado en filetes de 1 cm; sáltate el hervido y márcalo igual en la sartén bien caliente con su costra de especias.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -604,6 +608,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 27, hc: 67, grasa: 35 },
   etiquetas: ["creativa", "bajo en fodmap", "vegana", "sin gluten", "poco especiada"],
   consejo: "La berenjena es baja en FODMAP en raciones moderadas, unos 125 g por persona como aquí; si pones más, aparece el sorbitol. La polenta y el tempeh son aptos, así que el plato es completo y seguro. En Aviñón la bohémienne se termina con anchoas machacadas; si no eres vegano, 2 filetes deshechos en el tomate le dan su sabor original. La polenta sobrante se cuaja en la nevera y se dora a la plancha al día siguiente.",
+  alternativa: "¿No hay tempeh en tu súper? Cambia por 250 g de tofu firme bien escurrido y prensado; alíñalo igual con tamari y tomillo y dóralo 4 min por lado para que forme costra.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -734,6 +739,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 18, hc: 43, grasa: 44 },
   etiquetas: ["creativa", "bajo en fodmap", "al horno", "sin gluten", "verano", "ideal para llevar", "poco especiada"],
   consejo: "El asadillo manchego se aliña con ajo machacado; el aceite de ajo da ese sabor sin sus fructanos, que es lo que hace apto el plato en la dieta baja en FODMAP. El pimiento rojo es bajo en FODMAP en raciones moderadas, así que no pases de un pimiento por persona. Está mejor de un día para otro: guárdalo en la nevera con su jugo y añade el queso y los piñones al servir.",
+  alternativa: "Si los piñones se te van de precio, tuesta los mismos 20 g de almendra laminada en la sartén 2–3 min; aporta el mismo crujiente y sigue siendo apta en esta cantidad.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -778,6 +784,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 26, hc: 50, grasa: 37 },
   etiquetas: ["creativa", "bajo en fodmap", "sin gluten", "ideal para llevar"],
   consejo: "La ocopa original lleva cebolla, ajo, queso fresco, leche evaporada y galletas de trigo; aquí el aceite de ajo, el feta (bajo en lactosa) y la leche sin lactosa la dejan apta para la dieta baja en FODMAP, y los cacahuetes la espesan sin galletas. Los cacahuetes son de los frutos secos más seguros de esta dieta. El huacatay, la hierba peruana de la salsa, se sustituye por menta y cilantro. Lleva la salsa aparte si la vas a llevar en tupper.",
+  alternativa: "Si no encuentras pasta de ají amarillo, tritura medio pimiento amarillo asado (unos 60 g) con 1 guindilla fresca sin semillas y una pizca de cúrcuma; da el mismo color y un picor suave.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -821,6 +828,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 18, hc: 78, grasa: 40 },
   etiquetas: ["creativa", "bajo en fodmap", "rápida", "sin gluten", "invierno", "verduras escondidas", "superalimentos", "poco especiada"],
   consejo: "La pasta sin gluten de arroz, maíz o quinoa es apta en la dieta baja en FODMAP; evita las de legumbres (lentejas, garbanzos), que no lo son. El pecorino, como todo queso muy curado, apenas tiene lactosa. El pesto aguanta 3 días en la nevera cubierto con una capa de aceite, y la pasta sin gluten se come mejor recién hecha.",
+  alternativa: "Si no tienes pecorino, usa los mismos 40 g de parmesano curado, también casi sin lactosa; el pesto queda un poco menos salado, así que ajusta la sal al final.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -913,6 +921,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 24, hc: 92, grasa: 17 },
   etiquetas: ["creativa", "bajo en fodmap", "vegana", "sin gluten", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "La versión clásica lleva setas shiitake y tofu frito en lámina (aburaage); las setas son altas en FODMAP, así que aquí la zanahoria y el jengibre ponen el aroma. Las judías verdes son aptas hasta unos 75 g por persona, la cantidad del plato. Se conserva 2 días en la nevera y está muy rico frío, en bolitas tipo onigiri, para llevar.",
+  alternativa: "Si no encuentras mirin, sustitúyelo por 1,5 cdta de azúcar disuelta en 1 cda de agua; el arroz queda con el mismo punto dulce y sin alcohol.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

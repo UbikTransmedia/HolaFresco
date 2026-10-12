@@ -48,6 +48,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 39, hc: 12, grasa: 37 },
   etiquetas: ["tradicional", "primavera", "sin gluten", "de cuchara", "alta en proteína", "keto", "poco especiada"],
   consejo: "El fricase es el guiso de primavera de las casas griegas, muy típico en Atenas, cuando el cordero y las lechugas están en su mejor momento. Puedes cambiar la lechuga por escarola, acelgas o alcachofas. Si te sobra, recaliéntalo a fuego muy suave y sin que llegue a hervir, o el avgolemono se cortará.",
+  alternativa: "Con olla exprés, cuece el cordero con la cebolleta y el agua 20 min a presión en lugar de 1 h; abre, añade la lechuga y cuécela destapada 10 min antes de ligar con el avgolemono.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -414,6 +415,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 660, prot: 40, hc: 45, grasa: 34 },
   etiquetas: ["tradicional", "batch cooking", "invierno", "ideal para llevar", "sin verduras", "poco especiada"],
   consejo: "Es uno de los platos más característicos de Corfú, de la época veneciana; el nombre viene del italiano soffritto. Allí se acompaña de puré, patatas fritas o arroz blanco. La carne guisada aguanta 3 días en la nevera y está aún mejor al día siguiente; el puré, mejor recién hecho.",
+  alternativa: "Si tienes olla exprés, tras devolver la carne con el vino y el agua ciérrala y cuenta 15 min a presión en vez de 45–50 min de cazuela; después reduce la salsa destapada 3–4 min si queda clara.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
