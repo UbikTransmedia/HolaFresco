@@ -276,6 +276,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 18, hc: 87, grasa: 13 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "invierno", "bajo en colesterol"],
   consejo: "El templado de mostaza y especias en aceite se añade siempre al final y chisporroteando: es lo que da el aroma. Tapa la sartén al echar la mostaza, que salta mucho.",
+  alternativa: "Si no tienes pasta de tamarindo, añade al final el zumo de 1 lima y 1 cdta de azúcar moreno: aporta la misma acidez redonda, aunque algo más fresca.",
   contundencia: "media",
   coste: "económica"
 });
@@ -406,6 +407,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 38, hc: 74, grasa: 20 },
   etiquetas: ["tradicional", "fácil", "económica", "rápida", "para niños", "saciante", "sin verduras", "poco especiada"],
   consejo: "El nombre significa 'padre e hijo' (pollo y huevo). La clave es no cuajar el huevo del todo: apágalo cuando aún tiemble, que el calor residual termina el trabajo. Si lo haces por raciones en una sartén pequeña, queda como en Japón.",
+  alternativa: "Sin mirin, usa 3 cda de vino blanco y sube el azúcar a 2 cdta en total: la salsa queda igual de dulce y brillante.",
   contundencia: "media",
   coste: "económica"
 });
@@ -449,6 +451,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 31, hc: 91, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "batch cooking", "invierno", "poco especiada"],
   consejo: "Es la 'comida de mamá' por excelencia en Japón. La tapa de papel apoyada sobre el guiso hace que el caldo bañe todo sin remover, así las patatas no se rompen. Al día siguiente está todavía más rico.",
+  alternativa: "Si no encuentras mirin, pon 2 cda de vino blanco y añade 1 cdta más de azúcar al caldo; el nikujaga apenas cambia.",
   contundencia: "media",
   coste: "media"
 });
@@ -496,6 +499,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 25, hc: 74, grasa: 25 },
   etiquetas: ["tradicional", "para invitados", "de domingo", "ideal para llevar", "poco especiada"],
   consejo: "Saltear cada verdura por separado parece trabajo extra, pero es lo que mantiene cada sabor y color. El japchae se come templado o incluso frío, así que es perfecto para preparar con antelación.",
+  alternativa: "Si no encuentras fideos de boniato, usa la misma cantidad de fideos de soja (vermicelli de judía mungo) o de arroz finos, cocidos solo 3-4 min: quedan algo más finos y menos elásticos, pero absorben igual la salsa.",
   contundencia: "media",
   coste: "media"
 });
@@ -801,6 +805,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 815, prot: 31, hc: 74, grasa: 44 },
   etiquetas: ["tradicional", "saciante", "fácil", "económica", "rápida", "picante"],
   consejo: "La carne tiene que quedar casi seca y crujiente, no jugosa: dale tiempo a fuego fuerte. El tahini sustituye muy bien a la pasta de sésamo china, que es de sésamo tostado; si quieres el sabor exacto, tuesta el tahini en una sartén 1 minuto.",
+  alternativa: "Si no hay pak choi, usa 150 g de acelga tierna en tiras o de col china: escáldala 1 min igual que el pak choi y conserva el contraste verde y crujiente.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -846,6 +851,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 45, hc: 57, grasa: 25 },
   etiquetas: ["tradicional", "fácil", "rápida", "picante", "alta en proteína", "sin verduras", "bajo en colesterol"],
   consejo: "Prepara todo antes de encender el fuego: el salteado dura menos de 5 minutos y no da tiempo a picar nada. Las guindillas perfuman el aceite pero no hace falta comérselas.",
+  alternativa: "Si no encuentras pimienta de Sichuan, muele 1 cdta de pimienta negra con la ralladura de ½ limón: no adormece la boca, pero recuerda su toque cítrico.",
   contundencia: "media",
   coste: "media"
 });
@@ -893,6 +899,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 850, prot: 44, hc: 51, grasa: 52 },
   etiquetas: ["tradicional", "al horno", "saciante", "económica", "para niños", "de domingo"],
   consejo: "El baño de leche con limón ablanda la carne y hace que el rebozado se pegue: es el secreto de las abuelas del sur. Hornear sobre rejilla hace que quede crujiente también por debajo.",
+  alternativa: "En lugar de panko, desmiga 2 rebanadas de pan de molde del día anterior en migas gruesas, o tritura 40 g de copos de maíz sin azúcar: el rebozado queda igual de crujiente.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -985,6 +992,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 52, hc: 60, grasa: 44 },
   etiquetas: ["tradicional", "al horno", "saciante", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "Es el asado del domingo de las abuelas americanas: lo metes al horno y te olvidas. Usa una pieza con vetas de grasa y colágeno (aguja, morcillo, llana); una pieza magra quedaría seca. Las sobras son perfectas para bocadillos.",
+  alternativa: "Con olla exprés: dora la carne y haz la salsa en la misma olla, cocina 50 min a presión, abre, añade patatas y zanahorias y dale 8 min más; queda igual de tierna en un tercio del tiempo.",
   contundencia: "contundente",
   coste: "premium"
 });

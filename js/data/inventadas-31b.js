@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 24, hc: 85, grasa: 26 },
   etiquetas: ["sin gluten", "airfryer", "aprovechamiento", "tupper", "para compartir", "saciante", "poco especiada"],
   consejo: "Es la mejor forma de aprovechar un risotto sobrante. Para celíacos: el caldo de cubo es la trampa más habitual, usa uno con sello sin gluten, igual que el pan rallado. Se congelan ya empanados y se recalientan en la airfryer 6 minutos a 190 °C.",
+  alternativa: "Sin airfryer, hornea los arancini a 210 °C con ventilador 20-22 min sobre papel, pincelados de aceite y girados a mitad, hasta que estén dorados y la mozzarella asome.",
   contundencia: "contundente",
   coste: "media",
   tupper: true
@@ -87,6 +88,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 286, prot: 8, hc: 32, grasa: 14 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "ligera", "vegana", "tupper", "batch cooking", "invierno", "detox", "poco especiada"],
   consejo: "Asar las verduras en la airfryer en lugar de hervirlas concentra su dulzor y da una crema mucho más sabrosa. Para celíacos, el caldo comercial debe llevar sello sin gluten. Aguanta 4 días en nevera y se congela sin problema.",
+  alternativa: "Las verduras también se pueden asar en el horno: 200 °C durante 30 min en una bandeja, removiendo una vez; el resultado es igual de caramelizado.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -174,6 +176,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 380, prot: 36, hc: 14, grasa: 20 },
   etiquetas: ["sin gluten", "airfryer", "ligera", "alta en proteína", "para compartir", "poco especiada"],
   consejo: "El romesco tradicional se espesa con pan frito; aquí lo hacen solo los frutos secos y el tomate asado, así que es apto para celíacos sin perder textura. El romesco aguanta 4 días en nevera, pero las brochetas se disfrutan al momento.",
+  alternativa: "Si el rape se te va de precio, usa emperador o corvina en dados de 3 cm: aguantan igual de firmes en la brocheta. Sin ñora, vale 1 cda de carne de pimiento choricero de bote.",
   contundencia: "ligera",
   coste: "premium",
   tupper: false
@@ -351,6 +354,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 28, hc: 55, grasa: 22 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "vegana", "tupper", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "El tempeh de soja es apto para celíacos, pero hay variedades con cebada o trigo fermentado: lee siempre la etiqueta. Aguanta 3 días en tupper; recalienta el tempeh y el boniato 4 minutos en la airfryer para recuperar el crujiente.",
+  alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme bien prensado en tiras: queda más tierno y menos terroso, pero con la costra de pimentón funciona igual de bien.",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -578,6 +582,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 664, prot: 36, hc: 40, grasa: 40 },
   etiquetas: ["sin gluten", "airfryer", "saciante", "para compartir", "de domingo", "poco especiada"],
   consejo: "El baño de hielo es clave para que la yema no siga cociendo y quede líquida en el centro. Para celíacos: no uses carne de salchicha comprada (casi siempre lleva pan o harina), sino carne picada sin preparar; los pepinillos y la mostaza deben ser con sello.",
+  alternativa: "Si no hay salvia fresca, pon ½ cdta de salvia seca en la carne; en su defecto, la misma cantidad de tomillo seco.",
   contundencia: "contundente",
   coste: "media",
   tupper: false
@@ -708,6 +713,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 36, hc: 80, grasa: 24 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "tupper", "saciante", "para compartir", "poco especiada"],
   consejo: "Las arepas son naturalmente sin gluten y salen perfectas en la airfryer, sin plancha ni aceite. Para celíacos, busca harina de maíz precocida con el sello sin gluten. Las arepas cocidas se guardan 3 días en la nevera y se reavivan 5 minutos a 180 °C; el relleno, en un tupper aparte.",
+  alternativa: "Sin airfryer: dora las arepas en sartén antiadherente sin aceite 5 min por cada lado a fuego medio y termínalas 10 min en el horno a 200 °C, hasta que suenen huecas.",
   contundencia: "contundente",
   coste: "media",
   tupper: true
@@ -753,6 +759,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 20, hc: 75, grasa: 20 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "tupper", "batch cooking", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Perfecto para la fiambrera: guarda la salsa en un bote pequeño y aliña al comer. Para celíacos, el tahini y el zumaque deben llevar sello; el arroz integral es apto, pero compra uno sin mezclas de cereales.",
+  alternativa: "En lugar de zumaque, espolvorea la ralladura de medio limón con una pizca de sal sobre los garbanzos asados: mantiene ese punto ácido.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -886,6 +893,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 686, prot: 28, hc: 85, grasa: 26 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "vegana", "saciante", "poco especiada"],
   consejo: "Pon el tofu sobre los fideos en el último momento para que no se ablande. Para celíacos: los fideos de arroz deben ser 100 % arroz (algunos 'noodles' mezclan trigo) y el tamari con sello; nunca uses salsa de soja normal.",
+  alternativa: "Si no encuentras pak choi, usa col china en tiras anchas o las hojas tiernas de un manojo de acelgas: saltéalas 2 min, igual de jugosas y verdes.",
   contundencia: "contundente",
   coste: "media",
   tupper: false
@@ -971,6 +979,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 300, prot: 32, hc: 22, grasa: 10 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Pon algo de peso (las patatas) en el fondo del paquete para que el aire de la airfryer no levante el papel y lo lleve contra la resistencia. Es naturalmente sin gluten y bajo en FODMAP: el aceite de ajo y el cebollino dan sabor sin ajo ni cebolla.",
+  alternativa: "Puedes hacer los papillotes en el horno: precocina las patatas 15 min a 200 °C, monta los paquetes y hornéalos 12-15 min a 200 °C.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -1014,6 +1023,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 694, prot: 34, hc: 45, grasa: 42 },
   etiquetas: ["sin gluten", "airfryer", "saciante", "de domingo", "para ocasiones especiales", "poco especiada"],
   consejo: "La maicena liga la salsa igual que la harina de trigo de la receta clásica y es segura para celíacos. Si te sobra grasa de pato en la cesta, guárdala para asar patatas: es oro.",
+  alternativa: "Sin airfryer: asa el boniato en el horno a 200 °C 25 min y, mientras, haz el magret en sartén sin aceite, piel abajo 8 min a fuego medio y 3 min por el otro lado; reposo de 5 min igual.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false

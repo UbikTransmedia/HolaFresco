@@ -45,6 +45,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 45, hc: 70, grasa: 30 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "para niños", "alta en proteína", "saciante", "sin verduras", "poco especiada"],
   consejo: "La mezcla de harina de maíz y maicena da una costra más fina y crujiente que la harina de maíz sola. Para celíacos, comprueba que la harina de maíz, el pimentón y el ajo en polvo lleven el sello sin gluten, y limpia bien la cesta si antes se ha rebozado algo con trigo.",
+  alternativa: "Sin airfryer: hornea los gajos a 220 °C con ventilador 30-35 min; mete el pollo rebozado sobre una rejilla los últimos 15 min, dándole la vuelta a mitad, para que cruja por ambos lados.",
   contundencia: "contundente",
   coste: "económica",
   tupper: false
@@ -91,6 +92,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 42, hc: 18, grasa: 30 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "para niños", "alta en proteína", "poco especiada"],
   consejo: "La almendra se dora antes que el pan rallado: vigila los últimos minutos y baja a 180 °C si se oscurece. Para celíacos, usa mostaza y parmesano con sello sin gluten; la mayoría lo son, pero algunas mostazas llevan aditivos con trigo.",
+  alternativa: "Si no tienes airfryer, hornea los nuggets sobre papel a 200 °C con ventilador 15-18 min, girándolos a mitad; la costra de almendra queda igual de dorada.",
   contundencia: "media",
   coste: "media",
   tupper: false
@@ -136,6 +138,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 678, prot: 40, hc: 35, grasa: 42 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "para compartir", "saciante"],
   consejo: "No te saltes el secado ni la maicena: la humedad es enemiga del crujiente. Para celíacos, revisa que el ajo en polvo sea sin gluten; las mezclas de especias son una fuente habitual de trazas.",
+  alternativa: "En horno: coloca las alitas en una rejilla sobre la bandeja y ásalas a 200 °C con ventilador 40-45 min, girándolas a mitad; las mazorcas pueden ir en la misma bandeja los últimos 20 min.",
   contundencia: "contundente",
   coste: "económica",
   tupper: false
@@ -225,6 +228,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 676, prot: 38, hc: 68, grasa: 28 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "alta en proteína", "tupper", "poco especiada"],
   consejo: "La miel quema rápido: añade la segunda capa de glaseado al final para que brille sin amargar. Para celíacos, comprueba que el tamari indique 'sin gluten', porque algunos llevan un poco de trigo. Aguanta bien en tupper: recalienta el salmón a baja potencia o cómelo frío sobre el arroz.",
+  alternativa: "Si lo haces en el horno, asa el brócoli a 200 °C 12 min, añade el salmón glaseado y hornea 10-12 min más; pincélalo de nuevo a mitad para que brille.",
   contundencia: "contundente",
   coste: "premium",
   tupper: true
@@ -320,6 +324,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 516, prot: 20, hc: 55, grasa: 24 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "tupper", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Los garbanzos deben estar muy secos o el falafel se desmorona. Para celíacos, la harina de garbanzo y las tortillas de maíz deben llevar sello: se procesan a menudo junto al trigo. En tupper, guarda la salsa aparte y recalienta los falafel 4 minutos a 180 °C.",
+  alternativa: "Sin airfryer, hornea los falafel pincelados de aceite a 200 °C con ventilador 20-25 min, dándoles la vuelta a mitad: salen algo menos crujientes pero igual de dorados.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -365,6 +370,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 662, prot: 24, hc: 92, grasa: 22 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "saciante", "poco especiada", "bajo en colesterol"],
   consejo: "Mezcla el tofu con la salsa justo antes de servir: si reposa en ella pierde el crujiente. La maicena liga la salsa igual que la harina y es apta para celíacos; asegúrate de que el tamari lleve el sello sin gluten.",
+  alternativa: "Sin airfryer, dora los dados de tofu enharinados en sartén antiadherente con 2 cda de aceite, 8-10 min a fuego medio-alto, girándolos para que crujan por todas las caras.",
   contundencia: "contundente",
   coste: "económica",
   tupper: false
@@ -406,6 +412,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 368, prot: 18, hc: 38, grasa: 16 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "económica", "ligera", "vegetariana", "tupper", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Para celíacos, el curry en polvo es la especia que más a menudo lleva harina como antiapelmazante: elige uno con sello sin gluten. Aguanta 2-3 días en la nevera; recalienta la coliflor 4 minutos en la airfryer y pon el yogur frío al servir.",
+  alternativa: "En horno convencional, extiende la coliflor y los garbanzos en una sola capa y ásalos a 220 °C 25 min, removiendo a mitad; añade las almendras los últimos 3 min.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -579,6 +586,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 428, prot: 22, hc: 22, grasa: 28 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "vegetariana", "ligera", "tupper", "verano", "poco especiada"],
   consejo: "El halloumi está mejor recién hecho, pero las verduras aguantan 3 días en la nevera: para tupper, guárdalas aliñadas y añade el queso dorado en el momento. Para celíacos, el halloumi es apto, pero comprueba la etiqueta de las mezclas de hierbas secas.",
+  alternativa: "Si no encuentras halloumi, usa queso para freír o para plancha en lonchas de 1 cm (lo tienen la mayoría de súper): se dora igual sin fundirse, solo es algo menos salado.",
   contundencia: "ligera",
   coste: "media",
   tupper: true
@@ -715,6 +723,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 16, hc: 85, grasa: 14 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "tupper", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Para tupper, guarda los boniatos y el relleno de alubias por separado y añade el aguacate en el momento. Para celíacos, las legumbres en conserva al natural son aptas; revisa solo las que vienen guisadas o con salsa.",
+  alternativa: "Sin airfryer, asa los boniatos en el horno a 200 °C 45-50 min sobre papel, o adelanta con 8 min de microondas y termínalos 20 min en el horno para que la piel se arrugue.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -759,6 +768,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 320, prot: 14, hc: 30, grasa: 16 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegetariana", "ligera", "para compartir", "poco especiada", "bajo en colesterol"],
   consejo: "El agua con gas aligera la masa igual que una tempura. La harina de garbanzo es naturalmente sin gluten, pero para celíacos busca la que lleve sello, porque a menudo se muele en molinos que procesan trigo.",
+  alternativa: "¿No tienes zumaque? Ralla la piel de medio limón sobre la masa y añade una pizca de sal al servir: da el mismo toque ácido y fresco.",
   contundencia: "ligera",
   coste: "económica",
   tupper: false
@@ -846,6 +856,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 528, prot: 40, hc: 65, grasa: 12 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "bajo en fodmap", "tupper", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Es apta para dieta baja en FODMAP: el cebollino aporta el toque de cebolla sin sus FODMAP y no lleva ajo. Para celíacos, revisa que tanto el tamari como el mirin indiquen 'sin gluten'. Se recalienta bien en tupper con una cucharada de agua sobre el arroz.",
+  alternativa: "Si no encuentras mirin sin gluten, usa 2 cda de vino blanco seco y otra cdta de azúcar moreno: el glaseado brilla igual y la receta sigue siendo apta y baja en FODMAP.",
   contundencia: "media",
   coste: "económica",
   tupper: true
@@ -935,6 +946,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 544, prot: 12, hc: 70, grasa: 24 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "económica", "vegana", "picante", "superalimentos", "bajo en colesterol"],
   consejo: "El chipotle en adobo pica: empieza con media cucharada si no estás acostumbrado. Para celíacos, revisa la lata de chipotle (algunas salsas de adobo llevan harina) y usa tortillas 100 % maíz con sello.",
+  alternativa: "Si no encuentras chipotle en adobo, mezcla 1 cdta de pimentón ahumado picante, 1 cdta de tomate concentrado y unas gotas de vinagre: sabor ahumado muy parecido y sigue siendo vegano y sin gluten.",
   contundencia: "media",
   coste: "económica",
   tupper: false

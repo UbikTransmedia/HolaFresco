@@ -44,6 +44,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 42, hc: 48, grasa: 24 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Para celíacos: usa tortillas 100 % maíz con sello sin gluten y revisa la pasta de achiote, que algunas marcas espesan con harina. Guarda el pollo con su jugo: aguanta 3 días en la nevera y mejora de un día para otro.",
+  alternativa: "Si no encuentras pasta de achiote, mezcla 1 cda de pimentón dulce, ½ cdta de orégano, una pizca de comino y 1 cda de vinagre: da el color rojo y un sabor muy cercano. Sin olla lenta, cazuela tapada a fuego mínimo 1 h 15 min.",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "económica"
@@ -137,6 +138,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 46, hc: 66, grasa: 16 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "alta en proteína", "verduras escondidas", "bajo en colesterol"],
   consejo: "Algunas mezclas de garam masala y de especias molidas se envasan en plantas con harinas: busca el sello sin gluten. La salsa aguanta 3 días en la nevera; recalienta el arroz aparte con un chorrito de agua.",
+  alternativa: "Sin olla lenta: rehoga la base en una cazuela, añade pollo y espinacas, tapa y cuece a fuego suave 40 min, removiendo de vez en cuando; tritura y sigue igual.",
   cocina: "india",
   contundencia: "media",
   coste: "media"
@@ -184,6 +186,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 40, hc: 82, grasa: 26 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno", "poco especiada"],
   consejo: "Para celíacos, compra polenta con sello sin gluten (la de maíz puede contaminarse en molinos de trigo) y revisa el caldo. El estofado aguanta 3 días; la polenta se endurece en frío: recaliéntala con un chorro de leche batiendo.",
+  alternativa: "Si no tienes olla lenta, guisa en cazuela tapada a fuego mínimo 1 h 45 min, añadiendo un chorrito de caldo si se seca; las castañas, en los últimos 15 min.",
   cocina: "europea",
   contundencia: "contundente",
   coste: "media"
@@ -227,6 +230,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 18, hc: 52, grasa: 14 },
   etiquetas: ["sin gluten", "olla lenta", "vegana", "fácil", "tupper", "batch cooking", "económica", "ligera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El pimentón ahumado y el comino deben ser certificados sin gluten: son de los productos que más contaminación cruzada presentan. Congela en raciones: aguanta 3 meses perfecta.",
+  alternativa: "En cazuela normal está lista en 30 min a fuego medio con tapa: las lentejas rojas se deshacen rápido y la crema sale igual de fina.",
   cocina: "española",
   contundencia: "ligera",
   coste: "económica"
@@ -366,6 +370,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 52, hc: 52, grasa: 42 },
   etiquetas: ["sin gluten", "olla lenta", "tupper", "invierno", "alta en proteína"],
   consejo: "El ras el hanout es una mezcla de especias: compra uno con sello sin gluten o prepara el tuyo con comino, cilantro, canela, jengibre y pimentón. Si lo acompañas de cuscús, cámbialo por quinoa o arroz: el cuscús es trigo.",
+  alternativa: "Sin olla lenta: hornea el guiso en una cazuela tapada a 160 °C unas 2 h 30 min y añade los garbanzos en la última media hora.",
   cocina: "oriente-medio",
   contundencia: "contundente",
   coste: "premium"
@@ -412,6 +417,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 45, hc: 80, grasa: 38 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno"],
   consejo: "Revisa la etiqueta de la pasta de curry y de la salsa de pescado: la mayoría son sin gluten, pero algunas marcas añaden salsa de soja con trigo. El curry mejora al día siguiente y aguanta 3 días en la nevera.",
+  alternativa: "Si no tienes cardamomo en vaina, usa una pizca de cardamomo molido. Sin olla lenta, cuece la carne a fuego mínimo tapada 1 h 30 min y añade la patata para 25 min más.",
   cocina: "sudeste-asiático",
   contundencia: "contundente",
   coste: "media"
@@ -641,6 +647,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 46, hc: 62, grasa: 30 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "de cuchara", "invierno", "poco especiada"],
   consejo: "No enharines la carne antes de dorarla como en las recetas clásicas: la maicena al final liga igual y es segura para celíacos. Congela el estofado sin las patatas, que se vuelven harinosas al descongelar.",
+  alternativa: "Si no encuentras chirivía, usa un nabo pequeño o una zanahoria más: el estofado pierde solo un punto de dulzor.",
   cocina: "europea",
   contundencia: "contundente",
   coste: "media"
@@ -686,6 +693,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 42, hc: 62, grasa: 34 },
   etiquetas: ["sin gluten", "olla lenta", "de cuchara", "fácil", "tupper", "batch cooking", "económica", "invierno", "poco especiada"],
   consejo: "Si quieres añadir chorizo o morcilla como en el cocido, compra solo los que lleven sello sin gluten: muchas morcillas llevan pan o harina. Pon sal al final, porque la costilla adobada ya aporta.",
+  alternativa: "Con olla exprés, cuece los garbanzos remojados con la costilla 25 min a presión; abre, añade el nabo y el repollo y dales 10-12 min más a fuego medio sin tapa.",
   cocina: "española",
   contundencia: "contundente",
   coste: "económica"
@@ -868,6 +876,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 870, prot: 50, hc: 55, grasa: 50 },
   etiquetas: ["sin gluten", "olla lenta", "tupper", "invierno", "fin de semana", "poco especiada"],
   consejo: "Esta salsa no necesita harina: se espesa reduciendo el jugo de colágeno de la costilla. Revisa el caldo de carne, que es la única fuente posible de gluten. Si la preparas la víspera, la grasa se solidifica en frío y se retira de una vez.",
+  alternativa: "Con olla exprés, las costillas quedan tiernas en 50 min a presión. Si no hay chirivía, haz el puré solo con patata (450 g) y una pizca de nuez moscada.",
   cocina: "europea",
   contundencia: "contundente",
   coste: "premium"
@@ -911,6 +920,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 22, hc: 108, grasa: 9 },
   etiquetas: ["sin gluten", "vegana", "olla lenta", "fácil", "tupper", "batch cooking", "económica", "picante", "sin verduras", "bajo en colesterol"],
   consejo: "Revisa la lata de chipotle en adobo: la mayoría son sin gluten, pero algunas marcas usan harina de trigo para espesar el adobo. Los frijoles se congelan muy bien con su caldo.",
+  alternativa: "Si no hay chipotle en adobo, usa 1 cdta de pimentón ahumado picante y 1 cdta de tomate concentrado: el mismo humo, vegano y sin gluten. Sin olla lenta, 1 h 30 min en cazuela tapada.",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "económica"
@@ -1134,6 +1144,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 38, hc: 62, grasa: 22 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno", "poco especiada"],
   consejo: "La salsa queda ligada por la gelatina de la carrillada y el almidón del boniato, sin necesidad de harina. Comprueba el sello sin gluten del pimentón y del caldo. Aguanta 3 días y se congela muy bien.",
+  alternativa: "Con olla exprés, las carrilladas se hacen en 35 min a presión; deja el boniato fuera y cuécelo en la salsa, ya sin tapa, 15 min más mientras reduce.",
   cocina: "española",
   contundencia: "media",
   coste: "media"

@@ -44,6 +44,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 40, hc: 70, grasa: 22 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "poco especiada"],
   consejo: "El arroz es naturalmente sin gluten, pero el caldo de brick o pastilla puede llevar trigo: usa uno certificado o casero. Los arroces melosos siguen chupando caldo y se pasan, así que cómelo recién hecho.",
+  alternativa: "Fuera de temporada, usa 6 corazones de alcachofa en conserva al natural, escurridos, y añádelos con el arroz en lugar de rehogarlos: no se deshacen y el sabor apenas cambia.",
   cocina: "española",
   contundencia: "media",
   coste: "media"
@@ -226,6 +227,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 30, hc: 40, grasa: 50 },
   etiquetas: ["sin gluten", "vegana", "una sola olla", "fácil", "tupper", "batch cooking", "alta en proteína"],
   consejo: "Si lo acompañas con pan, que sea pan sin gluten o tortillas de maíz: el naan es de trigo. Revisa el sello del garam masala. Aguanta 3 días en la nevera; la salsa espesa en frío, así que aclárala con agua al recalentar.",
+  alternativa: "Sin cardamomo en vaina, añade ¼ cdta de cardamomo molido o sube media cucharadita el garam masala, que ya lo lleva.",
   cocina: "india",
   contundencia: "contundente",
   coste: "media"
@@ -318,6 +320,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 26, hc: 46, grasa: 18 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "ligera", "invierno", "poco especiada"],
   consejo: "Los fideos de arroz deben ser 100 % arroz: algunos «fideos orientales» mezclan trigo. Tamari y salsa de pescado, siempre con sello sin gluten. Si quieres guardar sopa, guarda caldo y albóndigas sin fideos y cuécelos al recalentar.",
+  alternativa: "Si no hay pak choi, vale la misma cantidad de acelgas tiernas o de col china en trozos grandes; échalas a la sopa 2 min antes de servir.",
   cocina: "asiática",
   contundencia: "ligera",
   coste: "media"
@@ -586,6 +589,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 36, hc: 62, grasa: 12 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "tupper", "batch cooking", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La yuca y la patata espesan la salsa de forma natural, sin harina. Si usas yuca congelada, cuécela 5 minutos menos. Aguanta 3 días en la nevera y el sabor mejora de un día para otro.",
+  alternativa: "Si no encuentras yuca fresca ni congelada, pon 200 g más de patata harinosa: el sudado espesa igual, aunque pierde un poco de su textura fibrosa.",
   cocina: "latinoamericana",
   contundencia: "media",
   coste: "económica"
@@ -632,6 +636,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 410, prot: 26, hc: 50, grasa: 12 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "ligera", "picante"],
   consejo: "Esta sopa se espesa con la propia patata y el maíz, sin roux de harina. Revisa la lata de chipotle y el caldo. Las gambas recalentadas quedan duras: si te sobra, guarda la base y añade gambas nuevas al recalentar.",
+  alternativa: "Cuando no hay chipotle en adobo, rehoga con la cebolla 1 cdta de pimentón ahumado picante: la sopa conserva su punto de humo.",
   cocina: "latinoamericana",
   contundencia: "ligera",
   coste: "media"
@@ -676,6 +681,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 32, hc: 70, grasa: 36 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "económica", "fin de semana", "poco especiada"],
   consejo: "Un arroz de domingo seguro para celíacos siempre que el caldo y el pimentón sean certificados. Si usas «sazonador para paella», comprueba el sello: algunos llevan harina como antiapelmazante. Mejor recién hecho.",
+  alternativa: "Si no es temporada de alcachofa, echa 4-5 corazones de bote al natural cuando añadas el caldo; quedan tiernos sin deshacerse.",
   cocina: "española",
   contundencia: "contundente",
   coste: "económica"
@@ -719,6 +725,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 34, hc: 70, grasa: 16 },
   etiquetas: ["sin gluten", "una sola olla", "fácil", "tupper", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Usa tamari certificado sin gluten y revisa el mirin: algunos condimentos tipo mirin llevan jarabe de trigo o malta. Al día siguiente se come frío o templado en forma de onigiri, guardado siempre en la nevera y consumido en 24 horas.",
+  alternativa: "Si no encuentras shiitake, usa champiñón marrón laminado (igual cantidad). Sin mirin, sirve 1 cda de vino blanco con ½ cdta de azúcar.",
   cocina: "asiática",
   contundencia: "media",
   coste: "premium"
@@ -983,6 +990,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 870, prot: 44, hc: 85, grasa: 40 },
   etiquetas: ["sin gluten", "una sola olla", "tupper", "fin de semana"],
   consejo: "Si compras una mezcla de especias para kabsa o baharat, comprueba el sello sin gluten: las mezclas son la principal fuente de contaminación de este plato. Aguanta 3 días en la nevera; recalienta tapado con un chorrito de agua.",
+  alternativa: "Si no tienes pimienta de Jamaica, pon ½ cdta de pimienta negra y una pizca de nuez moscada; y si te falta cardamomo en vaina, una pizca de cardamomo molido.",
   cocina: "oriente-medio",
   contundencia: "contundente",
   coste: "premium"

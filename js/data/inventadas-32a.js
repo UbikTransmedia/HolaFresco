@@ -43,6 +43,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 39, hc: 58, grasa: 17 },
   etiquetas: ["sin gluten", "microondas", "al vapor", "sin lácteos", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Usa tamari con la indicación «sin gluten»: algunas marcas llevan una pequeña parte de trigo, y la salsa de soja normal siempre lo lleva. Si en casa también se cocina pasta de trigo, no uses el mismo colador para lavar el arroz.",
+  alternativa: "Si no hay pak choi, pon de base unas hojas de col china o de acelga tierna. Sin microondas, cuece pescado y verdura al vapor en una cazuela con rejilla tapada 7-8 min.",
   contundencia: "media",
   coste: "premium",
   tupper: false
@@ -446,6 +447,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 25, hc: 93, grasa: 22 },
   etiquetas: ["sin gluten", "microondas", "fácil", "vegetariana", "económica", "picante", "superalimentos"],
   consejo: "Revisa que el chipotle en adobo sea apto: algunas marcas añaden harina o vinagre de malta. Las alubias negras de bote suelen ser seguras, pero comprueba que no indiquen trazas de gluten.",
+  alternativa: "Si no encuentras chipotle en adobo, mezcla el yogur con 1 cdta de pimentón ahumado picante y unas gotas de vinagre: aporta el mismo humo y picor.",
   contundencia: "contundente",
   coste: "económica",
   tupper: false
@@ -664,6 +666,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 32, hc: 19, grasa: 36 },
   etiquetas: ["sin gluten", "microondas", "tupper", "fácil", "alta en proteína", "keto"],
   consejo: "El ras el hanout es una mezcla de especias: elige una marca con sello sin gluten. En tupper guárdalas sin el yogur ni los piñones y recaliéntalas 3 minutos a 600 W.",
+  alternativa: "Si no tienes ras el hanout, mezcla 1 cdta de comino, ½ de cilantro molido, ¼ de canela y ¼ de jengibre molido. Los piñones se pueden cambiar por la misma cantidad de almendra laminada tostada, más económica.",
   contundencia: "media",
   coste: "media",
   tupper: true
@@ -893,6 +896,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 47, hc: 59, grasa: 28 },
   etiquetas: ["sin gluten", "microondas", "tupper", "picante", "para compartir"],
   consejo: "Compra tortillas 100 % maíz con sello: muchas «tortillas de maíz» de supermercado mezclan harina de trigo. La tinga aguanta 3 días en la nevera; las tortillas se calientan siempre al momento.",
+  alternativa: "Para la tinga sin chipotle en adobo, añade al tomate 2 cdta de pimentón ahumado (mitad picante) y 1 cdta de vinagre de manzana: humo y picante casi idénticos.",
   contundencia: "contundente",
   coste: "económica",
   tupper: true
@@ -983,6 +987,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 375, prot: 17, hc: 43, grasa: 15 },
   etiquetas: ["sin gluten", "microondas", "vegana", "tupper", "batch cooking", "económica"],
   consejo: "Usa caldo y curry certificados sin gluten: el curry en polvo a veces lleva harina como antiapelmazante. Se congela perfecta en raciones; al recalentar, remueve a mitad.",
+  alternativa: "Sin microondas, cuécela en una cazuela tapada a fuego medio 20-25 min, hasta que las lentejas se deshagan, y tritura igual.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true

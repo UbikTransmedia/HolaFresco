@@ -87,6 +87,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 32, hc: 35, grasa: 14 },
   etiquetas: ["sin gluten", "sin cocción", "ligera", "verano", "sin lácteos", "alta en proteína", "bajo en colesterol"],
   consejo: "Compra totopos 100 % maíz con sello sin gluten: muchos se fríen en el mismo aceite que productos de trigo. El ceviche no se guarda, porque la lima sigue «cocinando» el pescado y se vuelve gomoso.",
+  alternativa: "Si no hay corvina, sirve lubina o dorada en lomos sin piel, muy frescas y congeladas previamente: aguantan el marinado de lima con la misma textura firme.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -357,6 +358,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 17, hc: 34, grasa: 23 },
   etiquetas: ["sin gluten", "sin cocción", "tupper", "ligera", "vegetariana", "verano", "detox", "superalimentos", "poco especiada"],
   consejo: "Esta versión sustituye el bulgur, que lleva gluten, por coliflor cruda. Comprueba que el zumaque sea puro o con sello. Aguanta 2 días en la nevera; añade el tomate y el feta al servir.",
+  alternativa: "Si no encuentras zumaque, añade la ralladura de medio limón al aliño: el toque ácido es casi el mismo.",
   contundencia: "ligera",
   coste: "económica",
   tupper: true
@@ -445,6 +447,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 24, hc: 8, grasa: 34 },
   etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "para invitados", "verano", "keto", "poco especiada"],
   consejo: "El jamón ibérico y el parmesano son naturalmente sin gluten. Si en casa hay pan normal, corta el jamón en una tabla limpia: las migas son la principal fuente de contaminación cruzada.",
+  alternativa: "Para abaratar, cambia los piñones por almendra laminada tostada y el ibérico por un buen jamón serrano: el plato sigue igual de redondo.",
   contundencia: "ligera",
   coste: "premium",
   tupper: false
@@ -486,6 +489,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 350, prot: 22, hc: 12, grasa: 23 },
   etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "verano", "sin lácteos", "keto", "poco especiada", "bajo en colesterol"],
   consejo: "La ventresca en aceite de oliva es apta; revisa igualmente que la etiqueta no indique trazas. Si la acompañas con pan, que sea sin gluten y cortado en una tabla aparte.",
+  alternativa: "La ventresca es cara: con 2 latas de bonito del norte en aceite de oliva queda muy parecida, solo algo menos melosa.",
   contundencia: "ligera",
   coste: "premium",
   tupper: false
@@ -619,6 +623,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 685, prot: 28, hc: 36, grasa: 46 },
   etiquetas: ["sin gluten", "sin cocción", "rápida", "económica", "picante", "para compartir"],
   consejo: "Las tostadas de maíz deben ser 100 % maíz y con sello, ya que muchas se fríen en aceite compartido con productos de trigo. Revisa también la mayonesa y el chipotle en adobo.",
+  alternativa: "Sin chipotle en adobo, mezcla la mayonesa con ½ cdta de pimentón ahumado picante y unas gotas de salsa picante tipo tabasco (sin gluten): sale igual de ahumada.",
   contundencia: "contundente",
   coste: "económica",
   tupper: false
@@ -792,6 +797,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 17, hc: 34, grasa: 40 },
   etiquetas: ["sin gluten", "sin cocción", "rápida", "vegetariana", "económica", "superalimentos", "poco especiada"],
   consejo: "El za'atar es una mezcla de tomillo, zumaque y sésamo, pero algunas versiones comerciales llevan trigo tostado o harina de relleno: compra uno certificado o mézclalo tú. Si quieres pan, que sea sin gluten.",
+  alternativa: "Si no encuentras za'atar, mezcla 1 cdta de tomillo seco, 1 cdta de sésamo tostado y la ralladura de medio limón con una pizca de sal: así además te aseguras de que es sin gluten.",
   contundencia: "media",
   coste: "económica",
   tupper: false
@@ -969,6 +975,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 37, hc: 61, grasa: 41 },
   etiquetas: ["sin gluten", "sin cocción", "vegana", "tupper", "batch cooking", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "El tofu ahumado puede llevar salsa de soja con trigo en la marinada: busca uno que indique «sin gluten». Para llevar, monta el tupper sin aguacate y con el aliño aparte; el kale masajeado aguanta 3 días.",
+  alternativa: "Si no encuentras tofu ahumado, usa tofu firme prensado y saltéalo 3 min con ½ cdta de pimentón ahumado y unas gotas de tamari: el sabor ahumado es casi el mismo.",
   contundencia: "contundente",
   coste: "media",
   tupper: true

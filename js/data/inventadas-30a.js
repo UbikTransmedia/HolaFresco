@@ -94,6 +94,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 900, prot: 42, hc: 88, grasa: 42 },
   etiquetas: ["tradicional", "saciante", "fácil", "de domingo", "para invitados"],
   consejo: "El secreto es el fuego muy fuerte y poca carne cada vez: si llenas el wok, la carne cuece en su jugo y no se dora. Las patatas van mezcladas al final, justo antes de servir, para que no se reblandezcan.",
+  alternativa: "Si no encuentras pasta de ají amarillo, mezcla 1 cdta de pimentón dulce, ½ cdta de cúrcuma y media guindilla fresca picada: da el mismo color y un picor parecido. Sin wok, usa la sartén más grande que tengas y saltea la carne en dos tandas.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -142,6 +143,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 1040, prot: 40, hc: 86, grasa: 60 },
   etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Prepara el relleno la víspera: frío de nevera la grasa se solidifica y las empanadas quedan jugosísimas por dentro. Puedes congelarlas crudas y hornearlas directamente, sumando 5 minutos.",
+  alternativa: "Si vas justo de tiempo, salta la masa casera y usa 8 obleas grandes de empanadilla de la sección de refrigerados: quedan algo más finas y hojaldradas, pero el relleno manda. Hornéalas igual, 15-18 min a 210 °C.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -276,6 +278,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 29, hc: 48, grasa: 32 },
   etiquetas: ["tradicional", "verano", "fácil", "ideal para llevar", "para invitados"],
   consejo: "Amasa la patata cuando aún está tibia: si se enfría del todo, absorbe peor el aliño y queda harinosa. No la tritures con batidora o se volverá chiclosa.",
+  alternativa: "¿Sin pasta de ají amarillo? Tritura 1 pimiento amarillo asado de bote con media guindilla y una pizca de cúrcuma y usa 2 cda de esa crema: la causa sale igual de amarilla y con un picante suave.",
   contundencia: "media",
   coste: "media"
 });
@@ -323,6 +326,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 940, prot: 40, hc: 72, grasa: 55 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "de domingo"],
   consejo: "Remueve siempre con cuchara de madera rascando el fondo: el locro espesa tanto que se pega con facilidad. Como todos los guisos de la abuela, está mejor al día siguiente; se congela de maravilla.",
+  alternativa: "El maíz pozolero se vende en tiendas latinas como maíz mote o hominy; si no lo encuentras, pon 150 g de garbanzos cocidos con la calabaza y añade 150 g de maíz dulce escurrido solo los últimos 10 min, para que no se deshaga.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -418,6 +422,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 900, prot: 45, hc: 75, grasa: 47 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno"],
   consejo: "Usa todo el manojo de cilantro, tallos incluidos: es lo que da el color y el sabor al seco. Si te parece fuerte, la mitad puede ser espinaca, como hacen muchas familias en Lima.",
+  alternativa: "En lugar de pasta de ají amarillo puedes usar 1 cdta de pimentón dulce con una pizca de cúrcuma y un trocito de guindilla: el seco queda casi igual, apenas menos afrutado.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -459,6 +464,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 18, hc: 49, grasa: 22 },
   etiquetas: ["tradicional", "fácil", "económica", "verano", "ideal para llevar"],
   consejo: "Si la salsa queda líquida, añade otra galleta; si queda espesa, un chorrito de leche. Lo que sobre, aguanta 3 días en la nevera y es una salsa estupenda para mojar cualquier patata o verdura.",
+  alternativa: "Si no hay pasta de ají amarillo en tu súper, tritura medio pimiento amarillo asado (de bote vale), media guindilla y una pizca de cúrcuma con el queso: la salsa conserva su color dorado y su punto picante.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -680,6 +686,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 42, hc: 61, grasa: 21 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "batch cooking"],
   consejo: "Echa las verduras por orden de dureza para que todas queden en su punto. Si añades el arroz opcional, suma unas 100 kcal por ración. El caldo sobrante se congela perfecto para otro día.",
+  alternativa: "Con olla exprés, cuece el ossobuco espumado 35 min a presión en lugar de 1 h 45 min; luego abre y sigue con las verduras en la misma olla sin tapa, por orden y con los mismos tiempos.",
   contundencia: "media",
   coste: "media"
 });
@@ -771,6 +778,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 40, hc: 44, grasa: 13 },
   etiquetas: ["tradicional", "fácil", "ligera", "una sola sartén", "bajo en colesterol"],
   consejo: "No remuevas el sudado una vez que el pescado esté dentro: solo menea la sartén por las asas. Así los trozos no se rompen y la cebolla de arriba se cuece al vapor, como debe ser.",
+  alternativa: "Para sustituir la pasta de ají amarillo, rehoga con la cebolla 1 cdta de pimentón dulce, ½ de cúrcuma y una guindilla picada: el caldo del sudado sale del mismo tono y con un picor amable.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -911,6 +919,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 1030, prot: 40, hc: 82, grasa: 60 },
   etiquetas: ["tradicional", "saciante", "fácil", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "La salsa mejora cuanto más tiempo cueza la nuez: las abuelas persas la dejan horas hasta que sale un aceite oscuro por encima. Es de esos guisos que están aún mejor recalentados al día siguiente.",
+  alternativa: "Si no encuentras melaza de granada, reduce 250 ml de zumo de granada (de brik) con 1 cda de zumo de limón a fuego medio unos 15 min, hasta tener 3 cda de jarabe espeso: el fesenjan queda igual de agridulce.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -1125,6 +1134,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 870, prot: 43, hc: 60, grasa: 51 },
   etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo", "batch cooking", "poco especiada"],
   consejo: "El agua helada en las manos es el truco para extender la masa sin que se pegue. Se puede montar la víspera y hornear al día siguiente, y frío también está riquísimo para llevar.",
+  alternativa: "Si no tienes pimienta de Jamaica, cámbiala por ½ cdta de pimienta negra molida, una pizca de clavo molido y otra de nuez moscada: el kibbeh conserva ese aroma cálido.",
   contundencia: "contundente",
   coste: "media"
 });
