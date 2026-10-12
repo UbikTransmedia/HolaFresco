@@ -135,6 +135,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 22, hc: 65, grasa: 20 },
   etiquetas: ["tradicional", "vegana", "de cuchara", "económica", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Es uno de los platos fijos de la Wigilia, la cena de Nochebuena polaca, en la que no se come carne; el resto del año se hace dorando la cebolla con tocino. Está aún más rico al día siguiente y aguanta 4 días en la nevera. Los guisantes partidos se venden en supermercados grandes y tiendas de productos del este; si no los encuentras, usa lentejas rojas, que se deshacen igual en 15 minutos.",
+  alternativa: "Si no encuentras pimienta de Jamaica, usa 2 clavos de olor y unos granos más de pimienta negra.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -228,6 +229,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 36, hc: 70, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "alta en proteína", "batch cooking", "invierno", "poco especiada"],
   consejo: "El ričet es el guiso de las granjas alpinas de Eslovenia (en Austria lo llaman Ritschert) y se hacía con lo que había en la despensa: cebada, alubias y carne ahumada. Como todo guiso de cebada, espesa mucho en la nevera: al recalentarlo, añade un buen chorro de agua. Aguanta 4 días y se congela bien. Para una versión sin carne, cuécelo en caldo de verduras con una cucharadita de pimentón ahumado.",
+  alternativa: "Sin remojo: usa 250 g de alubias pintas cocidas de bote, enjuagadas, y añádelas cuando falten 20 min para terminar la cebada.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -274,6 +276,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 40, hc: 55, grasa: 19 },
   etiquetas: ["tradicional", "de cuchara", "alta en proteína", "batch cooking", "invierno", "poco especiada"],
   consejo: "El grah es el guiso de diario de Bosnia y Herzegovina, y su toque propio es el suho meso, ternera curada y ahumada muy parecida a la cecina de León. Si no tienes cecina, usa 200 g de morcillo de ternera y una cucharadita de pimentón ahumado, y alarga la cocción 30 minutos. Aguanta 4 días en la nevera y mejora de un día para otro; allí se come con pan y cebolleta cruda.",
+  alternativa: "Sin remojo: cuece la cecina con las verduras 40 min y añade 400 g de alubias blancas cocidas de bote, enjuagadas, en los últimos 20 min junto con la zaprška.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -320,6 +323,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 19, hc: 60, grasa: 21 },
   etiquetas: ["tradicional", "vegana", "al horno", "económica", "batch cooking", "invierno", "bajo en colesterol"],
   consejo: "El tavče gravče es el plato nacional de Macedonia del Norte: tavče es la cazuela de barro y gravče, las alubias. Allí se usan las alubias grandes de Tetovo y pimientos rojos secos; el choricero da un resultado muy parecido. En la Nochebuena ortodoxa se sirve tal cual, y el resto del año suele acompañarse de salchichas asadas. Aguanta 4 días y se recalienta en el horno con un chorrito de agua.",
+  alternativa: "Sin remojo: usa 400 g de judiones o alubias blancas grandes cocidas de bote, enjuagadas; sáltate la cocción previa y hornéalas directamente con el sofrito y agua justa para cubrirlas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -364,6 +368,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 19, hc: 54, grasa: 14 },
   etiquetas: ["tradicional", "vegana", "sin gluten", "de cuchara", "ligera", "económica", "batch cooking", "invierno", "detox", "bajo en colesterol"],
   consejo: "La bob chorba es la sopa de los monasterios búlgaros (la del monasterio de Rila es la más famosa) y el plato de vigilia por excelencia. Su aroma inconfundible viene de la menta seca y de la chubritsa, una ajedrea que en España se encuentra en herbolarios; si no la tienes, usa tomillo seco y una pizca más de menta. Aguanta 4 días en la nevera y se congela sin problema.",
+  alternativa: "Sin remojo: usa 400 g de alubias blancas cocidas de bote, enjuagadas, y añádelas a las verduras con el agua; cuece 25 min en lugar de la cocción larga.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -718,6 +723,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 26, hc: 88, grasa: 25 },
   etiquetas: ["creativa", "batch cooking", "para invitados", "otoño", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "La svíčková na smetaně es el gran asado de domingo checo: solomillo de ternera en una salsa de raíces y nata, servido con knedlíky (pan cocido al vapor), arándanos, limón y nata montada. Aquí la salsa, que es lo que todos esperan, envuelve unas alubias. Aguanta 3 días en la nevera y se congela bien; para una versión vegetariana, cambia el bacon por una cucharada de mantequilla y una pizca de pimentón ahumado.",
+  alternativa: "Si no encuentras pimienta de Jamaica, usa 2 clavos de olor y unos granos más de pimienta negra; la mermelada de arándanos rojos se puede cambiar por la de grosella.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"

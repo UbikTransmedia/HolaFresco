@@ -233,6 +233,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 765, prot: 33, hc: 44, grasa: 51 },
   etiquetas: ["tradicional", "para invitados", "picante", "se prepara con antelación", "vegetariana"],
   consejo: "El nakládaný hermelín es la tapa clásica de las hospody checas, siempre con una cerveza tipo pilsner. El aceite que sobra, perfumado de ajo, cebolla y guindilla, es oro: úsalo para aliñar ensaladas o para saltear patatas durante la semana, guardado en la nevera. Puedes llevarte el queso al trabajo en su tarro y montar la ensalada allí.",
+  alternativa: "Si no encuentras pimienta de Jamaica en grano, usa 4 granos más de pimienta negra y 2 clavos de olor en el aceite.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -593,6 +594,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 29, hc: 54, grasa: 42 },
   etiquetas: ["creativa", "rápida", "vegetariana", "invierno", "para invitados", "poco especiada"],
   consejo: "El grilovaný oštiepok con brusnice, arándanos rojos, es el bocado de los mercados navideños de Eslovaquia y de las cabañas de los Tatras. El oštiepok tiene forma de huevo decorado y se ahúma tras prensarse; fuera de Eslovaquia es difícil de encontrar, pero cualquier queso ahumado firme que no se derrita del todo funciona. El queso hay que marcarlo justo antes de comer.",
+  alternativa: "Si no encuentras mermelada de arándanos rojos, usa mermelada de grosella o de frambuesa con unas gotas de limón: da el mismo contrapunto ácido al queso.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"

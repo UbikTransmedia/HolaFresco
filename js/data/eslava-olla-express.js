@@ -48,6 +48,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 38, hc: 50, grasa: 20 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "plato único", "poco especiada"],
   consejo: "En Rusia el zharkoye se hace en cazuelitas de barro al horno; la olla exprés da el mismo resultado meloso en menos de una hora. Mucha gente lo acompaña con pepinillos en salmuera y pan de centeno, y admite cerdo o pollo en lugar de ternera (con pollo, reduce el primer tiempo a 5 min). Aguanta 3 días en la nevera y mejora al recalentarlo.",
+  alternativa: "Sin olla exprés: guisa la carne en cazuela tapada a fuego suave 1 h 15 min en lugar de 15 min y luego la patata 25 min más; añade un chorrito de agua si se queda seco.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -98,6 +99,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 26, hc: 51, grasa: 31 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "económica", "batch cooking", "poco especiada"],
   consejo: "En Ucrania el kapusniak se sirve en invierno con pan de centeno untado de ajo, y en Nochebuena se hace la versión de vigilia, sin carne y con setas secas. El chucrut se encuentra en los supermercados junto a los encurtidos; si lo compras a granel en una tienda del este de Europa, tendrá más sabor. Aguanta 3 días en la nevera y mejora de un día para otro.",
+  alternativa: "Sin olla exprés: cuece las costillas en cazuela tapada a fuego suave 50 min en lugar de 15, y la patata con el mijo 20 min en lugar de 5.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -146,6 +148,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 810, prot: 62, hc: 55, grasa: 38 },
   etiquetas: ["tradicional", "alta en proteína", "fin de semana", "invierno", "para invitados"],
   consejo: "En Polonia la golonka se marina a veces una noche en cerveza con especias y se acompaña siempre de chrzan (rábano picante), mostaza y pepinillos; el puré de guisantes, «groch purée», es su guarnición de taberna. Pide el codillo fresco en la carnicería; el ahumado sirve también, pero no lo sales. El caldo que sobra es una base estupenda para una sopa de guisantes o de chucrut.",
+  alternativa: "Sin olla exprés: cuece el codillo en cazuela tapada a fuego suave 2 h 30 min en lugar de 45 min, reponiendo agua si baja, y los guisantes partidos 45 min en lugar de 12.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"
@@ -284,6 +287,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 50, hc: 50, grasa: 36 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "sin gluten"],
   consejo: "En Prekmurje el bograč se cocina al aire libre en un caldero colgado sobre el fuego y lleva tres carnes: ternera, cerdo y caza (jabalí o ciervo). Si encuentras carne de caza, cambia parte de la ternera por ella. Como todos los guisos con pimentón, mejora de un día para otro: aguanta 3 días en la nevera y se congela bien sin la patata.",
+  alternativa: "Sin olla exprés: guisa las carnes en cazuela tapada a fuego suave 1 h 15 min en lugar de 25 min y después la patata y el pimiento 20 min más.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -331,6 +335,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 27, hc: 86, grasa: 25 },
   etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "otoño", "poco especiada"],
   consejo: "La maneštra es la sopa de diario de Istria y del Kvarner, a medio camino entre la cocina croata y la del Friuli. A finales de verano se hace con maíz tierno recién desgranado; el resto del año, con maíz en conserva o congelado, que funciona muy bien. Como todas las sopas de alubias, espesa en la nevera: aguanta 3 días y se aligera con un poco de agua al recalentar.",
+  alternativa: "Sin remojo ni olla exprés: usa 350 g de alubias pintas cocidas de bote, enjuagadas, y cuécelas en cazuela con el pešt, el agua, la patata y el maíz 25 min a fuego medio.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -377,6 +382,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 39, hc: 59, grasa: 38 },
   etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En Serbia, Bosnia y Croacia los pimientos rellenos se hacen en cantidad a finales de verano, cuando los babure están baratos, y se comen con puré de patata o simplemente con pan y yogur. Están aún mejor al día siguiente: guárdalos en su salsa hasta 3 días o congélalos. Si quieres darles un toque ahumado, añade un trozo de costilla ahumada a la salsa.",
+  alternativa: "Sin olla exprés: cuece los pimientos en cazuela bien tapada a fuego suave 40 min en lugar de 12, regándolos con su salsa a media cocción.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -424,6 +430,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 37, hc: 48, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "otoño", "batch cooking", "poco especiada"],
   consejo: "El bosanski lonac se cocinaba en una olla de barro sellada con papel o masa, que pasaba horas entre las brasas; las capas sin remover son lo que le da su sabor limpio. Muchas casas mezclan ternera y cordero: si usas solo ternera para guisar, cuenta 30 min de presión. Aguanta 3 días en la nevera y se recalienta muy bien.",
+  alternativa: "Sin olla exprés: cuece las capas en cazuela gruesa bien tapada a fuego mínimo 1 h 15 min en lugar de 25 min, sin remover.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -472,6 +479,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 47, hc: 49, grasa: 25 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "invierno", "batch cooking", "poco especiada"],
   consejo: "El chomlek tradicional se hace en un gyuveche, una olla de barro que se sella con una tira de masa y pasa horas en el horno. Las cebollitas son imprescindibles: en Bulgaria se usa el arpadzhik, la cebolla pequeña de siembra. La ajedrea (chubritsa) es la hierba de la cocina búlgara; la venden seca en herbolarios y tiendas de especias, y el tomillo es un buen sustituto. Aguanta 3 días en la nevera y se congela bien.",
+  alternativa: "Sin olla exprés: guisa la ternera en cazuela tapada a fuego suave 1 h 30 min en lugar de 30 min y después la patata, la zanahoria y los ajos 25 min más.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -562,6 +570,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 60, hc: 52, grasa: 31 },
   etiquetas: ["creativa", "alta en proteína", "sin gluten", "para invitados", "verano", "poco especiada"],
   consejo: "La blitva (acelga con patata, ajo y aceite de oliva) acompaña al pescado y al pulpo en toda la costa de Croacia y Montenegro. Congelar el pulpo antes de cocerlo rompe sus fibras y lo deja más tierno: por eso el congelado funciona tan bien. El ajvar se vende en tarros en supermercados y tiendas de productos del este de Europa; elige uno suave o picante a tu gusto.",
+  alternativa: "Sin olla exprés: cuece el pulpo en cazuela con agua hirviendo 40-45 min en lugar de 12, y la patata con las pencas 15 min en su caldo.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"
@@ -661,6 +670,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 21, hc: 75, grasa: 21 },
   etiquetas: ["creativa", "vegetariana", "de cuchara", "económica", "batch cooking", "invierno", "superalimentos", "poco especiada"],
   consejo: "Las alubias son habituales en el borsch de muchas regiones de Ucrania; aquí pasan de acompañante a protagonistas. La remolacha cruda se encuentra en mercados y fruterías en otoño e invierno; si solo encuentras cocida, añádela al final sin presión, 3 min destapado. Aguanta 4 días en la nevera y, como el borsch, está mejor al día siguiente.",
+  alternativa: "Sin remojo ni olla exprés: usa 400 g de alubias rojas cocidas de bote, enjuagadas, y cuécelas en cazuela con el caldo, la remolacha y el repollo 25 min a fuego medio.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -901,6 +911,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 860, prot: 50, hc: 68, grasa: 43 },
   etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ajvar es la crema de pimiento rojo asado y berenjena que se prepara cada otoño en Serbia y Macedonia del Norte; aquí hace de base de la salsa y le da dulzor y un fondo ahumado. El kajmak es una crema láctea fermentada típica de los Balcanes: se encuentra en tiendas de productos del este de Europa, y la mezcla de queso crema y mantequilla es un buen sustituto. El guiso aguanta 3 días en la nevera y se congela bien.",
+  alternativa: "Sin olla exprés: guisa las carrilleras en cazuela tapada a fuego suave 2 h en lugar de 35 min, añadiendo un chorrito de caldo si la salsa se seca.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"

@@ -193,6 +193,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 48, hc: 64, grasa: 29 },
   etiquetas: ["tradicional", "invierno", "fin de semana", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Los zrazy son el guiso de domingo polaco, heredero de las mesas de la antigua nobleza. Los pepinillos fermentados (ogórki kiszone) dan un ácido más suave que los de vinagre; los encontrarás en tiendas de productos del Este. Los rollitos ganan al día siguiente y se congelan bien en su salsa hasta 3 meses. Si te sobra, sirve el trigo sarraceno con un poco de salsa como cena.",
+  alternativa: "Si no encuentras pimienta de Jamaica, usa una pizca de clavo molido y otra de canela con la pimienta negra; y si no tienes trigo sarraceno, sirve los rollitos con 400 g de patatas cocidas, otra guarnición muy polaca.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -244,6 +245,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 840, prot: 50, hc: 80, grasa: 33 },
   etiquetas: ["tradicional", "otoño", "invierno", "fin de semana", "alta en proteína", "verduras escondidas", "poco especiada"],
   consejo: "La salsa de raíces con nata agria es la misma de la svíčková, el plato de domingo checo por excelencia, y en las casas de pueblo se hace también con conejo. Este knedlík de pan envuelto en film, al estilo de Karlovy Vary, es el más fácil de hacer en casa. Si no encuentras nata agria, usa 70 g de yogur griego y 30 ml de nata. El conejo en su salsa aguanta 3 días; las rodajas de knedlík se recalientan al vapor o doradas en la sartén con mantequilla.",
+  alternativa: "Si no encuentras pimienta de Jamaica, pon una pizca de clavo molido y otra de canela; la mermelada de arándanos rojos se puede cambiar por mermelada de grosella o de frambuesa con unas gotas de limón.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -387,6 +389,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 48, hc: 80, grasa: 27 },
   etiquetas: ["tradicional", "invierno", "fin de semana", "para invitados", "sin lácteos", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "La pašticada es el plato de fiesta de Dalmacia: en Split no hay boda sin ella, y cada familia guarda su versión; muchas añaden al guiso un chorro de prošek, el vino dulce de la costa, que puedes sustituir por 50 ml de vino dulce. Está aún mejor al día siguiente, así que puedes hacerla con antelación y guardarla en su salsa 3 días en la nevera, o congelarla.",
+  alternativa: "Con olla exprés: tras dorar la carne y hacer el sofrito, cuécela 55 min a presión en lugar de 2 h 30 min, con 100 ml de agua en vez de 200; luego tritura y reduce la salsa igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -834,6 +837,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 780, prot: 37, hc: 64, grasa: 40 },
   etiquetas: ["creativa", "al horno", "invierno", "fin de semana", "para invitados", "sin lácteos"],
   consejo: "Las costillas asadas con cerveza son un clásico de las cervecerías checas, que las sirven con rábano picante, mostaza y pan. Aquí el glaseado de cerveza negra y miel y el chucrut salteado con manzana les dan un aire más moderno. Puedes adelantar la primera fase de horno un día antes y glasearlas justo antes de comer. El chucrut salteado aguanta 4 días en la nevera.",
+  alternativa: "Si no encuentras rábano picante, sirve las costillas con mostaza de Dijon y una punta de wasabi: pica de forma muy parecida.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

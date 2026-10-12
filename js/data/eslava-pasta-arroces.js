@@ -369,6 +369,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 715, prot: 46, hc: 75, grasa: 24 },
   etiquetas: ["tradicional", "fin de semana", "batch cooking", "alta en proteína", "invierno", "sin verduras", "poco especiada"],
   consejo: "Los šporki makaruli son el plato de la fiesta de San Duje, patrón de Split, y nacieron para aprovechar la salsa de la pašticada; «šporki» quiere decir sucios, por la salsa oscura que mancha la pasta. El guiso aguanta 3 días en la nevera y se congela bien: hazlo la víspera y solo tendrás que cocer la pasta.",
+  alternativa: "Con olla exprés: tras añadir todos los ingredientes del guiso, cuécelo 25 min a presión en lugar de 1 h 15 min - 1 h 30 min y redúcelo destapado si queda líquido.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -635,6 +636,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 27, hc: 54, grasa: 30 },
   etiquetas: ["creativa", "rápida", "vegetariana", "primavera"],
   consejo: "En la mesa de Pascua polaca nunca faltan los huevos duros con salsa de chrzan (rábano picante) y nata agria; aquí esa misma salsa viste una pasta de primavera. El rábano picante de tarro varía mucho de fuerza: empieza con una cucharadita y sube al gusto. Fuera de temporada, cambia los espárragos por guisantes congelados o judías verdes finas.",
+  alternativa: "Si no encuentras rábano picante, usa 1 cdta más de mostaza de Dijon y una punta de wasabi en la smetana: pica de forma muy parecida.",
   tupper: false,
   contundencia: "media",
   coste: "media"

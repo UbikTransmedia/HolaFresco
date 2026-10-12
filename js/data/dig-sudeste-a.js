@@ -98,6 +98,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 37, hc: 63, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "En Manado el woku es picante y lleva chalotas; sin ellas, el sabor descansa en la cúrcuma fresca, la hierba limón, la hoja de lima y, sobre todo, la albahaca añadida al final, que allí es kemangi (albahaca limón): si encuentras albahaca limonera, úsala. La cúrcuma y el jengibre cocinados en la pasta son suaves para el intestino. Si no tienes corvina, vale cualquier pescado blanco firme: merluza gruesa, rape o bacalao fresco.",
+  alternativa: "Si no encuentras hojas de lima kaffir, usa la ralladura de 1 lima y 1 hoja de laurel (retírala al servir); la albahaca tailandesa se puede cambiar por albahaca común con 4-5 hojas de menta.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -188,6 +189,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 475, prot: 30, hc: 66, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "rápida", "económica", "poco especiada"],
   consejo: "En Tailandia la salsa nam jim talay lleva ajo y guindillas verdes machacados; con aceite de ajo, lima y mucho cilantro conserva su viveza sin irritar. El caldo que sueltan los mejillones con la hierba limón es delicioso sobre el arroz: es la mejor manera de aprovecharlo. Mastica bien el mejillón y no te bebas el caldo de golpe si te hinchas con facilidad: es salado y comer despacio también ayuda a tragar menos aire.",
+  alternativa: "Sin hojas de lima kaffir, pon en el vapor la ralladura de 1 lima y 2 hojas de laurel; sin hierba limón, la piel de 1 limón en tiras (sin la parte blanca), y la albahaca tailandesa, por albahaca común con unas hojas de menta.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -237,6 +239,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 38, hc: 65, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "para niños"],
   consejo: "Lilit significa «enrollar» en balinés. La receta original lleva chalotas, ajo y guindilla en la pasta; sin ellas, la cúrcuma fresca, el coco tostado y la lima kaffir mantienen su perfume. El coco rallado se tolera bien hasta 30 g por persona; aquí van 15. Si los tallos de hierba limón son finos, usa palillos de brocheta y añade un tallo picado muy fino a la masa. Las brochetas se pueden formar por la mañana y guardar en la nevera tapadas.",
+  alternativa: "Si no encuentras hojas de lima kaffir, añade a la masa la ralladura fina de 1 lima; la cúrcuma fresca se puede cambiar por 1/2 cdta de cúrcuma molida.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -368,6 +371,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 30, hc: 54, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "bajo en colesterol", "verano"],
   consejo: "La salsa nam jim se hace con ajo, cilantro y guindilla verde; aquí el verde lo ponen tres hierbas y el picor, el jengibre crudo, mucho más amable con el intestino. Al no llevar aceite, la única grasa del plato es la de la caballa, rica en omega-3. Si notas pesadez con el pescado azul, prueba con lomos de lubina o de dorada con la misma salsa.",
+  alternativa: "Si no encuentras albahaca tailandesa, usa albahaca común y sube la menta a 1 manojo: la salsa queda igual de fresca, con un punto anisado algo más suave.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -413,6 +417,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 31, hc: 71, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "para invitados"],
   consejo: "La zanahoria es una de las verduras más seguras en intestino irritable, sin límite de ración, y bien cocida y triturada es especialmente suave. La leche de coco se queda en 50 ml por persona, por debajo de la ración tolerada. Si las vieiras te parecen caras, la crema es perfecta con langostinos marcados o con dados de merluza escalfada.",
+  alternativa: "Sin hierba limón ni hojas de lima kaffir, cuece la zanahoria con la piel de 1/2 limón y la de 1 lima en tiras (sin la parte blanca) y retíralas antes de triturar.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -553,6 +558,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 40, hc: 66, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada"],
   consejo: "El kroeung es la base de la cocina jemer y lleva siempre ajo y chalota; triturar las hierbas con aceite de ajo conserva su aroma sin FODMAP. La galanga, si la encuentras en tiendas asiáticas, es más resinosa y fiel; si no, el jengibre funciona bien. Corta la carne en dados regulares y no la pases de punto: la ternera jugosa se mastica y digiere mejor que la muy hecha.",
+  alternativa: "Si no encuentras hojas de lima kaffir, tritura en el kroeung la ralladura de 1 lima: el aroma cítrico queda muy parecido.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -689,6 +695,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 45, hc: 67, grasa: 7 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "al horno", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "La calabaza japonesa (kabocha) es la única que se puede comer en ración generosa en una dieta baja en FODMAP; la calabaza violín, en cambio, conviene limitarla a unos 45 g. El tamarindo se queda en una cucharada para dos personas, una cantidad bien tolerada. El papillote mantiene el pavo, una carne muy magra, jugoso sin añadir grasa.",
+  alternativa: "Si no encuentras calabaza japonesa, usa 90 g de calabaza violín (lo máximo tolerado para dos) y 210 g de zanahoria en bastones; las hojas de lima kaffir se pueden cambiar por la ralladura de 1 lima y 1 hoja de laurel.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -734,6 +741,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 46, hc: 58, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "de cuchara"],
   consejo: "En Sarawak el pansuh se cuece dentro de un tubo de bambú verde apoyado en las brasas, de modo que el pollo se hace en su propio jugo y el caldo sale limpio. La pasta original lleva chalota, ajo y guindilla, y la verdura es hoja de mandioca; aquí las espinacas, libres de FODMAP, hacen el mismo papel. Una cocción larga, húmeda y sin grasa deja la carne muy fácil de masticar y digerir: es un plato perfecto para los días de intestino delicado. Si no encuentras galanga, pon el doble de jengibre.",
+  alternativa: "Si no encuentras hojas de lima kaffir, añade al caldo la piel de 1 lima en tiras (sin la parte blanca) y 1 hoja de laurel, y retíralas antes de servir.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -781,6 +789,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 43, hc: 68, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "al horno", "alta en proteína", "poco especiada", "para invitados"],
   consejo: "El boniato (hasta 75 g por persona) y las judías verdes (hasta 75 g) tienen polioles; para no sumar los dos al límite en el mismo plato, aquí van unos 60 g y 50 g por persona, y el arroz completa la guarnición. El tamarindo, en una cucharada para dos, se tolera bien y da al glaseado la acidez que en otras cocinas pondría el vinagre balsámico. El solomillo es la pieza más magra del cerdo: retíralo a tiempo para que no quede seco y fibroso.",
+  alternativa: "Si no encuentras pasta de tamarindo, usa 1 cda de zumo de lima y 1 cdta más de azúcar moreno: el glaseado queda algo menos afrutado pero igual de brillante y ácido.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1152,6 +1161,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 560, prot: 25, hc: 70, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "al horno", "poco especiada"],
   consejo: "El tempeh es una de las mejores proteínas vegetales para el intestino irritable: la fermentación degrada buena parte de los galactanos de la soja y se tolera bien hasta 100 g por persona, la ración de este plato. Cocerlo al vapor antes de hornearlo lo hace más tierno y fácil de masticar. El coco rallado se queda en 10 g por persona, muy por debajo de su límite.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme bien prensado (sin el paso del vapor); las hojas de lima kaffir se pueden cambiar por la ralladura de otra lima en la costra.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

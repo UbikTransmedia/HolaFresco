@@ -101,6 +101,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 35, hc: 75, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "de cuchara"],
   consejo: "El or lam original lleva tiras de cecina de búfalo, guindilla y sakhan, una madera que adormece la lengua; esta versión se queda con su alma de hierbas y con el truco del arroz machacado para espesar, mucho más suave que una harina. La berenjena (70 g por persona) y las judías verdes (50 g) comparten polioles, así que van por debajo de su ración máxima para no sumarse en el mismo plato, y las espinacas, libres de FODMAP, completan el volumen. El arroz glutinoso es saciante y muy fácil de digerir; come las bolitas despacio.",
+  alternativa: "Si no encuentras arroz glutinoso, sírvelo con 140 g de arroz redondo cocido y espesa con 20 g del mismo arroz remojado 30 min y machacado con el agua; el guiso queda igual de sedoso.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -195,6 +196,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 540, prot: 27, hc: 82, grasa: 11.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "económica"],
   consejo: "El kho quẹt de las casas del Mekong lleva chalota, ajo y guindilla; con aceite de ajo y la parte verde de la cebolleta conserva su sabor de caramelo salado. Es un plato ideal para un intestino delicado porque la verdura va solo hervida y la salsa se toma a gusto, en pequeñas cantidades. La bandeja está pensada para no acumular FODMAP: zanahoria, calabaza japonesa, col china y pepino son bien tolerados en ración generosa, y las judías verdes, la única con límite, se quedan en 60 g por persona. Por eso la col china sustituye a la col blanca, que en ración de bandeja ya suma polioles. El caldo de las verduras, templado, ayuda a hidratar y es muy reconfortante.",
+  alternativa: "Si no encuentras calabaza japonesa, usa 90 g de calabaza violín (lo máximo tolerado para dos) y 110 g más de zanahoria; la bandeja queda igual de dulce.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -282,6 +284,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 32, hc: 64, grasa: 14.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "rápida", "alta en proteína", "poco especiada", "bajo en colesterol", "superalimentos", "económica"],
   consejo: "En Filipinas el ginisá empieza con ajo y cebolla, y las sardinas suelen ser de lata en salsa de tomate, que casi siempre lleva cebolla; con sardinas en aceite escurridas, tomate fresco y aceite de ajo el plato queda igual de sabroso y apto. Si las comes con su espina, ganas calcio. El pak choi y las espinacas son verduras bien toleradas en el intestino irritable: cocer las pencas tapadas y añadir las hojas al final las deja tiernas y fáciles de masticar.",
+  alternativa: "Si no encuentras pak choi, usa la misma cantidad de col china: cuece primero las pencas en tiras y añade las hojas al final, igual que con el pak choi.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -331,6 +334,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 27, hc: 65, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "En Java el pepes tahu lleva chalotas, ajo y guindilla machacados en el bumbu; el aceite de ajo, la galanga y la hoja de lima mantienen su perfume. Usa siempre tofu firme: el tofu sedoso es alto en FODMAP, mientras que al prensar el firme se pierden casi todos los oligosacáridos con el suero. La cocción al vapor deja el tofu muy tierno y fácil de masticar. Se conserva cerrado 2 días en la nevera; caliéntalo de nuevo al vapor.",
+  alternativa: "Si no encuentras galanga, pon 20 g de jengibre en total; las hojas de lima kaffir se pueden cambiar por la ralladura de 1 lima en la mezcla.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -379,6 +383,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 26, hc: 77, grasa: 18.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "superalimentos"],
   consejo: "El garang asem es pollo guisado en hoja de plátano con carambola ácida, chalotas, ajo y guindilla; aquí el tomate verde pone la acidez de la carambola y el tempeh sustituye al pollo. El tempeh es un fermentado bajo en FODMAP hasta unos 100 g por persona porque la fermentación consume gran parte de los oligosacáridos de la soja. Si no encuentras tomate verde, usa todo tomate pera y un poco más de lima.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme en dados, dorados antes con el aceite de ajo; el pak choi se puede cambiar por la misma cantidad de col china.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -428,6 +433,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 40, hc: 62, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Los aliños tailandeses de tamarindo llevan chalota y guindilla; este se apoya en el tostado del cacahuete y en la lima. El tamarindo es bajo en FODMAP en cantidades pequeñas como esta (media cucharada por persona). Pelar y despepitar el pepino lo hace más fácil de digerir, y escaldar los brotes de soja unos segundos los suaviza sin quitarles el crujiente. La lubina al vapor es de las proteínas más ligeras: puedes usar dorada o corvina.",
+  alternativa: "Si no encuentras pasta de tamarindo, usa el zumo de 1 lima más y 1 cdta más de azúcar moreno en el aliño.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -568,6 +574,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 37, hc: 51, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "ligera"],
   consejo: "El khao khua, el arroz glutinoso tostado y molido de las ensaladas larb de Laos e Isán, es un recurso perfecto para un intestino sensible: da crujiente y sabor tostado sin frutos secos ni frituras. El boniato está limitado a 70 g por persona, que es la ración bien tolerada; si quieres más volumen, añade patata asada. La naranja es una de las frutas bajas en FODMAP (una pieza mediana por persona).",
+  alternativa: "Si no tienes arroz glutinoso, tuesta y muele igual 30 g de arroz jazmín o redondo: el crujiente queda casi idéntico.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -615,6 +622,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 31, hc: 72, grasa: 18.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "económica"],
   consejo: "En Hanói las láminas se cuajan sobre una tela tensa encima de una olla de vapor; la sartén antiadherente tapada es el truco casero y funciona muy bien desde la segunda lámina. El relleno original lleva setas de oreja de Judas y chalota, y por encima, chalota frita: aquí se quedan la cebolleta y el aceite de ajo. La harina de arroz y el almidón de tapioca son sin gluten y bajos en FODMAP, y una masa cocida al vapor, sin fritura, es de las más ligeras que existen.",
+  alternativa: "Si no encuentras almidón de tapioca, usa la misma cantidad de maicena; las láminas quedan algo menos elásticas, así que déjalas templar 1 min antes de enrollar.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -662,6 +670,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 31, hc: 62, grasa: 22.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada"],
   consejo: "En la costa este de Malasia el nasi ulam lleva chalota cruda en láminas y hierbas locales como el daun kesum; la cebolleta y la mezcla de menta, albahaca y cilantro dan un resultado muy parecido. Cortar las hierbas en hilos finísimos no es solo estética: se mastican mejor y caen mejor. El coco rallado está limitado a 12 g por persona, por debajo de la ración bien tolerada (30 g). La caballa aporta omega-3; también vale con sardinas o jurel.",
+  alternativa: "Si no encuentras hojas de lima kaffir, usa la ralladura fina de 1 lima en el arroz; la albahaca tailandesa se puede cambiar por albahaca común con unas hojas más de menta.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -949,6 +958,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 405, prot: 33, hc: 62, grasa: 2.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "ligera", "de cuchara"],
   consejo: "El kaeng liang se hace con chalota machacada en la pasta y con krachai (jengibre chino); el jengibre normal y las gambas secas mantienen su sabor de fondo marino y especiado. No lleva grasa, por lo que es de las sopas más digestivas de la cocina tailandesa. La pimienta blanca, en esta cantidad, da calor sin irritar; si eres muy sensible, ponla a la mitad. La calabaza japonesa y las mazorquitas son bajas en FODMAP; el calabacín, mejor hasta 65 g por persona.",
+  alternativa: "Si no encuentras calabaza japonesa, usa 90 g de calabaza violín (lo máximo tolerado para dos) y 110 g de patata; la pasta de gambas se puede cambiar por 1 filete de anchoa en aceite machacado.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -1086,6 +1096,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 32, hc: 32, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "ligera"],
   consejo: "La patata da cuerpo a la crema y permite usar solo 60 g de calabacín por persona, la ración bien tolerada; las espinacas aportan el color sin FODMAP. La leche de coco va limitada a 50 ml por persona: suficiente para la suavidad sin una carga de grasa difícil de digerir. Si prefieres una versión vegetal, cambia el bacalao por dados de tofu firme a la plancha y la salsa de pescado por tamari.",
+  alternativa: "Si no encuentras albahaca tailandesa, usa albahaca común con 4-5 hojas de menta; sin hierba limón, cuece la crema con la piel de 1/2 limón en tiras y retírala antes de triturar.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -1177,6 +1188,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 525, prot: 36, hc: 58, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "de cuchara", "invierno"],
   consejo: "El sup kambing se hace con cabra o cordero y una base de chalota, ajo y guindilla; esta versión se queda con su caldo de especias enteras, que perfuman sin picar. Escaldar la carne y desgrasar el caldo dos veces lo hace mucho más ligero para el estómago; si lo preparas el día antes, enfríalo en la nevera y retira la capa de grasa sólida. El nabo y la zanahoria son libres de FODMAP.",
+  alternativa: "Con olla exprés: tras tostar las especias, cuece el cordero con 1 l de agua 20 min a presión en lugar de 60 min; despresuriza, desgrasa y sigue con las verduras destapado.",
   tupper: true,
   contundencia: "media",
   coste: "premium"

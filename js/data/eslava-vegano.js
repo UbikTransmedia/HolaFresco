@@ -540,6 +540,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 28, hc: 86, grasa: 28 },
   etiquetas: ["creativa", "al horno", "invierno", "para niños", "sin verduras", "poco especiada"],
   consejo: "La babka de patata es, junto con los draniki, el gran plato de patata de Bielorrusia: patata cruda rallada con tocino y cebolla, horneada en una fuente de hierro hasta que se forma una costra dorada. Aquí el tofu ahumado hace de tocino, y el almidón de la propia patata sustituye al huevo para ligar. Ralla la patata en el último momento para que no se oxide. Al día siguiente, dórala por ambas caras en la sartén: queda todavía más crujiente.",
+  alternativa: "Si no encuentras tofu ahumado, usa tofu firme bien prensado y dóralo en dados con 1 cdta de pimentón ahumado y una pizca de sal.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -728,6 +729,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 34, hc: 95, grasa: 19 },
   etiquetas: ["creativa", "alta en proteína", "económica", "batch cooking", "para niños", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "La rajská omáčka («salsa del paraíso», por rajské jablko, el antiguo nombre checo del tomate) es un clásico de los comedores checos: se sirve con ternera cocida y knedlíky de pan, o simplemente con pasta. Su punto agridulce y especiado sorprende la primera vez; ajusta el azúcar y el vinagre a tu gusto, pero no la dejes ácida como una salsa de tomate italiana. La soja texturizada gruesa se vende en herbolarios y supermercados; dorarla antes de añadirla evita que quede gomosa. La salsa aguanta 4 días en la nevera y se congela bien; cuece la pasta en el momento.",
+  alternativa: "Si no encuentras pimienta de Jamaica, usa 1 clavo más y unos granos más de pimienta negra.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -817,6 +819,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 29, hc: 67, grasa: 25 },
   etiquetas: ["creativa", "alta en proteína", "verano", "bajo en colesterol"],
   consejo: "En Macedonia del Norte, tava es la cazuela de barro en la que se guisan platos como el selsko meso, con carne, pimientos y tomate. El ajvar, la crema de pimiento rojo asado de los Balcanes, hace aquí de condimento y de salsa: se vende en tarro en tiendas de productos del Este y en muchos supermercados. Si no lo encuentras, tritura pimientos asados en conserva con un diente de ajo, una cucharada de aceite y una pizca de pimentón. Aguanta 3 días en la nevera; recaliéntalo en la sartén para que el tempeh no se reseque.",
+  alternativa: "Si no encuentras tempeh, usa 250 g de tofu firme bien prensado o seitán en dados, dorados antes en la sartén.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -906,6 +909,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 27, hc: 80, grasa: 22 },
   etiquetas: ["creativa", "de cuchara", "invierno", "sin gluten", "económica", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "El kulish es la comida de campaña de los cosacos de Zaporiyia: en un caldero al fuego se cocía mijo con patata, cebolla y salo (tocino salado), y se terminaba con ajo machacado. Lavar bien el mijo con agua caliente es imprescindible para quitarle el amargor. El tofu ahumado dorado sustituye al salo y aporta el sabor a hoguera. Aguanta 3 días en la nevera; el mijo absorbe líquido, así que aclara con un poco de caldo al recalentar.",
+  alternativa: "Si no encuentras tofu ahumado, usa tofu firme bien prensado y dóralo en dados con 1 cdta de pimentón ahumado: aporta el mismo sabor a hoguera.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

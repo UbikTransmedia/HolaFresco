@@ -148,6 +148,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 30, hc: 48, grasa: 43 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "fermentado", "fin de semana"],
   consejo: "En Polonia el żurek se sirve en Pascua, a veces dentro de un pan de hogaza vaciado. Si no quieres fermentar, en las tiendas polacas venden el zakwas ya hecho en botella: usa unos 300 ml y sáltate el primer paso. El zakwas que sobre aguanta una semana en la nevera. La kielbasa blanca es una salchicha fresca sin ahumar; unas salchichas frescas de cerdo de carnicería funcionan muy bien. La sopa aguanta 3 días; añade el huevo al servir.",
+  alternativa: "Si no encuentras pimienta de Jamaica, usa 2 clavos de olor y unos granos más de pimienta negra.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -914,6 +915,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 350, prot: 12, hc: 40, grasa: 16 },
   etiquetas: ["creativa", "rápida", "vegetariana", "sin gluten", "ligera", "invierno", "poco especiada"],
   consejo: "La chirivía es una raíz habitual en las sopas de Polonia y Rusia; si no la encuentras, usa más zanahoria y un trozo de apionabo. No hiervas el kéfir, porque se corta: añádelo siempre al final. La crema sin huevo aguanta 3 días en la nevera; cuece los huevos en el momento de servir.",
+  alternativa: "Sin microondas: cuece la chirivía, la zanahoria y la cebolla troceadas en el caldo, en un cazo tapado, 20 min a fuego medio, y tritura igual.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"

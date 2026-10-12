@@ -280,6 +280,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 35, hc: 64, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "sin gluten", "sin lácteos", "otoño", "poco especiada", "bajo en colesterol"],
   consejo: "El brudet (brodet en el norte) se cocina en toda la costa dálmata con varios pescados troceados con su espina, que es la que da cuerpo a la salsa; el rape solo ya da un resultado muy bueno, y si puedes añádele cabracho, gallo o congrio. El vino tinto y el vinagre son la firma de la versión dálmata, y allí se acompaña de «palenta» blanda. Está aún mejor recalentado al día siguiente, a fuego suave y meciendo la cazuela.",
+  alternativa: "Si el rape se te va de precio, usa rodajas gruesas de merluza con su espina (los mismos 450 g) y cuécelas solo 6-8 min en la salsa, porque se deshacen antes.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -541,6 +542,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 27, hc: 62, grasa: 24 },
   etiquetas: ["creativa", "rápida", "económica", "otoño", "invierno", "bajo en colesterol"],
   consejo: "La «seledka pod shuboi» (arenque bajo abrigo) es la ensalada en capas de remolacha, patata y arenque que no falta en ninguna mesa de Nochevieja en Rusia, Ucrania y Bielorrusia; aquí sus sabores se montan sobre pan de centeno. El arenque marinado se vende en tarros en supermercados con sección nórdica o alemana y en tiendas de productos del Este. Monta las tostas en el último momento para que el pan no se ablande con la remolacha.",
+  alternativa: "Si no encuentras salsa de rábano picante, mezcla con el yogur 1 cdta de mostaza de Dijon y una punta de wasabi.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -676,6 +678,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 35, hc: 44, grasa: 12 },
   etiquetas: ["creativa", "airfryer", "ligera", "alta en proteína", "para niños", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Marinar en kéfir o en suero es un truco de las cocinas del Este: el ácido láctico ablanda las fibras sin cocinar el pescado, al contrario que el limón, y deja la carne muy jugosa. Los pepinos malosol (poco salados) son los del verano ruso; con este método rápido están listos en 20 minutos y aguantan 2 días en la nevera. Si no tienes airfryer, hornea la merluza a 220 °C 12-14 minutos.",
+  alternativa: "Si no encuentras panko, usa 2 rebanadas de pan de molde del día anterior desmigadas a mano en trozos grandes y secadas 3 min en la airfryer: crujen casi igual.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -718,6 +721,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 36, hc: 40, grasa: 23 },
   etiquetas: ["creativa", "rápida", "microondas", "sin gluten", "verano", "alta en proteína", "poco especiada"],
   consejo: "La mizeria es la ensalada de pepino con nata agria que acompaña la comida del domingo en Polonia, casi siempre con patatas nuevas al eneldo. El microondas es una forma excelente de cocinar pescado al vapor: tapado y con un poco de agua no se seca, pero el tiempo depende del grosor; para lomos finos empieza con 2 minutos. Vale cualquier pescado blanco: merluza, bacalao fresco o abadejo.",
+  alternativa: "Sin microondas: cuece las patatas en agua con sal 15-18 min y la lubina al vapor en una cazuela con rejilla, tapada, 6-8 min con la mantequilla de eneldo por encima.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
