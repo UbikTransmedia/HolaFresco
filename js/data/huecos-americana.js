@@ -246,6 +246,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 56, hc: 82, grasa: 22 },
   etiquetas: ["tradicional", "al horno", "batch cooking", "alta en proteína", "para niños", "otoño", "poco especiada"],
   consejo: "Se llama así por Luisa Tetrazzini, una soprano muy famosa en Estados Unidos hacia 1910, y es la forma clásica de aprovechar el pavo de Acción de Gracias: si tienes pavo o pollo asado de sobra, sáltate el paso 2 y añádelo desmenuzado. Puedes montarlo la víspera y hornearlo al día siguiente 20 minutos, o congelarlo antes de gratinar.",
+  alternativa: "Si no tienes panko, cúbrelo con 15 g de pan rallado grueso o con miga del día anterior desmenuzada y secada 5 minutos en el horno: gratina igual de crujiente.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -290,6 +291,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 38, hc: 80, grasa: 25 },
   etiquetas: ["tradicional", "de cuchara", "económica", "batch cooking", "invierno", "sin verduras"],
   consejo: "En los Apalaches era la cena de diario de las familias mineras: alubias pintas, un trozo de cerdo curado para dar sabor y pan de maíz hecho en sartén de hierro. Si se te olvida el remojo, cuécelas sin remojar 45 minutos desde que sube la válvula. Al día siguiente están todavía mejor; añade un chorrito de agua al recalentar porque espesan mucho.",
+  alternativa: "Sin olla exprés, cuece las alubias remojadas con el codillo en una cazuela tapada, a fuego suave, unas 2 horas en lugar de 30 minutos a presión; ve añadiendo agua caliente si el caldo baja de más.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -341,6 +343,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 755, prot: 41, hc: 67, grasa: 36 },
   etiquetas: ["tradicional", "alta en proteína", "para niños", "económica", "invierno", "poco especiada"],
   consejo: "Smothered significa 'ahogado': la carne se dora y luego se cuece cubierta de salsa hasta quedar tiernísima. Es comida de domingo en las casas afroamericanas del sur, servida también sobre arroz blanco. Las chuletas de aguja quedan más jugosas que las de lomo; si usas lomo fino, baja la presión a 7 minutos. Se recalientan perfectamente en su salsa al día siguiente.",
+  alternativa: "Sin olla exprés, guisa las chuletas sobre la cebolla en una cazuela tapada a fuego suave 45–50 minutos (30 si son de lomo) en vez de 10 a presión, con 100 ml más de caldo.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -392,6 +395,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 665, prot: 40, hc: 81, grasa: 20 },
   etiquetas: ["tradicional", "picante", "batch cooking", "alta en proteína", "sin lácteos", "bajo en colesterol"],
   consejo: "En el país cajún la sauce piquante se hace con lo que haya dado la caza o la pesca: conejo, pato, tortuga, caimán o gambas. Con conejo troceado queda estupenda (12 minutos de presión). El roux oscuro se puede hacer en cantidad y guardar en un tarro en la nevera varias semanas: te ahorra el paso más lento. Como todos los guisos, está más rica al día siguiente.",
+  alternativa: "Si no tienes olla exprés, cuece el pollo en la salsa en una cazuela tapada a fuego lento unos 35 minutos, removiendo de vez en cuando para que el roux no se agarre; añade un chorrito de agua si espesa demasiado.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -439,6 +443,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 19, hc: 91, grasa: 33 },
   etiquetas: ["creativa", "vegetariana", "otoño", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Junta tres productos de la cosecha del noreste: cheddar curado de Vermont, manzanas y sidra de Quebec y sirope de arce. A diferencia del arroz, la cebada no se pasa al recalentarla: guárdala hasta 3 días y añade un chorrito de agua o caldo al calentarla; la manzana, la salvia y las pecanas, mejor aparte para que no pierdan el crujiente. La sidra asturiana natural le va de maravilla.",
+  alternativa: "En cazuela normal, cuece la cebada tapada a fuego suave 40–45 minutos con todo el caldo más 100 ml de agua, removiendo de vez en cuando, en lugar de 15 minutos a presión.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

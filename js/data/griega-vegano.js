@@ -405,6 +405,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 760, prot: 12, hc: 88, grasa: 40 },
   etiquetas: ["tradicional", "sin gluten", "ideal para llevar", "batch cooking", "para invitados", "verano", "poco especiada"],
   consejo: "Gialantzi significa «falso» en turco: son los dolmades sin carne de la cocina de Asia Menor que se preparan en Cuaresma en toda Grecia. Las hojas de parra en salmuera se venden en tiendas de productos griegos, turcos o árabes y en grandes supermercados; si tienes una parra sin tratar, escalda las hojas tiernas 1 minuto. Aguantan 4 días en la nevera bañados en su jugo y mejoran al día siguiente.",
+  alternativa: "Si no encuentras hojas de parra, usa hojas tiernas de acelga (unas 30 grandes) escaldadas 30 segundos y sin el nervio central; como son menos ácidas, añade el zumo de medio limón más al agua de cocción.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -624,6 +625,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 22, hc: 70, grasa: 27 },
   etiquetas: ["creativa", "económica", "sin gluten", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "En Rodas los pitaroudia se fríen en abundante aceite y se toman como meze en Cuaresma; en la airfryer quedan crujientes con una fracción de la grasa. La lahanosalata, la ensalada de col del invierno griego, aguanta 2 días en la nevera y está incluso mejor al segundo. Para llevar, recalienta las tortitas 4 minutos en la airfryer a 180 °C y recuperan el crujiente.",
+  alternativa: "Sin airfryer, hornea las tortitas sobre papel en el horno precalentado a 200 °C durante 18–20 minutos, dándoles la vuelta a mitad; quedan casi igual de crujientes.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

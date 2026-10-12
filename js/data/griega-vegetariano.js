@@ -899,6 +899,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 18, hc: 70, grasa: 34 },
   etiquetas: ["creativa", "otoño", "batch cooking", "ideal para llevar", "económica", "poco especiada"],
   consejo: "El stifado es el guiso griego de cebollitas, vino, vinagre y canela que se hace con ternera, conejo o pulpo; en Cuaresma se cocina también con setas. Con calabaza queda dulce y especiado, y la feta pone el contrapunto salado. Como todos los stifados, está mejor al día siguiente: aguanta 3 días en la nevera; guarda el feta aparte y añádelo al recalentar.",
+  alternativa: "Si no encuentras cebollitas francesas frescas, usa las congeladas ya peladas (los mismos 300 g, sin descongelar): sáltate el escaldado y dóralas 2–3 minutos más.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"

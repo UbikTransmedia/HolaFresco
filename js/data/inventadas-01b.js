@@ -278,6 +278,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 27, hc: 50, grasa: 12 },
   etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "sin lácteos", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Si tienes alga wakame o nori, añade un poco al caldo: es el toque que hace que sepa a sopa japonesa de verdad. Para una versión con más cuerpo, añade un huevo cocido 7 minutos partido por la mitad.",
+  alternativa: "Si no tienes pak choi, añade un puñado de espinacas frescas o unas hojas de col china en tiras en el último minuto de cocción.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -328,6 +329,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 800, prot: 28, hc: 120, grasa: 24 },
   etiquetas: ["económica", "ideal para llevar", "para niños", "batch cooking", "picante"],
   consejo: "Los burritos montados (sin lechuga ni guacamole) se envuelven en papel de aluminio y se congelan; se recalientan 20 minutos a 180 °C. Un burrito por persona ya es una comida; dos son para un día de mucho gasto.",
+  alternativa: "Sin chipotle en adobo, aliña las alubias con media cucharadita más de pimentón ahumado y un pellizco de cayena.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -881,6 +883,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 36, hc: 44, grasa: 15 },
   etiquetas: ["para invitados", "ligera", "alta en proteína", "rápida", "poco especiada"],
   consejo: "Las vieiras congeladas funcionan bien si las descongelas en la nevera sobre papel absorbente 12 horas. Si no las encuentras, 200 g de langostinos grandes pelados a la plancha son un sustituto excelente.",
+  alternativa: "En vez de beluga, valen lentejas pardinas (140 g), que tampoco se deshacen: cuécelas 20–25 minutos y vigila que no se pasen.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -928,6 +931,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 27, hc: 88, grasa: 12 },
   etiquetas: ["de cuchara", "económica", "batch cooking", "sin gluten", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "En olla exprés, las alubias remojadas tardan 20 minutos a presión alta. La sopa gana muchísimo al día siguiente y congela de maravilla; es también la base perfecta para unos frijoles refritos.",
+  alternativa: "Sin remojo: usa unos 500 g de alubias negras cocidas de bote, enjuagadas, con 700 ml de agua y el laurel; añade el sofrito enseguida y sigue desde el paso 3.",
   contundencia: "media",
   coste: "económica"
 });
@@ -1165,6 +1169,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 32, hc: 68, grasa: 16 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "poco especiada"],
   consejo: "En Suecia es el plato de los jueves y se acompaña de tortitas con mermelada de postre. La sopa espesa mucho al enfriar: al recalentar, añade caldo o agua hasta recuperar la textura. En olla exprés: 25 minutos a presión alta.",
+  alternativa: "Si no encuentras guisantes amarillos partidos, usa 200 g de lentejas rojas: no necesitan remojo y en 25–30 minutos dan una sopa igual de cremosa y de color parecido.",
   contundencia: "media",
   coste: "media"
 });

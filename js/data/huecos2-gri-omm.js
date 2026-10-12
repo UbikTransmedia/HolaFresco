@@ -167,6 +167,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 20, hc: 35, grasa: 42 },
   etiquetas: ["tradicional", "rápida", "una sola sartén", "económica", "poco especiada"],
   consejo: "La staka es la crema que se forma al cocer la nata agria de leche de oveja y cabra con un poco de harina; la mantequilla que suelta es el stakovoutyro, que en Creta se guarda para el pilafi de bodas. La mezcla de nata para montar y nata agria imita su punto ácido. Es un plato rico: sírvelo como comida única y acompáñalo de verdura cruda o una ensalada con vinagre.",
+  alternativa: "Si no encuentras nata agria, usa 50 g de yogur griego natural con unas gotas de limón y mézclalo con la nata y la harina antes de calentar, para que no se corte.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -485,6 +486,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 21, hc: 45, grasa: 38 },
   etiquetas: ["tradicional", "picante", "una sola sartén", "económica"],
   consejo: "En Túnez la chakchouka es sobre todo un guiso de pimientos y se come a cualquier hora; muchas familias rompen las yemas con el tenedor al final y las mezclan con la salsa, o añaden dados de patata frita o merguez. Si te gusta más suave, usa 1 cucharadita de harissa y sirve un poco aparte. La base de pimientos aguanta 3 días en la nevera: cuaja los huevos en el momento.",
+  alternativa: "Si no tienes harissa, mezcla 1 cdta de pimentón dulce, media de guindilla molida, una pizca de comino y 1 cdta de aceite de oliva: da el mismo picor rojo y especiado.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -755,6 +757,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 41, hc: 95, grasa: 19 },
   etiquetas: ["creativa", "de cuchara", "alta en proteína", "invierno", "bajo en colesterol", "poco especiada"],
   consejo: "El khoresh gheymeh se hace con cordero o ternera en dados pequeños y es uno de los guisos que se reparten en Irán en las fiestas religiosas; las patatas paja son imprescindibles. La lima seca (limoo amani) se vende en tiendas persas, árabes o de especias; sin ella, añade la piel de una lima y su zumo al final. El guiso aguanta 3 días en la nevera; fríe las patatas el día que lo sirvas.",
+  alternativa: "Si no encuentras guisantes partidos amarillos, usa 60 g de lentejas pardinas cocidas aparte del mismo modo, 20–25 minutos: también quedan enteras y espesan el guiso.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"

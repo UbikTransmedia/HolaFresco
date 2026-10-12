@@ -89,6 +89,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 21, hc: 20, grasa: 31 },
   etiquetas: ["tradicional", "al horno", "económica", "para niños", "poco especiada"],
   consejo: "La drachena se hacía en el horno de leña ruso, en la misma fuente de hierro donde se servía; en algunas casas la masa lleva patata cocida rallada o un poco de sémola. Si sobra, no la recalientes: córtala fría en tiras y dórala en mantequilla al día siguiente, como unas torrijas saladas.",
+  alternativa: "Si no encuentras nata agria, mezcla 80 g de yogur griego natural con 20 ml de nata y unas gotas de limón: tiene la acidez y el espesor de la smetana.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -217,6 +218,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 26, hc: 45, grasa: 37 },
   etiquetas: ["tradicional", "para invitados", "primavera", "para niños", "poco especiada"],
   consejo: "Los jajka faszerowane w skorupkach no faltan en la mesa de Pascua polaca. Puedes rellenarlos y empanarlos hasta un día antes y guardarlos en la nevera: solo hay que dorarlos al momento. Hay quien añade al relleno un poco de jamón cocido picado o setas salteadas. Si la cáscara se agrieta al cortar, no pasa nada: el relleno y la costra la sujetan.",
+  alternativa: "Para sustituir la nata agria, usa la misma cantidad de yogur griego natural con un chorrito de zumo de limón; el aliño de la lechuga queda igual de cremoso.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -363,6 +365,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 695, prot: 33, hc: 72, grasa: 31 },
   etiquetas: ["creativa", "batch cooking", "invierno", "de cuchara"],
   consejo: "Pese al nombre (Szeged es húngara), el segedínský guláš es un clásico checo que se sirve con knedlíky de pan; si encuentras knedlíky precocinados en tiendas centroeuropeas, cámbialos por las patatas. Como todo guiso de chucrut, está mejor al día siguiente: aguanta 3 días en la nevera. Recaliéntalo despacio, sin que hierva fuerte.",
+  alternativa: "Si no tienes nata agria, vale yogur griego natural (los mismos 100 g): añádelo fuera del fuego y témplalo antes con un cucharón de salsa para que no se corte.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -541,6 +544,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 18, hc: 38, grasa: 35 },
   etiquetas: ["creativa", "picante", "para invitados", "fritos"],
   consejo: "El kimchi bien fermentado (el que lleva semanas en la nevera y está más ácido) es el mejor para saltear: tostado gana un punto dulce que va de maravilla con la yema. El aceite de freír los huevos, una vez frío y colado, sirve para otra fritura. Si quieres prescindir del horno, fríe las patatas a la manera clásica en aceite de oliva a 170 °C.",
+  alternativa: "Si no tienes gochujang, mezcla la mayonesa con 1 cdta de sriracha y una pizca de azúcar: pica parecido, aunque pierde algo del fondo fermentado.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -681,6 +685,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 21, hc: 26, grasa: 27 },
   etiquetas: ["creativa", "para invitados", "al horno", "otoño", "poco especiada"],
   consejo: "Los œufs en cocotte franceses se hacen con nata, sal y poco más; el miso blanco aporta la sal y una profundidad tostada que recuerda al queso. El punto lo marca el movimiento: si la clara de alrededor de la yema aún está transparente, dale 2 minutos más. Las setas y la nata al miso se pueden dejar listas por la mañana.",
+  alternativa: "Sin shiitake, usa champiñones marrones o portobello laminados (los mismos 150 g) y dóralos bien a fuego fuerte; con el miso el resultado es casi igual.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -1103,6 +1108,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 740, prot: 37, hc: 65, grasa: 36 },
   etiquetas: ["creativa", "alta en proteína", "fritos", "para invitados"],
   consejo: "En Japón el katsu va con repollo crudo en juliana y una salsa afrutada; el mojo verde canario cumple ese papel con acidez y hierba, y las papas arrugadas aportan el punto salado. El mojo aguanta 4 días en la nevera en un tarro con una capa de aceite por encima. Con papa negra canaria, la receta es aún mejor.",
+  alternativa: "Si no encuentras panko, usa 50 g de pan rallado grueso o pan del día anterior rallado con los agujeros grandes del rallador; la costra queda algo menos aireada pero igual de crujiente.",
   tupper: false,
   contundencia: "contundente",
   coste: "media"

@@ -53,6 +53,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 43, hc: 54, grasa: 32 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "otoño", "batch cooking", "sin gluten", "sin lácteos", "alta en proteína", "poco especiada"],
   consejo: "En Provenza la daube se marina la víspera: si puedes, deja la carne toda la noche en la nevera con el vino, la cebolla, la zanahoria, el ajo, la piel de naranja y las hierbas, sécala bien antes de dorarla y usa el vino de la marinada en el paso 4. Aguanta 3 días en la nevera y está más buena al segundo día; para congelar, guarda la carne con su salsa sin las patatas. En Niza, con la salsa que sobra se aliñan unos macarrones y la carne deshilachada sirve para rellenar los raviolis a la daube.",
+  alternativa: "Sin olla exprés, guisa la carne en una cazuela tapada a fuego mínimo 2 h 30 min (o en el horno a 160 °C, también tapada) con 150 ml más de agua, y añade las patatas y las aceitunas en los últimos 30 minutos.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -102,6 +103,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 33, hc: 68, grasa: 24 },
   etiquetas: ["tradicional", "de cuchara", "primavera", "vegetariana", "económica", "para entre semana", "poco especiada"],
   consejo: "El kusksu es una sopa de la Cuaresma y la primavera maltesas, cuando hay habas frescas; se hace con una pasta en bolitas que lleva su mismo nombre. El cuscús perlado es lo más parecido; también sirven un orzo pequeño (los mismos 3 minutos) o la fregola, que es más dura (súbela a 5 minutos de presión). Si quieres guardar una ración, hazlo antes de escalfar los huevos: la pasta sigue absorbiendo caldo, así que al recalentarla añade un buen chorro de agua y escalfa el huevo en ese momento.",
+  alternativa: "Sin olla exprés, hierve la sopa en una cazuela destapada 10–12 minutos desde que retome el hervor, removiendo a menudo para que el cuscús perlado no se pegue, y añade 150 ml más de caldo.",
   tupper: false,
   contundencia: "media",
   coste: "económica"

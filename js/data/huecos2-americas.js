@@ -313,6 +313,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 21, hc: 15, grasa: 45 },
   etiquetas: ["tradicional", "sin gluten", "keto", "para invitados", "elegante"],
   consejo: "Se creó hacia 1908 en el restaurante Antoine's de Nueva Orleans en honor del dramaturgo francés Victorien Sardou, y la versión original llevaba anchoas y trufa. La holandesa es una emulsión: el truco es que la mantequilla esté caliente pero no hirviendo y el bol nunca demasiado caliente; si se corta, bate una cucharada de agua caliente en otro bol y ve añadiendo la salsa cortada poco a poco.",
+  alternativa: "Si no encuentras fondos de alcachofa, usa 8 corazones de alcachofa en conserva bien escurridos y abiertos en flor como base (dos por huevo); dóralos 1 minuto en la sartén para que no suelten agua.",
   tupper: false,
   contundencia: "media",
   coste: "media"

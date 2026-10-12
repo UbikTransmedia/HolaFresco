@@ -291,6 +291,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 30, hc: 56, grasa: 25 },
   etiquetas: ["creativa", "verano", "sin gluten", "sin lácteos", "para invitados"],
   consejo: "El solkadhi auténtico se tiñe de rosa con kokum, una fruta ácida seca de la costa del Konkan que se vende en tiendas indias: si lo encuentras, remoja 6 piezas 30 minutos en el agua de la receta, estrújalas y usa esa agua rosada en lugar del tamarindo y la granada. En Goa y Maharashtra se toma al final de la comida, a veces mezclado con el arroz, porque refresca después del picante. No calientes nunca la sopa: la leche de coco se cortaría y perdería su frescor. Prepárala hasta con 1 día de antelación, pero marca los langostinos al momento.",
+  alternativa: "Si no encuentras pasta de tamarindo, cámbiala por 1 cda de zumo de lima con media cucharadita de azúcar moreno: el punto ácido queda muy parecido y la granada sigue dando el color.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -340,6 +341,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 45, hc: 67, grasa: 19 },
   etiquetas: ["tradicional", "de cuchara", "alta en proteína", "picante", "sin lácteos", "invierno"],
   consejo: "Thukpa significa «sopa de fideos» en tibetano, y es el plato de diario en Ladakh, Sikkim y Darjeeling, donde se condimenta con timur, una pimienta del Himalaya muy parecida a la de Sichuan. Haz el caldo el día antes: en frío podrás retirar la grasa de la superficie y el sabor gana. Si vas a guardar una parte, conserva el caldo con la carne sin los fideos, porque se hinchan y se deshacen, y cuécelos en el caldo al recalentar. El sepen pica de verdad: empieza con media cucharadita por cuenco.",
+  alternativa: "Con olla exprés, el caldo de ternera se hace en 35 minutos a presión en lugar de 75–90; usa 1 litro de agua, porque apenas se evapora.",
   tupper: true,
   contundencia: "media",
   coste: "media"

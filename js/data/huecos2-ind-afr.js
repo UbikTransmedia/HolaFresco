@@ -188,6 +188,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 24, hc: 82, grasa: 31 },
   etiquetas: ["tradicional", "picante", "económica", "ideal para llevar"],
   consejo: "El kathi roll nació en el restaurante Nizam's de Calcuta y el egg roll es su versión más popular: lo que lo distingue es que el huevo se cuaja pegado a la paratha, no se pone una tortilla aparte. Las parathas se pueden hacer con antelación y congelar separadas con papel; recaliéntalas 30 segundos por cara antes de pegar el huevo.",
+  alternativa: "Si no quieres amasar, usa 4 parathas congeladas de tienda india o tortillas de trigo grandes; caliéntalas 30 segundos por cara y pega el huevo igual (te ahorras unos 30 minutos).",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -387,6 +388,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 720, prot: 42, hc: 75, grasa: 28 },
   etiquetas: ["creativa", "picante", "alta en proteína", "sin lácteos"],
   consejo: "En Kerala el ularthiyathu tradicional se hace con ternera y trocitos de coco fresco fritos (thenga kothu); si encuentras un coco fresco, usa 50 g en láminas finas en lugar del rallado y fríelas con las chalotas. Las chalotas pequeñas imitan a la cebolla roja de Kerala, más dulce. Se conserva 3 días y está buenísimo frío, dentro de un pan plano.",
+  alternativa: "Si no encuentras hojas de curry, omítelas y fríe 1 hoja de laurel con las chalotas; al final añade la ralladura de la lima junto con su zumo para recuperar el punto cítrico.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -485,6 +487,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 36, hc: 28, grasa: 34 },
   etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "picante"],
   consejo: "«Achari» viene de achar, el encurtido indio: el adobo copia las especias del encurtido de mango (mostaza, hinojo, comino, fenogreco y nigella en aceite de mostaza) y le da al tofu un sabor ácido y aromático muy distinto del tandoori. Si quieres un plato más completo, acompaña con pan naan o arroz basmati. Aguanta 2 días en la nevera y está rico frío en un bocadillo.",
+  alternativa: "Si no tienes nigella ni fenogreco, prescinde de ellos y sube media cucharadita el comino y otra media el hinojo: el adobo pierde un matiz amargo, pero sigue sabiendo a achar.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -812,6 +815,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 38, hc: 75, grasa: 35 },
   etiquetas: ["creativa", "sin lácteos", "picante", "alta en proteína", "batch cooking"],
   consejo: "La yassa viene de Casamance, en el sur de Senegal, y su gracia es el contraste: limón y mostaza muy presentes frente al dulzor de mucha cebolla. Marinar la cebolla junto con la proteína es parte del secreto. Está aún mejor al día siguiente; para un tupper, guarda el arroz aparte. Si dejas el habanero entero y lo retiras, aporta aroma frutal casi sin picar.",
+  alternativa: "Sin habanero, usa 1 guindilla fresca roja o media cucharadita de cayena; pierdes parte del aroma afrutado, pero el contraste de limón y mostaza se mantiene.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -904,6 +908,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 42, hc: 49, grasa: 21 },
   etiquetas: ["creativa", "picante", "alta en proteína"],
   consejo: "Los tibs se sirven en Etiopía en ocasiones especiales, a menudo en una fuente de barro con brasas debajo para que lleguen chisporroteando; el romero es su hierba característica. El awaze tradicional se hace con tej, vino de miel; el vino tinto es el sustituto habitual fuera de Etiopía. Para una versión vegana, cambia la mantequilla por aceite de oliva con las mismas especias.",
+  alternativa: "Si no tienes berbere, prepara la mezcla con 2 cdta de pimentón dulce, 1 de chile en polvo y una pizca de comino, cilantro molido, jengibre, canela y clavo, y usa 1 cucharada.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -955,6 +960,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 775, prot: 41, hc: 96, grasa: 25 },
   etiquetas: ["creativa", "al horno", "alta en proteína", "para niños", "batch cooking"],
   consejo: "El bobotie es el plato nacional de Sudáfrica, nacido en las cocinas de los esclavos y cocineros malayos del Cabo en el siglo XVII: picadillo especiado con fruta y una crema de huevo horneada. Con soja texturizada conserva todo su carácter. Se recalienta muy bien y aguanta 3 días; en Sudáfrica se acompaña también con sambal de tomate y cebolla o plátano en rodajas con coco.",
+  alternativa: "Si no encuentras chutney de mango, usa 2 cda de mermelada de albaricoque con 1 cdta de vinagre de vino: aporta el mismo toque agridulce.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"

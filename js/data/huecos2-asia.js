@@ -134,6 +134,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 26, hc: 73, grasa: 13 },
   etiquetas: ["tradicional", "económica", "poco especiada"],
   consejo: "El tamago kake gohan es el desayuno más sencillo de Japón y solo es tan bueno como sus huevos: usa huevos muy frescos, de cáscara intacta y conservados en la nevera. No lo sirvas a embarazadas, niños pequeños, mayores o personas inmunodeprimidas: para ellos, pon sobre el arroz un huevo con la yema cuajada (cocido 9 minutos) o un revuelto jugoso, y alíñalo igual. Tiene que comerse al momento, con el arroz humeante.",
+  alternativa: "Si no tienes mirin, mezcla 1 cda de vino blanco con media cucharadita de azúcar: la salsa queda igual de redonda y ligeramente dulce.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -182,6 +183,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 645, prot: 27, hc: 79, grasa: 24 },
   etiquetas: ["tradicional", "poco especiada", "para niños"],
   consejo: "El tenshinhan nació en los restaurantes chinos de Japón a principios del siglo XX. La versión de Tokio lleva esta salsa agridulce de soja y vinagre; en Osaka la hacen más clara, solo con caldo y sal. El truco es el wok muy caliente y retirarlo antes de que cuaje del todo: el calor residual termina el huevo sobre el arroz.",
+  alternativa: "Sin shiitake frescas, usa 2 champiñones portobello laminados finos (unos 50 g): aportan un sabor terroso muy parecido.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -364,6 +366,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 440, prot: 14, hc: 80, grasa: 6 },
   etiquetas: ["tradicional", "invierno", "poco especiada", "bajo en colesterol", "batch cooking", "ligera"],
   consejo: "Furofuki significa «soplar para enfriar»: es un plato de invierno que se come muy caliente. El nabo cocido aguanta 3 días en su caldo en la nevera y está aún mejor al día siguiente; guarda la salsa de miso aparte. El pollo es solo un fondo para el miso (tori miso): para una versión vegana, sustitúyelo por 3 shiitake picadas muy finas.",
+  alternativa: "Si no encuentras daikon, usa nabos blancos grandes en rodajas de 3 cm (los mismos 600 g) y cuécelos 10 minutos menos; sin kombu, cuécelos en un caldo de verduras suave sin sal.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -462,6 +465,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 14, hc: 79, grasa: 16 },
   etiquetas: ["creativa", "bajo en colesterol", "económica"],
   consejo: "El bulgogi de setas es una versión que se ha vuelto habitual en Corea siguiendo la marinada clásica de la ternera. Si no tienes pera, usa media manzana o un kiwi pequeño (este, solo 10 minutos). Las setas aguantan 2 días en la nevera; el pa-muchim aliñado no, así que prepáralo al servir.",
+  alternativa: "Si no encuentras shiitake, sube las setas de cardo a 450 g y añade media cucharada más de soja a la marinada para compensar la profundidad que se pierde.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -870,6 +874,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 26, hc: 72, grasa: 17 },
   etiquetas: ["tradicional", "picante", "bajo en colesterol"],
   consejo: "Kaeng pa significa «curry del bosque»: se cocinaba en zonas sin cocoteros, con lo que daba el monte. Su sabor depende del krachai (jengibre chino) y de la albahaca, así que no los escatimes. Muchas pastas de curry rojo comerciales llevan pasta de gambas: si quieres una versión vegana, revisa la etiqueta. Aguanta 2 días en la nevera; añade albahaca fresca al recalentar.",
+  alternativa: "Sin hojas de lima kaffir, echa al caldo la piel de 1 lima en tiras, sin la parte blanca, y 1 hoja de laurel, y retíralas antes de servir: el aroma cítrico es muy cercano.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

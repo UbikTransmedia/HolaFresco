@@ -45,6 +45,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 670, prot: 43, hc: 60, grasa: 28 },
   etiquetas: ["de cuchara", "para invitados", "batch cooking", "verano", "poco especiada"],
   consejo: "Las fabes ganan reposando: hazlas la víspera hasta el paso 6 y añade los langostinos justo antes de servir. Si no encuentras fabes, cualquier judía blanca grande (judión, mongeta) funciona igual.",
+  alternativa: "Sin remojo ni 2 horas de cocción: usa 500 g de alubias blancas grandes cocidas de bote, enjuagadas, con 500 ml de caldo de verduras; júntalas con el sofrito y cuece 15 minutos muy suave antes de los langostinos.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -328,6 +329,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 27, hc: 88, grasa: 30 },
   etiquetas: ["económica", "batch cooking", "picante", "para niños"],
   consejo: "Las hamburguesas crudas se congelan muy bien separadas con papel de horno; cocínalas directamente desde congeladas 2 minutos más por lado. Para los niños, sustituye el chipotle por una pizca de pimentón dulce.",
+  alternativa: "Sin chipotle en adobo, mezcla la mayonesa con media cucharadita de pimentón ahumado y una pizca de cayena: conserva el punto ahumado y picante.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -472,6 +474,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 610, prot: 25, hc: 78, grasa: 22 },
   etiquetas: ["rápida", "económica", "picante", "para niños", "una sola sartén", "superalimentos"],
   consejo: "Los frijoles refritos aguantan 4 días en la nevera y se recalientan con un chorrito de agua. Para una versión más contundente, añade un huevo frito encima de cada taco.",
+  alternativa: "Si no encuentras chipotle en adobo, sustitúyelo en los frijoles por media cucharadita de pimentón ahumado y un pellizco de guindilla molida.",
   contundencia: "media",
   coste: "media"
 });
@@ -659,6 +662,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 370, prot: 34, hc: 22, grasa: 16 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén", "picante", "superalimentos"],
   consejo: "Para convertirlo en plato más contundente, sírvelo sobre 120 g de fideos de arroz cocidos o arroz jazmín. Las gambas pueden ser congeladas: descongélalas en la nevera y sécalas a conciencia o soltarán agua.",
+  alternativa: "Si no hay pak choi, usa 150 g de col china en tiras o las hojas tiernas de unas acelgas, que entran en el mismo momento del salteado.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -847,6 +851,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 32, hc: 110, grasa: 16 },
   etiquetas: ["de cuchara", "picante", "batch cooking", "económica", "invierno", "bajo en colesterol"],
   consejo: "El chili congela perfectamente y gana con un día de reposo. Para una versión con carne, dora 200 g de ternera picada antes del sofrito y reduce las alubias negras a 100 g.",
+  alternativa: "En lugar del chipotle en adobo vale 1 cdta extra de pimentón ahumado con un cuarto de cucharadita de cayena; el chili mantiene su fondo ahumado.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -892,6 +897,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 27, hc: 58, grasa: 27 },
   etiquetas: ["al horno", "ideal para llevar", "otoño", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Las lentejas beluga mantienen la forma y no se pasan: cuécelas con antelación y guárdalas aliñadas hasta 3 días. En lugar de calabaza, el boniato o la remolacha asada funcionan igual de bien.",
+  alternativa: "Si no encuentras lentejas beluga ni de Puy, usa pardinas (los mismos 160 g), que mantienen bien la forma: cuécelas 20–25 minutos y escúrrelas en cuanto estén tiernas.",
   contundencia: "media",
   coste: "media"
 });

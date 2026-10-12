@@ -53,6 +53,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 31, hc: 58, grasa: 29 },
   etiquetas: ["creativa", "de cuchara", "invierno", "económica", "batch cooking", "alta en proteína"],
   consejo: "La tadka (o tarka) es la forma india de terminar un dal: especias enteras fritas en grasa muy caliente que se vierten al final y aromatizan todo el plato. Funciona igual de bien sobre unas lentejas con chorizo de toda la vida. Si las guardas en tupper (aguantan 3 días y se congelan bien), no pongas la tadka: hazla en un minuto al recalentar, porque en la nevera las especias pierden su chispa.",
+  alternativa: "Sin olla exprés, cuece las lentejas en cazuela tapada a fuego suave 35–40 minutos, con 150 ml más de agua, en lugar de 9 minutos a presión; la tadka se hace igual.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -104,6 +105,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 46, hc: 65, grasa: 32 },
   etiquetas: ["creativa", "invierno", "batch cooking", "alta en proteína", "para invitados", "fin de semana", "poco especiada"],
   consejo: "Es la idea de un bourguignon con un ingrediente japonés: el miso, añadido al sofrito, aporta el fondo tostado y salino que en Francia da el bacon. El miso se vende en la sección de productos asiáticos de los supermercados grandes y dura meses en la nevera. Como todo estofado, está mejor al día siguiente; si lo vas a congelar, aparta antes las patatas, que al descongelarse se vuelven harinosas.",
+  alternativa: "Si no tienes olla exprés, guisa la carne en cazuela tapada a fuego muy suave unas 2 horas (con 150 ml más de agua) y echa las chalotas, la zanahoria y las patatas en los últimos 30 minutos.",
   tupper: true,
   contundencia: "contundente",
   coste: "premium"
@@ -152,6 +154,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 30, hc: 72, grasa: 25 },
   etiquetas: ["creativa", "picante", "una sola olla", "para invitados", "sin lácteos"],
   consejo: "Para un arroz meloso en olla exprés la clave es medir el líquido (algo más de 3,5 veces el peso del arroz, contando la leche de coco) y despresurizar rápido para cortar la cocción. La pasta de curry verde está en la sección asiática de los supermercados grandes; suele ser la más picante de las tailandesas, así que, si tienes dudas, empieza con 1 cucharada. Con la roja el plato queda más tostado y menos herbáceo. No aguanta en tupper: el arroz sigue chupando caldo y se pasa.",
+  alternativa: "En una cazuela ancha también sale: cuece el arroz destapado a fuego medio 17–18 minutos, removiendo de vez en cuando y con 100 ml más de caldo, y termina igual con los langostinos y la lima.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -202,6 +205,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 48, hc: 42, grasa: 46 },
   etiquetas: ["creativa", "picante", "alta en proteína", "para invitados", "fin de semana"],
   consejo: "Junta el chipotle ahumado de México con el lacado de soja y miel del char siu cantonés. La olla exprés hace el trabajo de tres horas de horno lento y el grill solo da el acabado; puedes dejar las costillas cocidas en su jugo hasta 2 días en la nevera y glasearlas al momento. El chipotle en adobo se vende en lata en la sección de productos mexicanos. Con las sobras, deshuesa la carne y úsala para tacos.",
+  alternativa: "Sin olla exprés, hornea las costillas con la mitad de la salsa y el agua en una fuente tapada con papel de aluminio a 150 °C durante 2 h 30 min; luego reduce el jugo en un cazo y glasea igual.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -250,6 +254,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 705, prot: 45, hc: 75, grasa: 24 },
   etiquetas: ["creativa", "para niños", "alta en proteína", "una sola olla"],
   consejo: "El butter chicken (murgh makhani) nació en Delhi a mediados del siglo XX para aprovechar el pollo tandoori en una salsa de tomate, mantequilla y nata; mezclarlo con pasta en una sola olla es una costumbre casera reciente que encanta a los niños. No llenes la olla exprés con pasta por encima de la mitad. Si no tienes garam masala, usa curry en polvo con una pizca de canela. En tupper aguanta 2 días: la pasta absorbe salsa, así que añade un chorrito de agua al recalentar.",
+  alternativa: "Sin olla exprés, cuece el penne en la propia salsa en una cazuela tapada a fuego medio el tiempo que marque el paquete, removiendo cada 2 minutos y con 100 ml más de agua para que no se agarre.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -296,6 +301,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 520, prot: 34, hc: 50, grasa: 19 },
   etiquetas: ["creativa", "de cuchara", "picante", "invierno", "batch cooking", "alta en proteína", "económica", "superalimentos", "bajo en colesterol"],
   consejo: "Cruza unas alubias guisadas con el kimchi jjigae, el guiso coreano que se hace precisamente con el kimchi más viejo de la nevera. El kimchi se añade en dos tiempos: la mitad sofrita da fondo y la otra mitad, al final, aporta el punto ácido y crujiente. Encontrarás kimchi y gochujang en la sección refrigerada o asiática de los supermercados grandes. Aguanta 3 días en la nevera y está aún mejor al día siguiente.",
+  alternativa: "Si no quieres remojar ni usar olla exprés, cambia las alubias secas por unos 400 g de alubias blancas cocidas de bote, enjuagadas, y 300 ml de agua: guisa en cazuela 15 minutos antes de añadir el tofu.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
