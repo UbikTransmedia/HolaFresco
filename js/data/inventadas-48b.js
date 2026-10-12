@@ -63,7 +63,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["olla-express"],
   coccion: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "carrillada de cerdo", q: 500, u: "g" },
     { n: "cebada perlada", q: 100, u: "g" },
@@ -89,12 +89,12 @@ window.RECETAS_SEED.push({
     "Deja bajar la presión, abre y añade la cebada y, si hace falta, agua hasta que todo quede justo cubierto (la cebada necesita unas 3 veces su peso en líquido). Cierra y cuece 12 minutos más a presión.",
     "Deja que la presión baje sola 10 minutos: si la abres de golpe, la cebada borbotea y salpica por la válvula. Rectifica de sal y sirve las carrilladas sobre la cebada con su salsa."
   ],
-  nutricion: { kcal: 841, prot: 52, hc: 57, grasa: 45 },
+  nutricion: { kcal: 605, prot: 38, hc: 41, grasa: 30 },
   etiquetas: ["olla exprés", "invierno", "tupper", "batch cooking", "alta en proteína", "granos poco usados", "cebada", "cocina didáctica", "poco especiada"],
   consejo: "En la olla exprés, los ingredientes con tiempos distintos se cuecen en dos tandas: primero lo más duro (la carne) y luego lo rápido (grano, patata). Antes de cerrar, desglasa siempre el fondo con un líquido: el tostado pegado es sabor y, además, evita que se queme durante la cocción a presión.",
   alternativa: "Sin olla exprés: guisa las carrilladas en una cazuela tapada a fuego suave 2 h 15 min y añade la cebada los últimos 35 minutos con más caldo si hace falta.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -154,7 +154,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "conejo troceado", q: 600, u: "g" },
     { n: "setas variadas", q: 250, u: "g" },
@@ -180,11 +180,11 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, añade la mantequilla y el parmesano y remueve hasta que brille. Debe caer de la cuchara como un puré espeso; si espesa demasiado mientras espera, añade un chorrito de leche caliente y bate.",
     "Sirve la polenta en plato hondo y encima el conejo con las setas y su salsa."
   ],
-  nutricion: { kcal: 773, prot: 59, hc: 51, grasa: 37 },
+  nutricion: { kcal: 600, prot: 46, hc: 38, grasa: 28 },
   etiquetas: ["sin gluten", "otoño", "invierno", "tupper", "alta en proteína", "granos poco usados", "polenta", "poco especiada"],
   consejo: "La polenta blanda espesa mientras espera: hazla al final o añádele líquido caliente y bátela antes de servir. Con leche y agua a medias queda más cremosa que solo con agua. Es la guarnición ideal para cualquier guiso con salsa: ragú, estofado o setas.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

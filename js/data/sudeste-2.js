@@ -18,7 +18,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "media",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (muslos deshuesados)", q: 350, u: "g", nota: "en trozos grandes" },
     { n: "cúrcuma molida", q: 1, u: "cdta" },
@@ -49,7 +49,7 @@ window.RECETAS_SEED.push({
     "Mientras, lava el arroz jazmín y cuécelo con 210 ml de agua y una pizca de sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
     "Prueba de sal, retira las especias enteras y sirve el pollo con el arroz."
   ],
-  nutricion: { kcal: 815, prot: 39, hc: 72, grasa: 41 },
+  nutricion: { kcal: 655, prot: 29, hc: 56, grasa: 35 },
   etiquetas: ["tradicional", "picante", "sin gluten", "batch cooking", "invierno"],
   consejo: "Es un plato de fiesta malasio que se sirve en bodas y en el fin del Ramadán. El picante depende de la guindilla: con guindillas grandes y suaves (tipo ñora mezclada con alguna cayena) queda rojo intenso sin quemar. Al día siguiente está aún mejor; se congela sin problema.",
   tupper: true,
@@ -110,7 +110,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "panceta de cerdo", q: 250, u: "g", nota: "fresca, con piel, en dados de 4 cm" },
     { n: "huevo", q: 4, u: "ud" },
@@ -134,7 +134,7 @@ window.RECETAS_SEED.push({
     "Retira con una cuchara la grasa que flota en la superficie.",
     "Sirve la panceta y los huevos partidos por la mitad con su salsa sobre el arroz, y el pepino al lado para refrescar."
   ],
-  nutricion: { kcal: 915, prot: 38, hc: 81, grasa: 49 },
+  nutricion: { kcal: 690, prot: 27, hc: 58, grasa: 39 },
   etiquetas: ["tradicional", "sin gluten", "batch cooking", "invierno"],
   consejo: "En Vietnam se prepara una olla grande para Tết y se come varios días: reposa una noche en la nevera y retira la capa de grasa sólida antes de recalentar, quedará más ligero. Si no encuentras agua de coco natural sin azúcar, usa agua y aumenta un poco el caramelo.",
   tupper: true,
@@ -200,7 +200,7 @@ window.RECETAS_SEED.push({
   tiempo: 110,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 400, u: "g", nota: "en una sola pieza: babilla, contra o morcillo" },
     { n: "agua de coco", q: 400, u: "ml", nota: "o agua" },
@@ -232,7 +232,7 @@ window.RECETAS_SEED.push({
     "Calienta el resto del aceite en la sartén a fuego medio-alto y dora los filetes 1-2 minutos por cara, hasta que estén caramelizados y crujientes por los bordes; píntalos al final con una cucharada del jugo reservado.",
     "Sirve el empal con el arroz, el sambal, el pepino, la col y cuñas de la otra media lima."
   ],
-  nutricion: { kcal: 845, prot: 49, hc: 86, grasa: 34 },
+  nutricion: { kcal: 695, prot: 36, hc: 72, grasa: 29 },
   etiquetas: ["tradicional", "picante", "sin gluten", "sin lácteos", "para invitados"],
   consejo: "El empal gepuk es un clásico de la cocina sundanesa de Java Occidental: la carne se cuece con especias y azúcar de palma hasta quedar tierna y dulce, se aplasta y se fríe para que caramelice. Se come con arroz, sambal y verduras crudas (lalapan). La carne cocida aguanta 4 días en la nevera con su jugo: aplástala y fríela justo antes de comer.",
   tupper: true,
@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "elaborada",
   equipo: ["bol", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "harina de trigo", q: 200, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
@@ -551,7 +551,7 @@ window.RECETAS_SEED.push({
     "Cocina cada roti en una sartén a fuego medio con un poco de ghee 2 minutos por lado, hasta que esté dorado y crujiente. Al sacarlo, ahuécalo dando una palmada con las dos manos para separar las capas.",
     "Sirve los roti calientes con el dal en un cuenco para mojar."
   ],
-  nutricion: { kcal: 945, prot: 30, hc: 135, grasa: 31 },
+  nutricion: { kcal: 685, prot: 22, hc: 85, grasa: 27 },
   etiquetas: ["tradicional", "económica"],
   consejo: "La masa mejora si reposa toda la noche en la nevera bien untada de aceite; sácala 1 hora antes de estirarla. En Malasia se pide para desayunar o a cualquier hora en los puestos mamak, de origen indio musulmán. El dal sobrante se congela muy bien.",
   tupper: false,
@@ -662,7 +662,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "baguette", q: 2, u: "ud", nota: "panecillos crujientes de unos 100 g, de miga ligera" },
     { n: "huevo", q: 4, u: "ud" },
@@ -687,11 +687,11 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén a fuego medio-alto y fríe los huevos 2-3 minutos, hasta que la clara tenga los bordes dorados y la yema siga líquida. Salpimienta.",
     "Escurre los encurtidos. Mete dos huevos en cada pan, riégalos con unas gotas de soja y añade el pepino, los encurtidos, el cilantro y el chile. Come enseguida, mientras el pan cruje."
   ],
-  nutricion: { kcal: 630, prot: 23, hc: 68, grasa: 29 },
+  nutricion: { kcal: 700, prot: 25, hc: 100, grasa: 21 },
   etiquetas: ["tradicional", "rápida", "económica"],
   consejo: "En Vietnam se aliña con un sazonador líquido de soja muy aromático; la salsa de soja normal funciona. El pan vietnamita es más ligero que la baguette francesa: elige panecillos de miga aireada o quita un poco de miga. Los encurtidos aguantan una semana en un tarro en la nevera.",
   tupper: false,
-  contundencia: "media",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -1044,7 +1044,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz jazmín", q: 160, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
@@ -1074,7 +1074,7 @@ window.RECETAS_SEED.push({
     "Desmenuza las bolas de arroz con las manos en trozos irregulares, crujientes y tiernos a la vez. Añade el tofu, los cacahuetes, la chalota, la cebolleta, las hierbas y el aliño, y mezcla con suavidad.",
     "Sirve enseguida con hojas de lechuga para envolver cada bocado."
   ],
-  nutricion: { kcal: 915, prot: 30, hc: 83, grasa: 51 },
+  nutricion: { kcal: 745, prot: 24, hc: 57, grasa: 47 },
   etiquetas: ["creativa", "frito", "para invitados", "picante"],
   consejo: "El nam khao de Vientián se hace con salchicha fermentada de cerdo (som moo); el tofu frito y el cacahuete dan aquí el contrapunto. Las bolas se pueden freír unas horas antes; mezcla con el aliño en el último momento para que el arroz no pierda el crujiente. Cuela y reutiliza el aceite de fritura.",
   tupper: false,

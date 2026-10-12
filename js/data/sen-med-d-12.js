@@ -1081,7 +1081,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "bacalao fresco", q: 280, u: "g", nota: "sin piel ni espinas" },
     { n: "patata", q: 350, u: "g" },
@@ -1104,10 +1104,10 @@ window.RECETAS_SEED.push({
     "Aplasta un par de trozos de patata contra la olla para espesar el caldo, añade el bacalao y cuece 4 minutos a fuego suave, sin remover, hasta que se separe en lascas.",
     "Fuera del fuego, añade unas gotas de limón y la hierbabuena y sirve."
   ],
-  nutricion: { kcal: 370, prot: 36, hc: 35, grasa: 9 },
+  nutricion: { kcal: 745, prot: 73, hc: 70, grasa: 19 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten", "de cuchara", "ideal para llevar", "invierno"],
   consejo: "Para el tupper, deja que la sopa temple destapada y guárdala en la nevera en menos de una hora: aguanta 3 días. Recaliéntala a fuego suave, sin que llegue a hervir con fuerza, para que el bacalao no se deshaga ni se endurezca; la hierbabuena y el limón, frescos al servir. Las patatas «cascadas» espesan el caldo sin harina ni pan, y el pimentón dulce da color y sabor sin picar. Es una cena ligera y saciante: pescado blanco, patata y verdura bien cocida.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });

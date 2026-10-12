@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "altramuces cocidos", q: 150, u: "g", nota: "en salmuera, escurridos" },
     { n: "lentejas cocidas", q: 250, u: "g", nota: "escurridas y enjuagadas" },
@@ -288,12 +288,12 @@ window.RECETAS_SEED.push({
     "Bate el resto del aceite con el vinagre de Jerez y sal y aliña la ensalada. Deja reposar 10 minutos para que las lentejas tomen sabor.",
     "Sirve la ensalada con los altramuces crujientes por encima en el último momento."
   ],
-  nutricion: { kcal: 380, prot: 24, hc: 42, grasa: 13 },
+  nutricion: { kcal: 750, prot: 49, hc: 71, grasa: 27 },
   etiquetas: ["proteína vegetal", "alta en proteína", "ligera", "airfryer", "tupper", "ideal para llevar", "verano", "sin gluten", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Cualquier legumbre cocida (garbanzos, altramuces, habas) se vuelve crujiente en la airfryer si está bien seca y lleva una pizca de maicena y aceite. Guárdalas en un tarro hermético, no en la nevera, para que no se ablanden; y en el tupper ponlas aparte hasta el momento de comer.",
   alternativa: "En horno: extiende los altramuces en bandeja y ásalos a 210 °C 20-25 minutos, removiendo cada 8 minutos, hasta que crujan.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

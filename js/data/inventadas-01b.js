@@ -199,7 +199,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias rojas cocidas", q: 300, u: "g", nota: "escurridas" },
     { n: "arroz basmati", q: 150, u: "g" },
@@ -230,10 +230,10 @@ window.RECETAS_SEED.push({
     "Agrega las alubias, la leche de coco, 200 ml de agua, el laurel, las 2 ramas de tomillo restantes, sal y pimienta. Lleva a ebullición, baja al mínimo, tapa y cuece 12 minutos sin destapar. Apaga y deja reposar tapado 10 minutos: el arroz quedará suelto y perfumado.",
     "Retira el laurel y el tomillo del arroz, suéltalo con un tenedor, trocea el pollo y sírvelo por encima del arroz con los jugos de la bandeja y gajos de la otra lima."
   ],
-  nutricion: { kcal: 740, prot: 45, hc: 85, grasa: 25 },
+  nutricion: { kcal: 630, prot: 31, hc: 64, grasa: 27 },
   etiquetas: ["picante", "para invitados", "alta en proteína", "batch cooking", "sin verduras"],
-  consejo: "El rice and peas también es un plato único vegano completo: sin pollo y con 400 g de alubias ronda las 550 kcal. El chile habanero es muy picante: con uno pequeño sin semillas basta para dos.",
-  contundencia: "contundente",
+  consejo: "El rice and peas también es un plato único vegano completo: sin pollo y con 400 g de alubias ronda las 550 kcal. El chile habanero es muy picante: con uno pequeño sin semillas basta para toda la olla.",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -295,7 +295,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["horno", "cazuela", "sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "alubias negras cocidas", q: 400, u: "g" },
     { n: "arroz basmati", q: 100, u: "g" },
@@ -326,11 +326,11 @@ window.RECETAS_SEED.push({
     "Dobla los laterales hacia dentro y enrolla desde abajo apretando bien. Tuesta los burritos con la junta hacia abajo en la sartén seca a fuego medio 2 minutos por lado, hasta que estén dorados y el queso se funda.",
     "Córtalos por la mitad en diagonal y sirve con el guacamole sobrante y gajos de lima."
   ],
-  nutricion: { kcal: 800, prot: 28, hc: 120, grasa: 24 },
+  nutricion: { kcal: 610, prot: 21, hc: 74, grasa: 22 },
   etiquetas: ["económica", "ideal para llevar", "para niños", "batch cooking", "picante"],
   consejo: "Los burritos montados (sin lechuga ni guacamole) se envuelven en papel de aluminio y se congelan; se recalientan 20 minutos a 180 °C. Un burrito por persona ya es una comida; dos son para un día de mucho gasto.",
   alternativa: "Sin chipotle en adobo, aliña las alubias con media cucharadita más de pimentón ahumado y un pellizco de cayena.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias pintas secas", q: 200, u: "g", nota: "en remojo 12 h" },
     { n: "costilla de cerdo", q: 400, u: "g", nota: "en tacos de 2 costillas" },
@@ -557,7 +557,7 @@ window.RECETAS_SEED.push({
     "Cuando las alubias lleven 1 h 30 min (deben estar tiernas pero enteras), saca la zanahoria y la media cebolla (trocea la zanahoria y devuélvela), añade el sofrito y las patatas cascadas. Sala.",
     "Cuece 30 minutos más a fuego suave, meneando la cazuela de vez en cuando sin remover, hasta que la patata esté tierna, la costilla se separe del hueso y el caldo esté espeso y rojo. Rectifica de sal y pimienta y deja reposar 10 minutos antes de servir."
   ],
-  nutricion: { kcal: 920, prot: 50, hc: 85, grasa: 42 },
+  nutricion: { kcal: 670, prot: 33, hc: 55, grasa: 32 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados", "poco especiada"],
   consejo: "Es un guiso de domingo que mejora de un día para otro. Si no tienes pimiento choricero, usa 1 cucharadita extra de pimentón dulce y 1 cucharada de tomate concentrado. En olla exprés: 30 minutos a presión y 8 más con la patata.",
   contundencia: "contundente",
@@ -576,7 +576,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "en dados de 2 cm" },
     { n: "garbanzos cocidos", q: 250, u: "g" },
@@ -610,7 +610,7 @@ window.RECETAS_SEED.push({
     "Apaga, añade el zumo de medio limón y el resto del cilantro y el perejil. Rectifica de sal y pimienta.",
     "Sirve muy caliente con gajos del limón restante y, si quieres hacerlo como en Marruecos, con dátiles para alternar cucharadas dulces y saladas."
   ],
-  nutricion: { kcal: 670, prot: 48, hc: 65, grasa: 24 },
+  nutricion: { kcal: 655, prot: 36, hc: 55, grasa: 30 },
   etiquetas: ["de cuchara", "invierno", "alta en proteína", "batch cooking", "para invitados", "poco especiada"],
   consejo: "Sin cordero y con 400 g de garbanzos es una harira vegetal igual de tradicional (unas 480 kcal). Congela bien sin los fideos: añádelos al recalentar.",
   contundencia: "contundente",

@@ -66,7 +66,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["cazuela", "horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (pierna deshuesada)", q: 150, u: "g" },
     { n: "cerdo (paleta)", q: 150, u: "g" },
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Reparte el relleno, dobla hacia dentro las láminas que cuelgan y cubre con las 2 láminas restantes, pintadas con aceite y algo arrugadas. Marca las raciones con un cuchillo sin llegar al relleno y salpica la superficie con unas gotas de agua para que no se queme.",
     "Hornea en la parte baja del horno 50-55 minutos, hasta que la filo esté bien dorada y el relleno deje de burbujear por los cortes. Deja reposar 10 minutos antes de cortar."
   ],
-  nutricion: { kcal: 905, prot: 45, hc: 72, grasa: 48 },
+  nutricion: { kcal: 660, prot: 30, hc: 51, grasa: 36 },
   etiquetas: ["tradicional", "invierno", "de domingo", "al horno", "ideal para llevar", "poco especiada"],
   consejo: "En Cefalonia se hace por Carnaval con la carne que haya en casa (cordero, cabrito, cerdo o ternera) y con masa casera de aceite; la filo del súper la simplifica sin cambiar el sabor. No cuezas el arroz antes: crudo absorbe el jugo del guiso y es lo que mantiene el relleno jugoso. Aguanta 3 días en la nevera y se congela en porciones; recaliéntala en el horno para que la masa vuelva a estar crujiente.",
   tupper: true,
@@ -346,7 +346,7 @@ window.RECETAS_SEED.push({
   tiempo: 170,
   dificultad: "media",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (pierna)", q: 650, u: "g", nota: "en 4 trozos, con hueso" },
     { n: "vino tinto", q: 250, u: "ml" },
@@ -367,11 +367,11 @@ window.RECETAS_SEED.push({
     "Destapa: la carne debe separarse del hueso con una cuchara. Sube el horno a 210 °C y hornea 15-20 minutos más, hasta que la superficie y las patatas se doren y el jugo reduzca.",
     "Retira las ramas de romero y sirve el cordero con las patatas y el jugo de vino y eneldo por encima."
   ],
-  nutricion: { kcal: 735, prot: 49, hc: 43, grasa: 39 },
+  nutricion: { kcal: 570, prot: 30, hc: 27, grasa: 36 },
   etiquetas: ["tradicional", "al horno", "sin gluten", "primavera", "para invitados", "de domingo", "sin verduras", "poco especiada"],
   consejo: "En Sifnos el mastelo se mete el Sábado Santo en el horno de leña del pueblo, en una cazuela de barro sellada con masa y sobre sarmientos de vid, y se come el domingo de Pascua. Si tienes sarmientos limpios, úsalos en lugar del romero. Aguanta 3 días en la nevera: recaliéntalo tapado a 160 °C con un chorrito de agua.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -564,7 +564,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "media",
   equipo: ["sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "magret de pato", q: 1, u: "ud", nota: "unos 350 g" },
     { n: "higo fresco", q: 4, u: "ud" },
@@ -588,11 +588,11 @@ window.RECETAS_SEED.push({
     "Escurre la patata y los ajos y aplástalos con un tenedor o un pasapurés (con batidora queda chiclosa) junto con las almendras, el aceite a hilo, la otra cucharada de vinagre y un poco del agua de cocción, hasta tener un puré cremoso. Sala.",
     "Corta el magret en lonchas y sírvelo sobre la skordalia, con los higos y su glaseado por encima."
   ],
-  nutricion: { kcal: 685, prot: 39, hc: 51, grasa: 35 },
+  nutricion: { kcal: 610, prot: 23, hc: 32, grasa: 43 },
   etiquetas: ["creativa", "para invitados", "sin gluten", "otoño", "verano", "poco especiada"],
   consejo: "Guarda la grasa de pato que sobra en un tarro en la nevera: aguanta semanas y es perfecta para patatas asadas. Fuera de temporada, usa higos secos hidratados 10 minutos en agua caliente. Si no encuentras magret, la receta funciona con pechuga de pollo con piel (cocínala hasta que esté hecha del todo).",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

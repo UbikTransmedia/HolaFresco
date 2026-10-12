@@ -317,7 +317,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén", "plancha"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "lomo de cerdo (filetes)", q: 240, u: "g", nota: "4 filetes finos" },
     { n: "jamón serrano", q: 4, u: "loncha" },
@@ -338,7 +338,7 @@ window.RECETAS_SEED.push({
     "En la plancha muy caliente, marca los filetes de lomo 1 minuto por cada lado y sálalos. En los últimos segundos pon las lonchas de jamón sobre la plancha, solo para que suden la grasa.",
     "Monta los bocadillos: una capa de tomate (y mayonesa si te gusta), el lomo, el jamón y el pimiento frito encima. Ciérralos y sírvelos con las patatas."
   ],
-  nutricion: { kcal: 814, prot: 47, hc: 80, grasa: 34 },
+  nutricion: { kcal: 770, prot: 31, hc: 77, grasa: 37 },
   etiquetas: ["tradicional", "para niños", "económica"],
   consejo: "El serranito nació en Sevilla a finales de los setenta y hoy está en cualquier bar andaluz. La gracia está en el pimiento verde frito despacio, que queda dulce y meloso, y en el lomo muy fino y apenas marcado para que no se seque. Puedes cambiar el lomo por filetes de pechuga de pollo, que también es habitual.",
   tupper: false,
@@ -993,7 +993,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "espárragos blancos", q: 350, u: "g", nota: "de bote, escurridos; reserva su agua" },
     { n: "patata", q: 200, u: "g" },
@@ -1015,11 +1015,11 @@ window.RECETAS_SEED.push({
     "Calienta el resto del aceite en una sartén a fuego fuerte y saltea las gambas con una pizca de sal 1 minuto, hasta que estén rosadas. Fuera del fuego, espolvoréalas con el pimentón y mezcla.",
     "Sirve la crema con las gambas, las puntas reservadas y el cebollino por encima."
   ],
-  nutricion: { kcal: 336, prot: 21, hc: 27, grasa: 16 },
+  nutricion: { kcal: 655, prot: 40, hc: 47, grasa: 32 },
   etiquetas: ["creativa", "rápida", "de cuchara", "primavera"],
   consejo: "El agua del bote de espárragos tiene mucho sabor: úsala en lugar de parte del caldo, pero pruébala antes, porque algunas marcas la salan bastante. Si la quieres más fina, pásala por un colador después de triturarla para quitar las fibras. El pimentón va siempre fuera del fuego para que no amargue.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

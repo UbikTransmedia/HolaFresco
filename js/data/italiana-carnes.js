@@ -72,7 +72,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costilla de cerdo", q: 400, u: "g", nota: "cortada en trozos de dos huesos" },
     { n: "salchichas frescas", q: 200, u: "g", nota: "de cerdo, unas 4" },
@@ -100,7 +100,7 @@ window.RECETAS_SEED.push({
     "Añade la col a puñados, removiendo para que baje (al principio parece muchísima, pero se reduce a un tercio), y las salchichas. Tapa y cuece 45–50 minutos más, removiendo de vez en cuando, hasta que la col esté muy tierna, la carne se separe del hueso y la salsa quede espesa. Si está caldosa, destapa los últimos 10 minutos.",
     "Retira con una cuchara el exceso de grasa de la superficie, rectifica de sal y pimienta y sirve muy caliente."
   ],
-  nutricion: { kcal: 760, prot: 43, hc: 20, grasa: 56 },
+  nutricion: { kcal: 635, prot: 36, hc: 19, grasa: 44 },
   etiquetas: ["tradicional", "invierno", "batch cooking", "alta en proteína", "keto", "poco especiada"],
   consejo: "La cassoeula es el plato de invierno de Milán, y allí dicen que la col tiene que haber pasado la primera helada para estar dulce. Se acompaña con polenta o con pan. Si la haces la víspera, la grasa sube y se solidifica en la nevera y se retira de una vez con una cuchara: queda más ligera y todavía más sabrosa. Pide salchichas frescas de cerdo sin especias fuertes; la butifarra fresca también sirve.",
   tupper: true,

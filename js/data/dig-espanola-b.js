@@ -835,7 +835,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "mejillones", q: 1000, u: "g", nota: "con concha" },
     { n: "patata", q: 250, u: "g" },
@@ -858,11 +858,11 @@ window.RECETAS_SEED.push({
     "Cuece a fuego medio 15-18 minutos, hasta que la patata esté muy tierna y empiece a deshacerse y espesar el caldo. Mientras, pica el perejil. Prueba antes de salar: el jugo del mejillón ya es salado.",
     "Añade la carne de los mejillones, deja 1 minuto solo para que se calienten y sirve con el perejil."
   ],
-  nutricion: { kcal: 305, prot: 19, hc: 33, grasa: 11 },
+  nutricion: { kcal: 570, prot: 37, hc: 58, grasa: 20 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "de cuchara", "económica", "invierno"],
   consejo: "El mejillón es uno de los mariscos más baratos y magros, sin FODMAP, y su propio jugo hace de fondo: no necesitas caldo comercial, que casi siempre lleva cebolla o ajo. La patata cascada suelta almidón y espesa la sopa sin harina. Añade los mejillones al final solo para calentarlos: si hierven, se encogen, se vuelven gomosos y cuesta más masticarlos bien.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -918,7 +918,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "media",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "gambas", q: 300, u: "g", nota: "enteras" },
     { n: "tomate", q: 200, u: "g" },
@@ -941,11 +941,11 @@ window.RECETAS_SEED.push({
     "Vuelve a poner la crema en la cazuela, añade la leche y caliéntala sin que llegue a hervir. Prueba de sal. Debe napar la cuchara: si está muy espesa, aclárala con un poco de agua.",
     "Echa las colas de gamba a la crema caliente y apaga: en 1 minuto se harán con el calor residual y quedarán jugosas. Sirve con el cebollino."
   ],
-  nutricion: { kcal: 290, prot: 19, hc: 26, grasa: 12 },
+  nutricion: { kcal: 590, prot: 36, hc: 57, grasa: 24 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "invierno", "para invitados"],
   consejo: "La crema de marisco de Nochebuena se espesaba antiguamente con arroz, no con harina: es el truco perfecto para una versión sin gluten. Lleva brandi, nata, cebolla y puerro, y aquí no lleva ninguno, porque son cuatro de los ingredientes que más molestias dan a un intestino sensible. Puedes hacerla el día anterior hasta el paso 5 y añadir las gambas al recalentarla.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });
 

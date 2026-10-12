@@ -1018,7 +1018,7 @@ window.RECETAS_SEED.push({
   tiempo: 95,
   dificultad: "fácil",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "ternera para guisar", q: 200, u: "g" },
     { n: "colinabo", q: 150, u: "g", nota: "kohlrabi, la bola verde o morada" },
@@ -1043,12 +1043,12 @@ window.RECETAS_SEED.push({
     "Bate el yogur con la harina de arroz y templa la mezcla con un cazo de caldo caliente. Viértela en la sopa y cuece a fuego suave 2 minutos, removiendo.",
     "Retira el laurel y la pimienta de Jamaica, añade el eneldo, el perejil y pimienta negra, y sirve bien caliente."
   ],
-  nutricion: { kcal: 355, prot: 28, hc: 44, grasa: 8 },
+  nutricion: { kcal: 725, prot: 55, hc: 78, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína"],
   consejo: "El colinabo (kalarepa) es bajo en FODMAP hasta unos 75 g por ración, la cantidad exacta que lleva cada plato; la patata y la zanahoria son libres. La pimienta de Jamaica (ziele angielskie) es la especia de todas las sopas polacas y no pica. Elige colinabos pequeños y pesados: los grandes se vuelven leñosos. Sus hojas tiernas se pueden añadir picadas al final como si fueran espinacas.",
   alternativa: "Si no encuentras colinabo, usa nabo blanco (los mismos 150 g), con el mismo tiempo; la pimienta de Jamaica se puede cambiar por 1 clavo y unos granos más de pimienta negra.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

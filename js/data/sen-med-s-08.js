@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 700, u: "g", nota: "costillar en una pieza" },
     { n: "ajo", q: 3, u: "diente" },
@@ -383,7 +383,7 @@ window.RECETAS_SEED.push({
     "Mientras se hornean, lava y trocea la lechuga y corta el limón en gajos.",
     "Sirve las costillas con las patatas, un chorro de limón por encima y la lechuga aliñada con aceite, sal y unas gotas de limón."
   ],
-  nutricion: { kcal: 720, prot: 46, hc: 38, grasa: 42 },
+  nutricion: { kcal: 680, prot: 30, hc: 23, grasa: 52 },
   etiquetas: ["tradicional", "al horno", "sin gluten", "económica", "para compartir"],
   consejo: "La rosticciana es la costilla a la brasa de las fiestas de pueblo toscanas; en casa el horno fuerte da un resultado muy parecido. Hay 70 minutos en total pero solo 15 de trabajo. Si te gusta muy tierna, cubre la bandeja con papel de aluminio los primeros 25 minutos. También se puede terminar en la barbacoa, 5 minutos por lado.",
   tupper: true,
@@ -403,7 +403,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["plancha", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "chuletón de ternera", q: 700, u: "g", nota: "una pieza de 4 cm de grosor, con hueso (mejor T-bone)" },
     { n: "judías blancas cocidas", q: 400, u: "g" },
@@ -427,9 +427,9 @@ window.RECETAS_SEED.push({
     "Pásalo a una tabla con la rama de romero encima y déjalo reposar 5 minutos. Separa la carne del hueso, córtala en tiras gruesas y aderézala con sal en escamas, pimienta recién molida y un hilo de aceite crudo.",
     "Sirve la carne con el hueso, las alubias con su aceite de salvia y la ensalada de tomate."
   ],
-  nutricion: { kcal: 760, prot: 64, hc: 35, grasa: 40 },
+  nutricion: { kcal: 675, prot: 49, hc: 25, grasa: 41 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "para compartir", "verano"],
-  consejo: "La fiorentina se sala solo al final y se sirve «al sangue»: más hecha pierde su gracia. Una pieza para dos de 700 g es lo justo; si es más fina de 3 cm, reduce a 3–4 minutos por lado. En Florencia la acompañan siempre los «fagioli all'olio», alubias calientes con aceite nuevo, salvia y pimienta. Las alubias sobrantes aguantan 3 días en la nevera.",
+  consejo: "La fiorentina se sala solo al final y se sirve «al sangue»: más hecha pierde su gracia. Una pieza de 700 g para compartir es lo justo; si es más fina de 3 cm, reduce a 3–4 minutos por lado. En Florencia la acompañan siempre los «fagioli all'olio», alubias calientes con aceite nuevo, salvia y pimienta. Las alubias sobrantes aguantan 3 días en la nevera.",
   tupper: false,
   contundencia: "contundente",
   coste: "premium"

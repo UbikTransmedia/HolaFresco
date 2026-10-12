@@ -389,7 +389,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "coliflor", q: 500, u: "g", nota: "en ramilletes medianos" },
     { n: "garbanzos cocidos", q: 200, u: "g", nota: "escurridos y secos" },
@@ -409,11 +409,11 @@ window.RECETAS_SEED.push({
     "Mientras, pica el cilantro y mézclalo con el yogur, la ralladura y el zumo de media lima y una pizca de sal.",
     "Extiende el yogur en los platos, coloca encima la coliflor con los garbanzos y las almendras y acaba con cilantro y gajos de lima."
   ],
-  nutricion: { kcal: 368, prot: 18, hc: 38, grasa: 16 },
+  nutricion: { kcal: 685, prot: 28, hc: 51, grasa: 38 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "económica", "ligera", "vegetariana", "tupper", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Para celíacos, el curry en polvo es la especia que más a menudo lleva harina como antiapelmazante: elige uno con sello sin gluten. Aguanta 2-3 días en la nevera; recalienta la coliflor 4 minutos en la airfryer y pon el yogur frío al servir.",
   alternativa: "En horno convencional, extiende la coliflor y los garbanzos en una sola capa y ásalos a 220 °C 25 min, removiendo a mitad; añade las almendras los últimos 3 min.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });
@@ -742,7 +742,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "calabacín", q: 1, u: "ud" },
     { n: "berenjena", q: 1, u: "ud" },
@@ -765,11 +765,11 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla el yogur con la menta, el ajo, el zumo del limón y sal.",
     "Sirve los bastones recién hechos espolvoreados con el resto del zumaque y la salsa de yogur para mojar."
   ],
-  nutricion: { kcal: 320, prot: 14, hc: 30, grasa: 16 },
+  nutricion: { kcal: 640, prot: 28, hc: 56, grasa: 32 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegetariana", "ligera", "para compartir", "poco especiada", "bajo en colesterol"],
   consejo: "El agua con gas aligera la masa igual que una tempura. La harina de garbanzo es naturalmente sin gluten, pero para celíacos busca la que lleve sello, porque a menudo se muele en molinos que procesan trigo.",
   alternativa: "¿No tienes zumaque? Ralla la piel de medio limón sobre la masa y añade una pizca de sal al servir: da el mismo toque ácido y fresco.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   tupper: false
 });
@@ -1007,7 +1007,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "cazuela"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "bacalao fresco", q: 320, u: "g", nota: "2 lomos gruesos" },
     { n: "almendras", q: 25, u: "g", nota: "molidas gruesas" },
@@ -1027,10 +1027,10 @@ window.RECETAS_SEED.push({
     "Mientras, saltea las judías en la cazuela con el resto del aceite de ajo y un chorrito de limón 2 minutos.",
     "Sirve el bacalao sobre las judías verdes con gajos de limón."
   ],
-  nutricion: { kcal: 372, prot: 36, hc: 12, grasa: 20 },
+  nutricion: { kcal: 665, prot: 67, hc: 17, grasa: 36 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El aceite de ajo da todo el sabor del ajo sin sus FODMAP, porque estos no pasan a la grasa; mantén las almendras en la ración indicada para seguir dentro del bajo FODMAP. Es naturalmente sin gluten: la costra de almendra sustituye al pan rallado.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: false
 });

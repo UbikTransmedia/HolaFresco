@@ -1024,7 +1024,7 @@ window.RECETAS_SEED.push({
   tiempo: 15,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "tomate", q: 500, u: "g", nota: "maduros, en gajos" },
     { n: "tofu firme", q: 200, u: "g", nota: "en dados de 1,5 cm" },
@@ -1048,10 +1048,10 @@ window.RECETAS_SEED.push({
     "Bate los huevos en un vaso. Baja el fuego a mínimo, remueve la sopa en círculo con unos palillos o una cuchara y vierte el huevo en un hilo fino mientras sigue girando: se formarán hebras sedosas. No remuevas más.",
     "Prueba de sal y añade la pimienta blanca. Sirve de inmediato con la cebolleta."
   ],
-  nutricion: { kcal: 300, prot: 22, hc: 19, grasa: 15 },
+  nutricion: { kcal: 750, prot: 56, hc: 55, grasa: 34 },
   etiquetas: ["rápida", "ligera", "de cuchara", "vegetariana", "cena ligera", "económica", "poco especiada"],
   consejo: "Un bol de arroz jazmín al lado la convierte en comida completa. Si quieres más sabor, usa caldo de pollo y añade unas gotas de vinagre de arroz al final.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

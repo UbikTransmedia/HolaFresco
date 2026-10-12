@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "batidora", "microondas"],
   coccion: ["airfryer", "microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "champiñones", q: 400, u: "g" },
     { n: "puerro", q: 2, u: "ud" },
@@ -735,10 +735,10 @@ window.RECETAS_SEED.push({
     "Pela los ajos y tritura todas las verduras con el caldo y la leche hasta obtener una crema fina. Ajusta de sal y pimienta.",
     "Sirve con las avellanas por encima y un hilo del resto del aceite."
   ],
-  nutricion: { kcal: 370, prot: 14, hc: 36, grasa: 19 },
+  nutricion: { kcal: 750, prot: 29, hc: 56, grasa: 43 },
   etiquetas: ["saludable", "práctica", "airfryer", "microondas", "vegetariana", "sin gluten", "ligera", "fácil", "tupper", "batch cooking", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Asar los champiñones en vez de cocerlos concentra muchísimo el sabor. Para una versión vegana usa bebida vegetal sin azúcar. Aguanta 4 días en la nevera y se congela bien sin las avellanas.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: true
 });

@@ -431,7 +431,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "judías blancas cocidas", q: 300, u: "g", nota: "o pochas frescas, más parecidas a los porotos granados" },
     { n: "calabaza", q: 250, u: "g" },
@@ -453,10 +453,10 @@ window.RECETAS_SEED.push({
     "Cuece 5 minutos, removiendo, hasta que el guiso quede cremoso. Sala.",
     "Apaga, añade la albahaca picada a mano y sirve enseguida."
   ],
-  nutricion: { kcal: 450, prot: 18, hc: 72, grasa: 10 },
+  nutricion: { kcal: 660, prot: 29, hc: 90, grasa: 18 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "verano", "batch cooking", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Es el guiso de verano por excelencia en Chile, cuando coinciden porotos frescos, choclo y albahaca. La albahaca, siempre al final y fuera del fuego, para que no pierda el aroma.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "judías blancas cocidas", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -780,10 +780,10 @@ window.RECETAS_SEED.push({
     "Añade las judías escurridas y 150 ml de agua, tapa y cuece 12 minutos a fuego suave, removiendo con cuidado. Mientras, pica el perejil.",
     "Retira el laurel y el tomillo, salpimienta y espolvorea el perejil. Sirve sola o como guarnición de un asado."
   ],
-  nutricion: { kcal: 420, prot: 20, hc: 58, grasa: 12 },
+  nutricion: { kcal: 655, prot: 32, hc: 83, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "En Francia es la guarnición clásica de la pierna de cordero asada: si haces cordero, añade a la cazuela una cucharada de su jugo. Con un huevo escalfado encima, es cena completa.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -841,7 +841,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "garbanzos cocidos", q: 200, u: "g" },
     { n: "pollo (contramuslos)", q: 150, u: "g" },
@@ -862,10 +862,10 @@ window.RECETAS_SEED.push({
     "Añade al caldo los fideos y cuece 4 minutos. Incorpora los garbanzos escurridos, el pollo y la zanahoria y calienta 2 minutos más. Sala al gusto.",
     "Sirve en plato hondo con el huevo picado y la hierbabuena por encima, y unas gotas de limón si te gusta."
   ],
-  nutricion: { kcal: 412, prot: 30, hc: 46, grasa: 12 },
+  nutricion: { kcal: 750, prot: 58, hc: 74, grasa: 23 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "para niños", "poco especiada"],
   consejo: "Es la sopa que se toma en Andalucía para entonar el cuerpo. La hierbabuena siempre fresca y en el plato, nunca cocida, o pierde el aroma.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

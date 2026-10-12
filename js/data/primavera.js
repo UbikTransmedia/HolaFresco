@@ -193,7 +193,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "dorada (lomos)", q: 320, u: "g", nota: "de 2 doradas" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -217,11 +217,11 @@ window.RECETAS_SEED.push({
     "Tapa y cocina a fuego suave 8 a 10 minutos, sin destapar: el pescado se hace con el vapor de las verduras. Está listo cuando la carne está blanca, opaca y se separa en lascas al tocarla.",
     "Sirve los lomos con las verduras y su jugo, el resto del eneldo por encima y unas gotas del limón restante."
   ],
-  nutricion: { kcal: 345, prot: 34, hc: 11, grasa: 18 },
+  nutricion: { kcal: 695, prot: 68, hc: 27, grasa: 34 },
   etiquetas: ["primavera", "tradicional", "ligera", "sin gluten", "una sola sartén", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "«Buğulama» viene de «buğu», vapor en turco: en las casas de Estambul y del Egeo se hace así con dorada, lubina o salmonete. La clave es no destapar y no pasarse de agua: debe quedar un jugo corto que se moja con pan. Con lubina funciona igual.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -587,7 +587,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "espárragos trigueros", q: 500, u: "g", nota: "2 manojos" },
     { n: "pan", q: 2, u: "rebanada", nota: "del día anterior" },
@@ -609,11 +609,11 @@ window.RECETAS_SEED.push({
     "Incorpora el majado, sala y cuece a fuego suave 10 a 12 minutos, hasta que los espárragos estén tiernos y el caldo haya espesado.",
     "Deja reposar 2 minutos para que el caldo se asiente y sirve en la misma cazuela."
   ],
-  nutricion: { kcal: 385, prot: 11, hc: 29, grasa: 25 },
+  nutricion: { kcal: 750, prot: 20, hc: 44, grasa: 53 },
   etiquetas: ["primavera", "tradicional", "vegana", "ligera", "económica", "de cuchara", "poco especiada", "bajo en colesterol"],
   consejo: "En Córdoba y Jaén se hacen en marzo y abril con espárragos trigueros silvestres, más finos y amargos; con los cultivados queda más suave. La versión de muchas casas cuaja un huevo por persona en el caldo al final: entonces deja de ser vegana, pero es un plato completo. Aguanta 2 días en la nevera.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -671,7 +671,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "rabanitos", q: 200, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
@@ -692,11 +692,11 @@ window.RECETAS_SEED.push({
     "Justo antes de servir, aliña con la nata agria, sal y pimienta y mezcla con cuidado: si se sala antes, el pepino y los rabanitos sueltan agua.",
     "Sirve con las patatas templadas partidas por la mitad y el resto del eneldo por encima."
   ],
-  nutricion: { kcal: 370, prot: 16, hc: 35, grasa: 18 },
+  nutricion: { kcal: 735, prot: 33, hc: 67, grasa: 35 },
   etiquetas: ["primavera", "tradicional", "ligera", "rápida", "sin gluten", "económica", "vegetariana", "poco especiada"],
   consejo: "En Rusia se llama «ensalada de primavera» porque se hace con las primeras verduras del año: rabanitos, pepinos y cebolleta. Hay versiones con lechuga o sin huevo, y en muchas casas se aliña con mitad de nata agria y mitad de aceite de girasol. Con yogur griego queda más ligera.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

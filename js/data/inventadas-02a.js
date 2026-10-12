@@ -101,7 +101,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "merluza (lomos)", q: 300, u: "g" },
     { n: "pak choi", q: 2, u: "ud" },
@@ -126,11 +126,11 @@ window.RECETAS_SEED.push({
     "Escurre el jugo del plato, retira las láminas de jengibre y reparte sobre el pescado los bastones de jengibre, la cebolleta, el ajo laminado y el chile.",
     "Calienta el aceite de oliva en una sartén pequeña hasta que humee ligeramente y viértelo sobre el pescado: debe chisporrotear. Riega con la salsa, pon el cilantro y sirve con el pak choi."
   ],
-  nutricion: { kcal: 370, prot: 34, hc: 10, grasa: 22 },
+  nutricion: { kcal: 650, prot: 60, hc: 17, grasa: 38 },
   etiquetas: ["rápida", "ligera", "al vapor", "alta en proteína", "bajo en colesterol"],
   consejo: "El truco está en el aceite muy caliente: libera el aroma del jengibre y la cebolleta en el momento. Ten los platos listos antes de verterlo.",
   alternativa: "Si no encuentras pak choi, usa 4 hojas de acelga tierna con las pencas en tiras o un brócoli pequeño en ramilletes; al vapor necesitan 1-2 min más que el pak choi.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -374,7 +374,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "fácil",
   equipo: ["horno", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "mejillones frescos", q: 1200, u: "g" },
     { n: "boniato", q: 500, u: "g" },
@@ -400,7 +400,7 @@ window.RECETAS_SEED.push({
     "Añade el zumo de la lima y prueba de sal. Pica los cacahuetes.",
     "Sirve los mejillones con su salsa en platos hondos, el boniato asado al lado para mojar, cilantro, la parte verde de la cebolleta y los cacahuetes por encima."
   ],
-  nutricion: { kcal: 660, prot: 40, hc: 58, grasa: 30 },
+  nutricion: { kcal: 655, prot: 21, hc: 42, grasa: 45 },
   etiquetas: ["económica", "de cuchara", "picante", "al horno", "alta en proteína"],
   consejo: "Los mejillones se venden ya bastante limpios; si te sobra salsa, al día siguiente es una sopa estupenda con un poco de caldo y fideos de arroz.",
   contundencia: "contundente",
@@ -464,7 +464,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "media",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "merluza (lomos)", q: 320, u: "g", nota: "sin piel, cortada en tiras de 2 cm" },
     { n: "tortillas de maíz", q: 6, u: "ud" },
@@ -492,7 +492,7 @@ window.RECETAS_SEED.push({
     "Calienta las tortillas 20 segundos por lado en una sartén seca y mantenlas tapadas con un paño.",
     "Monta cada taco con col, un trozo de pescado, pico de gallo y crema de chipotle. Sirve con gajos de la lima restante."
   ],
-  nutricion: { kcal: 760, prot: 42, hc: 78, grasa: 31 },
+  nutricion: { kcal: 780, prot: 29, hc: 69, grasa: 43 },
   etiquetas: ["fritura", "fin de semana", "picante", "para compartir"],
   consejo: "La clave de un rebozado ligero es la cerveza helada y no sobremezclar; si la masa espera más de 10 minutos pierde burbujas, así que hazla justo antes de freír.",
   alternativa: "Si no encuentras chipotle en adobo, mezcla en la crema 1 cdta de pimentón ahumado, una pizca de cayena y unas gotas de vinagre: conserva el punto ahumado y picante.",
@@ -652,7 +652,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["horno", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "calamar", q: 500, u: "g", nota: "limpio, en anillas y tentáculos" },
     { n: "harina de trigo", q: 60, u: "g" },
@@ -680,7 +680,7 @@ window.RECETAS_SEED.push({
     "Escurre sobre papel y sala al momento. Tuesta el pan.",
     "Sirve los calamares con la ensalada de pimientos, el alioli, el pan y perejil picado con gajos de limón."
   ],
-  nutricion: { kcal: 780, prot: 48, hc: 62, grasa: 38 },
+  nutricion: { kcal: 695, prot: 40, hc: 52, grasa: 35 },
   etiquetas: ["fritura", "fin de semana", "para compartir", "al horno", "poco especiada"],
   consejo: "El calamar se fríe en 2 minutos: si lo dejas más se pone gomoso. El rebozado con harina de garbanzo queda más crujiente y absorbe menos aceite.",
   contundencia: "contundente",
@@ -790,7 +790,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "langostinos pelados", q: 280, u: "g" },
     { n: "champiñones", q: 200, u: "g" },
@@ -815,10 +815,10 @@ window.RECETAS_SEED.push({
     "Apaga el fuego y sazona con la salsa de pescado, el azúcar y el zumo de las limas. Debe quedar un equilibrio claro entre ácido, salado y picante; ajusta con más lima o salsa de pescado.",
     "Retira la hierba limón y las láminas de jengibre. Sirve en cuencos con la cebolleta en aros, el resto del chile y abundante cilantro."
   ],
-  nutricion: { kcal: 300, prot: 36, hc: 18, grasa: 9 },
+  nutricion: { kcal: 525, prot: 74, hc: 38, grasa: 8 },
   etiquetas: ["rápida", "ligera", "picante", "de cuchara", "alta en proteína"],
   consejo: "Si quieres una versión más saciante, añade al final 100 ml de leche de coco (quedará un tom kha) o sirve con fideos de arroz cocidos aparte.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -879,7 +879,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "media",
   equipo: ["cazuela", "plancha", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pulpo congelado", q: 1000, u: "g", nota: "1 pieza, descongelado en la nevera 24 h" },
     { n: "boniato", q: 500, u: "g" },
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
     "Separa las patas del pulpo, sécalas y píntalas con aceite. Márcalas en la plancha muy caliente 2-3 minutos por lado hasta que la piel esté crujiente y con puntos tostados.",
     "Trocea el pulpo. Sirve el puré en la base, el pulpo encima, el mojo rojo por encima y perejil picado. Un hilo de aceite y una pizca de sal gruesa si quieres."
   ],
-  nutricion: { kcal: 690, prot: 62, hc: 56, grasa: 24 },
+  nutricion: { kcal: 700, prot: 55, hc: 42, grasa: 32 },
   etiquetas: ["plancha", "fin de semana", "alta en proteína", "para compartir"],
   consejo: "El pulpo congelado sale más tierno que el fresco porque el hielo rompe las fibras: no te compliques y compra siempre congelado. El agua de cocción es un caldo estupendo para un arroz otro día.",
   alternativa: "Con olla exprés, cuece el pulpo 15 min desde que suba la válvula en lugar de 45-55 min en cazuela; o compra pulpo ya cocido (unos 600 g) y pásalo directamente a la plancha.",
@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["horno", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "sardinas frescas", q: 500, u: "g", nota: "limpias y sin cabeza" },
     { n: "harina de trigo", q: 3, u: "cda" },
@@ -996,10 +996,10 @@ window.RECETAS_SEED.push({
     "Antes de servir, precalienta el horno a 200 °C. Corta las patatas en gajos, mézclalas con 1 cucharada de aceite y sal y ásalas 35 minutos, hasta que estén doradas y crujientes. Mientras, saca las sardinas de la nevera para que el escabeche recupere fluidez y pica el perejil.",
     "Sirve las sardinas templadas con las verduras del escabeche, parte del jugo, las patatas asadas y el perejil picado."
   ],
-  nutricion: { kcal: 560, prot: 36, hc: 44, grasa: 27 },
+  nutricion: { kcal: 690, prot: 36, hc: 40, grasa: 42 },
   etiquetas: ["económica", "batch cooking", "ideal para llevar", "verano", "marinado largo", "poco especiada"],
   consejo: "El escabeche conserva: las sardinas aguantan 5 días en la nevera cubiertas de líquido. Funciona igual con caballa o con bonito en trozos.",
-  contundencia: "media",
+  contundencia: "contundente",
   coste: "económica"
 });
 

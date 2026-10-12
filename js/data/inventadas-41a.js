@@ -456,7 +456,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
     { n: "calabacín", q: 1, u: "ud", nota: "pequeño" },
@@ -474,15 +474,15 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, el pimiento y el calabacín en dados de 1 cm. Ponlos en una fuente ancha apta para microondas con el aceite y una pizca de sal, tapa y cocina a 800 W durante 5 minutos.",
     "Añade el tomate triturado, el orégano y el pimentón, remueve y cocina tapado 4 minutos más, hasta que la verdura esté tierna y el pisto espeso.",
-    "Reparte el pisto en dos cazuelitas o platos hondos aptos para microondas y haz dos huecos en cada uno.",
+    "Reparte el pisto en las cazuelitas o platos hondos aptos para microondas y haz dos huecos en cada uno.",
     "Casca un huevo en cada hueco y pincha la yema con la punta de un palillo para que no estalle. Sala la clara.",
     "Tapa cada cazuelita con un plato y cocínalas de una en una a 800 W durante 1 minuto y 15 segundos; si la clara sigue translúcida, sigue en tandas de 15 segundos hasta que cuaje.",
     "Desmiga el feta por encima, añade pimienta y sirve enseguida."
   ],
-  nutricion: { kcal: 355, prot: 20, hc: 18, grasa: 23 },
+  nutricion: { kcal: 745, prot: 43, hc: 35, grasa: 46 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegetariana", "sin gluten", "fácil", "económica", "keto", "poco especiada"],
   consejo: "Pinchar la yema es imprescindible en el microondas: sin ese agujerito el vapor la hace estallar. El pisto sí se puede preparar el doble y guardar 4 días en la nevera; los huevos, mejor recién hechos.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: false
 });
@@ -543,7 +543,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "batidora"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "calabacín", q: 2, u: "ud", nota: "unos 500 g" },
     { n: "puerro", q: 1, u: "ud" },
@@ -563,10 +563,10 @@ window.RECETAS_SEED.push({
     "Añade a la verdura el resto del caldo y la mitad del requesón, y tritura con la batidora hasta tener una crema fina. Ajusta de sal, pimienta y nuez moscada.",
     "Sirve la crema con el resto del requesón desmigado y las semillas por encima."
   ],
-  nutricion: { kcal: 311, prot: 15, hc: 28, grasa: 15 },
+  nutricion: { kcal: 605, prot: 35, hc: 49, grasa: 31 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegetariana", "sin gluten", "fácil", "tupper", "batch cooking", "económica", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Se conserva 4 días en la nevera y se congela bien sin el requesón de encima. Para celíacos, usa caldo con sello sin gluten. Si la quieres más saciante, añade un huevo duro picado por ración.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   tupper: true
 });
@@ -629,7 +629,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "mejillones frescos", q: 1000, u: "g" },
     { n: "tomate", q: 1, u: "ud" },
@@ -648,10 +648,10 @@ window.RECETAS_SEED.push({
     "Pasa los mejillones a un cuenco y el líquido de la fuente a un bol; deja templar 1 minuto y mézclalo con el yogur batiendo con unas varillas, para que no se corte.",
     "Vierte la salsa sobre los mejillones, espolvorea el cilantro, exprime el limón por encima y sirve."
   ],
-  nutricion: { kcal: 294, prot: 27, hc: 15, grasa: 14 },
+  nutricion: { kcal: 470, prot: 37, hc: 24, grasa: 23 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "económica"],
   consejo: "No hace falta sal: el agua de los mejillones ya es salada. Si sobran, quítales la concha y guárdalos con la salsa 1 día en la nevera; están ricos fríos sobre una ensalada de pepino.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   tupper: false
 });
@@ -669,7 +669,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "tofu sedoso", q: 400, u: "g" },
     { n: "edamame congelado", q: 200, u: "g", nota: "desgranado" },
@@ -690,10 +690,10 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de sésamo 20-30 segundos en el microondas y viértelo, junto con la salsa, sobre el tofu.",
     "Termina con la parte verde de la cebolleta, el sésamo y unas gotas de aceite de chile si te gusta el picante. Sirve con cuchara."
   ],
-  nutricion: { kcal: 297, prot: 23, hc: 14, grasa: 16 },
+  nutricion: { kcal: 625, prot: 48, hc: 28, grasa: 33 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegana", "fácil", "detox", "bajo en colesterol"],
   consejo: "Si quieres una cena más completa, sírvelo sobre 100 g de arroz jazmín cocido por ración. Para celíacos, cambia la salsa de soja por tamari. El tofu sedoso es delicado: córtalo y sírvelo directamente en el plato donde lo calientas.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media",
   tupper: false
 });
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pavo picado", q: 300, u: "g" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -732,10 +732,10 @@ window.RECETAS_SEED.push({
     "Aliña el pavo aún caliente con el zumo de las limas, la salsa de pescado, la cebolla y el chile. Deja 2 minutos para que absorba el aliño; mientras, machaca los cacahuetes groseramente y corta el pepino en bastones. Añade las hierbas.",
     "Sirve el larb en las hojas de cogollo, con los cacahuetes por encima y el pepino al lado."
   ],
-  nutricion: { kcal: 316, prot: 35, hc: 12, grasa: 14 },
+  nutricion: { kcal: 660, prot: 72, hc: 23, grasa: 30 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "picante", "económica", "bajo en colesterol"],
   consejo: "El larb aguanta 2 días en la nevera sin las hierbas ni los cacahuetes, que se añaden al servir. Es igual de bueno frío, así que funciona como tupper con las hojas de lechuga aparte.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });
@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["batidora"],
   coccion: ["sin-fuego"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "melón", q: 500, u: "g", nota: "pelado y sin pepitas" },
     { n: "pepino", q: 1, u: "ud" },
@@ -990,10 +990,10 @@ window.RECETAS_SEED.push({
     "Pica las almendras groseramente y corta el jamón en tiras finas.",
     "Sirve el gazpacho muy frío con el jamón, las almendras, el resto de la menta y pimienta por encima."
   ],
-  nutricion: { kcal: 363, prot: 13, hc: 26, grasa: 23 },
+  nutricion: { kcal: 725, prot: 29, hc: 48, grasa: 46 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "sin gluten", "fácil", "tupper", "verano", "poco especiada"],
   consejo: "Usa un melón muy maduro y frío de nevera; si lo preparas con antelación, aguanta 2 días en una botella cerrada. Para una versión vegetariana, sustituye el jamón por queso feta desmigado.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: true
 });

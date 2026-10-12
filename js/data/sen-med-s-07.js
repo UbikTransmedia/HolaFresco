@@ -411,7 +411,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora", "sartén", "plancha"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "chuletillas de cordero", q: 500, u: "g" },
     { n: "membrillo", q: 1, u: "ud", nota: "fruta fresca, unos 200 g" },
@@ -433,7 +433,7 @@ window.RECETAS_SEED.push({
     "Calienta la plancha a fuego fuerte y haz los pimientos y las cebolletas con unas gotas de aceite 6–8 minutos, dándoles la vuelta, hasta que estén tiernos y tostados. Sácalos.",
     "Sala las chuletillas y hazlas en la plancha bien caliente 2 minutos por cada lado, hasta que estén doradas por fuera y rosadas por dentro. Sirve enseguida con las patatas, las verduras y el allioli."
   ],
-  nutricion: { kcal: 710, prot: 34, hc: 45, grasa: 44 },
+  nutricion: { kcal: 660, prot: 23, hc: 28, grasa: 50 },
   etiquetas: ["tradicional", "sin gluten", "poco especiada", "otoño"],
   consejo: "El allioli de codony es la salsa catalana de otoño para el cordero y el conejo a la brasa; también se hace con manzana o pera asada. El membrillo tiene que estar bien tierno y templado para emulsionar. Fuera de temporada puedes usar una manzana reineta asada en el microondas 5 minutos.",
   tupper: false,

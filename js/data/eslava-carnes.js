@@ -68,7 +68,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "elaborada",
   equipo: ["sartén", "horno", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (pechuga)", q: 320, u: "g", nota: "2 medias pechugas enteras" },
     { n: "mantequilla", q: 40, u: "g", nota: "30 g para el relleno y 10 g para el puré" },
@@ -96,7 +96,7 @@ window.RECETAS_SEED.push({
     "Mientras se hornean, escurre las patatas y aplástalas con la leche caliente, los 10 g de mantequilla restantes y sal hasta tener un puré liso.",
     "Sirve cada pieza entera sobre el puré: al cortarla, la mantequilla de hierbas sale y hace de salsa."
   ],
-  nutricion: { kcal: 860, prot: 50, hc: 76, grasa: 40 },
+  nutricion: { kcal: 775, prot: 30, hc: 47, grasa: 51 },
   etiquetas: ["tradicional", "frito", "para invitados", "fin de semana", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Su origen se discute entre Kiev y los restaurantes de San Petersburgo, pero es uno de los platos de celebración más famosos de Ucrania. Las tres claves son mantequilla congelada, rollo bien cerrado y doble empanado. Puedes dejarlos empanados en la nevera hasta 24 horas, o congelarlos crudos y freírlos sin descongelar alargando el horno a 25 minutos. El aceite de girasol es el clásico; uno de oliva suave también sirve.",
   tupper: false,
@@ -116,7 +116,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 250, u: "g", nota: "troceadas" },
     { n: "salchicha ahumada", q: 100, u: "g", nota: "tipo kiełbasa" },
@@ -141,7 +141,7 @@ window.RECETAS_SEED.push({
     "Retira el laurel. Templa la nata agria con un cucharón de salsa caliente, viértela en la cazuela y calienta 2-3 minutos sin que llegue a hervir: la salsa quedará espesa, cremosa y de color dorado claro.",
     "Sirve la machanka en un cuenco con el eneldo picado y los draniki aparte, para mojarlos en la salsa."
   ],
-  nutricion: { kcal: 880, prot: 32, hc: 57, grasa: 58 },
+  nutricion: { kcal: 660, prot: 21, hc: 34, grasa: 48 },
   etiquetas: ["tradicional", "invierno", "fin de semana", "frito", "sin verduras", "poco especiada"],
   consejo: "El nombre viene del bielorruso «machats», mojar: en Bielorrusia la machanka se pone en el centro de la mesa y cada uno moja sus draniki, las tortitas de patata que son casi el plato nacional. Si no encuentras nata agria, mezcla 70 g de yogur griego con 30 ml de nata para cocinar. El guiso aguanta 3 días en la nevera; los draniki se recuperan 8 minutos en el horno a 200 °C.",
   tupper: true,
@@ -808,7 +808,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 600, u: "g", nota: "en tira, con hueso" },
     { n: "cerveza negra", q: 250, u: "ml" },
@@ -834,12 +834,12 @@ window.RECETAS_SEED.push({
     "Mientras, rehoga la cebolla con el aceite en la sartén 5 minutos y, entretanto, corta la manzana en láminas. Añádela y cocina 3 minutos. Incorpora el chucrut escurrido y saltea 8 minutos a fuego medio, hasta que se dore en algunos puntos.",
     "Corta las costillas entre hueso y hueso y sírvelas con el chucrut, el pan de centeno y, si te gusta, un poco de rábano picante."
   ],
-  nutricion: { kcal: 780, prot: 37, hc: 64, grasa: 40 },
+  nutricion: { kcal: 630, prot: 27, hc: 38, grasa: 39 },
   etiquetas: ["creativa", "al horno", "invierno", "fin de semana", "para invitados", "sin lácteos"],
   consejo: "Las costillas asadas con cerveza son un clásico de las cervecerías checas, que las sirven con rábano picante, mostaza y pan. Aquí el glaseado de cerveza negra y miel y el chucrut salteado con manzana les dan un aire más moderno. Puedes adelantar la primera fase de horno un día antes y glasearlas justo antes de comer. El chucrut salteado aguanta 4 días en la nevera.",
   alternativa: "Si no encuentras rábano picante, sirve las costillas con mostaza de Dijon y una punta de wasabi: pica de forma muy parecida.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

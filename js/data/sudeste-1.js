@@ -307,7 +307,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["wok", "sartén", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g" },
     { n: "maicena", q: 1, u: "cda" },
@@ -336,11 +336,11 @@ window.RECETAS_SEED.push({
     "En la sartén, con el resto del aceite muy caliente, fríe los huevos 2 minutos, hasta que la clara tenga los bordes crujientes y la yema siga líquida (kai dao).",
     "Sirve los garbanzos sobre el arroz con el huevo encima, el pepino, las hojas de cilantro, el chile y unas gotas de lima."
   ],
-  nutricion: { kcal: 815, prot: 28, hc: 104, grasa: 31 },
+  nutricion: { kcal: 630, prot: 19, hc: 69, grasa: 29 },
   etiquetas: ["creativa", "económica", "sin lácteos"],
   consejo: "El kratiam prik thai («ajo y pimienta») es uno de los salteados más sencillos de Tailandia; allí se hace con cerdo o gambas y con raíz de cilantro machacada, que aporta un aroma terroso: si compras cilantro con raíz, úsala bien lavada. Seca a conciencia los garbanzos o no se pondrán crujientes. Se ablandan al guardarlos, así que es un plato para comer recién hecho.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "caballa", q: 500, u: "g", nota: "2 piezas limpias cortadas en rodajas de 3 cm con espina" },
     { n: "salsa de pescado", q: 2, u: "cda" },
@@ -608,11 +608,11 @@ window.RECETAS_SEED.push({
     "Cuece destapado a fuego suave 20 minutos sin remover; inclina la cazuela para regar el pescado con la salsa y dale la vuelta una sola vez con cuidado. Está listo cuando la salsa quede espesa, oscura y pegajosa. Mientras, corta la cebolleta en aros, el chile en rodajas y el pepino en bastones.",
     "Termina con la cebolleta, el chile y más pimienta recién molida. Sirve con el arroz y el pepino para refrescar."
   ],
-  nutricion: { kcal: 710, prot: 35, hc: 80, grasa: 28 },
+  nutricion: { kcal: 620, prot: 38, hc: 57, grasa: 27 },
   etiquetas: ["tradicional", "sin gluten", "alta en proteína", "económica", "omega 3"],
   consejo: "El cá kho tộ más conocido se hace con pez gato o panga en cazuelita de barro, pero el cá thu kho (de caballa o bonito) es igual de clásico en el centro y el norte de Vietnam. Nació como conserva: muy salado, se comía con mucho arroz. Aguanta 3 días en la nevera y recalentado está aún mejor.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

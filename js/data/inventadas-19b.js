@@ -977,7 +977,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "en dados de 2 cm" },
     { n: "arroz basmati", q: 160, u: "g" },
@@ -1005,7 +1005,7 @@ window.RECETAS_SEED.push({
     "Añade a la cazuela el arroz, las pasas y el resto del caldo caliente (320 ml); prueba de sal. Cuando hierva, tapa y cocina a fuego mínimo 12 minutos sin destapar; mientras, pica la menta. Reposa 5 minutos tapado.",
     "Mezcla el yogur con el zumo de limón, sal y un poco de la menta picada. Ahueca el pilaf con un tenedor y sirve con los pistachos, el resto de la menta y el yogur."
   ],
-  nutricion: { kcal: 770, prot: 42, hc: 82, grasa: 30 },
+  nutricion: { kcal: 655, prot: 28, hc: 58, grasa: 34 },
   etiquetas: ["mediterránea", "aromática", "invierno", "sin verduras"],
   consejo: "Pon un paño de cocina limpio entre la cazuela y la tapa durante el reposo: absorbe el vapor y el arroz queda perfectamente suelto. Con cordero picado lo tienes en 30 minutos.",
   contundencia: "contundente",
@@ -1066,7 +1066,7 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ossobuco de ternera", q: 600, u: "g", nota: "2 piezas" },
     { n: "farro", q: 150, u: "g", nota: "perlado" },
@@ -1094,10 +1094,10 @@ window.RECETAS_SEED.push({
     "Devuelve el ossobuco a la cazuela y caliéntalo 5 minutos sobre el farro.",
     "Prepara la gremolata picando muy fino el perejil con el ajo restante y la ralladura del limón. Sirve el farro con el ossobuco encima y la gremolata espolvoreada al momento."
   ],
-  nutricion: { kcal: 680, prot: 48, hc: 70, grasa: 22 },
+  nutricion: { kcal: 610, prot: 44, hc: 51, grasa: 23 },
   etiquetas: ["mediterránea", "aromática", "invierno", "batch cooking", "poco especiada"],
   consejo: "No te saltes la gremolata: el perejil, el ajo crudo y el limón despiertan el guiso. Si te sobra carne, desmígala con su salsa y mézclala con el farro para un táper estupendo.",
   alternativa: "Con olla exprés, brasea el ossobuco 35-40 min a presión con solo 400 ml de caldo en lugar de las casi 2 h en cazuela; si no encuentras farro, usa espelta en grano.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });

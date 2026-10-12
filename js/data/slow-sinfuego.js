@@ -209,7 +209,7 @@ window.RECETAS_SEED.push({
   tiempo: 530,
   dificultad: "media",
   equipo: ["slow-cooker", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "paletilla de cordero", q: 350, u: "g", nota: "deshuesada y sin el exceso de grasa" },
     { n: "membrillo fresco", q: 1, u: "ud", nota: "unos 300 g" },
@@ -236,11 +236,11 @@ window.RECETAS_SEED.push({
     "Añade el azafrán a la olla con el zumo del limón y el azúcar; prueba: debe quedar entre ácido y dulce. Sala y deja en ALTO 15 minutos.",
     "Sirve el arroz con el guiso por encima, el membrillo y las ciruelas bien visibles."
   ],
-  nutricion: { kcal: 960, prot: 42, hc: 112, grasa: 39 },
+  nutricion: { kcal: 615, prot: 24, hc: 69, grasa: 26 },
   etiquetas: ["slow cooker", "tradicional", "otoño", "invierno", "sin gluten", "para invitados", "sin verduras", "poco especiada"],
   consejo: "En Irán el membrillo (beh) se guisa con cordero o ternera desde octubre. El membrillo fresco crudo es duro y astringente, pero tras horas de cocción se vuelve rosado, tierno y muy aromático. Fuera de temporada, usa 2 manzanas ácidas y añádelas solo en las 2 últimas horas.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
   tiempo: 520,
   dificultad: "fácil",
   equipo: ["slow-cooker", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo 12 horas" },
     { n: "calabaza", q: 400, u: "g" },
@@ -423,11 +423,11 @@ window.RECETAS_SEED.push({
     "Calienta los 200 ml de caldo restantes en la cazuela, apaga, echa el cuscús con 1 cucharada de aceite y sal y tapa 5 minutos. Mientras, tuesta las almendras en la sartén seca 3 minutos, pícalas y pica el cilantro. Suelta el cuscús con un tenedor.",
     "Sirve el tajine sobre el cuscús con las almendras y el cilantro por encima."
   ],
-  nutricion: { kcal: 865, prot: 29, hc: 130, grasa: 25 },
+  nutricion: { kcal: 610, prot: 21, hc: 84, grasa: 18 },
   etiquetas: ["slow cooker", "creativa", "vegana", "batch cooking", "invierno", "otoño", "bajo en colesterol"],
   consejo: "El ras el hanout es una mezcla marroquí que se vende ya hecha; si no lo encuentras, usa 1 cucharadita de comino, 1/2 de cúrcuma, 1/2 de jengibre molido y 1/2 de pimentón. El tajine congela perfecto; el cuscús hazlo siempre al momento.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -632,7 +632,7 @@ window.RECETAS_SEED.push({
   tiempo: 420,
   dificultad: "media",
   equipo: ["slow-cooker", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "conejo", q: 600, u: "g", nota: "troceado, con hueso" },
     { n: "pappardelle", q: 160, u: "g" },
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
     "Cuece las pappardelle en el agua hirviendo el tiempo que indique el paquete menos 1 minuto. Reserva un vaso del agua de cocción.",
     "Escurre la pasta, mézclala con el ragú y un chorrito del agua de cocción hasta que la salsa la envuelva y brille. Sirve con el parmesano y pimienta."
   ],
-  nutricion: { kcal: 840, prot: 54, hc: 69, grasa: 36 },
+  nutricion: { kcal: 640, prot: 47, hc: 49, grasa: 27 },
   etiquetas: ["slow cooker", "tradicional", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Puedes congelar el ragú sin la pasta hasta 3 meses. En Liguria se hace parecido con aceitunas negras y piñones al final. Si no encuentras pappardelle, vale cualquier pasta al huevo ancha, como tagliatelle.",
   tupper: true,

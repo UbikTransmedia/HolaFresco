@@ -16,7 +16,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "salmón fresco (lomos)", q: 300, u: "g" },
     { n: "quinoa", q: 120, u: "g" },
@@ -44,7 +44,7 @@ window.RECETAS_SEED.push({
     "Seca bien los lomos de salmón. Calienta el aceite en una sartén antiadherente a fuego medio-alto y dóralos 3 minutos por el lado de la piel. Dales la vuelta, baja a fuego medio, vierte el glaseado y cocina 2-3 minutos más, cucharéandolo por encima hasta que espese y brille. No lo pases: el centro debe quedar jugoso.",
     "Monta cada bol con una base de quinoa, el edamame, el pepino encurtido escurrido y el aguacate en láminas. Coloca el salmón encima, riega con el glaseado que quede en la sartén y termina con la cebolleta y el sésamo."
   ],
-  nutricion: { kcal: 860, prot: 48, hc: 68, grasa: 44 },
+  nutricion: { kcal: 605, prot: 35, hc: 42, grasa: 32 },
   etiquetas: ["fusión", "rápida", "alta en proteína", "ideal para llevar", "una sola sartén", "superalimentos", "poco especiada"],
   consejo: "El glaseado de miso se quema fácil por la miel: viértelo siempre con el fuego ya bajado. Si sobra quinoa, al día siguiente es una ensalada perfecta con lo que tengas en la nevera."
 });
@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "lentejas rojas", q: 160, u: "g" },
     { n: "pasta de curry verde", q: 1.5, u: "cda" },
@@ -218,7 +218,7 @@ window.RECETAS_SEED.push({
     "Incorpora las espinacas por puñados hasta que se marchiten, y sazona con la salsa de soja, el azúcar moreno y el zumo de media lima. Prueba: debe equilibrar picante, salado, dulce y ácido. Ajusta con más lima o sal.",
     "Sirve el curry sobre el arroz, con el cilantro, los cacahuetes y gajos de lima."
   ],
-  nutricion: { kcal: 890, prot: 33, hc: 108, grasa: 36 },
+  nutricion: { kcal: 665, prot: 24, hc: 75, grasa: 29 },
   etiquetas: ["fusión", "de cuchara", "batch cooking", "picante", "económica", "invierno"],
   consejo: "La pasta de curry verde varía mucho de picante según la marca: empieza con 1 cda y añade al final si quieres más. Mejora al día siguiente y congela de maravilla sin el arroz."
 });

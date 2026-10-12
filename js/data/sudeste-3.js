@@ -117,7 +117,7 @@ window.RECETAS_SEED.push({
   tiempo: 105,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "jaca verde en lata", q: 400, u: "g", nota: "jaca joven en salmuera, escurrida (unas 2 latas); no la madura en almíbar" },
     { n: "leche de coco", q: 250, u: "ml" },
@@ -145,11 +145,11 @@ window.RECETAS_SEED.push({
     "Destapa y sigue cociendo 15-20 minutos, removiendo más a menudo, hasta que el líquido casi haya desaparecido, la jaca tenga color caramelo y se deshaga en hebras al apretarla. A la vez, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
     "Retira el laurel y sirve el gudeg sobre el arroz con el tofu al lado y el chile para quien quiera picante."
   ],
-  nutricion: { kcal: 890, prot: 25, hc: 102, grasa: 43 },
+  nutricion: { kcal: 635, prot: 17, hc: 75, grasa: 30 },
   etiquetas: ["tradicional", "vegana", "sin lácteos", "batch cooking", "invierno"],
   consejo: "El gudeg es el plato emblema de Yogyakarta: allí se cuece durante horas con hojas de teca, que le dan su color rojizo, y se acompaña de huevo, pollo, tofu y un sambal de piel de vaca (krecek); esta es la versión vegetal de las casas. La jaca verde en lata se vende en tiendas asiáticas y en algunos supermercados como «jackfruit». Como todo guiso de coco reducido, está mejor al día siguiente: aguanta 4 días en la nevera.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -394,7 +394,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "media",
   equipo: ["bol", "sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "cadera de ternera", q: 250, u: "g", nota: "pieza limpia y muy fresca" },
     { n: "lima", q: 4, u: "ud" },
@@ -418,11 +418,11 @@ window.RECETAS_SEED.push({
     "Escurre la carne apretando ligeramente para quitar el exceso de lima (si no, quedará demasiado ácida y dura).",
     "Mezcla la ternera con la cebolla escurrida, el pepino, las hojas de menta y cilantro y el aliño. Sirve al momento con los cacahuetes y el sésamo por encima."
   ],
-  nutricion: { kcal: 289, prot: 32, hc: 11, grasa: 13 },
+  nutricion: { kcal: 680, prot: 68, hc: 36, grasa: 30 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "ligera", "verano", "para invitados"],
   consejo: "Es un aperitivo de cervecería en el norte de Vietnam. La lima no esteriliza la carne: compra una pieza entera en una carnicería de confianza, pídela para comer cruda y prepárala el mismo día. En Vietnam se usa rau răm (cilantro vietnamita); la mezcla de menta y cilantro se le acerca. Si la prefieres hecha, sella las láminas 20 segundos en sartén muy caliente.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -529,7 +529,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "corvina (lomos)", q: 300, u: "g", nota: "sin piel ni espinas, previamente congelada" },
     { n: "vinagre de coco", q: 120, u: "ml", nota: "o vinagre de manzana" },
@@ -552,11 +552,11 @@ window.RECETAS_SEED.push({
     "Mientras, corta el pepino en dados pequeños y los tomates en cuartos.",
     "Escurre casi todo el vinagre, añade el zumo de la lima, la leche de coco, el pepino y los tomates, mezcla con suavidad y sirve enseguida, con cilantro si quieres."
   ],
-  nutricion: { kcal: 246, prot: 30, hc: 9, grasa: 10 },
+  nutricion: { kcal: 555, prot: 60, hc: 27, grasa: 22 },
   etiquetas: ["tradicional", "sin cocción", "alta en proteína", "sin gluten", "sin lácteos", "rápida", "ligera", "verano", "detox"],
   consejo: "Para comer pescado crudo con seguridad frente al anisakis, congélalo antes al menos 5 días a -20 °C o cómpralo ya ultracongelado. El kinilaw de Visayas y Mindanao se hace con vinagre de coco o de caña y calamansi; la leche de coco es típica del sur. También queda muy bien con atún o dorada.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -849,7 +849,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "fideos de huevo", q: 180, u: "g" },
     { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel" },
@@ -874,7 +874,7 @@ window.RECETAS_SEED.push({
     "Cuece a fuego suave 15 minutos, hasta que el pollo esté tierno y la salsa espese y napée la cuchara. Sazona con la salsa de pescado y el azúcar. Mientras cuece, corta la chalota en láminas finas, deshoja el cilantro y corta la lima en gajos.",
     "Mezcla los fideos cocidos con la salsa caliente, 1 minuto al fuego. Sirve con los fideos crujientes encima, la chalota, el cilantro y los gajos de lima."
   ],
-  nutricion: { kcal: 859, prot: 43, hc: 75, grasa: 43 },
+  nutricion: { kcal: 675, prot: 26, hc: 52, grasa: 41 },
   etiquetas: ["creativa", "picante", "sin lácteos", "invierno", "otoño", "sin verduras"],
   consejo: "El khao soi del norte de Tailandia es una sopa de curry y coco de influencia birmana y china musulmana; con menos caldo se convierte en una salsa que se agarra a los fideos. Se acompaña tradicionalmente con mostaza china encurtida: si encuentras col encurtida en una tienda asiática, añádela. Sin los fideos crujientes aguanta 2 días en la nevera.",
   tupper: true,
@@ -894,7 +894,7 @@ window.RECETAS_SEED.push({
   tiempo: 65,
   dificultad: "fácil",
   equipo: ["horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz jazmín", q: 150, u: "g" },
     { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
@@ -924,11 +924,11 @@ window.RECETAS_SEED.push({
     "Destapa y hornea 10 minutos más, hasta que el pollo esté dorado por arriba y el arroz haya absorbido todo el líquido. Deja reposar 5 minutos fuera del horno y retira la hierba limón.",
     "Sirve el arroz con el pollo, el pepino, los cacahuetes y gajos de lima."
   ],
-  nutricion: { kcal: 805, prot: 40, hc: 69, grasa: 41 },
+  nutricion: { kcal: 615, prot: 29, hc: 54, grasa: 32 },
   etiquetas: ["creativa", "al horno", "sin lácteos", "batch cooking", "para niños", "poco especiada"],
   consejo: "El nasi kunyit es un arroz glutinoso con cúrcuma y coco que en Malasia se prepara para celebraciones; aquí se adapta con arroz jazmín y al horno para que el pollo y el arroz se hagan juntos sin vigilancia. Si encuentras hojas de pandan, añade una anudada al arroz. Aguanta 3 días en la nevera y se recalienta con una cucharada de agua.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -944,7 +944,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "fideos de arroz", q: 160, u: "g", nota: "finos" },
     { n: "caballa en aceite", q: 200, u: "g", nota: "en conserva, escurrida; unas 2 latas" },
@@ -971,11 +971,11 @@ window.RECETAS_SEED.push({
     "Añade a la salsa el resto de la caballa en lascas grandes y calienta 2 minutos sin remover mucho, para que no se deshaga. Prueba: debe ser salada, especiada y algo dulce.",
     "Forma nidos de fideos en cada plato, vierte la salsa caliente por encima y acompaña con el huevo, las judías, los brotes de soja crudos, el pepino y las hojas de albahaca, que se mezclan con cada bocado."
   ],
-  nutricion: { kcal: 830, prot: 37, hc: 80, grasa: 40 },
+  nutricion: { kcal: 615, prot: 28, hc: 57, grasa: 30 },
   etiquetas: ["creativa", "picante", "sin gluten", "sin lácteos", "omega 3", "económica"],
   consejo: "En Tailandia el khanom jeen se hace con fideos frescos de arroz fermentado y la salsa nam ya lleva pescado machacado, krachai y pasta de curry; muchas casas tailandesas usan caballa en lata como atajo, y funciona de maravilla. Las verduras crudas son parte del plato: aportan frescor y crujiente frente a la salsa. La salsa aguanta 2 días en la nevera; cuece los fideos en el momento.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

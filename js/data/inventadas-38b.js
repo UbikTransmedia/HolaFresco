@@ -1023,7 +1023,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "batidora"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "chirivía", q: 400, u: "g" },
     { n: "manzana", q: 1, u: "ud" },
@@ -1047,12 +1047,12 @@ window.RECETAS_SEED.push({
     "Tuesta las nueces en un plato a 800 W 2 minutos, removiendo a mitad, y trocéalas.",
     "Sirve la crema con una cucharada de yogur, las nueces y el cebollino."
   ],
-  nutricion: { kcal: 385, prot: 7, hc: 53, grasa: 16 },
+  nutricion: { kcal: 730, prot: 14, hc: 84, grasa: 32 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "fácil", "invierno", "detox", "bajo en colesterol"],
   consejo: "Corta la chirivía en rodajas finas y del mismo grosor para que se cueza a la vez; si es grande, quita el corazón leñoso. Se congela bien sin el yogur. Para comida completa, acompáñala con un huevo escalfado en taza o con garbanzos.",
   alternativa: "Si no encuentras chirivía, usa 250 g de zanahoria y 150 g de nabo: la crema sale un poco más dulce y anaranjada, con un sabor muy cercano.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -1069,7 +1069,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "batidora"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "boniato", q: 250, u: "g" },
@@ -1092,11 +1092,11 @@ window.RECETAS_SEED.push({
     "Tuesta las almendras en un plato a 800 W 2 minutos, removiendo a mitad, hasta que estén doradas.",
     "Sirve la crema con el queso fresco, las almendras y pimienta recién molida."
   ],
-  nutricion: { kcal: 360, prot: 10, hc: 42, grasa: 16.5 },
+  nutricion: { kcal: 730, prot: 23, hc: 73, grasa: 35 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "rápida", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y se congela sin problema (sin el queso). Para una versión vegana, cambia el queso fresco por garbanzos cocidos templados con pimentón.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

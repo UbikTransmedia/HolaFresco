@@ -477,7 +477,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "filete de ternera", q: 280, u: "g", nota: "2 filetes de babilla o cadera de 2 cm de grosor" },
     { n: "pimienta negra en grano", q: 1, u: "cdta" },
@@ -506,11 +506,11 @@ window.RECETAS_SEED.push({
     "Limpia la sartén, caliéntala a fuego fuerte con el resto del aceite hasta que humee ligeramente y marca los filetes 2–3 minutos por cada lado sin moverlos, hasta que tengan costra. Para un punto rosado, la carne debe ceder un poco al presionarla con el dedo.",
     "Deja reposar la carne 3 minutos sobre una tabla, córtala en tiras contra la fibra y sírvela con los champiñones y la ensalada de tomate."
   ],
-  nutricion: { kcal: 370, prot: 36, hc: 12, grasa: 19 },
+  nutricion: { kcal: 725, prot: 72, hc: 21, grasa: 37 },
   etiquetas: ["tradicional", "ligera", "rápida", "sin gluten", "alta en proteína", "una sola sartén"],
   consejo: "La especia de Montreal nació en los asadores y delicatessen judíos de la ciudad a mediados del siglo XX, y en Canadá la usa todo el mundo en la barbacoa. Prepara el triple de mezcla y guárdala en un tarro: sirve también para pollo, salmón o patatas asadas. Las especias se queman si el fuego es excesivo; si ves que ennegrecen antes de que la carne tenga costra, baja medio punto.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

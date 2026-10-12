@@ -62,7 +62,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "cazuela", "batidora"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "calabaza", q: 500, u: "g", nota: "pelada, en dados" },
     { n: "zanahoria", q: 2, u: "ud", nota: "en rodajas gruesas" },
@@ -85,11 +85,11 @@ window.RECETAS_SEED.push({
     "Tritura con la batidora hasta tener una crema muy fina, añade la leche de coco y ajusta de sal. Si queda espesa, alarga con un poco de agua caliente.",
     "Sirve con un hilo de leche de coco por encima y las semillas tostadas."
   ],
-  nutricion: { kcal: 286, prot: 8, hc: 32, grasa: 14 },
+  nutricion: { kcal: 555, prot: 13, hc: 51, grasa: 34 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "ligera", "vegana", "tupper", "batch cooking", "invierno", "detox", "poco especiada"],
   consejo: "Asar las verduras en la airfryer en lugar de hervirlas concentra su dulzor y da una crema mucho más sabrosa. Para celíacos, el caldo comercial debe llevar sello sin gluten. Aguanta 4 días en nevera y se congela sin problema.",
   alternativa: "Las verduras también se pueden asar en el horno: 200 °C durante 30 min en una bandeja, removiendo una vez; el resultado es igual de caramelizado.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   tupper: true
 });
@@ -107,7 +107,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "cazuela", "batidora"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "tomate pera", q: 700, u: "g", nota: "partidos por la mitad" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -129,10 +129,10 @@ window.RECETAS_SEED.push({
     "Tritura hasta que quede fina y ajusta de sal. Si la quieres más lisa, pásala por un colador.",
     "Sirve caliente con los picatostes, el huevo duro picado y el resto de la albahaca."
   ],
-  nutricion: { kcal: 336, prot: 8, hc: 40, grasa: 16 },
+  nutricion: { kcal: 720, prot: 19, hc: 74, grasa: 37 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "ligera", "vegetariana", "tupper", "poco especiada", "bajo en colesterol"],
   consejo: "La pizca de azúcar equilibra la acidez si los tomates no están en su mejor momento. Para celíacos, guarda los picatostes aparte en un bote cerrado y tuéstalos siempre en una cesta sin restos de pan de trigo. La sopa sin picatostes aguanta 3 días en tupper.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });
@@ -150,7 +150,7 @@ window.RECETAS_SEED.push({
   dificultad: "media",
   equipo: ["airfryer", "batidora"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "rape (lomos)", q: 220, u: "g", nota: "en dados de 3 cm" },
     { n: "langostinos pelados", q: 150, u: "g" },
@@ -173,11 +173,11 @@ window.RECETAS_SEED.push({
     "Colócalas en la cesta y cocina a 200 °C 8-9 minutos, girándolas a los 5, hasta que el rape esté blanco y firme y los langostinos rosados.",
     "Sirve las brochetas recién hechas con el romesco templado al lado."
   ],
-  nutricion: { kcal: 380, prot: 36, hc: 14, grasa: 20 },
+  nutricion: { kcal: 730, prot: 71, hc: 22, grasa: 40 },
   etiquetas: ["sin gluten", "airfryer", "ligera", "alta en proteína", "para compartir", "poco especiada"],
   consejo: "El romesco tradicional se espesa con pan frito; aquí lo hacen solo los frutos secos y el tomate asado, así que es apto para celíacos sin perder textura. El romesco aguanta 4 días en nevera, pero las brochetas se disfrutan al momento.",
   alternativa: "Si el rape se te va de precio, usa emperador o corvina en dados de 3 cm: aguantan igual de firmes en la brocheta. Sin ñora, vale 1 cda de carne de pimiento choricero de bote.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "premium",
   tupper: false
 });
@@ -284,7 +284,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol", "batidora"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "harina de garbanzo", q: 70, u: "g" },
     { n: "cebolla", q: 1, u: "ud", nota: "en pluma fina" },
@@ -308,10 +308,10 @@ window.RECETAS_SEED.push({
     "Mientras, tritura el cilantro con el zumo de la lima, el resto del chile, el aceite restante, sal y 2 cucharadas de agua hasta tener un chutney verde y fluido. Corta el tomate en rodajas.",
     "Sirve las pakoras calientes con el chutney y el tomate con sal."
   ],
-  nutricion: { kcal: 350, prot: 14, hc: 42, grasa: 14 },
+  nutricion: { kcal: 725, prot: 27, hc: 90, grasa: 26 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "vegana", "ligera", "picante", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Las pakoras son crujientes de por sí porque la harina de garbanzo no tiene gluten: no necesitan ningún otro rebozado. Para celíacos, asegúrate de que la harina de garbanzo (besan) tenga sello sin gluten, ya que en tiendas de alimentación india a veces se mezcla con trigo.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: false
 });
@@ -912,7 +912,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol", "microondas"],
   coccion: ["airfryer", "microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "patata", q: 2, u: "ud", nota: "grandes, unos 300 g cada una" },
     { n: "atún en conserva", q: 2, u: "lata", nota: "al natural, escurrido" },
@@ -934,10 +934,10 @@ window.RECETAS_SEED.push({
     "Rellena las patatas con la mezcla, cubre con el queso rallado y gratina en la airfryer a 200 °C 4-5 minutos hasta que el queso se funda.",
     "Sirve con el resto del cebollino por encima y el tomate con sal."
   ],
-  nutricion: { kcal: 460, prot: 28, hc: 60, grasa: 12 },
+  nutricion: { kcal: 745, prot: 51, hc: 81, grasa: 23 },
   etiquetas: ["sin gluten", "airfryer", "microondas", "fácil", "económica", "ligera", "tupper", "para niños", "poco especiada"],
   consejo: "El golpe de microondas recorta el tiempo a la mitad sin renunciar a la piel crujiente. Para celíacos, comprueba el atún (los que van en salsa o escabeche pueden llevar gluten) y el queso rallado. Se guardan rellenas en tupper 2 días y se recalientan en la airfryer a 180 °C 8 minutos.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });
@@ -955,7 +955,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "merluza (lomos)", q: 320, u: "g", nota: "2 lomos" },
     { n: "calabacín", q: 1, u: "ud", nota: "en juliana" },
@@ -976,11 +976,11 @@ window.RECETAS_SEED.push({
     "Cocina en la airfryer a 180 °C 10-12 minutos: el papel se hinchará y el pescado quedará blanco y jugoso, lascándose al presionarlo.",
     "Abre los paquetes en la mesa con cuidado con el vapor y espolvorea el cebollino."
   ],
-  nutricion: { kcal: 300, prot: 32, hc: 22, grasa: 10 },
+  nutricion: { kcal: 680, prot: 63, hc: 45, grasa: 27 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Pon algo de peso (las patatas) en el fondo del paquete para que el aire de la airfryer no levante el papel y lo lleve contra la resistencia. Es naturalmente sin gluten y bajo en FODMAP: el aceite de ajo y el cebollino dan sabor sin ajo ni cebolla.",
   alternativa: "Puedes hacer los papillotes en el horno: precocina las patatas 15 min a 200 °C, monta los paquetes y hornéalos 12-15 min a 200 °C.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: false
 });

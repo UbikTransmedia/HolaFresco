@@ -297,7 +297,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo entero troceado", q: 700, u: "g" },
     { n: "tomate pera", q: 800, u: "g", nota: "bien maduros" },
@@ -322,7 +322,7 @@ window.RECETAS_SEED.push({
     "Mientras, pela las patatas, córtalas en bastones, lávalas y sécalas muy bien. Fríelas en el aceite de girasol a 160 °C 6-7 minutos, hasta que estén tiernas; sácalas, sube el aceite a 185 °C y fríelas otra vez 2-3 minutos hasta que estén doradas. Escúrrelas y sálalas.",
     "Sirve el pollo bien cubierto de salsa con las patatas fritas al lado, para mojar."
   ],
-  nutricion: { kcal: 840, prot: 53, hc: 58, grasa: 43 },
+  nutricion: { kcal: 795, prot: 37, hc: 38, grasa: 54 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "para niños", "económica", "batch cooking", "poco especiada"],
   consejo: "Las patatas prefritas congeladas a veces llevan un rebozado fino con harina de trigo y en los bares se fríen junto a empanados: en casa controlas el aceite. Si usas tomate frito o triturado de bote, mira la etiqueta: casi todos son sin gluten, pero algunos espesan con harina o almidón de trigo. El pollo con tomate (sin las patatas) aguanta 3 días en la nevera y se congela bien.",
   tupper: true,
@@ -1060,7 +1060,7 @@ window.RECETAS_SEED.push({
   tiempo: 65,
   dificultad: "media",
   equipo: ["horno", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
     { n: "costilla de cerdo", q: 250, u: "g", nota: "troceada" },
@@ -1082,11 +1082,11 @@ window.RECETAS_SEED.push({
     "Vierte el agua hirviendo con cuidado por los lados, sin remover, y mete en el horno. Hornea 20-22 minutos, hasta que no quede caldo, el arroz esté suelto y la superficie tostada.",
     "Saca la cazuela y deja reposar el arroz 5 minutos antes de servirlo."
   ],
-  nutricion: { kcal: 895, prot: 28, hc: 99, grasa: 42 },
+  nutricion: { kcal: 605, prot: 19, hc: 66, grasa: 29 },
   etiquetas: ["creativa", "al horno", "sin gluten", "apta para alergias", "económica", "poco especiada"],
   consejo: "El arròs al forn lleva morcilla y a veces embutido del cocido. La morcilla puede llevar pan, cebolla con lactosa o conservantes con sulfitos, según la receta: aquí la costilla bien dorada y la cabeza de ajo dan el sabor. Si tienes caldo de cocido casero, úsalo en lugar del agua; evita las pastillas, que a menudo llevan apio o gluten. Para el tupper, recaliéntalo con un chorrito de agua.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -1281,7 +1281,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "media",
   equipo: ["olla-express", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pollo entero troceado", q: 600, u: "g", nota: "sin piel" },
     { n: "patata", q: 250, u: "g" },
@@ -1312,12 +1312,12 @@ window.RECETAS_SEED.push({
     "Abre la olla, retira el habanero y deja reducir la salsa 3-5 minutos sin tapa si está muy líquida; la patata que se deshace la espesa.",
     "Sirve el curry con el rice and peas y la parte verde de la cebolleta por encima."
   ],
-  nutricion: { kcal: 970, prot: 54, hc: 93, grasa: 41 },
+  nutricion: { kcal: 570, prot: 28, hc: 46, grasa: 29 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "picante", "batch cooking", "ideal para llevar"],
   consejo: "El curry en polvo jamaicano, como casi todos los curris en polvo comerciales, puede llevar semillas de mostaza y a veces apio: por eso aquí se mezclan las especias en casa. El habanero entero perfuma sin picar demasiado; si lo rompes, el plato será muy picante. Revisa que la leche de coco solo lleve coco y agua (algunas añaden espesantes o se envasan junto a frutos secos).",
   alternativa: "Sin olla exprés: cuece el curry en cazuela tapada 35-40 minutos a fuego suave en lugar de 12 minutos a presión, con 100 ml más de agua, hasta que el pollo esté tierno.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

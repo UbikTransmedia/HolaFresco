@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "chuletillas de cordero", q: 500, u: "g", nota: "unas 8 chuletillas de palo" },
     { n: "huevo", q: 1, u: "ud" },
@@ -355,7 +355,7 @@ window.RECETAS_SEED.push({
     "Calienta 1 cm de aceite en una sartén a fuego medio-alto (170 °C: un poco de pan rallado debe burbujear enseguida). Fríe las chuletillas en dos tandas, 2–3 minutos por lado, hasta que estén doradas y la carne siga rosada. Escúrrelas en papel de cocina y sálalas.",
     "Aliña la ensalada en el último momento con el vinagre, un hilo de aceite y sal, y sirve las chuletillas con gajos de limón para exprimir por encima, las patatas y la ensalada."
   ],
-  nutricion: { kcal: 770, prot: 38, hc: 63, grasa: 41 },
+  nutricion: { kcal: 775, prot: 26, hc: 40, grasa: 56 },
   etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "sin lactosa", "frito", "poco especiada"],
   consejo: "En Roma el «abbacchio» es el cordero lechal, y sus chuletillas empanadas y fritas son el plato de Pascua junto a las alcachofas. El pan rallado sin gluten se pega igual de bien si aprietas con la mano y dejas reposar las chuletillas 5 minutos antes de freírlas. Las patatas y la lechuga son libres en una dieta baja en FODMAP; el limón aporta la acidez que equilibra la fritura.",
   tupper: false,
@@ -463,7 +463,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "costillas de cerdo", q: 700, u: "g", nota: "troceadas en piezas de 2 costillas" },
     { n: "tomate triturado", q: 500, u: "g" },
@@ -488,11 +488,11 @@ window.RECETAS_SEED.push({
     "Mientras se guisa, ralla el pecorino. Cuando falten 10 minutos, lleva a ebullición 600 ml de agua con sal, echa la polenta en forma de lluvia batiendo con unas varillas y cuécela 5–8 minutos, removiendo, hasta que esté cremosa y se despegue de las paredes.",
     "Retira el romero y el laurel del guiso. Sirve la polenta en los platos, pon encima las costillas con toda su salsa y espolvorea el pecorino."
   ],
-  nutricion: { kcal: 880, prot: 45, hc: 58, grasa: 52 },
+  nutricion: { kcal: 585, prot: 26, hc: 32, grasa: 38 },
   etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "invierno", "batch cooking"],
   consejo: "Las «spuntature» son las puntas de costilla, un corte barato que en Roma se guisa en tomate y se sirve sobre polenta extendida en una tabla de madera, para comer en el centro de la mesa. El sofrito original lleva cebolla y ajo: aquí la zanahoria picada da cuerpo y dulzor y el aceite de ajo, el aroma. El trabajo activo es de 20 minutos; el resto, la cazuela sola. Se congela muy bien.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -906,7 +906,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "muslos de pato", q: 2, u: "ud", nota: "unos 500 g en total" },
     { n: "tallarines sin gluten", q: 180, u: "g" },
@@ -930,11 +930,11 @@ window.RECETAS_SEED.push({
     "Saca los muslos, desmenuza la carne con dos tenedores desechando huesos y tendones y devuélvela a la cazuela con la ralladura de naranja; retira el romero y el laurel. Mientras, cuece los tallarines el tiempo que indique el envase. Si el ragú está muy líquido, redúcelo destapado esos minutos.",
     "Escurre la pasta reservando un vaso del agua de cocción, échala al ragú con un chorrito de esa agua y la mitad del parmesano y mezcla 1 minuto a fuego suave. Sirve con el resto del parmesano y pimienta."
   ],
-  nutricion: { kcal: 680, prot: 34, hc: 92, grasa: 19 },
+  nutricion: { kcal: 610, prot: 34, hc: 58, grasa: 26 },
   etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "invierno", "batch cooking"],
   consejo: "El trabajo activo son 20 minutos: el guiso se hace solo. El ragú italiano lleva sofrito de cebolla y apio, que son altos en FODMAP; aquí la zanahoria y el romero dan el fondo, y la naranja, en zumo y ralladura, aporta el dulzor clásico del pato. Quitar la piel reduce mucho la grasa. El ragú se congela bien.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

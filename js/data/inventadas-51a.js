@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
   tiempo: 240,
   dificultad: "elaborada",
   equipo: ["horno", "cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "huesos de ternera", q: 1000, u: "g", nota: "troceados, para el fondo" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -565,7 +565,7 @@ window.RECETAS_SEED.push({
     "Devuelve las albóndigas, tapa y cuece a fuego suave 15 minutos, hasta que la salsa nape una cuchara. Prueba de sal ahora, al final.",
     "Mientras, corta las patatas en dados y dóralas en una sartén con el resto del aceite a fuego medio 15-18 minutos, hasta que estén crujientes; sálalas. Sirve las albóndigas con su salsa y las patatas al lado."
   ],
-  nutricion: { kcal: 815, prot: 40, hc: 56, grasa: 48 },
+  nutricion: { kcal: 660, prot: 35, hc: 44, grasa: 36 },
   etiquetas: ["técnica", "fondo oscuro", "de domingo", "tupper", "batch cooking", "invierno", "poco especiada"],
   consejo: "El fondo oscuro se puede hacer el fin de semana, reducirlo y congelarlo en cubiteras: cada cubo transforma una salsa de sartén. El error típico es salarlo al principio o hervirlo fuerte: al reducirlo queda salado y turbio. Si tienes poco tiempo, en olla exprés está en 45 minutos, aunque algo menos limpio.",
   contundencia: "contundente",
@@ -585,7 +585,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "carcasa de pollo", q: 2, u: "ud" },
     { n: "pollo (contramuslos)", q: 150, u: "g", nota: "sin piel" },
@@ -611,10 +611,10 @@ window.RECETAS_SEED.push({
     "Lleva a ebullición 1 litro de caldo con la zanahoria en dados 5 minutos, añade los fideos y cuécelos el tiempo del paquete (2-4 minutos).",
     "Sirve con el pollo desmigado, el huevo picado y perejil fresco."
   ],
-  nutricion: { kcal: 320, prot: 26, hc: 28, grasa: 11 },
+  nutricion: { kcal: 745, prot: 53, hc: 76, grasa: 24 },
   etiquetas: ["técnica", "fondo claro", "de cuchara", "tupper", "batch cooking", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Te sobrará casi 1 litro de fondo: congélalo en botes o cubiteras, es la base de risottos, cremas y salsas. Si te queda turbio porque hirvió de más, clarifícalo: bátelo frío con una clara de huevo, caliéntalo despacio sin remover hasta que la clara cuaje arrastrando las impurezas y cuélalo.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });
@@ -725,7 +725,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "elaborada",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "langostinos pelados", q: 250, u: "g", nota: "con la cola" },
     { n: "calabacín", q: 0.5, u: "ud" },
@@ -753,7 +753,7 @@ window.RECETAS_SEED.push({
     "Entre tanda y tanda, retira los restos de masa del aceite y deja que recupere la temperatura. Escurre sobre una rejilla, no sobre papel, para que no se reblandezcan por debajo.",
     "Sirve al momento con el arroz, el tentsuyu en un cuenco y el rábano y el jengibre rallados para mezclar con la salsa."
   ],
-  nutricion: { kcal: 775, prot: 34, hc: 110, grasa: 22 },
+  nutricion: { kcal: 700, prot: 25, hc: 79, grasa: 30 },
   etiquetas: ["técnica", "tempura", "frito", "japonesa", "para invitados", "poco especiada"],
   consejo: "Las tres claves de una tempura ligera: masa helada (frena el gluten y crea contraste térmico), poco batida y fritura en tandas pequeñas para que el aceite no se enfríe. El error típico es preparar la masa con antelación: hazla justo al freír. Sirve para cualquier verdura, setas o pescado blanco.",
   alternativa: "Para el tentsuyu sin mirin, usa 2 cda de vino blanco con 1 cdta de azúcar disuelta en el caldo caliente: la salsa queda igual de redonda y ligeramente dulce.",

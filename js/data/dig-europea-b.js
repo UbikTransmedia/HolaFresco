@@ -912,7 +912,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "tomate pera", q: 700, u: "g", nota: "muy maduro" },
     { n: "tomate concentrado", q: 1, u: "cda" },
@@ -937,11 +937,11 @@ window.RECETAS_SEED.push({
     "Vierte un cucharón de la sopa colada batiendo con varillas hasta que quede lisa y después el resto. Añade el tomate concentrado, el azúcar, sal y pimienta y cuece 5 minutos a fuego suave, hasta que espese ligeramente y brille. Prueba: debe quedar claramente dulce y algo ácida.",
     "Incorpora el arroz cocido y el perejil, deja que se caliente 1 minuto y sirve."
   ],
-  nutricion: { kcal: 355, prot: 6, hc: 55, grasa: 12 },
+  nutricion: { kcal: 740, prot: 14, hc: 115, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "para niños", "económica", "ligera"],
   consejo: "En Hungría la paradicsomleves se toma con arroz o con pasta de letras, y es dulce a propósito; en muchas casas se perfuma con hojas de apio, que aquí cambiamos por perejil porque el apio es alto en FODMAP. Colar la sopa elimina pieles y pepitas, lo que menos se digiere del tomate. El tomate pera es bajo en FODMAP en ración generosa, pero si tienes reflujo además del colon irritable, añade un poco más de azúcar o una pizca de bicarbonato para suavizar la acidez. Como cena ligera, acompáñala con un huevo duro o un poco de queso curado.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -1001,7 +1001,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "patata nueva", q: 300, u: "g" },
     { n: "zanahoria", q: 200, u: "g" },
@@ -1023,11 +1023,11 @@ window.RECETAS_SEED.push({
     "Calienta a fuego suave 5 minutos, removiendo, hasta que la sopa espese ligeramente; que no llegue a hervir con fuerza o la leche podría cortarse.",
     "Añade las espinacas y la mantequilla y cuece 1 minuto, solo hasta que las hojas se ablanden. Termina con el eneldo y pimienta y sirve."
   ],
-  nutricion: { kcal: 395, prot: 13, hc: 54, grasa: 14 },
+  nutricion: { kcal: 750, prot: 30, hc: 103, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "para niños", "económica", "verano"],
   consejo: "La kesäkeitto es la primera sopa del verano finlandés y se hace con las verduras tempranas del huerto; la receta clásica lleva coliflor y guisantes, ambos altos en FODMAP, por eso aquí aumentan las judías verdes y entran las espinacas. La leche sin lactosa se comporta igual que la normal en la cocción. Para hacerla más completa, añade un huevo duro picado por persona o sírvela con pan sin gluten y queso curado.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "media",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "lomo de cerdo", q: 240, u: "g", nota: "en 4 filetes finos" },
     { n: "jamón serrano", q: 4, u: "loncha" },
@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "En el mismo aceite, bien caliente (unos 175 °C: una miga de pan debe burbujear al instante), fríe los flamenquines 4-5 minutos dándoles la vuelta, hasta que estén dorados por todos lados. Escúrrelos sobre papel absorbente.",
     "Sirve los flamenquines enteros o cortados al bies, con las patatas, la lechuga aliñada con aceite y sal y una cucharada de mayonesa al lado."
   ],
-  nutricion: { kcal: 895, prot: 52, hc: 70, grasa: 45 },
+  nutricion: { kcal: 745, prot: 35, hc: 44, grasa: 47 },
   etiquetas: ["tradicional", "saciante", "para niños", "frito", "de domingo", "poco especiada"],
   consejo: "El truco cordobés es el doble empanado y freírlos con el aceite bien caliente para que no chupen grasa. Puedes dejarlos empanados y congelados en crudo: se fríen directamente sin descongelar, a fuego un poco más bajo.",
   contundencia: "contundente",
@@ -56,7 +56,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "media",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "ternera (filete fino)", q: 4, u: "ud", nota: "unos 280 g en total, muy finos y grandes" },
     { n: "jamón serrano", q: 4, u: "loncha" },
@@ -78,7 +78,7 @@ window.RECETAS_SEED.push({
     "Escúrrelo sobre papel absorbente un minuto y mientras saltea los piquillos 2 minutos en una sartén con unas gotas de aceite.",
     "Sirve cada cachopo entero, con las patatas y los pimientos al lado. Córtalo en la mesa para ver el queso fundirse."
   ],
-  nutricion: { kcal: 950, prot: 60, hc: 65, grasa: 50 },
+  nutricion: { kcal: 750, prot: 48, hc: 35, grasa: 46 },
   etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "frito", "invierno", "poco especiada"],
   consejo: "Si el cachopo es muy grande para tu sartén, termínalo 5 minutos en el horno a 200 °C tras dorarlo: así el queso se funde del todo sin que el rebozado se queme. Los sidreros asturianos le añaden a veces unos pimientos o setas dentro.",
   contundencia: "contundente",
@@ -181,7 +181,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera picada", q: 150, u: "g" },
     { n: "cerdo picado", q: 100, u: "g" },
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
     "Calienta el tomate frito en un cazo 2-3 minutos.",
     "Sirve los filetes rusos con el arroz en flanes (aprieta el arroz en una taza y dale la vuelta en el plato) y el tomate frito por encima o al lado."
   ],
-  nutricion: { kcal: 750, prot: 36, hc: 80, grasa: 32 },
+  nutricion: { kcal: 685, prot: 25, hc: 56, grasa: 39 },
   etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking", "fácil", "sin verduras", "poco especiada"],
   consejo: "Puedes formar los filetes, enharinarlos y congelarlos separados con papel de horno: se fríen sin descongelar a fuego medio-bajo. Si añades un huevo frito encima, tienes el plato combinado de cafetería de siempre.",
   contundencia: "contundente",
@@ -226,7 +226,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "fácil",
   equipo: ["sartén", "plancha"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (chuletillas)", q: 400, u: "g", nota: "unas 8-10 chuletillas de lechal o recental" },
     { n: "patata", q: 450, u: "g" },
@@ -247,7 +247,7 @@ window.RECETAS_SEED.push({
     "Asa las chuletillas en tandas, sin amontonarlas, 1,5-2 minutos por cada lado, hasta que estén doradas por fuera y rosadas por dentro. Sálalas con sal gruesa al darles la vuelta.",
     "Sirve las chuletillas sobre las patatas a lo pobre y riega todo con el ajo frito y su aceite."
   ],
-  nutricion: { kcal: 830, prot: 40, hc: 50, grasa: 52 },
+  nutricion: { kcal: 695, prot: 26, hc: 27, grasa: 53 },
   etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "fácil", "poco especiada"],
   consejo: "Las chuletillas de cordero se comen con la mano y recién hechas: ásalas en el último momento. No las pinches al darles la vuelta para que no pierdan jugo; usa unas pinzas.",
   contundencia: "contundente",
@@ -266,7 +266,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo entero troceado", q: 700, u: "g", nota: "en trozos pequeños con hueso" },
     { n: "ajo", q: 10, u: "diente" },
@@ -289,7 +289,7 @@ window.RECETAS_SEED.push({
     "Destapa el pollo, sube el fuego y añade el vino blanco. Deja que hierva 4-5 minutos moviendo la cazuela en vaivén, hasta que el alcohol se evapore y quede una salsita corta y brillante.",
     "Añade el perejil y las patatas, mezcla y sirve enseguida con pan para mojar en el jugo de ajo."
   ],
-  nutricion: { kcal: 715, prot: 48, hc: 45, grasa: 38 },
+  nutricion: { kcal: 710, prot: 35, hc: 28, grasa: 50 },
   etiquetas: ["tradicional", "saciante", "económica", "de domingo", "fácil", "sin verduras"],
   consejo: "El secreto está en trocear el pollo pequeño (que lo haga el carnicero) y dorarlo sin prisa: así queda crujiente y el ajo perfuma sin quemarse. Mueve la cazuela en vez de remover para que la salsa emulsione.",
   contundencia: "contundente",
@@ -345,7 +345,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera picada", q: 300, u: "g" },
     { n: "pan de hamburguesa", q: 2, u: "ud" },
@@ -370,10 +370,10 @@ window.RECETAS_SEED.push({
     "En la misma sartén fríe los huevos, con los bordes puntilla y la yema blanda.",
     "Tuesta el pan abierto en la sartén unos segundos. Monta: pan, lechuga, tomate, hamburguesa con queso, cebolla, bacon y huevo frito. Sirve con las patatas y el kétchup."
   ],
-  nutricion: { kcal: 1000, prot: 52, hc: 75, grasa: 55 },
+  nutricion: { kcal: 635, prot: 35, hc: 42, grasa: 35 },
   etiquetas: ["tradicional", "saciante", "para niños", "de domingo", "fácil", "poco especiada"],
   consejo: "No aprietes la carne al formar la hamburguesa ni la aplastes en la sartén: así queda jugosa. Sálala justo antes de cocinarla, no antes, para que no se seque.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -435,7 +435,7 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "harina de trigo", q: 250, u: "g" },
     { n: "levadura seca de panadería", q: 4, u: "g" },
@@ -461,7 +461,7 @@ window.RECETAS_SEED.push({
     "Estira la otra mitad, tapa la empanada, une los bordes y haz un cordón retorciéndolos hacia dentro. Haz un agujero en el centro para que salga el vapor y decora con tiras de masa si te sobra.",
     "Pinta con huevo batido y hornea 35-40 minutos, hasta que esté bien dorada por encima y por debajo. Déjala templar 10 minutos antes de cortar."
   ],
-  nutricion: { kcal: 820, prot: 34, hc: 85, grasa: 38 },
+  nutricion: { kcal: 700, prot: 30, hc: 71, grasa: 32 },
   etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "La clave gallega es amasar con el aceite del sofrito, que da color y sabor a la masa, y escurrir bien el relleno para que la base no quede mojada. Está igual de rica fría al día siguiente.",
   alternativa: "Para ir más rápido, usa 2 láminas de masa de empanada refrigerada (o unos 400 g de masa de pan de tu panadería): estírala fina, píntala con el aceite rojo del sofrito y hornea igual, 35-40 min a 190 °C.",
@@ -605,7 +605,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["sartén", "plancha"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "lomo de cerdo", q: 280, u: "g", nota: "en filetes de 1 cm" },
     { n: "pimiento verde", q: 4, u: "ud", nota: "de freír, finos" },
@@ -622,10 +622,10 @@ window.RECETAS_SEED.push({
     "Asa los filetes 1,5-2 minutos por cada lado, hasta que estén dorados y apenas blancos en el centro. Sálalos al darles la vuelta.",
     "Sirve el lomo con los pimientos fritos por encima."
   ],
-  nutricion: { kcal: 380, prot: 36, hc: 10, grasa: 22 },
+  nutricion: { kcal: 735, prot: 66, hc: 18, grasa: 43 },
   etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano", "alta en proteína", "poco especiada"],
   consejo: "El lomo se seca enseguida: con filetes de un dedo de grosor y fuego fuerte, no necesita más de 2 minutos por lado. Si sobra, hazte un bocadillo de lomo con pimientos al día siguiente.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -681,7 +681,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["plancha", "sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "ternera (filetes)", q: 300, u: "g", nota: "de babilla o tapa, de 1 cm" },
     { n: "pimientos del piquillo", q: 6, u: "ud" },
@@ -701,10 +701,10 @@ window.RECETAS_SEED.push({
     "Calienta la plancha a fuego muy fuerte con unas gotas de aceite. Asa los filetes 1-1,5 minutos por cada lado, hasta que estén dorados por fuera y jugosos por dentro.",
     "Sálalos con sal gruesa al sacarlos y sírvelos con los piquillos y su ajo por encima y la ensalada al lado."
   ],
-  nutricion: { kcal: 370, prot: 38, hc: 14, grasa: 18 },
+  nutricion: { kcal: 695, prot: 67, hc: 11, grasa: 42 },
   etiquetas: ["tradicional", "rápida", "fácil", "ligera", "alta en proteína", "verano", "poco especiada"],
   consejo: "La ternera fina a la plancha nunca se sala antes: la sal saca el jugo y el filete se cuece en vez de dorarse. Plancha bien caliente, poco tiempo y sal gruesa al final.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -760,7 +760,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo entero troceado", q: 800, u: "g", nota: "en trozos pequeños con hueso" },
     { n: "limón", q: 1, u: "ud" },
@@ -782,7 +782,7 @@ window.RECETAS_SEED.push({
     "Mientras se fríe, corta los tomates y el pimiento en dados y aliña con aceite, sal y unas gotas de vinagre o limón.",
     "Sirve el pollo recién frito con la ensalada al lado."
   ],
-  nutricion: { kcal: 725, prot: 50, hc: 30, grasa: 45 },
+  nutricion: { kcal: 780, prot: 39, hc: 27, grasa: 57 },
   etiquetas: ["tradicional", "saciante", "económica", "frito", "verano", "de domingo", "poco especiada"],
   consejo: "Freír a fuego medio y no alto es el truco: si el aceite está demasiado caliente, el pollo se dora por fuera y queda crudo en el hueso. Trocéalo pequeño para que se haga parejo.",
   contundencia: "contundente",
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
   tiempo: 200,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (pechuga)", q: 150, u: "g", nota: "o restos de pollo asado o del cocido" },
     { n: "jamón serrano", q: 50, u: "g", nota: "en taquitos" },
@@ -826,7 +826,7 @@ window.RECETAS_SEED.push({
     "Lava y corta la lechuga. Forma las croquetas con dos cucharas o con las manos untadas en aceite. Pásalas por huevo batido y por pan rallado.",
     "Fríelas en tandas en abundante aceite bien caliente (180 °C) 1-2 minutos, hasta que estén doradas. Escurre sobre papel y sirve con la lechuga aliñada."
   ],
-  nutricion: { kcal: 760, prot: 30, hc: 65, grasa: 42 },
+  nutricion: { kcal: 730, prot: 30, hc: 47, grasa: 47 },
   etiquetas: ["tradicional", "saciante", "económica", "para niños", "batch cooking", "aprovechamiento", "poco especiada"],
   consejo: "Las mejores croquetas se hacen con las sobras del pollo asado o del cocido. Congélalas ya empanadas en una bandeja y, una vez duras, pásalas a una bolsa: se fríen sin descongelar.",
   contundencia: "contundente",
@@ -887,7 +887,7 @@ window.RECETAS_SEED.push({
   tiempo: 165,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "cordero (paletilla)", q: 2, u: "ud", nota: "de lechazo, unos 600-700 g cada una" },
     { n: "patata", q: 400, u: "g" },
@@ -910,7 +910,7 @@ window.RECETAS_SEED.push({
     "La paletilla está lista cuando la carne se separa del hueso con facilidad. Mientras reposa 5 minutos, aliña la lechuga con la cebolleta, aceite, vinagre y sal.",
     "Sirve cada paletilla con las patatas, su jugo por encima y la ensalada aparte."
   ],
-  nutricion: { kcal: 810, prot: 50, hc: 45, grasa: 48 },
+  nutricion: { kcal: 705, prot: 44, hc: 16, grasa: 51 },
   etiquetas: ["tradicional", "al horno", "para invitados", "de domingo", "saciante", "invierno", "poco especiada"],
   consejo: "Los asadores castellanos solo usan agua, sal y fuego lento: no le pongas más especias. Si la paletilla es de cordero recental (más grande), añade 30 minutos al tiempo de horno.",
   contundencia: "contundente",
@@ -929,7 +929,7 @@ window.RECETAS_SEED.push({
   tiempo: 110,
   dificultad: "fácil",
   equipo: ["horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 700, u: "g", nota: "costillar entero o en tiras" },
     { n: "ajo", q: 4, u: "diente" },
@@ -951,7 +951,7 @@ window.RECETAS_SEED.push({
     "Destapa, da la vuelta al costillar y hornea 35-40 minutos más, regando con el jugo, hasta que la carne esté dorada y se separe del hueso con facilidad y las patatas estén tiernas y tostadas por los bordes.",
     "Corta el costillar en raciones y sírvelo sobre las patatas."
   ],
-  nutricion: { kcal: 825, prot: 38, hc: 45, grasa: 55 },
+  nutricion: { kcal: 705, prot: 30, hc: 26, grasa: 52 },
   etiquetas: ["tradicional", "al horno", "saciante", "económica", "fácil", "de domingo", "poco especiada"],
   consejo: "Tapar el costillar la primera parte del horneado hace que se cueza en su vapor y quede tierno; destapado, se dora. Si lo adobas la noche anterior, gana muchísimo sabor.",
   contundencia: "contundente",
@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["plancha", "sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pavo (pechuga)", q: 320, u: "g", nota: "en filetes" },
     { n: "champiñones", q: 300, u: "g" },
@@ -992,10 +992,10 @@ window.RECETAS_SEED.push({
     "Mientras, salpimienta los filetes de pavo y ásalos en la plancha muy caliente con unas gotas de aceite 2-3 minutos por cada lado, hasta que estén dorados y blancos por dentro.",
     "Sirve los filetes con unas gotas de limón y los champiñones al ajillo por encima."
   ],
-  nutricion: { kcal: 325, prot: 42, hc: 8, grasa: 14 },
+  nutricion: { kcal: 685, prot: 85, hc: 8, grasa: 32 },
   etiquetas: ["tradicional", "rápida", "fácil", "ligera", "alta en proteína", "una sola sartén", "bajo en colesterol"],
   consejo: "No eches sal a los champiñones hasta que empiecen a dorarse si los quieres tostaditos; si los salas al principio, sueltan más agua y se cuecen.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

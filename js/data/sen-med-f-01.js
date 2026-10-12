@@ -289,7 +289,7 @@ window.RECETAS_SEED.push({
   tiempo: 95,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pierna de cordero lechal", q: 1, u: "ud", nota: "unos 800 g" },
     { n: "anchoas en aceite", q: 30, u: "g", nota: "unos 6 filetes" },
@@ -311,11 +311,11 @@ window.RECETAS_SEED.push({
     "Pasa la pierna a una tabla, cúbrela con papel de aluminio y déjala reposar 10 minutos. Mientras reposa, sube el horno a 220 °C y deja que las patatas se doren 8-10 minutos.",
     "Trincha la pierna en lonchas y sírvela con las patatas, los tomates y el jugo de la fuente por encima."
   ],
-  nutricion: { kcal: 825, prot: 56, hc: 49, grasa: 45 },
+  nutricion: { kcal: 570, prot: 45, hc: 21, grasa: 33 },
   etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "sin lactosa", "al horno", "todo al horno", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "En Provenza el gigot se mecha con dientes de ajo y anchoa; aquí el ajo va en el aceite de ajo y la anchoa hace el trabajo de sal: se deshace dentro de la carne y no se nota como pescado, solo como un sabor más profundo. Son 20 minutos de trabajo y el resto es horno. Si sobra, las lonchas frías con ensalada de tomate son un almuerzo estupendo.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

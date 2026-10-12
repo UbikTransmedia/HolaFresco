@@ -101,7 +101,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias rojas secas", q: 180, u: "g", nota: "tipo Tolosa, en remojo desde la víspera" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -123,7 +123,7 @@ window.RECETAS_SEED.push({
     "Cuando las alubias estén tiernas y el caldo oscuro y espeso, saca la cebolla, tritúrala con un poco de caldo y devuélvela a la cazuela. Sala al final.",
     "Sirve las alubias en plato hondo y, aparte, una fuente con el repollo rehogado, la morcilla, el chorizo y la panceta en trozos, más las guindillas en vinagre."
   ],
-  nutricion: { kcal: 888, prot: 42, hc: 72, grasa: 48 },
+  nutricion: { kcal: 740, prot: 31, hc: 36, grasa: 48 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
   consejo: "La clave de unas buenas alubias de Tolosa es la paciencia: fuego mínimo y nada de remover con cuchara. Si se rompen algunas, mejor: el caldo queda más meloso.",
   alternativa: "Si tienes prisa, cuece las alubias en olla exprés unos 35 min a presión, desde que suba la válvula, en vez de 2 h 30 min; los sacramentos se preparan aparte igual.",
@@ -143,7 +143,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "judías blancas secas", q: 160, u: "g", nota: "en remojo desde la víspera" },
     { n: "repollo", q: 300, u: "g", nota: "o berza" },
@@ -166,7 +166,7 @@ window.RECETAS_SEED.push({
     "Deja cocer todo junto a fuego suave 1 hora más, hasta que las alubias estén tiernas y el caldo haya espesado. Sala al final.",
     "Saca las carnes, córtalas en trozos y sírvelas por encima del cocido, en plato hondo."
   ],
-  nutricion: { kcal: 928, prot: 50, hc: 65, grasa: 52 },
+  nutricion: { kcal: 695, prot: 33, hc: 29, grasa: 48 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Cocer la berza aparte evita que el cocido amargue y se ponga verde oscuro. Está todavía mejor al día siguiente: hazlo de víspera y caliéntalo despacio.",
   alternativa: "En olla rápida, cuece las alubias con las carnes 30 min a presión en lugar de 2 h 30 min, abre, añade la berza ya cocida y deja 10 min sin tapa a fuego suave para que trabe.",
@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 120, u: "g", nota: "en remojo desde la víspera" },
     { n: "judías blancas secas", q: 60, u: "g", nota: "en remojo desde la víspera" },
@@ -255,7 +255,7 @@ window.RECETAS_SEED.push({
     "Machaca ese frito en un mortero con un cazo de caldo hasta hacer una pasta (el majado) y viértelo en la cazuela. Cuece 10 minutos para que espese y sala al gusto.",
     "Sirve la berza con su caldo en plato hondo y las carnes troceadas aparte, como pringá."
   ],
-  nutricion: { kcal: 905, prot: 45, hc: 80, grasa: 45 },
+  nutricion: { kcal: 695, prot: 31, hc: 40, grasa: 43 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "El majado de pan, ajo y comino es lo que da a la berza su sabor jerezano y su caldo espeso. En temporada, cambia las judías verdes por tagarninas o cardillos, como se hace en Jerez.",
   alternativa: "Para ahorrarte las 2 h de cazuela, cuece garbanzos, judías y carnes en olla exprés 25-30 min; luego añade las judías verdes, la calabaza y los embutidos y termina 25 min destapado.",
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "judiones secos", q: 180, u: "g", nota: "en remojo 24 horas" },
     { n: "chorizo", q: 100, u: "g" },
@@ -337,10 +337,10 @@ window.RECETAS_SEED.push({
     "Incorpora el sofrito a la cazuela, menea y deja hervir suave 10 minutos para que el caldo se ponga rojo y espese. Sala al final.",
     "Saca las carnes, córtalas en trozos y sírvelas con los judiones y su caldo en plato hondo."
   ],
-  nutricion: { kcal: 886, prot: 48, hc: 70, grasa: 46 },
+  nutricion: { kcal: 630, prot: 34, hc: 36, grasa: 37 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "de domingo", "para invitados", "sin verduras", "poco especiada"],
   consejo: "Los judiones tienen la piel fina: si los cueces a borbotones se pelan. Fuego mínimo y que apenas tiemble el caldo. Son caros, pero 90 g por persona llenan como un cocido.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -485,7 +485,7 @@ window.RECETAS_SEED.push({
   tiempo: 65,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 160, u: "g" },
     { n: "costillas de cerdo", q: 200, u: "g", nota: "troceadas" },
@@ -508,10 +508,10 @@ window.RECETAS_SEED.push({
     "Añade a la cazuela el sofrito y la patata. Cuece 15 minutos más. Mientras, corta la morcilla en rodajas gruesas y dóralas en la sartén 1 minuto por lado, sin removerlas para que no se deshagan.",
     "Pon la morcilla sobre las lentejas los últimos 3 minutos, sin mezclar. Sala, deja reposar 5 minutos y sirve con una rodaja de morcilla en cada plato."
   ],
-  nutricion: { kcal: 810, prot: 44, hc: 82, grasa: 34 },
+  nutricion: { kcal: 610, prot: 29, hc: 43, grasa: 35 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "La morcilla de Burgos se deshace si hierve en el guiso: márcala aparte y ponla encima al final. Las pardinas no necesitan remojo; las castellanas (más grandes), sí, unas horas.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -699,7 +699,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g" },
     { n: "cerdo (paleta)", q: 200, u: "g", nota: "en dados" },
@@ -724,10 +724,10 @@ window.RECETAS_SEED.push({
     "Agrega los garbanzos escurridos y los fideos y cuece 8 minutos más, removiendo de vez en cuando, hasta que los fideos estén hechos y el rancho espeso.",
     "Sala al gusto y deja reposar 5 minutos: debe quedar caldoso pero con cuerpo."
   ],
-  nutricion: { kcal: 822, prot: 48, hc: 90, grasa: 30 },
+  nutricion: { kcal: 610, prot: 30, hc: 55, grasa: 28 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "sin verduras", "poco especiada"],
   consejo: "El rancho espesa mucho al reposar porque los fideos siguen bebiendo caldo: si lo vas a recalentar, cuece los fideos solo 5 minutos y añade agua al día siguiente.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

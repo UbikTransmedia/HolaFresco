@@ -582,7 +582,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["olla-express", "horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 700, u: "g", nota: "en tiras o costillar, carnosas" },
     { n: "miel", q: 2, u: "cda", nota: "mejor de tomillo" },
@@ -608,12 +608,12 @@ window.RECETAS_SEED.push({
     "Gratínalas 6-8 minutos a unos 10 cm del grill, vigilando, hasta que el glaseado burbujee y se caramelice en los bordes. Si quieres salsa, desgrasa el caldo que queda en la olla con una cuchara y redúcelo a fuego fuerte 5 minutos.",
     "Sirve las costillas con la ensalada y el jugo reducido aparte para mojar."
   ],
-  nutricion: { kcal: 690, prot: 34, hc: 22, grasa: 52 },
+  nutricion: { kcal: 625, prot: 28, hc: 20, grasa: 48 },
   etiquetas: ["creativa", "para niños", "económica", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "En Grecia el aliño de limón, ajo y orégano (riganato) acompaña a casi todo lo que sale del asador; la miel ayuda a que se caramelice bajo el grill. La olla deja la carne tierna en menos de media hora y el gratinador pone el tostado. Si encuentras petimezi, el sirope de uva griego, úsalo en lugar de la miel. Las costillas cocidas aguantan 3 días en la nevera: glaséalas y gratínalas justo antes de comer.",
   alternativa: "Sin olla exprés, hornea las costillas a 160 °C 1 h 30 min en una fuente tapada con papel de aluminio y los 250 ml de agua con limón, ajo y laurel; luego glasea y gratina igual.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -867,7 +867,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["olla-express", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ossobuco de ternera", q: 700, u: "g", nota: "2 rodajas de 3-4 cm con su hueso" },
     { n: "harina de trigo", q: 1, u: "cda" },
@@ -896,7 +896,7 @@ window.RECETAS_SEED.push({
     "Mientras reduce la salsa, tuesta el orzo 1 min en seco en una cazuela y cuécelo con el resto del caldo caliente, añadido poco a poco, 9-10 min a fuego medio y removiendo, hasta que esté al dente y cremoso. Termina con la ralladura y el zumo de medio limón.",
     "Sirve el orzo en platos hondos con un ossobuco encima y su salsa, y termina con las hojitas de hinojo, el perejil picado y un poco más de ralladura de limón. El tuétano del hueso se come untado en la carne."
   ],
-  nutricion: { kcal: 860, prot: 55, hc: 78, grasa: 34 },
+  nutricion: { kcal: 675, prot: 49, hc: 56, grasa: 25 },
   etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ouzo pierde el alcohol en la cocción y deja un aroma anisado suave que casa con el hinojo y la naranja; si no tienes, usa anís seco o 1 cdta de semillas de hinojo. El guiso se puede hacer el día antes, porque mejora, y se congela bien; el orzo, siempre al momento.",
   alternativa: "Sin olla exprés: estofa los ossobucos en cazuela tapada 2 h a fuego lento, con 200 ml más de caldo, hasta que la carne se separe del hueso.",

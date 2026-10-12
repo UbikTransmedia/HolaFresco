@@ -304,7 +304,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["horno", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y piel, 4 piezas" },
     { n: "patata", q: 400, u: "g" },
@@ -332,12 +332,12 @@ window.RECETAS_SEED.push({
     "Con el pollo aún en el horno, pica el perejil, corta el tomate y el pepino en dados y alíñalos con el zumo del medio limón restante, el perejil, sal y un hilo de aceite.",
     "Sirve el pollo con las patatas, la ensalada y la toum aparte para untar."
   ],
-  nutricion: { kcal: 780, prot: 42, hc: 42, grasa: 49 },
+  nutricion: { kcal: 635, prot: 34, hc: 30, grasa: 42 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "al horno", "poco especiada"],
   consejo: "La toum es la alternativa al alioli y a la mayonesa cuando hay alergia al huevo: solo ajo, aceite, limón y sal. Lo que sobre aguanta una semana en un bote cerrado en la nevera. En el Líbano el pollo se envuelve en pan de pita; si en la mesa hay celíacos, que el pan vaya en su cesta y no toque la bandeja, y lava la tabla y el cuchillo si han cortado pan antes.",
   alternativa: "Si no tienes pimienta de Jamaica molida, usa una pizca de clavo molido y otra de nuez moscada.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo entero troceado", q: 700, u: "g", nota: "o 4 muslos" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -470,7 +470,7 @@ window.RECETAS_SEED.push({
     "Mientras, cuece el arroz en abundante agua hirviendo con sal 12-15 minutos y escúrrelo.",
     "Destapa la cazuela los últimos 5 minutos para que la salsa reduzca. Ajusta de sal y sirve el pollo con la piperade y el arroz."
   ],
-  nutricion: { kcal: 740, prot: 52, hc: 65, grasa: 30 },
+  nutricion: { kcal: 685, prot: 43, hc: 48, grasa: 35 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "batch cooking"],
   consejo: "Muchas recetas añaden un chorro de vino blanco; no hace falta y así evitas los sulfitos. El jamón serrano lleva normalmente solo cerdo, sal y conservantes, pero no lo cambies por jamón cocido, que a menudo lleva lactosa o proteínas de leche y de soja. Si encuentras piment d'Espelette, úsalo en lugar del pimentón picante. Mejora de un día para otro.",
   tupper: true,
@@ -490,7 +490,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["batidora", "cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo (paleta)", q: 400, u: "g", nota: "en dados de 4 cm, con algo de grasa" },
     { n: "naranja", q: 1, u: "ud" },
@@ -519,7 +519,7 @@ window.RECETAS_SEED.push({
     "Escurre bien el cerdo y fríelo en el mismo aceite, en dos tandas, 4-5 minutos, hasta que esté dorado y crujiente por fuera. Escúrrelo sobre papel.",
     "Sube el aceite a 180 °C y vuelve a freír los plátanos aplastados 2-3 minutos, hasta que estén dorados; sálalos. Sirve el griot con el bannann peze y la ensalada de col."
   ],
-  nutricion: { kcal: 690, prot: 39, hc: 56, grasa: 34 },
+  nutricion: { kcal: 695, prot: 28, hc: 42, grasa: 47 },
   etiquetas: ["tradicional", "sin gluten", "apta para alergias", "sin lácteos", "picante"],
   consejo: "En Haití el griot se acompaña de pikliz, un encurtido de col y chile en vinagre; esta ensalada a la lima da el mismo contrapunto ácido sin sulfitos. Muchas cocineras haitianas añaden al adobo pastillas de caldo, que suelen llevar gluten, apio o lactosa: no hacen falta. Fríe en aceite limpio, que no se haya usado para rebozados o empanados, porque arrastraría gluten y huevo.",
   tupper: false,

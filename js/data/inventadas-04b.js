@@ -141,7 +141,7 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 500, u: "g", nota: "falda o morcillo en una pieza" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -171,7 +171,7 @@ window.RECETAS_SEED.push({
     "Mientras, cuece el arroz basmati lavado con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo. Corta las aceitunas en rodajas y pica el perejil.",
     "Añade a la ropa vieja las aceitunas y las alcaparras, rectifica de sal y sírvela sobre el arroz con el perejil picado."
   ],
-  nutricion: { kcal: 630, prot: 50, hc: 62, grasa: 20 },
+  nutricion: { kcal: 610, prot: 41, hc: 51, grasa: 25 },
   etiquetas: ["cocción lenta", "batch cooking", "ideal para llevar", "para niños", "poco especiada"],
   consejo: "Cuece el doble de carne y congela la mitad deshilachada con algo de caldo: sirve para tacos, empanadas o un relleno de pimientos exprés.",
   alternativa: "Para la carne del paso 1 puedes usar olla exprés: 30 min desde que suba la válvula con el agua justa para cubrirla, en lugar de 90 min en cazuela.",
@@ -191,7 +191,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "cordero (paletilla)", q: 600, u: "g", nota: "deshuesada y en trozos de 4 cm" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -222,11 +222,11 @@ window.RECETAS_SEED.push({
     "Pon el cuscús en un bol, cúbrelo con 150 ml de agua hirviendo con sal, tapa 5 min y desgránalo con un tenedor.",
     "Retira la canela, rectifica de sal y sirve el tajine sobre el cuscús con las almendras, el sésamo y el cilantro picado."
   ],
-  nutricion: { kcal: 800, prot: 50, hc: 75, grasa: 34 },
+  nutricion: { kcal: 585, prot: 26, hc: 48, grasa: 31 },
   etiquetas: ["cocción lenta", "agridulce", "para invitados", "invierno", "contundente", "sin verduras", "poco especiada"],
   consejo: "Si tienes un tajine de barro úsalo a fuego muy suave con difusor; si no, una cazuela con tapa pesada da el mismo resultado. Mejora hecho de víspera.",
   alternativa: "Si tienes olla exprés, guisa el cordero 25 min a presión en lugar de 1 h 45 min a fuego mínimo; añade después las ciruelas y la miel y deja reducir destapado 10 min.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -478,7 +478,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (pierna)", q: 600, u: "g", nota: "deshuesada y en trozos de 4 cm" },
     { n: "pimiento rojo", q: 2, u: "ud" },
@@ -504,7 +504,7 @@ window.RECETAS_SEED.push({
     "Añade las patatas a la cazuela con un poco de sal. Cuece 25 min más tapado, hasta que estén tiernas y el cordero se deshaga.",
     "Deja reposar 5 min fuera del fuego, retira el laurel y sirve bien caliente."
   ],
-  nutricion: { kcal: 720, prot: 50, hc: 48, grasa: 36 },
+  nutricion: { kcal: 685, prot: 35, hc: 37, grasa: 42 },
   etiquetas: ["guiso", "de cuchara", "invierno", "contundente", "batch cooking", "poco especiada"],
   consejo: "El chilindrón tradicional lleva poco líquido: los pimientos y el tomate hacen la salsa. Si queda seco, añade agua caliente a cucharones, nunca fría.",
   contundencia: "contundente",
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "media",
   equipo: ["cazuela", "batidora", "sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "ternera para guisar", q: 450, u: "g", nota: "en dados de 4 cm" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -552,7 +552,7 @@ window.RECETAS_SEED.push({
     "Cuando la salsa esté muy espesa, sigue removiendo 15 min a fuego suave: la carne se 'fríe' en su propia grasa y toma un color marrón oscuro. Añade el coco tostado en los últimos 10 min. Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado y 5 de reposo.",
     "Retira la canela y sirve el rendang con el arroz, rodajas de pepino y gajos de la lima."
   ],
-  nutricion: { kcal: 630, prot: 48, hc: 52, grasa: 26 },
+  nutricion: { kcal: 570, prot: 29, hc: 40, grasa: 33 },
   etiquetas: ["cocción lenta", "picante", "especiado", "batch cooking"],
   consejo: "La paciencia es el único ingrediente difícil: si subes el fuego para acelerar, la leche de coco se agarra. Dobla las cantidades: el rendang se congela perfecto.",
   alternativa: "Para ahorrar tiempo, cuece primero la ternera con la pasta y la leche de coco 35 min en olla exprés y después reduce destapado, removiendo a menudo, 25-30 min hasta que se separe la grasa.",
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (pierna)", q: 550, u: "g", nota: "deshuesada y en dados de 3 cm" },
     { n: "yogur griego natural", q: 150, u: "g" },
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
     "Destapa y cuece 15 min más para que la salsa espese y tome un color rojo intenso. Rectifica de sal. Mientras, lava el arroz basmati y cuécelo con 1,5 veces su volumen de agua y sal: 12 min tapado y 5 de reposo.",
     "Retira la canela, las vainas y el laurel y sirve el rogan josh con el arroz y el cilantro picado."
   ],
-  nutricion: { kcal: 740, prot: 48, hc: 60, grasa: 34 },
+  nutricion: { kcal: 680, prot: 32, hc: 50, grasa: 38 },
   etiquetas: ["cocción lenta", "especiado", "marinado", "batch cooking", "contundente"],
   consejo: "El rogan josh es rojo por el pimentón de Cachemira, suave y de color intenso; nuestro pimentón dulce da el mismo efecto. Mejor de un día para otro.",
   alternativa: "Si no tienes cardamomo, prescinde de él y añade una pizca más de garam masala; con olla exprés, el cordero se hace en 25 min a presión en lugar de 75 min.",
@@ -759,7 +759,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero picado", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -792,7 +792,7 @@ window.RECETAS_SEED.push({
     "Hornea 20-25 min hasta que la superficie esté dorada y la salsa burbujee por los bordes.",
     "Deja reposar 5 min antes de servir en porciones."
   ],
-  nutricion: { kcal: 760, prot: 42, hc: 62, grasa: 38 },
+  nutricion: { kcal: 720, prot: 36, hc: 46, grasa: 43 },
   etiquetas: ["al horno", "para niños", "batch cooking", "invierno", "contundente", "poco especiada"],
   consejo: "Puedes montarlo por la mañana y hornearlo por la noche (añade 10 min si va frío de la nevera). Con ternera picada se llama cottage pie y queda igual de bien.",
   contundencia: "contundente",
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "cordero (paletilla)", q: 900, u: "g", nota: "una paletilla pequeña con hueso, partida en 2 trozos" },
     { n: "patata", q: 500, u: "g" },
@@ -927,10 +927,10 @@ window.RECETAS_SEED.push({
     "Abre el paquete con cuidado del vapor, desmenuza el feta sobre las patatas y sube el horno a 220 °C. Hornea destapado 15 min para dorar la carne y las patatas.",
     "Deja reposar 10 min, exprime el otro limón por encima y sirve directamente de la fuente con sus jugos."
   ],
-  nutricion: { kcal: 850, prot: 55, hc: 50, grasa: 48 },
+  nutricion: { kcal: 630, prot: 33, hc: 28, grasa: 42 },
   etiquetas: ["al horno", "cocción lenta", "para invitados", "domingo", "contundente", "poco especiada"],
   consejo: "El nombre viene de los 'kleftes', bandoleros que cocinaban el cordero enterrado para que no se viera el humo. El paquete cerrado hace que la carne se cueza en su jugo: no necesita vigilancia.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera (ossobuco)", q: 700, u: "g", nota: "2 rodajas de morcillo con hueso de 3-4 cm" },
     { n: "harina de trigo", q: 2, u: "cda" },
@@ -1023,11 +1023,11 @@ window.RECETAS_SEED.push({
     "Mientras termina el horno, prepara la gremolata: pica fino el perejil con el ajo restante y mézclalo con la ralladura del limón.",
     "Saca la carne con cuidado. Si la salsa está clara, redúcela 5 min a fuego fuerte. Sirve el ossobuco sobre el puré, salsea y espolvorea la gremolata por encima."
   ],
-  nutricion: { kcal: 580, prot: 48, hc: 42, grasa: 24 },
+  nutricion: { kcal: 650, prot: 57, hc: 39, grasa: 28 },
   etiquetas: ["braseado", "al horno", "cocción lenta", "para invitados", "invierno", "poco especiada"],
   consejo: "El tuétano del hueso es un bocado para el que se atreve: sácalo con una cucharilla y úntalo en el puré. La gremolata fresca es lo que equilibra tanta untuosidad.",
   alternativa: "En olla exprés, el ossobuco queda tierno en 40 min desde que sube la válvula (frente a 2 h de horno); deja reducir la salsa destapada 5-10 min si queda líquida.",
-  contundencia: "media",
+  contundencia: "contundente",
   coste: "media"
 });
 

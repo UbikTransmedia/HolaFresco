@@ -429,7 +429,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["olla-express", "horno", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "costilla de ternera", q: 800, u: "g", nota: "con hueso, en tiras de 2-3 huesos" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -461,11 +461,11 @@ window.RECETAS_SEED.push({
     "Pinta las costillas con el glaseado y gratínalas 4 minutos; repite dos veces más, hasta que estén lacadas y oscuras sin llegar a quemarse.",
     "Sirve las costillas con el puré y el glaseado sobrante caliente aparte."
   ],
-  nutricion: { kcal: 885, prot: 45, hc: 64, grasa: 50 },
+  nutricion: { kcal: 610, prot: 26, hc: 33, grasa: 40 },
   etiquetas: ["técnica", "brasear", "glasear", "olla exprés", "de domingo", "tupper", "poco especiada"],
   consejo: "Brasear en olla exprés ahorra dos tercios del tiempo, pero pide menos líquido y un buen dorado previo: sin evaporación, el sabor sale de la costra inicial. Al glasear con melaza o miel, el error típico es gratinar demasiado, porque el azúcar pasa de lacado a quemado en un minuto. Las costillas braseadas aguantan 3 días; glaséalas justo antes de servir.",
   alternativa: "Si no encuentras melaza de caña, usa la misma cantidad de miel de caña o 2 cda de azúcar moreno disueltas en 1 cda de agua caliente: el glaseado se lacará igual, algo menos amargo.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   tupper: true
 });
@@ -525,7 +525,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "alga kombu", q: 10, u: "g" },
     { n: "copos de bonito seco (katsuobushi)", q: 15, u: "g" },
@@ -548,13 +548,13 @@ window.RECETAS_SEED.push({
     "Para el huevo mollet, cuece los huevos 6 minutos y medio en agua hirviendo, pásalos a agua con hielo 3 minutos y pélalos con cuidado: clara cuajada y yema líquida y espesa.",
     "Hidrata los fideos de arroz en agua hirviendo fuera del fuego 5 minutos y escúrrelos.",
     "Lleva el dashi a un hervor suave, añade las almejas escurridas y tapa 2-3 minutos, hasta que se abran (descarta las que sigan cerradas). Añade las espinacas el último minuto.",
-    "Reparte los fideos en dos cuencos, vierte encima el caldo con las almejas y las espinacas y termina con el huevo partido, el cebollino y el sésamo."
+    "Reparte los fideos en los cuencos, vierte encima el caldo con las almejas y las espinacas y termina con el huevo partido, el cebollino y el sésamo."
   ],
-  nutricion: { kcal: 320, prot: 20, hc: 42, grasa: 8 },
+  nutricion: { kcal: 695, prot: 47, hc: 89, grasa: 14 },
   etiquetas: ["técnica", "fondo", "dashi", "japonesa", "umami", "ligera", "poco especiada"],
   consejo: "El kombu y el bonito usados se aprovechan una segunda vez para un caldo más suave, ideal para guisos. El error típico es hervir el kombu: suelta mucílago y amarga. Versión vegana del dashi: kombu y shiitake seco en remojo frío toda la noche en la nevera.",
   alternativa: "Para sustituir el mirin del caldo, usa 2 cda de vino blanco y 1 cdta de azúcar: el dashi conserva su punto dulce y apenas se nota la diferencia.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: false
 });
@@ -1126,7 +1126,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "polenta", q: 120, u: "g" },
     { n: "salchicha fresca", q: 250, u: "g" },
@@ -1154,10 +1154,10 @@ window.RECETAS_SEED.push({
     "Está lista cuando se despega de las paredes, ya no sabe a harina cruda y tiene textura de puré suave. Fuera del fuego, añade la mantequilla y el parmesano y remueve hasta que brille.",
     "Sirve la polenta en plato llano, haz un hueco en el centro con el dorso de una cuchara y vierte encima el ragú caliente."
   ],
-  nutricion: { kcal: 810, prot: 31, hc: 70, grasa: 45 },
+  nutricion: { kcal: 590, prot: 23, hc: 47, grasa: 33 },
   etiquetas: ["técnica", "polenta", "italiana", "de domingo", "invierno", "poco especiada"],
   consejo: "La polenta sobrante se extiende en una bandeja y, al enfriarse, queda firme: córtala en porciones y dórala en sartén o al horno al día siguiente. El error típico es servirla espesa, porque endurece en segundos en el plato: déjala más suelta de lo que crees. La regla de la lluvia y las varillas sirve también para la sémola y las gachas.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   tupper: false
 });

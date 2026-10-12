@@ -389,7 +389,7 @@ window.RECETAS_SEED.push({
   equipo: ["slow-cooker", "cazuela"],
   coccion: ["slow-cooker"],
   tupper: true,
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 350, u: "g", nota: "en dados de 3 cm" },
     { n: "patata", q: 250, u: "g" },
@@ -414,12 +414,12 @@ window.RECETAS_SEED.push({
     "Mientras, lava el arroz jazmín y cuécelo en una cazuela con 180 ml de agua, tapado a fuego mínimo 12 minutos. Reposa 5 minutos. Pica el resto de los cacahuetes.",
     "Retira la canela, prueba y añade el zumo de media lima y ajusta de sal. Sirve sobre el arroz con los cacahuetes picados."
   ],
-  nutricion: { kcal: 840, prot: 45, hc: 80, grasa: 38 },
+  nutricion: { kcal: 640, prot: 33, hc: 55, grasa: 33 },
   etiquetas: ["sin gluten", "olla lenta", "fácil", "tupper", "batch cooking", "invierno"],
   consejo: "Revisa la etiqueta de la pasta de curry y de la salsa de pescado: la mayoría son sin gluten, pero algunas marcas añaden salsa de soja con trigo. El curry mejora al día siguiente y aguanta 3 días en la nevera.",
   alternativa: "Si no tienes cardamomo en vaina, usa una pizca de cardamomo molido. Sin olla lenta, cuece la carne a fuego mínimo tapada 1 h 30 min y añade la patata para 25 min más.",
   cocina: "sudeste-asiático",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
   equipo: ["slow-cooker", "sartén", "cazuela"],
   coccion: ["slow-cooker"],
   tupper: true,
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "costilla de ternera", q: 700, u: "g", nota: "en trozos con hueso" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -873,12 +873,12 @@ window.RECETAS_SEED.push({
     "Saca las costillas con cuidado. Cuela la salsa en la cazuela, desgrásala con una cuchara y redúcela a fuego fuerte 8-10 minutos, hasta que nape el dorso de la cuchara.",
     "Sirve las costillas sobre el puré y báñalas con la salsa reducida."
   ],
-  nutricion: { kcal: 870, prot: 50, hc: 55, grasa: 50 },
+  nutricion: { kcal: 535, prot: 23, hc: 22, grasa: 36 },
   etiquetas: ["sin gluten", "olla lenta", "tupper", "invierno", "fin de semana", "poco especiada"],
   consejo: "Esta salsa no necesita harina: se espesa reduciendo el jugo de colágeno de la costilla. Revisa el caldo de carne, que es la única fuente posible de gluten. Si la preparas la víspera, la grasa se solidifica en frío y se retira de una vez.",
   alternativa: "Con olla exprés, las costillas quedan tiernas en 50 min a presión. Si no hay chirivía, haz el puré solo con patata (450 g) y una pizca de nuez moscada.",
   cocina: "europea",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

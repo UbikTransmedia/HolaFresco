@@ -392,7 +392,7 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "espinacas congeladas", q: 250, u: "g" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -419,10 +419,10 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén pequeña y honda a fuego medio-alto (que un trozo de pan dore en 30 segundos) y fríe las croquetas de 4 en 4, 1-2 minutos, hasta que estén doradas. Escúrrelas sobre papel.",
     "Sirve con la lechuga y el tomate aliñados con sal y un hilo de aceite."
   ],
-  nutricion: { kcal: 786, prot: 26, hc: 76, grasa: 42 },
+  nutricion: { kcal: 640, prot: 19, hc: 41, grasa: 44 },
   etiquetas: ["tradicional", "saciante", "batch cooking", "para niños", "de domingo", "poco especiada"],
   consejo: "Haz el doble de masa y congela las croquetas ya empanadas, separadas en una bandeja; una vez duras, pásalas a una bolsa. Se fríen directamente congeladas, a fuego algo más bajo para que se calienten por dentro.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -760,7 +760,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["sartén", "cazuela", "horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "huevo", q: 6, u: "ud", nota: "4 para freír y 2 para el rebozado" },
     { n: "mantequilla", q: 30, u: "g" },
@@ -782,7 +782,7 @@ window.RECETAS_SEED.push({
     "Calienta abundante aceite a fuego medio-alto y fríe los huevos encapotados de dos en dos, 1 minuto por lado, hasta que estén dorados. Escurre sobre papel.",
     "Sirve dos por persona con la ensalada de pimientos asados al lado."
   ],
-  nutricion: { kcal: 784, prot: 30, hc: 58, grasa: 48 },
+  nutricion: { kcal: 745, prot: 24, hc: 49, grasa: 50 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "poco especiada"],
   consejo: "La gracia está en que la yema siga líquida al cortarlos: por eso el huevo se fríe muy poco al principio. La bechamel tiene que estar templada, no caliente, para que se pegue bien al huevo.",
   contundencia: "contundente",
@@ -928,7 +928,7 @@ window.RECETAS_SEED.push({
   tiempo: 160,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "harina de trigo", q: 220, u: "g" },
     { n: "levadura seca de panadería", q: 1, u: "cdta" },
@@ -953,7 +953,7 @@ window.RECETAS_SEED.push({
     "Pinta la superficie con el huevo batido y hornea 35-40 minutos, hasta que esté bien dorada por arriba y por debajo.",
     "Deja templar al menos 10 minutos sobre una rejilla antes de cortar."
   ],
-  nutricion: { kcal: 856, prot: 24, hc: 100, grasa: 40 },
+  nutricion: { kcal: 670, prot: 18, hc: 73, grasa: 33 },
   etiquetas: ["tradicional", "al horno", "saciante", "ideal para llevar", "de domingo", "poco especiada"],
   consejo: "El secreto gallego es amasar con el aceite del sofrito (el 'zaraballo'): da color y sabor a la masa. Si tienes prisa, usa una lámina de masa de empanada comprada y en 1 hora la tienes hecha.",
   contundencia: "contundente",

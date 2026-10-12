@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (pechuga)", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -42,10 +42,10 @@ window.RECETAS_SEED.push({
     "Incorpora el pollo deshilachado y el parmesano, remueve 3 minutos y ajusta de sal y pimienta. Debe quedar cremoso, ni seco ni caldoso.",
     "Sirve el ají sobre las patatas cortadas en rodajas, con el arroz al lado, el huevo en cuartos y las aceitunas."
   ],
-  nutricion: { kcal: 720, prot: 42, hc: 66, grasa: 32 },
+  nutricion: { kcal: 625, prot: 33, hc: 56, grasa: 29 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para niños"],
   consejo: "Cocer la pechuga a fuego suave y dejarla enfriar en su caldo es lo que evita que quede seca. Si no tienes ají amarillo, mezcla pimiento amarillo asado triturado con una pizca de guindilla.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
   tiempo: 200,
   dificultad: "media",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "carrillada de ternera", q: 450, u: "g", nota: "2 carrilleras limpias" },
     { n: "harina de trigo", q: 1, u: "cda" },
@@ -474,7 +474,7 @@ window.RECETAS_SEED.push({
     "Mientras, pela las patatas y cuécelas en agua con sal 20 minutos, escúrrelas y aplástalas con la leche caliente y la mantequilla.",
     "Devuelve las carrilleras a la salsa, calienta 5 minutos y sírvelas sobre el puré bien bañadas."
   ],
-  nutricion: { kcal: 730, prot: 46, hc: 42, grasa: 42 },
+  nutricion: { kcal: 585, prot: 37, hc: 36, grasa: 29 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "verduras escondidas", "poco especiada"],
   consejo: "La carrillera de ternera es más grande y gelatinosa que la de cerdo y necesita su tiempo: no la saques antes de que se deshaga. Hecha la víspera gana muchísimo.",
   alternativa: "Las carrilleras se hacen en 40-45 min en olla exprés, contando desde que sube la válvula, frente a las 2 h 30 min en cazuela; luego tritura y reduce la salsa igual.",

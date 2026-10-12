@@ -466,7 +466,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "judías verdes", q: 150, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -484,14 +484,14 @@ window.RECETAS_SEED.push({
     "Corta las judías verdes en trozos de 3 cm y la zanahoria en rodajas finas. Ponlas en un bol apto para microondas con 3 cucharadas de agua y sal, tapa y cocina 5 minutos a 800 W. Mientras, lamina el ajo.",
     "Añade los guisantes congelados y las alcachofas escurridas y partidas por la mitad. Tapa y cocina 2 minutos más. Escurre el agua.",
     "En una taza pon el aceite con el ajo y los taquitos de jamón. Cocina 1 minuto 30 segundos a 800 W, hasta que el ajo empiece a dorarse y el jamón suelte su grasa.",
-    "Vierte el aceite con el jamón sobre las verduras, mezcla y prueba de sal (el jamón ya sala). Reparte en 2 platos hondos.",
+    "Vierte el aceite con el jamón sobre las verduras, mezcla y prueba de sal (el jamón ya sala). Reparte en los platos hondos.",
     "Escalfa cada huevo en una taza con 120 ml de agua y unas gotas de vinagre, con la yema pinchada con un palillo y la taza tapada con un plato, 50-60 segundos a 800 W, hasta que la clara cuaje.",
     "Saca los huevos con una espumadera, escúrrelos y colócalos sobre la menestra. Al romper la yema se mezclará con las verduras como si fuera una salsa."
   ],
-  nutricion: { kcal: 360, prot: 21, hc: 17, grasa: 23 },
+  nutricion: { kcal: 750, prot: 44, hc: 32, grasa: 46 },
   etiquetas: ["sin gluten", "microondas", "ligera", "fácil", "sin lácteos", "poco especiada"],
   consejo: "El jamón serrano es naturalmente sin gluten; cuidado solo con los taquitos envasados con aditivos o cortados en la misma máquina que embutidos con gluten. Las alcachofas en conserva al natural son aptas.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: false
 });

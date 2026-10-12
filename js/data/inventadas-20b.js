@@ -908,7 +908,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "judías blancas secas", q: 150, u: "g", nota: "en remojo 8-12 h" },
     { n: "salchicha fresca", q: 250, u: "g" },
@@ -933,11 +933,11 @@ window.RECETAS_SEED.push({
     "Abre, retira el romero y el laurel y comprueba que las judías estén cremosas. Si el caldo está ligero, aplasta unas cuantas y cuece 3 minutos sin tapa. Ajusta de sal y pimienta.",
     "Sirve las judías con un buen hilo de aceite en crudo y el pan al lado."
   ],
-  nutricion: { kcal: 764, prot: 40, hc: 70, grasa: 36 },
+  nutricion: { kcal: 610, prot: 28, hc: 43, grasa: 35 },
   etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Si olvidaste el remojo, usa 500 g de judías blancas cocidas de bote y reduce la presión a 3 minutos con solo 150 ml de agua. Un puñado de kale o de espinacas al final completa el plato.",
   alternativa: "Sin olla exprés, cuece las judías remojadas en cazuela tapada a fuego suave 1 h 15 min-1 h 30 min, con 300 ml más de agua, en lugar de 15 min a presión.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -997,7 +997,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["olla-express", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (muslos deshuesados)", q: 400, u: "g" },
     { n: "garbanzos cocidos", q: 200, u: "g", nota: "escurridos" },
@@ -1025,7 +1025,7 @@ window.RECETAS_SEED.push({
     "Mientras, añade los garbanzos a la olla y cocina sin tapa 4 minutos a fuego medio, hasta que la salsa espese. Agrega el zumo de medio limón.",
     "Sirve el tajín sobre el cuscús con las almendras y el cilantro picado por encima."
   ],
-  nutricion: { kcal: 814, prot: 55, hc: 90, grasa: 26 },
+  nutricion: { kcal: 655, prot: 40, hc: 60, grasa: 26 },
   etiquetas: ["mediterránea", "fácil", "aromática", "invierno", "batch cooking", "alta en proteína"],
   consejo: "Si no tienes ras el hanout, mezcla 1 cdta de comino, ½ de cilantro molido, ½ de cúrcuma y una pizca de canela y de jengibre. Los orejones se pueden cambiar por ciruelas pasas o dátiles.",
   contundencia: "contundente",
@@ -1091,7 +1091,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["olla-express", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 5,
   ingredientes: [
     { n: "cordero (jarrete)", q: 2, u: "ud", nota: "unos 700 g en total" },
     { n: "vino tinto", q: 200, u: "ml" },
@@ -1119,10 +1119,10 @@ window.RECETAS_SEED.push({
     "Abre la olla: la carne debe separarse del hueso. Saca los jarretes, retira el romero y el laurel y reduce la salsa sin tapa 5 minutos a fuego fuerte, hasta que esté brillante y espesa.",
     "Sirve cada jarrete sobre el puré de judías, napado con la salsa y con perejil picado por encima."
   ],
-  nutricion: { kcal: 768, prot: 58, hc: 44, grasa: 40 },
+  nutricion: { kcal: 575, prot: 31, hc: 21, grasa: 39 },
   etiquetas: ["mediterránea", "aromática", "invierno", "poco especiada"],
   consejo: "Puedes marinar la víspera y tener la comida resuelta en 1 hora. Si sobra carne, desmenúzala con su salsa y úsala como ragú para una pasta corta con pecorino o parmesano.",
   alternativa: "Sin olla exprés, brasea los jarretes en cazuela tapada a fuego mínimo 2 h-2 h 15 min (o en el horno a 160 °C), con 200 ml más de agua, en vez de 40 min a presión.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });

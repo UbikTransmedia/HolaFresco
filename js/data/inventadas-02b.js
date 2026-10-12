@@ -149,7 +149,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "media",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "bonito fresco (lomos)", q: 280, u: "g", nota: "en un solo taco, previamente congelado" },
     { n: "sésamo", q: 2, u: "cda" },
@@ -175,11 +175,11 @@ window.RECETAS_SEED.push({
     "Pásalo 2 minutos a un plato frío para cortar la cocción y córtalo en lonchas de 1 cm con un cuchillo bien afilado.",
     "Sirve las lonchas sobre la ensalada y riega con el resto del ponzu."
   ],
-  nutricion: { kcal: 360, prot: 36, hc: 14, grasa: 18 },
+  nutricion: { kcal: 720, prot: 71, hc: 26, grasa: 36 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "verano", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Igual que con el tartar, congela el bonito al menos 5 días a -20 °C antes de prepararlo poco hecho. Fuera de temporada usa atún.",
   alternativa: "Si no encuentras wakame, prescinde de ella y añade a la ensalada media hoja de nori tostada en tiras finas justo al servir: aporta el mismo toque a mar.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -602,7 +602,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "dorada (lomos)", q: 300, u: "g", nota: "4 lomos con piel" },
     { n: "tomate pera", q: 4, u: "ud" },
@@ -627,10 +627,10 @@ window.RECETAS_SEED.push({
     "Sala los lomos de dorada y colócalos sobre la salsa con la piel hacia arriba. Tapa y cocina 6-7 minutos a fuego suave, hasta que la carne esté opaca y se separe en lascas.",
     "Espolvorea perejil picado y sirve directamente de la sartén, con tortillas de maíz calientes si quieres."
   ],
-  nutricion: { kcal: 405, prot: 34, hc: 22, grasa: 20 },
+  nutricion: { kcal: 715, prot: 61, hc: 28, grasa: 39 },
   etiquetas: ["ligera", "una sola sartén", "alta en proteína", "picante", "bajo en colesterol"],
   consejo: "La salsa se puede hacer el día antes; al día siguiente solo tienes que calentarla y cocer el pescado en ella.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -864,7 +864,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "gambas peladas", q: 250, u: "g" },
     { n: "pan", q: 200, u: "g", nota: "2 bocadillos de barra tierna" },
@@ -893,7 +893,7 @@ window.RECETAS_SEED.push({
     "Abre los panes, tuéstalos ligeramente y úntalos con el resto de la remoulade.",
     "Rellena con la ensalada de col, rodajas de tomate y las gambas crujientes. Sirve enseguida."
   ],
-  nutricion: { kcal: 770, prot: 36, hc: 76, grasa: 36 },
+  nutricion: { kcal: 750, prot: 28, hc: 59, grasa: 45 },
   etiquetas: ["frito", "para niños", "económica"],
   consejo: "Para una versión más ligera, hornea las gambas empanadas a 220 °C 8-10 minutos con un pulverizado de aceite.",
   alternativa: "Puedes cambiar el panko por pan rallado grueso (50 g), mejor si es de pan del día anterior secado en el horno; el empanado sale un poco más compacto pero igual de crujiente.",
@@ -957,7 +957,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "media",
   equipo: ["sartén", "cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "vieiras", q: 240, u: "g", nota: "unas 8 nueces, limpias" },
     { n: "coliflor", q: 400, u: "g" },
@@ -982,10 +982,10 @@ window.RECETAS_SEED.push({
     "Retira y añade unas gotas de limón a la mantequilla de la sartén.",
     "Sirve una base de crema de coliflor, las vieiras encima, el bacon crujiente, la mantequilla al limón y cebollino picado."
   ],
-  nutricion: { kcal: 415, prot: 30, hc: 20, grasa: 24 },
+  nutricion: { kcal: 665, prot: 54, hc: 23, grasa: 38 },
   etiquetas: ["ligera", "alta en proteína", "sin gluten", "poco especiada"],
   consejo: "Las vieiras congeladas sin coral salen mucho más baratas; descongélalas en la nevera sobre papel para que suelten el agua y doren bien.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "premium"
 });
 
@@ -1089,7 +1089,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "merluza (lomos)", q: 250, u: "g", nota: "sin piel ni espinas" },
     { n: "tofu firme", q: 150, u: "g" },
@@ -1111,10 +1111,10 @@ window.RECETAS_SEED.push({
     "Añade las espinacas, la wakame y la soja y deja 1 minuto, solo hasta que las espinacas se ablanden.",
     "Sirve en boles con el verde de la cebolleta y unas gotas de aceite de sésamo."
   ],
-  nutricion: { kcal: 280, prot: 34, hc: 12, grasa: 10 },
+  nutricion: { kcal: 670, prot: 81, hc: 27, grasa: 27 },
   etiquetas: ["rápida", "ligera", "de cuchara", "alta en proteína", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si quieres una cena más saciante, añade unos fideos de arroz cocidos aparte en el bol justo antes de servir.",
   alternativa: "Si no tienes wakame, omítela o pon en cada bol unas tiras de nori al servir; el resto de la sopa no cambia.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });

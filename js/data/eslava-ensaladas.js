@@ -202,7 +202,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "queso camembert", q: 2, u: "ud", nota: "de 125 g, firme y poco curado; es el queso más parecido al hermelín checo" },
     { n: "ajo", q: 2, u: "diente" },
@@ -230,7 +230,7 @@ window.RECETAS_SEED.push({
     "Mientras el queso se atempera, prepara la ensalada: corta la lechuga en tiras, el tomate en gajos y el pepino en rodajas, y alíñalos con el vinagre, sal y 2 cucharadas del aceite aromatizado del tarro.",
     "Tuesta el pan de centeno. Sirve cada queso sobre la ensalada con su cebolla y su pimiento escurridos, y moja el pan en el aceite del queso."
   ],
-  nutricion: { kcal: 765, prot: 33, hc: 44, grasa: 51 },
+  nutricion: { kcal: 685, prot: 24, hc: 33, grasa: 50 },
   etiquetas: ["tradicional", "para invitados", "picante", "se prepara con antelación", "vegetariana"],
   consejo: "El nakládaný hermelín es la tapa clásica de las hospody checas, siempre con una cerveza tipo pilsner. El aceite que sobra, perfumado de ajo, cebolla y guindilla, es oro: úsalo para aliñar ensaladas o para saltear patatas durante la semana, guardado en la nevera. Puedes llevarte el queso al trabajo en su tarro y montar la ensalada allí.",
   alternativa: "Si no encuentras pimienta de Jamaica en grano, usa 4 granos más de pimienta negra y 2 clavos de olor en el aceite.",

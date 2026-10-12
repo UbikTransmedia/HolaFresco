@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   tiempo: 15,
   dificultad: "fácil",
   equipo: ["plancha", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (chuletillas)", q: 400, u: "g", nota: "8-10 piezas" },
     { n: "cuscús", q: 120, u: "g" },
@@ -44,10 +44,10 @@ window.RECETAS_SEED.push({
     "Esponja el cuscús con un tenedor y mézclalo con el pepino en dados, el resto de la menta y el perejil picados, la granada y el resto del aceite.",
     "Sirve las chuletillas sobre el cuscús con el yogur al ajo y gajos de limón."
   ],
-  nutricion: { kcal: 715, prot: 33, hc: 53, grasa: 41 },
+  nutricion: { kcal: 605, prot: 31, hc: 37, grasa: 36 },
   etiquetas: ["rápida", "15 minutos", "a la plancha", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "Cualquier corte con una tira de grasa (chuletillas, entrecot, presa) mejora si la doras de canto antes o después de marcarlo: la grasa se funde, se vuelve crujiente y aporta sabor a la plancha. El reposo de 2 minutos tras la plancha es tan importante como la cocción.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium",
   tupper: false
 });

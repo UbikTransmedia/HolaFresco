@@ -7,14 +7,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "europea",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   momentos: ["cena"],
   proteina: "verdura",
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["olla-express", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "brócoli", q: 500, u: "g", nota: "ramilletes y tallo pelado" },
     { n: "puerro", q: 1, u: "ud" },
@@ -38,7 +38,7 @@ window.RECETAS_SEED.push({
     "Tuesta las semillas de calabaza en una sartén seca 2 min. Pasa los ramilletes reservados 2 min por la misma sartén con una gota de aceite.",
     "Sirve la crema con el queso de cabra desmenuzado por encima (se funde con el calor), los ramilletes tostados y las semillas."
   ],
-  nutricion: { kcal: 330, prot: 14, hc: 24, grasa: 20 },
+  nutricion: { kcal: 665, prot: 30, hc: 59, grasa: 34 },
   etiquetas: ["crema", "rápida", "ligera", "vegetariano", "cena", "invierno", "poco especiada"],
   consejo: "Las cremas verdes se oscurecen con el tiempo: si la preparas con antelación, enfríala rápido y recaliéntala sin que hierva."
 });
@@ -138,14 +138,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "mediterránea",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   momentos: ["cena"],
   proteina: "verdura",
   tiempo: 18,
   dificultad: "fácil",
   equipo: ["olla-express", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "calabacín", q: 700, u: "g", nota: "unos 3 medianos, con piel" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     "Para tomarla caliente, sírvela ya. Para fría, enfríala en la nevera al menos 2 h (o 20 min en un baño de agua con hielo).",
     "Termina con el feta desmenuzado, la menta en tiras y un hilo de aceite de oliva."
   ],
-  nutricion: { kcal: 280, prot: 10, hc: 22, grasa: 16 },
+  nutricion: { kcal: 600, prot: 20, hc: 36, grasa: 41 },
   etiquetas: ["crema", "rápida", "ligera", "vegetariano", "verano", "cena", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Si el calabacín es grande y con muchas pepitas, retíralas con una cuchara: la crema queda más fina y sin amargor."
 });
@@ -268,14 +268,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "asiática",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "panceta", q: 350, u: "g", nota: "fresca, en un trozo" },
     { n: "fideos ramen", q: 180, u: "g", nota: "o fideos de trigo finos" },
@@ -300,9 +300,9 @@ window.RECETAS_SEED.push({
     "Mientras, cuece los huevos en un cazo 6 min 30 s desde que hierva el agua, enfríalos en agua con hielo y pélalos: yema cremosa. Déjalos 10 min en un bol con la otra cda de soja. Corta la parte blanca de las cebolletas en rodajas finas y parte el pak choi a lo largo en cuartos.",
     "Aparta la olla y deja despresurizar de forma natural 10 min; mientras, pon a hervir agua abundante para los fideos. Saca la panceta y córtala en lonchas gruesas. Cuela el caldo, devuélvelo a la olla y disuelve el miso en un cazo con un poco de caldo caliente antes de incorporarlo (nunca lo hiervas).",
     "Pon el caldo a fuego medio, añade los champiñones y el pak choi y cuece 3 min. Cuece los fideos en el agua hirviendo según el paquete (2-4 min) y escúrrelos.",
-    "Reparte los fideos en dos boles grandes, vierte el caldo hirviendo con las verduras, coloca la panceta, el huevo partido por la mitad, la cebolleta, el sésamo y unas gotas de aceite de sésamo. Sriracha al gusto."
+    "Reparte los fideos en los boles grandes, vierte el caldo hirviendo con las verduras, coloca la panceta, el huevo partido por la mitad, la cebolleta, el sésamo y unas gotas de aceite de sésamo. Sriracha al gusto."
   ],
-  nutricion: { kcal: 690, prot: 38, hc: 70, grasa: 28 },
+  nutricion: { kcal: 630, prot: 27, hc: 40, grasa: 39 },
   etiquetas: ["sopa", "contundente", "invierno", "fin de semana"],
   consejo: "Si quieres un caldo más lechoso tipo tonkotsu, añade 300 g de huesos de cerdo o alitas de pollo con la panceta y sube a 40 min de presión.",
   alternativa: "Sin olla exprés, cuece la panceta en el caldo en una cazuela tapada 1 h a fuego muy suave, hasta que se deje cortar con facilidad; repón con un poco de agua si baja mucho."
@@ -367,7 +367,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera picada", q: 400, u: "g" },
     { n: "alubias rojas cocidas", q: 400, u: "g", nota: "escurridas" },
@@ -400,7 +400,7 @@ window.RECETAS_SEED.push({
     "Abre la olla, añade las alubias y el maíz y cocina destapado a fuego medio 5 min hasta que el chili espese. Prueba: ajusta de sal y picante.",
     "Sirve sobre el arroz con una cucharada de yogur, el cilantro picado y la lima."
   ],
-  nutricion: { kcal: 700, prot: 44, hc: 60, grasa: 30 },
+  nutricion: { kcal: 720, prot: 44, hc: 72, grasa: 25 },
   etiquetas: ["picante", "batch cooking", "contundente", "de cuchara", "ideal para llevar"],
   consejo: "El chili mejora al día siguiente y congela de maravilla. Con carne de ternera para guisar en tacos pequeños en vez de picada, sube a 25 min de presión: es la versión texana.",
   alternativa: "Sin olla, deja el chili 30 min tapado a fuego suave en una cazuela. ¿No tienes chipotle? 1 cdta extra de pimentón ahumado y una pizca más de cayena cumplen el mismo papel."
@@ -413,14 +413,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "latinoamericana",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica",
   momentos: ["comida"],
   proteina: "pollo",
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso y piel, unos 550 g" },
     { n: "arroz redondo", q: 180, u: "g" },
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
     "Abre, saca el pollo, añade los guisantes y las aceitunas al arroz y mezcla con suavidad. Tapa (sin presión) 2 min para que los guisantes se calienten.",
     "Sirve el arroz con el pollo encima y gajos de lima para exprimir."
   ],
-  nutricion: { kcal: 690, prot: 42, hc: 72, grasa: 26 },
+  nutricion: { kcal: 635, prot: 35, hc: 67, grasa: 24 },
   etiquetas: ["arroz", "una sola olla", "económica", "para niños", "contundente", "poco especiada"],
   consejo: "Si te gusta el socarrat, pasa el arroz ya cocido a una sartén ancha con una gota de aceite 2 min a fuego fuerte sin remover."
 });
@@ -693,7 +693,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo (paleta)", q: 500, u: "g", nota: "en tacos de 4 cm" },
     { n: "manzana", q: 2, u: "ud", nota: "una ácida para la salsa y otra para dorar" },
@@ -721,7 +721,7 @@ window.RECETAS_SEED.push({
     "Pon el guiso a fuego medio destapado, añade la nata y cocina 5 min hasta que la salsa espese y nape. Rectifica de sal y pimienta.",
     "Mientras, dora la otra manzana en gajos con el resto de la mantequilla en una sartén 3 min por lado. Sirve el cerdo con su salsa, los gajos de manzana dorados y las patatas."
   ],
-  nutricion: { kcal: 680, prot: 44, hc: 54, grasa: 30 },
+  nutricion: { kcal: 700, prot: 36, hc: 46, grasa: 40 },
   etiquetas: ["guiso", "otoño", "contundente", "fin de semana", "batch cooking", "poco especiada"],
   consejo: "La paleta tiene la grasa justa para la olla; el lomo se secaría. Si quieres aligerar, cambia la nata por yogur griego añadido fuera del fuego.",
   alternativa: "Si lo haces en cazuela, guisa la paleta tapada 1 h 15 min a fuego suave y añade las patatas en los últimos 20 min."
@@ -789,7 +789,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["olla-express", "batidora"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "ternera para guisar", q: 500, u: "g", nota: "en tacos de 4 cm" },
     { n: "leche de coco", q: 400, u: "ml" },
@@ -821,7 +821,7 @@ window.RECETAS_SEED.push({
     "Mientras reduce, lava el arroz jazmín y cuécelo en 210 ml de agua con sal, tapado y a fuego mínimo, 12 min. Añade el coco tostado al rendang, retira la hierba limón, la canela y el anís, y termina con el zumo de media lima.",
     "Sirve el rendang con el arroz y gajos de lima."
   ],
-  nutricion: { kcal: 760, prot: 46, hc: 60, grasa: 36 },
+  nutricion: { kcal: 655, prot: 31, hc: 42, grasa: 41 },
   etiquetas: ["picante", "especiado", "contundente", "fin de semana", "batch cooking", "sin verduras"],
   consejo: "La reducción final es el paso que define el rendang: no te saltes los últimos 10 min aunque parezca que ya está. En olla tradicional son 3 h; aquí poco más de 1.",
   alternativa: "Si no encuentras hierba limón, sustitúyela por la ralladura de 1 lima más una tira de piel de limón sin parte blanca, retirada antes de reducir; el aroma cítrico se mantiene."
@@ -886,7 +886,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pollo entero troceado", q: 700, u: "g", nota: "muslos y contramuslos con hueso" },
     { n: "bacon", q: 80, u: "g", nota: "en tacos" },
@@ -917,7 +917,7 @@ window.RECETAS_SEED.push({
     "Saca el pollo. Añade los champiñones y las chalotas a la salsa y redúcela destapada a fuego fuerte 8 min hasta que nape la cuchara. Fuera del fuego, monta la salsa con la mantequilla fría removiendo.",
     "Devuelve el pollo 1 min, rectifica de sal y pimienta y sirve con el perejil picado y el pan tostado."
   ],
-  nutricion: { kcal: 620, prot: 50, hc: 24, grasa: 36 },
+  nutricion: { kcal: 545, prot: 31, hc: 25, grasa: 33 },
   etiquetas: ["guiso", "fin de semana", "invierno", "alta en proteína", "de víspera", "poco especiada"],
   consejo: "Un vino que te beberías, no uno de cocina: la salsa es básicamente vino reducido. Acompaña con puré de patata si quieres un plato de domingo completo.",
   alternativa: "En cazuela tradicional, cuece el pollo tapado 40 min a fuego suave en vez de 12 min a presión, y reduce después la salsa destapada hasta que nape."
@@ -930,14 +930,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "americana",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica",
   momentos: ["comida"],
   proteina: "cerdo",
   tiempo: 95,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "cerdo (paleta)", q: 800, u: "g", nota: "en 3-4 trozos grandes, con su grasa" },
     { n: "pimentón ahumado", q: 2, u: "cdta" },
@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
     "Devuelve 150 ml del jugo a la olla con el kétchup, el resto del azúcar y el vinagre, la salsa worcestershire y el chipotle. Reduce destapado a fuego fuerte 6-8 min hasta tener una salsa barbacoa espesa. Mezcla con la carne desmenuzada y mantén a fuego mínimo.",
     "Tuesta los panes por dentro y rellena con una montaña de pulled pork, ensalada de col y los pepinillos. El sobrante congela genial."
   ],
-  nutricion: { kcal: 770, prot: 46, hc: 68, grasa: 34 },
+  nutricion: { kcal: 650, prot: 42, hc: 35, grasa: 37 },
   etiquetas: ["batch cooking", "contundente", "fin de semana", "económica", "para niños"],
   consejo: "Las sobras de pulled pork sirven para tacos, quesadillas, nachos o un bol con arroz. En horno tradicional serían 5 h a 140 °C; la olla lo hace en 50 min de presión."
 });
@@ -989,7 +989,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["olla-express", "batidora", "plancha"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 600, u: "g", nota: "morcillo o aguja, en trozos grandes" },
     { n: "chile guajillo seco", q: 4, u: "ud", nota: "o ñora, sin semillas" },
@@ -1022,7 +1022,7 @@ window.RECETAS_SEED.push({
     "Moja cada tortilla en la grasa roja reservada (o en la superficie del consomé), ponla en una plancha o sartén a fuego medio-fuerte, cubre media con queso y carne, dobla y dora 2 min por lado hasta que esté crujiente.",
     "Sirve los tacos con cebolla morada, cilantro y lima, y un vaso de consomé caliente al lado para mojarlos."
   ],
-  nutricion: { kcal: 740, prot: 48, hc: 56, grasa: 34 },
+  nutricion: { kcal: 710, prot: 58, hc: 48, grasa: 32 },
   etiquetas: ["picante", "fin de semana", "contundente", "para compartir", "de víspera"],
   consejo: "Las ñoras españolas sustituyen bien al guajillo (menos picante). El consomé sobrante, con unos fideos, es una sopa espectacular al día siguiente."
 });
@@ -1034,14 +1034,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "india",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium",
   momentos: ["comida"],
   proteina: "cordero",
   tiempo: 90,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "cordero (pierna deshuesada)", q: 550, u: "g", nota: "en tacos de 3-4 cm" },
     { n: "yogur natural", q: 200, u: "g" },
@@ -1075,7 +1075,7 @@ window.RECETAS_SEED.push({
     "Mientras despresuriza, lava el arroz basmati y cuécelo en 225 ml de agua con sal, tapado y a fuego mínimo, 12 min. Abre la olla, retira la canela y el laurel, añade el garam masala y reduce destapado a fuego medio-fuerte 8-10 min hasta que la salsa espese y la grasa roja suba a la superficie. Rectifica de sal.",
     "Sirve el rogan josh con el cilantro fresco picado por encima y el arroz al lado."
   ],
-  nutricion: { kcal: 820, prot: 48, hc: 66, grasa: 40 },
+  nutricion: { kcal: 640, prot: 31, hc: 42, grasa: 38 },
   etiquetas: ["especiado", "picante", "contundente", "fin de semana", "de víspera"],
   consejo: "Para que el yogur no se corte, añádelo a temperatura ambiente y en cucharadas sobre la carne caliente, removiendo. El pimentón dulce sustituye al chile cachemir y da color sin exceso de picante.",
   alternativa: "Sin olla exprés, el cordero necesita 1 h 30 min en cazuela tapada a fuego mínimo; añade un poco de agua caliente si la salsa se agarra al fondo."
@@ -1088,14 +1088,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "europea",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "cerdo",
   tiempo: 120,
   dificultad: "media",
   equipo: ["olla-express", "horno"],
-  raciones: 2,
+  raciones: 5,
   ingredientes: [
     { n: "codillo de cerdo", q: 2, u: "ud", nota: "frescos, unos 600 g cada uno" },
     { n: "cerveza", q: 500, u: "ml", nota: "rubia o tostada" },
@@ -1123,7 +1123,7 @@ window.RECETAS_SEED.push({
     "Cierra y, desde que suba la válvula, cuenta 8 min a fuego mínimo. Despresuriza rápido. Prueba el chucrut de sal (suele no necesitar).",
     "Sirve cada codillo entero sobre una cama de chucrut con las patatas al lado y más mostaza en la mesa."
   ],
-  nutricion: { kcal: 900, prot: 56, hc: 50, grasa: 52 },
+  nutricion: { kcal: 595, prot: 36, hc: 32, grasa: 34 },
   etiquetas: ["contundente", "invierno", "fin de semana", "oktoberfest", "guiso", "poco especiada"],
   consejo: "Si los codillos son muy grandes y no caben, pide al carnicero que los parta por la mitad a lo largo. El caldo sobrante, desgrasado, es una base estupenda para sopa de lentejas.",
   alternativa: "Sin olla, cuece los codillos en cazuela tapada con la cerveza y el agua 2 h 30 min a fuego suave (añade 300 ml más de agua) y luego dóralos en el horno igual."
@@ -1136,14 +1136,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "española",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "ternera",
   tiempo: 150,
   dificultad: "elaborada",
   equipo: ["olla-express", "batidora"],
-  raciones: 2,
+  raciones: 5,
   ingredientes: [
     { n: "lengua de ternera", q: 900, u: "g", nota: "una pieza, limpia" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -1174,7 +1174,7 @@ window.RECETAS_SEED.push({
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min. Despresuriza rápido.",
     "Si la salsa está ligera, reduce destapado 5-8 min a fuego medio-fuerte hasta que nape. Sirve con el perejil picado. Es un plato que gana reposado de un día para otro."
   ],
-  nutricion: { kcal: 670, prot: 44, hc: 36, grasa: 38 },
+  nutricion: { kcal: 590, prot: 29, hc: 26, grasa: 40 },
   etiquetas: ["casquería", "de víspera", "contundente", "guiso", "fin de semana", "económica", "poco especiada"],
   consejo: "Pelar la lengua en caliente es imprescindible: fría no sale. Con el caldo de la primera cocción (muy gelatinoso) tienes base para una sopa de fideos al día siguiente.",
   alternativa: "En cazuela convencional, la lengua necesita unas 2 h 30 min de cocción suave tapada para poder pelarla, y el estofado final, 30 min en lugar de 10."

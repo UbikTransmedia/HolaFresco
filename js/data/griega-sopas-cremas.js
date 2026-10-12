@@ -252,7 +252,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "yogur natural", q: 400, u: "g", nota: "mejor de oveja o algo ácido" },
     { n: "bulgur", q: 60, u: "g", nota: "grueso; sustituye al korkotó, el trigo partido del Ponto" },
@@ -272,11 +272,11 @@ window.RECETAS_SEED.push({
     "En un cazo pequeño, funde la mantequilla y déjala espumar 2 minutos, hasta que huela a avellana tostada. Apaga el fuego y añade la menta seca: chisporroteará unos segundos.",
     "Sirve la sopa en cuencos y riégala con la mantequilla de menta justo en la mesa."
   ],
-  nutricion: { kcal: 375, prot: 15, hc: 34, grasa: 20 },
+  nutricion: { kcal: 750, prot: 29, hc: 65, grasa: 40 },
   etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno", "vegetariana", "sin verduras", "poco especiada"],
   consejo: "Es una sopa de los griegos del Ponto, la costa sur del mar Negro, que la llevaron a Tracia y a Macedonia cuando se instalaron allí con el intercambio de población de 1923. Se hace con korkotó (trigo descascarillado y partido); el bulgur grueso es el sustituto más fiel, y también vale el arroz redondo. El huevo y la harina son los que impiden que el yogur se corte al hervir: remueve siempre en el mismo sentido y no tengas prisa. Recién hecha está mucho mejor que recalentada.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

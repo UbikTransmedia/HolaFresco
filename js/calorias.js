@@ -48,13 +48,14 @@
     return i.hueso ? 0.7 : 1;
   };
 
+  const RE_ALCOHOL = /^(vino|cerveza|brandy|conac|ron|whisky|jerez|fino|manzanilla|licor|sidra|vermut|oporto|ouzo|vodka|anis|mirin|sake|cava|orujo|pacharan|marsala|madeira|pedro ximenez|tequila|ginebra|calvados|grappa|raki|rakija|aguardiente)\b/;
   /* Lo que se deduce del nombre de un ingrediente, calculado una sola vez por nombre */
   const infos = new Map();
   const info = (nombre) => {
     let i = infos.get(nombre);
     if (!i) {
       const completo = Catalogo.normalizar(String(nombre).replace(/[()]/g, " ")); // con la nota entre paréntesis
-      i = { completo, dato: buscar(nombre), aceite: /^(aceite|manteca de cerdo|manteca iberica|manteca colora)\b/.test(completo), limpio: RE_LIMPIO.test(completo), hueso: RE_HUESO.test(completo) };
+      i = { completo, dato: buscar(nombre), aceite: /^(aceite|manteca de cerdo|manteca iberica|manteca colora)\b/.test(completo), limpio: RE_LIMPIO.test(completo), hueso: RE_HUESO.test(completo), alcohol: RE_ALCOHOL.test(completo) };
       infos.set(nombre, i);
     }
     return i;
@@ -107,7 +108,10 @@
     for (const { ing, dato, neto } of filas) {
       if (esAceite(ing.n)) continue;
       const f = neto / 100;
-      kcal += dato.kcal * f; p += dato.p * f; hc += dato.hc * f; g += dato.g * f;
+      // Bebidas alcohólicas: al cocinar se evapora la mayor parte del alcohol; queda ≈ 25 % de su energía
+      const deMacros = 4 * dato.p + 4 * dato.hc + 9 * dato.g;
+      const kcal100 = info(ing.n).alcohol && dato.kcal > deMacros ? deMacros + (dato.kcal - deMacros) * 0.25 : dato.kcal;
+      kcal += kcal100 * f; p += dato.p * f; hc += dato.hc * f; g += dato.g * f;
     }
     kcal += aceiteContado * 9; g += aceiteContado; // grasas: ≈ 900 kcal y 100 g de grasa por 100 g
     const r1 = (x, d = 0) => Math.round((x / raciones) * 10 ** d) / 10 ** d;

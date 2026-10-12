@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "confit de pato (muslos)", q: 2, u: "ud" },
     { n: "judías blancas secas", q: 100, u: "g", nota: "en remojo desde la víspera" },
@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     "Saca el pato, deshuésalo y desmenúzalo en trozos grandes. Devuélvelo a la cazuela. La garbure debe quedar muy espesa: si quieres, aplasta unas patatas para ligarla.",
     "Salpimienta, pon una rebanada de pan tostado en cada plato hondo y vierte la garbure encima."
   ],
-  nutricion: { kcal: 940, prot: 48, hc: 70, grasa: 52 },
+  nutricion: { kcal: 705, prot: 38, hc: 52, grasa: 37 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "para invitados", "de domingo", "poco especiada"],
   consejo: "La tradición dice que la garbure está bien hecha si la cuchara se queda de pie en el plato. Al final, los bearneses echan un chorro de vino tinto en el caldo que queda en el fondo y se lo beben: se llama 'faire chabrot'.",
   contundencia: "contundente",
@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 350, u: "g", nota: "con hueso" },
     { n: "arroz redondo", q: 70, u: "g" },
@@ -279,10 +279,10 @@ window.RECETAS_SEED.push({
     "Devuelve el pollo y la zanahoria, añade unas gotas de limón y deja 2 minutos más.",
     "Sirve con la hierbabuena picada por encima y pimienta recién molida."
   ],
-  nutricion: { kcal: 440, prot: 34, hc: 44, grasa: 14 },
+  nutricion: { kcal: 745, prot: 58, hc: 76, grasa: 22 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "En Portugal es la sopa que se da a los convalecientes y a las parturientas. Si la recalientas, el arroz habrá absorbido caldo: añade agua caliente o caldo hasta recuperar la textura.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

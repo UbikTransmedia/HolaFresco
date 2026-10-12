@@ -1063,7 +1063,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "espinacas frescas", q: 300, u: "g" },
     { n: "patata", q: 300, u: "g" },
@@ -1088,12 +1088,12 @@ window.RECETAS_SEED.push({
     "Tuesta el sésamo en una sartén seca 2 minutos. Pasa la nori unos segundos por cada lado sobre el fuego, hasta que esté crujiente, y desmenúzala.",
     "Sirve la crema caliente con el sésamo y la nori por encima."
   ],
-  nutricion: { kcal: 315, prot: 16, hc: 37, grasa: 12 },
+  nutricion: { kcal: 555, prot: 24, hc: 61, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "ligera", "detox"],
   consejo: "En Japón el potage de espinacas se hace con mantequilla, cebolla y leche; aquí la parte verde de la cebolleta da el fondo aromático, la patata da la cremosidad y el dashi sustituye a la grasa. Las espinacas cocidas son libres en la dieta baja en FODMAP y la leche sin lactosa evita el azúcar de la leche que tantas veces hincha. Es una buena cena ligera; si quieres más proteína, añade un huevo escalfado o unos dados de tofu firme.",
   alternativa: "Si no encuentras kombu ni copos de bonito, usa 700 ml de caldo de verduras casero sin cebolla ni puerro en lugar del dashi.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica"
 });
 

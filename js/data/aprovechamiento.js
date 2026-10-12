@@ -294,7 +294,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["bol", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "carne de cocido", q: 220, u: "g", nota: "sobrante (morcillo, falda, aguja o pollo del cocido o de un asado)" },
     { n: "mortadela", q: 50, u: "g" },
@@ -322,11 +322,11 @@ window.RECETAS_SEED.push({
     "Calienta la mantequilla con el resto del aceite (así no se quema) en una sartén a fuego medio. Cuando haga espuma, dora los mondeghili 3-4 minutos por cada lado, hasta que tengan una costra dorada.",
     "Escúrrelos sobre papel y sírvelos calientes con la ensalada de hinojo y naranja."
   ],
-  nutricion: { kcal: 780, prot: 52, hc: 50, grasa: 42 },
+  nutricion: { kcal: 605, prot: 35, hc: 32, grasa: 37 },
   etiquetas: ["aprovechamiento", "tradicional", "para niños", "poco especiada"],
   consejo: "Los mondeghili son el plato milanés de aprovechamiento por excelencia: se hacían con la carne del bollito misto o del asado del domingo, y su nombre viene del español «albondiguilla», de cuando Milán era dominio español. Si no tienes carne de cocido, sirve cualquier carne asada sobrante, pollo asado o incluso salchichas cocidas. Aguantan 2 días en la nevera y se recalientan en el horno a 180 °C 10 minutos.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

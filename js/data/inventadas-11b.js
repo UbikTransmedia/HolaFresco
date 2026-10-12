@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["horno", "sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pan", q: 2, u: "ud", nota: "bollos tipo bolillo o chapata pequeña" },
     { n: "alubias negras cocidas", q: 250, u: "g" },
@@ -216,10 +216,10 @@ window.RECETAS_SEED.push({
     "Unta cada mitad con una capa generosa de frijoles, cubre con el queso y gratina 4-5 minutos, hasta que burbujee y se dore por los bordes. Mientras, corta el aguacate en láminas y la otra media lima en gajos.",
     "Sirve los molletes con el pico de gallo por encima, el aguacate y los gajos de lima."
   ],
-  nutricion: { kcal: 700, prot: 30, hc: 80, grasa: 28 },
+  nutricion: { kcal: 605, prot: 24, hc: 76, grasa: 21 },
   etiquetas: ["rápida", "económica", "para niños", "al horno"],
   consejo: "Los frijoles refritos aguantan 4 días en la nevera: haz el doble y tendrás base para molletes, tacos o un desayuno salado en un momento.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "elaborada",
   equipo: ["horno", "cazuela", "batidora", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "paneer", q: 150, u: "g" },
     { n: "patata", q: 200, u: "g" },
@@ -940,7 +940,7 @@ window.RECETAS_SEED.push({
     "Devuelve la salsa a la cazuela con la nata, el azúcar, 100 ml de agua y sal. Cuece 5 minutos a fuego suave, hasta que napé el dorso de una cuchara.",
     "Pon las koftas en el plato y vierte la salsa caliente justo al servir (si las dejas en ella, se deshacen). Termina con el resto del cilantro y acompaña con el arroz."
   ],
-  nutricion: { kcal: 820, prot: 30, hc: 78, grasa: 44 },
+  nutricion: { kcal: 720, prot: 21, hc: 73, grasa: 37 },
   etiquetas: ["al horno", "para invitados", "invierno", "comfort food"],
   consejo: "Horneadas en lugar de fritas quedan más ligeras y no se rompen. La salsa se congela muy bien: haz el doble y tendrás base para un curry de verduras otro día.",
   alternativa: "Si no encuentras paneer, usa queso fresco de Burgos bien escurrido y prensado en un paño 15 minutos (mismo peso) y añade 1 cda más de maicena a la masa para que las koftas no se abran.",
@@ -960,7 +960,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "elaborada",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "canelones (placas)", q: 10, u: "ud" },
     { n: "setas variadas", q: 300, u: "g" },
@@ -992,7 +992,7 @@ window.RECETAS_SEED.push({
     "Cubre con el resto de la bechamel, espolvorea el parmesano y hornea 20 minutos, gratinando al final 3-4 minutos, hasta que la superficie esté dorada y burbujeante.",
     "Mientras, tuesta las avellanas en una sartén seca, pícalas gruesas y repártelas sobre los canelones al servir. Deja reposar 5 minutos antes de cortarlos."
   ],
-  nutricion: { kcal: 780, prot: 30, hc: 62, grasa: 46 },
+  nutricion: { kcal: 660, prot: 27, hc: 44, grasa: 41 },
   etiquetas: ["al horno", "para invitados", "otoño", "batch cooking", "poco especiada"],
   consejo: "Puedes dejarlos montados, sin bechamel encima, el día antes. Si el queso azul te resulta fuerte, sustituye la mitad por queso gruyère.",
   contundencia: "contundente",

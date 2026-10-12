@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "media",
   equipo: ["cazuela", "wok"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "huevo", q: 6, u: "ud" },
     { n: "chalota", q: 4, u: "ud", nota: "unos 100 g" },
@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
     "En un cazo, mezcla la pasta de tamarindo, el azúcar de palma, la salsa de pescado y 3 cucharadas de agua. Cuece a fuego medio 3–4 minutos, hasta que espese como un almíbar que napa la cuchara. Prueba: primero agrio, luego dulce y al final salado; corrige con agua si está muy intenso.",
     "Corta los huevos por la mitad, colócalos con la yema hacia arriba y báñalos con la salsa. Cubre con la chalota crujiente, las guindillas desmenuzadas y el cilantro. Sirve con el arroz y el pepino en rodajas para refrescar."
   ],
-  nutricion: { kcal: 810, prot: 26, hc: 98, grasa: 35 },
+  nutricion: { kcal: 720, prot: 20, hc: 71, grasa: 39 },
   etiquetas: ["tradicional", "sin gluten"],
   consejo: "Cuenta la leyenda que una suegra tailandesa servía este plato como advertencia al yerno: se dice que ella prepararía algo parecido con otros huevos si no trataba bien a su hija. Cuela el aceite de freír las chalotas y guárdalo en un tarro: es un aceite aromático buenísimo para salteados. Si no tienes pasta de tamarindo, remoja 30 g de tamarindo en bloque en 60 ml de agua caliente y cuélalo.",
   tupper: false,

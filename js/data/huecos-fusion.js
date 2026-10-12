@@ -172,7 +172,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["olla-express", "horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 800, u: "g", nota: "costillar en tiras o entero" },
     { n: "chile chipotle en adobo", q: 2, u: "ud", nota: "de lata, con una cucharadita de su salsa; sustituto: 1 cdta de pimentón ahumado y una pizca de cayena" },
@@ -202,7 +202,7 @@ window.RECETAS_SEED.push({
     "Mientras, prepara la ensalada: corta la lombarda en tiras muy finas, ralla la zanahoria y corta la cebolla morada en pluma. Alíñalas en un bol con el zumo de la lima, el zumo de la media naranja restante, un chorro de aceite y sal, y amasa 1 minuto con las manos para que la col se ablande. Pica el cilantro.",
     "Sirve las costillas con el sésamo por encima y el glaseado sobrante aparte, y la ensalada con el cilantro picado."
   ],
-  nutricion: { kcal: 770, prot: 48, hc: 42, grasa: 46 },
+  nutricion: { kcal: 685, prot: 34, hc: 29, grasa: 48 },
   etiquetas: ["creativa", "picante", "alta en proteína", "para invitados", "fin de semana"],
   consejo: "Junta el chipotle ahumado de México con el lacado de soja y miel del char siu cantonés. La olla exprés hace el trabajo de tres horas de horno lento y el grill solo da el acabado; puedes dejar las costillas cocidas en su jugo hasta 2 días en la nevera y glasearlas al momento. El chipotle en adobo se vende en lata en la sección de productos mexicanos. Con las sobras, deshuesa la carne y úsala para tacos.",
   alternativa: "Sin olla exprés, hornea las costillas con la mitad de la salsa y el agua en una fuente tapada con papel de aluminio a 150 °C durante 2 h 30 min; luego reduce el jugo en un cazo y glasea igual.",

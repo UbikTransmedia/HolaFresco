@@ -294,7 +294,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "media",
   equipo: ["sartén", "bol", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias rojas cocidas", q: 400, u: "g", nota: "escurridas y muy bien secas" },
     { n: "quinoa", q: 60, u: "g" },
@@ -326,11 +326,11 @@ window.RECETAS_SEED.push({
     "Calienta la otra cucharada de aceite en una sartén antiadherente a fuego medio. Cocina las hamburguesas 4-5 minutos por lado sin moverlas hasta que estén bien doradas y con costra; dales la vuelta con una espátula ancha.",
     "Abre los panes y tuéstalos 1 minuto en la misma sartén. Unta la base con la mayonesa de chipotle, pon la hamburguesa, una buena cucharada de ensalada de col y cierra. Sirve el resto de la col al lado."
   ],
-  nutricion: { kcal: 730, prot: 27, hc: 88, grasa: 30 },
+  nutricion: { kcal: 625, prot: 22, hc: 68, grasa: 27 },
   etiquetas: ["económica", "batch cooking", "picante", "para niños"],
   consejo: "Las hamburguesas crudas se congelan muy bien separadas con papel de horno; cocínalas directamente desde congeladas 2 minutos más por lado. Para los niños, sustituye el chipotle por una pizca de pimentón dulce.",
   alternativa: "Sin chipotle en adobo, mezcla la mayonesa con media cucharadita de pimentón ahumado y una pizca de cayena: conserva el punto ahumado y picante.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -346,7 +346,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados, con piel si es posible" },
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos y secos" },
@@ -375,10 +375,10 @@ window.RECETAS_SEED.push({
     "Extiende el yogur al tahini en la base de cada plato, reparte encima el pollo, los garbanzos, la cebolla y los cherry con todos los jugos de la bandeja.",
     "Termina con la última cucharada de aceite, el resto del zaatar, el perejil y los triángulos de pita para rebañar."
   ],
-  nutricion: { kcal: 670, prot: 45, hc: 55, grasa: 30 },
+  nutricion: { kcal: 620, prot: 34, hc: 45, grasa: 33 },
   etiquetas: ["al horno", "alta en proteína", "una sola bandeja", "batch cooking", "poco especiada"],
   consejo: "Si no encuentras zaatar, mézclalo en casa: 1 cucharada de tomillo seco, 1 cucharadita de sésamo tostado, 1 cucharadita de zumaque (o ralladura de limón) y una pizca de sal.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 180, u: "g", nota: "en remojo 12 h" },
     { n: "costilla de cerdo", q: 350, u: "g", nota: "troceada en tacos" },
@@ -612,10 +612,10 @@ window.RECETAS_SEED.push({
     "Cuece 30-40 minutos más a fuego suave, hasta que la costilla se despegue del hueso y los garbanzos se deshagan al apretarlos. La calabaza debe quedar fundida en el caldo, espesándolo. Mientras, pica la hierbabuena.",
     "Prueba de sal y pimienta y deja reposar 10 minutos fuera del fuego. Sirve con la hierbabuena por encima: su frescor levanta todo el guiso."
   ],
-  nutricion: { kcal: 780, prot: 42, hc: 70, grasa: 36 },
+  nutricion: { kcal: 650, prot: 29, hc: 55, grasa: 32 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados", "poco especiada"],
   consejo: "En olla exprés, dora la costilla, añade garbanzos, agua y aromáticos y cuece 25 minutos a presión alta; luego añade sofrito y calabaza y cuece 8 minutos más. Congela en raciones: aguanta 3 meses.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -769,7 +769,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["cazuela", "horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "judías blancas cocidas", q: 500, u: "g" },
     { n: "confit de pato (muslos)", q: 2, u: "ud", nota: "en conserva, con su grasa" },
@@ -796,10 +796,10 @@ window.RECETAS_SEED.push({
     "Hornea 30-35 minutos sin tapar, hasta que la costra esté dorada y el caldo burbujee por los bordes. Si la costra se forma pronto, rómpela con una cuchara a mitad de cocción y deja que se vuelva a formar: así se hace el cassoulet de verdad.",
     "Deja reposar 10 minutos fuera del horno antes de servir: el caldo se asienta y cada cucharada queda untuosa."
   ],
-  nutricion: { kcal: 820, prot: 50, hc: 65, grasa: 40 },
+  nutricion: { kcal: 600, prot: 36, hc: 34, grasa: 34 },
   etiquetas: ["al horno", "de cuchara", "invierno", "para invitados", "alta en proteína", "poco especiada"],
   consejo: "La grasa de pato sobrante del bote es oro: guárdala en la nevera para asar patatas. El cassoulet recalentado al día siguiente a 160 °C durante 20 minutos está incluso mejor.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -815,7 +815,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias rojas cocidas", q: 250, u: "g" },
     { n: "alubias negras cocidas", q: 200, u: "g" },
@@ -848,11 +848,11 @@ window.RECETAS_SEED.push({
     "Apaga el fuego, añade el chocolate y remueve hasta que se funda: redondea el picante y da profundidad sin saber a dulce. Sala al gusto y añade el zumo de media lima.",
     "Sirve el chili sobre el arroz con una cucharada de yogur, el cilantro y los gajos de lima."
   ],
-  nutricion: { kcal: 710, prot: 32, hc: 110, grasa: 16 },
+  nutricion: { kcal: 635, prot: 27, hc: 84, grasa: 17 },
   etiquetas: ["de cuchara", "picante", "batch cooking", "económica", "invierno", "bajo en colesterol"],
   consejo: "El chili congela perfectamente y gana con un día de reposo. Para una versión con carne, dora 200 g de ternera picada antes del sofrito y reduce las alubias negras a 100 g.",
   alternativa: "En lugar del chipotle en adobo vale 1 cdta extra de pimentón ahumado con un cuarto de cucharadita de cayena; el chili mantiene su fondo ahumado.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -1007,7 +1007,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g" },
     { n: "patata", q: 300, u: "g", nota: "de carne firme" },
@@ -1036,10 +1036,10 @@ window.RECETAS_SEED.push({
     "Añade los garbanzos, la salsa de soja y el azúcar y cocina 8 minutos más destapado, hasta que la patata se deshaga al pincharla y la salsa haya espesado. Prueba y equilibra: salado (soja), dulce (azúcar), ácido (zumo de media lima).",
     "Sirve sobre el arroz con los cacahuetes enteros restantes, el cilantro y los gajos de lima."
   ],
-  nutricion: { kcal: 740, prot: 23, hc: 95, grasa: 30 },
+  nutricion: { kcal: 625, prot: 17, hc: 63, grasa: 34 },
   etiquetas: ["de cuchara", "batch cooking", "picante", "para niños"],
   consejo: "El massaman auténtico lleva cardamomo y anís estrellado: si los tienes, añade 2 vainas de cardamomo abiertas y 1 estrella de anís con la leche de coco y retíralos al servir. Pica más o menos según la pasta de curry que uses.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -1145,7 +1145,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 180, u: "g", nota: "en remojo 12 h" },
     { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
@@ -1172,7 +1172,7 @@ window.RECETAS_SEED.push({
     "Trocea el pollo y el chorizo en rodajas y colócalos en la fuente con los garbanzos y la verdura, riega con el aceite y espolvorea el pimentón.",
     "Sirve primero la sopa de fideos bien caliente y después la fuente de garbanzos, verduras y carnes. Pon un cuenco de sal gorda y aceite en la mesa."
   ],
-  nutricion: { kcal: 760, prot: 50, hc: 85, grasa: 25 },
+  nutricion: { kcal: 695, prot: 42, hc: 70, grasa: 25 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "para niños", "poco especiada"],
   consejo: "En olla exprés tarda 30 minutos a presión alta (todo salvo repollo, patata y fideos) y luego 8 minutos con la verdura. Los garbanzos sobrantes, salteados al día siguiente con el chorizo y un huevo, son la ropa vieja perfecta.",
   contundencia: "contundente",

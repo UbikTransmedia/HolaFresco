@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "fácil",
   equipo: ["olla-express", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias pintas secas", q: 160, u: "g", nota: "en remojo desde la víspera" },
     { n: "oreja de cerdo", q: 300, u: "g", nota: "limpia y chamuscada, pídela así al carnicero" },
@@ -39,11 +39,11 @@ window.RECETAS_SEED.push({
     "Deja que la olla pierda la presión de forma natural (unos 15 minutos): así las alubias no se rompen ni se pelan.",
     "Abre, retira el laurel y la cebolla, prueba de sal y aplasta media docena de alubias contra la pared para engordar el caldo. Hierve 5 minutos destapado y deja reposar 10 minutos antes de servir."
   ],
-  nutricion: { kcal: 813, prot: 50, hc: 52, grasa: 45 },
+  nutricion: { kcal: 640, prot: 41, hc: 33, grasa: 35 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Las alubias pintas no se salan hasta el final: con sal desde el principio la piel se endurece. Y como todos los guisos de legumbre, al día siguiente están todavía mejores.",
   alternativa: "Sin olla exprés: cuece la oreja 1 h en cazuela tapada; luego añade alubias, sofrito y agua y deja 1 h 30 min a fuego suave, asustándolas con un chorrito de agua fría un par de veces.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -59,7 +59,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "lacón", q: 400, u: "g", nota: "desalado 24 h en agua fría, cambiando el agua 2 veces" },
     { n: "chorizo", q: 100, u: "g", nota: "1 chorizo gallego" },
@@ -81,11 +81,11 @@ window.RECETAS_SEED.push({
     "Corta el lacón en lonchas gruesas. Sirve en la misma fuente el lacón, los cachelos, los grelos escurridos y el chorizo en rodajas.",
     "Calienta un poco el aceite fuera del fuego con el pimentón, riega todo por encima y termina con unas escamas de sal gruesa."
   ],
-  nutricion: { kcal: 993, prot: 61, hc: 50, grasa: 61 },
+  nutricion: { kcal: 635, prot: 45, hc: 28, grasa: 36 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "para invitados"],
   consejo: "Guarda el caldo de la cocción: con unas alubias y un puñado de grelos tienes un caldo gallego para el día siguiente. Si no encuentras grelos, usa nabizas o, en su defecto, acelgas.",
   alternativa: "En cazuela normal: cuece el lacón tapado a fuego suave 1 h 15 min en lugar de 30 min a presión, y luego las patatas, el chorizo y los grelos 20 min más.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -101,7 +101,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["olla-express", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo 12 h con agua templada y una pizca de sal" },
     { n: "costilla de cerdo", q: 150, u: "g" },
@@ -127,11 +127,11 @@ window.RECETAS_SEED.push({
     "Abre la olla, prueba los garbanzos (deben estar mantecosos) y sala. Añade la morcilla entera y los rellenos y deja hervir suave, destapado, 10 minutos para que el relleno se empape de caldo.",
     "Sirve primero una taza de caldo bien caliente. Después, los garbanzos con el repollo, las carnes troceadas y el relleno cortado en rodajas."
   ],
-  nutricion: { kcal: 1021, prot: 46, hc: 72, grasa: 61 },
+  nutricion: { kcal: 575, prot: 23, hc: 31, grasa: 38 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Echa siempre los garbanzos con el agua ya hirviendo: si los pones en frío quedan duros y con la piel suelta. Y no pinches la morcilla, que se vacía en el caldo.",
   alternativa: "Si no tienes olla exprés, cuece los garbanzos con las carnes en una cazuela grande tapada, a hervor suave, unas 2 h 30 min, añadiendo agua caliente si baja el nivel.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -276,7 +276,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "botillo", q: 1, u: "ud", nota: "pequeño, de unos 600 g" },
     { n: "patata", q: 600, u: "g", nota: "medianas" },
@@ -295,7 +295,7 @@ window.RECETAS_SEED.push({
     "Prueba el caldo; si está muy salado, retira parte y completa con agua. Echa las patatas y el repollo, cierra y cuenta 6 minutos desde que alcance presión a fuego medio. Despresuriza de forma rápida.",
     "Lleva el botillo entero a la mesa sobre las patatas y el repollo escurridos. Ábrelo allí con un cuchillo, reparte la carne y los huesos, y termina con un hilo de aceite y una pizca de pimentón."
   ],
-  nutricion: { kcal: 856, prot: 36, hc: 61, grasa: 52 },
+  nutricion: { kcal: 715, prot: 36, hc: 35, grasa: 47 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Como lleva costilla y rabo con hueso, avisa a los comensales. El caldo es oro: desgrásalo en frío y úsalo para una sopa de ajo o unas alubias.",
   alternativa: "Sin olla exprés, cuece el botillo en cazuela a fuego muy suave, sin que llegue a borbotear, unas 2 h; las patatas y el repollo, en su caldo, 25 min.",
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
   tiempo: 105,
   dificultad: "media",
   equipo: ["olla-express", "cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "aleta de ternera", q: 500, u: "g", nota: "abierta en libro por el carnicero" },
     { n: "jamón serrano", q: 4, u: "loncha" },
@@ -346,7 +346,7 @@ window.RECETAS_SEED.push({
     "Vuelve a poner la salsa en la olla con las patatas (si hace falta, añade un poco de agua hasta casi cubrirlas). Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida.",
     "Quita el hilo, corta la aleta en rodajas de 1,5 cm con cuchillo bien afilado y sírvela con las patatas y la salsa por encima."
   ],
-  nutricion: { kcal: 916, prot: 73, hc: 52, grasa: 46 },
+  nutricion: { kcal: 665, prot: 50, hc: 32, grasa: 35 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Córtala cuando ya esté templada: los filetes salen enteros y el huevo no se desmorona. Al día siguiente, recalentada en su salsa, está aún más tierna.",
   contundencia: "contundente",
@@ -493,7 +493,7 @@ window.RECETAS_SEED.push({
   tiempo: 160,
   dificultad: "fácil",
   equipo: ["olla-express", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "conejo troceado", q: 800, u: "g" },
     { n: "ajo", q: 6, u: "diente" },
@@ -520,10 +520,10 @@ window.RECETAS_SEED.push({
     "Tira el agua de las papas y vuelve a poner la cazuela a fuego mínimo 3-4 minutos, moviéndola, hasta que la piel se arrugue y se cubra de una capa blanca de sal.",
     "Abre la olla y reduce el salmorejo destapado 5 minutos a fuego medio, hasta que la salsa espese y brille. Sirve el conejo con su salsa y las papas al lado para mojar."
   ],
-  nutricion: { kcal: 736, prot: 57, hc: 55, grasa: 32 },
+  nutricion: { kcal: 575, prot: 49, hc: 32, grasa: 26 },
   etiquetas: ["tradicional", "saciante", "fácil", "picante", "de domingo", "sin verduras"],
   consejo: "En Canarias se hace la víspera para que el adobo penetre bien. Si te gusta más picante, añade una guindilla seca al majado.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "fácil",
   equipo: ["olla-express", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "jabalí para guisar", q: 600, u: "g", nota: "en tacos de 4 cm" },
     { n: "vino tinto", q: 400, u: "ml" },
@@ -611,7 +611,7 @@ window.RECETAS_SEED.push({
     "Saca la carne, retira el laurel y el tomillo y tritura la salsa con las verduras. Devuélvela a la olla con la carne, el chocolate y las patatas.",
     "Cierra y cuenta 5 minutos desde que alcance presión. Despresuriza de forma rápida, prueba de sal y deja reposar 10 minutos antes de servir."
   ],
-  nutricion: { kcal: 784, prot: 70, hc: 54, grasa: 32 },
+  nutricion: { kcal: 570, prot: 48, hc: 35, grasa: 21 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "para invitados", "de domingo", "verduras escondidas", "poco especiada"],
   consejo: "El chocolate no se nota: redondea la salsa y le quita aspereza al vino, un truco de las cocinas de caza. Si no encuentras jabalí, haz la receta igual con carrillada o paleta de cerdo.",
   alternativa: "Sin olla exprés, guisa el jabalí en cazuela tapada a fuego mínimo unas 2 h, con algo más de líquido; las patatas, 20 min en la salsa ya triturada.",
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "fácil",
   equipo: ["olla-express", "sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pollo entero troceado", q: 800, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -700,7 +700,7 @@ window.RECETAS_SEED.push({
     "En una cucharada de ese aceite, tuesta las almendras y 2 dientes de ajo 2 minutos, hasta que estén dorados. Májalos en un mortero con el perejil y un cazo del caldo del guiso.",
     "Abre la olla, añade la picada y las patatas fritas y deja hervir suave, destapado, 5 minutos, para que las patatas se empapen y la salsa espese. Prueba de sal y sirve."
   ],
-  nutricion: { kcal: 835, prot: 57, hc: 46, grasa: 47 },
+  nutricion: { kcal: 655, prot: 31, hc: 21, grasa: 49 },
   etiquetas: ["tradicional", "saciante", "fácil", "económica", "para niños", "de domingo", "sin verduras", "poco especiada"],
   consejo: "En Mallorca se hace sobre todo con pavo en Navidad; con contramuslos de pavo funciona igual (12 minutos de presión). Las patatas se fríen aparte para que no se deshagan.",
   contundencia: "contundente",
@@ -719,7 +719,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 250, u: "g", nota: "en trozos" },
     { n: "costilla de cerdo", q: 200, u: "g", nota: "en trozos pequeños" },
@@ -748,10 +748,10 @@ window.RECETAS_SEED.push({
     "Cierra de nuevo y cuenta 5 minutos desde que alcance presión a fuego medio-bajo. Despresuriza de forma rápida.",
     "Remueve, deja reposar 3 minutos con la olla destapada y sirve enseguida: debe quedar bien caldoso, casi como una sopa espesa."
   ],
-  nutricion: { kcal: 885, prot: 47, hc: 73, grasa: 45 },
+  nutricion: { kcal: 635, prot: 32, hc: 51, grasa: 33 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "poco especiada"],
   consejo: "Se llama arroz sucio por el color que le dan las especias y la sobrasada. Sírvelo nada más hacerlo: el arroz sigue bebiendo caldo y en 10 minutos deja de ser caldoso.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -986,7 +986,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["olla-express", "sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "borraja", q: 700, u: "g" },
     { n: "patata", q: 400, u: "g" },
@@ -1004,10 +1004,10 @@ window.RECETAS_SEED.push({
     "Escurre la borraja y las patatas (guarda el caldo, es excelente para una sopa) y repártelas en los platos.",
     "Riega con el refrito de ajo y jamón y sirve caliente."
   ],
-  nutricion: { kcal: 414, prot: 19, hc: 44, grasa: 18 },
+  nutricion: { kcal: 745, prot: 33, hc: 70, grasa: 37 },
   etiquetas: ["tradicional", "fácil", "ligera", "invierno", "poco especiada"],
   consejo: "En Zaragoza se toma muy sencilla, solo con un chorro de aceite crudo; el jamón la convierte en plato único. Si no encuentras borraja fresca, la hay en conserva: añádela escurrida a las patatas ya cocidas.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

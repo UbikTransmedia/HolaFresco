@@ -69,7 +69,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["plancha", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pescadilla", q: 400, u: "g", nota: "2 piezas de ración, limpias y abiertas en libro, sin espina (pídelo en la pescadería)" },
     { n: "patata", q: 400, u: "g" },
@@ -94,11 +94,11 @@ window.RECETAS_SEED.push({
     "Escurre las patatas y alíñalas en caliente con el resto del aceite de ajo, el zumo de limón, la mitad del perejil y una pizca de sal.",
     "Sirve la pescadilla con la salsa tibia por encima, el resto del perejil, pimienta y los gajos de limón, y las patatas al lado."
   ],
-  nutricion: { kcal: 360, prot: 27, hc: 38, grasa: 10 },
+  nutricion: { kcal: 720, prot: 53, hc: 77, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína", "bajo en colesterol"],
   consejo: "La pescadilla es un pescado blanco muy magro, barato y de carne tierna, de los que mejor se digieren por la noche. El pimiento verde se tolera bien en cantidad (el rojo, solo hasta unos 75 g por persona) y, rehogado hasta quedar blando, aún mejor. En lugar de cebolla en la salsa va la parte verde de la cebolleta, y el aceite de ajo da el aroma sin los fructanos del ajo.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

@@ -152,7 +152,7 @@ window.RECETAS_SEED.push({
   tiempo: 15,
   dificultad: "fácil",
   equipo: ["plancha", "bol"],
-  raciones: 2,
+  raciones: 5,
   ingredientes: [
     { n: "chorizo", q: 240, u: "g", nota: "fresco, criollo o parrillero (2 piezas)" },
     { n: "pan", q: 2, u: "ud", nota: "barritas o trozos de baguette de 20 cm" },
@@ -176,10 +176,10 @@ window.RECETAS_SEED.push({
     "Abre los panes y tuéstalos por dentro 1 minuto sobre la plancha, en la grasa que han soltado los chorizos: así absorben su sabor y no se empapan después.",
     "Rellena cada pan con un chorizo y una buena cucharada de chimichurri, y sirve con la ensalada criolla al lado."
   ],
-  nutricion: { kcal: 770, prot: 27, hc: 50, grasa: 51 },
+  nutricion: { kcal: 580, prot: 22, hc: 55, grasa: 30 },
   etiquetas: ["rápida", "15 minutos", "a la plancha", "para compartir"],
   consejo: "El chimichurri mejora a las pocas horas y se conserva una semana en un tarro en la nevera cubierto de aceite. Es una salsa comodín: sirve para cualquier carne a la plancha, pollo, verduras asadas o para aliñar patatas cocidas.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica",
   tupper: false
 });

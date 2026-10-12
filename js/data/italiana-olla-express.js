@@ -287,7 +287,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "elaborada",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "rabo de ternera", q: 900, u: "g", nota: "cortado en trozos por las vértebras" },
     { n: "guanciale", q: 50, u: "g", nota: "o panceta" },
@@ -316,7 +316,7 @@ window.RECETAS_SEED.push({
     "Añade a la salsa el apio en bastones, las pasas escurridas, los piñones y el cacao.",
     "Cuece destapado a fuego suave 15 min, moviendo la olla de vez en cuando, hasta que el apio esté tierno pero entero y la salsa espesa y oscura, que napee la carne. Prueba de sal y sirve con pan para la salsa."
   ],
-  nutricion: { kcal: 830, prot: 47, hc: 32, grasa: 57 },
+  nutricion: { kcal: 705, prot: 34, hc: 27, grasa: 49 },
   etiquetas: ["tradicional", "invierno", "para invitados", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "Los vaccinari eran los matarifes del barrio romano del Testaccio, a los que se pagaba en parte con el «quinto quarto»: la casquería y el rabo. El cacao y las pasas son el toque agridulce de la receta antigua; puedes prescindir del cacao, pero no del apio. Hazlo la víspera: en frío la grasa sube y se retira entera, y el guiso gana sabor. Con la salsa que sobre se aliñan unos rigatoni, como hacen en Roma.",
   tupper: true,
@@ -753,7 +753,7 @@ window.RECETAS_SEED.push({
   tiempo: 110,
   dificultad: "elaborada",
   equipo: ["olla-express", "airfryer", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "panceta fresca", q: 350, u: "g", nota: "en una pieza rectangular, con piel y sin hueso" },
     { n: "semillas de hinojo", q: 2, u: "cdta" },
@@ -778,7 +778,7 @@ window.RECETAS_SEED.push({
     "Mientras, cuela el líquido de la olla y retira con una cuchara casi toda la grasa de arriba. En la sartén calienta el aceite con el ajo restante laminado y la otra rama de romero 1 min, añade las alubias y 100 ml del jugo desgrasado y cuece 5 min, hasta que espese. Ajusta de sal.",
     "Deja reposar la porchetta 5 min, quita el cordel y córtala en rodajas de 1 cm con un cuchillo de sierra. Sírvela sobre las alubias, con la rúcula aliñada con el zumo del limón."
   ],
-  nutricion: { kcal: 780, prot: 39, hc: 32, grasa: 55 },
+  nutricion: { kcal: 665, prot: 27, hc: 24, grasa: 49 },
   etiquetas: ["creativa", "fin de semana", "para invitados", "sin gluten", "sin lácteos", "poco especiada"],
   consejo: "La porchetta auténtica es un cerdo entero deshuesado y asado a la leña, típico de Ariccia, en los Castelli Romani; esta versión conserva su aliño de hinojo, ajo, romero y pimienta. Las sobras, frías y en lonchas finas, hacen el mejor bocadillo con pan crujiente y rúcula. Para recuperar el crujiente, 4 min de airfryer a 200 °C.",
   tupper: true,
@@ -798,7 +798,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["olla-express", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 700, u: "g", nota: "de lomo o de panceta, en trozos de 2-3 huesos" },
     { n: "vinagre balsámico", q: 80, u: "ml", nota: "de Módena" },
@@ -825,7 +825,7 @@ window.RECETAS_SEED.push({
     "Abre la olla: la carne debe separarse del hueso. Saca las costillas, cuela el líquido y desgrásalo con una cuchara. Ponlo en la sartén con el resto del balsámico y la miel y redúcelo a fuego fuerte 6-8 min, hasta que esté espeso y brillante como un jarabe.",
     "Devuelve las costillas a la sartén y dales vueltas a fuego medio 2-3 min, hasta que queden lacadas y pegajosas. Sírvelas sobre el puré, con la rúcula al lado y pimienta recién molida."
   ],
-  nutricion: { kcal: 830, prot: 46, hc: 65, grasa: 42 },
+  nutricion: { kcal: 730, prot: 35, hc: 42, grasa: 47 },
   etiquetas: ["creativa", "alta en proteína", "sin gluten", "fin de semana", "para invitados", "poco especiada"],
   consejo: "En Módena las costine se hacen al horno o en cazuela y el balsámico se añade casi al final para que no pierda su aroma: por eso aquí la mayor parte va a la reducción y no a la presión. Usa un balsámico de Módena corriente para cocinar y guarda el tradicional, denso y caro, para unas gotas al servir. Si prefieres terminarlas en el horno, píntalas con la reducción y gratínalas 5-6 min a 230 °C. Aguantan 3 días en la nevera con su salsa.",
   tupper: true,

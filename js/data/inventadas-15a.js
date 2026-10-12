@@ -834,7 +834,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "sardinas frescas", q: 600, u: "g", nota: "unas 10, limpias y abiertas en libro" },
     { n: "patata", q: 500, u: "g" },
@@ -857,10 +857,10 @@ window.RECETAS_SEED.push({
     "Hornea 8-10 minutos, hasta que las migas estén doradas y crujientes y las sardinas blancas y jugosas.",
     "Exprime el limón por encima y sirve enseguida."
   ],
-  nutricion: { kcal: 730, prot: 40, hc: 62, grasa: 36 },
+  nutricion: { kcal: 605, prot: 42, hc: 42, grasa: 29 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "verano", "alta en proteína", "poco especiada"],
   consejo: "Al abrirlas en libro y hornearlas, las sardinas no huelen apenas y se comen sin espinas. Las sobras, desmigadas con un poco de tomate, hacen unas tostas estupendas.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

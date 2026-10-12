@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "bacalao desalado (lomos)", q: 300, u: "g", nota: "2 lomos gruesos" },
     { n: "aceite de oliva", q: 250, u: "ml", nota: "para confitar; se reutiliza" },
@@ -798,11 +798,11 @@ window.RECETAS_SEED.push({
     "Saca el bacalao con una espumadera y quítale la piel con cuidado.",
     "Sirve una base de salsa de piquillos, el bacalao encima y unos puntos de aceite de perejil alrededor."
   ],
-  nutricion: { kcal: 410, prot: 30, hc: 8, grasa: 28 },
+  nutricion: { kcal: 610, prot: 54, hc: 12, grasa: 38 },
   etiquetas: ["para invitados", "ligera", "sin gluten", "sin lactosa", "elegante", "tradicional", "keto", "verduras escondidas"],
   consejo: "Las dos salsas se pueden hacer hasta 2 días antes; el confitado es lo último y no necesita atención, solo vigilar la temperatura. El aceite del confitado, colado, se guarda en la nevera para cocinar pescado o hacer pil pil. Confitar a baja temperatura sirve también para salmón, atún o ajos.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });
 

@@ -204,7 +204,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "carpa (filetes)", q: 300, u: "g", nota: "con piel; si no la encuentras, lomos gruesos de merluza o de bacalao fresco" },
     { n: "harina de trigo", q: 30, u: "g" },
@@ -232,7 +232,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén honda a 170 °C (un dado de pan debe dorarse en unos 40 segundos). Fríe la carpa 3-4 minutos por cada lado, hasta que el rebozado esté dorado intenso y el pescado opaco por dentro. Escúrrela sobre una rejilla o papel de cocina.",
     "Sirve la carpa recién frita con la ensalada fría y cuñas de limón."
   ],
-  nutricion: { kcal: 860, prot: 42, hc: 68, grasa: 47 },
+  nutricion: { kcal: 780, prot: 29, hc: 48, grasa: 51 },
   etiquetas: ["tradicional", "frito", "navidad", "invierno", "para invitados", "poco especiada"],
   consejo: "Es la cena de Nochebuena en Chequia y Eslovaquia (allí, vyprážaný kapor): días antes se venden carpas vivas en la calle y muchas familias las guardan en la bañera hasta el día 24; se dice que una escama en la cartera trae dinero todo el año. La ensalada es imprescindible y gana de un día para otro; hay quien le añade guisantes o manzana, y aguanta 2 días en la nevera. La carpa tiene un sabor suave de río; con merluza o bacalao fresco el plato queda igual de bueno.",
   tupper: false,

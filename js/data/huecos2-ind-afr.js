@@ -406,7 +406,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "media",
   equipo: ["wok", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "tofu firme", q: 400, u: "g" },
     { n: "maicena", q: 3, u: "cda" },
@@ -435,11 +435,11 @@ window.RECETAS_SEED.push({
     "Añade el resto de la salsa de soja, el vinagre, la salsa de chile, el kétchup, el azúcar y la cucharada de maicena restante disuelta en 80 ml de agua fría. Remueve 1 minuto, hasta que la salsa espese y brille.",
     "Apaga el fuego, incorpora el tofu y la parte verde de la cebolleta y mezcla con dos o tres vueltas rápidas para que el tofu se cubra sin perder el crujiente. Sirve de inmediato con el arroz."
   ],
-  nutricion: { kcal: 760, prot: 36, hc: 82, grasa: 32 },
+  nutricion: { kcal: 610, prot: 27, hc: 58, grasa: 30 },
   etiquetas: ["creativa", "picante", "alta en proteína"],
   consejo: "La cocina indochina nació en el barrio chino de Tangra, en Calcuta, de la mano de inmigrantes hakka, y su chilli paneer o chilli chicken se come en toda la India. La clave es el orden: tofu frito aparte, verduras a fuego máximo apenas 2 minutos y mezclar fuera del fuego. Si lo quieres con salsa (versión «gravy»), duplica el agua y la maicena y sírvelo con fideos.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

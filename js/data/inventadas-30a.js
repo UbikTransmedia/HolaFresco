@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (pechuga)", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Incorpora el pollo deshilachado y el parmesano, remueve 3 minutos y salpimienta. Debe quedar cremoso y de un amarillo intenso.",
     "Sirve el ají sobre rodajas de patata, con el arroz al lado, el huevo duro en cuartos y las aceitunas por encima."
   ],
-  nutricion: { kcal: 930, prot: 56, hc: 86, grasa: 40 },
+  nutricion: { kcal: 670, prot: 36, hc: 58, grasa: 33 },
   etiquetas: ["tradicional", "saciante", "fácil", "de domingo", "para invitados"],
   consejo: "Si no encuentras pasta de ají amarillo, mezcla 1 cucharada de pimentón dulce, media de cúrcuma y una guindilla: no es lo mismo, pero se acerca. Como las abuelas limeñas, usa leche evaporada para que la salsa quede más sedosa.",
   contundencia: "contundente",
@@ -111,7 +111,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "harina de trigo", q: 200, u: "g" },
     { n: "manteca de cerdo", q: 50, u: "g", nota: "a temperatura ambiente" },
@@ -140,7 +140,7 @@ window.RECETAS_SEED.push({
     "Coloca las empanadas en la bandeja con papel, píntalas con el huevo batido y hornea 15-18 minutos, hasta que estén bien doradas.",
     "Mientras, prepara la ensalada criolla con la lechuga y el tomate en gajos, aliñada con sal, aceite y vinagre. Sirve las empanadas recién salidas, 4 por persona."
   ],
-  nutricion: { kcal: 1040, prot: 40, hc: 86, grasa: 60 },
+  nutricion: { kcal: 710, prot: 30, hc: 62, grasa: 37 },
   etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Prepara el relleno la víspera: frío de nevera la grasa se solidifica y las empanadas quedan jugosísimas por dentro. Puedes congelarlas crudas y hornearlas directamente, sumando 5 minutos.",
   alternativa: "Si vas justo de tiempo, salta la masa casera y usa 8 obleas grandes de empanadilla de la sección de refrigerados: quedan algo más finas y hojaldradas, pero el relleno manda. Hornéalas igual, 15-18 min a 210 °C.",
@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "falda de ternera", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -188,7 +188,7 @@ window.RECETAS_SEED.push({
     "Pela el plátano, córtalo en tajadas al bies de 1 cm y fríelo en la sartén con el aceite restante 3 minutos por lado a fuego medio, hasta que esté caramelizado y tierno.",
     "Sirve en cada plato arroz, carne mechada, caraotas con el queso rallado por encima y las tajadas de plátano."
   ],
-  nutricion: { kcal: 1050, prot: 46, hc: 115, grasa: 45 },
+  nutricion: { kcal: 720, prot: 36, hc: 79, grasa: 27 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "La carne mechada y las caraotas ganan muchísimo de un día para otro: haz el doble y congela en raciones. Para que el plátano caramelice de verdad, tiene que estar casi negro; si está amarillo, quedará seco.",
   contundencia: "contundente",
@@ -795,7 +795,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero para guisar", q: 350, u: "g", nota: "cuello o paletilla, con hueso" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -828,7 +828,7 @@ window.RECETAS_SEED.push({
     "Retira el manojo de hierbas y rectifica de sal el caldo, que debe ser abundante y sabroso.",
     "Sirve el cuscús en una fuente formando una montaña con un hueco en el centro; pon la carne en el hueco, las verduras alrededor y riega con caldo. Lleva más caldo en un cuenco para que cada uno se sirva."
   ],
-  nutricion: { kcal: 1020, prot: 45, hc: 91, grasa: 53 },
+  nutricion: { kcal: 685, prot: 40, hc: 70, grasa: 25 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "invierno", "de cuchara", "poco especiada"],
   consejo: "Coloca las verduras en el caldo en orden de dureza, en trozos grandes, para que no se deshagan. El buen cuscús se riega en la mesa: mejor que sobre caldo que falte.",
   contundencia: "contundente",
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
   tiempo: 110,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (muslos deshuesados)", q: 300, u: "g", nota: "o contramuslos" },
     { n: "nueces", q: 100, u: "g" },
@@ -916,7 +916,7 @@ window.RECETAS_SEED.push({
     "Prueba la salsa: debe ser agridulce, oscura y brillante. Equilibra con el azúcar si está muy ácida o con más melaza si está muy dulce, y ajusta de sal.",
     "Sirve el fesenjan sobre el arroz y esparce los granos de granada por encima."
   ],
-  nutricion: { kcal: 1030, prot: 40, hc: 82, grasa: 60 },
+  nutricion: { kcal: 655, prot: 28, hc: 53, grasa: 37 },
   etiquetas: ["tradicional", "saciante", "fácil", "de domingo", "para invitados", "invierno", "poco especiada"],
   consejo: "La salsa mejora cuanto más tiempo cueza la nuez: las abuelas persas la dejan horas hasta que sale un aceite oscuro por encima. Es de esos guisos que están aún mejor recalentados al día siguiente.",
   alternativa: "Si no encuentras melaza de granada, reduce 250 ml de zumo de granada (de brik) con 1 cda de zumo de limón a fuego medio unos 15 min, hasta tener 3 cda de jarabe espeso: el fesenjan queda igual de agridulce.",

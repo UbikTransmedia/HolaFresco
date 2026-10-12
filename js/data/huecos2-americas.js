@@ -198,7 +198,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén", "horno"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
     { n: "palmitos en conserva", q: 220, u: "g", nota: "escurridos" },
@@ -223,11 +223,11 @@ window.RECETAS_SEED.push({
     "Vierte en la fuente, espolvorea el resto del parmesano y hornea 15-18 minutos, hasta que esté inflada, dorada y al pincharla en el centro salga limpio.",
     "Deja reposar 3 minutos y corta en cuadrados. Se toma caliente o templada."
   ],
-  nutricion: { kcal: 345, prot: 22, hc: 10, grasa: 24 },
+  nutricion: { kcal: 725, prot: 47, hc: 23, grasa: 48 },
   etiquetas: ["tradicional", "al horno", "sin gluten", "keto", "poco especiada", "ligera", "ideal para llevar"],
   consejo: "En Brasil el cheiro-verde es la pareja de perejil y cebolleta que remata casi todos los guisos, y la fritada (o torta de palmito) es plato de cena ligera y de fiambrera. Se baja un poco al enfriarse, pero sigue tierna: aguanta 2 días en la nevera y está muy rica a temperatura ambiente con una ensalada de tomate.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

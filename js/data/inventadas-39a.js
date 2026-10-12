@@ -371,7 +371,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
   coccion: ["una-olla"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "brócoli", q: 350, u: "g", nota: "arbolitos y tallo pelado" },
     { n: "judías blancas cocidas", q: 200, u: "g", nota: "escurridas" },
@@ -393,11 +393,11 @@ window.RECETAS_SEED.push({
     "Tritura con la batidora hasta obtener una crema lisa. Sazona con sal, pimienta y nuez moscada; si la ves espesa, añade un poco de agua caliente.",
     "Sirve o reparte en los tuppers con un hilo del aceite restante; las semillas de calabaza van aparte."
   ],
-  nutricion: { kcal: 350, prot: 18, hc: 38, grasa: 14 },
+  nutricion: { kcal: 750, prot: 31, hc: 84, grasa: 30 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "batch cooking", "fácil", "rápida", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Enfríala rápido (en un bol dentro de agua fría) para que conserve el color verde. Aguanta 3 días en un tupper hermético bien cerrado. Recalienta 3 minutos a 800 W removiendo a mitad, y añade las semillas de calabaza al final para que crujan. Para más proteína, acompáñala de garbanzos tostados o de una tostada con hummus.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -727,7 +727,7 @@ window.RECETAS_SEED.push({
   dificultad: "media",
   equipo: ["microondas", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "calabacín", q: 1, u: "ud", nota: "grande, rallado" },
     { n: "espinacas frescas", q: 100, u: "g" },
@@ -750,11 +750,11 @@ window.RECETAS_SEED.push({
     "Unta un molde de vidrio o silicona apto para microondas (de unos 18 cm) con el aceite, vierte la mezcla y cocina 6-7 minutos a 600 W, hasta que el centro esté cuajado y no tiemble al mover el molde. Mientras, parte los tomates cherry.",
     "Deja reposar 5 minutos, corta en porciones y acompaña con los tomates cherry y la albahaca."
   ],
-  nutricion: { kcal: 340, prot: 24, hc: 16, grasa: 20 },
+  nutricion: { kcal: 725, prot: 54, hc: 23, grasa: 45 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "ligera", "vegetariana", "poco especiada"],
   consejo: "Se come frío o templado y aguanta 3 días en la nevera. Lleva los tomates cherry enteros en el tupper y pártelos al comer. Si lo templas, 40 segundos a 600 W bastan para que no se ponga gomoso. Acompáñalo con una rebanada de pan integral o un puñado de garbanzos aliñados para hacerlo más completo.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

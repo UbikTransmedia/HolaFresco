@@ -555,7 +555,7 @@ window.RECETAS_SEED.push({
   tiempo: 105,
   dificultad: "elaborada",
   equipo: ["sartén", "cazuela", "horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "macarrones", q: 140, u: "g", nota: "mejor los largos tipo pastitsio o bucatini" },
     { n: "champiñones", q: 350, u: "g" },
@@ -587,11 +587,11 @@ window.RECETAS_SEED.push({
     "Hornea 35–40 minutos, hasta que la superficie esté hinchada y dorada con manchas tostadas.",
     "Déjalo reposar al menos 20 minutos antes de cortarlo: caliente, la bechamel se desparrama; reposado, sale en porciones limpias."
   ],
-  nutricion: { kcal: 910, prot: 35, hc: 87, grasa: 46 },
+  nutricion: { kcal: 620, prot: 24, hc: 56, grasa: 32 },
   etiquetas: ["creativa", "al horno", "invierno", "batch cooking", "para niños", "poco especiada"],
   consejo: "El pastitsio clásico lleva carne picada de ternera o cordero; aquí los champiñones bien dorados y las nueces dan la textura y la canela y el clavo, el aroma griego. Puedes montarlo la víspera y hornearlo al día siguiente (añade 10 minutos de horno). Aguanta 3 días en la nevera y se congela en porciones. Si alguien no toma frutos secos, cambia las nueces por 100 g de lentejas cocidas.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

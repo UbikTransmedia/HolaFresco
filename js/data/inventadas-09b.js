@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "elaborada",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "harina de trigo", q: 200, u: "g", nota: "más un poco para estirar" },
     { n: "huevo", q: 2, u: "ud" },
@@ -45,10 +45,10 @@ window.RECETAS_SEED.push({
     "Cuece las pappardelle en el agua hirviendo 2-3 minutos: suben a la superficie cuando están listas. Reserva un vaso del agua de cocción.",
     "Mezcla la pasta escurrida con el ragú en la cazuela a fuego suave 1 minuto, con un chorrito de agua de cocción para que la salsa se abrace a las cintas. Sirve con el parmesano y pimienta recién molida."
   ],
-  nutricion: { kcal: 960, prot: 66, hc: 91, grasa: 37 },
+  nutricion: { kcal: 535, prot: 35, hc: 48, grasa: 21 },
   etiquetas: ["pasta fresca", "fin de semana", "batch cooking", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ragú mejora de un día para otro: hazlo doble y congela la mitad. La pasta fresca sin cocer también se congela extendida sobre una bandeja y luego en bolsa.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -379,7 +379,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "horno", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "macarrones", q: 150, u: "g" },
     { n: "boniato", q: 300, u: "g", nota: "pelado, en dados" },
@@ -405,10 +405,10 @@ window.RECETAS_SEED.push({
     "Mezcla el pan rallado con el resto del queso y la mantequilla fundida y repártelo por encima. Gratina 6-8 minutos hasta que la costra esté dorada y burbujee.",
     "Deja reposar 3 minutos y sirve."
   ],
-  nutricion: { kcal: 850, prot: 56, hc: 95, grasa: 27 },
+  nutricion: { kcal: 625, prot: 35, hc: 59, grasa: 26 },
   etiquetas: ["para niños", "al horno", "alta en proteína", "batch cooking", "económica", "verduras escondidas", "poco especiada"],
   consejo: "El puré de boniato da color, cremosidad y dulzor con la mitad de queso que un mac and cheese clásico. Si sobra, se recalienta muy bien con un chorrito de leche.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -558,7 +558,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["horno", "cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "polenta", q: 150, u: "g" },
     { n: "ternera picada", q: 250, u: "g" },
@@ -587,10 +587,10 @@ window.RECETAS_SEED.push({
     "Reparte la mozzarella y el resto del parmesano por encima y hornea 20-25 minutos hasta que la superficie esté dorada y los bordes burbujeen.",
     "Deja reposar 10 minutos antes de cortar en porciones: la polenta cuaja al enfriar un poco y las capas se sostienen."
   ],
-  nutricion: { kcal: 810, prot: 50, hc: 79, grasa: 33 },
+  nutricion: { kcal: 615, prot: 35, hc: 59, grasa: 25 },
   etiquetas: ["al horno", "batch cooking", "invierno", "sin gluten", "para niños", "poco especiada"],
   consejo: "Montado el día anterior y guardado en la nevera, el pastel se corta en porciones perfectas; hornéalo 30 minutos a 190 °C desde frío.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -1081,7 +1081,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "elaborada",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "carrillada de cerdo", q: 400, u: "g", nota: "limpia, 2 piezas" },
     { n: "arroz arborio", q: 150, u: "g" },
@@ -1108,10 +1108,10 @@ window.RECETAS_SEED.push({
     "Fuera del fuego, manteca el risotto con la mantequilla y el parmesano removiendo con energía. Rectifica de sal y pimienta y tapa 2 minutos.",
     "Sirve el risotto en platos hondos con la carrillada entera o partida en dos encima, napada con el resto de su salsa reducida."
   ],
-  nutricion: { kcal: 840, prot: 50, hc: 73, grasa: 39 },
+  nutricion: { kcal: 520, prot: 28, hc: 41, grasa: 26 },
   etiquetas: ["fin de semana", "festivo", "invierno", "de cuchara", "alta en proteína", "poco especiada"],
   consejo: "La carrillada puedes estofarla el día anterior: al día siguiente solo tienes el risotto por delante (25 minutos) y la carne estará aún más melosa.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

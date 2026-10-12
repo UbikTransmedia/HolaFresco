@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["plancha", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 600, u: "g", nota: "cortadas en tiras finas, tipo churrasco" },
     { n: "ajo", q: 2, u: "diente" },
@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
     "Ásalas en tandas sin amontonarlas 4-5 minutos por cada lado, hasta que la grasa esté tostada y crujiente y la carne bien hecha.",
     "Sírvelas en una fuente, pintadas con el aceite de ajo y perejil, con las patatas y la ensalada."
   ],
-  nutricion: { kcal: 855, prot: 40, hc: 50, grasa: 55 },
+  nutricion: { kcal: 750, prot: 26, hc: 22, grasa: 62 },
   etiquetas: ["tradicional", "saciante", "económica", "fácil", "verano", "poco especiada"],
   consejo: "Pide al carnicero la costilla cortada en tiras finas a lo ancho (con la sierra). Al churrasco no le pongas prisa: tiene que quedar tostadito para que la grasa se vuelva crujiente.",
   contundencia: "contundente",
@@ -144,7 +144,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera (filete fino)", q: 2, u: "ud", nota: "grandes, unos 300 g en total" },
     { n: "huevo", q: 1, u: "ud" },
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
     "Coloca las milanesas en una bandeja, cubre cada una con una loncha de jamón, unas cucharadas de tomate y la mozzarella.",
     "Gratina 4-5 minutos, hasta que el queso esté fundido y con puntos dorados. Sirve enseguida con el puré."
   ],
-  nutricion: { kcal: 800, prot: 50, hc: 60, grasa: 40 },
+  nutricion: { kcal: 715, prot: 38, hc: 37, grasa: 46 },
   etiquetas: ["tradicional", "saciante", "para niños", "fácil", "de domingo", "sin verduras", "poco especiada"],
   consejo: "Pide los filetes de nalga o cadera bien finos. Si quieres adelantar, deja las milanesas empanadas en la nevera separadas con papel: aguantan un día perfectas.",
   contundencia: "contundente",
@@ -624,7 +624,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "chorizo", q: 200, u: "g", nota: "fresco o semicurado, tipo asturiano" },
     { n: "sidra", q: 300, u: "ml", nota: "natural, sin gas" },
@@ -641,10 +641,10 @@ window.RECETAS_SEED.push({
     "Prueba el jugo: si está ácido o muy líquido, déjalo reducir unos minutos más hasta que quede ligeramente meloso.",
     "Sirve los chorizos en su cazuela con el jugo, las patatas al lado y el pan para mojar."
   ],
-  nutricion: { kcal: 770, prot: 30, hc: 50, grasa: 50 },
+  nutricion: { kcal: 600, prot: 20, hc: 29, grasa: 44 },
   etiquetas: ["tradicional", "rápida", "fácil", "saciante", "invierno", "para compartir", "sin verduras", "poco especiada"],
   consejo: "Usa sidra natural asturiana, no la dulce con gas: su acidez es la que equilibra la grasa del chorizo. Si te sobra, unos huevos fritos al día siguiente con el jugo están de escándalo.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (pechuga)", q: 300, u: "g", nota: "en 4 filetes" },
     { n: "caldo de pollo", q: 500, u: "ml" },
@@ -726,7 +726,7 @@ window.RECETAS_SEED.push({
     "Fríelos en abundante aceite caliente (175 °C) 2 minutos por cada lado, hasta que estén dorados. Escúrrelos sobre papel.",
     "Sirve con el tomate aliñado con aceite y sal."
   ],
-  nutricion: { kcal: 670, prot: 46, hc: 45, grasa: 34 },
+  nutricion: { kcal: 690, prot: 32, hc: 32, grasa: 48 },
   etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Prepáralas hasta el paso 4 la víspera: con la bechamel bien fría se empanan sin romperse. Un consejo de abuela: añade a la bechamel una cucharada de caldo extra para que quede aún más sabrosa.",
   contundencia: "contundente",
@@ -827,7 +827,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "fácil",
   equipo: ["horno", "sartén", "bol", "batidora"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pollo entero", q: 1, u: "ud", nota: "pequeño, unos 1,2 kg, abierto en dos mitades" },
     { n: "ajo", q: 4, u: "diente" },
@@ -853,7 +853,7 @@ window.RECETAS_SEED.push({
     "Fríe las patatas en abundante aceite: 8 minutos a fuego medio y 3-4 minutos a fuego fuerte. Sala.",
     "Sirve medio pollo por persona con las papas fritas y la salsa de ají al lado."
   ],
-  nutricion: { kcal: 865, prot: 60, hc: 55, grasa: 45 },
+  nutricion: { kcal: 820, prot: 39, hc: 18, grasa: 65 },
   etiquetas: ["tradicional", "al horno", "saciante", "económica", "fácil", "de domingo"],
   consejo: "Es el pollo del domingo de Lima. Si no encuentras pasta de ají amarillo, mezcla la mayonesa con mostaza, ajo y un poco de chile. Añade una ensalada de lechuga y tomate para acompañar.",
   contundencia: "contundente",
@@ -915,7 +915,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "salchichas frescas", q: 6, u: "ud", nota: "de cerdo, unos 300 g" },
     { n: "patata", q: 500, u: "g" },
@@ -939,10 +939,10 @@ window.RECETAS_SEED.push({
     "Escurre los guisantes aparte. Aplasta las patatas con la leche caliente y el resto de la mantequilla hasta tener un puré cremoso. Salpimienta.",
     "Sirve una montaña de puré con las salchichas encima, la salsa de cebolla por encima y los guisantes al lado."
   ],
-  nutricion: { kcal: 770, prot: 30, hc: 55, grasa: 48 },
+  nutricion: { kcal: 620, prot: 29, hc: 30, grasa: 42 },
   etiquetas: ["tradicional", "saciante", "económica", "fácil", "invierno", "para niños", "poco especiada"],
   consejo: "Haz las salchichas a fuego medio y con paciencia: a fuego fuerte revientan y quedan crudas por dentro. Un chorrito de cerveza negra en la salsa de cebolla es lo que le ponen en los pubs.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

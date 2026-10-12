@@ -59,7 +59,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["sartén", "microondas", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
     { n: "puerro", q: 1, u: "ud", nota: "grande, en rodajas finas" },
@@ -81,11 +81,11 @@ window.RECETAS_SEED.push({
     "Cocina 4 minutos a 600 W, deja reposar 1 minuto y cocina 2-3 minutos más, hasta que el centro esté cuajado y no tiemble.",
     "Deja reposar 5 minutos antes de cortar en porciones; acompaña con los canónigos."
   ],
-  nutricion: { kcal: 360, prot: 24, hc: 12, grasa: 24 },
+  nutricion: { kcal: 660, prot: 50, hc: 17, grasa: 41 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "microondas", "ligera", "vegetariana", "fácil", "rápida", "keto", "poco especiada"],
   consejo: "Está buenísima fría y aguanta 3 días en la nevera. Si la prefieres templada, 30-40 segundos a 600 W. Lleva los canónigos aparte o encima sin aliñar y aliña al comer. Para un plato más saciante, añade un puñado de garbanzos cocidos o una pieza de fruta y pan integral.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -237,7 +237,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
   coccion: ["una-olla"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "champiñones", q: 350, u: "g", nota: "laminados" },
     { n: "judías blancas cocidas", q: 200, u: "g", nota: "escurridas" },
@@ -258,11 +258,11 @@ window.RECETAS_SEED.push({
     "Añade la bebida vegetal y tritura hasta obtener una crema lisa y sedosa. Salpimienta.",
     "Sirve con los champiñones reservados, el perejil picado y un hilo del aceite restante."
   ],
-  nutricion: { kcal: 308, prot: 16, hc: 34, grasa: 12 },
+  nutricion: { kcal: 600, prot: 29, hc: 56, grasa: 24 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "ligera", "rápida", "batch cooking", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera en un tupper hermético y se congela bien. Recalienta 3 minutos a 800 W tapada, removiendo a mitad, y añade un chorrito de agua si ha espesado. Lleva los champiñones tostados aparte. Para hacerla plato único, acompáñala con unos garbanzos tostados o una tostada de pan integral con hummus.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -457,7 +457,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "sartén", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "berenjena", q: 2, u: "ud", nota: "medianas" },
     { n: "bulgur", q: 70, u: "g" },
@@ -480,11 +480,11 @@ window.RECETAS_SEED.push({
     "En una sartén con el aceite sofríe la cebolla y el ajo picados 5 minutos. Añade la pulpa, el tomate, el comino y el pimentón y cocina 5 minutos, hasta que el tomate se deshaga. Mezcla con el bulgur y las hierbas picadas.",
     "Rellena las berenjenas, cubre con el requesón desmigado y calienta 2 minutos a 800 W, hasta que el queso se temple."
   ],
-  nutricion: { kcal: 414, prot: 20, hc: 52, grasa: 14 },
+  nutricion: { kcal: 730, prot: 37, hc: 88, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "microondas", "ligera", "vegetariana", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Aguantan 3 días en la nevera en un tupper rectangular, una junto a otra. Recalienta tapadas 2 minutos a 800 W. Si prefieres el requesón fresco, llévalo aparte y añádelo después de calentar con unas hojas de menta. Puedes cambiarlo por queso feta.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

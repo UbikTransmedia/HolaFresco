@@ -507,7 +507,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "dorada (lomos)", q: 300, u: "g", nota: "con piel" },
     { n: "lima", q: 2, u: "ud" },
@@ -531,10 +531,10 @@ window.RECETAS_SEED.push({
     "Cuece al vapor tapado 6–8 minutos, hasta que la carne esté blanca y se separe en láminas al presionar. Mientras, corta la cebolleta en aros y deshoja el cilantro.",
     "Sirve el pescado sobre las verduras, riega todo con el aliño, unas gotas de aceite de sésamo, la cebolleta y el cilantro."
   ],
-  nutricion: { kcal: 300, prot: 36, hc: 16, grasa: 10 },
+  nutricion: { kcal: 510, prot: 66, hc: 33, grasa: 12 },
   etiquetas: ["ligera", "picante", "alta en proteína", "sin gluten", "bajo en colesterol"],
   consejo: "Si quieres un plato más completo, acompáñalo de arroz jazmín o de fideos de arroz como guarnición aparte.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -816,7 +816,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "sardinas frescas", q: 500, u: "g", nota: "en filetes sin espina, unos 300 g limpios" },
     { n: "pan rallado", q: 30, u: "g" },
@@ -845,10 +845,10 @@ window.RECETAS_SEED.push({
     "Mientras, lleva el caldo a ebullición con el resto del aceite y una pizca de sal, viértelo sobre el cuscús, tapa 5 minutos y suéltalo con un tenedor. Mezcla con cilantro picado.",
     "Termina el guiso con un chorrito de limón y más cilantro, y sírvelo sobre el cuscús."
   ],
-  nutricion: { kcal: 750, prot: 45, hc: 68, grasa: 33 },
+  nutricion: { kcal: 605, prot: 42, hc: 50, grasa: 25 },
   etiquetas: ["económica", "batch cooking", "omega-3"],
   consejo: "Si te dan pereza las sardinas frescas, puedes hacerlo con caballa fresca o mezclar sardina con merluza para un sabor más suave.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

@@ -932,7 +932,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "langostinos", q: 400, u: "g", nota: "crudos y enteros, unos 200 g pelados" },
     { n: "patata", q: 400, u: "g" },
@@ -957,11 +957,11 @@ window.RECETAS_SEED.push({
     "Seca los langostinos y saltéalos en una sartén con el aceite de ajo a fuego fuerte 1 minuto por lado, hasta que estén rosados y curvados en forma de C. Sálalos y añade la ralladura y unas gotas de zumo del limón.",
     "Sirve la crema caliente con los langostinos encima, el cebollino picado, una pizca de pimienta y unas gotas de aceite de romero."
   ],
-  nutricion: { kcal: 355, prot: 25, hc: 37, grasa: 11 },
+  nutricion: { kcal: 665, prot: 49, hc: 66, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "poco especiada", "ligera"],
   consejo: "Las cabezas de los langostinos dan un caldo sabroso en un cuarto de hora y evitan los caldos de brik, que casi siempre llevan cebolla y ajo. La crema se liga solo con el almidón de la patata y un poco de leche sin lactosa, sin nata ni mantequilla, así que resulta suave y ligera; la patata es de los alimentos más seguros en la dieta baja en FODMAP. Sin los langostinos y con caldo de verduras casero, es una cena perfecta para un día de tripa revuelta. La crema sola aguanta 2 días en la nevera; saltea los langostinos en el momento.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

@@ -357,7 +357,7 @@ window.RECETAS_SEED.push({
   tiempo: 95,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (paletilla)", q: 600, u: "g", nota: "troceada, con hueso" },
     { n: "patata", q: 500, u: "g" },
@@ -382,11 +382,11 @@ window.RECETAS_SEED.push({
     "Destapa, sube el horno a 210 °C y hornea 25 minutos más, hasta que la costra esté dorada, las patatas tiernas al pincharlas y el cordero se separe del hueso. Si el fondo se seca, añade un chorrito de agua por un lado.",
     "Deja reposar 5 minutos y sirve con los jugos del fondo."
   ],
-  nutricion: { kcal: 820, prot: 37, hc: 56, grasa: 47 },
+  nutricion: { kcal: 620, prot: 32, hc: 36, grasa: 37 },
   etiquetas: ["tradicional", "al horno", "para invitados", "invierno", "poco especiada"],
   consejo: "En la Puglia es el asado de Pascua y de los domingos, a veces con lampascioni (bulbos de jacinto silvestre) que aquí no se encuentran. El trabajo activo es de 20 minutos: lo demás es horno. El papel de aluminio de la primera fase evita que el cordero se seque mientras las patatas se cuecen en el vino.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

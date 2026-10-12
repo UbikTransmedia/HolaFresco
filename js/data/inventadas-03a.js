@@ -152,7 +152,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "media",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pollo entero", q: 1200, u: "g", nota: "limpio, de 1,2 kg aprox." },
     { n: "limón", q: 2, u: "ud" },
@@ -176,10 +176,10 @@ window.RECETAS_SEED.push({
     "Saca el pollo a una tabla y déjalo reposar 10-15 minutos tapado con aluminio. Sube el horno a 220 °C y deja las patatas 10 minutos más para que se doren.",
     "Trincha el pollo y sírvelo sobre las patatas panadera, con el zumo del segundo limón exprimido por encima y los jugos de la fuente."
   ],
-  nutricion: { kcal: 850, prot: 53, hc: 42, grasa: 51 },
+  nutricion: { kcal: 595, prot: 40, hc: 22, grasa: 38 },
   etiquetas: ["al horno", "fin de semana", "batch cooking", "invierno", "familiar", "poco especiada"],
-  consejo: "Un pollo de 1,2 kg da dos raciones muy generosas y suele sobrar algo: desmenúzalo para una ensalada o unos tacos al día siguiente. Guarda la carcasa para hacer caldo.",
-  contundencia: "contundente",
+  consejo: "Un pollo de 1,2 kg da para cuatro raciones normales y suele sobrar algo: desmenúzalo para una ensalada o unos tacos al día siguiente. Guarda la carcasa para hacer caldo.",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -642,7 +642,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso, 4 unidades" },
     { n: "chipotle en adobo", q: 1, u: "cda" },
@@ -673,11 +673,11 @@ window.RECETAS_SEED.push({
     "Saca el pollo, añade el chocolate a la salsa y remueve hasta que se funda. Prueba: debe estar equilibrada entre dulce, picante y ahumado; ajusta de sal. Si está muy espesa, alárgala con un poco de agua.",
     "Sirve el pollo bañado en mole sobre el arroz, con el sésamo y el cilantro picado por encima."
   ],
-  nutricion: { kcal: 710, prot: 46, hc: 68, grasa: 30 },
+  nutricion: { kcal: 630, prot: 35, hc: 57, grasa: 29 },
   etiquetas: ["de cuchara", "especiado", "picante", "fin de semana", "batch cooking"],
   consejo: "El mole mejora de un día para otro. Usa chocolate con al menos 70 % de cacao: solo debe redondear la salsa, no endulzarla.",
   alternativa: "Sin chipotle en adobo, usa 2 cdta de pimentón ahumado con 1 pizca de cayena y 1 cdta de vinagre de vino; el mole conserva su fondo ahumado y picante.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -930,7 +930,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso, 4 unidades" },
     { n: "chorizo", q: 80, u: "g" },
@@ -959,7 +959,7 @@ window.RECETAS_SEED.push({
     "Añade los garbanzos escurridos y cuece destapado 10-15 minutos más, hasta que la salsa espese y el pollo se desprenda del hueso. Si se queda seco, añade un poco de agua caliente.",
     "Rectifica de sal, retira el laurel y sirve en platos hondos con el perejil picado."
   ],
-  nutricion: { kcal: 745, prot: 56, hc: 58, grasa: 34 },
+  nutricion: { kcal: 645, prot: 44, hc: 42, grasa: 31 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "económica", "reconfortante"],
   consejo: "Este guiso gana mucho de un día para otro. Si lo preparas con antelación, añade los garbanzos al recalentar para que no se deshagan.",
   contundencia: "contundente",
@@ -1119,7 +1119,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["horno", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "pollo entero", q: 1200, u: "g", nota: "limpio, de 1,2 kg aprox." },
     { n: "mantequilla", q: 40, u: "g", nota: "a temperatura ambiente" },
@@ -1148,7 +1148,7 @@ window.RECETAS_SEED.push({
     "Prepara la salsa: vierte los jugos de la fuente en un cazo, retira el exceso de grasa, añade la harina y remueve 1 minuto a fuego medio. Incorpora el caldo poco a poco sin dejar de remover y cuece 3-4 minutos hasta que espese. Termina con la mostaza y rectifica de sal.",
     "Trincha el pollo y sírvelo con las verduras asadas y la salsa caliente en salsera."
   ],
-  nutricion: { kcal: 880, prot: 56, hc: 55, grasa: 50 },
+  nutricion: { kcal: 670, prot: 41, hc: 32, grasa: 41 },
   etiquetas: ["al horno", "fin de semana", "invierno", "familiar", "batch cooking", "poco especiada"],
   consejo: "La mantequilla bajo la piel mantiene la pechuga jugosa y dora la piel sin esfuerzo. Con las sobras tienes relleno para bocadillos o una ensalada tibia al día siguiente.",
   contundencia: "contundente",

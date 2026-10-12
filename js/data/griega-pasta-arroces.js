@@ -71,7 +71,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 500, u: "g", nota: "unos 4, con hueso y sin piel" },
     { n: "hilopites", q: 160, u: "g", nota: "o tallarines al huevo partidos en cuadraditos de 1 cm" },
@@ -98,11 +98,11 @@ window.RECETAS_SEED.push({
     "Echa las hilopites y cuece destapado a fuego medio 10–12 minutos, removiendo a menudo para que no se peguen, hasta que estén tiernas y hayan absorbido casi toda la salsa. Si se secan antes de tiempo, añade un chorrito de agua caliente.",
     "Devuelve el pollo a la cazuela 2 minutos para que se caliente y sirve con el kefalotyri rallado por encima."
   ],
-  nutricion: { kcal: 785, prot: 53, hc: 72, grasa: 31 },
+  nutricion: { kcal: 605, prot: 38, hc: 51, grasa: 26 },
   etiquetas: ["tradicional", "alta en proteína", "batch cooking", "para niños", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las hilopites son cuadraditos de pasta de huevo y leche que en los pueblos del Peloponeso se secaban al sol en verano para todo el año. Las encontrarás en tiendas de productos griegos; si no, parte unos tallarines al huevo en trozos de 1 cm o usa orzo. Aguanta 3 días en la nevera: al recalentar, añade un poco de agua, porque la pasta sigue absorbiendo salsa.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

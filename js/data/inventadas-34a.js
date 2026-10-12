@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   coccion: ["todo-al-horno"],
   tupper: true,
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 700, u: "g", nota: "en tiras o costillar troceado" },
     { n: "pasta de achiote", q: 30, u: "g" },
@@ -263,11 +263,11 @@ window.RECETAS_SEED.push({
     "Hornea 20–25 minutos, pintando las costillas con el jugo de la fuente cada 10 minutos, hasta que estén glaseadas, brillantes y con los bordes caramelizados, y el maíz tenga granos tostados.",
     "Sirve las costillas con el maíz, la cebolla encurtida escurrida y el cilantro por encima."
   ],
-  nutricion: { kcal: 755, prot: 40, hc: 45, grasa: 46 },
+  nutricion: { kcal: 640, prot: 31, hc: 30, grasa: 45 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "batch cooking", "poco especiada"],
   consejo: "Algunas pastas de achiote comerciales llevan harina o vinagre de malta (de cebada): busca una certificada sin gluten. En tupper aguantan 3 días; recalienta tapadas 15 minutos a 180 °C con una cucharada de agua.",
   alternativa: "Si no encuentras pasta de achiote, maja con el ajo 1 cda de pimentón dulce, ½ cdta de cúrcuma y 1 cda de vinagre de manzana: da el mismo color rojizo y un sabor terroso muy parecido.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -681,7 +681,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   coccion: ["todo-al-horno"],
   tupper: false,
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "gnocchi sin gluten", q: 500, u: "g" },
     { n: "salchicha fresca sin gluten", q: 200, u: "g" },
@@ -701,10 +701,10 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos, remueve con una espátula para dar la vuelta a los gnocchi y hornea 10–12 minutos más, hasta que estén dorados y crujientes por fuera, la salchicha bien hecha y el brócoli tostado en las puntas. Mientras, ralla el parmesano.",
     "Reparte el parmesano por encima, añade la cayena y vuelve a meter 2 minutos para que se funda. Sirve recién salido del horno."
   ],
-  nutricion: { kcal: 780, prot: 30, hc: 88, grasa: 34 },
+  nutricion: { kcal: 640, prot: 20, hc: 64, grasa: 34 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "para niños"],
   consejo: "Los gnocchi y las salchichas son dos fuentes clásicas de gluten: compra ambos con sello sin gluten. Los gnocchi crujientes pierden textura al recalentar, así que es un plato para comer al momento.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

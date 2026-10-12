@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "media",
   equipo: ["sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "entrecot de ternera", q: 400, u: "g", nota: "2 piezas de unos 2,5 cm de grosor" },
     { n: "mantequilla", q: 50, u: "g", nota: "a temperatura ambiente" },
@@ -50,11 +50,11 @@ window.RECETAS_SEED.push({
     "Para un punto al punto, el centro debe ceder al presionarlo como la base del pulgar (unos 54 °C con termómetro). Deja reposar la carne 5 minutos sobre una tabla.",
     "Sirve el entrecot con dos rodajas gruesas de mantequilla Café de París encima, que se vayan fundiendo, y las espinacas a la crema al lado."
   ],
-  nutricion: { kcal: 880, prot: 50, hc: 9, grasa: 72 },
+  nutricion: { kcal: 625, prot: 35, hc: 6, grasa: 51 },
   etiquetas: ["keto", "tradicional", "sin gluten", "para invitados", "alta en proteína"],
   consejo: "La mantequilla Café de París nació en Ginebra en los años 30 y cada restaurante guarda su receta. Te sobrará poca, pero si haces el doble aguanta 3 meses congelada en rodajas: es un lujo sobre pescado a la plancha, champiñones o un huevo frito. Si no encuentras estragón, usa cebollino y una pizca de tomillo.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -161,7 +161,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["plancha", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "chuletas de cordero", q: 600, u: "g", nota: "de costillar o riñonada, con hueso" },
     { n: "azafrán", q: 1, u: "pizca" },
@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
     "Saca las chuletas 20 minutos antes de asar, retira el exceso de marinada y sálalas. Calienta la plancha a fuego fuerte y ásalas 3 minutos por cada lado, hasta que estén bien doradas y con alguna marca tostada; la grasa del borde debe quedar crujiente.",
     "Déjalas reposar 3 minutos, riégalas con el resto del zumo de limón y sírvelas con el mast-o-khiar y la fuente de hierbas: en Irán se come un bocado de carne con una hoja de menta, un trocito de feta y un rábano."
   ],
-  nutricion: { kcal: 885, prot: 40, hc: 12, grasa: 75 },
+  nutricion: { kcal: 670, prot: 34, hc: 12, grasa: 54 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "para invitados"],
   consejo: "El shishlik es la versión de cordero de los kebabs persas, y el sabzi khordan (\"hierbas para comer\") acompaña a casi cualquier comida iraní. El mast-o-khiar tradicional lleva pasas: aquí se omiten para mantenerlo keto, y las nueces aportan el contrapunto. La marinada de yogur sirve igual para contramuslos de pollo.",
   tupper: false,

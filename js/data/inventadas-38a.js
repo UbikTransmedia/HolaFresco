@@ -105,7 +105,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "batidora"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "abadejo (lomos)", q: 300, u: "g" },
     { n: "coliflor", q: 400, u: "g", nota: "en ramilletes pequeños" },
@@ -130,11 +130,11 @@ window.RECETAS_SEED.push({
     "Mientras reposa, tuesta las almendras en un plato llano a 800 W 2-3 minutos, removiendo cada minuto, hasta que estén doradas.",
     "Sirve con unas gotas de limón, las almendras por encima y el cilantro picado si te gusta."
   ],
-  nutricion: { kcal: 345, prot: 37, hc: 15, grasa: 15 },
+  nutricion: { kcal: 680, prot: 70, hc: 21, grasa: 33 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "ligera", "alta en proteína", "tupper", "rápida", "fácil", "detox", "superalimentos", "bajo en colesterol"],
   consejo: "Haz el doble de crema de coliflor y congélala en raciones: sirve de base para cualquier pescado blanco o para un huevo poché. Las almendras siguen tostándose fuera del microondas con el calor residual, así que sácalas un pelín antes de lo que crees.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -740,7 +740,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "soja texturizada", q: 60, u: "g", nota: "fina" },
     { n: "tamari", q: 1, u: "cdta" },
@@ -765,12 +765,12 @@ window.RECETAS_SEED.push({
     "Añade la soja, el tomate, el orégano, el pimentón, sal y pimienta. Cocina sin tapar a 800 W 5 minutos, removiendo a mitad, hasta que la salsa espese y no quede caldosa.",
     "Rellena los calabacines boca arriba, espolvorea la levadura nutricional y cocina 1 minuto más a 800 W. Reposa 2 minutos y sirve con albahaca."
   ],
-  nutricion: { kcal: 305, prot: 21, hc: 28, grasa: 12 },
+  nutricion: { kcal: 610, prot: 44, hc: 47, grasa: 23 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "alta en proteína", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Haz el doble de boloñesa de soja y congélala: sirve para pasta o para rellenar una patata asada. Si la soja texturizada te sabe a poco, hidrátala en caldo de verduras caliente en lugar de agua.",
   alternativa: "Puedes cambiar la soja texturizada por 250 g de lentejas cocidas de bote escurridas: sáltate la hidratación y añádelas directamente al tomate.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -1013,7 +1013,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "batidora"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "calabacín", q: 2, u: "ud" },
     { n: "guisantes congelados", q: 200, u: "g" },
@@ -1036,11 +1036,11 @@ window.RECETAS_SEED.push({
     "Tuesta las semillas de calabaza en un plato a 800 W 1,5-2 minutos, removiendo cada 30 segundos, hasta que se hinchen y empiecen a crepitar.",
     "Sirve la crema con una cucharada de requesón, las semillas y la menta reservada."
   ],
-  nutricion: { kcal: 345, prot: 20, hc: 36, grasa: 13.5 },
+  nutricion: { kcal: 720, prot: 41, hc: 72, grasa: 28 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "batch cooking", "ligera", "rápida", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "Se congela muy bien sin el requesón. En verano está deliciosa fría: enfríala en la nevera y sírvela con más menta.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

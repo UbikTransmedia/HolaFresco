@@ -181,14 +181,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "huevos",
   cocina: "europea",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "huevo",
   tiempo: 100,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "harina de trigo", q: 120, u: "g" },
     { n: "mantequilla", q: 60, u: "g", nota: "fría, en dados" },
@@ -214,7 +214,7 @@ window.RECETAS_SEED.push({
     "Reparte la cebolla y el brócoli sobre la base, espolvorea dos tercios del cheddar, vierte la mezcla de huevo y termina con el queso restante.",
     "Hornea 30-35 minutos a 180 °C, hasta que el relleno esté cuajado (al mover el molde tiembla ligeramente solo en el centro) y la superficie dorada. Deja reposar 10 minutos antes de desmoldar y cortar."
   ],
-  nutricion: { kcal: 900, prot: 30, hc: 58, grasa: 61 },
+  nutricion: { kcal: 610, prot: 20, hc: 38, grasa: 41 },
   etiquetas: ["al horno", "ideal para llevar", "batch cooking", "para niños", "poco especiada"],
   consejo: "La quiche aguanta 3 días en la nevera y se come igual de bien templada o fría. Si tienes prisa, una masa quebrada comprada te ahorra 40 minutos."
 });
@@ -312,14 +312,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "verduras",
   cocina: "india",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "queso",
   tiempo: 50,
   dificultad: "media",
   equipo: ["sartén", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "paneer", q: 200, u: "g" },
     { n: "yogur griego natural", q: 100, u: "g" },
@@ -351,7 +351,7 @@ window.RECETAS_SEED.push({
     "Añade la nata a la salsa, mezcla y prueba de sal y picante (cayena al gusto). Incorpora el paneer y cocina 3 minutos a fuego suave para que se impregne sin endurecerse.",
     "Sirve sobre el arroz, con el cilantro picado y gajos del medio limón restante."
   ],
-  nutricion: { kcal: 770, prot: 29, hc: 72, grasa: 41 },
+  nutricion: { kcal: 625, prot: 25, hc: 60, grasa: 31 },
   etiquetas: ["alta en proteína", "batch cooking", "para niños"],
   consejo: "No marines el paneer más de 30 minutos ni lo hiervas en la salsa: se vuelve gomoso. Si no lo encuentras, usa queso fresco firme muy escurrido o halloumi."
 });
@@ -363,14 +363,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "italiana",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "queso",
   tiempo: 95,
   dificultad: "media",
   equipo: ["horno", "cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "berenjena", q: 2, u: "ud" },
     { n: "pimiento rojo", q: 2, u: "ud" },
@@ -400,7 +400,7 @@ window.RECETAS_SEED.push({
     "Cubre con papel de aluminio y hornea 25 minutos. Destapa y hornea 10-15 minutos más, hasta que burbujee, la superficie esté dorada y las placas se pinchen sin resistencia.",
     "Deja reposar 10 minutos antes de cortar: se asienta y las porciones salen enteras."
   ],
-  nutricion: { kcal: 800, prot: 37, hc: 75, grasa: 40 },
+  nutricion: { kcal: 610, prot: 25, hc: 58, grasa: 29 },
   etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "poco especiada"],
   consejo: "Puedes montarla la víspera y guardarla en la nevera sin hornear; añade entonces 10 minutos de horno tapado. Ya horneada se congela bien en porciones."
 });

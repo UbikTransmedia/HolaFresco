@@ -256,7 +256,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pan", q: 2, u: "rebanada", nota: "del día anterior" },
     { n: "mantequilla", q: 30, u: "g" },
@@ -278,11 +278,11 @@ window.RECETAS_SEED.push({
     "Bate los huevos y viértelos en hilo sobre la sopa hirviendo mientras remueves despacio con un tenedor: cuajan al momento en hebras finas. Apaga.",
     "Sirve con los picatostes y el perejil."
   ],
-  nutricion: { kcal: 350, prot: 12, hc: 33, grasa: 19 },
+  nutricion: { kcal: 750, prot: 26, hc: 73, grasa: 38 },
   etiquetas: ["tradicional", "rápida", "vegetariana", "económica", "invierno", "ligera", "sin verduras", "poco especiada"],
   consejo: "Es la sopa que se hacía en Eslovenia cuando en la despensa solo quedaban harina, manteca y algún huevo, y aún hoy se da a quien está convaleciente. Con caldo de pollo casero gana mucho. Para que no haya grumos, la regla es siempre la misma: roux caliente con líquido frío o templado, nunca los dos calientes. Cómela recién hecha: al reposar espesa demasiado y los picatostes se ablandan.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -574,7 +574,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["batidora", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "tomate pera", q: 600, u: "g", nota: "maduros y fríos de la nevera" },
     { n: "pepino", q: 1, u: "ud" },
@@ -596,11 +596,11 @@ window.RECETAS_SEED.push({
     "Sirve la sopa bien fría en cuencos, pon encima la picada de verduras y ralla el sirene por encima con el rallador grueso, hasta cubrir la superficie como en la ensalada šopska.",
     "Termina con un hilo de aceite y pimienta negra recién molida."
   ],
-  nutricion: { kcal: 350, prot: 10, hc: 24, grasa: 24 },
+  nutricion: { kcal: 665, prot: 21, hc: 41, grasa: 45 },
   etiquetas: ["creativa", "sin cocción", "verano", "rápida", "vegetariana", "sin gluten", "ligera", "poco especiada"],
   consejo: "La šopska lleva los colores de la bandera búlgara: el blanco del queso, el verde del pepino y el pimiento y el rojo del tomate. El sirene es un queso de oveja o vaca en salmuera que se vende en tiendas de productos del este; el feta es su sustituto más cercano. La sopa sin la guarnición aguanta 2 días en la nevera en un recipiente bien cerrado; ralla el queso al servir.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -889,7 +889,7 @@ window.RECETAS_SEED.push({
   tiempo: 25,
   dificultad: "fácil",
   equipo: ["microondas", "cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "chirivía", q: 300, u: "g" },
     { n: "zanahoria", q: 200, u: "g" },
@@ -912,11 +912,11 @@ window.RECETAS_SEED.push({
     "Calienta el caldo 3 minutos en el microondas, añádelo a las verduras y tritura con la batidora 2 minutos hasta que quede muy lisa. Añade el kéfir y tritura unos segundos más; salpimienta y añade la nuez moscada. Si se ha enfriado, dale 1 minuto más de microondas, sin que llegue a hervir.",
     "Sirve la crema con el huevo mollet abierto encima, una nuez de mantequilla de eneldo que se funda sobre la crema, los rábanos y el resto del eneldo."
   ],
-  nutricion: { kcal: 350, prot: 12, hc: 40, grasa: 16 },
+  nutricion: { kcal: 700, prot: 25, hc: 67, grasa: 32 },
   etiquetas: ["creativa", "rápida", "vegetariana", "sin gluten", "ligera", "invierno", "poco especiada"],
   consejo: "La chirivía es una raíz habitual en las sopas de Polonia y Rusia; si no la encuentras, usa más zanahoria y un trozo de apionabo. No hiervas el kéfir, porque se corta: añádelo siempre al final. La crema sin huevo aguanta 3 días en la nevera; cuece los huevos en el momento de servir.",
   alternativa: "Sin microondas: cuece la chirivía, la zanahoria y la cebolla troceadas en el caldo, en un cazo tapado, 20 min a fuego medio, y tritura igual.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });

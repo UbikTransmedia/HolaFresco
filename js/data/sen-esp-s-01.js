@@ -151,7 +151,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo picantón", q: 2, u: "ud", nota: "unos 500 g cada uno, limpios" },
     { n: "sal gruesa", q: 1500, u: "g" },
@@ -177,11 +177,11 @@ window.RECETAS_SEED.push({
     "Saca la fuente y deja reposar 5 minutos. Rompe la costra con el mango de un cuchillo, retira la sal y quita la piel de los picantones, que estará salada; la carne queda en su punto.",
     "Sirve los picantones con un hilo de aceite crudo por encima y la ensalada al lado, con su jugo."
   ],
-  nutricion: { kcal: 560, prot: 58, hc: 9, grasa: 32 },
+  nutricion: { kcal: 705, prot: 50, hc: 7, grasa: 52 },
   etiquetas: ["tradicional", "al horno", "sin gluten", "alta en proteína", "verano"],
   consejo: "La cocción a la sal es tradicional en todo el litoral español para pescados y carnes: la costra crea una pequeña olla hermética y el ave se hace en su propio vapor. La sal no penetra en la carne si la costra está bien cerrada; por eso no hace falta salar el picantón. Con un pollo pequeño de 1,2 kg funciona igual: hornea 1 hora y 10 minutos. El trabajo activo son 15 minutos.",
   tupper: true,
-  contundencia: "media",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo entero troceado", q: 700, u: "g", nota: "medio pollo con piel" },
     { n: "patata", q: 400, u: "g" },
@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
     "Saca la fuente, reparte las aceitunas y las almendras entre las verduras y vierte el vino por los lados, sin mojar la piel. Hornea 20-25 minutos más, hasta que la piel esté dorada, las almendras tostadas, las patatas tiernas y el jugo del muslo salga transparente al pincharlo.",
     "Deja reposar 5 minutos y sirve el pollo con las verduras, las aceitunas y el jugo del fondo de la fuente."
   ],
-  nutricion: { kcal: 950, prot: 54, hc: 42, grasa: 63 },
+  nutricion: { kcal: 660, prot: 37, hc: 28, grasa: 43 },
   etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "económica"],
   consejo: "En Andalucía el pollo con aceitunas se guisa en cazuela; al horno, la piel queda crujiente y las almendras se tuestan en el propio jugo. Usa aceitunas con hueso, que aguantan el horno sin ablandarse, y sala poco las patatas: las aceitunas sueltan su salmuera. El trabajo activo son 15 minutos.",
   tupper: true,
@@ -326,7 +326,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "salchichas frescas", q: 400, u: "g", nota: "de cerdo" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -350,11 +350,11 @@ window.RECETAS_SEED.push({
     "Escurre las patatas y mézclalas con la otra cucharada de aceite y la mitad del perejil.",
     "Sirve las salchichas con su salsa de cebolla, las patatas al lado y el resto del perejil por encima."
   ],
-  nutricion: { kcal: 790, prot: 36, hc: 46, grasa: 50 },
+  nutricion: { kcal: 580, prot: 24, hc: 32, grasa: 38 },
   etiquetas: ["tradicional", "económica", "para niños", "invierno"],
   consejo: "Pinchar las salchichas evita que revienten y deja salir algo de grasa, que luego sirve para pochar la cebolla. Si quieres un plato más ligero, cambia la mitad de las salchichas por salchichas de pollo o de pavo. Aguanta 3 días en la nevera; las patatas, mejor recién hechas.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -459,7 +459,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "fácil",
   equipo: ["horno", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "conejo troceado", q: 800, u: "g", nota: "medio conejo grande" },
     { n: "patata", q: 400, u: "g" },
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
     "Mientras se asa, haz el alioli: pon en el vaso de la batidora el huevo, los 2 ajos pelados, una pizca de sal y un chorrito de zumo de limón. Añade los 100 ml de aceite y bate con la batidora apoyada en el fondo, sin moverla, hasta que empiece a emulsionar; después súbela poco a poco hasta que quede espeso.",
     "Sirve el conejo con las patatas y los pimientos, y el alioli aparte para que cada uno se sirva."
   ],
-  nutricion: { kcal: 980, prot: 56, hc: 40, grasa: 66 },
+  nutricion: { kcal: 695, prot: 51, hc: 26, grasa: 42 },
   etiquetas: ["tradicional", "al horno", "sin gluten", "alta en proteína"],
   consejo: "El conejo con alioli es plato de domingo en Cataluña, Valencia y Aragón, normalmente a la brasa; al horno queda igual de rico y sin humo. Del alioli sobrará un poco: se conserva 2 días en la nevera bien tapado. Si prefieres el alioli tradicional solo de ajo y aceite, mortero y mucha paciencia: es más intenso y más difícil de montar.",
   tupper: true,
@@ -1015,7 +1015,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "merluza (lomos)", q: 320, u: "g", nota: "2 lomos gruesos con piel" },
     { n: "jamón serrano", q: 40, u: "g" },
@@ -1035,11 +1035,11 @@ window.RECETAS_SEED.push({
     "Hornea 10–12 minutos, hasta que la costra esté dorada y la merluza se separe en láminas nacaradas al presionarla. Si la costra no ha dorado, dale 1 minuto de gratinador.",
     "Sirve la merluza con los tomates asados y el zumo del medio limón por encima."
   ],
-  nutricion: { kcal: 395, prot: 35, hc: 14, grasa: 22 },
+  nutricion: { kcal: 750, prot: 72, hc: 28, grasa: 39 },
   etiquetas: ["creativa", "al horno", "ligera", "alta en proteína", "para invitados"],
   consejo: "Una forma de que los niños coman pescado: la costra de jamón cruje como un empanado y no hay que freír nada. Funciona igual con bacalao fresco o abadejo. Para hacerlo plato único, añade unas patatas cocidas en el microondas a la fuente con los tomates.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 

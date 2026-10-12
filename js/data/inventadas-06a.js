@@ -100,14 +100,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "legumbres",
   cocina: "americana",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica",
   momentos: ["comida"],
   proteina: "legumbre",
   tiempo: 50,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias negras cocidas", q: 400, u: "g" },
     { n: "boniato", q: 250, u: "g" },
@@ -138,7 +138,7 @@ window.RECETAS_SEED.push({
     "Tuesta los panes en la misma sartén 1 minuto por el lado del corte.",
     "Monta: base con mayonesa de chipotle, lechuga, hamburguesa, tomate, aguacate y cebolla morada. Tapa y sirve enseguida."
   ],
-  nutricion: { kcal: 725, prot: 22, hc: 92, grasa: 30 },
+  nutricion: { kcal: 640, prot: 19, hc: 71, grasa: 27 },
   etiquetas: ["contundente", "para niños", "económica", "batch cooking"],
   consejo: "Las hamburguesas se pueden formar el día anterior o congelar crudas entre papel de horno. Si la masa queda húmeda, añade pan rallado de cucharada en cucharada.",
   alternativa: "Sin chipotle en adobo: mezcla en la veganesa ½ cdta de pimentón ahumado picante, unas gotas de vinagre de manzana y una pizca de azúcar; da el mismo toque ahumado y algo menos de fuego."

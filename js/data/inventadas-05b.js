@@ -55,14 +55,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "verduras",
   cocina: "italiana",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "queso",
   tiempo: 170,
   dificultad: "media",
   equipo: ["horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "harina de trigo", q: 250, u: "g" },
     { n: "levadura seca de panadería", q: 4, u: "g" },
@@ -88,7 +88,7 @@ window.RECETAS_SEED.push({
     "Caprese: corta el tomate y la mozzarella en rodajas y alterna en los platos; sala, pimienta, albahaca y unas gotas de balsámico.",
     "Sirve la focaccia templada en cuadrados con la caprese al lado."
   ],
-  nutricion: { kcal: 870, prot: 28, hc: 104, grasa: 38 },
+  nutricion: { kcal: 620, prot: 20, hc: 72, grasa: 27 },
   etiquetas: ["al horno", "masa casera", "fin de semana", "verano", "poco especiada"],
   consejo: "Si la cebolla se tuesta demasiado deprisa, cúbrela con papel de aluminio los últimos 5 minutos. La focaccia sobrante, tostada al día siguiente, es un bocadillo de lujo."
 });

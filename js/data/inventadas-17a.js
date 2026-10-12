@@ -365,7 +365,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "fácil",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "hojaldre", q: 1, u: "ud", nota: "lámina refrigerada de unos 230 g, se usa la mitad" },
     { n: "puerro", q: 2, u: "ud" },
@@ -387,7 +387,7 @@ window.RECETAS_SEED.push({
     "Hornea 25 minutos, hasta que el hojaldre esté hinchado y bien dorado y el relleno cuajado.",
     "Aliña los canónigos con el resto del aceite, el zumo de medio limón y sal. Sirve la tarta con el resto del eneldo por encima y la ensalada al lado."
   ],
-  nutricion: { kcal: 700, prot: 27, hc: 42, grasa: 47 },
+  nutricion: { kcal: 730, prot: 19, hc: 44, grasa: 52 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "ideal para llevar", "poco especiada"],
   consejo: "Prepárala con la lámina entera y tendrás cuatro porciones para comer fría en la oficina. El puerro puede sustituirse por cebolla caramelizada o espinacas salteadas.",
   contundencia: "contundente",

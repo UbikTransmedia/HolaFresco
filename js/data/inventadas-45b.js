@@ -253,7 +253,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "media",
   equipo: ["sartén", "cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "magret de pato", q: 400, u: "g", nota: "1 magret grande" },
     { n: "higo fresco", q: 6, u: "ud" },
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
     "Añade el vino, el balsámico, la miel y el tomillo y reduce 4 minutos, hasta que la salsa tenga textura de almíbar y los higos estén glaseados. Ajusta de sal y pimienta.",
     "Corta el magret en lonchas de 1 cm en sentido contrario a la fibra. Sirve sobre el puré con los higos y la salsa alrededor."
   ],
-  nutricion: { kcal: 780, prot: 40, hc: 66, grasa: 38 },
+  nutricion: { kcal: 640, prot: 25, hc: 37, grasa: 41 },
   etiquetas: ["otoño", "temporada", "para invitados", "de domingo", "sin gluten", "poco especiada"],
   consejo: "Empezar en sartén fría es la técnica para cualquier pieza con capa de grasa (pato, panceta, bacon, piel de pollo): la grasa se funde despacio antes de que la carne se pase. Guarda la grasa de pato en un tarro en la nevera: unas patatas fritas en ella son otra cosa.",
   alternativa: "Si no encuentras chirivía, cuece 300 g de patata y 1 zanahoria en la leche con agua el mismo tiempo; el puré queda menos anisado, pero acompaña igual de bien al pato.",

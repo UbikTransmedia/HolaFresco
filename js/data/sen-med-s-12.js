@@ -159,7 +159,7 @@ window.RECETAS_SEED.push({
   tiempo: 95,
   dificultad: "media",
   equipo: ["cazuela", "horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "calamar", q: 400, u: "g", nota: "limpio" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -185,7 +185,7 @@ window.RECETAS_SEED.push({
     "Hornea 30-35 minutos, hasta que la tielle esté bien dorada. Mientras, lava la lechuga, córtala en tiras y alíñala con un hilo de aceite y sal en el momento de servir.",
     "Deja reposar la tielle al menos 15 minutos antes de cortarla y sírvela templada o fría con la ensalada."
   ],
-  nutricion: { kcal: 850, prot: 45, hc: 68, grasa: 44 },
+  nutricion: { kcal: 670, prot: 33, hc: 61, grasa: 31 },
   etiquetas: ["tradicional", "al horno", "batch cooking", "ideal para llevar"],
   consejo: "En Sète la tielle se compra en las panaderías y se come a temperatura ambiente, así que es perfecta para el táper: aguanta 3 días en la nevera bien tapada. Sácala 20 minutos antes de comerla o calienta las porciones 8-10 minutos en el horno a 180 °C (el microondas ablanda la masa). Se congela bien en porciones. El trabajo activo es de unos 30 minutos: el resto es guiso y horno.",
   tupper: true,

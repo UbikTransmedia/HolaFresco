@@ -16,7 +16,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "abadejo (lomos)", q: 320, u: "g" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
@@ -42,11 +42,11 @@ window.RECETAS_SEED.push({
     "Mezcla la col, la zanahoria y el maíz con el aliño y el cebollino picado.",
     "Sirve el abadejo sobre la ensalada con gajos de lima."
   ],
-  nutricion: { kcal: 347, prot: 36, hc: 26, grasa: 11 },
+  nutricion: { kcal: 675, prot: 69, hc: 45, grasa: 23 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "detox", "bajo en colesterol"],
   consejo: "La ensalada de col aguanta 2 días en la nevera e incluso mejora; el pescado, mejor recién hecho. También sirve con merluza o bacalao fresco. Si te gusta más picante, sube la cayena.",
   alternativa: "Sin airfryer: hornea el abadejo especiado a 200 °C durante 12-14 min en bandeja con papel, con el horno bien precalentado.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: false
 });
@@ -153,7 +153,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "solomillo de cerdo", q: 350, u: "g", nota: "en medallones de 3 cm" },
     { n: "mostaza antigua", q: 1.5, u: "cda" },
@@ -176,10 +176,10 @@ window.RECETAS_SEED.push({
     "Mientras se hacen los medallones, pica el perejil y aliña las espinacas con el resto del aceite, el vinagre y sal.",
     "Sirve los medallones con los champiñones y su jugo, las espinacas y el perejil picado por encima."
   ],
-  nutricion: { kcal: 362, prot: 42, hc: 9, grasa: 18 },
+  nutricion: { kcal: 735, prot: 86, hc: 11, grasa: 37 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "poco especiada"],
   consejo: "El solomillo de cerdo se puede comer ligeramente rosado: sácalo a 63 °C en el centro y quedará jugoso. Para tupper, córtalo en lonchas y guárdalo con los champiñones hasta 3 días; las espinacas, aparte.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: true
 });
@@ -326,7 +326,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "calabacín", q: 2, u: "ud", nota: "medianos" },
     { n: "atún en conserva", q: 160, u: "g", nota: "en aceite de oliva, escurrido (2 latas)" },
@@ -346,10 +346,10 @@ window.RECETAS_SEED.push({
     "Rellena las barquitas, cubre con la mozzarella y cocina a 190 °C durante 6-7 minutos más, hasta que el queso esté fundido y dorado.",
     "Sirve calientes o templados."
   ],
-  nutricion: { kcal: 365, prot: 30, hc: 15, grasa: 21 },
+  nutricion: { kcal: 635, prot: 60, hc: 24, grasa: 33 },
   etiquetas: ["saludable", "práctica", "rápida", "airfryer", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "para niños", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "Se pueden dejar rellenos y sin gratinar hasta un día en la nevera y gratinarlos justo antes de cenar. Ya hechos aguantan 3 días: recalienta 4 minutos a 180 °C en la airfryer.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   tupper: true
 });
@@ -500,7 +500,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "batidora"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "brócoli", q: 350, u: "g", nota: "en arbolitos, el tallo pelado y en rodajas" },
     { n: "judías blancas cocidas", q: 250, u: "g", nota: "escurridas y enjuagadas" },
@@ -520,10 +520,10 @@ window.RECETAS_SEED.push({
     "Ajusta de sal, pimienta y añade la ralladura y unas gotas del zumo del limón.",
     "Sirve con los arbolitos reservados, el resto del parmesano, un hilo del aceite que queda y la guindilla en copos."
   ],
-  nutricion: { kcal: 312, prot: 19, hc: 24, grasa: 16 },
+  nutricion: { kcal: 655, prot: 35, hc: 53, grasa: 31 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "vegetariana", "sin gluten", "fácil", "tupper", "batch cooking", "económica", "superalimentos", "bajo en colesterol"],
   consejo: "No cocines el brócoli de más o la crema saldrá con sabor a col y color apagado. Aguanta 4 días en la nevera y se congela bien sin el parmesano. Para celíacos, usa caldo con sello sin gluten.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });
@@ -667,7 +667,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "batidora"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes de 1,5 cm" },
     { n: "pimientos del piquillo", q: 150, u: "g", nota: "escurridos" },
@@ -688,10 +688,10 @@ window.RECETAS_SEED.push({
     "Deja reposar tapado 2 minutos para que el pavo termine de hacerse y suelte su jugo en la salsa.",
     "Sirve con la rúcula aliñada con el resto del aceite y una pizca de sal."
   ],
-  nutricion: { kcal: 325, prot: 37, hc: 6, grasa: 17 },
+  nutricion: { kcal: 680, prot: 77, hc: 10, grasa: 36 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "ideal para llevar", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa protege al pavo y evita que se reseque, así que es un tupper excelente: 3 días en la nevera y 2 minutos al microondas a 600 W. Con pechuga de pollo funciona exactamente igual.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });
@@ -837,7 +837,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["bol"],
   coccion: ["sin-fuego"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "cecina", q: 100, u: "g", nota: "en lonchas muy finas" },
     { n: "rúcula", q: 80, u: "g" },
@@ -851,14 +851,14 @@ window.RECETAS_SEED.push({
   pasos: [
     "Saca la cecina de la nevera 10 minutos antes para que se atempere y suelte su aroma.",
     "Mientras se atempera, corta los tomates cherry en cuartos y alíñalos con el aceite y el vinagre balsámico, y pica groseramente las almendras.",
-    "Reparte las lonchas de cecina en dos platos llanos, cubriendo toda la superficie.",
+    "Reparte las lonchas de cecina en los platos llanos, cubriendo toda la superficie.",
     "Coloca la rúcula en el centro, los tomates alrededor y, con un pelador, saca lascas del queso por encima.",
     "Termina con las almendras picadas y pimienta recién molida."
   ],
-  nutricion: { kcal: 381, prot: 27, hc: 8, grasa: 27 },
+  nutricion: { kcal: 685, prot: 57, hc: 12, grasa: 45 },
   etiquetas: ["saludable", "práctica", "rápida", "sin cocción", "ligera", "alta en proteína", "sin gluten", "fácil", "keto", "poco especiada"],
   consejo: "No hace falta sal: la cecina y el manchego ya aportan suficiente. Si no encuentras cecina, el mismo plato funciona con jamón serrano o con lonchas finas de rosbif.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "premium",
   tupper: false
 });

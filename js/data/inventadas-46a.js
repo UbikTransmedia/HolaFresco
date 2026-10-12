@@ -299,7 +299,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "conejo troceado", q: 600, u: "g" },
     { n: "tagliatelle", q: 160, u: "g" },
@@ -328,11 +328,11 @@ window.RECETAS_SEED.push({
     "Pasa la pasta a la cazuela del ragú con un chorrito de agua de cocción y saltea 1 minuto a fuego fuerte. El almidón del agua une la salsa con la pasta y la deja brillante.",
     "Sirve con el parmesano y pimienta recién molida."
   ],
-  nutricion: { kcal: 786, prot: 57, hc: 72, grasa: 30 },
+  nutricion: { kcal: 610, prot: 46, hc: 50, grasa: 24 },
   etiquetas: ["carne poco habitual", "conejo", "pasta", "tupper", "batch cooking", "de domingo", "invierno", "poco especiada"],
   consejo: "Guisar la carne con hueso y desmenuzarla después da un ragú mucho más sabroso que con carne picada. El ragú solo aguanta 4 días en la nevera y se congela 3 meses: cuece la pasta en el momento. Funciona igual con muslos de pollo o pato.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -394,7 +394,7 @@ window.RECETAS_SEED.push({
   dificultad: "media",
   equipo: ["horno", "bol"],
   coccion: ["todo-al-horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pato (muslos)", q: 2, u: "ud", nota: "unos 500 g" },
     { n: "cinco especias chinas", q: 1, u: "cdta" },
@@ -417,12 +417,12 @@ window.RECETAS_SEED.push({
     "Calienta las tortillas 20 segundos por lado en una sartén seca o envueltas en un paño húmedo en el microondas.",
     "Deshilacha la carne con dos tenedores, dejando la piel en trozos. Sirve todo en la mesa para que cada uno se monte sus tortitas con hoisin, pato, pepino y cebolleta."
   ],
-  nutricion: { kcal: 787, prot: 41, hc: 68, grasa: 39 },
+  nutricion: { kcal: 605, prot: 31, hc: 64, grasa: 24 },
   etiquetas: ["carne poco habitual", "pato", "al horno", "para compartir", "de domingo"],
   consejo: "La fórmula «horno bajo y largo, golpe final fuerte» sirve para cualquier pieza con piel y grasa: muslos de pollo, codillo o panceta. Lo importante es la piel seca: humedad es igual a piel blanda.",
   alternativa: "Si no encuentras cinco especias chinas, mezcla una pizca de canela, una de clavo molido, 1/4 cdta de anís (o un anís estrellado machacado) y 1/4 cdta de pimienta negra; el adobo sabe prácticamente igual.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -952,7 +952,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "media",
   equipo: ["sartén", "horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "boquerones frescos", q: 500, u: "g" },
     { n: "harina de trigo", q: 60, u: "g", nota: "mejor harina especial para freír" },
@@ -975,7 +975,7 @@ window.RECETAS_SEED.push({
     "Fríelos en tandas pequeñas, abiertos, 1-2 minutos, hasta que estén dorados y crujientes. Si echas muchos a la vez, el aceite se enfría y el pescado chupa grasa en vez de sellarse.",
     "Escúrrelos sobre papel absorbente y sírvelos al momento con la ensalada de pimientos, la mayonesa de limón, gajos de limón y pan."
   ],
-  nutricion: { kcal: 724, prot: 40, hc: 42, grasa: 44 },
+  nutricion: { kcal: 700, prot: 39, hc: 32, grasa: 46 },
   etiquetas: ["boquerones", "pescado azul", "pescado poco habitual", "frito", "aprende a limpiar", "tradicional", "económica", "poco especiada"],
   consejo: "Las claves de cualquier fritura de pescado son tres: pescado muy seco, harina bien sacudida y aceite a 180 °C sin llenar la sartén. Si los fríes en tandas, mantén los primeros en el horno a 80 °C con la puerta entreabierta para que no se ablanden.",
   tupper: false,

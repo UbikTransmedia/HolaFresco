@@ -177,7 +177,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "manitas de cerdo", q: 2, u: "ud", nota: "unos 700 g, partidas a lo largo por el carnicero" },
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo 12 h" },
@@ -203,11 +203,11 @@ window.RECETAS_SEED.push({
     "Añade los garbanzos escurridos, las manitas y el caldo reservado (deben quedar cubiertos) y el otro laurel. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 20 minutos. Deja que pierda la presión de forma natural.",
     "Abre, prueba de sal y hierve destapado 5-10 minutos, removiendo con cuidado, hasta que el caldo quede espeso y pegajoso por la gelatina. Reposa 10 minutos antes de servir."
   ],
-  nutricion: { kcal: 860, prot: 53, hc: 54, grasa: 48 },
+  nutricion: { kcal: 585, prot: 35, hc: 34, grasa: 32 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking"],
   consejo: "El caldo de las manitas que te sobre cuaja en la nevera como una gelatina: es el mejor fondo para unas lentejas o un arroz caldoso. Pide al carnicero manitas delanteras, que tienen más carne.",
   alternativa: "Sin olla exprés: cuece las manitas en cazuela tapada a fuego suave 2 h 30 min y luego los garbanzos con el sofrito y el caldo otras 2 h; o usa 350 g de garbanzos de bote y guisa solo 20 min.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -345,7 +345,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["olla-express", "cazuela", "batidora", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera picada", q: 200, u: "g" },
     { n: "cerdo picado", q: 150, u: "g" },
@@ -376,7 +376,7 @@ window.RECETAS_SEED.push({
     "Mientras, pela las patatas, trocéalas y cuécelas en la cazuela con agua y sal 18-20 minutos. Calienta los 80 ml de leche. Escurre las patatas y aplástalas con la mantequilla y la leche caliente hasta tener un puré fino.",
     "Saca el albondigón y deja que repose 5 minutos. Retira el laurel y tritura la salsa con las verduras. Corta en rodajas gruesas y sirve con el puré y la salsa por encima."
   ],
-  nutricion: { kcal: 940, prot: 49, hc: 69, grasa: 52 },
+  nutricion: { kcal: 635, prot: 34, hc: 43, grasa: 35 },
   etiquetas: ["tradicional", "saciante", "económica", "para niños", "de domingo", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Para que no se rompa al cortarlo, déjalo templar. Frío se corta en lonchas perfectas y recalentado en su salsa queda todavía más jugoso.",
   contundencia: "contundente",
@@ -395,7 +395,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["olla-express", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "codorniz", q: 4, u: "ud", nota: "limpias" },
     { n: "zanahoria", q: 2, u: "ud" },
@@ -420,10 +420,10 @@ window.RECETAS_SEED.push({
     "Mientras, lava y corta la lechuga y los tomates y alíñalos con sal y un par de cucharadas del propio escabeche.",
     "Sirve 2 codornices por persona, templadas, con sus verduras escabechadas y la ensalada al lado."
   ],
-  nutricion: { kcal: 458, prot: 43, hc: 22, grasa: 22 },
+  nutricion: { kcal: 615, prot: 27, hc: 17, grasa: 46 },
   etiquetas: ["tradicional", "fácil", "ligera", "verano", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "Cubiertas por su escabeche y en un tarro bien cerrado aguantan una semana en la nevera. Sácalas media hora antes de comer para que el aceite vuelva a estar líquido.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -484,7 +484,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "fácil",
   equipo: ["olla-express", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "maíz blanco partido seco", q: 120, u: "g", nota: "en remojo desde la víspera" },
     { n: "alubias blancas secas", q: 80, u: "g", nota: "en remojo desde la víspera" },
@@ -511,7 +511,7 @@ window.RECETAS_SEED.push({
     "Para la salsa, calienta el resto del aceite fuera del fuego con el resto del pimentón, la cebolleta y la guindilla.",
     "Sirve el locro en cuencos con una cucharada de la salsa roja por encima."
   ],
-  nutricion: { kcal: 1010, prot: 49, hc: 82, grasa: 54 },
+  nutricion: { kcal: 735, prot: 34, hc: 53, grasa: 42 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "fácil", "invierno", "batch cooking"],
   consejo: "Es el guiso de las fiestas patrias argentinas y se hace en cantidad: dobla la receta y congela, porque recalentado está aún mejor. Si no encuentras maíz partido, usa maíz pozolero cocido y añádelo con la calabaza.",
   contundencia: "contundente",
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
   tiempo: 85,
   dificultad: "fácil",
   equipo: ["olla-express", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "costilla de ternera", q: 700, u: "g", nota: "en trozos de 5-6 cm" },
     { n: "yuca", q: 400, u: "g", nota: "fresca o congelada, pelada" },
@@ -690,11 +690,11 @@ window.RECETAS_SEED.push({
     "Abre y remueve con energía: la yuca debe deshacerse en parte y dejar un guiso espeso y cremoso, como embarrado (atolado). Prueba de sal.",
     "Sirve con el cilantro y la cebolleta por encima."
   ],
-  nutricion: { kcal: 922, prot: 39, hc: 88, grasa: 46 },
+  nutricion: { kcal: 595, prot: 23, hc: 45, grasa: 35 },
   etiquetas: ["tradicional", "saciante", "fácil", "invierno", "de domingo", "poco especiada"],
   consejo: "Es comida de arrieros de Minas Gerais. Si la haces la víspera, la grasa cuaja arriba en la nevera y se retira de una pieza: el guiso queda igual de meloso y mucho más ligero.",
   alternativa: "Si no encuentras yuca, ni fresca ni congelada, usa la misma cantidad de patata harinosa con 5 min de presión: se deshace igual y deja el guiso cremoso, aunque algo menos elástico.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -795,7 +795,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["olla-express", "bol", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "costilla de ternera", q: 800, u: "g", nota: "en trozos de 5 cm" },
     { n: "salsa de soja", q: 5, u: "cda" },
@@ -822,11 +822,11 @@ window.RECETAS_SEED.push({
     "Hierve destapado a fuego medio 5-8 minutos, rociando las costillas, hasta que la salsa se reduzca y quede brillante y espesa.",
     "Sirve con el arroz, la cebolleta y el sésamo por encima."
   ],
-  nutricion: { kcal: 1014, prot: 49, hc: 98, grasa: 48 },
+  nutricion: { kcal: 645, prot: 28, hc: 51, grasa: 36 },
   etiquetas: ["tradicional", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "Es el plato de las grandes fiestas coreanas. La pera no solo endulza: sus enzimas ablandan la carne. Si lo haces la víspera, retira la grasa cuajada en frío y queda perfecto.",
   alternativa: "El mirin se puede sustituir por 2 cda de jerez fino o vino blanco con 1 cdta más de azúcar moreno; la salsa queda igual de lacada.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -842,7 +842,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "fácil",
   equipo: ["olla-express", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 500, u: "g", nota: "morcillo, en trozos grandes" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -871,10 +871,10 @@ window.RECETAS_SEED.push({
     "Calienta los naan en una sartén seca 1 minuto por lado.",
     "Sirve el nihari con la cebolla frita reservada, el jengibre en juliana, el cilantro y la lima, con el pan para mojar."
   ],
-  nutricion: { kcal: 826, prot: 62, hc: 63, grasa: 36 },
+  nutricion: { kcal: 605, prot: 42, hc: 47, grasa: 27 },
   etiquetas: ["tradicional", "saciante", "fácil", "picante", "invierno", "sin verduras"],
   consejo: "Tradicionalmente se cocía toda la noche y se desayunaba al amanecer; en olla exprés queda igual de meloso. La lima y el jengibre crudo en el plato equilibran la intensidad de las especias.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

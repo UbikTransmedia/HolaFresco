@@ -325,7 +325,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "almejas", q: 800, u: "g" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -351,10 +351,10 @@ window.RECETAS_SEED.push({
     "Vuelve al fuego, vierte el vino y 50 ml de agua y remueve hasta que la salsa ligue. Añade las almejas, tapa y cocina a fuego medio-alto 3 o 4 minutos, meneando la cazuela, hasta que se abran.",
     "Retira las que no se hayan abierto, espolvorea mucho perejil picado y sirve enseguida con el pan para mojar y la ensalada de tomate."
   ],
-  nutricion: { kcal: 384, prot: 24, hc: 36, grasa: 16 },
+  nutricion: { kcal: 680, prot: 32, hc: 62, grasa: 31 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "para invitados"],
   consejo: "Menea la cazuela en vaivén en lugar de remover con cuchara: la salsa liga sola con el jugo de las almejas y no se rompen las conchas.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "premium"
 });
 

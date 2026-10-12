@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
     { n: "huevo", q: 4, u: "ud" },
@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "En la misma sartén, añade el resto del aceite y fríe los huevos de uno en uno a fuego fuerte, echándoles aceite caliente por encima con la cuchara hasta que la clara haga puntilla y la yema siga líquida.",
     "Moldea el arroz en un tazón engrasado y desmóldalo en cada plato. Sirve con el tomate caliente al lado, dos huevos y los plátanos fritos."
   ],
-  nutricion: { kcal: 750, prot: 22, hc: 98, grasa: 30 },
+  nutricion: { kcal: 660, prot: 16, hc: 69, grasa: 34 },
   etiquetas: ["tradicional", "fácil", "económica", "saciante", "para niños", "sin verduras", "poco especiada"],
   consejo: "El truco de la abuela: el tomate, cuanto más despacio, mejor; si está ácido, la pizca de azúcar lo arregla. Y el arroz, una vez echado el agua, no se toca: así queda suelto.",
   contundencia: "contundente",
@@ -56,7 +56,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "media",
   equipo: ["sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "arroz bomba", q: 180, u: "g" },
     { n: "pollo entero troceado", q: 400, u: "g", nota: "en trozos pequeños" },
@@ -80,10 +80,10 @@ window.RECETAS_SEED.push({
     "Baja a fuego medio-suave y cuece 8 minutos más, hasta que el arroz esté casi seco. Pon la rama de romero encima los últimos 3 minutos.",
     "Sube el fuego 1-2 minutos y escucha: cuando crepite suavemente y huela a tostado, ya tienes socarrat. Apaga, retira el romero, cubre con un paño limpio y deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 788, prot: 45, hc: 80, grasa: 32 },
+  nutricion: { kcal: 570, prot: 31, hc: 42, grasa: 31 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "saciante", "poco especiada"],
   consejo: "Si no encuentras garrofó, pon judías blancas cocidas al final del caldo. Y nunca remuevas el arroz: en la paella el grano se queda quieto y el caldo hace el trabajo.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -146,7 +146,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "judías blancas secas", q: 120, u: "g", nota: "en remojo desde la víspera" },
     { n: "arroz redondo", q: 150, u: "g" },
@@ -167,11 +167,11 @@ window.RECETAS_SEED.push({
     "Cuece 17-18 minutos a fuego medio, removiendo solo un par de veces, hasta que el arroz esté hecho y el conjunto quede caldoso y espeso.",
     "Apaga y deja reposar 3 minutos. Corta la morcilla en rodajas y sirve en plato hondo con una pieza de cada cosa."
   ],
-  nutricion: { kcal: 890, prot: 42, hc: 95, grasa: 38 },
+  nutricion: { kcal: 565, prot: 23, hc: 47, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "económica", "batch cooking", "poco especiada"],
   consejo: "Cocina el arroz solo en la parte que vayas a comer: el resto del guiso de alubias, nabos y costilla aguanta 3 días en la nevera y le añades el arroz el día que lo quieras.",
   alternativa: "Sin remojo previo, usa 300 g de judías blancas cocidas de bote: cuece la costilla sola 30 min, añade los nabos y sigue 40 min, e incorpora las alubias enjuagadas justo antes del arroz.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -187,7 +187,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["cazuela", "horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "arroz bomba", q: 160, u: "g" },
     { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso, troceados" },
@@ -212,7 +212,7 @@ window.RECETAS_SEED.push({
     "Mete la cazuela en la parte alta del horno 12-15 minutos, hasta que el huevo haya cuajado formando una costra dorada e hinchada.",
     "Saca y deja reposar 5 minutos antes de servir en la misma cazuela."
   ],
-  nutricion: { kcal: 910, prot: 48, hc: 85, grasa: 42 },
+  nutricion: { kcal: 695, prot: 35, hc: 38, grasa: 44 },
   etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "saciante", "invierno", "sin verduras", "poco especiada"],
   consejo: "El arroz debe entrar en el horno todavía con un dedo de caldo: si llega seco, la costra se queda dura y el grano se pasa. Usa cazuela de barro si la tienes, porque reparte el calor como ninguna.",
   contundencia: "contundente",
@@ -231,7 +231,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz bomba", q: 160, u: "g" },
     { n: "conejo troceado", q: 300, u: "g" },
@@ -255,10 +255,10 @@ window.RECETAS_SEED.push({
     "Echa el arroz repartiéndolo bien y cuece 10 minutos a fuego fuerte y 8 minutos a fuego suave, sin remover, hasta que el caldo se haya absorbido.",
     "Apaga, cubre con un paño y deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 750, prot: 44, hc: 76, grasa: 30 },
+  nutricion: { kcal: 640, prot: 34, hc: 48, grasa: 34 },
   etiquetas: ["tradicional", "de domingo", "otoño", "saciante", "fácil", "poco especiada"],
   consejo: "En temporada usa níscalos o rebozuelos; el resto del año, una bandeja de setas variadas con unos champiñones sirve. Si te gusta, añade un puñado de caracoles cocidos con el caldo, como en la sierra.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz redondo", q: 150, u: "g" },
     { n: "costillas de cerdo", q: 250, u: "g", nota: "en trozos pequeños" },
@@ -337,7 +337,7 @@ window.RECETAS_SEED.push({
     "Añade el chorizo y el arroz, prueba de sal y cuece 17-18 minutos a fuego medio, removiendo un par de veces, hasta que el arroz esté en su punto y quede jugoso pero no caldoso.",
     "Retira el laurel, apaga y deja reposar 5 minutos tapado antes de servir."
   ],
-  nutricion: { kcal: 808, prot: 36, hc: 76, grasa: 40 },
+  nutricion: { kcal: 665, prot: 27, hc: 48, grasa: 40 },
   etiquetas: ["tradicional", "invierno", "saciante", "económica", "fácil", "poco especiada"],
   consejo: "Si tienes oreja o morro de cerdo cocidos, añádelos con el chorizo: es como se hacía en Zamora. Y si el arroz se queda seco antes de tiempo, añade un cucharón de caldo caliente, nunca frío.",
   contundencia: "contundente",
@@ -988,7 +988,7 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz redondo", q: 150, u: "g" },
     { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso" },
@@ -1015,7 +1015,7 @@ window.RECETAS_SEED.push({
     "Añade los garbanzos, el azafrán y el arroz y cuece 17 minutos a fuego medio, sin remover apenas para no romper las pelotas.",
     "Apaga y deja reposar 2 minutos. Sirve muy caldoso, con una pelota y un poco de cada carne por plato."
   ],
-  nutricion: { kcal: 818, prot: 46, hc: 82, grasa: 34 },
+  nutricion: { kcal: 660, prot: 38, hc: 61, grasa: 29 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "de domingo", "batch cooking", "poco especiada"],
   consejo: "Si te sobra cocido, este arroz se hace en 30 minutos con su caldo y la carne aprovechada. Las pelotas quedan más tiernas si dejas la masa reposar 15 minutos en la nevera antes de formarlas.",
   contundencia: "contundente",

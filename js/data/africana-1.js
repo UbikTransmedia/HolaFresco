@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "elaborada",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "corvina", q: 400, u: "g", nota: "en 2 rodajas gruesas; vale mero o merluza en rodaja" },
     { n: "arroz partido", q: 160, u: "g", nota: "o arroz largo" },
@@ -484,11 +484,11 @@ window.RECETAS_SEED.push({
     "Sube el fuego los últimos 2 minutos sin remover para que se forme en el fondo la costra tostada (xooñ).",
     "Sirve el arroz en una fuente, coloca encima el pescado y las verduras y acompaña con cuartos de lima y la costra rascada del fondo."
   ],
-  nutricion: { kcal: 870, prot: 43, hc: 105, grasa: 31 },
+  nutricion: { kcal: 650, prot: 32, hc: 78, grasa: 22 },
   etiquetas: ["tradicional", "sin gluten", "picante", "para invitados"],
   consejo: "En Senegal se usa thiof (mero) y arroz partido, que absorbe más salsa; el arroz largo también funciona. El pescado seco y fermentado (guedj) y el tamarindo dan el fondo profundo: dos anchoas y un chorrito de lima lo imitan bien. Se come en una fuente común y el xooñ del fondo es lo más disputado.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -905,7 +905,7 @@ window.RECETAS_SEED.push({
   tiempo: 105,
   dificultad: "media",
   equipo: ["cazuela", "plancha"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 550, u: "g", nota: "4 piezas con hueso y sin piel" },
     { n: "cebolla", q: 3, u: "ud" },
@@ -930,11 +930,11 @@ window.RECETAS_SEED.push({
     "Añade las aceitunas a la cazuela los últimos 5 minutos. Prueba la salsa: debe ser ácida, dulce por la cebolla y algo picante.",
     "Sirve el pollo cubierto de cebolla con el arroz."
   ],
-  nutricion: { kcal: 815, prot: 46, hc: 84, grasa: 33 },
+  nutricion: { kcal: 605, prot: 33, hc: 54, grasa: 28 },
   etiquetas: ["tradicional", "sin gluten", "batch cooking"],
   consejo: "La yassa nació en Casamance, en el sur de Senegal, y también se hace con pescado o cordero. El tiempo de marinado incluye una hora como mínimo; si lo dejas toda la noche, el limón ablanda la carne y la cebolla. Aguanta 3 días en la nevera y mejora al día siguiente.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -950,7 +950,7 @@ window.RECETAS_SEED.push({
   tiempo: 65,
   dificultad: "media",
   equipo: ["sartén", "horno", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera picada", q: 350, u: "g", nota: "magra" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -980,12 +980,12 @@ window.RECETAS_SEED.push({
     "Mientras, cuece el arroz con 200 ml de agua, el resto de la cúrcuma y sal, tapado a fuego mínimo, 12 minutos; deja reposar.",
     "Deja reposar el bobotie 5 minutos, córtalo en porciones y sírvelo con el arroz amarillo."
   ],
-  nutricion: { kcal: 885, prot: 51, hc: 85, grasa: 38 },
+  nutricion: { kcal: 620, prot: 35, hc: 55, grasa: 28 },
   etiquetas: ["tradicional", "al horno", "para niños", "batch cooking", "sin verduras"],
   consejo: "El bobotie lo llevaron a Ciudad del Cabo los esclavos y cocineros traídos de Indonesia y Malasia, y es casi plato nacional. Se sirve con arroz amarillo con pasas, chutney y rodajas de plátano. Aguanta 3 días en la nevera y se congela en porciones; también se hace con cordero picado.",
   alternativa: "Si no encuentras chutney de mango, usa 2 cda de mermelada de albaricoque con unas gotas de vinagre y una pizca de curry: da el mismo punto agridulce.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

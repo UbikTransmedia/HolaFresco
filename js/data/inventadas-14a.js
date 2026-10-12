@@ -336,7 +336,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias negras secas", q: 140, u: "g", nota: "en remojo desde la víspera" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -368,11 +368,11 @@ window.RECETAS_SEED.push({
     "Prepara el aliño de chipotle: ralla el otro diente de ajo y tritura o machaca el chipotle con el yogur, el ajo, el zumo de media lima y sal. Debe quedar como una crema rosada; aclárala con agua si hace falta. Pica el cilantro.",
     "Monta los bowls: arroz a la lima, alubias escurridas aliñadas con unas gotas de aceite, boniato, maíz, aguacate en láminas y queso fresco desmenuzado. Termina con la cebolla encurtida, el aliño de chipotle y el cilantro, y acompaña con gajos de lima."
   ],
-  nutricion: { kcal: 750, prot: 34, hc: 100, grasa: 24 },
+  nutricion: { kcal: 645, prot: 22, hc: 82, grasa: 21 },
   etiquetas: ["batch cooking", "económica", "ideal para llevar", "picante", "superalimentos"],
   consejo: "Cuece el doble de alubias y congélalas en su caldo: con eso tienes media receta hecha la próxima vez. Si vas con prisa, usa 400 g de alubias negras cocidas de bote y la receta se queda en 45 minutos.",
   alternativa: "En lugar del chipotle en adobo, añade al yogur 1 cdta de pimentón ahumado, una pizca de cayena y unas gotas de vinagre de manzana: conserva el picante ahumado del aliño.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -434,7 +434,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "gambas peladas", q: 250, u: "g" },
     { n: "zanahoria", q: 2, u: "ud" },
@@ -461,10 +461,10 @@ window.RECETAS_SEED.push({
     "En un bol, mezcla la zanahoria y el pepino con el contenido del mortero, golpeando y removiendo con una cuchara para que se impregnen bien.",
     "Sirve enseguida con las gambas calientes encima, los cacahuetes y el cilantro."
   ],
-  nutricion: { kcal: 370, prot: 26, hc: 30, grasa: 16 },
+  nutricion: { kcal: 680, prot: 63, hc: 54, grasa: 23 },
   etiquetas: ["rápida", "ligera", "picante", "verano", "sin horno"],
   consejo: "En Tailandia se hace con papaya verde: si la encuentras en tiendas asiáticas, sustituye la zanahoria por ella. Sin mortero, machaca los aliños con el fondo de un vaso en un bol robusto.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -756,7 +756,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (pechuga)", q: 300, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
@@ -784,13 +784,13 @@ window.RECETAS_SEED.push({
     "Dora el bacon en una sartén grande sin aceite a fuego medio 5 minutos, hasta que esté crujiente; mientras, corta el pan en dados. Saca el bacon a papel de cocina. En su grasa, tuesta el pan 2–3 minutos y resérvalo.",
     "Añade el aceite a la misma sartén y fríe los filetes empanados a fuego medio 3–4 minutos por lado, hasta que el rebozado esté dorado y el pollo hecho por dentro. Escúrrelos sobre una rejilla o papel y córtalos en tiras.",
     "Corta la lechuga romana en trozos grandes, lávala y sécala muy bien (si queda agua, el aliño no se pega). Corta los tomates en gajos.",
-    "Mezcla la lechuga con la mitad del aliño, repártela en dos platos con el tomate y coloca encima el pollo crujiente, el bacon troceado y los picatostes. Riega con el resto del aliño y termina con el resto del cebollino."
+    "Mezcla la lechuga con la mitad del aliño, repártela en los platos con el tomate y coloca encima el pollo crujiente, el bacon troceado y los picatostes. Riega con el resto del aliño y termina con el resto del cebollino."
   ],
-  nutricion: { kcal: 730, prot: 46, hc: 56, grasa: 36 },
+  nutricion: { kcal: 615, prot: 32, hc: 34, grasa: 39 },
   etiquetas: ["para niños", "alta en proteína", "sin horno", "poco especiada"],
   consejo: "Para una versión más ligera, hornea el pollo empanado a 210 °C durante 18 minutos sobre papel, pulverizado con un poco de aceite. El aliño ranchero aguanta 3 días en la nevera.",
   alternativa: "Si no encuentras panko, usa 60 g de pan rallado grueso o de copos de maíz sin azúcar machacados groseramente: el empanado queda igual de crujiente.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

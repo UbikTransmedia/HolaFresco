@@ -1055,7 +1055,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "microondas", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "tortillas de maíz", q: 8, u: "ud" },
     { n: "patata", q: 400, u: "g" },
@@ -1080,11 +1080,11 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén a fuego medio-alto (1 cm de altura). Coloca los tacos con la unión hacia abajo: así se sella primero y ya no se abre. Dóralos 2 minutos por cada lado, hasta que estén crujientes, y escúrrelos sobre papel.",
     "Sirve 4 tacos por persona con la lechuga, la salsa de tomate, el yogur, el cilantro y gajos de lima."
   ],
-  nutricion: { kcal: 742, prot: 22, hc: 96, grasa: 30 },
+  nutricion: { kcal: 645, prot: 15, hc: 59, grasa: 40 },
   etiquetas: ["bajo en fodmap", "sin gluten", "vegetariano", "mexicana", "para niños", "económica", "frito"],
   consejo: "Para freír cualquier rollito, taco o croqueta, colócalo con la unión hacia abajo para que se selle antes de girarlo. Si prefieres no freír, pinta los tacos con aceite y hornéalos 15 minutos a 220 °C, o 10 minutos en la airfryer a 200 °C. Las tortillas de maíz son sin gluten y aptas en la dieta baja en FODMAP.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

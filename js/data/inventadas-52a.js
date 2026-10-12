@@ -153,7 +153,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "carne de cocido (sobras)", q: 200, u: "g", nota: "pollo, morcillo y algo de tocino, sin huesos" },
     { n: "jamón serrano", q: 40, u: "g" },
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     "Fríelas en abundante aceite a 180 °C (una miga de pan debe burbujear al instante), pocas a la vez para que no baje la temperatura, 2 minutos, hasta que estén doradas. Escúrrelas sobre papel.",
     "Sirve con la lechuga y el tomate aliñados con aceite y sal."
   ],
-  nutricion: { kcal: 850, prot: 42, hc: 70, grasa: 45 },
+  nutricion: { kcal: 665, prot: 30, hc: 40, grasa: 43 },
   etiquetas: ["aprovechamiento", "tradicional", "frito", "para niños", "congelable", "poco especiada"],
   consejo: "La carne del cocido aguanta 3 días en la nevera separada del caldo, y el caldo otros 3 (o 3 meses congelado). Las croquetas se congelan perfectas ya empanadas y en crudo, separadas en una bandeja y luego en bolsa: se fríen sin descongelar a fuego un poco más bajo. La regla de la bechamel para croquetas es 60 g de harina y 60 g de grasa por cada medio litro de leche: sirve para cualquier relleno.",
   tupper: false,
@@ -423,7 +423,7 @@ window.RECETAS_SEED.push({
   tiempo: 10,
   dificultad: "fácil",
   equipo: ["cazuela", "microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "arroz cocido", q: 300, u: "g", nota: "sobrante del día anterior" },
     { n: "salmón asado (sobras)", q: 120, u: "g" },
@@ -440,14 +440,14 @@ window.RECETAS_SEED.push({
     "Añade la salsa de soja al té: será el caldo, ligero y aromático.",
     "Calienta el arroz en el microondas 1 minuto con una cucharada de agua por encima, tapado, para que recupere humedad sin secarse.",
     "Desmiga el salmón en lascas y caliéntalo 20 segundos en el microondas, solo para templarlo; si lo calientas mucho, se reseca.",
-    "Reparte el arroz en dos cuencos, coloca encima el salmón y vierte el té caliente hasta cubrir a medias el arroz.",
+    "Reparte el arroz en los cuencos, coloca encima el salmón y vierte el té caliente hasta cubrir a medias el arroz.",
     "Termina con la nori, la cebolleta, el jengibre y el sésamo, y come enseguida, antes de que el arroz se empape del todo."
   ],
-  nutricion: { kcal: 335, prot: 18, hc: 42, grasa: 10 },
+  nutricion: { kcal: 720, prot: 40, hc: 90, grasa: 21 },
   etiquetas: ["aprovechamiento", "rápida", "ligera", "cena ligera", "reconfortante", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "Arroz y pescado cocinados son sobras de vida corta: 1-2 días el arroz y 2 días el pescado, ambos en la nevera en recipiente hermético y enfriados rápido. Recalienta siempre el arroz hasta que humee. La idea del ochazuke (algo sabroso + arroz + líquido caliente aromático) sirve con dashi, caldo de pollo o miso disuelto en agua.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -508,7 +508,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["cazuela"],
   coccion: ["una-olla"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "carcasa de pollo", q: 1, u: "ud", nota: "la de un pollo asado, con sus huesos y pieles" },
     { n: "pollo asado (sobras)", q: 100, u: "g", nota: "desmigado" },
@@ -532,11 +532,11 @@ window.RECETAS_SEED.push({
     "Incorpora el pollo desmigado y la zanahoria en el último minuto, solo para calentar.",
     "Sirve con el huevo duro y el perejil por encima."
   ],
-  nutricion: { kcal: 310, prot: 22, hc: 30, grasa: 11 },
+  nutricion: { kcal: 600, prot: 50, hc: 58, grasa: 18 },
   etiquetas: ["aprovechamiento", "de cuchara", "ligera", "invierno", "para niños", "económica", "reconfortante", "poco especiada", "bajo en colesterol"],
   consejo: "La carcasa se guarda 2 días en la nevera o 3 meses congelada en una bolsa: ve juntando carcasas y haz el caldo cuando tengas dos. El caldo colado aguanta 4 días en la nevera; la grasa que cuaja arriba lo protege, retírala antes de usarlo. Regla de oro de todo caldo: agua fría, espumar y fuego suave.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -992,7 +992,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["horno", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo asado (sobras)", q: 250, u: "g", nota: "en trozos de bocado" },
     { n: "hojaldre", q: 150, u: "g", nota: "media lámina refrigerada" },
@@ -1015,15 +1015,15 @@ window.RECETAS_SEED.push({
     "Funde la mantequilla en una sartén a fuego medio y rehoga la cebolla y la zanahoria 6 minutos. Añade los champiñones y cocina 3 minutos más, hasta que suelten el agua. Mientras, calienta el caldo con la leche en un cazo.",
     "Espolvorea la harina y remueve 1 minuto para que se tueste. Es un roux sobre las propias verduras: espesará la salsa sin grumos.",
     "Vierte poco a poco el caldo y la leche calientes sin dejar de remover y cuece 4 minutos, hasta que la salsa nape la cuchara. Añade el tomillo, el pollo y los guisantes, y salpimienta.",
-    "Pasa el relleno a una fuente pequeña (o a dos cuencos aptos para horno) y déjalo templar 5 minutos: si el hojaldre se pone sobre un relleno hirviendo, se ablanda por debajo y no sube.",
+    "Pasa el relleno a una fuente pequeña (o a los cuencos aptos para horno) y déjalo templar 5 minutos: si el hojaldre se pone sobre un relleno hirviendo, se ablanda por debajo y no sube.",
     "Cubre con el hojaldre, presiona los bordes contra la fuente, haz dos cortes en el centro para que salga el vapor y píntalo con el huevo batido.",
     "Hornea 20 minutos, hasta que el hojaldre esté hinchado y bien dorado. Deja reposar 5 minutos antes de servir para que la salsa asiente."
   ],
-  nutricion: { kcal: 765, prot: 42, hc: 55, grasa: 42 },
+  nutricion: { kcal: 605, prot: 34, hc: 38, grasa: 34 },
   etiquetas: ["aprovechamiento", "al horno", "reconfortante", "para niños", "invierno", "económica", "poco especiada"],
   consejo: "El pollo asado aguanta 3-4 días en la nevera y 3 meses congelado sin huesos. El relleno de este pastel se puede preparar con 2 días de antelación y guardarse en la nevera; el día que lo comas, solo tienes que cubrir con hojaldre y hornear 5 minutos más. El hojaldre sube por el contraste de temperatura: masa fría, horno muy caliente.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

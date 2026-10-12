@@ -312,7 +312,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "harina de trigo", q: 250, u: "g" },
     { n: "levadura seca de panadería", q: 4, u: "g" },
@@ -337,7 +337,7 @@ window.RECETAS_SEED.push({
     "Pinta con el otro huevo batido y hornea 30-35 minutos, hasta que esté bien dorada por arriba y por abajo.",
     "Deja templar 10 minutos sobre una rejilla antes de cortar."
   ],
-  nutricion: { kcal: 890, prot: 38, hc: 95, grasa: 40 },
+  nutricion: { kcal: 650, prot: 25, hc: 73, grasa: 27 },
   etiquetas: ["tradicional", "saciante", "económica", "al horno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Usa el aceite rojizo que suelta el sofrito para la masa y para pintar los bordes: es el truco de las panaderías gallegas y da color y sabor. Templada o fría está aún mejor, ideal para llevar.",
   alternativa: "Si no te apetece amasar, compra 2 láminas de masa de empanada fresca en refrigerados: el resultado es muy parecido y te ahorras los 45 min de reposo; píntala igualmente con el aceite del sofrito.",
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén", "horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "trucha (filetes)", q: 4, u: "ud", nota: "unos 320 g; o 2 truchas abiertas" },
     { n: "jamón serrano", q: 4, u: "loncha" },
@@ -791,7 +791,7 @@ window.RECETAS_SEED.push({
     "Fríe las truchas a fuego medio 3-4 minutos por cada lado, hasta que la piel esté dorada y crujiente.",
     "Sirve las truchas con el jamón y los ajos dorados por encima, las patatas y unas gotas de limón."
   ],
-  nutricion: { kcal: 630, prot: 40, hc: 45, grasa: 32 },
+  nutricion: { kcal: 635, prot: 47, hc: 27, grasa: 36 },
   etiquetas: ["tradicional", "fácil", "rápida", "económica", "sin verduras", "poco especiada"],
   consejo: "La trucha de piscifactoría es de los pescados más baratos del mercado. Fríe primero el jamón para que suelte su grasa en el aceite: así toda la trucha sabe a jamón.",
   contundencia: "media",

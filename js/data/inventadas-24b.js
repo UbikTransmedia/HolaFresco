@@ -514,7 +514,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "merluza (lomos)", q: 200, u: "g", nota: "vale congelada" },
     { n: "gambas peladas", q: 80, u: "g" },
@@ -540,7 +540,7 @@ window.RECETAS_SEED.push({
     "Fríelas en aceite bien caliente, de pocas en pocas, 1-2 minutos hasta que estén doradas. Escurre sobre papel.",
     "Sírvelas con la lechuga y el tomate aliñados."
   ],
-  nutricion: { kcal: 760, prot: 30, hc: 70, grasa: 40 },
+  nutricion: { kcal: 725, prot: 31, hc: 44, grasa: 47 },
   etiquetas: ["tradicional", "saciante", "económica", "batch cooking", "para niños", "poco especiada"],
   consejo: "Cocer la merluza en la misma leche de la bechamel es el truco de abuela para que la croqueta sepa a pescado de verdad. Congélalas ya empanadas, separadas en una bandeja, y luego guárdalas en bolsa.",
   contundencia: "contundente",

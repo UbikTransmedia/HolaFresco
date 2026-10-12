@@ -249,7 +249,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "mejillones", q: 1000, u: "g", nota: "con concha" },
     { n: "patata", q: 400, u: "g" },
@@ -270,11 +270,11 @@ window.RECETAS_SEED.push({
     "Cuando se puedan tocar, retira la valva vacía de cada mejillón y colócalos en una fuente sobre la media concha.",
     "Pon una cucharada de chalaca sobre cada mejillón, rocía con su jugo y sirve con las papas en rodajas y la última lima en gajos."
   ],
-  nutricion: { kcal: 395, prot: 24, hc: 50, grasa: 11 },
+  nutricion: { kcal: 725, prot: 42, hc: 91, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "económica"],
   consejo: "La chalaca original lleva cebolla roja y ají limo; la parte verde de la cebolleta aporta el punto fresco sin fructanos y el cilantro y la lima hacen el resto. El maíz dulce es bajo en FODMAP hasta unos 38 g por persona: aquí van 30. Los mejillones son baratos, muy ricos en hierro y vitamina B12 y apenas tienen grasa; cuécelos lo justo para que no queden gomosos.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 

@@ -985,7 +985,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "elaborada",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "rabo de toro", q: 700, u: "g", nota: "troceado por las juntas" },
     { n: "arroz bomba", q: 140, u: "g" },
@@ -1012,7 +1012,7 @@ window.RECETAS_SEED.push({
     "Añade el arroz al caldo hirviendo y cocina 16–17 minutos a fuego medio, removiendo de vez en cuando como un risotto para que suelte el almidón. A los 12 minutos incorpora la carne deshilachada.",
     "El arroz está listo cuando esté al dente y el caldo se haya convertido en una salsa espesa y brillante que se mueva como una ola. Ajusta de sal, deja reposar 2 minutos y sirve."
   ],
-  nutricion: { kcal: 790, prot: 36, hc: 68, grasa: 41 },
+  nutricion: { kcal: 615, prot: 32, hc: 52, grasa: 29 },
   etiquetas: ["de fin de semana", "invierno", "para invitados", "aprovechamiento", "poco especiada"],
   consejo: "Lo ideal es estofar el rabo la víspera: al enfriar el caldo en la nevera la grasa se solidifica arriba y se retira entera. El arroz se hace al día siguiente en 20 minutos.",
   alternativa: "Con olla exprés, estofa el rabo 50 minutos a presión en lugar de las 2 horas y media de cazuela; deja que baje la presión sola y sigue con el arroz igual.",
@@ -1032,7 +1032,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "elaborada",
   equipo: ["cazuela", "horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "macarrones", q: 150, u: "g" },
     { n: "cordero picado", q: 180, u: "g" },
@@ -1062,11 +1062,11 @@ window.RECETAS_SEED.push({
     "Extiende la bechamel por encima hasta los bordes, espolvorea el resto del queso y hornea 40 minutos, hasta que la superficie esté dorada e hinchada.",
     "Deja reposar 15 minutos fuera del horno antes de cortar: así sale en porciones limpias con sus tres capas."
   ],
-  nutricion: { kcal: 885, prot: 41, hc: 84, grasa: 42 },
+  nutricion: { kcal: 615, prot: 28, hc: 56, grasa: 29 },
   etiquetas: ["al horno", "de fin de semana", "batch cooking", "invierno", "poco especiada"],
   consejo: "Con ternera picada sale igual de rico y más económico. Si puedes, usa pasta larga y hueca tipo bucatini, como en Grecia: las capas quedan más definidas.",
   alternativa: "La pimienta de Jamaica se puede sustituir por un clavo de olor molido y una pizca de nuez moscada en el ragú: el aroma especiado del cordero apenas cambia.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

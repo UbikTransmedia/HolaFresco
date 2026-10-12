@@ -101,7 +101,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "fideos udon", q: 400, u: "g", nota: "frescos o precocidos" },
     { n: "tofu firme", q: 200, u: "g" },
@@ -124,13 +124,13 @@ window.RECETAS_SEED.push({
     "Seca bien el tofu con papel, córtalo en triángulos de 1 cm de grosor y dóralo en la sartén con el aceite de oliva a fuego medio-alto 3 minutos por lado, hasta que esté crujiente.",
     "Añade 1 cucharada de soja, el azúcar y 1 de mirin a la sartén caliente con el tofu: dale vueltas 30 segundos hasta que el glaseado brille y se pegue. Apaga.",
     "Saca las setas del caldo, córtalas en tiras y devuélvelas. Añade el resto de la soja y del mirin; prueba: debe quedar sabroso pero ligero. Echa los udon y cuécelos 2-3 minutos, solo hasta que se separen y estén calientes.",
-    "Reparte fideos y caldo en dos boles grandes. Coloca encima el tofu glaseado, el wakame, el huevo partido por la mitad, la cebolleta, unas gotas de aceite de sésamo y el sésamo."
+    "Reparte fideos y caldo en los boles grandes. Coloca encima el tofu glaseado, el wakame, el huevo partido por la mitad, la cebolleta, unas gotas de aceite de sésamo y el sésamo."
   ],
-  nutricion: { kcal: 544, prot: 28, hc: 72, grasa: 16 },
+  nutricion: { kcal: 670, prot: 28, hc: 97, grasa: 17 },
   etiquetas: ["rápida", "de cuchara", "vegetariana", "invierno", "poco especiada"],
   consejo: "Si no encuentras mirin, sustitúyelo por la misma cantidad de vino blanco con media cucharadita extra de azúcar.",
   alternativa: "Si te falta la wakame, desmenuza media hoja de alga nori sobre el bol justo al servir; el toque marino es casi el mismo, aunque la nori se ablanda enseguida.",
-  contundencia: "media",
+  contundencia: "contundente",
   coste: "media"
 });
 

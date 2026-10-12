@@ -240,7 +240,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "queso edam", q: 200, u: "g", nota: "en 2 bloques de 1,5 cm; o gouda semicurado" },
     { n: "harina de trigo", q: 25, u: "g" },
@@ -266,11 +266,11 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén honda a 170 °C (un dado de pan se dora en unos 40 segundos). Fríe el queso 1–2 minutos por cada lado, hasta que esté dorado y empiece a ceder al presionarlo. Escúrrelo sobre papel.",
     "Corta las patatas por la mitad y saltéalas 1 minuto con la mantequilla y el perejil. Sirve el queso recién frito con las patatas y la salsa tártara."
   ],
-  nutricion: { kcal: 1000, prot: 41, hc: 62, grasa: 65 },
+  nutricion: { kcal: 590, prot: 20, hc: 28, grasa: 44 },
   etiquetas: ["tradicional", "para niños", "frito", "sin verduras", "poco especiada"],
   consejo: "Vyprážaný syr en Eslovaquia y smažený sýr en Chequia: es el plato vegetariano de cualquier comedor o merendero, siempre con salsa tártara. Si temes que el queso se escape, mete los bloques empanados 15 minutos en el congelador antes de freír. Es un plato contundente: acompáñalo con una ensalada de col o de pepino y deja el postre para otro día.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

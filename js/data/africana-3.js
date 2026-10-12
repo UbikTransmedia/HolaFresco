@@ -470,7 +470,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz vaporizado", q: 160, u: "g", nota: "de grano largo" },
     { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados" },
@@ -500,11 +500,11 @@ window.RECETAS_SEED.push({
     "Mientras reposa, pela el plátano, córtalo en rodajas al bies y dóralo en una sartén con el resto del aceite 2-3 minutos por lado, hasta que esté caramelizado. Sala.",
     "Sirve el jollof con el pollo, el dodo y la costra del fondo rascada al lado."
   ],
-  nutricion: { kcal: 880, prot: 38, hc: 112, grasa: 31 },
+  nutricion: { kcal: 615, prot: 24, hc: 81, grasa: 21 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "picante", "batch cooking", "verduras escondidas"],
   consejo: "El arroz vaporizado es el que se usa en Nigeria: aguanta la cocción larga sin pasarse. El sabor ahumado del fondo («party rice») sale de cocinarlo en olla grande a la leña; con el golpe de fuego final te acercas. Comprueba que el caldo no lleve gluten si lo necesitas. Aguanta 3 días en la nevera; el dodo, mejor recién hecho.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
   tiempo: 105,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 350, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -686,11 +686,11 @@ window.RECETAS_SEED.push({
     "Mide el líquido: deja en la cazuela unos 380 ml (si falta, completa con agua) y retira el habanero. Lava el arroz, añádelo al caldo hirviendo, sala, tapa con papel de aluminio y la tapa, y cuece a fuego mínimo 20-25 minutos sin remover, hasta que esté tierno y seco.",
     "Sube el fuego los últimos 2-3 minutos para que se forme el xooñ, la costra tostada del fondo. Sirve el arroz con la carne y las verduras encima, gajos de lima y la costra rascada al lado."
   ],
-  nutricion: { kcal: 840, prot: 45, hc: 91, grasa: 33 },
+  nutricion: { kcal: 610, prot: 31, hc: 68, grasa: 23 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "batch cooking", "invierno"],
   consejo: "En Senegal el arroz partido (brisure) es el del día a día; lo encuentras en tiendas africanas y asiáticas, y si no, el jazmín funciona. También se hace con cordero, que es lo más festivo. El habanero entero da aroma sin picar demasiado: si te gusta el picante, pínchalo con un cuchillo antes de echarlo.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -1023,7 +1023,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "patata", q: 300, u: "g" },
     { n: "huevo", q: 4, u: "ud" },
@@ -1051,7 +1051,7 @@ window.RECETAS_SEED.push({
     "Mezcla el coco rallado con el zumo de media lima, 2 cucharadas de agua caliente, una pizca de sal y un poco del cilantro: es el chutney de coco. Corta la otra media lima en gajos.",
     "Reparte en cuencos hondos las patatas, los huevos en cuartos y las bhajias partidas, vierte encima la sopa muy caliente y termina con el chutney de coco, el resto del cilantro y los gajos de lima."
   ],
-  nutricion: { kcal: 710, prot: 26, hc: 80, grasa: 32 },
+  nutricion: { kcal: 680, prot: 20, hc: 53, grasa: 42 },
   etiquetas: ["tradicional", "vegetariana", "sin gluten", "picante", "frito"],
   consejo: "El urojo se sirve cada noche en los jardines de Forodhani, en Stone Town: la base es siempre la sopa de mango verde, tamarindo y lima, y cada puesto le echa lo que tenga, desde brochetas de mishkaki y patatas hasta crujientes de yuca, bhajias y salsa de chile. En la isla se espesa con harina de trigo; con la de garbanzo queda sin gluten y con más sabor. Si el mango está maduro, añade más lima o tamarindo: la acidez es la gracia del plato. La sopa aguanta 3 días en la nevera; las bhajias, mejor recién fritas.",
   tupper: false,

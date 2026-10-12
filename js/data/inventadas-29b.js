@@ -102,7 +102,7 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["sartén"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pimiento verde", q: 2, u: "ud", nota: "los alargados, de freír" },
     { n: "pimiento amarillo", q: 1, u: "ud" },
@@ -122,10 +122,10 @@ window.RECETAS_SEED.push({
     "Bate los huevos con sal y pimienta y viértelos sobre el lecsó. Remueve suavemente 1-2 minutos, hasta que estén cuajados pero cremosos.",
     "Sirve enseguida con pan tostado para mojar."
   ],
-  nutricion: { kcal: 375, prot: 18, hc: 26, grasa: 22 },
+  nutricion: { kcal: 705, prot: 30, hc: 45, grasa: 44 },
   etiquetas: ["tradicional", "ligera", "rápida", "económica", "verano", "una sola sartén", "poco especiada"],
   consejo: "En verano, cuando los pimientos y tomates están en su punto, las familias húngaras hacen lecsó en cantidad y lo embotan. Si quieres una versión más contundente, añade salchicha ahumada en rodajas.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pato (muslos)", q: 2, u: "ud", nota: "unos 500 g" },
     { n: "chorizo", q: 60, u: "g" },
@@ -463,10 +463,10 @@ window.RECETAS_SEED.push({
     "Mezcla la carne de pato con el arroz y coloca encima las rodajas de chorizo.",
     "Hornea 15 minutos, hasta que el arroz esté seco y suelto y el chorizo haya formado una costra dorada. Deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 805, prot: 42, hc: 78, grasa: 36 },
+  nutricion: { kcal: 595, prot: 32, hc: 47, grasa: 30 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "al horno", "poco especiada"],
   consejo: "El caldo sobrante es buenísimo para una sopa. Puedes cocer el pato la víspera: al enfriarse, la grasa sube y se retira de una pieza.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -739,7 +739,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "remolacha", q: 500, u: "g", nota: "cruda" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -767,11 +767,11 @@ window.RECETAS_SEED.push({
     "Añade el vinagre, el azúcar, la mejorana, sal y pimienta: debe quedar agridulce y equilibrado. Calienta sin que llegue a hervir para que conserve el color.",
     "Sirve el barszcz en cuencos con una cucharada de yogur y las patatas al eneldo en un plato al lado, como en Polonia."
   ],
-  nutricion: { kcal: 355, prot: 10, hc: 52, grasa: 12 },
+  nutricion: { kcal: 625, prot: 21, hc: 118, grasa: 5 },
   etiquetas: ["tradicional", "de cuchara", "económica", "ligera", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "No dejes que hierva tras añadir el vinagre o el rojo se volverá marrón. Usa guantes para pelar la remolacha y evitar mancharte las manos.",
   alternativa: "Si no tienes pimienta de Jamaica, añade un clavo de olor entero con el laurel (retíralo al final) y unas bolitas de pimienta negra: el caldo mantiene su aroma especiado.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -787,7 +787,7 @@ window.RECETAS_SEED.push({
   tiempo: 160,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "confit de pato (muslos)", q: 2, u: "ud" },
     { n: "alubias blancas secas", q: 120, u: "g", nota: "en remojo desde la víspera" },
@@ -813,7 +813,7 @@ window.RECETAS_SEED.push({
     "Saca la panceta, córtala en dados y devuélvela. Añade los muslos de pato a la olla y cuece 15 minutos para que perfumen el potaje; mientras, tuesta el pan. Rectifica de sal y pimienta: debe quedar tan espeso que la cuchara casi se sostenga.",
     "Pon el pan tostado en el fondo de los platos y sirve el garbure encima con un muslo de pato por persona."
   ],
-  nutricion: { kcal: 745, prot: 40, hc: 56, grasa: 40 },
+  nutricion: { kcal: 730, prot: 40, hc: 52, grasa: 38 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking", "poco especiada"],
   consejo: "En Gascuña, al final se echa un chorro de vino tinto en el último caldo del plato y se bebe: es el 'chabrot'. Si tienes poco tiempo, usa alubias cocidas y empieza en el paso 2.",
   contundencia: "contundente",

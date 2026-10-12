@@ -195,7 +195,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 550, u: "g", nota: "con hueso, 4 unidades" },
     { n: "vino tinto", q: 300, u: "ml" },
@@ -227,10 +227,10 @@ window.RECETAS_SEED.push({
     "Saltea las setas en una sartén muy caliente con unas gotas de aceite 4-5 minutos, hasta que doren. Añádelas a la cazuela los últimos 10 minutos de cocción, destapada, para que la salsa reduzca y espese.",
     "Retira el laurel y el tomillo, rectifica de sal y sirve el pollo con su salsa sobre el puré, con el perejil picado."
   ],
-  nutricion: { kcal: 780, prot: 52, hc: 56, grasa: 40 },
+  nutricion: { kcal: 590, prot: 37, hc: 36, grasa: 30 },
   etiquetas: ["de cuchara", "invierno", "fin de semana", "batch cooking", "reconfortante", "poco especiada"],
   consejo: "Usa un vino tinto que te beberías: la salsa concentra sus sabores. Puedes marinar el pollo en el vino la noche anterior para un sabor más profundo.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

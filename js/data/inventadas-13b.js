@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["batidora", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos, reserva 4 cda del líquido" },
     { n: "tahini", q: 2, u: "cda" },
@@ -40,10 +40,10 @@ window.RECETAS_SEED.push({
     "En la misma sartén, pocha la cebolla y el ajo picados con 1 cucharada de aceite 4 minutos a fuego medio, hasta que esté transparente.",
     "Sube el fuego, añade la ternera picada y desmenúzala con la cuchara. Cocina 5-6 minutos sin remover demasiado para que se dore y quede algo crujiente. Sazona con sal, la canela y medio pimentón.",
     "Calienta las pitas 1 minuto por lado en una sartén o directamente sobre el fuego, y córtalas en triángulos.",
-    "Extiende el hummus en dos platos haciendo un hueco en el centro con el dorso de la cuchara. Reparte la carne caliente encima con su jugo.",
+    "Extiende el hummus en los platos haciendo un hueco en el centro con el dorso de la cuchara. Reparte la carne caliente encima con su jugo.",
     "Mezcla la última cucharada de aceite con el resto del pimentón y riega por encima. Termina con los piñones, el perejil y los granos de granada, y sirve con la pita caliente."
   ],
-  nutricion: { kcal: 775, prot: 42, hc: 62, grasa: 40 },
+  nutricion: { kcal: 655, prot: 32, hc: 49, grasa: 35 },
   etiquetas: ["rápida", "alta en proteína", "para compartir", "sin verduras", "poco especiada"],
   consejo: "El contraste caliente-frío es la gracia del plato: saca el hummus de la nevera un rato antes para que esté a temperatura ambiente y la carne recién hecha.",
   contundencia: "contundente",
@@ -926,7 +926,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "carrillada ibérica", q: 400, u: "g", nota: "limpia de telillas" },
     { n: "lentejas pardinas secas", q: 140, u: "g" },
@@ -956,7 +956,7 @@ window.RECETAS_SEED.push({
     "Devuelve la carne a la cazuela, retira laurel y tomillo, rectifica de sal y deja reposar 10 minutos fuera del fuego.",
     "Sirve en plato hondo con los bastones de zanahoria glaseada por encima."
   ],
-  nutricion: { kcal: 764, prot: 52, hc: 58, grasa: 36 },
+  nutricion: { kcal: 630, prot: 39, hc: 39, grasa: 33 },
   etiquetas: ["de cuchara", "invierno", "para invitados", "batch cooking", "poco especiada"],
   consejo: "En olla exprés, la carrillada está lista en 35 minutos a presión; luego añade las lentejas y cuécelas 8 minutos más.",
   contundencia: "contundente",

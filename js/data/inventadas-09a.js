@@ -553,7 +553,7 @@ window.RECETAS_SEED.push({
   tiempo: 90,
   dificultad: "media",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "canelones (placas)", q: 12, u: "ud" },
     { n: "pavo picado", q: 300, u: "g" },
@@ -582,10 +582,10 @@ window.RECETAS_SEED.push({
     "Pon una capa fina de bechamel en una fuente, coloca los canelones con el cierre hacia abajo, cúbrelos con el resto de la bechamel y espolvorea el queso.",
     "Hornea 20 minutos y gratina 2-3 minutos más hasta que estén dorados. Deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 780, prot: 54, hc: 67, grasa: 33 },
+  nutricion: { kcal: 615, prot: 39, hc: 48, grasa: 29 },
   etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Los canelones montados (sin hornear) se congelan muy bien con su bechamel. Hornéalos directamente desde congelado 40 minutos a 180 °C tapados y 10 destapados.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -738,7 +738,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz bomba", q: 150, u: "g" },
     { n: "costillas de cerdo", q: 300, u: "g", nota: "troceadas pequeñas" },
@@ -762,7 +762,7 @@ window.RECETAS_SEED.push({
     "Coloca encima la patata, las rodajas de tomate, la morcilla y la cabeza de ajos entera en el centro. Hornea 20-25 minutos sin tocar, hasta que el caldo se haya absorbido y la superficie esté dorada.",
     "Deja reposar 5 minutos fuera del horno. Cada comensal aplasta unos dientes de ajo confitado sobre su arroz."
   ],
-  nutricion: { kcal: 920, prot: 39, hc: 94, grasa: 43 },
+  nutricion: { kcal: 700, prot: 27, hc: 66, grasa: 35 },
   etiquetas: ["al horno", "tradicional", "invierno", "fin de semana", "de aprovechamiento", "poco especiada"],
   consejo: "Es el plato del día después del cocido: si tienes caldo y garbanzos de un puchero, úsalos y el arroz sabrá el doble.",
   contundencia: "contundente",
@@ -873,7 +873,7 @@ window.RECETAS_SEED.push({
   tiempo: 60,
   dificultad: "media",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "rigatoni", q: 160, u: "g" },
     { n: "salchichas frescas", q: 200, u: "g", nota: "de cerdo, sin piel" },
@@ -900,11 +900,11 @@ window.RECETAS_SEED.push({
     "Mezcla la pasta con el ragú, la mitad de la mozzarella y la mitad de la albahaca. Pásala a una fuente de horno, reparte el resto de la mozzarella y el parmesano por encima.",
     "Hornea 15-18 minutos hasta que el queso burbujee y los bordes de los rigatoni queden crujientes. Sirve con el resto de la albahaca y las hojas de hinojo."
   ],
-  nutricion: { kcal: 860, prot: 41, hc: 76, grasa: 44 },
+  nutricion: { kcal: 610, prot: 29, hc: 54, grasa: 28 },
   etiquetas: ["al horno", "batch cooking", "invierno", "para niños", "fin de semana"],
   consejo: "Las salchichas ya aportan grasa y sal: por eso el ragú lleva solo 1 cucharada de aceite y conviene probar antes de salar.",
   alternativa: "Si no encuentras hinojo fresco, lamina 2 ramas de apio y sube a 1½ cdta las semillas de hinojo: el ragú mantiene su aroma anisado y la textura tierna de la verdura.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

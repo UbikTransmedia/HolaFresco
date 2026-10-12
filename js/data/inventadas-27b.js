@@ -995,7 +995,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "canelones (placas)", q: 12, u: "ud" },
     { n: "espinacas frescas", q: 500, u: "g" },
@@ -1022,7 +1022,7 @@ window.RECETAS_SEED.push({
     "Extiende una capa fina de bechamel en una fuente, coloca los canelones con la juntura hacia abajo y cúbrelos con el resto de la bechamel. Espolvorea el parmesano.",
     "Hornea 15 minutos y gratina 3-4 minutos más, hasta que estén dorados. Reposa 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 806, prot: 34, hc: 82, grasa: 38 },
+  nutricion: { kcal: 665, prot: 27, hc: 56, grasa: 37 },
   etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "de domingo", "poco especiada"],
   consejo: "Las espinacas con piñones y pasas son un clásico catalán de Cuaresma. Prepara los canelones rellenos la víspera y gratínalos al día siguiente: la bechamel se asienta y quedan todavía mejor.",
   contundencia: "contundente",

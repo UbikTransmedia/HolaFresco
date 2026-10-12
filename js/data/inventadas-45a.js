@@ -243,7 +243,7 @@ window.RECETAS_SEED.push({
   tiempo: 110,
   dificultad: "media",
   equipo: ["horno", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "cordero (paletilla)", q: 1000, u: "g", nota: "2 paletillas de lechal, unos 500 g cada una" },
     { n: "patata", q: 500, u: "g" },
@@ -269,11 +269,11 @@ window.RECETAS_SEED.push({
     "Deja reposar la carne 5 minutos fuera del horno. Mientras, aliña la ensalada con aceite, vinagre y sal.",
     "Sirve cada paletilla sobre sus patatas panaderas, con el jugo de la fuente por encima y la ensalada aparte para refrescar."
   ],
-  nutricion: { kcal: 920, prot: 57, hc: 52, grasa: 54 },
+  nutricion: { kcal: 620, prot: 34, hc: 25, grasa: 42 },
   etiquetas: ["primavera", "temporada", "al horno", "para invitados", "de domingo", "tradicional", "sin gluten", "poco especiada"],
   consejo: "El asado en dos tiempos (primero húmedo con la piel abajo, luego seco con la piel arriba y más temperatura) sirve para cualquier pieza con piel: pollo, codillo, cochinillo o pato. El cordero lechal es de primavera: elige paletillas pequeñas, de carne rosada pálida y grasa blanca.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

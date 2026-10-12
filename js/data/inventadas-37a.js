@@ -227,7 +227,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pavo (pechuga)", q: 320, u: "g", nota: "en dados de 3 cm" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -250,10 +250,10 @@ window.RECETAS_SEED.push({
     "Mientras, pica el perejil, ralla el ajo sobre el yogur, añade el zumo del otro medio limón, el perejil y sal, y mezcla.",
     "Sirve las brochetas con la salsa de yogur por encima o al lado."
   ],
-  nutricion: { kcal: 310, prot: 41, hc: 12.5, grasa: 10.5 },
+  nutricion: { kcal: 645, prot: 84, hc: 24, grasa: 23 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "ligera", "fácil", "tupper", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Para una comida más completa, acompáñalas con arroz integral o con una patata asada en la propia airfryer (25 minutos a 200 °C). El pavo se seca si te pasas: sácalo en cuanto deje de estar rosado.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   tupper: true
 });
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "batidora", "microondas"],
   coccion: ["airfryer", "microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "coliflor", q: 500, u: "g", nota: "en ramilletes" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -600,10 +600,10 @@ window.RECETAS_SEED.push({
     "Pela los ajos asados y ponlos en el vaso de la batidora con la coliflor, la cebolla, las alubias y el caldo caliente. Tritura hasta que quede muy fina; si la quieres más ligera, añade agua.",
     "Sirve la crema con un hilo de aceite de pimentón y pimienta recién molida."
   ],
-  nutricion: { kcal: 300, prot: 13.5, hc: 30, grasa: 14 },
+  nutricion: { kcal: 675, prot: 27, hc: 67, grasa: 30 },
   etiquetas: ["saludable", "práctica", "airfryer", "microondas", "sin gluten", "vegana", "ligera", "fácil", "económica", "tupper", "batch cooking", "invierno", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las alubias dan cremosidad sin nata y añaden proteína. Aguanta 4 días en la nevera y se congela sin problema; guarda el aceite de pimentón aparte.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: true
 });

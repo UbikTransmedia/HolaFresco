@@ -730,7 +730,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias rojas cocidas", q: 300, u: "g", nota: "con un poco de su caldo" },
     { n: "panceta", q: 80, u: "g", nota: "en un trozo, para el chicharrón" },
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
     "Amasa la harina de maíz con 60 ml de agua tibia y una pizca de sal; forma 2 arepas finas y dóralas en la misma sartén 4 minutos por lado. Después fríe el plátano en tajadas al bies 3 minutos por lado, y por último los huevos.",
     "Monta cada bandeja con el arroz, los fríjoles, la carne, el chicharrón, el huevo frito, el plátano, la arepa y el aguacate en láminas."
   ],
-  nutricion: { kcal: 1090, prot: 40, hc: 118, grasa: 51 },
+  nutricion: { kcal: 695, prot: 31, hc: 74, grasa: 29 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para invitados", "poco especiada"],
   consejo: "Es un plato para un domingo con hambre de arriero. Aprovecha la grasa del chicharrón para todo lo demás: es lo que da el sabor paisa. Si quieres aligerarla, quita el chicharrón y deja la carne molida.",
   contundencia: "contundente",

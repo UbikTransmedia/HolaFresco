@@ -872,7 +872,7 @@ window.RECETAS_SEED.push({
   tiempo: 155,
   dificultad: "media",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "paletilla de cordero", q: 500, u: "g", nota: "troceada, con hueso; pídelo en la carnicería" },
     { n: "judías blancas cocidas", q: 400, u: "g" },
@@ -896,10 +896,10 @@ window.RECETAS_SEED.push({
     "Destapa, añade las alubias escurridas al jugo y remueve con cuidado. Sube el horno a 210 °C y hornea 20–25 minutos sin tapa, hasta que el cordero esté dorado, la carne se separe del hueso, las patatas se tuesten por arriba y el jugo espese.",
     "Deja reposar 10 minutos, aplasta los ajos asados en el jugo y sirve en la misma fuente."
   ],
-  nutricion: { kcal: 800, prot: 47, hc: 66, grasa: 36 },
+  nutricion: { kcal: 600, prot: 35, hc: 42, grasa: 30 },
   etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "para invitados", "fin de semana", "invierno", "poco especiada"],
   consejo: "Ispod sača («bajo la campana») es la forma más apreciada de asar en Montenegro, Bosnia y Serbia: la carne y las patatas se cubren con una campana de hierro sobre la que se ponen brasas, de modo que primero se cuecen en su vapor y luego se doran. En esta versión las alubias son la base del plato: se añaden al final para que absorban todo el jugo del cordero sin deshacerse. También funciona con cabrito o con paletilla de cerdo. Aguanta 3 días en la nevera; recaliéntalo tapado en el horno.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });

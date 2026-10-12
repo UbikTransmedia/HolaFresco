@@ -286,7 +286,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "seitán", q: 260, u: "g", nota: "en bloque" },
     { n: "queso crema", q: 60, u: "g", nota: "en lugar del kajmak serbio" },
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
     "Para la salsa tártara, mezcla la mayonesa y el yogur con los pepinillos, las alcaparras y la mitad del perejil, todo muy picado, y unas gotas de limón.",
     "Quita los palillos, sirve cada šnicla con las patatas, la salsa tártara, un gajo de limón y el resto del perejil por encima."
   ],
-  nutricion: { kcal: 760, prot: 46, hc: 57, grasa: 38 },
+  nutricion: { kcal: 690, prot: 31, hc: 43, grasa: 44 },
   etiquetas: ["creativa", "alta en proteína", "para invitados", "fritos"],
   consejo: "El plato se inventó en Belgrado en los años 50 y se sirve en cualquier kafana con patatas fritas, salsa tártara y limón. El kajmak, la nata fermentada de los Balcanes, se sustituye bien por queso crema mezclado con 10 g de mantequilla blanda. Con seitán casero de textura densa es más fácil de enrollar; si el tuyo se rompe al abrirlo, rellena dos filetes como un sándwich y empánalo igual.",
   tupper: false,

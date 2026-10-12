@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "salchichas frescas", q: 6, u: "ud", nota: "de cerdo, gruesas" },
     { n: "patata", q: 600, u: "g", nota: "harinosa" },
@@ -285,7 +285,7 @@ window.RECETAS_SEED.push({
     "Calienta la leche. Escurre las patatas, cháfalas con el resto de la mantequilla, la leche caliente y la mostaza hasta que el puré quede cremoso. Salpimienta.",
     "Sirve una montaña de puré, las salchichas encima, mucho gravy de cebolla y los guisantes al lado."
   ],
-  nutricion: { kcal: 795, prot: 30, hc: 70, grasa: 44 },
+  nutricion: { kcal: 670, prot: 30, hc: 38, grasa: 43 },
   etiquetas: ["tradicional", "saciante", "económica", "para niños", "invierno", "poco especiada"],
   consejo: "No pinches las salchichas: si las cocinas despacio quedan jugosas y no revientan. La mostaza en el puré es el toque de las casas inglesas.",
   contundencia: "contundente",
@@ -539,7 +539,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "masa quebrada", q: 1, u: "ud", nota: "lámina refrigerada de unos 230 g" },
     { n: "bacon", q: 120, u: "g", nota: "en tiras gruesas" },
@@ -564,7 +564,7 @@ window.RECETAS_SEED.push({
     "Deja reposar la quiche 10 minutos antes de cortarla. Mientras, prepara una vinagreta con el vinagre, la mostaza, el aceite y sal y aliña la lechuga troceada.",
     "Sirve la quiche templada con la ensalada al lado."
   ],
-  nutricion: { kcal: 830, prot: 30, hc: 52, grasa: 56 },
+  nutricion: { kcal: 670, prot: 19, hc: 34, grasa: 50 },
   etiquetas: ["tradicional", "saciante", "al horno", "para invitados", "ideal para llevar", "poco especiada"],
   consejo: "La quiche lorraine auténtica no lleva cebolla ni muchos más ingredientes: bacon, huevo, nata y, como mucho, queso. El cuajado suave es la clave: sácala cuando el centro aún tiemble.",
   alternativa: "Para el queso, el emmental rallado sirve sin problema si no tienes gruyère (los mismos 50 g); la quiche queda un pelín más suave y funde igual de bien.",
@@ -584,7 +584,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "fácil",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "salchichas frescas", q: 4, u: "ud", nota: "de cerdo, gruesas" },
     { n: "harina de trigo", q: 100, u: "g", nota: "más 1 cda para el gravy" },
@@ -609,7 +609,7 @@ window.RECETAS_SEED.push({
     "Cuece el brócoli en ramitos en agua con sal 4 minutos, hasta que esté tierno pero verde.",
     "Sirve el toad in the hole recién salido del horno, cortado en porciones, con el gravy por encima y el brócoli al lado."
   ],
-  nutricion: { kcal: 730, prot: 30, hc: 58, grasa: 42 },
+  nutricion: { kcal: 695, prot: 33, hc: 35, grasa: 46 },
   etiquetas: ["tradicional", "saciante", "económica", "al horno", "para niños", "invierno", "poco especiada"],
   consejo: "El truco para que suba es que la grasa de la fuente humee cuando viertes la masa y no abrir el horno hasta el final. Una fuente de metal funciona mejor que una de cristal.",
   contundencia: "contundente",
@@ -889,7 +889,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "bacalao desalado (lomos)", q: 320, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -912,7 +912,7 @@ window.RECETAS_SEED.push({
     "A falta de 40 minutos, lleva a ebullición 600 ml de agua con sal y añade la polenta en lluvia, batiendo. Cuece a fuego mínimo 35-40 minutos, removiendo cada pocos minutos, hasta que se despegue de las paredes (o según el paquete si es precocida).",
     "Prueba de sal el guiso (suele no necesitar) y sirve el bacalao con su salsa junto a la polenta blanda."
   ],
-  nutricion: { kcal: 750, prot: 46, hc: 60, grasa: 36 },
+  nutricion: { kcal: 685, prot: 32, hc: 49, grasa: 40 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "sin verduras", "poco especiada"],
   consejo: "En Vicenza se cuece hasta cuatro horas: cuanto más lento, más cremoso. Si usas difusor de calor en la vitro o gas, no se pegará nunca.",
   contundencia: "contundente",

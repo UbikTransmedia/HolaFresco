@@ -7,14 +7,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "española",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   momentos: ["comida", "cena"],
   proteina: "verdura",
   tiempo: 18,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "alcachofa", q: 6, u: "ud", nota: "medianas, bien prietas" },
     { n: "limón", q: 1, u: "ud" },
@@ -35,7 +35,7 @@ window.RECETAS_SEED.push({
     "Despresuriza rápido abriendo la válvula (o bajo el grifo). Abre, comprueba pinchando el corazón: debe entrar el cuchillo sin resistencia. Si no, cierra y da 1 min más.",
     "Sirve las alcachofas calientes rociadas con la vinagreta de ajo y, si quieres, con las tiras de jamón por encima."
   ],
-  nutricion: { kcal: 290, prot: 8, hc: 28, grasa: 15 },
+  nutricion: { kcal: 735, prot: 18, hc: 32, grasa: 53 },
   etiquetas: ["rápida", "ligera", "al vapor", "económica", "invierno", "poco especiada"],
   consejo: "Si tu olla no tiene cestillo, pon las alcachofas directamente en el agua con limón: quedan igual de buenas y el caldo sirve para una crema."
 });
@@ -463,14 +463,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "española",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica",
   momentos: ["comida"],
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costilla de cerdo", q: 500, u: "g", nota: "troceada en costillas sueltas" },
     { n: "patata", q: 600, u: "g" },
@@ -498,7 +498,7 @@ window.RECETAS_SEED.push({
     "Cierra de nuevo y, desde que suba la válvula, cuenta 5 min a fuego mínimo. Despresuriza rápido.",
     "Rectifica de sal, deja reposar destapado 5 min para que la salsa se asiente y sirve en plato hondo."
   ],
-  nutricion: { kcal: 720, prot: 36, hc: 58, grasa: 36 },
+  nutricion: { kcal: 600, prot: 25, hc: 38, grasa: 37 },
   etiquetas: ["de cuchara", "invierno", "económica", "contundente", "batch cooking"],
   consejo: "Pide la costilla carnosa, no la de churrasco. Si te gusta la salsa más espesa, machaca dos trozos de patata y remueve.",
   alternativa: "Sin olla exprés, cuece la costilla en cazuela tapada 40 min a fuego suave, añade las patatas y deja otros 20 min, hasta que estén tiernas y suelten almidón."
@@ -511,14 +511,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "india",
-  contundencia: "media",
+  contundencia: "contundente",
   coste: "económica",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos" },
     { n: "calabaza", q: 400, u: "g", nota: "en dados de 3 cm" },
@@ -547,7 +547,7 @@ window.RECETAS_SEED.push({
     "Aplasta unos dados de calabaza con la cuchara para ligar la salsa, añade las espinacas y remueve 1-2 min a fuego medio hasta que se marchiten. Prueba y ajusta de sal y lima.",
     "Sirve con el arroz, los anacardos, el cilantro picado y los gajos de lima."
   ],
-  nutricion: { kcal: 560, prot: 18, hc: 62, grasa: 26 },
+  nutricion: { kcal: 665, prot: 20, hc: 73, grasa: 32 },
   etiquetas: ["vegano", "económica", "batch cooking", "de cuchara", "otoño", "superalimentos"],
   consejo: "Para una versión más proteica, añade 200 g de tofu firme en dados dorados en la sartén junto a las espinacas."
 });
@@ -612,7 +612,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ossobuco de ternera", q: 2, u: "ud", nota: "rodajas de 4 cm, unos 700 g con hueso" },
     { n: "harina de trigo", q: 2, u: "cda" },
@@ -642,7 +642,7 @@ window.RECETAS_SEED.push({
     "Saca la carne con una espumadera. Reduce la salsa destapada a fuego fuerte 5 min hasta que espese y brille. Rectifica de sal. Al mismo tiempo, lleva el agua a ebullición con sal, echa la polenta en lluvia y cuécela removiendo 3-5 min (o según el paquete).",
     "Sirve la polenta, el ossobuco encima con su salsa y una buena cucharada de gremolata. Rebaña el tuétano con pan: es lo mejor del plato."
   ],
-  nutricion: { kcal: 680, prot: 48, hc: 38, grasa: 36 },
+  nutricion: { kcal: 660, prot: 45, hc: 49, grasa: 30 },
   etiquetas: ["fin de semana", "invierno", "guiso", "alta en proteína", "poco especiada"],
   consejo: "En cazuela tradicional necesita 2 h a fuego muy suave; en la olla, con despresurización natural, nunca lo aceleres con agua fría o la carne se tensará."
 });
@@ -842,14 +842,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "europea",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "ternera",
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 500, u: "g", nota: "aguja o morcillo, en tacos de 4 cm" },
     { n: "cebolla", q: 2, u: "ud", nota: "grandes, en juliana" },
@@ -877,7 +877,7 @@ window.RECETAS_SEED.push({
     "Abre y remueve para integrar el pan. Pon las patatas en el cestillo encima del guiso, cierra y, cuando suba la válvula, cuenta 5 min a fuego mínimo. Despresuriza rápido.",
     "Saca las patatas. Si la salsa está líquida, reduce destapado 5 min a fuego fuerte. Rectifica de sal, pimienta y un toque más de vinagre si lo quieres más vivo. Sirve con las patatas y tomillo fresco."
   ],
-  nutricion: { kcal: 740, prot: 46, hc: 60, grasa: 34 },
+  nutricion: { kcal: 620, prot: 42, hc: 54, grasa: 25 },
   etiquetas: ["de cuchara", "invierno", "guiso", "batch cooking", "fin de semana", "poco especiada"],
   consejo: "La cerveza negra deja un amargor noble: si no te convence, equilibra al final con otra cucharadita de azúcar o un chorro de nata.",
   alternativa: "En cazuela de hierro, guisa la carne tapada 2 h a fuego mínimo en vez de 25 min a presión y cuece las patatas aparte en agua con sal 20 min."
@@ -890,14 +890,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "india",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica",
   momentos: ["comida"],
   proteina: "pollo",
   tiempo: 45,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (muslos deshuesados)", q: 450, u: "g", nota: "en trozos de 4 cm" },
     { n: "arroz basmati", q: 150, u: "g" },
@@ -927,7 +927,7 @@ window.RECETAS_SEED.push({
     "Saca el bol de arroz con un trapo (quema) y ahuécalo con un tenedor. Remueve el curry, retira la canela, añade el resto del garam masala y, si está líquido, reduce 3 min destapado a fuego fuerte.",
     "Sirve el arroz y el pollo masala al lado con cilantro picado por encima."
   ],
-  nutricion: { kcal: 700, prot: 46, hc: 70, grasa: 24 },
+  nutricion: { kcal: 640, prot: 37, hc: 55, grasa: 29 },
   etiquetas: ["una sola olla", "especiado", "económica", "batch cooking", "alta en proteína"],
   consejo: "Para el pot-in-pot sirve cualquier bol de acero o cerámica apto para horno; el arroz al vapor a presión queda suelto y perfecto siempre con 1,5 partes de agua por 1 de arroz."
 });
@@ -946,7 +946,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "elaborada",
   equipo: ["olla-express", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "rabo de toro", q: 1000, u: "g", nota: "troceado por las articulaciones" },
     { n: "harina de trigo", q: 2, u: "cda" },
@@ -979,7 +979,7 @@ window.RECETAS_SEED.push({
     "Mientras reduce, cuece las patatas en la olla limpia con 250 ml de agua en el cestillo: 8 min desde que suba la válvula, despresurización rápida. Pásalas por el pasapurés con la mantequilla, la leche caliente, sal y el aceite de trufa.",
     "Sirve el puré, el rabo encima y salsea generosamente. Mejor aún al día siguiente."
   ],
-  nutricion: { kcal: 880, prot: 52, hc: 44, grasa: 54 },
+  nutricion: { kcal: 615, prot: 29, hc: 35, grasa: 37 },
   etiquetas: ["fin de semana", "invierno", "guiso", "contundente", "de víspera", "poco especiada"],
   consejo: "Si el rabo es de vaca (más barato que el de toro de lidia) el tiempo es el mismo. Deshuesado y en frío, la carne con su salsa es un relleno espectacular para raviolis o croquetas.",
   alternativa: "Sin olla exprés, el rabo necesita entre 3 h y 3 h 30 min en cazuela tapada a fuego muy suave (o en el horno a 160 °C), dándole la vuelta de vez en cuando; las patatas, cocidas aparte en 20 min."
@@ -992,14 +992,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "fusión",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium",
   momentos: ["comida"],
   proteina: "cerdo",
   tiempo: 110,
   dificultad: "media",
   equipo: ["olla-express", "batidora"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "carrillada ibérica", q: 600, u: "g", nota: "limpia, enteras" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1031,7 +1031,7 @@ window.RECETAS_SEED.push({
     "Mientras reduce, cuece el arroz en un cazo aparte con el agua y sal, tapado y a fuego suave, unos 15 min. Devuelve la carrillada al mole y deja 5 min a fuego mínimo para que se impregne.",
     "Sirve la carrillada bañada en mole sobre el arroz, con sésamo tostado y cilantro por encima."
   ],
-  nutricion: { kcal: 820, prot: 48, hc: 50, grasa: 46 },
+  nutricion: { kcal: 630, prot: 33, hc: 40, grasa: 37 },
   etiquetas: ["fin de semana", "picante", "guiso", "contundente", "de víspera"],
   consejo: "El mole gana con el reposo: hazlo la víspera y recalienta a fuego lento con un chorrito de caldo. Carrillada de cerdo blanco también sirve; dale 5 min menos.",
   alternativa: "En cazuela, cuece las carrilladas tapadas 1 h 45 min a fuego mínimo. Si no encuentras chipotle en adobo, usa 1 guindilla seca y 1 cdta de pimentón ahumado: el mole sigue siendo ahumado y picante."
@@ -1044,14 +1044,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "latinoamericana",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "ternera",
   tiempo: 120,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "falda de ternera", q: 600, u: "g", nota: "en dos piezas grandes" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -1081,7 +1081,7 @@ window.RECETAS_SEED.push({
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min. Despresuriza rápido. Añade las aceitunas y las alcaparras y reduce destapado 5 min hasta que la salsa abrace la carne.",
     "Mientras, cuece el arroz blanco en 300 ml del caldo reservado (15 min a fuego suave tapado). Sirve la ropa vieja sobre el arroz."
   ],
-  nutricion: { kcal: 680, prot: 44, hc: 62, grasa: 28 },
+  nutricion: { kcal: 570, prot: 36, hc: 42, grasa: 28 },
   etiquetas: ["batch cooking", "guiso", "contundente", "de víspera", "ideal para llevar", "poco especiada"],
   consejo: "La falda es barata y perfecta para desmechar; también sirve morcillo. Sobras: rellena empanadillas o tacos, o mézclala con huevo revuelto.",
   alternativa: "Sin olla exprés, cuece la falda en cazuela tapada 2 h a fuego suave hasta que se deshilache, y deja el guiso final 25 min destapado en lugar de 10 min a presión."
@@ -1094,14 +1094,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "española",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media",
   momentos: ["comida"],
   proteina: "mixto",
   tiempo: 120,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "alubias blancas secas", q: 220, u: "g", nota: "fabes de la granja si las encuentras" },
     { n: "chorizo", q: 100, u: "g", nota: "asturiano ahumado, entero" },
@@ -1125,7 +1125,7 @@ window.RECETAS_SEED.push({
     "Deja reposar la fabada destapada a fuego mínimo 20 min moviendo la olla en vaivén (nunca con cuchara). El caldo debe quedar espeso y anaranjado.",
     "Saca el compango, córtalo en trozos y sirve las fabes en plato hondo con los embutidos y la panceta repartidos."
   ],
-  nutricion: { kcal: 960, prot: 50, hc: 76, grasa: 50 },
+  nutricion: { kcal: 575, prot: 27, hc: 29, grasa: 37 },
   etiquetas: ["de cuchara", "invierno", "contundente", "fin de semana", "de víspera", "sin remojo", "sin verduras", "poco especiada"],
   consejo: "Es un plato de domingo: hazla por la mañana y deja que repose hasta la comida. Si quieres aligerarla, desgrasa el caldo con un cucharón antes del reposo final."
 });
@@ -1137,14 +1137,14 @@ window.RECETAS_SEED.push({
   origen: "inventada",
   categoria: "olla-express",
   cocina: "oriente-medio",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium",
   momentos: ["comida"],
   proteina: "cordero",
   tiempo: 95,
   dificultad: "media",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 5,
   ingredientes: [
     { n: "cordero (paletilla deshuesada)", q: 550, u: "g", nota: "en tacos de 4 cm" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -1177,7 +1177,7 @@ window.RECETAS_SEED.push({
     "Mientras, tuesta las almendras y el sésamo en una sartén seca 3 min. Prepara el cuscús: cúbrelo con 170 ml de agua hirviendo con sal, tapa 5 min y suéltalo con la mantequilla y un tenedor.",
     "Sirve el cordero con su salsa sobre el cuscús, con el cilantro picado, las almendras y el sésamo por encima."
   ],
-  nutricion: { kcal: 780, prot: 44, hc: 68, grasa: 36 },
+  nutricion: { kcal: 585, prot: 26, hc: 44, grasa: 33 },
   etiquetas: ["fin de semana", "especiado", "agridulce", "contundente", "guiso", "sin verduras"],
   consejo: "Si usas cordero con hueso (cuello o pierna troceada), sube a 30 min de presión. En olla tradicional, cuenta 1 h 45 min a fuego muy suave."
 });

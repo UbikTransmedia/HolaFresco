@@ -917,7 +917,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["olla-express", "horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "cordero (paletilla)", q: 900, u: "g", nota: "con hueso, en 4 trozos" },
     { n: "patata", q: 450, u: "g" },
@@ -942,11 +942,11 @@ window.RECETAS_SEED.push({
     "Hornea 15 minutos, hasta que las patatas estén doradas por los bordes. Desmenuza la feta por encima y hornea 5 minutos más, hasta que se tueste.",
     "Sirve la carne, que debe separarse sola del hueso, con las patatas y el jugo de la fuente."
   ],
-  nutricion: { kcal: 790, prot: 52, hc: 46, grasa: 44 },
+  nutricion: { kcal: 605, prot: 32, hc: 24, grasa: 42 },
   etiquetas: ["fin de semana", "invierno", "olla exprés", "al horno", "sin gluten", "poco especiada"],
   consejo: "Desgrasa el jugo de la olla con una cuchara antes de regar la fuente: el cordero suelta mucha grasa.",
   alternativa: "Sin olla exprés, hornea el cordero tapado con aluminio a 170 °C unas 2 h, añade las patatas a mitad de cocción y destapa los últimos 20 min para que se dore.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -962,7 +962,7 @@ window.RECETAS_SEED.push({
   tiempo: 110,
   dificultad: "media",
   equipo: ["olla-express", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "garbanzos secos", q: 160, u: "g", nota: "en remojo 12 h con sal" },
     { n: "ternera para guisar", q: 250, u: "g", nota: "morcillo, en un trozo" },
@@ -988,10 +988,10 @@ window.RECETAS_SEED.push({
     "Lleva el caldo a ebullición, prueba de sal y cuece los fideos 3-4 minutos.",
     "Sirve en tres vuelcos: primero la sopa; después los garbanzos con las verduras y el repollo; por último las carnes troceadas, con un hilo de aceite y sal gruesa."
   ],
-  nutricion: { kcal: 920, prot: 62, hc: 82, grasa: 38 },
+  nutricion: { kcal: 605, prot: 38, hc: 51, grasa: 25 },
   etiquetas: ["de cuchara", "invierno", "fin de semana", "olla exprés", "poco especiada"],
   consejo: "Pon los garbanzos en agua caliente, nunca fría, cuando el caldo ya esté hirviendo: así no se encallan y quedan mantecosos.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -1058,7 +1058,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["olla-express", "cazuela", "sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "alubias negras secas", q: 160, u: "g", nota: "en remojo 12 h" },
     { n: "costilla de cerdo", q: 300, u: "g", nota: "troceada" },
@@ -1084,11 +1084,11 @@ window.RECETAS_SEED.push({
     "Saltea el kale en una sartén con el aceite y el ajo laminado 2 minutos, hasta que esté brillante y apenas tierno.",
     "Sirve la feijoada con el arroz, el kale y gajos de naranja pelada al lado."
   ],
-  nutricion: { kcal: 920, prot: 50, hc: 90, grasa: 40 },
+  nutricion: { kcal: 580, prot: 27, hc: 51, grasa: 27 },
   etiquetas: ["de cuchara", "invierno", "fin de semana", "olla exprés", "sin gluten", "poco especiada"],
   consejo: "La naranja no es decoración: su acidez corta la grasa del cerdo y hace el plato mucho más ligero en boca.",
   alternativa: "También sale en cazuela tapada: cuece las alubias remojadas con la costilla a fuego suave 1 h 45 min en vez de 30 min a presión, con unos 300 ml más de agua.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

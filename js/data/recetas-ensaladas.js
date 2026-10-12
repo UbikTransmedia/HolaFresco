@@ -201,7 +201,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "pepino", q: 1, u: "ud" },
     { n: "rábano", q: 150, u: "g", nota: "1 manojo" },
@@ -225,7 +225,7 @@ window.RECETAS_SEED.push({
     "Escurre bien el bonito y sepáralo en lascas grandes sin deshacerlo.",
     "Extiende los canónigos en una fuente, reparte encima el pepino y los rábanos y añade la salsa de yogur a cucharadas. Corona con las lascas de bonito, la cebolleta, el eneldo restante y pimienta negra recién molida."
   ],
-  nutricion: { kcal: 305, prot: 27, hc: 11, grasa: 17 },
+  nutricion: { kcal: 540, prot: 45, hc: 21, grasa: 29 },
   etiquetas: ["ligera", "sin cocción", "rápida", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Puedes sustituir el bonito por 150 g de salmón ahumado en tiras: queda igual de bien con el eneldo y la salsa de yogur. Acompaña con pan de centeno tostado para una cena completa."
 });

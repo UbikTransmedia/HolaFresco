@@ -64,7 +64,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "media",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "panceta de cerdo", q: 450, u: "g", nota: "una pieza rectangular con su corteza, de grosor uniforme" },
     { n: "cinco especias", q: 1, u: "cdta" },
@@ -92,7 +92,7 @@ window.RECETAS_SEED.push({
     "Saltea el pak choi 2-3 minutos en una sartén muy caliente con el aceite, el ajo laminado y sal.",
     "Corta la panceta con la piel hacia abajo, con un cuchillo pesado, en bastones de 2 cm. Sirve con el pepino, el pak choi y la mostaza."
   ],
-  nutricion: { kcal: 735, prot: 28, hc: 7, grasa: 66 },
+  nutricion: { kcal: 680, prot: 24, hc: 5, grasa: 63 },
   etiquetas: ["keto", "tradicional", "sin gluten", "al horno", "para compartir", "fin de semana"],
   consejo: "El siu yuk es la estrella de los asadores cantoneses junto al char siu; allí se sirve con arroz y mostaza picante. Las tres claves de la corteza son escaldar, pinchar mucho y secar una noche en la nevera sin tapar. Lo que sobre se recupera crujiente en el horno a 220 °C 8 minutos.",
   tupper: false,
@@ -871,7 +871,7 @@ window.RECETAS_SEED.push({
   tiempo: 190,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "costilla de ternera", q: 800, u: "g", nota: "con hueso, en trozos de 5 cm (tira de costilla)" },
     { n: "rábano daikon", q: 250, u: "g", nota: "en un trozo" },
@@ -897,11 +897,11 @@ window.RECETAS_SEED.push({
     "Sazona el caldo con el tamari, la salsa de pescado, el ajo picado y sal. Devuelve el daikon y calienta 2 minutos.",
     "Sirve en cuencos grandes las costillas con el caldo y el daikon, y termina con las tiras de huevo, la parte verde de la cebolleta, unas gotas de aceite de sésamo y pimienta."
   ],
-  nutricion: { kcal: 670, prot: 42, hc: 8, grasa: 52 },
+  nutricion: { kcal: 615, prot: 35, hc: 11, grasa: 47 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "de cuchara", "invierno", "batch cooking", "fin de semana"],
   consejo: "El galbitang es la sopa de las bodas y de los días de frío en Corea; allí se sirve con un cuenco de arroz al lado y a menudo con fideos de boniato dentro, que aquí se omiten. El remojo y el primer hervor que se tira son la clave de un caldo transparente. Sale aún mejor hecho la víspera: al enfriarse, la grasa sube y se retira en bloque (quita solo una parte para que siga siendo keto). Aguanta 3 días en la nevera.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

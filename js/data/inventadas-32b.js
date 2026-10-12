@@ -466,7 +466,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["bol"],
   coccion: ["sin-fuego"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "cogollo", q: 3, u: "ud" },
     { n: "ventresca de bonito", q: 2, u: "lata", nota: "de 110 g, en aceite de oliva" },
@@ -486,11 +486,11 @@ window.RECETAS_SEED.push({
     "Coloca en una fuente los cogollos, los tomates y los pimientos. Reparte encima la ventresca en lascas grandes, sin romperla demasiado, las aceitunas y la cebolleta.",
     "Riega con la vinagreta y unas escamas de sal justo antes de servir."
   ],
-  nutricion: { kcal: 350, prot: 22, hc: 12, grasa: 23 },
+  nutricion: { kcal: 745, prot: 46, hc: 25, grasa: 50 },
   etiquetas: ["sin gluten", "sin cocción", "ligera", "rápida", "verano", "sin lácteos", "keto", "poco especiada", "bajo en colesterol"],
   consejo: "La ventresca en aceite de oliva es apta; revisa igualmente que la etiqueta no indique trazas. Si la acompañas con pan, que sea sin gluten y cortado en una tabla aparte.",
   alternativa: "La ventresca es cara: con 2 latas de bonito del norte en aceite de oliva queda muy parecida, solo algo menos melosa.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "premium",
   tupper: false
 });
@@ -1035,7 +1035,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["batidora", "bol"],
   coccion: ["sin-fuego"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "tomate", q: 500, u: "g", nota: "amarillos o muy maduros" },
     { n: "pimiento amarillo", q: 1, u: "ud" },
@@ -1057,10 +1057,10 @@ window.RECETAS_SEED.push({
     "Mientras se enfría, corta las gambas cocidas por la mitad, pica unas hojas de albahaca y aliña las gambas con ella, un hilo de aceite y sal.",
     "Sirve el gazpacho muy frío con las gambas por encima y un último hilo de aceite."
   ],
-  nutricion: { kcal: 350, prot: 20, hc: 20, grasa: 21 },
+  nutricion: { kcal: 715, prot: 40, hc: 40, grasa: 43 },
   etiquetas: ["sin gluten", "sin cocción", "tupper", "ligera", "verano", "poco especiada"],
   consejo: "El gazpacho tradicional lleva pan: esta versión no lo necesita, porque el melocotón aporta cuerpo. Si no tienes gambas cocidas, ponle dados de bonito en conserva. Aguanta 3 días en la nevera sin las gambas.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: true
 });

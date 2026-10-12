@@ -20,7 +20,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "arroz jazmín", q: 150, u: "g" },
     { n: "leche de coco", q: 200, u: "ml" },
@@ -49,7 +49,7 @@ window.RECETAS_SEED.push({
     "Sube el fuego, incorpora las gambas y saltéalas en el sambal 2 o 3 minutos, hasta que estén rosadas y bien cubiertas.",
     "Retira la hierba limón y el jengibre del arroz y espónjalo con un tenedor. Sirve en cada plato un montón de arroz con el sambal de gambas, medio huevo por cada lado, los cacahuetes y el pepino."
   ],
-  nutricion: { kcal: 875, prot: 38, hc: 77, grasa: 46 },
+  nutricion: { kcal: 660, prot: 25, hc: 58, grasa: 37 },
   etiquetas: ["tradicional", "picante", "sin gluten", "ideal para llevar"],
   consejo: "En Malasia se vende envuelto en hoja de plátano y lleva además ikan bilis, unos boquerones secos fritos: si los encuentras en una tienda asiática, fríe un puñado con los cacahuetes. Si tienes hoja de pandan (congelada en tiendas asiáticas), anúdala y cuécela con el arroz en lugar de la hierba limón. El sambal aguanta una semana en la nevera.",
   tupper: true,
@@ -681,7 +681,7 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["olla-express", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "rabo de ternera", q: 700, u: "g", nota: "en trozos" },
     { n: "agua", q: 900, u: "ml" },
@@ -710,11 +710,11 @@ window.RECETAS_SEED.push({
     "Añade la berenjena y cuece 6 minutos; después las judías verdes, 4 minutos; y el pak choi, 2 minutos. Devuelve el rabo para que se caliente.",
     "Sirve con el arroz y una cucharadita de pasta de gambas al lado: se toma un poco con cada bocado para salar la salsa, que es suave a propósito."
   ],
-  nutricion: { kcal: 850, prot: 59, hc: 68, grasa: 37 },
+  nutricion: { kcal: 635, prot: 34, hc: 51, grasa: 31 },
   etiquetas: ["tradicional", "sin gluten", "invierno", "batch cooking", "poco especiada"],
   consejo: "Es el guiso de las fiestas y los domingos en Pampanga. La salsa se deja sin sal casi a propósito porque el bagoong (pasta de gambas fermentada) aporta el contraste; si no la encuentras, sirve aparte salsa de pescado con lima y chile. En olla tradicional, el rabo necesita unas 3 horas de cocción suave. Mejora al día siguiente.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -780,7 +780,7 @@ window.RECETAS_SEED.push({
   tiempo: 65,
   dificultad: "media",
   equipo: ["olla-express", "batidora", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo (paleta)", q: 350, u: "g", nota: "con algo de grasa, o mitad panceta; en dados de 4 cm" },
     { n: "chalota", q: 6, u: "ud" },
@@ -806,11 +806,11 @@ window.RECETAS_SEED.push({
     "Añade la patata, cierra y cuece 5 minutos más a presión alta. Mientras, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
     "Deja bajar la presión de forma natural y abre. Si la salsa está muy líquida, redúcela destapado 5 minutos: debe quedar oscura y espesa, con la patata empezando a deshacerse por los bordes. Retira la canela, ajusta de sal y sirve con el arroz y el chile."
   ],
-  nutricion: { kcal: 880, prot: 44, hc: 106, grasa: 31 },
+  nutricion: { kcal: 615, prot: 30, hc: 76, grasa: 21 },
   etiquetas: ["tradicional", "sin lácteos", "invierno", "batch cooking", "económica"],
   consejo: "Los nyonya, descendientes de los comerciantes chinos asentados en Malaca y Penang, mezclaron técnicas chinas con ingredientes malayos: el pongteh lleva taucu (soja fermentada) y gula melaka (azúcar de palma) y se cuece hasta que la patata espesa la salsa. En cazuela tradicional, cuécelo tapado a fuego suave 1 hora y 15 minutos. Mejora de un día para otro y aguanta 4 días en la nevera.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -826,7 +826,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["olla-express", "batidora", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (paleta)", q: 450, u: "g", nota: "en trozos con hueso" },
     { n: "chalota", q: 4, u: "ud" },
@@ -856,7 +856,7 @@ window.RECETAS_SEED.push({
     "Abre la olla, retira el exceso de grasa de la superficie y añade el resto de la leche de coco y el tamarindo. Cuece destapado a fuego medio 10 minutos, hasta que la salsa espese y brillen gotitas de aceite rojo en la superficie.",
     "Retira las especias enteras, ajusta de sal y sirve con el arroz."
   ],
-  nutricion: { kcal: 875, prot: 37, hc: 61, grasa: 54 },
+  nutricion: { kcal: 740, prot: 32, hc: 49, grasa: 46 },
   etiquetas: ["tradicional", "picante", "sin gluten", "invierno", "batch cooking", "sin verduras"],
   consejo: "El gulai es la familia de currys de la cocina de Padang (Sumatra Occidental) y de Malasia; con cabrito (kambing) es el más festivo, y aquí se hace con cordero, más fácil de encontrar. Lleva también hojas de lima kaffir y galanga: si las tienes, añádelas con la hierba limón. Con cordero lechal, reduce la presión a 15 minutos.",
   tupper: true,
@@ -876,7 +876,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "fácil",
   equipo: ["olla-express", "batidora", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y sin piel" },
     { n: "chalota", q: 3, u: "ud" },
@@ -904,11 +904,11 @@ window.RECETAS_SEED.push({
     "Cuece destapado a fuego suave 5 minutos, sin que llegue a hervir con fuerza, hasta que la salsa esté cremosa. Ajusta de sal y pimienta blanca.",
     "Retira la hierba limón y el laurel y sirve el pollo con su salsa sobre el arroz."
   ],
-  nutricion: { kcal: 815, prot: 44, hc: 59, grasa: 44 },
+  nutricion: { kcal: 625, prot: 31, hc: 45, grasa: 36 },
   etiquetas: ["tradicional", "sin gluten", "para niños", "económica", "sin verduras", "poco especiada"],
   consejo: "Es el plato del Lebaran, la fiesta del fin del Ramadán en Indonesia, y se sirve con ketupat (arroz prensado en hoja de palma). Al no llevar chile ni cúrcuma, gusta a todo el mundo; para los adultos, pon sambal al lado. Aguanta 3 días; recaliéntalo a fuego suave para que el coco no se corte.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

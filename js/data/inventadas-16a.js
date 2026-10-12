@@ -98,7 +98,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (pierna deshuesada)", q: 400, u: "g", nota: "en una pieza atada" },
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "escurridas y enjuagadas" },
@@ -121,10 +121,10 @@ window.RECETAS_SEED.push({
     "Saca el cordero, tápalo y déjalo reposar 10 minutos. Mientras, chafa los ajos asados dentro de las alubias para que la salsa engorde.",
     "Corta el cordero en lonchas gruesas y sírvelo sobre las alubias con un puñado de rúcula aliñada con el resto del aceite y unas gotas de limón, y el pan tostado."
   ],
-  nutricion: { kcal: 712, prot: 57, hc: 40, grasa: 36 },
+  nutricion: { kcal: 620, prot: 35, hc: 37, grasa: 35 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Las sobras, deshebradas, están buenísimas en pan de pita con yogur y pepino al día siguiente.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

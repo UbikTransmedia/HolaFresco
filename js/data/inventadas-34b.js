@@ -511,7 +511,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   coccion: ["todo-al-horno"],
   tupper: false,
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cordero (chuletillas)", q: 400, u: "g" },
     { n: "boniato", q: 400, u: "g" },
@@ -533,10 +533,10 @@ window.RECETAS_SEED.push({
     "Saca la bandeja, pon el horno en grill fuerte a 230 °C y coloca las chuletillas sobre el boniato. Gratina en la parte alta 4–5 minutos por cada lado, hasta que estén doradas por fuera y rosadas por dentro.",
     "Sirve enseguida con la salsa de yogur, gajos de limón y granos de granada por encima."
   ],
-  nutricion: { kcal: 800, prot: 38, hc: 50, grasa: 50 },
+  nutricion: { kcal: 610, prot: 28, hc: 29, grasa: 42 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "alta en proteína"],
   consejo: "Las mezclas de especias como el ras el hanout pueden contener trazas de gluten: elige una certificada o mezcla tú comino, cilantro, canela, jengibre, cúrcuma y pimienta. Las chuletillas están en su punto recién hechas; no es plato para recalentar.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

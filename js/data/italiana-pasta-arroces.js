@@ -249,7 +249,7 @@ window.RECETAS_SEED.push({
   tiempo: 220,
   dificultad: "elaborada",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "paccheri", q: 160, u: "g", nota: "o ziti partidos a mano, como en Nápoles" },
     { n: "ternera para guisar", q: 300, u: "g", nota: "morcillo o aguja, en 2-3 trozos" },
@@ -273,11 +273,11 @@ window.RECETAS_SEED.push({
     "Cuece los paccheri en el agua hirviendo 2 minutos menos de lo que indique el paquete, escúrrelos reservando un vaso del agua y termina de cocerlos 2 minutos dentro de la cazuela con la genovese y un chorrito de esa agua.",
     "Fuera del fuego, añade la mitad del parmesano, mezcla y sirve con el resto del queso y pimienta negra recién molida."
   ],
-  nutricion: { kcal: 830, prot: 51, hc: 96, grasa: 27 },
+  nutricion: { kcal: 585, prot: 34, hc: 62, grasa: 20 },
   etiquetas: ["tradicional", "invierno", "batch cooking", "alta en proteína", "poco especiada"],
   consejo: "Pese al nombre, la genovese es napolitana y no tiene nada que ver con el pesto: la tradición la atribuye a los cocineros genoveses que tenían fondas en el puerto de Nápoles. En las casas se guisa un trozo grande de carne que luego se come de segundo plato; aquí va desmenuzada en la salsa para que sea plato único. Se congela muy bien, así que merece la pena hacer el doble.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

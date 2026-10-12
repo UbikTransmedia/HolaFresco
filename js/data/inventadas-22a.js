@@ -59,7 +59,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera picada", q: 150, u: "g" },
     { n: "cerdo picado", q: 150, u: "g" },
@@ -90,7 +90,7 @@ window.RECETAS_SEED.push({
     "Mientras, pela las patatas, córtalas en bastones, sécalas y fríelas en el resto del aceite (o en abundante aceite) a fuego medio 10 minutos y luego fuerte 3 minutos para que queden crujientes. Sala.",
     "Sirve las albóndigas con su salsa, el perejil por encima y las patatas al lado."
   ],
-  nutricion: { kcal: 820, prot: 42, hc: 60, grasa: 46 },
+  nutricion: { kcal: 735, prot: 31, hc: 43, grasa: 48 },
   etiquetas: ["tradicional", "saciante", "fácil", "batch cooking", "de domingo", "para niños", "sin verduras", "poco especiada"],
   consejo: "Para que las albóndigas queden jugosas, no amases demasiado la carne y moja las manos en agua al darles forma. Se congelan perfectamente ya guisadas con su salsa.",
   contundencia: "contundente",
@@ -157,7 +157,7 @@ window.RECETAS_SEED.push({
   tiempo: 200,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 350, u: "g", nota: "morcillo o aguja, en tacos de 4 cm" },
     { n: "bacon", q: 60, u: "g", nota: "en tiras gruesas" },
@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
     "Mientras se termina el guiso, prepara el puré: pela las patatas y cuécelas en agua con sal 20 minutos, hasta que se deshagan. Escúrrelas y aplástalas con la leche caliente y el resto de la mantequilla.",
     "Si la salsa está muy líquida, destapa y reduce 10 minutos hasta que napee. Prueba de sal y sirve el estofado sobre el puré."
   ],
-  nutricion: { kcal: 790, prot: 48, hc: 46, grasa: 46 },
+  nutricion: { kcal: 625, prot: 34, hc: 39, grasa: 34 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "poco especiada"],
   consejo: "Usa un vino que te beberías: la salsa es casi todo vino reducido. Hazlo la víspera, déjalo enfriar y retira la grasa que cuaje encima antes de recalentarlo.",
   alternativa: "Con olla exprés, después de añadir el vino y el caldo cierra y cuece 45 min desde que suba la válvula en lugar de 2 h 30 min; luego sigue con las cebollitas y los champiñones y reduce la salsa destapada.",
@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
   tiempo: 240,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "rabo de toro", q: 900, u: "g", nota: "troceado por las juntas (con hueso)" },
     { n: "harina de trigo", q: 2, u: "cda" },
@@ -288,11 +288,11 @@ window.RECETAS_SEED.push({
     "Devuelve el rabo a la salsa y cuece 10 minutos destapado para que espese y brille. Prueba de sal.",
     "Mientras, escurre y seca las patatas y fríelas en el resto del aceite a fuego medio y luego fuerte hasta que estén doradas. Sálalas y sirve el rabo con su salsa y las patatas."
   ],
-  nutricion: { kcal: 830, prot: 46, hc: 48, grasa: 50 },
+  nutricion: { kcal: 565, prot: 26, hc: 31, grasa: 35 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Hazlo el día anterior: al enfriar, la grasa sube y cuaja y la quitas con una cuchara; la salsa queda más limpia y el rabo más sabroso. Pide al carnicero trozos del centro, que tienen más carne.",
   alternativa: "Si no encuentras rabo de toro, el de vaca o ternera (los mismos 900 g) da un guiso casi idéntico, algo más suave; y en olla exprés basta 1 h a presión en lugar de 3 h a fuego lento.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -976,7 +976,7 @@ window.RECETAS_SEED.push({
   tiempo: 210,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "manitas de cerdo", q: 4, u: "ud", nota: "partidas por la mitad y limpias" },
     { n: "cebolla", q: 1.5, u: "ud" },
@@ -1004,7 +1004,7 @@ window.RECETAS_SEED.push({
     "Añade el caldo reservado, coloca las manitas en una sola capa y cuece destapado a fuego suave 20 minutos, meneando la cazuela sin remover, hasta que la salsa espese y quede pegajosa.",
     "Deja reposar 10 minutos y sirve con pan para mojar."
   ],
-  nutricion: { kcal: 700, prot: 36, hc: 22, grasa: 52 },
+  nutricion: { kcal: 665, prot: 46, hc: 26, grasa: 40 },
   etiquetas: ["tradicional", "económica", "invierno", "saciante", "de domingo", "picante"],
   consejo: "Pide al carnicero que te las parta y limpie. Si te sobran, deshuésalas en templado, ponlas en un táper con su salsa y al día siguiente tendrás una gelatina riquísima para calentar.",
   alternativa: "Si tienes olla exprés, el primer cocido de las manitas se queda en 45-50 min desde que sube la válvula, en lugar de 2 h 30 min a fuego suave; el resto de pasos no cambia.",

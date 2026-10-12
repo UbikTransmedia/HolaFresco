@@ -934,7 +934,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 160, u: "g", nota: "en remojo desde la víspera" },
     { n: "tofu ahumado", q: 200, u: "g" },
@@ -960,11 +960,11 @@ window.RECETAS_SEED.push({
     "Cuela 700 ml del caldo del cocido a un cazo, llévalo a ebullición, añade los fideos y cuécelos 3–4 minutos. Prueba de sal: esta es tu sopa.",
     "Sirve primero la sopa de fideos. Después, en una fuente, los garbanzos con las patatas, las zanahorias y el puerro en trozos, la col rehogada y el tofu ahumado."
   ],
-  nutricion: { kcal: 865, prot: 40, hc: 113, grasa: 28 },
+  nutricion: { kcal: 625, prot: 30, hc: 77, grasa: 20 },
   etiquetas: ["de cuchara", "invierno", "tradicional", "batch cooking", "económica", "poco especiada"],
   consejo: "Con los garbanzos y verduras que sobren haz ropa vieja: saltéalos en sartén con ajo, pimentón y un poco de tomate frito.",
   alternativa: "Con olla exprés, los garbanzos remojados se cuecen con las verduras en 25 minutos a presión en lugar de unas 2 horas; o usa 400 g de garbanzos cocidos de bote, añadidos en los últimos 15 minutos.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 

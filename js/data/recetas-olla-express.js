@@ -243,7 +243,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["olla-express", "cazuela", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "carrillada de cerdo", q: 550, u: "g", nota: "4 piezas limpias" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
     "Saca las carrilladas, retira el laurel y el tomillo y tritura la salsa con las verduras con la batidora hasta que quede fina. Si está líquida, redúcela a fuego fuerte 5 min; rectifica de sal.",
     "Sirve las carrilladas napadas con la salsa sobre el puré de patata."
   ],
-  nutricion: { kcal: 820, prot: 50, hc: 50, grasa: 44 },
+  nutricion: { kcal: 615, prot: 39, hc: 34, grasa: 34 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "para ocasiones", "poco especiada"],
   consejo: "Pide las carrilladas ya limpias de telillas; si no, retíralas con un cuchillo fino antes de dorar. Se pueden hacer de víspera y recalentar a fuego lento."
 });
@@ -334,7 +334,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "media",
   equipo: ["olla-express", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo picado", q: 300, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
@@ -366,7 +366,7 @@ window.RECETAS_SEED.push({
     "Aparta la olla del fuego, deja despresurizar sola 5 min y libera el resto con la válvula. Abre, añade la nata y cocina destapado 3 min a fuego medio hasta que la salsa nape la cuchara. Rectifica de sal y pimienta.",
     "Sirve las albóndigas con su salsa sobre el arroz y el resto del perejil por encima."
   ],
-  nutricion: { kcal: 820, prot: 42, hc: 64, grasa: 42 },
+  nutricion: { kcal: 615, prot: 31, hc: 46, grasa: 33 },
   etiquetas: ["para niños", "invierno", "batch cooking", "poco especiada"],
   consejo: "Las albóndigas se congelan crudas o ya cocinadas en su salsa. Mezcla cerdo y ternera a partes iguales si prefieres un sabor más suave y menos grasa."
 });

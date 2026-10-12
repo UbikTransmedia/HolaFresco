@@ -55,7 +55,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo picado", q: 300, u: "g" },
     { n: "lechuga romana", q: 1, u: "ud" },
@@ -86,7 +86,7 @@ window.RECETAS_SEED.push({
     "Incorpora el ajo y el jengibre, saltea 1 min, y añade la salsa de soja, la miel, la cucharada restante de vinagre y el aceite de sésamo. Cocina 2 min hasta que la salsa envuelva la carne. Mezcla con las almendras.",
     "Sirve el arroz, la carne, la cebolla encurtida escurrida, la mayonesa de sriracha y las hojas de lechuga por separado. Cada comensal rellena sus hojas con un poco de todo, espolvorea sésamo y cilantro, y las come con la mano."
   ],
-  nutricion: { kcal: 760, prot: 36, hc: 60, grasa: 42 },
+  nutricion: { kcal: 610, prot: 26, hc: 49, grasa: 34 },
   etiquetas: ["asiática", "picante", "para compartir", "una sola sartén"],
   consejo: "Si no te gusta el picante, sustituye la sriracha por una cucharadita de zumo de lima en la mayonesa. La cebolla encurtida aguanta una semana en la nevera."
 });
@@ -151,7 +151,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "media",
   equipo: ["horno", "sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "ternera picada", q: 300, u: "g" },
     { n: "berenjena", q: 2, u: "ud" },
@@ -185,7 +185,7 @@ window.RECETAS_SEED.push({
     "Baja el horno a 200 °C y hornea 20 min hasta que la superficie esté dorada. Deja reposar 5-10 min antes de cortar para que las capas se asienten.",
     "Mientras se hornea, corta el pepino y los tomates en dados, la cebolla morada en juliana fina y mezcla con las aceitunas, el vinagre, media cucharada de aceite, 1 cdta de orégano y sal. Sirve la moussaka con la ensalada al lado."
   ],
-  nutricion: { kcal: 740, prot: 43, hc: 38, grasa: 46 },
+  nutricion: { kcal: 650, prot: 34, hc: 34, grasa: 40 },
   etiquetas: ["al horno", "invierno", "batch cooking", "mediterránea", "poco especiada"],
   consejo: "La moussaka está incluso mejor al día siguiente: hazla el doble y congela porciones ya cortadas."
 });

@@ -339,7 +339,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "media",
   equipo: ["cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "tofu firme", q: 300, u: "g" },
     { n: "maicena", q: 4, u: "cda", nota: "o fécula de patata" },
@@ -365,7 +365,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén pequeña a 175 °C (1,5 cm de altura). Reboza el tofu en la maicena justo antes de freírlo, sacude el exceso y fríelo 3–4 minutos, girándolo, hasta que tenga una costra crujiente y apenas dorada. Escúrrelo.",
     "Coloca el tofu en cuencos, vierte el caldo caliente alrededor sin mojar la parte de arriba, y corona con el rábano, el jengibre y la cebolleta. Sirve con el arroz y las espinacas."
   ],
-  nutricion: { kcal: 700, prot: 32, hc: 77, grasa: 29 },
+  nutricion: { kcal: 690, prot: 24, hc: 58, grasa: 39 },
   etiquetas: ["tradicional", "bajo en fodmap", "vegana", "sin gluten", "poco especiada"],
   consejo: "El dashi clásico lleva bonito seco; en la cocina vegetariana de los templos se hace solo con kombu, y es apto para la dieta baja en FODMAP. Usa tofu firme: el sedoso, que es el habitual en Japón, es alto en FODMAP. Revisa también que el mirin no lleve jarabe de glucosa y fructosa; si dudas, sustituye cada cucharada por 1 cucharadita de azúcar y 2 de agua. El rábano blanco y las espinacas son aptos en cantidades generosas.",
   tupper: false,

@@ -117,7 +117,7 @@ window.RECETAS_SEED.push({
   tiempo: 110,
   dificultad: "elaborada",
   equipo: ["olla-express", "horno"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "codillo de cerdo fresco", q: 900, u: "g", nota: "1 codillo trasero crudo, sin ahumar" },
     { n: "cerveza", q: 330, u: "ml", nota: "rubia tipo lager" },
@@ -145,12 +145,12 @@ window.RECETAS_SEED.push({
     "Abre la olla: los guisantes deben estar deshechos. Aplástalos con la mantequilla y la mejorana hasta tener un puré espeso; si queda muy duro, añade un poco de caldo. Prueba de sal.",
     "Sirve el codillo con el puré de guisantes, el rábano picante y un poco más de mostaza al lado."
   ],
-  nutricion: { kcal: 810, prot: 62, hc: 55, grasa: 38 },
+  nutricion: { kcal: 550, prot: 36, hc: 32, grasa: 29 },
   etiquetas: ["tradicional", "alta en proteína", "fin de semana", "invierno", "para invitados"],
   consejo: "En Polonia la golonka se marina a veces una noche en cerveza con especias y se acompaña siempre de chrzan (rábano picante), mostaza y pepinillos; el puré de guisantes, «groch purée», es su guarnición de taberna. Pide el codillo fresco en la carnicería; el ahumado sirve también, pero no lo sales. El caldo que sobra es una base estupenda para una sopa de guisantes o de chucrut.",
   alternativa: "Sin olla exprés: cuece el codillo en cazuela tapada a fuego suave 2 h 30 min en lugar de 45 min, reponiendo agua si baja, y los guisantes partidos 45 min en lugar de 12.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "media",
   equipo: ["olla-express", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y sin piel, unas 4 piezas" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -236,11 +236,11 @@ window.RECETAS_SEED.push({
     "Abre la olla y saca el pollo. Mezcla la nata agria con la cucharada de harina y un cucharón de la salsa caliente, y viértelo en la olla. Cuece 3 min a fuego suave, sin que hierva fuerte, hasta que la salsa espese y quede de color naranja.",
     "Devuelve el pollo a la salsa y sirve con las halušky al lado, bañadas con parte de la salsa."
   ],
-  nutricion: { kcal: 820, prot: 44, hc: 75, grasa: 38 },
+  nutricion: { kcal: 620, prot: 35, hc: 52, grasa: 30 },
   etiquetas: ["tradicional", "alta en proteína", "para niños", "invierno", "sin verduras"],
   consejo: "El paprikáš llegó a Eslovaquia desde Hungría, pero allí se sirve siempre con halušky, los ñoquis de masa blanda que se echan al agua a través de un rallador especial. Mezclar la nata agria con un poco de harina y templarla antes de añadirla evita que se corte. Si sobra, guarda el pollo en su salsa hasta 3 días y haz las halušky al momento.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -879,7 +879,7 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "media",
   equipo: ["olla-express", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "carrillada de cerdo", q: 400, u: "g", nota: "4 o 5 carrilleras" },
     { n: "ajvar", q: 150, u: "g" },
@@ -908,12 +908,12 @@ window.RECETAS_SEED.push({
     "Devuelve las carrilleras a la salsa 1 min para que se calienten y brillen.",
     "Sirve el puré con las carrilleras encima, bien bañadas en salsa, y el perejil picado."
   ],
-  nutricion: { kcal: 860, prot: 50, hc: 68, grasa: 43 },
+  nutricion: { kcal: 605, prot: 32, hc: 39, grasa: 34 },
   etiquetas: ["creativa", "fin de semana", "para invitados", "invierno", "alta en proteína", "poco especiada"],
   consejo: "El ajvar es la crema de pimiento rojo asado y berenjena que se prepara cada otoño en Serbia y Macedonia del Norte; aquí hace de base de la salsa y le da dulzor y un fondo ahumado. El kajmak es una crema láctea fermentada típica de los Balcanes: se encuentra en tiendas de productos del este de Europa, y la mezcla de queso crema y mantequilla es un buen sustituto. El guiso aguanta 3 días en la nevera y se congela bien.",
   alternativa: "Sin olla exprés: guisa las carrilleras en cazuela tapada a fuego suave 2 h en lugar de 35 min, añadiendo un chorrito de caldo si la salsa se seca.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

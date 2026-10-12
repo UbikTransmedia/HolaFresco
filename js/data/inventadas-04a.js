@@ -148,7 +148,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "media",
   equipo: ["cazuela", "horno", "batidora"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "carrillada de cerdo", q: 600, u: "g", nota: "ibérica, limpia de telillas" },
     { n: "vino dulce Pedro Ximénez", q: 150, u: "ml" },
@@ -176,11 +176,11 @@ window.RECETAS_SEED.push({
     "Saca las carrilladas y mantenlas calientes. Retira el laurel y el tomillo y tritura la salsa con las verduras. Si está líquida, redúcela 5 min a fuego fuerte hasta que nape la cuchara.",
     "Sirve el puré de boniato en la base, las carrilladas encima y salsea generosamente."
   ],
-  nutricion: { kcal: 780, prot: 48, hc: 62, grasa: 36 },
+  nutricion: { kcal: 595, prot: 32, hc: 47, grasa: 29 },
   etiquetas: ["braseado", "al horno", "invierno", "batch cooking", "contundente", "para invitados", "verduras escondidas", "poco especiada"],
   consejo: "Está aún mejor hecha de víspera: la salsa gelatiniza y la carne se corta mejor. Recalienta a fuego muy suave con un chorrito de agua.",
   alternativa: "Sin horno o con prisa: tras el paso 3, cierra la olla exprés y cuece las carrilladas 40 min desde que suba la válvula en lugar de 2 h 30 min a 160 °C; después tritura y reduce la salsa igual.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
   tiempo: 50,
   dificultad: "media",
   equipo: ["horno", "plancha", "batidora"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "secreto ibérico", q: 400, u: "g" },
     { n: "berenjena", q: 1, u: "ud" },
@@ -264,10 +264,10 @@ window.RECETAS_SEED.push({
     "Calienta la plancha a fuego muy fuerte sin aceite. Seca el secreto, sálalo y márcalo 3-4 min por lado: la grasa infiltrada se dorará y el interior debe quedar ligeramente rosado. Déjalo reposar 5 min en una tabla.",
     "Corta el secreto en tiras al bies de 1 cm, muele pimienta por encima y sírvelo con la escalivada al lado y una buena cucharada de romesco."
   ],
-  nutricion: { kcal: 710, prot: 42, hc: 24, grasa: 50 },
+  nutricion: { kcal: 620, prot: 22, hc: 17, grasa: 51 },
   etiquetas: ["al horno", "a la plancha", "para invitados", "contundente", "verano", "poco especiada"],
   consejo: "El romesco sobrante aguanta 4 días en la nevera y va de lujo con pescado o verduras a la brasa. El secreto no necesita aceite: su propia grasa lo fríe.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -283,7 +283,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "fácil",
   equipo: ["horno", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "costillas de cerdo", q: 900, u: "g", nota: "una tira entera" },
     { n: "pimentón ahumado", q: 1, u: "cda" },
@@ -315,11 +315,11 @@ window.RECETAS_SEED.push({
     "Saca las costillas, desenvuélvelas y sube el horno a 220 °C. Píntalas generosamente con la salsa y hornéalas destapadas 15 min, pintando otra vez a mitad, hasta que estén laqueadas y con bordes caramelizados.",
     "Calienta el maíz 2 min en la misma cazuela de la salsa ya vacía. Corta las costillas entre los huesos y sírvelas con el coleslaw, el maíz y el resto de la salsa aparte."
   ],
-  nutricion: { kcal: 860, prot: 50, hc: 52, grasa: 50 },
+  nutricion: { kcal: 640, prot: 30, hc: 27, grasa: 45 },
   etiquetas: ["al horno", "cocción lenta", "contundente", "para comer con las manos", "fin de semana"],
   consejo: "Puedes hacer las 2 primeras horas de horno la víspera y guardar las costillas en su papel; al día siguiente solo tienes que laquearlas 20 min a 220 °C.",
   alternativa: "Para acortar, cuece la tira de costillas en olla exprés con 200 ml de agua 25 min desde que suba la válvula (en lugar de 2 h envuelta en el horno) y luego lacéalas a 220 °C 15-20 min con la barbacoa.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -379,7 +379,7 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["wok", "cazuela", "sartén"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo picado", q: 350, u: "g" },
     { n: "arroz jazmín", q: 120, u: "g" },
@@ -404,7 +404,7 @@ window.RECETAS_SEED.push({
     "Calienta las 2 cda de aceite restantes en una sartén pequeña a fuego fuerte y fríe los huevos de uno en uno, regando la clara con el aceite, hasta que los bordes estén crujientes y la yema líquida.",
     "Sirve el arroz, encima el salteado y corona con el huevo frito. Muele pimienta por encima."
   ],
-  nutricion: { kcal: 620, prot: 40, hc: 55, grasa: 26 },
+  nutricion: { kcal: 610, prot: 31, hc: 39, grasa: 36 },
   etiquetas: ["rápida", "picante", "económica", "wok", "una sola sartén"],
   consejo: "La clave es el fuego: el wok tiene que humear antes de echar nada. Si la albahaca tailandesa no aparece, la común funciona; añade unas gotas de lima al servir.",
   contundencia: "media",
@@ -467,7 +467,7 @@ window.RECETAS_SEED.push({
   tiempo: 105,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo (paleta)", q: 600, u: "g", nota: "en dados de 4 cm" },
     { n: "patata", q: 500, u: "g" },
@@ -495,7 +495,7 @@ window.RECETAS_SEED.push({
     "Casca las patatas (clava el cuchillo y rompe el trozo) para que suelten almidón. Añádelas a la cazuela, sala y cuece 25 min más destapado, hasta que estén tiernas y la salsa haya trabado.",
     "Deja reposar 5 min fuera del fuego, retira el laurel y sirve con el perejil picado."
   ],
-  nutricion: { kcal: 710, prot: 55, hc: 55, grasa: 30 },
+  nutricion: { kcal: 700, prot: 43, hc: 36, grasa: 40 },
   etiquetas: ["de cuchara", "guiso", "económica", "invierno", "batch cooking"],
   consejo: "Si la salsa queda clara, aplasta un par de trozos de patata contra la pared de la cazuela: espesa en un minuto sin añadir harina.",
   alternativa: "Con olla exprés, cocina la carne 20 min a presión en lugar de 60 min a fuego suave; abre, añade las patatas cascadas y termina destapado 20-25 min como en el paso 5.",
@@ -604,7 +604,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 5,
   ingredientes: [
     { n: "carrillada de cerdo", q: 600, u: "g", nota: "limpia de telillas" },
     { n: "pasta de curry rojo", q: 2, u: "cda" },
@@ -633,11 +633,11 @@ window.RECETAS_SEED.push({
     "Incorpora las judías verdes y cuece 10 min destapado para que la salsa reduzca un poco. Las carrilladas deben deshacerse al presionarlas con una cuchara.",
     "Apaga el fuego, exprime media lima sobre el curry y rectifica de sal. Sirve con el arroz, el cilantro picado, los cacahuetes y gajos de la lima restante."
   ],
-  nutricion: { kcal: 780, prot: 48, hc: 75, grasa: 32 },
+  nutricion: { kcal: 580, prot: 29, hc: 35, grasa: 37 },
   etiquetas: ["cocción lenta", "picante", "de cuchara", "batch cooking", "invierno"],
   consejo: "Vigila que no hierva a borbotones: la carrillada se vuelve fibrosa con el hervor fuerte y melosa con el suave. Mejora de un día para otro.",
   alternativa: "En olla exprés, las carrilladas quedan melosas en 35 min desde que sube la válvula, frente a las 2 h a fuego mínimo; añade la calabaza al abrir y cuécela destapada 15 min.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -653,7 +653,7 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "fácil",
   equipo: ["horno", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo picado", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -684,10 +684,10 @@ window.RECETAS_SEED.push({
     "Hornea 40-45 min. A los 25 min pinta el pastel con el resto del glaseado y remueve los boniatos. Está listo cuando el centro marque 70 °C o al pinchar salga jugo claro.",
     "Deja reposar 10 min antes de cortarlo en rodajas gruesas. Sirve con el boniato y los canónigos aliñados con unas gotas de aceite y sal."
   ],
-  nutricion: { kcal: 690, prot: 42, hc: 58, grasa: 32 },
+  nutricion: { kcal: 620, prot: 32, hc: 44, grasa: 34 },
   etiquetas: ["al horno", "económica", "para niños", "batch cooking", "ideal para llevar", "verduras escondidas", "poco especiada"],
   consejo: "El pan remojado en leche es lo que mantiene el pastel tierno aunque esté bien cocido. Las rodajas frías en sándwich al día siguiente son un clásico.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -790,7 +790,7 @@ window.RECETAS_SEED.push({
   tiempo: 130,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "costillas de cerdo", q: 800, u: "g", nota: "troceadas por el carnicero" },
     { n: "judías blancas cocidas", q: 400, u: "g" },
@@ -818,7 +818,7 @@ window.RECETAS_SEED.push({
     "Añade la patata y cuece 15 min. Incorpora las alubias escurridas y enjuagadas y cuece 10 min más destapado, moviendo la cazuela en vaivén para que la salsa engorde sin romper las alubias.",
     "Rectifica de sal, deja reposar 5 min y sirve en platos hondos con el perejil picado."
   ],
-  nutricion: { kcal: 940, prot: 58, hc: 60, grasa: 52 },
+  nutricion: { kcal: 655, prot: 34, hc: 34, grasa: 41 },
   etiquetas: ["de cuchara", "guiso", "económica", "invierno", "batch cooking", "contundente"],
   consejo: "Si tienes tiempo, desgrasa el guiso: déjalo enfriar, retira la capa de grasa que cuaja arriba y recalienta. Queda igual de sabroso y mucho más ligero.",
   alternativa: "Usando olla exprés, las costillas se despegan del hueso en 25 min desde que sube la válvula (en vez de 75 min); luego sigue el paso 5 con la olla abierta.",
@@ -838,7 +838,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["plancha", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo (paleta)", q: 350, u: "g", nota: "en dados de 3 cm" },
     { n: "pimentón dulce", q: 1, u: "cda" },
@@ -869,7 +869,7 @@ window.RECETAS_SEED.push({
     "Ensarta los dados de cerdo en las brochetas sin apretarlos. Calienta la plancha a fuego fuerte y hazlas 8-10 min girándolas cada 2 min, hasta que estén doradas por fuera y hechas por dentro.",
     "Sirve los pinchos sobre el cuscús con la salsa de yogur aparte."
   ],
-  nutricion: { kcal: 580, prot: 42, hc: 50, grasa: 24 },
+  nutricion: { kcal: 605, prot: 32, hc: 40, grasa: 34 },
   etiquetas: ["a la plancha", "económica", "brochetas", "verano", "ideal para llevar"],
   consejo: "La paleta tiene más grasa infiltrada que el lomo y queda mucho más jugosa en brocheta. Deja los dados en la marinada por la mañana y por la noche tienes la cena en 20 minutos.",
   contundencia: "media",
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "media",
   equipo: ["plancha", "sartén", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "presa ibérica", q: 400, u: "g" },
     { n: "miso", q: 1.5, u: "cda" },
@@ -915,10 +915,10 @@ window.RECETAS_SEED.push({
     "Déjala reposar 5 min en una tabla y córtala en láminas de 1 cm al bies. Muele pimienta por encima.",
     "Sirve el arroz con las setas, la presa encima, el sésamo, unas gotas de lima y gajos de lima aparte."
   ],
-  nutricion: { kcal: 760, prot: 45, hc: 65, grasa: 36 },
+  nutricion: { kcal: 645, prot: 32, hc: 50, grasa: 35 },
   etiquetas: ["a la plancha", "marinado", "para invitados", "contundente", "umami", "poco especiada"],
   consejo: "La presa ibérica se sirve rosada, como un buen filete de ternera: bien hecha pierde toda su gracia. Si la marinas la víspera, el sabor a miso llega hasta el centro.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -979,7 +979,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["sartén", "cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "lomo de cerdo", q: 360, u: "g", nota: "4 filetes" },
     { n: "harina de trigo", q: 40, u: "g" },
@@ -1006,7 +1006,7 @@ window.RECETAS_SEED.push({
     "Calienta el resto del aceite (un dedo) en una sartén amplia a 170 °C: una miga de pan debe burbujear al instante. Fríe los schnitzel de dos en dos 2-3 min por lado moviendo la sartén en círculos para que el rebozado se ondule, hasta que estén dorados. Escúrrelos en papel.",
     "Mezcla el cebollino picado con la ensalada de patata y sírvela con los schnitzel y gajos de limón para exprimir encima."
   ],
-  nutricion: { kcal: 800, prot: 48, hc: 72, grasa: 36 },
+  nutricion: { kcal: 755, prot: 39, hc: 57, grasa: 41 },
   etiquetas: ["frito", "económica", "para niños", "contundente", "clásico", "poco especiada"],
   consejo: "El movimiento de la sartén al freír hace que el aceite caliente pase entre el filete y el rebozado y lo levante: es el secreto del schnitzel ondulado de Viena.",
   contundencia: "contundente",
@@ -1025,7 +1025,7 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "cerdo (paleta)", q: 600, u: "g", nota: "en dados de 4 cm" },
     { n: "sidra", q: 330, u: "ml", nota: "natural o seca, no dulce" },
@@ -1053,7 +1053,7 @@ window.RECETAS_SEED.push({
     "Incorpora la mostaza antigua y la nata, remueve con cuidado y cuece 5 min destapado para que la salsa espese ligeramente. Rectifica de sal y pimienta.",
     "Retira el laurel y las ramas de tomillo y sirve bien caliente con el perejil picado."
   ],
-  nutricion: { kcal: 710, prot: 55, hc: 50, grasa: 32 },
+  nutricion: { kcal: 710, prot: 44, hc: 41, grasa: 40 },
   etiquetas: ["de cuchara", "cocción lenta", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si te sobra sidra de la botella, bébela con el plato: es el maridaje natural. El estofado mejora recalentado al día siguiente a fuego suave.",
   alternativa: "Con olla exprés: tras el paso 3, cuece la paleta 20 min a presión en lugar de 75 min; abre, añade las patatas y deja 15 min más tapado a fuego suave antes de la mostaza y la nata.",

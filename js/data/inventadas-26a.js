@@ -15,7 +15,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 150, u: "g", nota: "en remojo desde la víspera" },
     { n: "ternera para guisar", q: 200, u: "g", nota: "mejor morcillo" },
@@ -42,7 +42,7 @@ window.RECETAS_SEED.push({
     "Para la pringá, desmenuza la ternera, el pollo sin hueso ni piel y la panceta y mézclalos con un tenedor hasta que queden como una pasta jugosa.",
     "Sirve primero la sopa con una ramita de hierbabuena; después, en el mismo plato o aparte, los garbanzos con la patata, la verdura y la pringá, regados con un cazo de caldo."
   ],
-  nutricion: { kcal: 910, prot: 62, hc: 98, grasa: 30 },
+  nutricion: { kcal: 660, prot: 43, hc: 65, grasa: 23 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "batch cooking", "poco especiada"],
   consejo: "La pringá sobrante es el mejor relleno de un montadito con pan tostado. Y si el caldo te sale con mucha grasa, enfríalo en la nevera: la grasa se queda arriba en una capa y la retiras con una cuchara.",
   alternativa: "Con olla exprés: tras espumar, mete los garbanzos y cierra; cuenta 35 min desde que sube la válvula, abre, añade verduras y patatas y cuece 20 min más sin tapa en lugar de las 2 h 30 min de cazuela.",
@@ -62,7 +62,7 @@ window.RECETAS_SEED.push({
   tiempo: 210,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "garbanzos secos", q: 100, u: "g", nota: "en remojo desde la víspera" },
     { n: "ternera para guisar", q: 200, u: "g", nota: "morcillo o falda" },
@@ -95,11 +95,11 @@ window.RECETAS_SEED.push({
     "Lleva el caldo a ebullición y cuece los galets el tiempo que indique el paquete (unos 12-14 minutos), hasta que estén tiernos pero enteros.",
     "Sirve primero la escudella bien caliente; después la carn d'olla en trozos, con la pilota cortada en rodajas, la butifarra, las verduras y los garbanzos, con un chorrito de aceite crudo."
   ],
-  nutricion: { kcal: 1010, prot: 70, hc: 92, grasa: 40 },
+  nutricion: { kcal: 630, prot: 43, hc: 53, grasa: 26 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "para invitados", "poco especiada"],
   consejo: "Para que la pilota no se rompa al cocer, que el caldo no hierva a borbotones fuertes cuando la metas. Con la carne que sobre haz unas croquetas o unos canelones: es lo que se hace en Cataluña el día de San Esteban.",
   alternativa: "Si en tu súper no hay galets, usa conchas grandes (conchiglioni) o macarrones gruesos, los mismos 80 g y con el mismo tiempo de cocción que marque el paquete.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -115,7 +115,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 5,
   ingredientes: [
     { n: "alubias blancas secas", q: 140, u: "g", nota: "en remojo desde la víspera" },
     { n: "repollo", q: 300, u: "g", nota: "o berza" },
@@ -137,7 +137,7 @@ window.RECETAS_SEED.push({
     "Dora los ajos en una sartén pequeña con el aceite a fuego suave hasta que estén rubios. Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte el refrito sobre el pote.",
     "Prueba de sal (el compango ya sala bastante), deja reposar 10 minutos con el fuego apagado y sirve con el compango cortado en rodajas encima."
   ],
-  nutricion: { kcal: 880, prot: 40, hc: 82, grasa: 42 },
+  nutricion: { kcal: 680, prot: 30, hc: 28, grasa: 49 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "El pote está mucho mejor de un día para otro: el caldo engorda y los sabores se asientan. Si te queda muy espeso al recalentar, alárgalo con un chorrito de agua caliente.",
   alternativa: "Fuera de Asturias, el compango se sustituye bien por chorizo y morcilla de cebolla curados normales; añade una pizca de pimentón ahumado al guiso para recuperar el punto de humo.",
@@ -374,7 +374,7 @@ window.RECETAS_SEED.push({
   tiempo: 55,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "castañas cocidas", q: 200, u: "g", nota: "peladas" },
     { n: "patata", q: 1, u: "ud", nota: "grande" },
@@ -392,7 +392,7 @@ window.RECETAS_SEED.push({
     "Cuece 20 minutos más, hasta que el repollo esté tierno y la patata se deshaga en los bordes. Aplasta unas cuantas castañas y trozos de patata contra la pared de la cazuela para espesar el caldo.",
     "Saca el chorizo, córtalo en rodajas y devuélvelo a la cazuela. Prueba de sal y deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 600, prot: 18, hc: 74, grasa: 26 },
+  nutricion: { kcal: 605, prot: 27, hc: 37, grasa: 39 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si usas castañas frescas, hazles un corte, ásalas 15 minutos a 200 °C y pélalas en caliente envueltas en un trapo. Algunas abuelas terminaban el caldo con un chorro de leche: pruébalo, queda muy suave.",
   contundencia: "media",
@@ -664,7 +664,7 @@ window.RECETAS_SEED.push({
   tiempo: 200,
   dificultad: "media",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo desde la víspera" },
     { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso" },
@@ -693,7 +693,7 @@ window.RECETAS_SEED.push({
     "Saca las pelotas, la carne y las verduras a una fuente. Desmenuza el pollo sin piel ni huesos.",
     "Sirve el cocido en plato hondo con su caldo, los garbanzos y la patata, una pelota y media por persona y el pollo y la panceta por encima."
   ],
-  nutricion: { kcal: 920, prot: 60, hc: 90, grasa: 36 },
+  nutricion: { kcal: 680, prot: 41, hc: 57, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "de domingo", "poco especiada"],
   consejo: "En Murcia las pelotas se hacen también con sangre o con un poco de tocino picado; la canela y el limón son lo que les da su sabor tan particular, no te los saltes. Si te sobran, están buenísimas al día siguiente con tomate frito.",
   contundencia: "contundente",
@@ -712,7 +712,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "judías blancas secas", q: 120, u: "g", nota: "en remojo desde la víspera" },
     { n: "costillas de cerdo", q: 250, u: "g", nota: "troceadas" },
@@ -735,11 +735,11 @@ window.RECETAS_SEED.push({
     "Incorpora la morcilla entera y las hojas de acelga. Cuece 15 minutos, hasta que las judías estén mantecosas y la patata tierna. Sala al final.",
     "Apaga, deja reposar 10 minutos y sirve en plato hondo con su caldo, con la morcilla y la panceta en trozos."
   ],
-  nutricion: { kcal: 840, prot: 40, hc: 80, grasa: 40 },
+  nutricion: { kcal: 635, prot: 28, hc: 35, grasa: 41 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "En invierno se le añade cardo y nabo, y en algunos pueblos unas pelotas como las del cocido. El boniato le da un punto dulce muy característico: no lo cambies por más patata.",
   alternativa: "Si no pusiste las judías en remojo, usa 300 g de judías blancas cocidas de bote, lavadas y escurridas, y añádelas en los últimos 15 min de guiso.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -1009,7 +1009,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 100, u: "g", nota: "en remojo desde la víspera" },
     { n: "judías blancas secas", q: 60, u: "g", nota: "en remojo desde la víspera" },
@@ -1036,10 +1036,10 @@ window.RECETAS_SEED.push({
     "Cuece 5 minutos más, prueba de sal y deja reposar tapado 10 minutos.",
     "Saca las carnes y córtalas en trozos para la pringá. Sirve la berza con su caldo y la pringá aparte, para comerla con pan."
   ],
-  nutricion: { kcal: 870, prot: 40, hc: 80, grasa: 44 },
+  nutricion: { kcal: 635, prot: 29, hc: 34, grasa: 41 },
   etiquetas: ["tradicional", "de cuchara", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "En Jerez la berza lleva tagarninas o cardos en temporada; si los encuentras, añádelos con la col. Es aún mejor de un día para otro, así que hazla con calma la víspera.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 

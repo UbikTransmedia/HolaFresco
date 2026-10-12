@@ -51,6 +51,11 @@ desde la misma wifi, o copia la carpeta al móvil y ábrela con un navegador que
   se cuenta lo absorbido. Los ingredientes opcionales y los «al gusto» (salvo un chorrito de aceite) no suman.
 - El resultado se divide entre las raciones de la receta. Si no se reconocen ingredientes que sumen al menos el 85 %
   del peso, se usan los valores escritos en la receta (que se guardan como «declarados» y son los que se editan).
+- **Ración estándar de referencia:** la de un adulto de 2.100 kcal/día que reparte la comida (≈ 35 %) y la cena
+  (≈ 25-30 %), es decir, unas **650 kcal por plato**, con un rango razonable de 400 a 900 kcal. Las recetas cuya ración
+  calculada se salía de ese rango (378 de 5.353, sobre todo platos con cantidades para más de dos personas) tienen
+  ahora las raciones que de verdad dan; quedan por debajo algunas cenas ligeras de fácil digestión (≈ 320-380 kcal),
+  que no pueden crecer sin pasar de 25 g de grasa.
 - El **factor de ración** de cada persona escala las cantidades y, con ellas, la energía: con Ana (0,85×) y Luis
   (1,2×) se cocinan 2,05 raciones y cada uno come su parte. El menú, su Markdown y su PDF muestran una vez la
   **energía media por comida de cada persona** (kcal por ración estándar × su factor), y el detalle de cada receta,

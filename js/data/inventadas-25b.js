@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
   tiempo: 70,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "espaguetis", q: 170, u: "g" },
     { n: "ternera picada", q: 150, u: "g" },
@@ -157,7 +157,7 @@ window.RECETAS_SEED.push({
     "Cuece los espaguetis según el paquete, escúrrelos y mézclalos con unos cucharones de la salsa.",
     "Sirve la pasta con las albóndigas encima, más salsa, el resto del parmesano y albahaca fresca."
   ],
-  nutricion: { kcal: 794, prot: 40, hc: 82, grasa: 34 },
+  nutricion: { kcal: 655, prot: 33, hc: 57, grasa: 31 },
   etiquetas: ["tradicional", "fácil", "saciante", "para niños", "batch cooking", "de domingo", "sin verduras", "poco especiada"],
   consejo: "El pan mojado en leche es el truco para que las albóndigas queden jugosas. Haz el doble y congela las albóndigas ya guisadas en su salsa: aguantan 3 meses perfectas.",
   contundencia: "contundente",
@@ -176,7 +176,7 @@ window.RECETAS_SEED.push({
   tiempo: 180,
   dificultad: "media",
   equipo: ["cazuela", "horno", "batidora", "sartén"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "canelones (placas)", q: 10, u: "ud" },
     { n: "pollo (contramuslos)", q: 200, u: "g", nota: "deshuesados" },
@@ -207,10 +207,10 @@ window.RECETAS_SEED.push({
     "Cubre con el resto de la bechamel, espolvorea el queso rallado y hornea 15 minutos; termina 3-4 minutos con el grill, hasta que la superficie esté gratinada y dorada.",
     "Deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 874, prot: 46, hc: 60, grasa: 50 },
+  nutricion: { kcal: 560, prot: 31, hc: 35, grasa: 32 },
   etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "sin verduras", "poco especiada"],
   consejo: "Es la receta de aprovechar la carne del cocido o del asado de Navidad: si la tienes, sáltate el primer paso y tritúrala directamente. Los canelones montados se congelan muy bien sin la bechamel.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -877,7 +877,7 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "elaborada",
   equipo: ["cazuela", "sartén", "horno", "bol"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "rigatoni", q: 170, u: "g" },
     { n: "ternera picada", q: 150, u: "g" },
@@ -904,10 +904,10 @@ window.RECETAS_SEED.push({
     "En una fuente, pon la mitad de la pasta; reparte encima la ricotta a cucharadas, el huevo, la mitad de la mozzarella y las albondiguitas. Cubre con el resto de la pasta, el resto de la salsa, la mozzarella y el parmesano.",
     "Hornea 25 minutos, hasta que los bordes estén crujientes y el queso dorado. Deja reposar 10 minutos antes de cortar para que se asiente."
   ],
-  nutricion: { kcal: 858, prot: 44, hc: 76, grasa: 42 },
+  nutricion: { kcal: 555, prot: 29, hc: 43, grasa: 28 },
   etiquetas: ["tradicional", "al horno", "de domingo", "para invitados", "saciante", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "Es el plato de las fiestas y del carnaval en Nápoles. Se puede montar la víspera, guardarlo tapado en la nevera y hornearlo 10 minutos más. Recalentado al día siguiente está aún mejor.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "media"
 });
 
@@ -923,7 +923,7 @@ window.RECETAS_SEED.push({
   tiempo: 210,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "rigatoni", q: 160, u: "g" },
     { n: "ternera para guisar", q: 250, u: "g", nota: "en un solo trozo (morcillo o aguja)" },
@@ -947,10 +947,10 @@ window.RECETAS_SEED.push({
     "Saca las carnes, rectifica la salsa de sal y cuece los rigatoni según el paquete.",
     "Mezcla la pasta con la salsa y sirve con parmesano y albahaca. Las carnes se sirven después como segundo, o troceadas sobre la pasta si lo quieres como plato único."
   ],
-  nutricion: { kcal: 826, prot: 50, hc: 80, grasa: 34 },
+  nutricion: { kcal: 560, prot: 32, hc: 42, grasa: 27 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "En Nápoles se dice que el ragú 'pippiare', es decir, que apenas burbujea: el fuego tiene que estar al mínimo. Haz el doble de salsa y congélala en raciones; es la mejor base de pasta que puedas tener.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -966,7 +966,7 @@ window.RECETAS_SEED.push({
   tiempo: 150,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
     { n: "ossobuco de ternera", q: 2, u: "ud", nota: "de unos 300 g cada uno" },
     { n: "arroz arborio", q: 150, u: "g" },
@@ -996,11 +996,11 @@ window.RECETAS_SEED.push({
     "Añade el caldo caliente cucharón a cucharón, removiendo a menudo, durante 17-18 minutos, hasta que el arroz esté cremoso y al dente.",
     "Apaga y manteca el risotto con el resto de la mantequilla y el parmesano, removiendo con energía 30 segundos. Sirve el risotto con un ossobuco encima, su salsa y la gremolata espolvoreada al final."
   ],
-  nutricion: { kcal: 792, prot: 50, hc: 76, grasa: 32 },
+  nutricion: { kcal: 565, prot: 39, hc: 41, grasa: 26 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "poco especiada"],
   consejo: "No te olvides del tuétano: es el premio del plato y se come con cucharilla. La gremolata se pone al final y en crudo, para que el limón y el ajo despierten la salsa.",
   alternativa: "Con olla exprés, cuece los ossobucos 35 min desde que sube la válvula en lugar de 1 h 45 min; empieza el risotto en cuanto cierres la olla y estará todo a la vez.",
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

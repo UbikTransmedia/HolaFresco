@@ -997,7 +997,7 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "media",
   equipo: ["sartén", "cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "jurel", q: 600, u: "g", nota: "2 piezas medianas" },
     { n: "maicena", q: 3, u: "cda" },
@@ -1021,7 +1021,7 @@ window.RECETAS_SEED.push({
     "Calienta un dedo y medio de aceite en una sartén a 180 °C y fríe los lomos 2 minutos por lado, con la piel hacia abajo primero, hasta que estén dorados y crujientes. Escúrrelos sobre papel.",
     "Coloca el jurel sobre el arroz, napa con la salsa de tamarindo justo antes de servir (para que no pierda el crujiente) y acompaña con el pepino y el cilantro."
   ],
-  nutricion: { kcal: 732, prot: 41, hc: 88, grasa: 24 },
+  nutricion: { kcal: 690, prot: 27, hc: 66, grasa: 35 },
   etiquetas: ["jurel", "pescado azul", "pescado poco habitual", "frito", "aprende a filetear", "sin gluten", "sin lácteos", "omega 3"],
   consejo: "Sacar lomos de un pescado redondo (jurel, caballa, sardina grande, dorada) siempre sigue la misma lógica: cuchillo pegado a la espina, cortes largos y sin serrar. La maicena es el rebozado más crujiente para cualquier fritura asiática, y además es sin gluten.",
   alternativa: "Sin pasta de tamarindo, prepara la salsa con 2 cda de zumo de lima y 1/2 cda más de azúcar moreno: conserva el equilibrio agridulce.",
