@@ -252,6 +252,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 40, hc: 30, grasa: 24 },
   etiquetas: ["tradicional", "para invitados", "de domingo", "de cuchara", "sin verduras", "poco especiada"],
   consejo: "El meneo de la cazuela es lo que liga la salsa: la harina del rape y el jugo de las almejas la espesan solas. Desecha las almejas que no se abran.",
+  alternativa: "Si el rape está muy caro, usa lomos gruesos de merluza (los mismos 300 g) y añádelos 3-4 min más tarde que el rape, porque se hacen antes y son más delicados; menea la cazuela con suavidad.",
   contundencia: "media",
   coste: "premium"
 });
@@ -294,6 +295,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 800, prot: 45, hc: 60, grasa: 42 },
   etiquetas: ["tradicional", "saciante", "verano", "para invitados", "de domingo", "poco especiada"],
   consejo: "El secreto andaluz es sacudir bien la harina en un colador antes de freír: así queda una capa fina y crujiente, nunca un rebozado pastoso. Y freír en tandas pequeñas, siempre.",
+  alternativa: "Si en tu pescadería no hay cazón, sustitúyelo por 150 g de pez espada en tacos: aguanta la fritura igual de firme y absorbe bien el adobo.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -338,6 +340,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 890, prot: 38, hc: 95, grasa: 40 },
   etiquetas: ["tradicional", "saciante", "económica", "al horno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Usa el aceite rojizo que suelta el sofrito para la masa y para pintar los bordes: es el truco de las panaderías gallegas y da color y sabor. Templada o fría está aún mejor, ideal para llevar.",
+  alternativa: "Si no te apetece amasar, compra 2 láminas de masa de empanada fresca en refrigerados: el resultado es muy parecido y te ahorras los 45 min de reposo; píntala igualmente con el aceite del sofrito.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -580,6 +583,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 40, hc: 18, grasa: 26 },
   etiquetas: ["tradicional", "verano", "batch cooking", "alta en proteína", "verduras escondidas", "poco especiada"],
   consejo: "Está aún mejor de un día para otro. Prepara el doble de salsa, congela la mitad, y en temporada de bonito (de junio a septiembre) tendrás la cena resuelta en 10 minutos.",
+  alternativa: "Fuera de temporada de bonito, usa lomos de atún claro congelados (descongelados en la nevera la víspera); como quedan algo más secos, déjalos 2-3 min menos en la salsa.",
   contundencia: "ligera",
   coste: "media"
 });

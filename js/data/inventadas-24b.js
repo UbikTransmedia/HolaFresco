@@ -125,6 +125,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 460, prot: 38, hc: 40, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "ligera", "invierno", "alta en proteína"],
   consejo: "El pulpo congelado queda más tierno que el fresco porque el frío rompe sus fibras. No eches sal al agua de cocción hasta el final: la piel se mantiene mejor.",
+  alternativa: "Con olla exprés, el kilo de pulpo se cuece en 15-18 min desde que sube la válvula en vez de 40-50 min; reserva igualmente 400 ml de su agua para el guiso.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -212,6 +213,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 42, hc: 45, grasa: 30 },
   etiquetas: ["tradicional", "batch cooking", "para niños", "de domingo", "poco especiada"],
   consejo: "Frío está buenísimo en rodajas, casi como un fiambre de pescado. Si la masa se te deshace al formar el rollo, añade una cucharada más de pan rallado.",
+  alternativa: "Fuera de temporada, haz el rollo con 300 g de bonito en conserva bien escurrido (unas 3 latas): queda algo más compacto, pero es la versión casera de toda la vida.",
   contundencia: "media",
   coste: "media"
 });
@@ -669,6 +671,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 36, hc: 22, grasa: 26 },
   etiquetas: ["tradicional", "verano", "batch cooking", "ligera", "poco especiada"],
   consejo: "Bien cubierto por el escabeche aguanta 5-6 días en la nevera, y cada día está más rico: es la forma en que se conservaba el bonito en las casas del Cantábrico.",
+  alternativa: "Si no es época de bonito, el escabeche queda estupendo con lomos de caballa fresca (los mismos 320 g), más barata y de sabor intenso; dórala 1 min menos por lado porque es más fina.",
   contundencia: "ligera",
   coste: "media"
 });

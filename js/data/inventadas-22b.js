@@ -134,6 +134,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 710, prot: 48, hc: 62, grasa: 30 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Es el plato de las fiestas en Venezuela y siempre está mejor al día siguiente, cortado en frío y recalentado en su salsa. Se acompaña también de plátano frito y ensalada.",
+  alternativa: "Para acortar, tras verter el vino y el agua cierra la olla exprés y cuece 50 min a presión media en lugar de 2 h 15 min; después tritura las verduras y reduce la salsa destapada.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -476,6 +477,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 730, prot: 46, hc: 42, grasa: 42 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "verduras escondidas", "poco especiada"],
   consejo: "La carrillera de ternera es más grande y gelatinosa que la de cerdo y necesita su tiempo: no la saques antes de que se deshaga. Hecha la víspera gana muchísimo.",
+  alternativa: "Las carrilleras se hacen en 40-45 min en olla exprés, contando desde que sube la válvula, frente a las 2 h 30 min en cazuela; luego tritura y reduce la salsa igual.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -697,6 +699,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 42, hc: 44, grasa: 28 },
   etiquetas: ["tradicional", "fácil", "invierno", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "Parece mucha cebolla, pero se deshace y es la que da cuerpo y dulzor a la salsa. En Holanda lo acompañan de lombarda con manzana.",
+  alternativa: "Para ganar tiempo, guisa el hachee en olla exprés 35 min a presión en vez de 2 h a fuego mínimo; si la salsa de cebolla queda clara, redúcela destapada unos 10 min.",
   contundencia: "media",
   coste: "media"
 });
@@ -740,6 +743,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 38, hc: 34, grasa: 18 },
   etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén", "bajo en colesterol"],
   consejo: "En Perú se hace con chicha de jora; la cerveza rubia es el sustituto casero más habitual. Acompañado de arroz blanco es un plato de los que llenan.",
+  alternativa: "Si no encuentras pasta de ají amarillo, tritura medio pimiento amarillo asado (o de bote) con media guindilla sin semillas: da el mismo color dorado y un picor parecido.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -992,6 +996,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 750, prot: 42, hc: 64, grasa: 36 },
   etiquetas: ["tradicional", "fácil", "económica", "saciante", "invierno", "batch cooking", "poco especiada"],
   consejo: "El pörkölt se hace casi sin líquido: la cebolla y la carne sueltan su jugo. Añade agua solo poco a poco si ves que se pega. Un pepinillo al lado es lo típico.",
+  alternativa: "Si no encuentras alcaravea, usa 0,25 cdta de comino en grano ligeramente machacado: el aroma es parecido, solo algo más terroso.",
   contundencia: "contundente",
   coste: "económica"
 });

@@ -76,6 +76,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 678, prot: 26, hc: 76, grasa: 30 },
   etiquetas: ["tradicional", "fácil", "saciante", "picante", "sin verduras"],
   consejo: "Nada de ajo ni cebolla: la amatriciana auténtica es solo guanciale, tomate, vino y pecorino. Reservar parte del guanciale para el final hace que se note crujiente en cada bocado.",
+  alternativa: "Si no encuentras pecorino, usa 30 g de grana padano o parmesano curado y rectifica de sal al final, porque el pecorino es bastante más salado.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -658,6 +659,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 588, prot: 20, hc: 82, grasa: 20 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "invierno", "vegetariano", "saciante", "poco especiada"],
   consejo: "Es el plato napolitano de aprovechar los restos de paquetes de pasta: mezcla tipos distintos rompiendo los largos en trozos. Una corteza de parmesano cocida con las patatas le da un sabor tremendo.",
+  alternativa: "Si no hay provola ni provolone, usa 50 g de queso San Simón da Costa en dados: es ahumado, funde muy bien y da un resultado casi igual.",
   contundencia: "media",
   coste: "media"
 });
@@ -778,6 +780,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 826, prot: 34, hc: 78, grasa: 42 },
   etiquetas: ["tradicional", "al horno", "invierno", "saciante", "vegetariano", "para niños", "sin verduras", "poco especiada"],
   consejo: "Si no te animas a raspar la masa, usa un rallador de agujeros grandes o un colador de pasta: lo importante es que caigan gotas alargadas al agua. Acompáñalo de una ensalada de lechuga con vinagreta.",
+  alternativa: "Si no tienes gruyère, usa 70 g de emmental y 30 g de queso curado rallado: funde igual de bien y mantiene el punto intenso del original.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -996,6 +999,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 792, prot: 50, hc: 76, grasa: 32 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "poco especiada"],
   consejo: "No te olvides del tuétano: es el premio del plato y se come con cucharilla. La gremolata se pone al final y en crudo, para que el limón y el ajo despierten la salsa.",
+  alternativa: "Con olla exprés, cuece los ossobucos 35 min desde que sube la válvula en lugar de 1 h 45 min; empieza el risotto en cuanto cierres la olla y estará todo a la vez.",
   contundencia: "contundente",
   coste: "premium"
 });

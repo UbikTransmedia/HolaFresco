@@ -170,6 +170,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 890, prot: 42, hc: 95, grasa: 38 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "saciante", "económica", "batch cooking", "poco especiada"],
   consejo: "Cocina el arroz solo en la parte que vayas a comer: el resto del guiso de alubias, nabos y costilla aguanta 3 días en la nevera y le añades el arroz el día que lo quieras.",
+  alternativa: "Sin remojo previo, usa 300 g de judías blancas cocidas de bote: cuece la costilla sola 30 min, añade los nabos y sigue 40 min, e incorpora las alubias enjuagadas justo antes del arroz.",
   contundencia: "contundente",
   coste: "económica"
 });
@@ -462,6 +463,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 612, prot: 38, hc: 70, grasa: 20 },
   etiquetas: ["tradicional", "de cuchara", "para invitados", "de domingo", "poco especiada"],
   consejo: "Para purgar las almejas, déjalas 1 hora en agua fría con un buen puñado de sal y cámbiala una vez. La picada se echa casi al final: si hierve mucho, pierde el aroma del ajo y el perejil.",
+  alternativa: "Si en tu zona no hay ñoras, usa 1 cda de carne de pimiento choricero o 1 cdta de pimentón dulce añadido fuera del fuego: dan un color y un fondo muy parecidos al caldo.",
   contundencia: "media",
   coste: "premium"
 });
@@ -589,6 +591,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 439, prot: 13, hc: 72, grasa: 11 },
   etiquetas: ["tradicional", "fácil", "económica", "primavera", "ligera", "vegano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si encuentras habas frescas tiernas, mejor que mejor: con las pequeñitas no hace falta pelarlas. Fuera de temporada, unos corazones de alcachofa congelados funcionan muy bien.",
+  alternativa: "Fuera de la primavera, cuando no hay ajos tiernos, cambia el manojo por 1 cebolleta en rodajas finas y 2 dientes de ajo laminados, rehogados juntos 5 min.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -925,7 +928,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 463, prot: 15, hc: 76, grasa: 11 },
   etiquetas: ["tradicional", "fácil", "económica", "ligera", "otoño", "vegano", "batch cooking", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
-  consejo: "La calabaza se deshace un poco y espesa el caldo sin necesidad de nata ni queso. Si quieres hacerlo más contundente, añade un huevo poché encima de cada plato.",
+  consejo: "La calabaza se deshace un poco y espesa el caldo sin necesidad de nata ni queso. Si quieres hacerlo más contundente sin que deje de ser vegano, añade unos dados de tofu firme dorados a la plancha encima de cada plato.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -968,6 +971,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 632, prot: 30, hc: 74, grasa: 24 },
   etiquetas: ["tradicional", "fácil", "económica", "verano", "poco especiada"],
   consejo: "Pide al carnicero que te corte la costilla en dados pequeños: se dora antes y suelta más sabor. Y no tires el agua de remojar la ñora; puedes usarla como parte del caldo.",
+  alternativa: "¿No encuentras ñora? Sustitúyela por una cucharada de carne de pimiento choricero de bote, o por 1 cdta más de pimentón dulce puesta con la paella apartada del fuego.",
   contundencia: "media",
   coste: "económica"
 });

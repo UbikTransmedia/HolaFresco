@@ -464,6 +464,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 820, prot: 34, hc: 85, grasa: 38 },
   etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "La clave gallega es amasar con el aceite del sofrito, que da color y sabor a la masa, y escurrir bien el relleno para que la base no quede mojada. Está igual de rica fría al día siguiente.",
+  alternativa: "Para ir más rápido, usa 2 láminas de masa de empanada refrigerada (o unos 400 g de masa de pan de tu panadería): estírala fina, píntala con el aceite rojo del sofrito y hornea igual, 35-40 min a 190 °C.",
   contundencia: "contundente",
   coste: "media"
 });

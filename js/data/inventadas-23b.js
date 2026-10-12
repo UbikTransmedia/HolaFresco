@@ -127,6 +127,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 770, prot: 32, hc: 70, grasa: 40 },
   etiquetas: ["tradicional", "al horno", "saciante", "para invitados", "ideal para llevar", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "La carne cortada a cuchillo, en lugar de picada, es el secreto de las empanadas jugosas. Puedes congelarlas crudas y hornearlas directamente, añadiendo 5 minutos.",
+  alternativa: "Si no encuentras tapas de empanada de 12 cm, usa obleas de empanadilla del súper: salen unas 12 empanadas más pequeñas y necesitan unos 5 min menos de horno.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -211,6 +212,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 38, hc: 40, grasa: 28 },
   etiquetas: ["tradicional", "al horno", "fácil", "económica", "para niños", "una sola bandeja", "sin verduras", "poco especiada"],
   consejo: "Seca muy bien las alitas con papel de cocina antes de adobarlas: así la piel queda crujiente en vez de cocida. Se comen con las manos, ¡así que servilletas a mano!",
+  alternativa: "En freidora de aire: alitas a 200 °C durante 22-25 min, girándolas a mitad, sin amontonarlas; haz las patatas gajo aparte, 18-20 min a la misma temperatura.",
   contundencia: "media",
   coste: "económica"
 });

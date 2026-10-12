@@ -140,6 +140,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 42, hc: 24, grasa: 40 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "Pide al carnicero los filetes cortados para fricandó: finos y del mismo grosor, así se hacen a la vez. Como todo guiso catalán, mejora de un día para otro.",
+  alternativa: "Si no encuentras moixernons ni rebozuelos, mezcla 150 g de champiñón portobello con 50 g de shiitake: el shiitake aporta ese punto aromático de seta de bosque y la salsa queda casi igual.",
   contundencia: "media",
   coste: "media"
 });
@@ -191,6 +192,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 790, prot: 48, hc: 46, grasa: 46 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "batch cooking", "saciante", "poco especiada"],
   consejo: "Usa un vino que te beberías: la salsa es casi todo vino reducido. Hazlo la víspera, déjalo enfriar y retira la grasa que cuaje encima antes de recalentarlo.",
+  alternativa: "Con olla exprés, después de añadir el vino y el caldo cierra y cuece 45 min desde que suba la válvula en lugar de 2 h 30 min; luego sigue con las cebollitas y los champiñones y reduce la salsa destapada.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -239,6 +241,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 44, hc: 18, grasa: 49 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "saciante", "picante", "keto"],
   consejo: "Los callos de verdad se comen al día siguiente: al enfriarse la gelatina espesa la salsa y los sabores se asientan. Compra los callos ya limpios y precocidos y te ahorras la mitad del trabajo.",
+  alternativa: "En olla exprés los callos quedan tiernos y gelatinosos en unos 50 min a presión, en vez de 2 h 30 min; abre, añade el chorizo y la morcilla y continúa con la olla destapada como en la receta.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -288,6 +291,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 830, prot: 46, hc: 48, grasa: 50 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "saciante", "batch cooking", "verduras escondidas", "poco especiada"],
   consejo: "Hazlo el día anterior: al enfriar, la grasa sube y cuaja y la quitas con una cuchara; la salsa queda más limpia y el rabo más sabroso. Pide al carnicero trozos del centro, que tienen más carne.",
+  alternativa: "Si no encuentras rabo de toro, el de vaca o ternera (los mismos 900 g) da un guiso casi idéntico, algo más suave; y en olla exprés basta 1 h a presión en lugar de 3 h a fuego lento.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -821,6 +825,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 600, prot: 38, hc: 36, grasa: 34 },
   etiquetas: ["tradicional", "fácil", "de domingo", "para invitados", "invierno", "sin verduras", "poco especiada"],
   consejo: "Las ciruelas se deshacen un poco y endulzan la salsa: si te gusta menos dulce, pon la mitad y añade un chorrito de vinagre al final.",
+  alternativa: "Si los piñones se salen de presupuesto, cámbialos por 20 g de almendra laminada tostada 2 min en sartén seca: aporta el mismo crujiente y casa igual de bien con las ciruelas.",
   contundencia: "media",
   coste: "media"
 });
@@ -1002,6 +1007,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 700, prot: 36, hc: 22, grasa: 52 },
   etiquetas: ["tradicional", "económica", "invierno", "saciante", "de domingo", "picante"],
   consejo: "Pide al carnicero que te las parta y limpie. Si te sobran, deshuésalas en templado, ponlas en un táper con su salsa y al día siguiente tendrás una gelatina riquísima para calentar.",
+  alternativa: "Si tienes olla exprés, el primer cocido de las manitas se queda en 45-50 min desde que sube la válvula, en lugar de 2 h 30 min a fuego suave; el resto de pasos no cambia.",
   contundencia: "contundente",
   coste: "económica"
 });
