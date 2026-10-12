@@ -100,6 +100,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 567, prot: 30, hc: 60, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "económica"],
   consejo: "Se hace con boquerones o sardinas pequeñas y se come con arroz y un curry de verduras. Las sardinas en lomos se digieren mejor que enteras y, cocidas al vapor de su propio jugo, no repiten como las asadas. Mantén el coco rallado en 18 g por persona o menos: en más cantidad aporta mucha fibra y grasa de golpe, y es lo que suele hinchar.",
+  alternativa: "Sin hojas de curry, pon 1 hoja de laurel y la ralladura de media lima en su lugar; sin pasta de tamarindo, usa 1 cdta de zumo de lima: la acidez es casi la misma.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -280,6 +281,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 38, hc: 59, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "económica", "bajo en colesterol"],
   consejo: "La cocina pandit de Cachemira no usa ajo ni cebolla: el sabor sale del hinojo, el jengibre seco y la asafétida, por eso este plato es casi apto de origen para el intestino irritable. Solo hemos cambiado la guindilla de Cachemira por pimentón dulce. Compra asafétida que diga «sin gluten» (la habitual se corta con harina de trigo) y usa solo una pizca. El daikon es bajo en FODMAP y, bien cocido, muy suave.",
+  alternativa: "Si no encuentras daikon, usa 150 g de nabo blanco y 100 g de chirivía (el nabo solo es bajo en FODMAP hasta ~75 g por persona), con el mismo tiempo; sin asafétida, ½ cdta de aceite de ajo en su lugar.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -370,6 +372,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 498, prot: 37, hc: 56, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "al horno"],
   consejo: "La tadka (aceite caliente con especias) es la forma india de dar sabor sin salsa: las especias se tuestan en un instante y la grasa las reparte, de modo que con poca cantidad basta. El hinojo en grano es carminativo, ayuda a expulsar gases; por eso en la India se masca al acabar de comer. La kabocha, a diferencia de la calabaza violín, se puede comer en ración generosa sin problemas de FODMAP, y el mijo es un cereal indio tradicional sin gluten.",
+  alternativa: "Sin kabocha, usa 90 g de calabaza cacahuete (su límite bajo en FODMAP para dos) y 210 g de zanahoria en bastones, asados igual; sin mijo, quinoa lavada (los mismos 120 g) con 300 ml de agua, 13 min.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -461,6 +464,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 37, hc: 70, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "invierno", "batch cooking"],
   consejo: "En las casas parsis se hace con cabrito y anacardos; aquí se usan almendras (los anacardos son altos en FODMAP) en la ración baja, unas 6 por persona, y la leche de coco no pasa de 50 ml por persona. Desgrasar bien la pierna es clave para que el guiso sea ligero. Mejora de un día para otro: si lo haces antes, añade la crema de almendra al recalentar.",
+  alternativa: "Con olla exprés: tras añadir el agua, cierra y cuece el cordero 20 min a presión en lugar de 60; abre, añade las patatas y sigue 15-20 min tapado sin presión.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -507,6 +511,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 562, prot: 37, hc: 54, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "sin verduras", "invierno"],
   consejo: "La gushtaba se sirve al final del wazwan cachemir y su secreto es golpear la carne hasta convertirla en pasta. Pide pierna picada en lugar de cordero picado de mezcla: tendrá la mitad de grasa. El yogur sin lactosa conserva la acidez del original sin la lactosa, y el hinojo y el jengibre seco son las especias digestivas por excelencia de Cachemira. En el wazwan se usan chalotas; aquí no hacen falta.",
+  alternativa: "Sin asafétida, añade ½ cdta de aceite de ajo junto al ghee; si no tienes ghee, usa la misma cantidad de mantequilla o de aceite de oliva.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -793,6 +798,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 631, prot: 44, hc: 62, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína"],
   consejo: "En los puestos de Khayam Chowk el tujj se hace con cordero graso y se sirve envuelto en pan con chutneys de rábano y de cebolla; la cadera de ternera da la misma brasa con un tercio de la grasa y el muj chetin conserva el contraste fresco. Salar y exprimir el daikon le quita picor y agua; es bajo en FODMAP, pero si el rábano crudo te da gases, saltéalo 2 minutos antes de mezclarlo con el yogur. Las nueces van en 10 g por persona, muy por debajo de su límite.",
+  alternativa: "Si no encuentras daikon, usa nabo blanco (los mismos 150 g), salado y exprimido igual; sin asafétida, añade ½ cdta de aceite de ajo a la marinada.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -1119,6 +1125,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 26, hc: 65, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "económica"],
   consejo: "El mirchi ka salan de las bodas de Hyderabad se hace con guindillas largas enteras; los pimientos de freír marcados a la sartén aportan el mismo verdor sin picor. La salsa de cacahuete, sésamo y coco tostados es contundente, por eso va medida (10 g de cacahuete y 6 g de coco por persona) para que la grasa no se dispare. Cacahuetes y sésamo son bajos en FODMAP y, tostados y triturados, se digieren mejor que enteros; el tofu firme lo es porque al prensarlo pierde los oligosacáridos que sí conserva el tofu sedoso.",
+  alternativa: "Sin pasta de tamarindo, usa 2 cdta de zumo de lima en la salsa; sin hojas de curry, pon 1 hoja de laurel y la ralladura de media lima en la tadka.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1168,6 +1175,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 626, prot: 30, hc: 86, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "superalimentos", "bajo en colesterol"],
   consejo: "El panch phoron es la mezcla bengalí de cinco semillas enteras: comino, hinojo, nigella, mostaza y fenogreco. Aquí el fenogreco se queda fuera (es una legumbre) y la mostaza en una pizca, y la mezcla sigue reconociéndose al primer chisporroteo. El chorchori se hace con lo que haya en la cesta: kabocha, patata, zanahoria y espinacas son bajas en FODMAP en ración generosa. Cocer el tempeh antes de dorarlo lo hace más digestivo; 100 g por persona es su ración baja en FODMAP.",
+  alternativa: "Sin tempeh, usa tofu firme bien prensado (los mismos 200 g): sáltate la cocción previa y dóralo igual; sin kabocha, 90 g de calabaza cacahuete (su límite bajo en FODMAP para dos) y 160 g más de patata y zanahoria.",
   tupper: true,
   contundencia: "media",
   coste: "media"

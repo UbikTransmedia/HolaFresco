@@ -313,6 +313,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 27, hc: 44, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lácteos", "poco especiada", "bajo en colesterol", "superalimentos"],
   consejo: "En las tabernas griegas la brasa se acompaña de horta vrasta: hojas verdes hervidas y aliñadas en caliente con aceite y limón. El kale no es griego, pero es libre en la dieta baja en FODMAP y recuerda a las verduras silvestres; las acelgas, sin penca, en esta cantidad también se toleran bien. El tempeh es soja fermentada, baja en FODMAP hasta 100 g por persona, la ración de esta receta; hervirlo antes le quita el amargor. El tamari es salsa de soja sin trigo.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme bien prensado (los mismos 200 g) en filetes: sáltate la cocción en agua, marínalo igual y márcalo 3 min por lado; queda más suave de sabor.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -357,6 +358,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 26, hc: 72, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "bajo en colesterol", "poco especiada"],
   consejo: "El sofrito de Corfú es un filete de ternera enharinado y guisado en vinagre con mucho ajo y perejil, herencia de los venecianos. Aquí el aceite de ajo pone el aroma sin los fructanos del diente. El tempeh es un fermentado de soja bajo en FODMAP hasta unos 100 g por persona: la fermentación consume buena parte de sus galactanos. Mastica despacio: es una proteína densa.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme bien prensado (los mismos 200 g) en filetes: sáltate el vapor, enharínalo y dóralo igual; absorbe muy bien la salsa de vinagre.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -487,6 +489,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 415, prot: 22, hc: 35, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin gluten", "poco especiada", "bajo en colesterol", "invierno"],
   consejo: "En Corfú esta ensalada se come en Cuaresma con renga (arenque ahumado), cebolla y aceitunas; aquí la cebolla es la parte verde de la cebolleta. La naranja es baja en FODMAP hasta una pieza mediana por persona y el bulbo de hinojo hasta unos 45-50 g: las cantidades están ajustadas a esos límites. El arenque, pescado azul y rico en omega 3, se encuentra en filetes envasados junto a los ahumados.",
+  alternativa: "Si no encuentras arenque ahumado, usa caballa ahumada en filetes (los mismos 140 g), igual de grasa y salina; revisa que no lleve ajo ni cebolla en la etiqueta.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"

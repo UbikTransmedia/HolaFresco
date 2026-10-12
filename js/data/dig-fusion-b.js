@@ -59,6 +59,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 485, prot: 19, hc: 50, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "invierno"],
   consejo: "La bagna cauda piamontesa lleva casi una cabeza de ajo por persona confitada en aceite: aquí el aceite de ajo pone el aroma sin los fructanos, y el sésamo y el tamari sustituyen a la mantequilla con un sabor tostado que recuerda al goma-dare japonés. Las verduras al vapor, bien tiernas, son lo más amable para un intestino irritable; la kabocha se tolera en ración generosa (no así la calabaza violín, que conviene dejar en unos 45 g), y el pak choi no debe pasar de 75 g por persona. Las anchoas ya salan bastante: no añadas sal a la salsa.",
+  alternativa: "Sin kabocha, usa 150 g más de zanahoria y 150 g más de patata (no la cambies por calabaza cacahuete, solo baja en FODMAP hasta ~45 g por persona); sin pak choi, acelga tierna en la misma cantidad, 4 min al vapor.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -300,6 +301,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 21, hc: 73, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "al horno", "invierno"],
   consejo: "El dauphinois clásico se hace con nata y ajo frotado en la fuente; aquí la leche sin lactosa y el dashi dan la misma cremosidad gracias al almidón de la patata, con la mitad de grasa y un sabor más profundo. El comté y los quesos muy curados apenas tienen lactosa, y la patata y la chirivía son libres en la dieta baja en FODMAP. Si no encuentras kombu ni bonito seco, usa caldo de pollo casero sin cebolla. Se puede hornear con antelación y recalentar tapado a 160 °C 15 minutos.",
+  alternativa: "Si no encuentras comté, usa gruyère rallado (los mismos 50 g): curado, casi sin lactosa y con el mismo gratinado a nuez.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -773,6 +775,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 40, hc: 69, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "bajo en colesterol", "alta en proteína", "invierno"],
   consejo: "El pho debe su aroma a dos gestos: chamuscar el jengibre (y la cebolla, que aquí se omite) y tostar las especias en seco. Trabajado como un risotto, el caldo se convierte en salsa sin una gota de mantequilla ni queso, porque la cremosidad sale del almidón del arroz. Usa caldo casero: el comercial suele llevar cebolla y ajo. Los brotes de soja son libres para el intestino irritable; si crudos te sientan peor, escáldalos 30 segundos en el caldo.",
+  alternativa: "Si no encuentras albahaca tailandesa, usa albahaca común con unas hojas de menta (la misma cantidad); da un perfume anisado muy parecido.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -968,6 +971,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 32, hc: 50, grasa: 20.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "invierno"],
   consejo: "El caldo verde portugués se liga con patata y se termina con aceite de oliva y chouriço, que lleva ajo y pimentón; el tom kha tailandés se perfuma con limoncillo, galanga y lima kaffir. Las dos sopas se entienden: la patata pone el cuerpo y los aromáticos, que se retiran antes de triturar, la frescura. La leche de coco se queda en 60 ml por persona, su límite bajo en FODMAP, y el kale es libre; cortado en hilos muy finos y bien cocido se digiere mucho mejor. Si la recalientas, hazlo sin que hierva para no endurecer los langostinos.",
+  alternativa: "Sin hojas de lima kaffir, usa la ralladura de 1 lima y 1 hoja de laurel; sin limoncillo, 3 tiras de piel de limón sin la parte blanca. Retíralos igual antes de triturar.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1107,6 +1111,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 435, prot: 31.5, hc: 40.5, grasa: 16.5 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "invierno"],
   consejo: "En Finlandia la lohikeitto se toma de dos maneras: la cremosa, con nata, y la kirkas o clara, solo con caldo, patata y eneldo, mucho más ligera. Esta parte de la clara y cambia el caldo de pescado con puerro por un dashi de kombu y bonito, que aporta el mismo fondo marino sin fructanos. El miso blanco se queda en 1 cucharadita por persona, por debajo de su límite bajo en FODMAP, y se añade al final, sin hervir. Al recalentarla, saca el salmón y devuélvelo solo el último minuto para que no se reseque.",
+  alternativa: "Sin kombu ni copos de bonito, usa 800 ml de caldo de pescado casero sin cebolla ni puerro en lugar del dashi y sigue igual; el sabor marino es muy parecido.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -1156,6 +1161,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 690, prot: 42.5, hc: 84, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "de cuchara", "invierno"],
   consejo: "El menestrón es el minestrone de los inmigrantes genoveses de Lima, que lo enriquecieron con yuca, choclo y zapallo y lo ligaron con su pesto de albahaca, espinaca y queso fresco. La versión limeña lleva además habas y frijoles, que aquí se omiten por sus galactanos, y el queso fresco se cambia por parmesano, casi sin lactosa. Ojo con la suma de verduras moderadas: las judías verdes, la col y el maíz van en cantidades pequeñas (30, 40 y 20 g por persona) precisamente para no acumular polioles; si quieres más verdura, que sea patata, zanahoria o kabocha.",
+  alternativa: "Con olla exprés, cuece la ternera 20 min a presión en lugar de 60 y sigue igual; sin kabocha, usa 90 g de calabaza cacahuete y 110 g más de zanahoria (la cacahuete solo es baja en FODMAP hasta ~45 g por persona).",
   tupper: true,
   contundencia: "contundente",
   coste: "media"

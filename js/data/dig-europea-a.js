@@ -399,6 +399,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 495, prot: 33, hc: 50, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada"],
   consejo: "El bulbo de hinojo es bajo en FODMAP hasta unos 48 g por persona; aquí la zanahoria hace de base de la fondue y el hinojo pone el perfume anisado. Las verduras se cocinan tapadas con un hilo de aceite y agua, lo que las deja tiernísimas y muy fáciles de digerir. La salsa lleva solo 7 g de mantequilla por persona emulsionados con zumo: sabor de beurre blanc con mucha menos grasa.",
+  alternativa: "Si el rape se te va de precio, usa lomos gruesos de merluza (los mismos 320 g): márcala igual y déjala solo 4-5 min en el horno; sin estragón fresco, vale 0,5 cdta de estragón seco en la salsa.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -447,6 +448,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 48, hc: 52, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "invierno", "alta en proteína"],
   consejo: "El Tafelspitz se acompaña también de Apfelkren (manzana rallada con rábano picante); lo dejamos fuera porque la manzana es alta en FODMAP. El caldo clásico lleva cebolla tostada y puerro: sin ellos sigue siendo un caldo limpio y sabroso gracias a las raíces y la pimienta de Jamaica. Si cueces la víspera, al enfriarse la grasa sube y se retira entera: el caldo queda aún más ligero.",
+  alternativa: "Con olla exprés: tras espumar, añade las especias, cierra y cuece la carne 40 min a presión; luego añade raíces y patatas y cuécelas 25 min sin tapa. Sin pimienta de Jamaica, usa 1 clavo y 2 granos más de pimienta negra.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -544,6 +546,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 37, hc: 52, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "batch cooking", "invierno"],
   consejo: "La carne cocida en agua, sin dorar, es especialmente digestiva; la pierna, mucho más magra que la paletilla, mantiene la grasa a raya. La cebolla que llevan algunas versiones no hace falta: el sabor lo dan los tallos de eneldo y la pimienta de Jamaica. Como todos los guisos, mejora de un día para otro; añade el eneldo fresco al recalentar para que recupere su perfume.",
+  alternativa: "Con olla exprés: tras espumar, añade tallos de eneldo y especias, cierra y cuece el cordero 25 min a presión; después, las zanahorias 20 min sin tapa. Sin pimienta de Jamaica, usa 1 clavo y 2 granos más de pimienta negra.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -719,6 +722,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 45, hc: 42, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "invierno", "alta en proteína"],
   consejo: "La alcaravea se usa desde siempre en la cocina centroeuropea para acompañar carnes y coles, y su aroma anisado hace olvidar el ajo crudo del Kümmelbraten original. El solomillo es la pieza más magra del cerdo, frente a la panceta del asado tradicional. El colinabo es bajo en FODMAP hasta unos 75 g por persona; zanahoria y chirivía se pueden tomar con más libertad.",
+  alternativa: "Si no encuentras colinabo (rutabaga), usa nabo blanco (los mismos 150 g, también bajo en FODMAP en esa ración); se asa en el mismo tiempo y queda algo menos dulce.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -763,6 +767,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 570, prot: 41, hc: 59, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "invierno"],
   consejo: "El conejo es una de las carnes más magras y fáciles de digerir. La uva es baja en FODMAP en la cantidad del plato (75 g por persona) y aporta el dulzor que en Borgoña daría el vino; el vinagre pone la acidez. La polenta es naturalmente sin gluten y el comté curado apenas tiene lactosa.",
+  alternativa: "Si no encuentras comté, usa gruyère o parmesano rallado (los mismos 20 g): son curados, casi sin lactosa, y dan el mismo toque a nuez a la polenta.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -896,6 +901,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 495, prot: 17, hc: 71, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "para niños"],
   consejo: "Los nokedli se hacen con harina de trigo; la mezcla de harina de arroz y almidón de tapioca da una textura muy parecida, tierna y algo elástica, y es baja en FODMAP. En Hungría se saltean en manteca de cerdo: con 7 g de mantequilla por persona basta. La ensalada de aliño acuoso, ácido y dulce, es la compañía clásica y aligera mucho el plato.",
+  alternativa: "Si no encuentras almidón de tapioca, usa maicena (los mismos 40 g); los nokedli quedan algo menos elásticos, pero igual de tiernos.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -980,6 +986,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 395, prot: 21, hc: 26, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada"],
   consejo: "Usa calabaza japonesa (kabocha): es baja en FODMAP en raciones generosas, a diferencia de la calabaza violín, que solo se tolera en unos 45 g. La piel de la kabocha se ablanda en el horno y se come, pero si te sienta pesada, retírala al servir. El gruyère curado apenas tiene lactosa y las avellanas son aptas hasta unos 15 g por persona.",
+  alternativa: "Sin kabocha, no la cambies toda por calabaza cacahuete (solo es baja en FODMAP hasta ~45 g por persona): usa 90 g de cacahuete y 510 g de zanahoria y chirivía en bastones, asados igual 25 min; queda algo más firme y dulce.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -1119,6 +1126,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 34, hc: 49, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "primavera"],
   consejo: "La Grüne Soße auténtica lleva borraja, perifollo, berros, perejil, pimpinela, acedera y cebollino; con las hierbas que encuentres en el mercado (berros, perejil, cebollino, acedera y estragón) logras su frescor. El tempeh es soja fermentada y es bajo en FODMAP: la fermentación reduce los GOS que a otros les sientan mal las legumbres. Con yogur sin lactosa en lugar de nata agria la salsa es ligera y apta.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme bien prensado (los mismos 220 g) en lonchas: sáltate el vapor y dóralo igual 3 min por lado; queda más suave de sabor.",
   tupper: true,
   contundencia: "media",
   coste: "media"

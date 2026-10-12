@@ -55,6 +55,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 640, prot: 15, hc: 103, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "al horno", "invierno"],
   consejo: "Los pandits de Cachemira cocinan sin ajo ni cebolla por tradición, así que este dum aloo apenas necesita adaptación: el sabor lo ponen el hinojo y el jengibre secos, dos especias que además suelen sentar bien a quien se hincha. Las patatas cocidas y enfriadas un rato forman almidón resistente, que alimenta la flora sin fermentar tanto como otras fibras; si te sobra, al día siguiente está aún mejor. Si toleras mal la grasa, sustituye el ghee por una cucharada más de aceite.",
+  alternativa: "Sin asafétida, añade ½ cdta de aceite de ajo junto al ghee: aporta el mismo fondo de ajo sin fructanos.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -96,6 +97,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 555, prot: 19, hc: 70, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "superalimentos", "de cuchara"],
   consejo: "El haak es casi minimalista: aceite de mostaza, asafétida y la verdura; en Cachemira se añade una guindilla seca que aquí se omite sin que el plato pierda su carácter. El kale es bajo en FODMAP en raciones generosas, pero sus fibras son duras: quitar los nervios y cocerlo bien hasta que esté meloso marca la diferencia en la hinchazón. Las nueces son aptas hasta 30 g por persona; en el doon chetin original llevan además una guindilla verde que tampoco hace falta.",
+  alternativa: "Sin asafétida, añade ½ cdta de aceite de ajo al aceite de mostaza ya templado, justo antes del kale: da el mismo fondo aliáceo sin fructanos.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -186,6 +188,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 635, prot: 14, hc: 93, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "de cuchara"],
   consejo: "El avial original lleva guindilla verde en la pasta de coco, plátano macho verde, ñame y baquetas de moringa; aquí se usan verduras bajas en FODMAP respetando las raciones toleradas (judías verdes y coco rallado no más de 75 g y 30 g por persona). La kabocha puede ir en ración generosa, al contrario que la calabaza violín. El yogur sin lactosa conserva la acidez suave que equilibra el coco.",
+  alternativa: "Sin kabocha, usa 90 g de calabaza cacahuete (su límite bajo en FODMAP para dos) y 60 g más de zanahoria en bastones; se cuecen en el mismo tiempo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -323,6 +326,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 630, prot: 36, hc: 68, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína"],
   consejo: "El chaman kalia se hace con paneer, un queso fresco con lactosa; el tofu firme dorado da la misma textura que absorbe la salsa y es bajo en FODMAP (el tofu sedoso no lo es tanto). Con leche sin lactosa la salsa sigue siendo láctea y suave. Hinojo y jengibre son las especias de la cocina pandit y dos de las más amables para quien se hincha.",
+  alternativa: "Sin asafétida, añade ½ cdta de aceite de ajo con las especias, antes de la leche: aporta el mismo fondo aliáceo sin fructanos.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -369,6 +373,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 606, prot: 29, hc: 82, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína"],
   consejo: "Mezhukkupuratti significa «untado de aceite»: la verdura se cuece al vapor en su propia sartén y después se saltea hasta que brilla. En Kerala lleva chalotas y a veces guindilla; aquí la parte verde de la cebolleta y la pimienta machacada en cantidad moderada (un cuarto de cucharadita por persona) le dan el punto, y si eres sensible puedes reducirla a la mitad. Las judías verdes van en 75 g por persona, su límite bajo en FODMAP; si quieres más volumen, sube la zanahoria. El tempeh es bajo en FODMAP hasta 100 g por persona.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme bien prensado (los mismos 200 g) en dados: sáltate la cocción previa y dóralo igual 5 min; queda más suave de sabor.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -462,6 +467,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 397, prot: 25, hc: 27, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "bajo en colesterol", "ligera", "económica"],
   consejo: "En Gujarat el sambharo lleva tiras de guindilla verde y acompaña la thali como guarnición; el pimiento verde de freír aporta el mismo verdor sin picor, y el tofu dorado, que ocupa el lugar del paneer de las casas vegetarianas gujaratis, lo convierte en una cena completa. La col blanca es baja en FODMAP hasta unos 75 g por persona, por eso la protagonista es la zanahoria, que no tiene límite. Si la col poco hecha te hincha, saltéala 2 minutos más hasta que se ablande.",
+  alternativa: "Sin asafétida, añade ½ cdta de aceite de ajo con la mostaza en la tadka: aporta el mismo fondo aliáceo sin fructanos.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -509,6 +515,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 537, prot: 36, hc: 60, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "verano", "ideal para llevar"],
   consejo: "El pachadi de piña es uno de los platos agridulces del sadya de Onam: fruta, yogur y una pasta de coco con un toque de mostaza molida. Aquí hace de aliño y respeta las raciones bajas en FODMAP: 75 g de piña y 10 g de coco por persona, y la mostaza en muy poca cantidad para que no irrite. El mijo, que en el sur de la India ha vuelto a comerse a diario, no tiene gluten y en ensalada es muy ligero; lávalo bien para quitarle el amargor. Para el táper, lleva el pachadi aparte y aliña al servir.",
+  alternativa: "Si no encuentras mijo, usa quinoa bien lavada (los mismos 120 g) con 300 ml de agua, 13 min tapada a fuego mínimo, y enfríala suelta igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -599,6 +606,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 12, hc: 75, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "ideal para llevar", "económica"],
   consejo: "En Tamil Nadu la tadka lleva además urad dal y chana dal (dos legumbres que se tuestan para dar crujiente) y guindillas secas; los cacahuetes cumplen esa función sin legumbres. El coco rallado es bajo en FODMAP hasta unos 30 g por persona; aquí van 20 g. Está igual de bueno templado, por eso es el arroz de las fiambreras y del viaje.",
+  alternativa: "Sin asafétida, añade ½ cdta de aceite de ajo con la mostaza en la tadka: aporta el mismo fondo aliáceo sin fructanos.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1116,6 +1124,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 508, prot: 36, hc: 82, grasa: 4 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "de cuchara", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "En Manipur el chamthong se hace con pescado seco o ahumado, cebolla tierna y maroi, unas hojas de la familia del cebollino; con merluza fresca, la parte verde de la cebolleta y cebollino el caldo queda más suave e igual de limpio. Al no llevar aceite ni especias es una de las sopas más amables para un intestino irritado. La col blanca va en 60 g por persona, por debajo de su límite bajo en FODMAP; si quieres más dulzor, sube la kabocha, que no tiene límite.",
+  alternativa: "Sin kabocha, usa 90 g de calabaza cacahuete (su límite bajo en FODMAP para dos) y 60 g más de zanahoria; se cuecen en el mismo tiempo.",
   tupper: false,
   contundencia: "media",
   coste: "media"

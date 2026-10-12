@@ -288,6 +288,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 505, prot: 19, hc: 62, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "económica", "batch cooking"],
   consejo: "En Hungría los pimientos se rellenan de cerdo y arroz y se guisan en una salsa de tomate algo dulce, que se termina con nata agria; aquí el mijo, que es sin gluten y bajo en FODMAP, hace de relleno ligero y el yogur sin lactosa sustituye a la nata agria. El pimiento verde se tolera mejor que el rojo en cantidad, pero si te resulta indigesto pela los pimientos asados antes de comerlos: casi todas las molestias vienen de la piel. Se conservan 3 días en la nevera en su salsa.",
+  alternativa: "Si no encuentras mijo, usa quinoa bien lavada (los mismos 90 g) con el mismo caldo, 12-14 min tapada a fuego mínimo; el relleno queda algo menos compacto, pero se sostiene con el huevo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -381,6 +382,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 27, hc: 70, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "económica", "batch cooking", "invierno"],
   consejo: "El kalops se hace en Suecia con ternera, mucha cebolla, pimienta de Jamaica y laurel, y se sirve con patatas cocidas y remolacha encurtida; aquí la remolacha (alta en FODMAP) cede el sitio a los pepinillos y la cebolla a la parte verde de la cebolleta. La pimienta de Jamaica perfuma sin picar. El tempeh es bajo en FODMAP hasta unos 100 g por persona, y cocerlo al vapor antes de guisarlo lo hace más suave para el intestino. Comprueba que el tamari sea sin gluten. Como todo guiso, mejora al día siguiente.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme bien prensado (los mismos 200 g) en dados: sáltate el vapor y dóralo igual 5 min; sin pimienta de Jamaica, 1 clavo y 4 granos de pimienta negra.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -524,6 +526,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 420, prot: 39, hc: 25, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "batch cooking"],
   consejo: "En Estiria esta ensalada se hace con la carne cocida que sobra del caldo del domingo, cebolla cruda y un buen chorro de Kürbiskernöl, el aceite tostado de pipas de calabaza que se encuentra en tiendas ecológicas; la cebolla se sustituye por cebollino. El caldo que queda es bajo en FODMAP porque solo lleva la parte verde de la cebolleta: guárdalo para sopas. Los canónigos (Vogerlsalat en Austria) son muy suaves y bien tolerados. Lleva la carne aliñada en un tupper y los canónigos aparte.",
+  alternativa: "Sin aceite de pipas de calabaza, usa aceite de oliva virgen extra y machaca la mitad de las pipas tostadas para el sabor tostado; con olla exprés, el morcillo se hace en 40 min a presión en lugar de 2 h.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -567,6 +570,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 505, prot: 19, hc: 53, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "superalimentos", "poco especiada", "otoño"],
   consejo: "La calabaza japonesa o kabocha es baja en FODMAP incluso en raciones generosas, al contrario que la calabaza violín (butternut), que conviene limitar a unos 45 g. Masajear el kale rompe sus fibras: queda tierno como una hoja cocida y se digiere mucho mejor que crudo sin más. El comté, curado muchos meses, prácticamente no tiene lactosa. Aguanta un día en la nevera ya aliñada; añade la naranja y las nueces al servir.",
+  alternativa: "Sin kabocha (la calabaza cacahuete solo es baja en FODMAP hasta ~45 g por persona), usa 90 g de cacahuete y 310 g de zanahoria y chirivía en bastones, asadas igual; sin comté, gruyère en virutas (los mismos 50 g).",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1156,6 +1160,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 39, hc: 38, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "de cuchara", "sin gluten", "poco especiada", "alta en proteína", "batch cooking", "invierno"],
   consejo: "La Hochzeitssuppe del norte de Alemania se sirve en las bodas con albondiguitas, puntas de espárrago y el Eierstich, un flan de huevo y leche cortado en dados que se cuaja al baño maría; aquí nos quedamos con el Eierstich, que es lo más especial, y cambiamos el espárrago, alto en FODMAP, por las raíces del propio caldo. El caldo lleva solo las hojas verdes de la cebolleta, así que es bajo en FODMAP: haz el doble y congélalo. El flan de huevo cocido a fuego suave es de las formas más digestivas de tomar huevo.",
+  alternativa: "Con olla exprés: tras espumar, añade los aromáticos, cierra y cuece el morcillo 35 min a presión; luego añade zanahoria, chirivía y la sal y cuece 25 min más sin tapa.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"

@@ -288,6 +288,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 38, hc: 72, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "para niños"],
   consejo: "El pescado con salsa de maíz sobre arroz es uno de los platos más pedidos en los cha chaan teng, los cafés de Hong Kong que adaptaron la cocina occidental de los hoteles al gusto cantonés; allí el filete se reboza y se fríe, aquí se dora con una película de maicena y una cucharada de aceite. El maíz dulce es bajo en FODMAP hasta unos 38 g por persona, justo lo que lleva la salsa, y se evita el maíz en crema de lata, que suele llevar trigo y lactosa. La salsa debe quedar suelta y brillante: si espesa de más, aclárala con un chorrito de caldo caliente.",
+  alternativa: "Si no encuentras pak choi, usa acelga tierna con sus pencas (los mismos 150 g, baja en FODMAP en esa ración): pencas en trozos y hojas en tiras, al vapor 4 min.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -666,6 +667,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 36, hc: 51, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína"],
   consejo: "En Isán, el noreste de Tailandia, el cerdo a la brasa se moja en jaew, una salsa de tamarindo o lima con arroz tostado; la grasa infiltrada del ibérico le va como anillo al dedo. El jaew original lleva guindilla seca y chalota: esta versión sin ellas es suave y apta para el intestino irritable. El solomillo es la pieza más magra del ibérico, por eso el plato se queda en 21 g de grasa. Usa la pasta de tamarindo en poca cantidad, como aquí, y el arroz tostado es puro almidón sin FODMAP.",
+  alternativa: "Sin pasta de tamarindo, usa el zumo de media lima más y ½ cdta extra de azúcar moreno en el jaew; queda menos afrutado, pero igual de ácido y salado.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -949,6 +951,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 492, prot: 35, hc: 42, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "ideal para llevar", "una sola sartén"],
   consejo: "En Nápoles la frittata di spaghetti se hace con la pasta del día anterior y se lleva a la playa; con fideos de arroz y el aliño agridulce del pad thai se convierte en una comida para llevar sin gluten y sin ajo ni chalota. Los cacahuetes son bajos en FODMAP en esta ración y los brotes de soja, libres. Si te sobran fideos de arroz cocidos de otro día, úsalos tal cual: es justo el espíritu de la receta. Fría, cortada en cuñas, aguanta muy bien un día en la nevera.",
+  alternativa: "Sin pasta de tamarindo, usa 2 cdta de zumo de lima y ½ cdta más de azúcar moreno en la salsa; el pad thai queda menos afrutado, pero con el mismo equilibrio agridulce.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -996,6 +999,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 430, prot: 24, hc: 32, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "ideal para llevar"],
   consejo: "El dashimaki de Kioto lleva tanto caldo que queda jugoso como un flan; el salmón ahumado y el eneldo vienen de las tostas abiertas de Copenhague. El dashi solo de kombu no lleva cebolla ni ajo, al contrario que muchos caldos instantáneos. El salmón ahumado es salado: con 40 g por persona basta para dar sabor sin pasarse de sal. Si no te sale el enrollado, cuaja la mezcla como una tortilla francesa doblada: el sabor es el mismo.",
+  alternativa: "Sin alga kombu, usa 80 ml de caldo de pollo casero sin cebolla ni ajo (o agua con unas gotas más de tamari) para batir los huevos; la tortilla queda igual de jugosa.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -1185,6 +1189,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 545, prot: 31, hc: 57, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "superalimentos", "bajo en colesterol", "ideal para llevar"],
   consejo: "El tempeh indonesio y el tahini levantino tienen algo en común: son semillas transformadas (fermentadas o molidas) que dan sabor tostado y mucha proteína. El tempeh es la forma de soja mejor tolerada en el intestino irritable, porque la fermentación reduce sus galactooligosacáridos: es bajo en FODMAP hasta 100 g por persona. El tahini, en 1 cucharada para dos, y la quinoa, sin gluten, completan un plato vegano que aguanta dos días en la nevera.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme bien prensado (los mismos 200 g) en lonchas: sáltate el vapor y dóralo igual 2-3 min por lado antes de glasear; queda más suave de sabor.",
   tupper: true,
   contundencia: "media",
   coste: "media"

@@ -482,6 +482,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 550, prot: 47, hc: 45, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "de cuchara", "sin gluten", "poco especiada", "batch cooking", "invierno"],
   consejo: "El lemonato se hace con ajo en abundancia; el aceite de ajo mantiene el perfume sin fructanos. La cocción larga y suave deja las fibras de la carne tan blandas que se deshacen al masticar, mucho más digestivas que un filete a la plancha. Una cucharadita de mostaza para dos es una cantidad baja en FODMAP y ayuda a ligar la salsa. Aguanta 3 días en la nevera y se congela bien.",
+  alternativa: "Con olla exprés: tras añadir la mostaza, las hierbas y 450 ml de agua, cierra y cuece 25 min a presión en lugar de 70; abre, añade las patatas y sigue 25 min sin tapa.",
   tupper: true,
   contundencia: "media",
   coste: "media"
