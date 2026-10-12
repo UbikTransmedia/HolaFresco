@@ -454,7 +454,7 @@ input[type="checkbox"], input[type="radio"] { accent-color: var(--primario); wid
 .dia-cab { grid-column: 1; grid-row: 1 / span 2; display: flex; flex-direction: column; align-items: stretch; justify-content: center; gap: .4rem; }
 .dia-cab .dia-titulo { grid-row: auto; flex: 1; }
 .btn-cambiar-dia { font-size: .75rem; padding: .25rem .4rem; white-space: nowrap; }
-.slot-reparto { flex: 1 0 100%; order: 4; margin: 0; font-size: .8rem; color: var(--texto-suave); }
+.reparto-menu { margin: .4rem 0 .8rem; padding: .5rem .75rem; background: var(--superficie-2); border: 1px solid var(--borde); border-radius: var(--radio-sm); font-size: .9rem; }
 .chip-hogar { opacity: .85; cursor: default; }
 .slot { background: var(--superficie); border: 1px solid var(--borde); border-radius: var(--radio-sm); padding: .55rem .75rem; display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; gap: .4rem .9rem; }
 .slot-obligatoria { border-color: var(--alerta); box-shadow: inset 4px 0 0 var(--alerta); }

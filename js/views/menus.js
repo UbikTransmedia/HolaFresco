@@ -12,7 +12,7 @@
     const ps = (menu.personas || []).map((p) => perfiles.find((x) => x.id === p.id)).filter(Boolean);
     return ps.length > 1 && ps.length === (menu.personas || []).length ? Nutricion.repartoGrupo(ps) : null;
   };
-  const textoRepartoMenu = (menu, r) => { const rep = repartoMenu(menu); return rep && r ? Nutricion.textoReparto(rep, r.nutricion && r.nutricion.kcal) : ""; };
+  const textoRepartoMenu = (menu) => { const rep = repartoMenu(menu); return rep ? Nutricion.textoPorcentajes(rep) : ""; };
   const textoRacionesMenu = (menu) => { const rep = repartoMenu(menu); return `${Number(menu.raciones).toLocaleString("es-ES")} raciones por comida${rep ? ` (${rep.map((f) => `${f.nombre} ${f.factor.toLocaleString("es-ES")}×`).join(" + ")})` : ""}`; };
 
   /* ---------- Almacén ---------- */
@@ -68,6 +68,7 @@
       const L = [`${"#".repeat(nivel)} Plan de comidas · ${menu.nombre}`, ""];
       const quien = (menu.personas || []).map((p) => p.nombre).join(", ");
       L.push(`${quien ? quien + " · " : ""}${textoRacionesMenu(menu)}`, "");
+      if (textoRepartoMenu(menu)) L.push(`**Reparto de cada plato:** ${textoRepartoMenu(menu)}`, "");
       for (const d of Planificador.DIAS) {
         const del = menu.slots.filter((x) => x.dia === d.id);
         if (!del.length) continue;
@@ -78,8 +79,6 @@
           const r = Recetas.porId(s.recetaId);
           const mo = Recetas.MOMENTOS.find((x) => x.id === m);
           L.push(`- ${mo.icono} **${mo.nombre}:** ${r ? `${r.nombre} (${r.tiempo} min${r.nutricion.kcal ? ` · ${r.nutricion.kcal} kcal` : ""})` : "—"}${s.obligatoria ? " 📌" : ""}`);
-          const rep = textoRepartoMenu(menu, r);
-          if (rep) L.push(`  - Reparto: ${rep}`);
         }
         L.push("");
       }
@@ -91,8 +90,7 @@
         const r = Recetas.porId(s.recetaId);
         if (!r) continue;
         const d = Planificador.dia(s.dia), mo = Recetas.MOMENTOS.find((x) => x.id === s.momento);
-        const rep = textoRepartoMenu(menu, r);
-        L.push(`*${d.nombre} · ${mo.nombre}*`, "", ...(rep ? [`**Reparto del plato:** ${rep}`, ""] : []), bajarTitulos(Recetas.aMarkdown(r, s.raciones || menu.raciones), nivel).trim(), "", "---", "");
+        L.push(`*${d.nombre} · ${mo.nombre}*`, "", bajarTitulos(Recetas.aMarkdown(r, s.raciones || menu.raciones), nivel).trim(), "", "---", "");
       }
       return L.join("\n").trim() + "\n";
     };
@@ -122,6 +120,7 @@
       // 1. Portada + plan de comidas como índice
       doc.titulo1(menu.nombre, { destino: "plan" });
       doc.parrafo(`${quien ? quien + " · " : ""}${textoRacionesMenu(menu)} · ${slots.length} comidas · creado el ${UI.fmtFecha(menu.creado)}`, { size: 9.5, col: doc.colores.suave, despues: 8 });
+      if (textoRepartoMenu(menu)) doc.parrafo("Reparto de cada plato (igual en todo el menú): " + textoRepartoMenu(menu), { f: "F2", size: 9.5, despues: 6 });
       doc.titulo2("Plan de comidas");
       doc.parrafo("Pulsa el nombre de un plato para ir a su receta. Cada receta tiene un enlace para volver aquí.", { size: 8.5, col: doc.colores.suave, despues: 2 });
       for (const d of Planificador.DIAS) {
@@ -130,8 +129,6 @@
         doc.titulo3(d.nombre);
         for (const s of del) {
           doc.filaIndice(s.momento === "comida" ? "Comida" : "Cena", Recetas.porId(s.recetaId).nombre, kSlot(s));
-          const rep = textoRepartoMenu(menu, Recetas.porId(s.recetaId));
-          if (rep) doc.parrafo("Reparto: " + rep, { size: 8, col: doc.colores.suave, despues: 1 });
         }
       }
       doc.titulo2("Contenido");
@@ -158,7 +155,6 @@
         doc.nuevaPagina();
         doc.destino(kSlot(s));
         doc.parrafo(`${Planificador.dia(s.dia).nombre.toUpperCase()} · ${s.momento === "comida" ? "COMIDA" : "CENA"}${s.obligatoria ? " · FIJA" : ""}`, { f: "F2", size: 8.5, col: doc.colores.suave, despues: 2 });
-        const repR = textoRepartoMenu(menu, r);
         doc.parrafo(r.nombre, { f: "F2", size: 18, col: doc.colores.acento, interlineado: 1.2, despues: 2 });
         if (r.subtitulo) doc.parrafo(r.subtitulo.charAt(0).toUpperCase() + r.subtitulo.slice(1), { f: "F3", size: 10.5, col: doc.colores.suave, despues: 4 });
         doc.parrafo([cat.nombre, coc ? coc.nombre : null, `${r.tiempo} min`, `dificultad ${r.dificultad}`, con ? con.nombre : null, cos ? `coste ${cos.nombre.toLowerCase()}` : null].filter(Boolean).join(" · "), { size: 9, col: doc.colores.suave, despues: 0 });
@@ -167,7 +163,6 @@
         for (const x of Recetas.noAptaPara(r, menu.personas || [])) doc.parrafo(`Atención: no apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}).`, { f: "F2", size: 9, col: doc.colores.acento, despues: 0 });
         doc.enlaces([["Volver al plan", "plan"], ["Markdown de esta receta", "md-" + kSlot(s)]]);
         doc.titulo3(`Ingredientes (${String(raciones).replace(".", ",")} ${raciones === 1 ? "ración" : "raciones"})`);
-        if (repR) doc.parrafo("Reparto del plato: " + repR, { size: 9, col: doc.colores.suave, despues: 3 });
         for (const ing of Compra.ordenarIngredientes(Compra.escalar(r, raciones))) {
           const q = ing.q == null ? null : Compra.redondearReceta(ing.q, ing.u);
           doc.casilla(ing.n + (ing.opcional ? " (opcional)" : "") + (ing.nota ? " — " + ing.nota : ""), ing.u === "al gusto" || q == null ? "al gusto" : Compra.fmtCantidad(q, ing.u), { size: 9.5 });
@@ -304,6 +299,7 @@
     /* --- Menú semanal --- */
     const pintarMenu = (p) => {
       const dias = Planificador.DIAS.filter((d) => menu.slots.some((s) => s.dia === d.id));
+      if (textoRepartoMenu(menu)) p.appendChild(h("div.reparto-menu", { title: "Qué parte de cada plato es para cada persona, según sus necesidades. Es igual para todos los platos del menú." }, "🍽️ Reparto de cada plato: ", h("strong", textoRepartoMenu(menu))));
       p.appendChild(h("div.grid-semana.grid-semana-lectura", dias.map((d) => h("div.columna-dia", h("h3.dia-titulo", d.nombre), ["comida", "cena"].map((m) => {
         const s = menu.slots.find((x) => x.dia === d.id && x.momento === m);
         if (!s) return null;
@@ -311,12 +307,11 @@
         return h("div.slot", { class: s.obligatoria ? "slot-obligatoria" : "" },
           h("div.slot-cab", h("span.slot-momento", Recetas.MOMENTOS.find((x) => x.id === m).icono, " ", m === "comida" ? "Comida" : "Cena"), s.obligatoria ? h("span.chip.chip-mini.chip-fija", "📌 fija") : null, (s.usa || []).length ? h("span.chip.chip-mini.chip-usa", { title: "Usa ingredientes que pediste" }, "🥕 ", s.usa.join(", ")) : null),
           r ? h("button.slot-receta", { type: "button", onClick: () => window.Vistas.recetas.abrirDetalle(r.id, { raciones: s.raciones || menu.raciones }) }, h("span.slot-cat", Recetas.categoria(r.categoria).icono), h("span.slot-nombre", r.nombre), h("small.muted", `${r.tiempo} min · ${r.nutricion.kcal || "?"} kcal/ración`)) : h("p.muted", "Receta no disponible (se borró de la base de datos)"),
-          r && textoRepartoMenu(menu, r) ? h("p.slot-reparto", { title: "Qué parte del plato es para cada persona, según sus necesidades" }, "🍽️ ", textoRepartoMenu(menu, r)) : null,
           r ? Recetas.noAptaPara(r, menu.personas || []).map((x) => h("div.aviso.aviso-alerta.aviso-mini", `⚠️ No apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")})`)) : null,
           r ? h("div.slot-acciones", h("button.btn.btn-mini.btn-suave", { type: "button", title: `Copiar «${r.nombre}» en Markdown, con las raciones del menú`, "aria-label": `Copiar ${r.nombre} en Markdown`, onClick: () => Recetas.copiarMarkdown(r.id, s.raciones || menu.raciones) }, "📋 Copiar")) : null
         );
       })))));
-      p.appendChild(h("p.campo-ayuda", `Al abrir una receta verás las cantidades ya escaladas a ${textoRacionesMenu(menu)}.${repartoMenu(menu) ? " El reparto indica qué parte de cada plato es para cada persona." : ""}`));
+      p.appendChild(h("p.campo-ayuda", `Al abrir una receta verás las cantidades ya escaladas a ${textoRacionesMenu(menu)}.${repartoMenu(menu) ? " El reparto de arriba indica qué parte de cada plato es para cada persona." : ""}`));
     };
 
     /* --- Resumen --- */

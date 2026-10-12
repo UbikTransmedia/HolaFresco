@@ -346,7 +346,6 @@
     return h("div.slot", { class: (s.obligatoria ? "slot-obligatoria " : "") + (!r ? "slot-vacio" : "") },
       h("div.slot-cab", h("span.slot-momento", Recetas.MOMENTOS.find((m) => m.id === s.momento).icono, " ", s.momento === "comida" ? "Comida" : "Cena"), s.obligatoria ? h("span.chip.chip-mini.chip-fija", { title: "Receta fijada por ti" }, "📌 fija") : r && r.favorita ? h("span.chip.chip-mini.chip-fav", { title: "Favorita" }, "★") : null, (s.usa || []).length ? h("span.chip.chip-mini.chip-usa", { title: "Usa ingredientes que pediste" }, "🥕 ", s.usa.join(", ")) : null),
       r ? h("button.slot-receta", { type: "button", title: "Ver receta", onClick: () => window.Vistas.recetas.abrirDetalle(r.id, { raciones }) }, h("span.slot-cat", Recetas.categoria(r.categoria).icono), h("span.slot-nombre", r.nombre), iconosReceta(r)) : h("p.muted", "Sin receta"),
-      r && personas.length > 1 ? h("p.slot-reparto", { title: "Qué parte del plato es para cada persona, según sus necesidades" }, "🍽️ ", Nutricion.textoReparto(Nutricion.repartoGrupo(personas), r.nutricion.kcal)) : null,
       (s.avisos || []).map((a) => h("div.aviso.aviso-alerta.aviso-mini", "⚠️ ", a)),
       h("div.slot-acciones",
         ...botonesMover(s, refrescar),
@@ -405,7 +404,8 @@
 
     UI.append(cont,
       h("div.resultado-barra",
-        h("div.resultado-info", h("strong", `${res.slots.length} comidas`), ` · ${personas.length} ${UI.plural(personas.length, "persona", "personas")} · ${res.raciones.toLocaleString("es-ES")} raciones por comida`, resumen ? h("span.muted", ` · media ${resumen.media.kcal} kcal y ${resumen.media.prot} g de proteína por ración`) : null),
+        h("div.resultado-info", h("strong", `${res.slots.length} comidas`), ` · ${personas.length} ${UI.plural(personas.length, "persona", "personas")} · ${res.raciones.toLocaleString("es-ES")} raciones por comida`, resumen ? h("span.muted", ` · media ${resumen.media.kcal} kcal y ${resumen.media.prot} g de proteína por ración`) : null,
+          personas.length > 1 ? h("div.reparto-menu", { title: "Qué parte de cada plato es para cada persona, según sus necesidades. Es igual para todos los platos del menú." }, "🍽️ Reparto de cada plato: ", h("strong", Nutricion.textoPorcentajes(Nutricion.repartoGrupo(personas)))) : null),
         h("div.resultado-acciones", h("button.btn", { type: "button", onClick: () => { generar(); refrescar(); UI.toast("Nuevo menú propuesto"); } }, "🎲 Proponer otro menú"))
       ),
       res.avisos.length ? h("div.aviso.aviso-alerta", h("ul", res.avisos.map((a) => h("li", a)))) : null,
