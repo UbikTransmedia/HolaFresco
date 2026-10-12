@@ -102,6 +102,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 485, prot: 30, hc: 44, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "al horno", "alta en proteína"],
   consejo: "La olympia original lleva cebolla picada en la crema; aquí la parte verde de la cebolleta aporta el mismo frescor sin fructanos, que se quedan en el bulbo blanco. Si toleras mal la grasa, sustituye la cucharada de mayonesa por más crema agria sin lactosa. Las judías verdes son aptas hasta unos 75 g por persona: es justo la ración de la receta.",
+  alternativa: "Si no encuentras crema agria sin lactosa, usa yogur griego sin lactosa (los mismos 60 g) con unas gotas de limón. Si el rodaballo se dispara de precio, vale un lomo grueso de merluza o de bacalao fresco (300 g): hornéalo 12-14 min.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -288,6 +289,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 37, hc: 45, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "verano", "alta en proteína"],
   consejo: "En San Diego el pescado se reboza en masa de cerveza; a la plancha conserva el sabor y pierde toda la grasa de la fritura, que es lo que más molesta a un intestino sensible. La col cruda es apta hasta unos 75 g por persona, y cortarla muy fina y masajearla con lima la hace mucho más fácil de digerir. Las tortillas de maíz son de las pocas «panaderías» aptas sin buscarlas en la sección sin gluten: comprueba que sean 100 % maíz.",
+  alternativa: "Si no encuentras crema agria sin lactosa, mezcla 60 g de yogur griego sin lactosa con unas gotas de lima y una pizca de sal: queda igual de espesa y ácida.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -424,6 +426,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 625, prot: 34, hc: 69, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "superalimentos", "sin gluten", "al horno", "otoño", "invierno"],
   consejo: "El arroz salvaje es en realidad la semilla de una hierba acuática de los Grandes Lagos, sin gluten y apto en la dieta baja en FODMAP; si no lo encuentras, usa solo basmati o mitad de arroz rojo. Los arándanos rojos son aptos en la cantidad de la receta (unos 30 g por persona), pero evita los secos azucarados en grandes puñados y los zumos con jarabe de maíz. El glaseado aguanta una semana en la nevera y queda muy bien con pavo o pollo.",
+  alternativa: "Si no encuentras arándanos rojos frescos ni congelados, usa frambuesas (los mismos 60 g) con 1 cdta de zumo de limón para darles el punto ácido; las pecanas se pueden cambiar por nueces (12 g).",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -706,6 +709,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 42, hc: 55, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "al horno", "alta en proteína", "para invitados"],
   consejo: "En Santa María se asa sobre brasas de roble rojo y se acompaña de alubias pinquito, que aquí no ponemos porque son legumbres; la salsa de tomate, el pan al ajo y la ensalada son la otra mitad del plato. La salsa original lleva chile y apio: con pepino y cilantro queda fresca y sin picante. El rabillo de cadera es magro y tierno si no pasa del punto, y cortarlo en lonchas finas contra la fibra lo hace mucho más fácil de masticar. Lo que sobre es perfecto en bocadillo al día siguiente.",
+  alternativa: "Si tu carnicero no tiene rabillo de cadera, pide una pieza de cadera o de babilla del mismo peso y grosor: se asa igual, hasta 55 °C en el centro, y se corta en lonchas finas contra la fibra.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -798,6 +802,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 43, hc: 36, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "alta en proteína", "verano"],
   consejo: "La Green Goddess se creó en 1923 en el Palace Hotel en honor a una obra de teatro; la receta original lleva mayonesa, crema agria, anchoas, estragón y cebolleta entera. Con yogur sin lactosa y solo la parte verde de la cebolleta es apta y mucho más ligera. La salsa aguanta 3 días en la nevera y sirve también para pescado o como aliño de ensalada. El rábano crudo es apto, pero en láminas finas y en cantidad moderada.",
+  alternativa: "Si no encuentras estragón fresco, usa 1 cdta de estragón seco: hidrátalo 5 min en el zumo de limón antes de triturar la salsa.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -932,6 +937,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 445, prot: 27, hc: 31, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "rápida", "para invitados"],
   consejo: "Se cuenta que un minero enriquecido pidió «lo más caro de la casa» y el cocinero juntó huevos y ostras, traídos con hielo desde San Francisco, y bacon, que llegaba de la costa este. En la receta original las ostras se rebozan en migas de galleta y se fríen en mantequilla; marcarlas sin cobertura y poner la galleta al final mantiene el crujiente sin grasa añadida. Las ostras no tienen FODMAP y son muy ricas en zinc y hierro.",
+  alternativa: "Si no encuentras galletas saladas sin gluten, desmenuza 2 tortitas de arroz (unos 20 g) con una pizca de sal: dan el mismo crujiente por encima.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -1025,6 +1031,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 425, prot: 24, hc: 31, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "al horno", "para invitados"],
   consejo: "El dutch baby nació en un café familiar de Seattle a principios del siglo XX, como versión de una tortita alemana. Es casi todo huevo, por eso sube sin levadura, y con harina de arroz y maicena sale igual de alto y sin gluten. Ojo con los salmones ahumados con cebolla o ajo en el marinado: elige uno que solo lleve salmón y sal. Las alcaparras son aptas en la cantidad de una cucharada.",
+  alternativa: "Si no encuentras crema agria sin lactosa, usa yogur griego sin lactosa (los mismos 50 g) con unas gotas de limón y el eneldo picado.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -1118,6 +1125,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 620, prot: 26, hc: 82, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "al horno", "para niños"],
   consejo: "El pollo a la naranja chino-americano lo creó en 1987 el chef de un restaurante chino de Pasadena, en California, a partir del pollo a la piel de mandarina de Hunan: trozos rebozados y fritos en una salsa dulce de naranja con guindilla. Aquí el tofu se cubre solo con maicena y se dora en el horno, y la salsa va sin picante. El tofu firme es bajo en FODMAP (el sedoso no, porque conserva más GOS), y el brócoli se tolera bien si son solo los ramilletes y no pasan de 75 g por persona: los tallos concentran más fructanos. Una naranja por persona, en zumo y ralladura, está dentro de la ración apta.",
+  alternativa: "En freidora de aire: hornea los dados de tofu 12-15 min a 200 °C en una sola capa, agitando la cesta a mitad, en lugar de 25 min en el horno.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1165,6 +1173,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 24, hc: 55, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten"],
   consejo: "El tempeh es soja fermentada: la fermentación descompone buena parte de los GOS de la legumbre y por eso es apto hasta unos 100 g por persona, a diferencia de las alubias de soja enteras. Hervirlo antes de marinarlo lo hace más digestivo y tierno. El ahumado del pimentón y el dulzor del arce imitan al bacon sin su grasa saturada. Si usas mayonesa vegetal, el sándwich queda vegano.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme (200 g) bien prensado, en lonchas de 1 cm y sin hervirlo: márcalo 1-2 min más por lado para que quede crujiente antes de glasearlo.",
   tupper: false,
   contundencia: "media",
   coste: "media"

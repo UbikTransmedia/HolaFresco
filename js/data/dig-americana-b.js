@@ -150,6 +150,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 580, prot: 20, hc: 80, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "al horno", "sin gluten", "poco especiada", "para niños", "económica"],
   consejo: "Se llaman así porque en Utah las mujeres de la congregación las llevan a la comida familiar después de un funeral, aunque hoy no faltan en ninguna Pascua ni Acción de Gracias. La receta de siempre usa patatas ralladas congeladas, crema de pollo de lata (con harina de trigo y cebolla en polvo) y copos de maíz con malta de cebada: hecha en casa con harina de arroz, caldo sin cebolla y copos sin gluten queda igual de cremosa y crujiente, y apta. El cheddar curado y la crema agria sin lactosa no aportan lactosa, y las judías verdes van en ración segura (75 g por persona). Se puede montar la víspera y hornearla al momento, con la costra añadida justo antes de meterla al horno.",
+  alternativa: "Si no encuentras crema agria sin lactosa, usa yogur griego sin lactosa (los mismos 60 g) con unas gotas de limón: se integra igual en la salsa.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -390,6 +391,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 24, hc: 53, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "barbacoa"],
   consejo: "Los burnt ends son las puntas del pecho de vaca ahumado que los asadores de Kansas City regalaban a quien esperaba en la cola; hoy se sirven en bandeja con pan blanco y pepinillos. Las salsas barbacoa comerciales suelen llevar cebolla y ajo en polvo y jarabe de maíz alto en fructosa, tres fuentes de FODMAP, por eso aquí se hace en ocho minutos. El tempeh es bajo en FODMAP hasta 100 g por persona porque la fermentación deshace gran parte de sus GOS; hervirlo antes lo hace aún más tierno y fácil de digerir. La calabaza japonesa admite raciones generosas, a diferencia de la violín.",
+  alternativa: "Si no encuentras calabaza japonesa, asa 400 g de zanahoria y chirivía en bastones gruesos con el mismo tiempo (no uses violín: en esta cantidad no es apta); el tempeh se puede cambiar por tofu firme prensado, sin hervirlo.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -579,6 +581,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 40, hc: 34, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "ideal para llevar"],
   consejo: "La chicken salad con uvas y pecanas es un clásico de los almuerzos de señoras y de los salones de té del Sur; con pavo es la forma de aprovechar el de Acción de Gracias. El apio, rico en manitol, se cambia por pepino, que da el mismo crujiente fresco. Las uvas son bajas en FODMAP en ración moderada y las pecanas hasta unas 20 mitades por persona. El pavo escalfado a fuego mínimo queda tierno y es muy fácil de digerir. Aguanta 2 días en la nevera; añade las pecanas al servir para que no se ablanden.",
+  alternativa: "Si no encuentras estragón fresco, usa ½ cdta de estragón seco desmenuzado en el aliño 10 min antes de mezclar; las pecanas se pueden cambiar por nueces (los mismos 30 g).",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -1039,6 +1042,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 505, prot: 37, hc: 62, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína"],
   consejo: "El saimin nació a principios del siglo XX en los campamentos de las plantaciones de caña de Hawái, donde los trabajadores chinos, japoneses, filipinos, coreanos y portugueses compartían cocina: fideos de trigo y huevo chinos, caldo dashi japonés y cerdo asado al estilo cantonés. Todavía se vende en los puestos de saimin de Honolulu. Los fideos de arroz sustituyen a los de trigo, y el dashi casero da un caldo lleno de sabor sin ajo ni cebolla. El pastel de pescado que lleva a veces se omite porque los industriales pueden llevar sorbitol y trigo. El jengibre en el caldo ayuda a una digestión tranquila.",
+  alternativa: "Si no encuentras kombu ni copos de bonito, usa 1 litro de caldo de pescado o de pollo casero sin cebolla con el jengibre y el tamari: pierde algo del toque marino, pero queda muy parecido.",
   tupper: false,
   contundencia: "media",
   coste: "media"

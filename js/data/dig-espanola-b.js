@@ -303,6 +303,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 25, hc: 46, grasa: 20 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "bajo en colesterol", "sin gluten", "económica"],
   consejo: "El mojo rojo canario lleva una cabeza de ajo cruda y pimienta picona, dos irritantes para el intestino; aquí el aceite de ajo pone el aroma y el pimiento rojo con choricero da el color y el dulzor sin picar. El tempeh, al ser soja fermentada, es apto en raciones de unos 100 g, y hervirlo antes lo hace más digestivo. El mojo aguanta 5 días en un tarro en la nevera.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme (200 g) bien prensado, en lonchas de 1 cm y sin hervirlo: márcalo a la plancha 3-4 min por lado.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -388,6 +389,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 400, prot: 33, hc: 13, grasa: 24 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "invierno", "alta en proteína"],
   consejo: "La salsa de xató lleva ajo asado; con aceite de ajo conserva el aroma sin los fructanos. La escarola es de las hojas mejor toleradas, pero su amargor estimula la digestión: si notas pesadez, usa solo el corazón, más dulce. Ojo con la sal: entre bacalao, anchoas y aceitunas el plato ya va servido, así que no añadas sal a la ensalada. Si el bacalao está muy salado, déjalo 30 minutos en remojo.",
+  alternativa: "Si no encuentras ñoras, usa 1 cda de carne de pimiento choricero en la salsa: da el mismo color y el mismo sabor dulce y tostado.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -691,6 +693,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 590, prot: 33, hc: 66, grasa: 21 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "para invitados"],
   consejo: "Los fideos de trigo son una fuente importante de fructanos; los de fideuá sin gluten (de maíz y arroz) se comportan casi igual, aunque absorben el caldo más deprisa: no los dejes en el fuego más de lo necesario. El alioli de aceite de ajo es el gran truco: tiene todo el aroma del ajo y nada de lo que hincha. Sírvelo aparte y toma solo una cucharadita si la grasa te sienta mal.",
+  alternativa: "Si el rape se dispara de precio, usa rosada o merluza en tacos grandes (260 g): no las marques antes, ponlas crudas sobre los fideos con las almejas para que no se deshagan.",
   tupper: false,
   contundencia: "media",
   coste: "premium"

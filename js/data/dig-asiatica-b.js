@@ -49,6 +49,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 29, hc: 92, grasa: 9 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "otoño", "de cuchara"],
   consejo: "La calabaza japonesa (kabocha) es de las pocas que se pueden comer en ración generosa en la dieta baja en FODMAP; la calabaza violín, en cambio, no debería pasar de 45 g por persona. El soboro-an es un clásico de la comida casera japonesa para estómagos delicados: todo cocido en caldo, sin una gota de aceite, y la salsa ligada con fécula resbala y se digiere muy bien. Si te sobra, la calabaza está aún mejor al día siguiente, fría o templada.",
+  alternativa: "Si no encuentras kombu ni copos de bonito, cuece la calabaza y la salsa en 500 ml de caldo de pollo casero sin cebolla: el sabor es algo menos marino, pero igual de suave.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -189,6 +190,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 530, prot: 12, hc: 90, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "verano", "batch cooking"],
   consejo: "Las cantidades respetan los límites de la dieta baja en FODMAP: unos 75 g de berenjena y de pimiento rojo y 65 g de calabacín por persona, completados con pimiento verde y zanahoria, que son libres. Pelar la berenjena a tiras y hacerla hasta que esté bien tierna la vuelve mucho más digestiva. En Japón el yakibitashi se prepara de víspera y se come frío: en la nevera, cubierto con su marinada, aguanta 3 días y gana sabor.",
+  alternativa: "Si no encuentras kombu ni copos de bonito, usa 400 ml de caldo de verduras casero sin cebolla ni puerro para la marinada, con la naranja, el jengibre y el tamari.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -279,6 +281,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 395, prot: 33, hc: 44, grasa: 10 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína", "ligera", "invierno", "de cuchara"],
   consejo: "El roll kyabetsu japonés se hace con repollo y carne picada con cebolla; con col china la hoja queda más fina y sedosa y se tolera mejor que el repollo, que no debería pasar de 75 g por persona en la dieta baja en FODMAP. La penca picada dentro del relleno lo mantiene jugoso sin añadir grasa. Se congela muy bien con su caldo y al recalentarlos están todavía más tiernos.",
+  alternativa: "Si no encuentras kombu, cuece los rollitos en 500 ml de caldo de pollo casero sin cebolla en lugar del agua con alga: quedan igual de jugosos.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -370,6 +373,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 500, prot: 38, hc: 40, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "invierno", "de cuchara", "batch cooking"],
   consejo: "El oden de los puestos lleva pastas de pescado fritas, tofu frito y mostaza picante; aquí el tofu se dora con una cucharadita de aceite y el jengibre rallado sustituye a la mostaza. El tempeh es apto en la dieta baja en FODMAP porque la fermentación consume buena parte de los galactanos de la soja, y el daikon, bien cocido, es de las verduras más suaves que hay (quédate en unos 75 g por persona); la patata, libre, es otro clásico del oden. Los nudos de kombu también se comen: son tiernos y muy sabrosos.",
+  alternativa: "Si no encuentras daikon, usa nabo blanco (los mismos 150 g) con el mismo tiempo; el tempeh se puede cambiar por 150 g más de tofu firme.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -731,6 +735,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 450, prot: 28, hc: 66, grasa: 8 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "ligera", "verano"],
   consejo: "Lee bien la etiqueta: la mayoría de la soba que se vende lleva harina de trigo y solo la de 100 % trigo sarraceno (juwari soba) es sin gluten y apta en la dieta baja en FODMAP. El daikon crudo rallado contiene enzimas que, según la tradición japonesa, ayudan a digerir el almidón; unos 75 g por persona es una ración bien tolerada; si te resulta fuerte, déjalo escurrir más tiempo o elige la parte de arriba del nabo, la más dulce. En lugar de mirin, el caldo se endulza con azúcar.",
+  alternativa: "Si no encuentras daikon, ralla nabo tierno o rábanos rojos (los mismos 150 g) y escúrrelos igual: el sabor fresco y ligeramente picante es casi idéntico.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -995,6 +1000,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 575, prot: 25, hc: 86, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "de cuchara", "invierno", "batch cooking"],
   consejo: "La receta del templo lleva bardana (gobo), taro, konnyaku y setas shiitake; las setas no son aptas en la dieta baja en FODMAP y la chirivía, libre, da el mismo dulzor terroso que la bardana, mientras la patata ocupa el lugar del taro. Es una sopa vegana, sin una gota de caldo animal, y al día siguiente está aún más buena. Si te sobra, añade al recalentar un puñado de espinacas.",
+  alternativa: "Si no encuentras daikon, usa nabo blanco (los mismos 150 g), cortado igual y con el mismo tiempo de cocción.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -1039,6 +1045,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 470, prot: 34, hc: 53, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "ligera", "de cuchara", "invierno"],
   consejo: "En Corea se prepara con bugeo, abadejo de Alaska secado al aire, un pescado de la familia del bacalao: el bacalao desalado da una textura y un sabor muy parecidos. La versión clásica lleva ajo picado, que aquí sustituye el aceite de ajo. Es una sopa muy suave y reconfortante, pensada para asentar el estómago, y el daikon cocido, en unos 75 g por persona, es de las verduras mejor toleradas en la dieta baja en FODMAP.",
+  alternativa: "Si no encuentras daikon, usa nabo blanco (los mismos 150 g): da al caldo el mismo dulzor suave.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -1084,6 +1091,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 315, prot: 16, hc: 37, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "ligera", "detox"],
   consejo: "En Japón el potage de espinacas se hace con mantequilla, cebolla y leche; aquí la parte verde de la cebolleta da el fondo aromático, la patata da la cremosidad y el dashi sustituye a la grasa. Las espinacas cocidas son libres en la dieta baja en FODMAP y la leche sin lactosa evita el azúcar de la leche que tantas veces hincha. Es una buena cena ligera; si quieres más proteína, añade un huevo escalfado o unos dados de tofu firme.",
+  alternativa: "Si no encuentras kombu ni copos de bonito, usa 700 ml de caldo de verduras casero sin cebolla ni puerro en lugar del dashi.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1129,6 +1137,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 455, prot: 31, hc: 61, grasa: 9 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "sin verduras", "ligera", "alta en proteína", "de cuchara"],
   consejo: "Es la versión cantonesa de una sopa de Hangzhou, y en los restaurantes se hace con caldo de pollo; el caldo de kombu y jengibre la mantiene sin cebolla ni ajo, que suelen llevar los caldos comprados. Las sopas ligadas con fécula son muy agradables cuando el estómago está delicado: la carne picada y escaldada se digiere con facilidad. Guarda las yemas para una tortilla o para unas natillas.",
+  alternativa: "Si no encuentras kombu, usa 900 ml de caldo de pollo casero sin cebolla ni ajo, como en los restaurantes cantoneses, con el mismo jengibre.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"

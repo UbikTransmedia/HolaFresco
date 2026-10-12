@@ -269,6 +269,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 515, prot: 40, hc: 56, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa, a diferencia de la calabaza violín, que conviene limitar a unos 45 g. El mijo no lleva gluten y, bien cocido, es de los cereales más suaves que hay; en Ucrania la pshonka se toma dulce con leche, aquí se convierte en guarnición salada. El vapor deja el pescado jugoso sin añadirle ni una gota de grasa.",
+  alternativa: "Si no encuentras calabaza kabocha, usa zanahoria en dados (los mismos 300 g), cocida igual con el mijo; no la cambies por violín, que en esta cantidad no es apta.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -622,6 +623,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 35, hc: 36, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara"],
   consejo: "El chakapuli lleva tkemali (ciruela verde), vino blanco y a veces guindilla; la ciruela es alta en FODMAP y el vino no conviene, así que el ácido lo ponen la uva blanca, apta en ración normal, y el limón. Cuece el cordero primero en agua y desespúmalo: así suelta grasa y queda un guiso limpio y fácil de digerir. Es aún mejor recalentado al día siguiente.",
+  alternativa: "Si no encuentras estragón fresco, usa 2 cdta de estragón seco añadido a media cocción del guiso, y refuerza el final con un poco más de cilantro fresco.",
   tupper: true,
   contundencia: "ligera",
   coste: "premium"
@@ -664,6 +666,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 510, prot: 40, hc: 42, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "bajo en colesterol", "una sola sartén"],
   consejo: "La sharena sol búlgara no lleva ni ajo ni cebolla: es ajedrea (chubritsa), pimentón, fenogreco y sal, así que es un aliño perfecto para quien sigue una dieta baja en FODMAP. La ajedrea es además una hierba tradicionalmente carminativa. El contramuslo sin piel queda jugoso al horno con muy poca grasa añadida.",
+  alternativa: "Si no encuentras ajedrea, usa 1,5 cdta de tomillo seco y ½ cdta de orégano seco; si no tienes fenogreco, puedes omitirlo.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -707,6 +710,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 495, prot: 36, hc: 50, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína"],
   consejo: "En Polonia la salsa de arándanos rojos (żurawina) acompaña asados y caza; aquí sustituye a la de ciruela o manzana, que son altas en FODMAP. Toma la salsa como acompañamiento, unos 40 g de bayas por persona, no como plato. La chirivía es apta y da un puré dulce y sedoso; si tienes la digestión lenta con la carne roja, corta el solomillo en lonchas finas y mastica sin prisa.",
+  alternativa: "Si no encuentras arándanos rojos frescos ni congelados, haz la salsa con frambuesas (los mismos 80 g) y 1 cdta de zumo de limón para darle el punto ácido.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -791,6 +795,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 42, hc: 47, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "alta en proteína"],
   consejo: "El alforfón, pese a su nombre de trigo sarraceno, no tiene gluten y es apto en la dieta baja en FODMAP; tostado es la base de la kasha rusa y aquí sustituye al pan rallado de un empanado, con todo el crujiente y sin freír. No pases el lomo: a 63 °C queda jugoso, y la carne seca cuesta más masticar y digerir.",
+  alternativa: "Si no tienes alforfón en grano, usa 30 g de copos de maíz sin gluten (sin malta de cebada) triturados gruesos: la costra queda igual de crujiente.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -1097,6 +1102,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 495, prot: 28, hc: 50, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "bajo en colesterol", "una sola sartén"],
   consejo: "El tempeh es apto en la dieta baja en FODMAP porque la fermentación descompone buena parte de los galactanos de la soja; cocerlo antes al vapor lo hace aún más suave. El ojakhuri original se hace en sartén con mucha grasa de cerdo y cebolla; en el horno con una cucharada de aceite queda igual de dorado y mucho más ligero.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme (240 g) bien prensado y en dados, sin cocerlo al vapor: añádelo a la bandeja en el mismo momento y dale 5 min más, hasta que esté dorado.",
   tupper: true,
   contundencia: "media",
   coste: "media"

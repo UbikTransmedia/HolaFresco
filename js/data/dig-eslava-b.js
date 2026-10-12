@@ -549,6 +549,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 395, prot: 39, hc: 27, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol"],
   consejo: "La alcaravea es la semilla que da al pan de centeno su sabor característico; con ella, unos picatostes sin gluten recuerdan al pan negro ruso sin los fructanos del centeno. El kéfir sin lactosa conserva la acidez y los fermentos y es apto; el rábano, el pepino y la lechuga son libres en FODMAP. Si los rábanos crudos te dan gases, córtalos muy finos y déjalos 10 minutos en el aliño.",
+  alternativa: "Si no encuentras kéfir sin lactosa, bate 100 g de yogur sin lactosa con 2 cda de agua y unas gotas de limón: queda igual de fluido y ácido.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -728,6 +729,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 20, hc: 81, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin gluten", "poco especiada", "para niños", "económica"],
   consejo: "En Ucrania y Polonia (makaron z twarogiem) se hace con tvarog, un queso fresco con bastante lactosa; el requesón sin lactosa da el mismo resultado y es apto. La parte verde de la cebolleta sustituye a la cebolla dorada en manteca de la receta de la abuela. No cuezas la pasta sin gluten de más: pierde la forma; mejor 1 minuto menos y que termine en la sartén.",
+  alternativa: "Si no encuentras requesón sin lactosa, desmenuza queso fresco tipo Burgos sin lactosa (los mismos 200 g) bien escurrido y aplastado con un tenedor.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -774,6 +776,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 680, prot: 23, hc: 112, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "batch cooking"],
   consejo: "Los pierogi z kaszą gryczaną i twarogiem son el orgullo de la región de Lublin, donde se les pone menta en lugar de cebolla frita. El alforfón es sin gluten y bajo en FODMAP, y el requesón sin lactosa sustituye al twaróg. La masa de patata y harina de arroz es mucho más manejable que una de harina sin gluten sola. Congélalos crudos en una bandeja separados y cuécelos sin descongelar 2 minutos más.",
+  alternativa: "Si no encuentras requesón sin lactosa, usa queso fresco tipo Burgos sin lactosa (los mismos 150 g) muy escurrido y aplastado: el relleno debe quedar seco.",
   tupper: true,
   contundencia: "contundente",
   coste: "económica"
@@ -1043,6 +1046,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 355, prot: 28, hc: 44, grasa: 8 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "alta en proteína"],
   consejo: "El colinabo (kalarepa) es bajo en FODMAP hasta unos 75 g por ración, la cantidad exacta que lleva cada plato; la patata y la zanahoria son libres. La pimienta de Jamaica (ziele angielskie) es la especia de todas las sopas polacas y no pica. Elige colinabos pequeños y pesados: los grandes se vuelven leñosos. Sus hojas tiernas se pueden añadir picadas al final como si fueran espinacas.",
+  alternativa: "Si no encuentras colinabo, usa nabo blanco (los mismos 150 g), con el mismo tiempo; la pimienta de Jamaica se puede cambiar por 1 clavo y unos granos más de pimienta negra.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"

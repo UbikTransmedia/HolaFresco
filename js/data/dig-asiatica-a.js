@@ -275,6 +275,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 465, prot: 35, hc: 66, grasa: 7 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "al horno", "ligera", "poco especiada", "bajo en colesterol", "detox"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP incluso en ración generosa, a diferencia de la violín, que solo se tolera hasta unos 45 g por persona: si no encuentras kabocha, completa con zanahoria en láminas. El kombu aporta glutamato natural, el sabor umami que en otras recetas dan el ajo o la cebolla, sin un solo FODMAP. En papillote el pescado se cuece al vapor de su propio jugo, sin grasa añadida.",
+  alternativa: "Si no encuentras kombu, prescinde de él y añade 1 cdta más de tamari al ponzu para compensar el umami; el pescado se cuece igual sobre la calabaza.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -638,6 +639,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 595, prot: 40, hc: 71, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "para invitados"],
   consejo: "Debe su nombre a Gengis Kan y se cocina en una plancha abombada: la carne arriba y las verduras abajo, empapándose del jugo. La salsa de Sapporo lleva manzana, cebolla y ajo rallados; la naranja da el toque afrutado sin FODMAP. Pierna bien limpia y en lonchas finas: así el cordero se digiere mucho mejor que en costillas. Los brotes de soja son libres; la col, hasta unos 75 g por persona.",
+  alternativa: "Si no encuentras calabaza japonesa, usa zanahoria gruesa en rodajas al bies de 5 mm (los mismos 200 g), con 1-2 min más de plancha; no la cambies por violín, que en esta cantidad no es apta.",
   tupper: false,
   contundencia: "media",
   coste: "premium"
@@ -957,6 +959,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 565, prot: 37, hc: 60, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "para niños", "económica"],
   consejo: "Nació en las izakaya de Osaka como un okonomiyaki sin masa, y por eso es sin gluten de origen. Allí se hace con panceta y lleva salsa okonomi comprada y mayonesa; el lomo es mucho más magro y la salsa casera evita la cebolla, el ajo y la manzana de la comercial, mientras la pizca de canela recuerda su fondo especiado. La col no pasa de 70 g por persona y salteada en hilos finos se tolera bien; los brotes de soja, libres, dan el volumen.",
+  alternativa: "Si no encuentras copos de bonito seco, prescinde de ellos y desmenuza un poco más de nori por encima: mantiene el toque marino.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -1002,6 +1005,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 535, prot: 22, hc: 69, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "una sola sartén", "económica"],
   consejo: "Al cocer el tomate en dashi en lugar de pocharlo con cebolla, la salsa gana un umami profundo sin fructanos. El tomate pera bien cocido es bajo en FODMAP en ración generosa (el cherry, solo hasta unos 75 g). Si la yema líquida no te sienta bien, deja los huevos 2-3 minutos más con la tapa puesta.",
+  alternativa: "Si no encuentras kombu ni copos de bonito, usa 250 ml de caldo de pescado casero sin cebolla en lugar del dashi: la salsa queda casi igual de sabrosa.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -1046,6 +1050,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 350, prot: 21, hc: 18, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "al horno", "ligera", "poco especiada", "para niños", "ideal para llevar"],
   consejo: "La calabaza japonesa (kabocha) es baja en FODMAP en ración generosa y tiene una textura de castaña muy saciante. Esta tortilla es perfecta para la fiambrera: en Japón el huevo frío con arroz es un clásico del bento. Si te hincha la espinaca cruda, aquí va salteada y en poca cantidad. Para una comida más completa, acompáñala con un cuenco de arroz.",
+  alternativa: "Si no encuentras calabaza japonesa, usa mitad patata y mitad zanahoria en dados de 1,5 cm (250 g en total), al vapor 10-12 min; no uses violín, que en esta cantidad no es apta.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1133,6 +1138,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 605, prot: 27, hc: 82, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "ideal para llevar"],
   consejo: "El tempeh es bajo en FODMAP en ración normal (unos 100 g por persona) porque la fermentación descompone buena parte de los oligosacáridos de la soja; por eso sienta mejor que otras legumbres. Cocerlo al vapor antes de dorarlo lo hace más tierno y digestivo. Las tiras de nori aportan el toque marino que recuerda a la anguila.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme (200 g) bien prensado y en lonchas de 1 cm, sin cocerlo al vapor: dóralo 1-2 min más por lado antes de lacarlo.",
   tupper: true,
   contundencia: "media",
   coste: "media"

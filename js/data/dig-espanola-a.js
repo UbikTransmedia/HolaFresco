@@ -1073,6 +1073,7 @@ window.RECETAS_SEED.push({
   nutricion: { kcal: 525, prot: 26, hc: 58, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "superalimentos", "sin gluten", "batch cooking"],
   consejo: "El tempeh es la forma más digestiva de comer soja entera: la fermentación descompone buena parte de los GOS, y es bajo en FODMAP hasta unos 100 g por persona. Hervirlo 10 minutos antes de dorarlo lo suaviza mucho. Si el arroz integral te hincha, empieza mezclándolo a medias con arroz blanco: la fibra se tolera mejor cuando se aumenta poco a poco.",
+  alternativa: "Si no encuentras tempeh, usa tofu firme (200 g) bien prensado, en lonchas de 1 cm y sin hervirlo: márcalo a la plancha 3-4 min por lado hasta que esté dorado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
