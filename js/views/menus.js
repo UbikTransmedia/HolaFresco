@@ -12,6 +12,18 @@
     const ps = (menu.personas || []).map((p) => perfiles.find((x) => x.id === p.id)).filter(Boolean);
     return ps.length > 1 && ps.length === (menu.personas || []).length ? Nutricion.repartoGrupo(ps) : null;
   };
+  // Personas del menú con su factor de ración (también si es una sola), para las kcal de cada una
+  const personasMenu = (menu) => {
+    if (menu.reparto && menu.reparto.length) return menu.reparto;
+    const perfiles = DB.leer("personas", []);
+    const ps = (menu.personas || []).map((p) => perfiles.find((x) => x.id === p.id)).filter(Boolean);
+    return ps.length ? Nutricion.repartoGrupo(ps) : null;
+  };
+  /* «Ana ≈ 520 kcal · Luis ≈ 940 kcal»: media por comida de cada persona en este menú */
+  const textoKcalMenu = (menu) => {
+    const rep = personasMenu(menu), res = Planificador.resumenNutricional(menu.slots);
+    return rep && res ? Nutricion.textoKcalPersonas(rep, res.media.kcal) : "";
+  };
   const textoRepartoMenu = (menu) => { const rep = repartoMenu(menu); return rep ? Nutricion.textoPorcentajes(rep) : ""; };
   const textoRacionesMenu = (menu) => { const rep = repartoMenu(menu); return `${Number(menu.raciones).toLocaleString("es-ES")} raciones por comida${rep ? ` (${rep.map((f) => `${f.nombre} ${f.factor.toLocaleString("es-ES")}×`).join(" + ")})` : ""}`; };
 
@@ -69,6 +81,7 @@
       const quien = (menu.personas || []).map((p) => p.nombre).join(", ");
       L.push(`${quien ? quien + " · " : ""}${textoRacionesMenu(menu)}`, "");
       if (textoRepartoMenu(menu)) L.push(`**Reparto de cada plato:** ${textoRepartoMenu(menu)}`, "");
+      if (textoKcalMenu(menu)) L.push(`**Energía media por comida:** ${textoKcalMenu(menu)}`, "");
       for (const d of Planificador.DIAS) {
         const del = menu.slots.filter((x) => x.dia === d.id);
         if (!del.length) continue;
@@ -121,6 +134,7 @@
       doc.titulo1(menu.nombre, { destino: "plan" });
       doc.parrafo(`${quien ? quien + " · " : ""}${textoRacionesMenu(menu)} · ${slots.length} comidas · creado el ${UI.fmtFecha(menu.creado)}`, { size: 9.5, col: doc.colores.suave, despues: 8 });
       if (textoRepartoMenu(menu)) doc.parrafo("Reparto de cada plato (igual en todo el menú): " + textoRepartoMenu(menu), { f: "F2", size: 9.5, despues: 6 });
+      if (textoKcalMenu(menu)) doc.parrafo("Energía media por comida (calculada a partir de los ingredientes): " + textoKcalMenu(menu), { size: 9.5, despues: 6 });
       doc.titulo2("Plan de comidas");
       doc.parrafo("Pulsa el nombre de un plato para ir a su receta. Cada receta tiene un enlace para volver aquí.", { size: 8.5, col: doc.colores.suave, despues: 2 });
       for (const d of Planificador.DIAS) {
@@ -300,6 +314,7 @@
     const pintarMenu = (p) => {
       const dias = Planificador.DIAS.filter((d) => menu.slots.some((s) => s.dia === d.id));
       if (textoRepartoMenu(menu)) p.appendChild(h("div.reparto-menu", { title: "Qué parte de cada plato es para cada persona, según sus necesidades. Es igual para todos los platos del menú." }, "🍽️ Reparto de cada plato: ", h("strong", textoRepartoMenu(menu))));
+      if (textoKcalMenu(menu)) p.appendChild(h("div.reparto-menu", { title: "Energía media que come cada persona en cada comida del menú: kcal por ración estándar (calculadas a partir de los ingredientes) × su factor de ración" }, "🔥 Media por comida: ", h("strong", textoKcalMenu(menu))));
       p.appendChild(h("div.grid-semana.grid-semana-lectura", dias.map((d) => h("div.columna-dia", h("h3.dia-titulo", d.nombre), ["comida", "cena"].map((m) => {
         const s = menu.slots.find((x) => x.dia === d.id && x.momento === m);
         if (!s) return null;

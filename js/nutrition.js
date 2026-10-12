@@ -80,6 +80,9 @@
   /* «Ana 40 % (≈ 520 kcal) · Luis 60 % (≈ 780 kcal)». kcalRacion: kcal de una ración estándar de la receta. */
   /* «Ana 35 % · Luis 65 %»: qué parte de cada plato es para cada persona (igual en todo el menú) */
   const textoPorcentajes = (reparto) => (reparto || []).map((f) => `${f.nombre} ${f.pct} %`).join(" · ");
+  /* «Ana ≈ 520 kcal · Luis ≈ 940 kcal»: lo que come cada persona en un plato de kcalRacion kcal por ración estándar
+     (su factor escala las cantidades y, con ellas, la energía) */
+  const textoKcalPersonas = (reparto, kcalRacion) => (kcalRacion ? (reparto || []).map((f) => `${f.nombre} ≈ ${(Math.round((kcalRacion * f.factor) / 10) * 10).toLocaleString("es-ES")} kcal`).join(" · ") : "");
   const textoReparto = (reparto, kcalRacion) => (reparto || []).map((f) => `${f.nombre} ${f.pct} %${kcalRacion ? ` (≈ ${Math.round((kcalRacion * f.factor) / 10) * 10} kcal)` : ""}`).join(" · ");
 
   /* Objetivos agregados del grupo → preferencias para el generador */
@@ -110,5 +113,5 @@
     return partes.join(" · ");
   };
 
-  window.Nutricion = { RACION_REFERENCIA_KCAL, SEXOS, ACTIVIDADES, OBJETIVOS, necesidades, racionesGrupo, repartoGrupo, textoReparto, textoPorcentajes, preferenciasGrupo, descripcionAmable };
+  window.Nutricion = { RACION_REFERENCIA_KCAL, SEXOS, ACTIVIDADES, OBJETIVOS, necesidades, racionesGrupo, repartoGrupo, textoReparto, textoPorcentajes, textoKcalPersonas, preferenciasGrupo, descripcionAmable };
 })();

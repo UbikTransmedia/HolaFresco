@@ -162,6 +162,15 @@
     r.alergenosOpcionales = Catalogo.INTOLERANCIAS.filter((t) => !r.alergenos.includes(t.id) && t.grupos.some((g) => grupos.has(g))).map((t) => t.id);
     r.nutricion = r.nutricion || {};
     r.raciones = r.raciones || 2;
+    // Nutrición calculada a partir de los ingredientes y la preparación (js/calorias.js); la escrita en la receta
+    // queda como «declarada» y solo se usa si faltan datos de demasiados ingredientes
+    if (window.Calorias && window.Calorias.hayTabla() && (r.ingredientes || []).length) {
+      const c = window.Calorias.calcular(r);
+      if (c.cobertura >= 0.85 && c.porRacion.kcal > 0) {
+        r.nutricionDeclarada = r.nutricion;
+        r.nutricion = { ...c.porRacion, calculada: true };
+      }
+    }
     r.momentos = r.momentos && r.momentos.length ? r.momentos : ["comida", "cena"];
     r.equipo = r.equipo || [];
     r.etiquetas = r.etiquetas || [];
@@ -204,6 +213,8 @@
   const guardar = (receta) => {
     const limpia = { ...receta };
     for (const k of ["dieta", "grupos", "textoBusqueda", "_modificada", "favorita", "enListaNegra"]) delete limpia[k];
+    if (limpia.nutricionDeclarada) { if (limpia.nutricion && limpia.nutricion.calculada) limpia.nutricion = limpia.nutricionDeclarada; delete limpia.nutricionDeclarada; }
+    if (limpia.nutricion) delete limpia.nutricion.calculada;
     if (!limpia._coccionManual) delete limpia.coccion; delete limpia._coccionManual;
     if (limpia._tupper === "si") limpia.tupper = true; else if (limpia._tupper === "no") limpia.tupper = false; else if (limpia._tupper === "auto") delete limpia.tupper; delete limpia._tupper;
     limpia.ingredientes = (limpia.ingredientes || []).filter((i) => i.n && i.n.trim());
@@ -386,7 +397,7 @@
     if (r.consejo) L.push("", `> 💡 **Consejo:** ${r.consejo}`);
     if (r.alternativa) L.push("", `> 🔁 **Versión alternativa:** ${r.alternativa}`);
     const n = r.nutricion || {};
-    if (n.kcal) L.push("", "## Por ración (aprox.)", "", "| kcal | Proteína | Hidratos | Grasa |", "|---|---|---|---|", `| ${n.kcal} | ${n.prot} g | ${n.hc} g | ${n.grasa} g |`);
+    if (n.kcal) L.push("", n.calculada ? "## Por ración (calculado a partir de los ingredientes)" : "## Por ración (aprox.)", "", "| kcal | Proteína | Hidratos | Grasa |", "|---|---|---|---|", `| ${n.kcal} | ${n.prot} g | ${n.hc} g | ${n.grasa} g |`);
     if (r.etiquetas.length) L.push("", r.etiquetas.map((e) => "#" + e.replace(/\s+/g, "-")).join(" "));
     return L.join("\n") + "\n";
   };

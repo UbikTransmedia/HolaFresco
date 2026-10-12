@@ -41,6 +41,21 @@ desde la misma wifi, o copia la carpeta al móvil y ábrela con un navegador que
 - Las **raciones** se calculan con la fórmula de Mifflin-St Jeor (orientativa) ajustada por actividad y objetivos:
   una ración estándar ≈ adulto de 2.100 kcal/día. La lista de la compra escala todas las cantidades.
 
+### Cálculo de calorías
+
+- Las **kcal y los macronutrientes de cada receta se calculan** a partir de sus ingredientes (`js/calorias.js`) con
+  una tabla de composición de 1.236 ingredientes (`js/data-nutri.js`, por 100 g de parte comestible, con densidades,
+  fracción comestible —huesos, conchas, pieles— y gramos por unidad de cocina: ud, diente, cda, manojo, lata…).
+- Se tiene en cuenta la **preparación**: en frituras y confitados solo cuenta el aceite que absorbe el alimento
+  (≈ 8 % del peso de los sólidos, hasta ~25 g por ración), no el del baño; si se fríe con aceite «al gusto», también
+  se cuenta lo absorbido. Los ingredientes opcionales y los «al gusto» (salvo un chorrito de aceite) no suman.
+- El resultado se divide entre las raciones de la receta. Si no se reconocen ingredientes que sumen al menos el 85 %
+  del peso, se usan los valores escritos en la receta (que se guardan como «declarados» y son los que se editan).
+- El **factor de ración** de cada persona escala las cantidades y, con ellas, la energía: con Ana (0,85×) y Luis
+  (1,2×) se cocinan 2,05 raciones y cada uno come su parte. El menú, su Markdown y su PDF muestran una vez la
+  **energía media por comida de cada persona** (kcal por ración estándar × su factor), y el detalle de cada receta,
+  el total del plato a las raciones elegidas.
+
 ### Copiar la lista de la compra como lista de tareas
 
 En la lista de la compra elige el **formato** y pulsa **Copiar lista**:

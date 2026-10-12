@@ -110,12 +110,16 @@
     pintarIng();
     const numRaciones = h("span.raciones-num", { "aria-live": "polite" }, String(raciones).replace(".", ","));
     const stepper = h("div.stepper", { role: "group", "aria-label": "Raciones" },
-      h("button.btn.btn-icono", { type: "button", "aria-label": "Menos raciones", onClick: () => { raciones = Math.max(0.5, raciones - 0.5); numRaciones.textContent = String(raciones).replace(".", ","); pintarIng(); } }, "−"),
+      h("button.btn.btn-icono", { type: "button", "aria-label": "Menos raciones", onClick: () => { raciones = Math.max(0.5, raciones - 0.5); numRaciones.textContent = String(raciones).replace(".", ","); pintarIng(); pintarTotal(); } }, "−"),
       h("span.stepper-valor", numRaciones, h("span.muted", " ", UI.plural(raciones, "ración", "raciones"))),
-      h("button.btn.btn-icono", { type: "button", "aria-label": "Más raciones", onClick: () => { raciones = Math.min(20, raciones + 0.5); numRaciones.textContent = String(raciones).replace(".", ","); pintarIng(); } }, "+")
+      h("button.btn.btn-icono", { type: "button", "aria-label": "Más raciones", onClick: () => { raciones = Math.min(20, raciones + 0.5); numRaciones.textContent = String(raciones).replace(".", ","); pintarIng(); pintarTotal(); } }, "+")
     );
 
     const nut = r.nutricion || {};
+    // Energía total del plato a las raciones elegidas (las raciones del menú ya incluyen el factor de cada persona)
+    const totalKcal = h("p.muted.nut-total");
+    const pintarTotal = () => { totalKcal.textContent = nut.kcal ? `Todo el plato (${String(raciones).replace(".", ",")} ${UI.plural(raciones, "ración", "raciones")}): ≈ ${(Math.round((nut.kcal * raciones) / 10) * 10).toLocaleString("es-ES")} kcal` : ""; };
+    pintarTotal();
     const coc = Recetas.cocina(r.cocina), con = Recetas.contundencia(r.contundencia), cos = Recetas.coste(r.coste);
     const cuerpo = h("div.detalle",
       h("div.detalle-cab",
@@ -144,13 +148,14 @@
         )
       ),
       nut.kcal ? h("section.detalle-nut",
-        h("h3", "Por ración ", h("span.muted", "(aproximado)")),
+        h("h3", "Por ración estándar ", h("span.muted", nut.calculada ? "(calculado a partir de los ingredientes y su preparación)" : "(aproximado)")),
         h("div.nut-grid",
           h("div.nut-item", h("strong", nut.kcal), h("span", "kcal")),
           h("div.nut-item", h("strong", nut.prot, " g"), h("span", "proteína")),
           h("div.nut-item", h("strong", nut.hc, " g"), h("span", "hidratos")),
           h("div.nut-item", h("strong", nut.grasa, " g"), h("span", "grasa"))
-        )
+        ),
+        totalKcal
       ) : null,
       r.etiquetas.length ? h("div.detalle-etiquetas", r.etiquetas.map((e) => h("span.chip.chip-mini", "#", e))) : null
     );
@@ -179,6 +184,9 @@
   const abrirEditor = (id, alGuardar) => {
     const base = id ? Recetas.porId(id) : null;
     const r = base ? JSON.parse(JSON.stringify(base)) : { nombre: "", subtitulo: "", categoria: "carnes", cocina: "", momentos: ["comida", "cena"], proteina: "pollo", tiempo: 30, dificultad: "fácil", equipo: [], raciones: 2, ingredientes: [{ n: "", q: "", u: "g" }], pasos: [""], nutricion: { kcal: "", prot: "", hc: "", grasa: "" }, etiquetas: [], consejo: "", contundencia: "", coste: "" };
+    // los valores nutricionales editables son los escritos a mano; los calculados se recalculan solos al guardar
+    if (base && base.nutricionDeclarada) r.nutricion = { kcal: "", prot: "", hc: "", grasa: "", ...base.nutricionDeclarada };
+    delete r.nutricionDeclarada;
     // si los atributos venían derivados automáticamente, dejamos el selector en "auto"
     if (base && !(base._contundenciaManual || (window.RECETAS_SEED || []).some((s) => s.id === base.id && s.contundencia))) { /* se mantiene el valor actual */ }
     let m;
@@ -241,7 +249,7 @@
         h("span.campo-ayuda", "Usa nombres sencillos y en singular (cebolla, pollo (pechuga), garbanzos cocidos) para que la lista de la compra los agrupe bien. Sal, pimienta y aceite: marca la unidad «al gusto».")
       ),
       h("div.campo", h("span.campo-etiqueta", "Preparación ", h("span.muted", "(un paso por línea)")), pasosTA),
-      h("div.campo", h("span.campo-etiqueta", "Valores por ración (aprox.)"), h("div.fila-campos.fila-4", campoNum("kcal", "kcal"), campoNum("prot", "Proteína (g)"), campoNum("hc", "Hidratos (g)"), campoNum("grasa", "Grasa (g)"))),
+      h("div.campo", h("span.campo-etiqueta", "Valores por ración (aprox.)"), h("small.muted", "HolaFresco los calcula solo a partir de los ingredientes y su preparación; estos valores se usan únicamente si no reconoce suficientes ingredientes."), h("div.fila-campos.fila-4", campoNum("kcal", "kcal"), campoNum("prot", "Proteína (g)"), campoNum("hc", "Hidratos (g)"), campoNum("grasa", "Grasa (g)"))),
       UI.campo("Etiquetas (separadas por comas)", etiquetasIn),
       UI.campo("Consejo del cocinero (opcional)", h("textarea.input.textarea", { rows: 2, onInput: (e) => { r.consejo = e.target.value; } }, r.consejo || "")),
       UI.campo("Versión alternativa (opcional): ingredientes o pasos que se pueden cambiar", h("textarea.input.textarea", { rows: 2, onInput: (e) => { r.alternativa = e.target.value; } }, r.alternativa || ""))

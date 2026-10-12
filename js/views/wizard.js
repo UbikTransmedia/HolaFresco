@@ -405,7 +405,8 @@
     UI.append(cont,
       h("div.resultado-barra",
         h("div.resultado-info", h("strong", `${res.slots.length} comidas`), ` · ${personas.length} ${UI.plural(personas.length, "persona", "personas")} · ${res.raciones.toLocaleString("es-ES")} raciones por comida`, resumen ? h("span.muted", ` · media ${resumen.media.kcal} kcal y ${resumen.media.prot} g de proteína por ración`) : null,
-          personas.length > 1 ? h("div.reparto-menu", { title: "Qué parte de cada plato es para cada persona, según sus necesidades. Es igual para todos los platos del menú." }, "🍽️ Reparto de cada plato: ", h("strong", Nutricion.textoPorcentajes(Nutricion.repartoGrupo(personas)))) : null),
+          personas.length > 1 ? h("div.reparto-menu", { title: "Qué parte de cada plato es para cada persona, según sus necesidades. Es igual para todos los platos del menú." }, "🍽️ Reparto de cada plato: ", h("strong", Nutricion.textoPorcentajes(Nutricion.repartoGrupo(personas)))) : null,
+          resumen && personas.length ? h("div.reparto-menu", { title: "Energía media que come cada persona en cada comida del menú: kcal por ración estándar (calculadas a partir de los ingredientes) × su factor de ración" }, "🔥 Media por comida: ", h("strong", Nutricion.textoKcalPersonas(Nutricion.repartoGrupo(personas), resumen.media.kcal))) : null),
         h("div.resultado-acciones", h("button.btn", { type: "button", onClick: () => { generar(); refrescar(); UI.toast("Nuevo menú propuesto"); } }, "🎲 Proponer otro menú"))
       ),
       res.avisos.length ? h("div.aviso.aviso-alerta", h("ul", res.avisos.map((a) => h("li", a)))) : null,
