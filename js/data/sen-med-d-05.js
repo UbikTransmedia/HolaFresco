@@ -4,7 +4,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
    Hilo conductor: huevos y tortillas suaves. Frittatas, huevos rellenos, revueltos, flanes, huevos escalfados y
    mollet, salsas ligadas con yema o de huevo picado y mimosas de huevo duro acompañando pescados, carnes y
    verduras. Platos tradicionales de Túnez (koucha, ojja), Italia (merluzzo alla pizzaiola, risotto al limone,
-   spaghetti alle vongole), Líbano (sabanekh bil zeit) y Cataluña (sopa de farigola), adaptados
+   spaghetti alle vongole), Líbano (sabanekh bil zeit), y Cataluña (sopa de farigola), adaptados
    sin perder su alma, y creaciones sencillas de inspiración mediterránea. Bajas en FODMAP (aceite de ajo, parte verde de la cebolleta, cebollino, sin gluten,
    sin legumbres, sin lácteos con lactosa), sin picante, sin alcohol, sin fritos y con ≤ 25 g de grasa por ración;
    raciones de cada verdura dentro de los límites de Monash. Cantidades para 2 raciones. */
@@ -1053,46 +1053,44 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4864",
-  nombre: "Sopa de albondiguillas de merluza al limón con arroz, zanahoria y espinacas",
-  subtitulo: "albondiguillas tiernas de merluza y huevo cocidas directamente en el caldo, sin freír, con arroz y verduras suaves",
+  nombre: "Sopa de conejo al tomillo con arroz, zanahoria y patata, con perejil y limón",
+  subtitulo: "un caldo casero de carne blanca y magra en el que se cuecen al final el arroz y la patata, con el conejo desmenuzado",
   origen: "inventada",
   categoria: "sopas-cremas",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
-  proteina: "pescado",
-  tiempo: 40,
+  proteina: "mixto",
+  tiempo: 70,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "merluza (lomos)", q: 300, u: "g", nota: "sin piel ni espinas" },
-    { n: "huevo", q: 1, u: "ud" },
-    { n: "pan rallado sin gluten", q: 25, u: "g" },
-    { n: "perejil fresco", q: 0.5, u: "manojo" },
+    { n: "conejo troceado", q: 600, u: "g", nota: "medio conejo, con sus huesos" },
+    { n: "zanahoria", q: 2, u: "ud" },
+    { n: "patata", q: 250, u: "g" },
+    { n: "arroz redondo", q: 80, u: "g" },
+    { n: "tomate pera", q: 1, u: "ud" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "limón", q: 1, u: "ud" },
-    { n: "arroz redondo", q: 60, u: "g" },
-    { n: "zanahoria", q: 150, u: "g" },
-    { n: "espinacas frescas", q: 100, u: "g" },
-    { n: "caldo de pescado", q: 900, u: "ml", nota: "casero o sin cebolla ni ajo" },
+    { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "laurel", q: 1, u: "hoja" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 2, u: "cdta" },
+    { n: "perejil fresco", q: 0.25, u: "manojo" },
+    { n: "limón", q: 0.5, u: "ud" },
+    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "agua", q: 1500, u: "ml" },
     { n: "sal", u: "al gusto" },
-    { n: "pimienta blanca", u: "al gusto" },
   ],
   pasos: [
-    "Pon el caldo a calentar en una cazuela con el laurel. Mientras se calienta, pela la zanahoria y córtala en dados pequeños, pica la parte verde de la cebolleta y el perejil, lava las espinacas y ralla la piel del limón.",
-    "Cuando el caldo hierva, añade el arroz y la zanahoria y cuece 8 minutos a fuego medio.",
-    "Mientras, pica la merluza muy fina con un cuchillo (o tritúrala 2-3 segundos) y mézclala en un bol con el huevo, el pan rallado, la mitad del perejil, la cebolleta, la ralladura de limón, el aceite de ajo, sal y una pizca de pimienta. Forma unas 16 albondiguillas del tamaño de una nuez con las manos húmedas.",
-    "Baja el fuego para que el caldo apenas burbujee, añade las albondiguillas con cuidado y cuécelas 8 minutos sin remover, hasta que estén firmes y el arroz tierno.",
-    "Añade las espinacas y deja 1 minuto, hasta que se arruguen. Retira el laurel, exprime el limón sobre la sopa y prueba de sal.",
-    "Sirve en platos hondos con el resto del perejil y un hilo del aceite de oliva en crudo."
+    "Sala el conejo. Pela las zanahorias y córtalas en rodajas de 1 cm, ralla el tomate desechando la piel y pica la parte verde de la cebolleta.",
+    "Calienta el aceite de ajo en una cazuela a fuego medio y dora el conejo 6–8 minutos, girándolo, hasta que tome color por todos lados. Añade la cebolleta y el tomate rallado y rehoga 3 minutos.",
+    "Vierte el agua y añade el tomillo, el laurel y la zanahoria. Cuando hierva, retira la espuma, tapa a medias y cuece 35 minutos a fuego suave, hasta que la carne se separe sola del hueso.",
+    "Mientras se cuece, pela las patatas y córtalas en dados de 2 cm, pica el perejil y exprime el limón.",
+    "Saca el conejo a un plato y echa en la cazuela las patatas y el arroz; cuece 15 minutos a fuego medio, hasta que estén tiernos. Mientras, desmenuza la carne y descarta los huesos y la piel, y retira del caldo el tomillo y el laurel.",
+    "Devuelve la carne a la cazuela, prueba de sal y apaga el fuego. Añade el perejil y el zumo de limón y sirve en platos hondos."
   ],
-  nutricion: { kcal: 410, prot: 35, hc: 41, grasa: 11 },
-  etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "alta en proteína", "de cuchara", "poco especiada", "bajo en colesterol"],
-  consejo: "Una sopa completa y muy ligera: pescado blanco, arroz bien cocido y verduras suaves. Las albondiguillas se cuecen en el propio caldo, sin freír, así que la única grasa es un hilo de aceite al final. Si compras el caldo de pescado hecho, revisa que no lleve cebolla, ajo ni puerro; si no, haz uno rápido con espinas de merluza, laurel, zanahoria y la parte verde de la cebolleta.",
+  nutricion: { kcal: 650, prot: 57, hc: 59, grasa: 20 },
+  etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína", "de cuchara", "invierno"],
+  consejo: "El conejo es una de las carnes más magras y fáciles de digerir, y cocido así, desmenuzado en el caldo, se mastica sin esfuerzo. El aceite de ajo y el verde de la cebolleta dan el sabor de un sofrito sin sus FODMAP, y el arroz blanco y la patata son de los almidones mejor tolerados con intestino irritable. Desmenuza la carne con calma: el conejo tiene huesecillos finos. Aguanta 2 días en la nevera; el arroz se bebe el caldo, así que añade un poco de agua al recalentar.",
   tupper: true,
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "media"
 });

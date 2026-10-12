@@ -2,10 +2,10 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 
 /* Recetas INVENTADAS SENCILLAS y BAJAS EN FODMAP de cocina MEDITERRÁNEA (bloque med-f-03: inv-5090 a inv-5114).
    Hilo conductor: platos VEGETARIANOS (algunos veganos), sin carne ni pescado: huevo, quesos curados, tofu, tempeh y
-   frutos secos en ración. Tradicionales de Nápoles (uova alla monachina), Marsella (bouillabaisse borgne), Génova
+   frutos secos en ración. Tradicionales de Nápoles (uova alla monachina), Génova
    (lattughe ripiene), Basilicata (patate arraganate), Roma (pasta alla checca), Calabria (pesto a la calabresa) y
    Friuli (paparot), adaptados sin perder su alma, y creaciones sencillas de inspiración mediterránea (romesco con
-   huevos, huevos mollet en costra de polenta, ensalada griega de tofu, risotto de kale…). Bajas en FODMAP: sin ajo ni
+   huevos, huevos mollet en costra de polenta, endivias braseadas con huevo mollet, ensalada griega de tofu, risotto de kale…). Bajas en FODMAP: sin ajo ni
    cebolla (aceite de ajo, parte verde de la cebolleta, cebollino), sin gluten (pasta, pan y pan rallado sin gluten,
    harina de arroz, polenta, quinoa, mijo, arroz), sin legumbres salvo tofu firme y tempeh (≤ 100 g por persona), sin
    setas, coliflor, manzana, pera ni miel, sin lácteos con lactosa (quesos curados, feta y mozzarella en ración pequeña,
@@ -62,46 +62,43 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-5091",
-  nombre: "Bouillabaisse borgne: caldo provenzal de patata, tomate, hinojo y azafrán con huevos escalfados y tostas con rouille sin ajo",
-  subtitulo: "la «bullabesa tuerta» de las casas pobres de Marsella: todo el perfume de la sopa de pescado, con un huevo escalfado por ojo",
+  nombre: "Huevos mollet sobre endivias braseadas a la naranja y al tomillo con nueces tostadas y parmesano",
+  subtitulo: "endivias doradas por el corte y glaseadas en su jugo con naranja, y encima un huevo de yema líquida que hace de salsa",
   origen: "inventada",
   categoria: "huevos",
   cocina: "mediterránea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
-  tiempo: 45,
+  tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "patata", q: 500, u: "g" },
-    { n: "tomate pera", q: 300, u: "g", nota: "maduros" },
-    { n: "hinojo", q: 80, u: "g", nota: "bulbo, unos 40 g por persona" },
-    { n: "aceite de ajo", q: 1.5, u: "cda" },
-    { n: "azafrán", q: 1, u: "pizca" },
-    { n: "naranja", q: 1, u: "ud", nota: "solo una tira de piel" },
-    { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "huevo", q: 4, u: "ud" },
+    { n: "endivias", q: 500, u: "g", nota: "4 piezas" },
+    { n: "naranja", q: 1, u: "ud" },
+    { n: "tomillo fresco", q: 2, u: "rama" },
+    { n: "nueces", q: 30, u: "g" },
+    { n: "parmesano", q: 30, u: "g" },
+    { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "pan sin gluten", q: 4, u: "rebanada" },
-    { n: "mayonesa", q: 2, u: "cda", nota: "sin ajo ni cebolla" },
-    { n: "pimentón dulce", q: 0.5, u: "cdta" },
-    { n: "agua", q: 900, u: "ml", nota: "caliente" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon a calentar el agua. Mientras, pela las patatas y córtalas en rodajas de 1 cm, quita las hojas duras al hinojo y córtalo en láminas finas, ralla los tomates por la parte gruesa del rallador desechando la piel y saca con un pelador una tira de piel de naranja sin la parte blanca.",
-    "Calienta el aceite de ajo en una cazuela ancha a fuego medio y rehoga el hinojo 4 minutos, hasta que se ablande sin dorarse. Añade el tomate, el tomillo, la piel de naranja y el azafrán desmenuzado y cocina 5 minutos, hasta que el tomate espese.",
-    "Añade las patatas, el agua caliente, sal y pimienta. Cuece a fuego medio, tapado a medias, 15–18 minutos, hasta que las patatas estén tiernas pero enteras.",
-    "Mientras se cuecen, prepara la rouille: mezcla en un bol la mayonesa con el pimentón y 1 cucharada del caldo de la cazuela, que ya lleva el azafrán, hasta tener una salsa anaranjada. Tuesta el pan.",
-    "Retira el tomillo y la piel de naranja. Baja el fuego para que el caldo apenas tiemble, casca los huevos uno a uno en una taza y deslízalos en el caldo, entre las patatas. Tapa y escálfalos 3–4 minutos, hasta que las claras estén cuajadas y las yemas líquidas.",
-    "Unta las tostas con la rouille y ponlas en el fondo de platos hondos. Reparte encima las patatas y el caldo, coloca los huevos con cuidado y sirve enseguida."
+    "Pon agua a hervir en un cazo para los huevos. Mientras, quita a las endivias las hojas exteriores estropeadas, córtalas por la mitad a lo largo y sácales con la punta del cuchillo el cono duro de la base (es lo que más amarga). Ralla la piel de media naranja y exprime la naranja entera. Trocea las nueces, ralla el parmesano y pica el cebollino.",
+    "Calienta 1 cucharada y media de aceite en una sartén amplia con tapa a fuego medio-alto y dora las endivias por el corte 4 minutos, hasta que tomen color. Dales la vuelta, sálalas, añade el zumo de naranja, el tomillo y 4 cucharadas de agua, tapa y brasea a fuego suave 12–15 minutos, hasta que el tronco esté tierno al pincharlo.",
+    "Mientras se brasean, cuando el agua hierva, baja los huevos con una cuchara y cuécelos exactamente 6 minutos; pásalos a un bol con agua fría y pélalos con cuidado. En ese tiempo tuesta las nueces 2 minutos en una sartén pequeña sin aceite y tuesta el pan.",
+    "Destapa las endivias, retira el tomillo y deja que el jugo se reduzca 2 minutos, hasta que las napee como un glaseado. Fuera del fuego, añade la ralladura de naranja, la mitad del parmesano y pimienta recién molida.",
+    "Reparte las endivias con su jugo en los platos y pon encima los huevos abiertos por la mitad, con la yema corriendo. Esparce las nueces, el resto del parmesano y el cebollino, riega con el aceite restante y sirve con el pan tostado."
   ],
-  nutricion: { kcal: 690, prot: 21, hc: 77, grasa: 33 },
-  etiquetas: ["bajo en fodmap", "tradicional", "sin gluten", "sin lactosa", "de cuchara", "económica", "poco especiada"],
-  consejo: "La «bouillabaisse borgne» («tuerta») es la versión sin pescado que se hacía en Provenza cuando la barca volvía vacía: el caldo de patata, hinojo, azafrán y naranja, y un huevo escalfado por persona. La rouille de verdad lleva ajo majado; aquí la mayonesa (comprueba que no lleve ajo ni cebolla en polvo) se tiñe con el caldo y el pimentón. El bulbo de hinojo es bajo en FODMAP hasta unos 48 g por persona: con 80 g para dos hay aroma de sobra.",
+  nutricion: { kcal: 650, prot: 27, hc: 42, grasa: 41 },
+  etiquetas: ["bajo en fodmap", "creativa", "sin gluten", "vegetariana", "poco especiada", "invierno", "económica"],
+  consejo: "La endivia es baja en FODMAP incluso en ración generosa, y al brasearla con naranja pierde casi todo el amargor y gana un punto dulce que casa con la nuez y el parmesano curado (prácticamente sin lactosa). Para un mollet perfecto, los huevos a temperatura ambiente y 6 minutos justos desde que entran en el agua hirviendo. Si las endivias son muy gruesas, córtalas en cuartos para que se hagan a la vez.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
