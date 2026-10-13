@@ -749,3 +749,11 @@ body.fondo-inicio .pie-legal a, body.fondo-inicio .pie-legal .enlace-boton { col
   .fila-frecuencia { grid-template-columns: minmax(0, 1fr); }
   .fila-frecuencia > .segmentado { justify-self: start; }
 }
+
+/* Portada: enlaces al recetario estático */
+.recetario-inicio { max-width: var(--ancho-max); margin: 1.5rem auto 0; background: var(--superficie); border: 1px solid var(--borde); border-radius: var(--radio); padding: 1rem 1.2rem; box-shadow: var(--sombra); }
+.recetario-inicio h2 { margin: 0 0 .3rem; font-size: 1.2rem; }
+.recetario-inicio p { margin: 0 0 .7rem; color: var(--texto-suave); }
+.recetario-enlaces { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
+.recetario-enlaces a { display: inline-block; padding: .3rem .8rem; border: 1px solid var(--btn-borde); border-radius: 999px; background: var(--btn-fondo); color: var(--texto); text-decoration: none; font-size: .95rem; }
+.recetario-enlaces a:hover { border-color: var(--primario); }

@@ -1,0 +1,44 @@
+/* Páginas estáticas de recetas (generadas por tools/paginas.js): legibles sin JavaScript */
+:root {
+  --fondo: #e9e1d4; --superficie: #faf6ef; --borde: #c3b39c; --texto: #1f1a16; --texto-suave: #574c42;
+  --primario: #b2461f; --primario-oscuro: #8f3615; --primario-claro: #f6d9cb; --acento-claro: #dcebcc;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --fondo: #0f0d0c; --superficie: #1f1a17; --borde: #4f443c; --texto: #f7f1ea; --texto-suave: #c9bcae;
+    --primario: #f2804f; --primario-oscuro: #ff9c72; --primario-claro: #512a19; --acento-claro: #2c3f1b; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--fondo); color: var(--texto); font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; }
+a { color: var(--primario-oscuro); }
+.cab { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; align-items: center; justify-content: space-between; padding: .8rem 16px; background: var(--superficie); border-bottom: 1px solid var(--borde); }
+.cab .marca { font-weight: 800; font-size: 1.2rem; text-decoration: none; color: var(--texto); }
+.cab nav { display: flex; gap: 1rem; flex-wrap: wrap; }
+.pagina { max-width: 780px; margin: 0 auto; padding: 1.2rem 16px 2rem; }
+.migas { font-size: .9rem; color: var(--texto-suave); margin-bottom: .5rem; }
+h1 { font-size: clamp(1.5rem, 4vw, 2.1rem); line-height: 1.2; margin: .3rem 0 .4rem; }
+h2 { font-size: 1.25rem; margin: 1.6rem 0 .6rem; }
+h2 small { font-weight: 400; color: var(--texto-suave); font-size: .85rem; }
+.sub { color: var(--texto-suave); font-size: 1.05rem; margin: 0 0 1rem; }
+.datos { display: flex; flex-wrap: wrap; gap: .4rem; list-style: none; padding: 0; margin: 0 0 .8rem; }
+.datos li, .etiquetas span { background: var(--superficie); border: 1px solid var(--borde); border-radius: 999px; padding: .15rem .7rem; font-size: .9rem; }
+.etiquetas { display: flex; flex-wrap: wrap; gap: .4rem; margin: 0 0 .6rem; }
+.etiquetas span { background: var(--acento-claro); }
+.alergenos { font-size: .95rem; color: var(--texto-suave); }
+.ingredientes, .pasos { background: var(--superficie); border: 1px solid var(--borde); border-radius: 12px; padding: 1rem 1rem 1rem 2.2rem; margin: 0; }
+.ingredientes li { margin: .15rem 0; }
+.pasos li { margin: 0 0 .7rem; padding-left: .2rem; }
+.pasos li:last-child { margin-bottom: 0; }
+.nota { color: var(--texto-suave); font-size: .9rem; }
+.consejo { background: var(--primario-claro); border-left: 4px solid var(--primario); border-radius: 8px; padding: .8rem 1rem; margin: 1.2rem 0 0; }
+.consejo.alternativa { background: var(--superficie); }
+.nut { display: flex; flex-wrap: wrap; gap: .5rem; margin: 0 0 .4rem; }
+.nut span { background: var(--superficie); border: 1px solid var(--borde); border-radius: 10px; padding: .4rem .8rem; }
+.cta { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.6rem 0 0; }
+.boton { display: inline-block; background: var(--primario); color: #fff; text-decoration: none; font-weight: 600; padding: .6rem 1.1rem; border-radius: 10px; }
+.boton.secundario { background: var(--superficie); color: var(--texto); border: 1px solid var(--borde); }
+.relacionadas ul, .categorias, .lista-recetas { padding-left: 1.2rem; }
+.relacionadas li, .categorias li, .lista-recetas li { margin: .3rem 0; }
+.anuncio { margin: 1.6rem 0; min-height: 0; text-align: center; }
+.anuncio-etiqueta { display: block; font-size: .7rem; letter-spacing: .06em; text-transform: uppercase; color: var(--texto-suave); margin-bottom: .3rem; }
+.pie { max-width: 780px; margin: 0 auto; padding: 1rem 16px 2rem; font-size: .9rem; color: var(--texto-suave); border-top: 1px solid var(--borde); }

@@ -402,6 +402,13 @@
     return L.join("\n") + "\n";
   };
 
+  /* Página estática de una receta del recetario (recetas/<slug>.html, generada por tools/paginas.js con el nombre original) */
+  const paginaEstatica = (id) => {
+    const semilla = (window.RECETAS_SEED || []).find((s) => s.id === id);
+    if (!semilla) return null;
+    return `/recetas/${Catalogo.normalizar(semilla.nombre.split(":")[0]).replace(/ñ/g, "n").split(" ").filter(Boolean).slice(0, 8).join("-")}-${id}.html`;
+  };
+
   const copiarMarkdown = async (id, raciones) => {
     const r = porId(id);
     if (!r) return false;
@@ -416,6 +423,6 @@
     CATEGORIAS, categoria, COCINAS, cocina, COCCIONES, coccion, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, dietaInfo, NECESIDADES, MOMENTOS, DIFICULTADES, PROTEINAS,
     todas, porId, esSemilla, guardar, borrar, restaurar, restaurarTodas, ocultas, duplicar,
     esFavorita, enListaNegra, toggleFavorita, toggleListaNegra, usadasRecientemente, aMarkdown, copiarMarkdown,
-    indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,
+    paginaEstatica, indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,
   };
 })();

@@ -1,4 +1,7 @@
-/* Publicidad (Google AdSense): bloques de anuncio en lugares fijos de la interfaz.
+/* Publicidad (Google AdSense). En la aplicación solo hay un anuncio, debajo del contenido de un menú guardado (platos y
+   lista de la compra generados para el usuario): nunca en la portada, el asistente, listados, ventanas emergentes ni
+   pantallas vacías, que AdSense considera «pantallas sin contenido del editor». El resto de anuncios va en las páginas
+   estáticas de cada receta (recetas/*.html, generadas por tools/paginas.js), que se leen sin JavaScript.
    El script de AdSense se carga en index.html. Cada bloque necesita el id de un bloque de anuncios
    creado en AdSense (Anuncios → Por bloque de anuncios → Display, adaptable): ponlo en BLOQUE_DEFECTO
    para usar el mismo en todos los lugares, o uno distinto por lugar en BLOQUES. Sin id no se muestra nada. */
@@ -7,7 +10,7 @@
   const { h } = window.UI;
   const CLIENTE = "ca-pub-9953696711191519";
   const BLOQUE_DEFECTO = "5666459835";
-  const BLOQUES = { inicio: "", recetas: "", receta: "", asistente: "", menus: "", menu: "" };
+  const BLOQUES = { menu: "" };
   const enLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
 
   const bloque = (lugar) => {

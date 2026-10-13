@@ -42,7 +42,12 @@
             h("p", "Tu lista de la compra sale sola, agrupada por pasillos y con las cantidades justas. Cópiala en tu móvil y ve marcando lo que echas al carro."))
         )
       ),
-      window.Publicidad.bloque("inicio"),
+      // Enlaces normales a las páginas estáticas del recetario (se leen sin JavaScript: buscadores y lectores)
+      h("section.recetario-inicio", { "aria-label": "Recetario" },
+        h("h2", "Explora el recetario"),
+        h("p", `${Recetas.todas().filter((r) => r.origen !== "propia").length.toLocaleString("es-ES")} recetas caseras con sus ingredientes, los pasos en orden, un consejo de cocinero y la energía por ración calculada a partir de los ingredientes.`),
+        h("ul.recetario-enlaces", Recetas.CATEGORIAS.map((c) => h("li", h("a", { href: `/recetas/${c.id}.html` }, c.icono, " ", c.nombre))), h("li", h("a", { href: "/recetas/" }, "📚 Todas las recetas")))
+      ),
       h("p.nota-inicio", "Todo se guarda en este navegador, sin cuentas ni servidor. Desde ⚙️ Ajustes puedes exportar una copia de seguridad."),
       h("p.firma-inicio", "Un proyecto de ", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "G. Carbonell"), " (", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "gcarbonell.com"), ") y ", h("strong", "J. Ramírez")),
       h("p.credito-foto", "Foto: Stefan Vladimirov · Unsplash")

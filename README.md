@@ -30,6 +30,17 @@ desde la misma wifi, o copia la carpeta al móvil y ábrela con un navegador que
 | 📄 **Exportar** | Desde cada menú guardado: **PDF** (plan de comidas como índice enlazado a cada receta, lista de la compra con casillas, una receta por página, marcadores y un anexo con el Markdown para copiar; además lleva adjuntos `menu-completo.md`, `plan-de-comidas.md`, `lista-de-la-compra.md` y `recetas.md`) y copia en **Markdown** del plan de comidas, de la lista de la compra, de todas las recetas o de cada receta suelta. |
 | ⚙️ **Ajustes** | Estilo visual (claro por defecto, oscuro, huerta, océano, alto contraste o según el sistema; también con el botón de la esquina superior derecha), exportar/importar copia de seguridad (JSON), recuperar recetas ocultas, borrar datos. |
 
+### Páginas de recetas y publicidad
+
+- `node tools/paginas.js` genera una **página HTML estática por receta** en `recetas/` (ingredientes, pasos, consejo,
+  versión alternativa, nutrición calculada, datos estructurados schema.org/Recipe y recetas relacionadas), índices por
+  tipo de plato, `sitemap.xml` y `robots.txt`. Se leen sin JavaScript, así que buscadores y AdSense ven el contenido
+  real. Hay que volver a ejecutarlo cada vez que cambian las recetas.
+- **Dónde hay anuncios:** en cada página de receta (uno tras los ingredientes y otro al final) y, dentro de la
+  aplicación, solo debajo de un menú guardado. Nunca en la portada, el asistente, los listados, las ventanas emergentes
+  ni las pantallas vacías, que AdSense trata como «pantallas sin contenido del editor». En la cuenta de AdSense
+  conviene tener **desactivados los anuncios automáticos** para que Google no los coloque por su cuenta en esas pantallas.
+
 ### Reglas del generador
 
 - Las **intolerancias** de las personas que comen esa semana son vetos estrictos. Si un ingrediente afectado es opcional, el menú avisa de que la receta se prepare sin él.

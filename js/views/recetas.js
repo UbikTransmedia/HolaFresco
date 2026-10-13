@@ -142,7 +142,6 @@
         h("section.detalle-pasos",
           h("h3", "Preparación"),
           h("ol.lista-pasos", r.pasos.map((p) => h("li", p))),
-          window.Publicidad.bloque("receta"),
           r.consejo ? h("div.consejo", h("strong", "💡 Consejo del cocinero: "), r.consejo) : null,
           r.alternativa ? h("div.consejo.consejo-alternativa", h("strong", "🔁 Versión alternativa: "), r.alternativa) : null
         )
@@ -166,6 +165,8 @@
     const pie = [];
     if (opciones.accionExtra) pie.push(opciones.accionExtra(() => m.cerrar()));
     pie.push(btnFav, btnNegra, h("button.btn", { type: "button", title: "Copia la receta en formato Markdown (con las raciones que estás viendo) para pegarla en notas, documentos o mensajes", onClick: () => Recetas.copiarMarkdown(r.id, raciones) }, "📋 Copiar receta"));
+    const pagina = Recetas.paginaEstatica(r.id);
+    if (pagina) pie.push(h("a.btn", { href: pagina, target: "_blank", rel: "noopener", title: "Abre la receta en su propia página, para imprimirla o compartir el enlace" }, "🔗 Página de la receta"));
     pie.push(h("div.espaciador"));
     const masAcciones = h("details.menu-mas", h("summary.btn", "⋯ Más"), h("div.menu-mas-lista",
       h("button.btn.btn-suave", { type: "button", onClick: () => { m.cerrar(); abrirEditor(r.id); } }, "✏️ Editar"),
@@ -368,7 +369,6 @@
         filtrosAvanzados,
         contador
       ),
-      window.Publicidad.bloque("recetas"),
       grid,
       h("div.cargar-mas-cont", btnMas, sentinela)
     );
