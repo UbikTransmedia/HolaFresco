@@ -6,7 +6,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 window.RECETAS_SEED.push({
   id: "inv-1761",
   nombre: "Salmón glaseado al tamari y jengibre en airfryer",
-  subtitulo: "con arroz jazmín, pak choi salteado y sésamo tostado",
+  subtitulo: "con arroz jazmín, pak choi y sésamo tostado",
   origen: "inventada",
   categoria: "pescado",
   cocina: "asiática",
@@ -14,7 +14,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["airfryer", "cazuela", "sartén"],
+  equipo: ["airfryer", "cazuela"],
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
@@ -34,18 +34,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava el arroz jazmín hasta que el agua salga casi clara y cuécelo en una cazuela con 180 ml de agua y una pizca de sal: lleva a ebullición, tapa, baja al mínimo 12 minutos y deja reposar 5 minutos más sin destapar.",
+    "Tuesta el sésamo en una cazuela en seco 1 minuto, hasta que huela y tome color dorado, y resérvalo. Lava el arroz jazmín hasta que el agua salga casi clara y cuécelo en la misma cazuela con 180 ml de agua y una pizca de sal: lleva a ebullición, tapa, baja al mínimo 12 minutos y deja reposar 5 minutos más sin destapar.",
     "Mientras, ralla el jengibre y mézclalo en un bol con el tamari, el azúcar moreno y el vinagre de arroz. Reserva 1 cucharada de esta salsa para el pak choi. Pica el cebollino, corta la lima en gajos y parte el pak choi a lo largo en cuartos.",
-    "Seca bien los lomos de salmón con papel, píntalos con la mitad del glaseado y colócalos con la piel hacia abajo en la cesta de la airfryer forrada con papel perforado.",
-    "Cocina a 190 °C durante 8 minutos; a mitad, pinta con el resto del glaseado. Estará listo cuando la superficie brille caramelizada y las láminas se separen al presionar, todavía jugosas en el centro.",
-    "Mientras se hace el salmón, saltea el pak choi en una sartén caliente con el aceite de ajo 3 minutos, hasta que los tallos estén tiernos pero crujientes. Añade la cucharada de salsa reservada y apaga.",
-    "Tuesta el sésamo en la misma sartén 1 minuto, hasta que huela y tome color dorado.",
-    "Sirve el arroz con el salmón y el pak choi, rocía con el aceite de sésamo y termina con sésamo, el cebollino y un gajo de lima."
+    "Seca bien los lomos de salmón con papel, píntalos con la mitad del glaseado y colócalos con la piel hacia abajo en la cesta de la airfryer forrada con papel perforado. Mezcla el pak choi con el aceite de ajo y la cucharada de salsa reservada.",
+    "Cocina el salmón a 190 °C durante 8 minutos. A los 3 minutos, píntalo con el resto del glaseado y reparte el pak choi alrededor en la cesta. Estará listo cuando la superficie del salmón brille caramelizada y las láminas se separen al presionar, todavía jugosas en el centro, y los tallos del pak choi estén tiernos pero crujientes.",
+    "Sirve el arroz con el salmón y el pak choi, rocía con el aceite de sésamo y termina con el sésamo, el cebollino y un gajo de lima."
   ],
-  nutricion: { kcal: 630, prot: 37, hc: 53, grasa: 30 },
+  nutricion: { kcal: 695, prot: 40, hc: 60, grasa: 32 },
   etiquetas: ["sin gluten", "bajo en fodmap", "airfryer", "rápida", "alta en proteína", "fácil", "poco especiada"],
   consejo: "Para celíacos, usa tamari con sello sin gluten: algunos tamaris llevan trigo. Sin airfryer, hornea el salmón a 200 °C 10–12 minutos.",
-  alternativa: "Si no encuentras pak choi, saltea 150 g de espinacas baby o de hojas tiernas de acelga (sin la penca) con el aceite de ajo solo 1–2 minutos; siguen siendo aptas para la dieta baja en FODMAP.",
+  alternativa: "Si no encuentras pak choi, usa 150 g de hojas tiernas de acelga (sin la penca) aliñadas igual y mételas en la cesta solo los últimos 2 minutos; siguen siendo aptas para la dieta baja en FODMAP.",
   contundencia: "media",
   coste: "premium",
   tupper: false
@@ -661,12 +659,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el calabacín y córtalo en rodajas sin pelar; pela la patata y córtala en dados pequeños.",
-    "Calienta el aceite de oliva en una cazuela y rehoga el calabacín y la patata con sal 5 minutos a fuego medio, removiendo, hasta que el calabacín empiece a sudar.",
-    "Cubre con el agua, lleva a ebullición y cuece 15 minutos tapado, hasta que la patata se deshaga al pincharla. Mientras, tuesta las semillas de calabaza en una sartén seca 2 minutos, hasta que empiecen a saltar, trocea el queso y pica el cebollino.",
+    "Tuesta las semillas de calabaza en una cazuela en seco 2 minutos, hasta que empiecen a saltar, y resérvalas. Calienta en ella el aceite de oliva y rehoga el calabacín y la patata con sal 5 minutos a fuego medio, removiendo, hasta que el calabacín empiece a sudar.",
+    "Cubre con el agua, lleva a ebullición y cuece 15 minutos tapado, hasta que la patata se deshaga al pincharla. Mientras, trocea el queso y pica el cebollino.",
     "Añade el queso y la leche sin lactosa y tritura con la batidora hasta obtener una crema lisa. Ajusta de sal y pimienta; si está muy espesa, aligera con agua caliente.",
     "Sirve la crema con un hilo de aceite de ajo, las semillas y el cebollino."
   ],
-  nutricion: { kcal: 405, prot: 14, hc: 28, grasa: 26 },
+  nutricion: { kcal: 390, prot: 16, hc: 24, grasa: 26 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "tupper", "batch cooking", "ligera", "fácil", "poco especiada"],
   consejo: "No uses pastillas de caldo: casi todas llevan cebolla, ajo y a veces gluten. El queso curado aporta el sabor que falta.",
   contundencia: "ligera",
@@ -770,7 +768,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -788,14 +786,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta el caldo y mantenlo al fuego mínimo. Corta el calabacín en dados pequeños, ralla el parmesano y la piel del limón y pica el cebollino.",
-    "En una cazuela ancha calienta el aceite de ajo y saltea el calabacín con sal 3 minutos a fuego medio-alto. Aparta la mitad para el final.",
+    "En una cazuela ancha calienta el aceite de ajo a fuego fuerte y saltea las gambas saladas 1 minuto por lado, hasta que estén rosadas. Sácalas a un plato. Baja a fuego medio-alto y saltea el calabacín con sal 3 minutos. Aparta la mitad para el final.",
     "Añade el arroz y nacáralo 1 minuto, hasta que los granos se vean translúcidos por los bordes. Vierte el vino y remueve hasta que se evapore.",
     "Incorpora el caldo caliente de cucharón en cucharón, removiendo con frecuencia y esperando a que se absorba antes de añadir más, durante 16–18 minutos, hasta que el arroz esté cremoso y al dente.",
-    "Mientras, saltea las gambas saladas en una sartén muy caliente 1 minuto por lado, hasta que estén rosadas.",
     "Aparta el risotto del fuego, añade la mantequilla fría, el parmesano, la ralladura del limón y el calabacín reservado y remueve enérgicamente 1 minuto para que quede brillante y suelto, como una ola.",
-    "Sirve con las gambas encima, el cebollino y unas gotas de zumo de limón."
+    "Sirve con las gambas y su jugo encima, el cebollino y unas gotas de zumo de limón."
   ],
-  nutricion: { kcal: 565, prot: 29, hc: 67, grasa: 19 },
+  nutricion: { kcal: 640, prot: 37, hc: 70, grasa: 22 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "alta en proteína", "poco especiada"],
   consejo: "El risotto no se recalienta bien: hazlo en el momento. La mantequilla y el parmesano tienen muy poca lactosa y suelen tolerarse en dieta baja en FODMAP.",
   contundencia: "media",

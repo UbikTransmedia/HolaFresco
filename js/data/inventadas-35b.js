@@ -391,13 +391,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla la cebolla y pica el ajo. Mezcla el cordero con el jengibre, la cúrcuma, el comino, sal y pimienta.",
-    "Calienta el aceite en una cazuela a fuego medio-alto y dora la carne 5 minutos. Añade la cebolla y el ajo y cocina 5 minutos, removiendo.",
+    "Tuesta las almendras en la cazuela en seco 3 minutos, removiendo, hasta que estén doradas, y resérvalas. Calienta en ella el aceite a fuego medio-alto y dora la carne 5 minutos. Añade la cebolla y el ajo y cocina 5 minutos, removiendo.",
     "Agrega la canela, el azafrán y agua justa para cubrir. Tapa y cuece a fuego suave 1 hora y 15 minutos, hasta que el cordero esté tierno.",
     "Añade las ciruelas y cuece 15 minutos más destapado, hasta que la salsa reduzca y quede melosa.",
-    "Mientras, tuesta las almendras en una sartén seca 3 minutos, pica el cilantro y cuece el arroz lavado en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
+    "Mientras, pica el cilantro y cuece el arroz lavado en 240 ml de agua con sal, tapado a fuego mínimo, 12 minutos.",
     "Sirve el cordero sobre el arroz con las almendras y el cilantro."
   ],
-  nutricion: { kcal: 736, prot: 42, hc: 70, grasa: 32 },
+  nutricion: { kcal: 740, prot: 45, hc: 73, grasa: 30 },
   etiquetas: ["sin gluten", "sin lácteos", "tupper", "batch cooking", "ideal para llevar", "una sola olla", "invierno", "sin verduras"],
   consejo: "Aguanta 3 días en la nevera y 3 meses congelado, y gana sabor al reposar. Recalienta tapado 4 minutos en el microondas; las almendras guárdalas aparte para que sigan crujientes. Para celíacos: es la versión sin cuscús de un tajín; si quieres cuscús, sustitúyelo siempre por arroz, quinoa o mijo.",
   alternativa: "Si tienes olla exprés, el cordero queda igual de tierno con 25 minutos a presión en lugar de 1 h 15 min en cazuela; añade luego las ciruelas y dale 15 minutos destapado.",
@@ -524,13 +524,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 190 °C y pon los huevos a cocer 10 minutos desde que hierva el agua. A la vez, cuece las rodajas de patata en agua con sal 6 minutos; añade el brócoli y cuece 2 minutos más. Escurre bien.",
-    "Enfría los huevos, pélalos y córtalos en rodajas.",
-    "Para la bechamel, disuelve la maicena en 100 ml de leche fría. Calienta el resto con la mantequilla, la nuez moscada, sal y pimienta y, cuando hierva, añade la maicena y remueve con varillas 2 minutos, hasta que espese. Fuera del fuego, añade la mostaza y la mitad del cheddar.",
+    "Precalienta el horno a 190 °C. Pon los huevos en una cazuela con agua y sal y llévala a ebullición. A los 2 minutos de hervir, añade las rodajas de patata; a los 6 minutos, el brócoli, y cuece 2 minutos más (los huevos habrán hervido 10 minutos). Escurre todo bien.",
+    "Enfría los huevos bajo el grifo, pélalos y córtalos en rodajas.",
+    "Para la bechamel, en la misma cazuela ya vacía, disuelve la maicena en 100 ml de leche fría. Calienta el resto con la mantequilla, la nuez moscada, sal y pimienta y, cuando hierva, añade la maicena y remueve con varillas 2 minutos, hasta que espese. Fuera del fuego, añade la mostaza y la mitad del cheddar.",
     "Coloca en una fuente la patata, el brócoli y el huevo, cubre con la bechamel y reparte el resto del cheddar.",
     "Hornea 20-25 minutos, hasta que burbujee y esté dorado. Deja reposar 5 minutos."
   ],
-  nutricion: { kcal: 684, prot: 28, hc: 62, grasa: 36 },
+  nutricion: { kcal: 635, prot: 30, hc: 53, grasa: 33 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "invierno", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera en porciones. Recalienta 3 minutos en el microondas tapado o 12 minutos en el horno a 180 °C para recuperar el gratinado. La bechamel de maicena no se corta al recalentar. Para celíacos: compra el queso en bloque y rállalo tú, porque algunos rallados llevan almidones con gluten.",
   tupper: true,
@@ -549,7 +549,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "cazuela"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "pimiento rojo", q: 2, u: "ud", nota: "grandes" },
@@ -568,12 +568,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 190 °C. Corta la tapa de los pimientos, quítales las semillas y hornéalos 10 minutos boca abajo para que se ablanden.",
-    "Mientras, cuece el arroz en agua con sal 12 minutos (quedará algo duro, terminará en el horno) y escúrrelo. A la vez, pica la cebolla, el ajo, los champiñones y las nueces.",
-    "Saltea en una sartén con el aceite la cebolla y el ajo 5 minutos. Añade los champiñones y el tomillo y cocina 6 minutos, hasta que se evapore el agua. Agrega el tomate y cocina 3 minutos.",
-    "Mezcla el sofrito con el arroz, la mitad del queso de cabra desmenuzado, sal y pimienta.",
+    "Mientras, pica la cebolla, el ajo, los champiñones y las nueces. Saltea en una sartén honda con el aceite la cebolla y el ajo 5 minutos. Añade los champiñones y el tomillo y cocina 6 minutos, hasta que se evapore el agua.",
+    "Agrega el tomate, el arroz, unos 250 ml de agua y sal, y cuece a fuego suave 12 minutos, removiendo de vez en cuando, hasta que el arroz haya absorbido casi todo el líquido (quedará algo duro: terminará en el horno).",
+    "Fuera del fuego, mezcla con la mitad del queso de cabra desmenuzado, sal y pimienta.",
     "Rellena los pimientos, reparte encima el resto del queso y las nueces y hornea 25 minutos, hasta que el pimiento esté tierno y el queso dorado."
   ],
-  nutricion: { kcal: 526, prot: 20, hc: 62, grasa: 22 },
+  nutricion: { kcal: 490, prot: 18, hc: 52, grasa: 22 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "fácil", "poco especiada"],
   consejo: "Aguantan 3 días en la nevera, de pie en un tupper alto. Recalienta 2-3 minutos en el microondas tapados con una cucharada de agua en el fondo. Para celíacos: este relleno no necesita pan rallado; si quieres costra crujiente, usa pan rallado sin gluten.",
   tupper: true,
@@ -592,7 +592,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "batidora"],
+  equipo: ["horno", "sartén"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -611,13 +611,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Tritura el tomate con el chipotle, la mitad de la cebolla, el ajo y sal hasta obtener una salsa fina. Cuécela en un cazo 5 minutos; mientras, corta el resto de la cebolla, el pimiento y el calabacín en dados pequeños.",
-    "Saltea en una sartén con el aceite la cebolla, el pimiento y el calabacín con el comino 6 minutos. Añade el maíz y sala.",
+    "Precalienta el horno a 190 °C. Pica fina la cebolla, el ajo y el chipotle, y corta el pimiento y el calabacín en dados pequeños.",
+    "Saltea en una sartén con el aceite la cebolla, el pimiento y el calabacín con el comino 6 minutos. Añade el maíz, sala y pasa las verduras a un plato.",
+    "En la misma sartén pon el tomate triturado con el ajo, el chipotle y sal y cuece 5 minutos, hasta que la salsa espese un poco.",
     "En una fuente pequeña, pon un poco de salsa, 2 tortillas (puedes cortarlas para encajar), un tercio de las verduras, salsa y queso. Repite dos veces más, terminando con salsa y queso.",
     "Tapa con papel de aluminio y hornea 15 minutos; destapa y hornea 10 minutos más, hasta que el queso esté dorado.",
     "Deja reposar 5 minutos y sirve con una cucharada de nata agria."
   ],
-  nutricion: { kcal: 568, prot: 26, hc: 62, grasa: 24 },
+  nutricion: { kcal: 525, prot: 22, hc: 59, grasa: 23 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "al horno", "todo al horno", "fácil", "picante"],
   consejo: "Aguanta 3 días en la nevera en porciones; la tortilla de maíz absorbe la salsa y queda como una lasaña. Recalienta 2-3 minutos en el microondas. Para celíacos: revisa el chipotle en adobo y elige tortillas 100 % maíz con sello, ya que muchas llevan harina de trigo.",
   alternativa: "Si no tienes chipotle en adobo, pon 1 cdta de pimentón ahumado y una pizca de cayena en la salsa; la nata agria se cambia sin problema por yogur griego con unas gotas de limón.",
@@ -769,7 +770,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de arroz", q: 120, u: "g" },
@@ -783,17 +784,17 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1.5, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "chile fresco", q: 0.5, u: "ud" },
-    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 0.5, u: "cdta" },
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon agua a hervir para los fideos. Mientras se calienta, pica el chile y mezcla el zumo de las limas con la salsa de pescado, el azúcar y el chile hasta disolver el azúcar.",
-    "Hidrata o cuece los fideos de arroz según el paquete (normalmente 4-5 minutos en agua hirviendo), escúrrelos y enfríalos bajo el grifo. Mézclalos con unas gotas de aceite para que no se peguen.",
-    "Saltea las gambas en una sartén con el resto del aceite a fuego fuerte 1-2 minutos, hasta que estén rosadas. Déjalas enfriar.",
+    "Pon agua a hervir en una cazuela. Mientras se calienta, pica el chile y mezcla el zumo de las limas con la salsa de pescado, el azúcar y el chile hasta disolver el azúcar.",
+    "Cuando hierva, echa las gambas y cuécelas 1-2 minutos, solo hasta que estén rosadas. Sácalas con una espumadera y déjalas enfriar.",
+    "En la misma agua, hidrata o cuece los fideos de arroz según el paquete (normalmente 4-5 minutos), escúrrelos y enfríalos bajo el grifo. Mézclalos con el aceite para que no se peguen.",
     "Mientras se enfrían, corta el mango y el pepino en tiras, ralla la zanahoria y pica la menta y los cacahuetes.",
     "Junta los fideos con las verduras, el mango, las gambas y el aliño. Termina con los cacahuetes."
   ],
-  nutricion: { kcal: 510, prot: 26, hc: 70, grasa: 14 },
+  nutricion: { kcal: 500, prot: 27, hc: 77, grasa: 8 },
   etiquetas: ["sin gluten", "sin lácteos", "tupper", "ideal para llevar", "batch cooking", "rápida", "fácil", "verano", "sin horno"],
   consejo: "Aguanta 2 días en la nevera. Lleva el aliño y los cacahuetes aparte y mézclalos al comer para que los fideos no se apelmacen. Se come fría, no hace falta recalentar. Para celíacos: revisa que los fideos sean 100 % arroz y que la salsa de pescado no lleve trigo.",
   tupper: true,
@@ -1001,12 +1002,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Asa la calabaza con 1 cucharadita de aceite y sal en una bandeja 20-25 minutos, hasta que esté tierna y caramelizada.",
-    "Mientras, pica la cebolla y el ajo y póchalos en una cazuela con el resto del aceite 5 minutos. Añade la quinoa lavada y tuéstala 1 minuto.",
-    "Vierte el vino y deja evaporar. Añade el caldo poco a poco, en 3 veces, cociendo a fuego suave 15-18 minutos y removiendo de vez en cuando, hasta que la quinoa esté tierna y cremosa. Mientras, tuesta las semillas de calabaza en una sartén seca 2 minutos.",
+    "Mientras, pica la cebolla y el ajo y póchalos en una cazuela con casi todo el resto del aceite 5 minutos. Añade la quinoa lavada y tuéstala 1 minuto.",
+    "Vierte el vino y deja evaporar. Añade el caldo poco a poco, en 3 veces, cociendo a fuego suave 15-18 minutos y removiendo de vez en cuando, hasta que la quinoa esté tierna y cremosa. Mientras, en los últimos 4 minutos de la calabaza, añade a la bandeja las semillas de calabaza y las hojas de salvia untadas con unas gotas de aceite, hasta que las semillas empiecen a saltar y la salvia quede crujiente.",
     "Aplasta la mitad de la calabaza con un tenedor e incorpórala a la quinoa con el parmesano y pimienta. Añade el resto de la calabaza en dados.",
-    "Fríe las hojas de salvia en la sartén con unas gotas de aceite 30 segundos, hasta que estén crujientes, y sírvelas por encima con las semillas tostadas."
+    "Sirve con las hojas de salvia crujientes y las semillas tostadas por encima."
   ],
-  nutricion: { kcal: 440, prot: 16, hc: 58, grasa: 16 },
+  nutricion: { kcal: 415, prot: 16, hc: 50, grasa: 16 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "fácil", "otoño", "ligera", "poco especiada"],
   consejo: "A diferencia del risotto de arroz, la quinoa no se pasa al recalentar: aguanta 3 días en la nevera. Calienta 2 minutos en el microondas con un chorrito de caldo o agua. Guarda la salvia y las semillas aparte. Para celíacos: comprueba el sello de la quinoa y del caldo.",
   tupper: true,
@@ -1089,12 +1090,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el puerro en rodajas y pela y trocea la patata. Calienta el aceite en una cazuela y pocha el puerro 6 minutos a fuego medio, sin que se dore.",
-    "Añade la coliflor y la patata, rehoga 2 minutos y cubre con el caldo. Cuece tapado 18-20 minutos, hasta que todo esté muy tierno. Mientras, tuesta las nueces en una sartén seca 2 minutos, pícalas y pica el cebollino.",
+    "Tuesta las nueces en la cazuela en seco 2 minutos, removiendo, y resérvalas. Corta el puerro en rodajas y pela y trocea la patata. Calienta el aceite en la misma cazuela y pocha el puerro 6 minutos a fuego medio, sin que se dore.",
+    "Añade la coliflor y la patata, rehoga 2 minutos y cubre con el caldo. Cuece tapado 18-20 minutos, hasta que todo esté muy tierno. Mientras, pica las nueces y el cebollino.",
     "Agrega la leche, la nuez moscada y la mitad del queso azul y tritura con la batidora hasta que quede una crema muy fina. Salpimienta.",
     "Sirve la crema con el resto del queso azul desmenuzado, las nueces y el cebollino."
   ],
-  nutricion: { kcal: 390, prot: 16, hc: 32, grasa: 22 },
+  nutricion: { kcal: 380, prot: 14, hc: 30, grasa: 22 },
   etiquetas: ["sin gluten", "vegetariana", "tupper", "batch cooking", "ideal para llevar", "de cuchara", "una sola olla", "fácil", "invierno", "poco especiada"],
   consejo: "Aguanta 3 días en la nevera y se congela bien (sin las nueces). Recalienta 3 minutos en el microondas removiendo a mitad, o en un cazo a fuego suave. Para celíacos: la mayoría de quesos azules son aptos, pero comprueba la etiqueta, y lleva los toppings en un recipiente aparte.",
   tupper: true,

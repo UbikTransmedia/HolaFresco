@@ -128,9 +128,9 @@ window.RECETAS_SEED.push({
     "Pela y ralla el jengibre y mézclalo con el tamari, el aceite de sésamo y el zumo de media lima.",
     "Chafa el aguacate con el resto de la lima y sal. Aparte, mezcla la mayonesa con la sriracha.",
     "Justo antes de servir, aliña el salmón con la salsa, el pepino y la parte blanca de la cebolleta, mezclando con suavidad.",
-    "Monta con un aro: una capa de aguacate y encima el tartar, apretando ligeramente. Retira el aro y espolvorea el sésamo y la parte verde de la cebolleta. Sirve con la mayonesa picante y las tortitas de arroz para ir cargando cada bocado."
+    "Extiende el aguacate en 2 platos como base y reparte encima el tartar. Espolvorea el sésamo y la parte verde de la cebolleta. Sirve con la mayonesa picante y las tortitas de arroz para ir cargando cada bocado."
   ],
-  nutricion: { kcal: 615, prot: 34, hc: 27, grasa: 40 },
+  nutricion: { kcal: 640, prot: 35, hc: 30, grasa: 40 },
   etiquetas: ["sin gluten", "sin cocción", "sin lácteos", "para invitados", "omega 3", "superalimentos"],
   consejo: "Las tortitas de arroz inflado son naturalmente sin gluten, pero muchas se fabrican junto a tortitas de espelta o multicereales: compra las que lleven la espiga barrada. Comprueba también la sriracha y la mayonesa.",
   contundencia: "media",
@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["batidora", "bol"],
+  equipo: ["bol"],
   coccion: ["sin-fuego"],
   raciones: 2,
   ingredientes: [
@@ -349,13 +349,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Separa la coliflor en ramilletes y tritúrala por tandas en la batidora de vaso, a golpes cortos, hasta que tenga el tamaño de un grano de cuscús. No te pases o quedará puré (también puedes rallarla con el rallador grueso).",
+    "Separa la coliflor en ramilletes y rállala con el rallador grueso hasta que tenga el tamaño de un grano de cuscús (si no tienes rallador, pícala muy fina a cuchillo).",
     "Pásala a un bol grande, añade el zumo del limón, el aceite, el zumaque y sal, mezcla bien y deja reposar 10 minutos: el ácido la ablandará ligeramente.",
     "Mientras, pica muy fino el perejil y la menta, corta el pepino y el tomate en dados pequeños y la cebolleta en aros finos. Desgrana la granada golpeando la media fruta boca abajo con una cuchara de madera sobre un bol, y escurre y enjuaga los garbanzos.",
     "Mezcla los garbanzos con la coliflor, las hierbas, el pepino, el tomate y la cebolleta. Prueba de sal y limón.",
     "Sirve con el feta desmenuzado y los granos de granada por encima."
   ],
-  nutricion: { kcal: 420, prot: 17, hc: 34, grasa: 23 },
+  nutricion: { kcal: 450, prot: 18, hc: 38, grasa: 23 },
   etiquetas: ["sin gluten", "sin cocción", "tupper", "ligera", "vegetariana", "verano", "detox", "superalimentos", "poco especiada"],
   consejo: "Esta versión sustituye el bulgur, que lleva gluten, por coliflor cruda. Comprueba que el zumaque sea puro o con sello. Aguanta 2 días en la nevera; añade el tomate y el feta al servir.",
   alternativa: "Si no encuentras zumaque, añade la ralladura de medio limón al aliño: el toque ácido es casi el mismo.",
