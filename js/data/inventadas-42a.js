@@ -59,7 +59,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "microondas"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz integral", q: 140, u: "g" },
@@ -77,14 +77,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el arroz integral en abundante agua con sal 28-30 minutos, hasta que esté tierno pero entero. Escúrrelo, pásalo por agua fría y extiéndelo para que se enfríe del todo.",
-    "Mientras se cuece el arroz, pon el edamame en un bol con 2 cucharadas de agua, tápalo y caliéntalo en el microondas a 800 W 3 minutos. Escúrrelo y déjalo enfriar.",
-    "Corta el pepino en medias lunas, ralla la zanahoria en tiras gruesas y pica la parte verde de la cebolleta.",
+    "Cuece el arroz integral en abundante agua con sal 28-30 minutos, hasta que esté tierno pero entero; en los últimos 4 minutos añade el edamame a la misma cazuela. Escurre, pásalo todo por agua fría y extiéndelo para que se enfríe del todo.",
+    "Mientras se cuece el arroz, corta el pepino en medias lunas, ralla la zanahoria en tiras gruesas y pica la parte verde de la cebolleta.",
     "Ralla el jengibre y mézclalo en un botecito con el tamari, el vinagre de arroz y el aceite de sésamo.",
-    "Reparte el arroz en dos tuppers y coloca encima, por zonas, la caballa en trozos grandes, el edamame, el pepino y la zanahoria. Espolvorea el sésamo y la cebolleta.",
+    "Reparte el arroz con el edamame en dos tuppers y coloca encima, por zonas, la caballa en trozos grandes, el pepino y la zanahoria. Espolvorea el sésamo y la cebolleta.",
     "Lleva el aliño aparte y viértelo por encima justo antes de comer."
   ],
-  nutricion: { kcal: 605, prot: 34, hc: 66, grasa: 23 },
+  nutricion: { kcal: 645, prot: 37, hc: 65, grasa: 25 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3 días en la nevera con el aliño aparte. El arroz integral cocido se congela muy bien en raciones: cuece un kilo de golpe y tendrás base para varios bowls. Revisa que el tamari lleve sello sin gluten.",
   tupper: true,
@@ -584,7 +583,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "microondas"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 180, u: "g" },
@@ -603,15 +602,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y cuécelo con 220 ml de agua, tapado, a fuego mínimo 12 minutos. Deja reposar 10 minutos sin destapar.",
-    "Mientras se cuece y reposa el arroz, bate los huevos con sal y cuaja una tortilla fina en una sartén antiadherente a fuego medio-bajo, 2 minutos por lado. Córtala en tiras largas.",
-    "Pon las espinacas en un bol tapado en el microondas 1 minuto, hasta que se ablanden. Escúrrelas apretando y alíñalas con el tamari y 1 cucharadita de aceite de sésamo.",
+    "Mientras se cuece y reposa el arroz, bate los huevos con sal y cuaja una tortilla fina en una sartén antiadherente a fuego medio-bajo, 2 minutos por lado. Sácala y córtala en tiras largas.",
+    "En la misma sartén, saltea las espinacas con 1 cucharadita de aceite de sésamo 1 minuto, hasta que se ablanden. Escúrrelas apretando y alíñalas con el tamari.",
     "Corta la zanahoria y el pepino en bastones finos. Mezcla el atún bien escurrido con la mayonesa.",
     "Mezcla el arroz con el resto del aceite de sésamo, el sésamo y sal. Deja templar.",
     "Pon una hoja de nori con la cara brillante hacia abajo sobre film. Extiende un tercio del arroz en capa fina dejando 3 cm libres en el borde de arriba.",
     "Coloca en hilera tiras de tortilla, espinacas, zanahoria, pepino y atún. Enrolla apretando con ayuda del film y humedece el borde libre para sellar. Repite con las otras dos hojas.",
     "Deja reposar 5 minutos y corta cada rollo en 8 rodajas con un cuchillo mojado. Colócalas de pie en el tupper bien juntas."
   ],
-  nutricion: { kcal: 610, prot: 36, hc: 76, grasa: 18 },
+  nutricion: { kcal: 625, prot: 33, hc: 78, grasa: 19 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "para niños", "poco especiada"],
   consejo: "Mejor comerlo el mismo día o al siguiente; si lo guardas en la nevera, sácalo 20 minutos antes para que el arroz recupere textura. Usa tamari con sello sin gluten.",
   tupper: true,
@@ -992,7 +991,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "microondas"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "arroz integral", q: 160, u: "g" },
@@ -1012,14 +1011,12 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y extiéndelo para que se enfríe.",
-    "Mientras se cuece el arroz, ralla el jengibre y el ajo y mézclalos con el tamari, la miel, el vinagre, la maicena y 4 cucharadas de agua.",
+    "Cuece el arroz integral en abundante agua con sal 28-30 minutos; en los últimos 4 minutos añade el edamame a la misma cazuela. Escúrrelo todo y extiéndelo para que se enfríe.",
+    "Mientras se cuece el arroz, ralla el jengibre y el ajo y mézclalos con el tamari, la miel, el vinagre, la maicena y 4 cucharadas de agua. Corta la col lombarda en juliana muy fina y aderézala con unas gotas de vinagre y una pizca de sal. Pica la cebolleta.",
     "Dora el pollo en una sartén con el aceite a fuego fuerte 6-7 minutos, hasta que esté bien dorado. Vierte la salsa y cocina 1-2 minutos removiendo, hasta que espese y el pollo quede glaseado.",
-    "Cuece el edamame en el microondas con 2 cucharadas de agua, tapado, 3 minutos, y enfríalo.",
-    "Corta la col lombarda en juliana muy fina y aderézala con unas gotas de vinagre y una pizca de sal. Pica la cebolleta.",
-    "Reparte en tuppers el arroz, el pollo con su salsa, el edamame, la col y la piña. Espolvorea sésamo y cebolleta picada."
+    "Reparte en tuppers el arroz con el edamame, el pollo con su salsa, la col y la piña. Espolvorea sésamo y cebolleta picada."
   ],
-  nutricion: { kcal: 740, prot: 48, hc: 91, grasa: 20 },
+  nutricion: { kcal: 735, prot: 43, hc: 92, grasa: 20 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Se come frío o con 1 minuto de microondas (sin la col ni la piña). Aguanta 3 días. Con tamari en lugar de salsa de soja es apto sin gluten.",
   tupper: true,

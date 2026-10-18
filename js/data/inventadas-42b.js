@@ -325,7 +325,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "microondas"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pepino", q: 2, u: "ud" },
@@ -342,14 +342,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el arroz integral en abundante agua con sal 28-30 minutos, escúrrelo y déjalo enfriar extendido.",
+    "Cuece el arroz integral en abundante agua con sal 28-30 minutos; en los últimos 4 minutos añade el edamame a la misma cazuela. Escurre y deja enfriar extendido.",
     "Mientras se cuece el arroz, pon la wakame a hidratar en agua fría 8-10 minutos. Corta el pepino en rodajas muy finas, mézclalo con una pizca de sal y déjalo 10 minutos.",
     "Mientras esperan, ralla el jengibre y prepara el aliño disolviendo el azúcar en el vinagre con la salsa de soja y el jengibre. Corta el surimi en tiras.",
     "Escurre la wakame apretando y trocéala si las hojas son grandes. Escurre el pepino apretando con las manos y mézclalos con el aliño.",
-    "Cuece el edamame en el microondas con 2 cucharadas de agua, tapado, 3 minutos, y enfríalo.",
-    "Reparte en tuppers el arroz, el sunomono con su aliño, el edamame y el surimi. Termina con sésamo."
+    "Reparte en tuppers el arroz con el edamame, el sunomono con su aliño y el surimi. Termina con sésamo."
   ],
-  nutricion: { kcal: 425, prot: 24, hc: 63, grasa: 8 },
+  nutricion: { kcal: 455, prot: 25, hc: 66, grasa: 9 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "ligera", "económica", "verano", "superalimentos", "poco especiada"],
   consejo: "El pepino avinagrado aguanta 3 días y gana sabor. El surimi suele llevar almidón de trigo: si necesitas la versión sin gluten, cámbialo por gambas cocidas y usa tamari en lugar de salsa de soja.",
   alternativa: "Si no encuentras wakame deshidratada, añade media hoja de nori en tiras al servir para el toque de mar y sube el pepino a 2 y medio; la textura cambia poco.",

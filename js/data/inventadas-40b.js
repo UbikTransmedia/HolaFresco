@@ -6,7 +6,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 window.RECETAS_SEED.push({
   id: "inv-1986",
   nombre: "Sopa de calabaza, alubias blancas y salvia con parmesano",
-  subtitulo: "medio triturada para que quede cremosa y con tropezones",
+  subtitulo: "con parte de las alubias chafadas para que quede cremosa y con tropezones",
   origen: "inventada",
   categoria: "sopas-cremas",
   cocina: "mediterránea",
@@ -16,7 +16,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -37,11 +37,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla, la zanahoria, el apio, el ajo y la salvia. Pocha la cebolla, la zanahoria y el apio en el aceite 8 minutos a fuego medio. Añade el ajo y la salvia y remueve 1 minuto.",
     "Incorpora la calabaza y el caldo, lleva a ebullición y cuece 15 minutos, hasta que la calabaza esté tierna. Mientras, ralla el parmesano.",
-    "Saca un cazo de sopa con un tercio de las alubias, tritúralo y devuélvelo a la cazuela para darle cuerpo.",
-    "Añade el resto de las alubias y las espinacas y cuece 5 minutos. Salpimienta.",
+    "Añade las alubias y aplasta un tercio de ellas con el cucharón contra la pared de la cazuela, junto con algunos dados de calabaza, para darle cuerpo.",
+    "Incorpora las espinacas y cuece 5 minutos. Salpimienta.",
     "Reparte en tuppers y guarda el parmesano rallado aparte para añadirlo al servir."
   ],
-  nutricion: { kcal: 390, prot: 19, hc: 44, grasa: 15 },
+  nutricion: { kcal: 435, prot: 21, hc: 49, grasa: 16 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "de cuchara", "vegetariana", "ligera", "sin gluten", "fácil", "económica", "invierno", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 5 días en la nevera y 3 meses congelada sin el parmesano. Descongela en la nevera y recalienta 3 minutos a 800 W removiendo a mitad. Si tienes una corteza de parmesano, cuécela con la sopa y retírala al final: da mucho sabor.",
   alternativa: "Si no encuentras salvia fresca, usa ½ cdta de salvia seca o una ramita pequeña de romero que retirarás antes de triturar.",
@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 55,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "bol"],
+  equipo: ["horno", "cazuela"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -309,12 +309,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava la quinoa y cuécela en 200 ml de agua con sal 12 minutos tapada; deja reposar 5 minutos.",
     "Mientras, precalienta el horno a 190 °C. Ralla el calabacín, sálalo, déjalo 10 minutos en un colador y escúrrelo apretando. Mientras escurre, pica la cebolleta y la menta, desmenuza el feta y parte los tomates cherry por la mitad.",
-    "Bate los huevos y mézclalos con la quinoa, el calabacín, la cebolleta, el feta, la menta y pimienta.",
+    "Añade a la cazuela de la quinoa el calabacín, la cebolleta, el feta, la menta y pimienta. Casca encima los huevos y mézclalo todo bien con una cuchara hasta que no queden hebras de clara.",
     "Vierte en un molde de unos 20 x 15 cm forrado con papel y untado con el aceite, y coloca los tomates cherry encima.",
     "Hornea 30 minutos, hasta que esté dorado y firme al tocarlo.",
     "Deja templar 10 minutos y corta en 6 cuadrados antes de repartir."
   ],
-  nutricion: { kcal: 450, prot: 22, hc: 42, grasa: 21 },
+  nutricion: { kcal: 465, prot: 24, hc: 41, grasa: 22 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil", "verduras escondidas", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelado en porciones envueltas. Descongela en la nevera. Se come frío, o templado con 40-60 segundos a 600 W. Acompáñalo con una ensalada verde para completar el plato.",
   tupper: true
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1995",
   nombre: "Ensalada de pasta integral con atún, judías verdes, huevo duro y aceitunas",
-  subtitulo: "pasta y judías cocidas en la misma olla, aliño de mostaza",
+  subtitulo: "pasta, judías y huevos cocidos en la misma olla, aliño de mostaza",
   origen: "inventada",
   categoria: "ensaladas",
   cocina: "mediterránea",
@@ -443,13 +443,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal para la pasta y otro cazo con agua para los huevos. Mientras se calientan, corta las judías verdes en tramos de 3 cm.",
-    "Cuece la pasta y, seis minutos antes del final, añade las judías verdes. A la vez, cuece los huevos 10 minutos en el otro cazo. Mientras, parte los tomates cherry, corta la cebolla morada en juliana fina y bate el vinagre con la mostaza, el orégano, el aceite y sal.",
-    "Escurre la pasta y las judías y refréscalas con agua fría. Enfría los huevos en agua fría, pélalos y córtalos en cuartos.",
+    "Pon a hervir abundante agua con sal en una cazuela grande. Mientras se calienta, corta las judías verdes en tramos de 3 cm.",
+    "Cuando hierva, introduce los huevos con cuidado y añade la pasta; seis minutos antes del final de la pasta, incorpora las judías verdes. A los 10 minutos saca los huevos con una espumadera y enfríalos en agua fría. Mientras cuece todo, parte los tomates cherry, corta la cebolla morada en juliana fina y bate el vinagre con la mostaza, el orégano, el aceite y sal.",
+    "Escurre la pasta y las judías y refréscalas con agua fría. Pela los huevos y córtalos en cuartos.",
     "Mezcla la pasta y las judías con el atún, los tomates cherry, las aceitunas, la cebolla morada y el aliño.",
     "Reparte en tuppers y coloca el huevo encima."
   ],
-  nutricion: { kcal: 565, prot: 38, hc: 56, grasa: 21 },
+  nutricion: { kcal: 600, prot: 39, hc: 61, grasa: 21 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "rápida", "alta en proteína", "fácil", "económica", "verano", "poco especiada"],
   consejo: "Aguanta 3-4 días en la nevera; si la vas a comer el cuarto día, pela el huevo ese mismo día. No se congela. Se come fría; si la pasta ha absorbido el aliño, añade un chorrito de aceite o vinagre antes de comer.",
   tupper: true
@@ -534,13 +534,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon la pechuga en un cazo con agua fría, sal y unas láminas de jengibre. Cuando hierva, tapa, baja al mínimo y deja 12 minutos; apaga y reposa 5 minutos en el agua. Desmenúzala.",
-    "Mientras se hace el pollo, pon a hervir agua para los soba, ralla el resto del jengibre, corta la zanahoria y la col en juliana fina y pica la cebolleta.",
-    "Cuece los fideos soba según el paquete (4-5 minutos), añadiendo el edamame los últimos 3 minutos. Escurre y lava bajo agua fría frotando para quitar el almidón.",
+    "Pon la pechuga en una cazuela con abundante agua fría, sal y unas láminas de jengibre. Cuando hierva, tapa, baja al mínimo y deja 12 minutos; apaga y reposa 5 minutos en el agua. Mientras se hace el pollo, ralla el resto del jengibre, corta la zanahoria y la col en juliana fina y pica la cebolleta.",
+    "Saca el pollo y las láminas de jengibre y vuelve a llevar el agua a ebullición. Mientras, desmenuza el pollo.",
+    "Cuece los fideos soba en esa agua según el paquete (4-5 minutos), añadiendo el edamame los últimos 3 minutos. Escurre y lava bajo agua fría frotando para quitar el almidón.",
     "Mezcla la crema de cacahuete con la salsa de soja, el vinagre, la miel, el aceite de sésamo, el zumo de la lima, el jengibre rallado y 2-3 cucharadas de agua tibia, hasta que quede una salsa que nape.",
     "Mezcla los fideos, el edamame, el pollo y las verduras con la salsa, espolvorea el sésamo y reparte en tuppers."
   ],
-  nutricion: { kcal: 600, prot: 50, hc: 69, grasa: 14 },
+  nutricion: { kcal: 665, prot: 47, hc: 65, grasa: 24 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y se come fría. Si los fideos se apelmazan, suéltalos con una cucharada de agua o un chorrito de lima. No se congela. Los soba suelen llevar trigo: si necesitas sin gluten, usa soba 100 % trigo sarraceno o fideos de arroz y tamari.",
   tupper: true
@@ -650,7 +650,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 150,
   dificultad: "fácil",
-  equipo: ["cazuela", "microondas"],
+  equipo: ["cazuela"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -676,12 +676,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la cebolla en juliana y el ajo y el jengibre en láminas. Salpimienta la carrillada y dórala en el aceite a fuego fuerte 6 minutos, hasta que tenga costra por todos los lados.",
     "Añade la cebolla, el ajo y el jengibre y rehoga 4 minutos. Incorpora las cinco especias y el anís y remueve 30 segundos.",
-    "Vierte el tamari, el azúcar, el vinagre y el caldo. Tapa y cuece a fuego mínimo 2 horas (o 40 minutos en olla exprés), hasta que la carne se deshaga con un tenedor. Mientras, corta la zanahoria en rodajas gruesas y pica la cebolleta.",
+    "Vierte el tamari, el azúcar, el vinagre y el caldo. Tapa y cuece a fuego mínimo 2 horas (o 40 minutos en olla exprés), hasta que la carne se deshaga con un tenedor. Mientras, corta la zanahoria en rodajas gruesas, el brócoli en ramilletes y pica la cebolleta.",
     "Añade la zanahoria cuando falten 30 minutos.",
-    "Destapa y reduce la salsa 5-10 minutos, hasta que quede glaseada. Mientras, cuece el arroz con 280 ml de agua 12 minutos tapado y el brócoli en el microondas, tapado con 2 cucharadas de agua, 3 minutos a 800 W.",
+    "Destapa y reduce la salsa 5-10 minutos, hasta que quede glaseada. Mientras, cuece el arroz con 280 ml de agua tapado a fuego mínimo; a los 8 minutos coloca el brócoli encima, vuelve a tapar y deja 4 minutos más para que se haga al vapor.",
     "Reparte el arroz, el brócoli y la carrillada con su salsa; la cebolleta, por encima."
   ],
-  nutricion: { kcal: 690, prot: 51, hc: 76, grasa: 20 },
+  nutricion: { kcal: 750, prot: 55, hc: 78, grasa: 23 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "alta en proteína", "sin gluten", "fácil", "invierno"],
   consejo: "Mejor al día siguiente. Aguanta 5 días en la nevera y 3 meses congelada en su salsa. Descongela en la nevera y recalienta tapada 3 minutos a 800 W. Cocinar el doble de carrillada no cuesta más trabajo: congela la mitad.",
   alternativa: "En olla exprés, la carrillada queda tierna en 40-45 min desde que sube la válvula en vez de 2 h; sin cinco especias chinas, mezcla una pizca de canela, clavo, pimienta negra y semillas de hinojo.",
@@ -834,9 +834,9 @@ window.RECETAS_SEED.push({
   coste: "media",
   momentos: ["comida", "cena"],
   proteina: "mixto",
-  tiempo: 50,
+  tiempo: 45,
   dificultad: "fácil",
-  equipo: ["horno", "sartén"],
+  equipo: ["horno"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -852,14 +852,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Mezcla la coliflor con media cucharada de aceite y sal y ásala en una fuente 15 minutos.",
-    "Mientras, pica la cebolla y el ajo. Pocha la cebolla en el resto del aceite 6 minutos. Añade el ajo y el ras el hanout y remueve 30 segundos.",
-    "Incorpora el tomate y cocina 8 minutos. Añade los garbanzos y prueba de sal.",
-    "Vierte la salsa sobre la coliflor, mezcla y reparte el feta desmenuzado por encima.",
-    "Hornea 20 minutos, hasta que el queso se dore y la salsa burbujee. Mientras, pica el perejil.",
+    "Precalienta el horno a 200 °C y, mientras se calienta, pica la cebolla y el ajo. Mezcla en una fuente la coliflor y la cebolla con el aceite y sal y ásalas 15 minutos.",
+    "Mientras, pica el perejil y desmenuza el feta.",
+    "Saca la fuente y añade el tomate, el ajo, el ras el hanout, los garbanzos y sal. Mezcla bien con la coliflor y reparte el feta por encima.",
+    "Hornea 20-25 minutos, hasta que el queso se dore y la salsa burbujee y espese.",
     "Espolvorea el perejil y reparte en tuppers."
   ],
-  nutricion: { kcal: 410, prot: 20, hc: 39, grasa: 19 },
+  nutricion: { kcal: 420, prot: 18, hc: 37, grasa: 20 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelado. Descongela en la nevera y recalienta tapado 3 minutos a 700 W. Acompáñalo con un poco de arroz o pan de pita si lo quieres más saciante.",
   alternativa: "Si no tienes ras el hanout, mezcla 1 cdta de comino, ½ de cúrcuma, ¼ de canela y ¼ de jengibre molido: el gratín conserva su aroma especiado.",
@@ -1061,7 +1060,7 @@ window.RECETAS_SEED.push({
   proteina: "pavo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén", "batidora"],
+  equipo: ["horno", "cazuela"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -1081,13 +1080,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C y, mientras se calienta, parte los tomates en mitades, la cebolla en gajos y el calabacín en medias lunas. Ponlos en una bandeja con los ajos, una cucharada de aceite, sal y el orégano. Asa 25 minutos.",
-    "Mientras, pon a hervir agua con sal para la pasta y saltea el pavo salpimentado en el resto del aceite 4-5 minutos, hasta que esté dorado.",
+    "Mientras, pon a hervir agua con sal para la pasta y mezcla el pavo con el resto del aceite, sal y pimienta. Cuando falten 12 minutos de horno, añádelo a la bandeja junto a las verduras para que se dore.",
     "Cuece la pasta 1 minuto menos de lo que indique el paquete y reserva 100 ml del agua de cocción.",
-    "Aparta el calabacín y tritura los tomates, la cebolla y los ajos pelados con un poco del agua de cocción hasta tener una salsa.",
-    "Mezcla la pasta con la salsa, el calabacín y el pavo. Añade la ricotta a cucharadas y la albahaca rota con los dedos.",
+    "Aparta el calabacín y el pavo a un lado de la bandeja. Pela los ajos asados y, en la misma bandeja, aplasta con un tenedor los tomates, la cebolla y los ajos con un poco del agua de cocción hasta tener una salsa rústica; retira las pieles del tomate que se suelten.",
+    "Vuelca la pasta escurrida en la bandeja y mézclala con la salsa, el calabacín y el pavo. Añade la ricotta a cucharadas y la albahaca rota con los dedos.",
     "Reparte en tuppers."
   ],
-  nutricion: { kcal: 620, prot: 46, hc: 67, grasa: 18 },
+  nutricion: { kcal: 655, prot: 47, hc: 74, grasa: 18 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil", "económica", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 2 meses congelada (la pasta queda algo más blanda). Recalienta 2-3 minutos a 800 W con un chorrito de agua. La salsa de tomate asado sola se congela de maravilla: haz el doble.",
   tupper: true

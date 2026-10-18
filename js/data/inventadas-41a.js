@@ -627,7 +627,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 18,
   dificultad: "fácil",
-  equipo: ["microondas", "bol"],
+  equipo: ["microondas"],
   coccion: ["microondas"],
   raciones: 1,
   ingredientes: [
@@ -645,8 +645,8 @@ window.RECETAS_SEED.push({
     "Limpia los mejillones bajo el grifo, quítales las barbas tirando hacia la punta y desecha los que estén rotos o abiertos que no se cierren al golpearlos.",
     "Pica el ajo y ralla el tomate. En una fuente grande apta para microondas mézclalos con el aceite y el curry, y cocina a 800 W durante 2 minutos.",
     "Añade el vino y los mejillones, tapa bien y cocina a 800 W durante 4-5 minutos, removiendo a mitad, hasta que se abran todos. Desecha los que sigan cerrados. Mientras, pica el cilantro.",
-    "Pasa los mejillones a un cuenco y el líquido de la fuente a un bol; deja templar 1 minuto y mézclalo con el yogur batiendo con unas varillas, para que no se corte.",
-    "Vierte la salsa sobre los mejillones, espolvorea el cilantro, exprime el limón por encima y sirve."
+    "Aparta los mejillones a un lado de la fuente o sácalos al plato de servir. Deja templar el líquido 1 minuto e incorpora el yogur batiendo con un tenedor, para que no se corte.",
+    "Vuelve a mezclar los mejillones con la salsa, espolvorea el cilantro, exprime el limón por encima y sirve."
   ],
   nutricion: { kcal: 470, prot: 37, hc: 24, grasa: 23 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "económica"],
