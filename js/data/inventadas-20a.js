@@ -180,7 +180,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 18,
   dificultad: "fácil",
-  equipo: ["batidora", "cazuela", "sartén"],
+  equipo: ["batidora", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pepino", q: 2, u: "ud" },
@@ -198,13 +198,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lleva un cazo de agua a ebullición, baja los huevos con cuidado y cuécelos exactamente 6 minutos. Pásalos a agua con hielo y pélalos con cuidado: la yema debe quedar líquida.",
-    "Mientras, trocea los pepinos (con la piel si es fina), el pimiento sin semillas, la cebolleta, el ajo y la lechuga.",
+    "Tuesta las almendras en un cazo en seco a fuego medio 3 minutos, moviéndolas, hasta que huelan y se doren; sácalas y pícalas groseramente si son enteras. Llena el cazo de agua, llévalo a ebullición, baja los huevos con cuidado y cuécelos exactamente 6 minutos. Pásalos a agua con hielo y pélalos con cuidado: la yema debe quedar líquida.",
+    "Mientras se cuecen, trocea los pepinos (con la piel si es fina), el pimiento sin semillas, la cebolleta, el ajo y la lechuga.",
     "Tritúralos con las hojas de albahaca, el pan, el vinagre, el agua, una pizca de sal y 1 cucharada de aceite durante 1-2 minutos, hasta que quede muy verde y fino. Prueba y ajusta de sal y vinagre.",
-    "Tuesta las almendras en la sartén sin aceite a fuego medio 3 minutos, moviéndolas, hasta que huelan y se doren. Pícalas groseramente si son enteras.",
     "Sirve el gazpacho muy frío con dos huevos mollet abiertos por la mitad en cada plato, las almendras, unas hojitas de albahaca y la otra cucharada de aceite."
   ],
-  nutricion: { kcal: 455, prot: 20, hc: 24, grasa: 31 },
+  nutricion: { kcal: 475, prot: 22, hc: 22, grasa: 32 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "verano", "poco especiada"],
   consejo: "Para que no se oxide y conserve el verde intenso, tritúralo justo antes de comer o guárdalo en un tarro lleno hasta arriba. Cambia la albahaca por hierbabuena o cilantro para variar el perfume.",
   contundencia: "ligera",
@@ -267,7 +266,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "puerro", q: 1, u: "ud" },
@@ -292,10 +291,10 @@ window.RECETAS_SEED.push({
     "Añade el caldo y lleva a ebullición. Cuece 8 minutos con la zanahoria. Mientras, corta el calabacín en dados y los espárragos en trozos de 2 cm (sin la parte dura).",
     "Añade el calabacín y los espárragos a la cazuela con las habas y cuece 5 minutos.",
     "Incorpora los guisantes y las judías blancas y cuece 3 minutos más, hasta que todo esté tierno pero verde. Prueba de sal.",
-    "Mientras, prepara el pesto: tritura las hojas de menta con las almendras, el parmesano, el ajo, la ralladura del limón, un chorrito de su zumo y el resto del aceite hasta obtener una pasta gruesa.",
+    "Mientras, prepara el pesto: ralla el parmesano y pica muy finos a cuchillo las hojas de menta, las almendras y el ajo; mézclalos con el parmesano, la ralladura del limón, un chorrito de su zumo y el resto del aceite hasta obtener una pasta gruesa.",
     "Sirve la sopa bien caliente y pon una cucharada generosa de pesto en el centro de cada plato, para mezclar en la mesa."
   ],
-  nutricion: { kcal: 445, prot: 24, hc: 40, grasa: 21 },
+  nutricion: { kcal: 515, prot: 26, hc: 44, grasa: 24 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Si quieres convertirla en un plato más contundente, cuece 60 g de pasta pequeña (ditalini, estrellitas) en el caldo. Guarda el pesto aparte: añadido al recalentar sabe como recién hecho.",
   contundencia: "ligera",
@@ -427,12 +426,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica fino la cebolla, la zanahoria, el apio y 2 ajos. Sofríelos en la cazuela con 2 cucharadas de aceite y las ramas de romero a fuego medio 8 minutos, hasta que estén blandos y empiecen a dorarse.",
-    "Añade el tomate concentrado y remueve 1 minuto. Incorpora los garbanzos y el caldo, lleva a ebullición y cuece 12 minutos a fuego suave. Mientras, tuesta el pan en la sartén o tostadora, frótalo con el ajo restante partido por la mitad y ralla el parmesano.",
+    "Añade el tomate concentrado y remueve 1 minuto. Incorpora los garbanzos y el caldo, lleva a ebullición y cuece 12 minutos a fuego suave. Mientras, tuesta el pan en una sartén, frótalo con el ajo restante partido por la mitad y ralla el parmesano.",
     "Retira el romero y tritura solo la mitad de la sopa con la batidora, de forma que quede cremosa pero con garbanzos enteros. Añade las espinacas y cuece 1 minuto, hasta que se ablanden. Prueba de sal.",
-    "Calienta el resto del aceite en un cazo pequeño con la guindilla desmenuzada 1 minuto a fuego bajo, sin que se queme.",
+    "En la misma sartén del pan, calienta el resto del aceite con la guindilla desmenuzada 1 minuto a fuego bajo, sin que se queme.",
     "Pon una tostada en el fondo de cada plato, vierte la sopa encima, cubre con el parmesano rallado y termina con el aceite de guindilla y pimienta. Sirve la otra tostada al lado."
   ],
-  nutricion: { kcal: 740, prot: 30, hc: 83, grasa: 32 },
+  nutricion: { kcal: 755, prot: 31, hc: 79, grasa: 33 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno"],
   consejo: "Si tienes una corteza de parmesano, cuécela con la sopa y retírala al triturar: le da un fondo sabroso increíble. Al día siguiente espesa mucho; aclárala con un poco de caldo o agua.",
   contundencia: "contundente",
@@ -441,7 +440,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-971",
-  nombre: "Crema de pimiento rojo asado y almendras con huevos poché y feta al orégano",
+  nombre: "Crema de pimiento rojo asado y almendras con huevos escalfados y feta al orégano",
   subtitulo: "dulce, ahumada y con yema líquida para mezclar",
   origen: "inventada",
   categoria: "sopas-cremas",
@@ -471,13 +470,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Parte los pimientos por la mitad, quita las semillas y colócalos con la piel hacia arriba en una bandeja con los tomates partidos, la cebolla en cuartos y los ajos. Riega con 1 cucharada de aceite, sala y asa 30 minutos, hasta que la piel de los pimientos esté ampollada y negra en algunos puntos.",
-    "Tapa los pimientos con un paño 5 minutos y pélalos; pela también los ajos. Pon a calentar un cazo de agua con el vinagre para los huevos.",
-    "Pasa todas las verduras a la cazuela con el caldo, las almendras, el pimentón y la mitad del orégano. Calienta 3 minutos y tritura hasta obtener una crema lisa. Prueba de sal y mantén caliente.",
-    "Para los huevos, deja el agua con el vinagre a un hervor muy suave. Casca cada huevo en un vaso, crea un remolino con una cuchara y deslízalo en el centro. Cuécelo 3 minutos, hasta que la clara esté cuajada y la yema líquida, y sácalo con una espumadera.",
-    "Desmenuza el feta y mézclalo con el resto del orégano y el último chorrito de aceite.",
-    "Sirve la crema con dos huevos poché por plato, el feta aliñado por encima y pimienta recién molida."
+    "Tapa los pimientos con un paño 5 minutos y pélalos; pela también los ajos.",
+    "Pasa todas las verduras a la cazuela con el caldo, las almendras, el pimentón, el vinagre y la mitad del orégano. Calienta 3 minutos y tritura hasta obtener una crema lisa. Prueba de sal.",
+    "Con la crema a fuego suave, haz cuatro huecos con una cuchara, casca un huevo en cada uno, tapa y cuece 4-5 minutos, hasta que la clara esté cuajada y la yema siga líquida.",
+    "Mientras, desmenuza el feta y mézclalo con el resto del orégano y el último chorrito de aceite.",
+    "Sirve la crema con dos huevos por plato, sacándolos con cuidado con un cucharón, el feta aliñado por encima y pimienta recién molida."
   ],
-  nutricion: { kcal: 450, prot: 22, hc: 27, grasa: 28 },
+  nutricion: { kcal: 510, prot: 24, hc: 30, grasa: 31 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "poco especiada"],
   consejo: "Para ahorrar tiempo, usa pimientos rojos asados en conserva: la crema estará lista en 15 minutos. La crema sola se congela muy bien; los huevos, siempre al momento.",
   contundencia: "ligera",
@@ -583,7 +582,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "alcachofas en conserva", q: 1, u: "bote", nota: "unos 240 g escurridas" },
@@ -601,12 +600,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el puerro en rodajas, lamina el ajo y rehógalos en la cazuela con 1 cucharada de aceite y las hojas de una rama de tomillo a fuego medio 5 minutos, hasta que el puerro esté blando. Mientras, pela la patata y córtala en dados pequeños.",
-    "Añade la patata, las alcachofas escurridas (reserva 2 para decorar) y el caldo. Cuece 15 minutos, hasta que la patata se deshaga al pincharla. Mientras, coloca las lonchas de jamón en una sartén fría sin aceite y calienta a fuego medio 3-4 minutos, dándoles la vuelta, hasta que estén crujientes. Escúrrelas sobre papel y rómpelas en trozos. Dora en la misma sartén las alcachofas reservadas, cortadas en cuartos, 2 minutos.",
+    "Coloca las lonchas de jamón en la cazuela fría sin aceite y calienta a fuego medio 3-4 minutos, dándoles la vuelta, hasta que estén crujientes. Mientras, corta el puerro en rodajas, lamina el ajo y escurre las alcachofas. Saca el jamón a un papel y rómpelo en trozos.",
+    "Corta 2 alcachofas en cuartos y dóralas en la misma cazuela 2 minutos; sácalas. Añade 1 cucharada de aceite, el puerro, el ajo y las hojas de una rama de tomillo y rehoga a fuego medio 5 minutos, hasta que el puerro esté blando. Mientras, pela la patata y córtala en dados pequeños.",
+    "Añade la patata, el resto de las alcachofas y el caldo. Cuece 15 minutos, hasta que la patata se deshaga al pincharla.",
     "Incorpora las judías blancas y la ralladura de medio limón y cuece 2 minutos más. Tritura hasta obtener una crema muy fina; aclara con un poco de agua si queda espesa. Ajusta de sal y añade un chorrito de zumo de limón.",
     "Sirve la crema con las alcachofas doradas, el jamón crujiente, las hojas del otro tomillo, la ralladura restante y un hilo de aceite."
   ],
-  nutricion: { kcal: 440, prot: 22, hc: 48, grasa: 18 },
+  nutricion: { kcal: 450, prot: 24, hc: 40, grasa: 19 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "invierno", "poco especiada"],
   consejo: "En temporada (de noviembre a abril) hazla con 6 alcachofas frescas limpias y cocidas 15 minutos en el caldo: tendrá un sabor más vegetal. Para versión vegetariana, cambia el jamón por almendras tostadas y queso feta.",
   contundencia: "ligera",
@@ -684,14 +684,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon los huevos en agua fría, lleva a ebullición y cuécelos 10 minutos. Enfríalos en agua y pélalos.",
+    "Pon los huevos en un cazo con agua fría, lleva a ebullición y cuécelos 10 minutos. Enfríalos en agua y pélalos.",
     "Mientras, pica la cebolla y los ajos y rehógalos en la cazuela con 1 cucharada de aceite a fuego medio 5 minutos, hasta que estén transparentes. Añade 1 cucharadita de comino y remueve 30 segundos.",
     "Incorpora las habas y el caldo, lleva a ebullición y cuece 12 minutos. Añade los guisantes y cuece 3 minutos más, hasta que todo esté muy tierno. Mientras, pica el cilantro y tuesta la pita.",
     "Tritura hasta obtener una crema espesa y lisa, con el zumo de medio limón y sal. Si queda demasiado densa, aclárala con un poco de agua caliente.",
-    "Calienta las 2 cucharadas de aceite restantes en un cazo pequeño 1 minuto, aparta del fuego y añade el pimentón y el resto del comino; remueve 10 segundos.",
+    "Vacía y seca el cazo de los huevos, calienta en él las 2 cucharadas de aceite restantes 1 minuto, aparta del fuego y añade el pimentón y el resto del comino; remueve 10 segundos.",
     "Sirve la bissara con los huevos en cuartos, el aceite de pimentón por encima, el cilantro picado y la pita tostada en triángulos para mojar."
   ],
-  nutricion: { kcal: 540, prot: 26, hc: 51, grasa: 26 },
+  nutricion: { kcal: 590, prot: 27, hc: 51, grasa: 27 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "invierno", "poco especiada"],
   consejo: "La versión tradicional usa habas secas peladas cocidas 1 hora; con congeladas queda igual de cremosa en un tercio de tiempo. Unas aceitunas negras y un poco de harissa en la mesa la completan.",
   contundencia: "media",
@@ -934,7 +934,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "brócoli", q: 500, u: "g" },
@@ -952,13 +952,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos en agua 10 minutos desde que hierva, enfríalos en agua fría y pélalos.",
-    "Mientras, corta el puerro en rodajas, lamina 1 ajo y rehógalos en la cazuela con 1 cucharadita de aceite a fuego medio 4 minutos. Mientras se rehogan, corta el brócoli en ramilletes y el tallo pelado en rodajas.",
-    "Añade el brócoli y el caldo. Cuece tapado 7 minutos, solo hasta que esté tierno y siga verde brillante.",
-    "Mientras, haz las migas: desmenuza el pan en trocitos, pica fino el otro ajo y dóralos en la sartén con el resto del aceite a fuego medio 3 minutos, removiendo, hasta que estén dorados y crujientes. Pica los huevos duros.",
+    "Mientras, haz las migas: desmenuza el pan en trocitos, pica fino 1 ajo y dóralos en la cazuela con el aceite menos una cucharadita, a fuego medio, 3 minutos, removiendo, hasta que estén dorados y crujientes. Sácalos a un plato.",
+    "Corta el puerro en rodajas, lamina el otro ajo y rehógalos en la misma cazuela con la cucharadita de aceite restante a fuego medio 4 minutos. Mientras se rehogan, corta el brócoli en ramilletes y el tallo pelado en rodajas.",
+    "Añade el brócoli y el caldo. Cuece tapado 7 minutos, solo hasta que esté tierno y siga verde brillante. Mientras, pica los huevos duros.",
     "Tritura el brócoli con su caldo, las almendras, la ralladura del limón, un chorrito de su zumo, sal y pimienta hasta obtener una crema lisa.",
     "Sirve la crema con el huevo duro picado, las migas al ajo y un poco más de ralladura de limón."
   ],
-  nutricion: { kcal: 465, prot: 23, hc: 35, grasa: 26 },
+  nutricion: { kcal: 440, prot: 21, hc: 26, grasa: 27 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "invierno", "superalimentos", "poco especiada"],
   consejo: "No cuezas el brócoli más de 8 minutos o perderá el color y cogerá sabor a col. Añade dos anchoas picadas a las migas si te gustan: el toque salino le sienta de maravilla.",
   contundencia: "ligera",
@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "calamar", q: 400, u: "g", nota: "limpio, en anillas" },
@@ -1084,10 +1084,10 @@ window.RECETAS_SEED.push({
     "Baja a fuego medio y sofríe la cebolla con los ajos picados 6 minutos, hasta que esté blanda y dorada.",
     "Devuelve el calamar, vierte el vino y deja evaporar 2 minutos. Añade el tomate y el caldo, tapa y cuece a fuego suave 20 minutos, hasta que el calamar empiece a estar tierno. Mientras, pela las patatas y cáscalas en trozos pequeños.",
     "Incorpora las patatas y cuece 12 minutos más, hasta que estén tiernas y suelten almidón. Añade los guisantes en los últimos 4 minutos. Prueba de sal.",
-    "Mientras, tritura las hojas de albahaca con el último ajo, las 2 cucharadas de aceite restantes, una pizca de sal y unas gotas de limón, hasta obtener un aceite verde.",
+    "Mientras, pica muy finas a cuchillo las hojas de albahaca con el último ajo y mézclalas con las 2 cucharadas de aceite restantes, una pizca de sal y unas gotas de limón, hasta obtener un aceite verde.",
     "Sirve la sopa caliente con un buen chorro de aceite de albahaca por encima y pimienta recién molida."
   ],
-  nutricion: { kcal: 610, prot: 41, hc: 60, grasa: 23 },
+  nutricion: { kcal: 650, prot: 48, hc: 55, grasa: 23 },
   etiquetas: ["mediterránea", "aromática", "batch cooking", "invierno", "poco especiada"],
   consejo: "La clave para un calamar tierno es elegir: o muy poco tiempo (2 minutos) o cocción larga (más de 20). Puedes usar sepia en lugar de calamar con la misma receta, alargando la cocción 10 minutos.",
   contundencia: "media",

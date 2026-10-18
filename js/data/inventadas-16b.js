@@ -509,7 +509,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-798",
-  nombre: "Vignarola de habas, guisantes y alcachofas estofadas con menta y huevo poché",
+  nombre: "Vignarola de habas, guisantes y alcachofas estofadas con menta y huevo escalfado",
   subtitulo: "estofado romano de primavera con vino blanco y parmesano",
   origen: "inventada",
   categoria: "legumbres",
@@ -540,12 +540,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas, pártelas en cuartos y sumérgelas en agua con el zumo de medio limón para que no se oscurezcan.",
     "Pica las cebolletas y sofríelas en el aceite en una cazuela a fuego medio 4 minutos, hasta que estén blandas.",
-    "Añade las alcachofas escurridas, sala y saltea 3 minutos. Vierte el vino y deja que se evapore 1 minuto. Añade el caldo, tapa y cuece 10 minutos, hasta que estén tiernas al pincharlas. Mientras, pon a calentar agua en un cazo para los huevos, corta la lechuga en tiras, pica la menta y ralla el parmesano.",
+    "Añade las alcachofas escurridas, sala y saltea 3 minutos. Vierte el vino y deja que se evapore 1 minuto. Añade el caldo, tapa y cuece 10 minutos, hasta que estén tiernas al pincharlas. Mientras, corta la lechuga en tiras, pica la menta y ralla el parmesano.",
     "Incorpora las habas, los guisantes y la lechuga. Cocina destapado 5 minutos, hasta que estén tiernos y verde brillante. Salpimienta y añade la mitad de la menta.",
-    "Mientras, escalfa los huevos 3 minutos en agua a punto de hervir con un chorrito de vinagre o de limón, hasta que la clara esté cuajada y la yema líquida.",
-    "Sirve el estofado en platos hondos con el huevo encima, el parmesano, ralladura de limón, la menta restante y un hilo de aceite."
+    "Haz dos huecos en el estofado con una cuchara, casca un huevo en cada uno, tapa y cuece a fuego suave 4–5 minutos, hasta que la clara esté cuajada y la yema siga líquida.",
+    "Sirve el estofado en platos hondos con un huevo encima de cada ración, el parmesano, ralladura de limón, la menta restante y un hilo de aceite."
   ],
-  nutricion: { kcal: 454, prot: 28, hc: 36, grasa: 22 },
+  nutricion: { kcal: 545, prot: 32, hc: 38, grasa: 23 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "primavera", "de cuchara", "poco especiada"],
   consejo: "Con alcachofas en conserva bien escurridas ahorras la limpieza y 10 minutos de cocción. Unas lascas de jamón serrano crujiente encima la convierten en plato de fiesta.",
   contundencia: "ligera",
@@ -608,7 +608,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["cazuela", "horno", "batidora"],
+  equipo: ["cazuela", "horno"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas beluga secas", q: 120, u: "g" },
@@ -628,13 +628,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pon las lentejas en un cazo con el laurel y el triple de agua fría, lleva a ebullición y cuece a fuego suave 20–22 minutos, hasta que estén tiernas pero enteras. Sala al final y escurre.",
-    "Corta el hinojo en gajos finos, mézclalo en una bandeja con media cucharada de aceite y sal, y hornea 10 minutos.",
+    "Mientras se cuecen, corta el hinojo en gajos finos, mézclalo en una bandeja con media cucharada de aceite y sal, y hornea 10 minutos.",
     "Salpimienta el salmón, colócalo en la bandeja junto al hinojo con unas rodajas de limón y hornea 10–12 minutos más, hasta que al presionarlo las láminas se separen y el centro siga jugoso.",
-    "Mientras, tritura el perejil, la albahaca, las alcaparras, el ajo, la mostaza, el zumo de medio limón, el resto del aceite y 2 cucharadas de agua hasta obtener una salsa verde fluida con algo de textura.",
+    "Mientras, pica muy fino a cuchillo el perejil, la albahaca, las alcaparras y el ajo, y mézclalos en un vaso con la mostaza, el zumo de medio limón, el resto del aceite y 2 cucharadas de agua hasta obtener una salsa verde fluida con algo de textura.",
     "Mezcla las lentejas calientes con 2 cucharadas de la salsa verde y el hinojo asado.",
     "Sirve las lentejas con el salmón en lascas grandes encima y el resto de la salsa verde por encima."
   ],
-  nutricion: { kcal: 587, prot: 42, hc: 35, grasa: 31 },
+  nutricion: { kcal: 645, prot: 44, hc: 38, grasa: 32 },
   etiquetas: ["mediterránea", "aromática", "al horno", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "La salsa verde aguanta 2 días en la nevera cubierta de aceite y sirve también para pescado blanco o patatas. Si sobra salmón, desmígalo con las lentejas en una ensalada fría.",
   alternativa: "Si no encuentras lentejas beluga, usa pardinas (120 g, unos 20-25 min de cocción); y si no hay hinojo, asa en su lugar una cebolla morada en gajos con 2 ramas de apio.",
@@ -834,7 +834,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 70,
   dificultad: "media",
-  equipo: ["cazuela", "horno", "sartén"],
+  equipo: ["cazuela", "horno"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo desde la víspera" },
@@ -853,14 +853,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "La víspera, pon los garbanzos en remojo en agua fría abundante. Al día siguiente, escúrrelos y cuécelos en una cazuela con agua abundante y el laurel a fuego suave 55–60 minutos, hasta que estén muy tiernos. Sala en los últimos 10 minutos y reserva un vaso del caldo. Durante la cocción, ralla los dos ajos y pica el perejil.",
+    "La víspera, pon los garbanzos en remojo en agua fría abundante. Al día siguiente, escúrrelos y cuécelos en una cazuela con agua abundante y el laurel a fuego suave 55–60 minutos, hasta que estén muy tiernos. Sala en los últimos 10 minutos. Durante la cocción, ralla los dos ajos y pica el perejil.",
     "Mientras, precalienta el horno a 200 °C. Corta las pitas en cuadrados, píntalas con 1 cucharada de aceite y hornéalas 8–10 minutos, hasta que estén doradas y crujientes.",
     "Bate el yogur con la mitad del ajo, el tahini, el zumo de medio limón y una pizca de sal. Déjalo a temperatura ambiente.",
-    "Calienta los garbanzos escurridos con 4 cucharadas de su caldo, el comino, el resto del ajo y unas gotas de limón 2 minutos.",
-    "Dora las almendras en una sartén con la cucharada de aceite restante a fuego medio 2 minutos, hasta que estén doradas. Aparta del fuego y añade el pimentón.",
+    "Escurre los garbanzos reservando un vaso del caldo. En la cazuela vacía, dora las almendras con la cucharada de aceite restante a fuego medio 2 minutos, hasta que estén doradas. Aparta del fuego, añade el pimentón, remueve y sácalas con su aceite rojo a un plato.",
+    "En la misma cazuela calienta los garbanzos con 4 cucharadas de su caldo, el comino, el resto del ajo y unas gotas de limón 2 minutos.",
     "Monta en una fuente: la pita crujiente, encima los garbanzos con algo de su caldo, el yogur, las almendras con su aceite rojo y el perejil picado. Sirve al momento para que la pita conserve algo de crujiente."
   ],
-  nutricion: { kcal: 739, prot: 29, hc: 77, grasa: 35 },
+  nutricion: { kcal: 770, prot: 29, hc: 80, grasa: 35 },
   etiquetas: ["mediterránea", "aromática", "al horno", "económica", "sin verduras", "poco especiada"],
   consejo: "Con garbanzos de bote (400 g) lo tienes en 20 minutos. Cambia las almendras por piñones para la versión más festiva, como en Damasco.",
   contundencia: "contundente",

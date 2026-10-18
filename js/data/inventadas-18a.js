@@ -142,7 +142,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 15,
   dificultad: "fácil",
-  equipo: ["bol", "batidora"],
+  equipo: ["bol"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas cocidas", q: 400, u: "g", nota: "escurridas y enjuagadas" },
@@ -162,11 +162,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la cebolla morada en pluma muy fina y déjala en el zumo de medio limón con una pizca de sal mientras preparas lo demás: perderá el picor.",
     "Con un pelador, saca cintas largas del calabacín hasta llegar a las semillas. Sálalas ligeramente. Corta el tomate seco en tiras y pica las almendras.",
-    "Tritura las hojas de albahaca con el aceite, el ajo, el zumo del resto del limón, sal y 2 cucharadas de agua hasta obtener un aliño verde y fluido.",
+    "Pica muy finas a cuchillo las hojas de albahaca con el ajo y mézclalas en un vaso con el aceite, el zumo del resto del limón, sal y 2 cucharadas de agua hasta obtener un aliño verde y fluido.",
     "Tuesta las almendras picadas en una sartén seca 2-3 minutos, hasta que estén doradas.",
     "En un bol mezcla las lentejas, las cintas de calabacín, el tomate seco, las alcaparras y la cebolla con su jugo. Riega con el aliño, remueve con cuidado y termina con las almendras y pimienta."
   ],
-  nutricion: { kcal: 430, prot: 22, hc: 40, grasa: 20 },
+  nutricion: { kcal: 470, prot: 22, hc: 41, grasa: 23 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "sin cocción", "ideal para llevar", "verano", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si la llevas en táper, guarda el aliño aparte y mézclalo al comer: el calabacín se mantiene crujiente.",
   contundencia: "ligera",
@@ -184,7 +184,7 @@ window.RECETAS_SEED.push({
   proteina: "heura",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["sartén", "horno", "bol"],
+  equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "heura", q: 250, u: "g", nota: "en tiras o trocitos" },
@@ -205,14 +205,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Abre las pitas en dos, píntalas con 1 cucharada de aceite y espolvorea un poco de zumaque. Hornéalas 6-7 minutos, hasta que estén doradas y crujientes, y rómpelas en trozos.",
-    "Mezcla la heura con 1 cucharada de aceite, el ajo rallado, el comino, la mitad del zumaque restante y sal.",
+    "Precalienta el horno a 200 °C. Mezcla la heura en una bandeja con papel con 1 cucharada de aceite, el ajo rallado, el comino, la mitad del zumaque y sal, extiéndela y hornéala 12-14 minutos, removiendo a mitad, hasta que tenga bordes tostados.",
+    "Mientras, abre las pitas en dos, píntalas con 1 cucharada de aceite y espolvorea un poco de zumaque. Cuando la heura lleve 6 minutos, colócalas en el hueco libre de la bandeja y hornéalas 6-7 minutos, hasta que estén doradas y crujientes; luego rómpelas en trozos.",
     "Para el aliño, bate la melaza de granada con el zumo de limón, la última cucharada de aceite, el resto del zumaque y sal.",
     "Trocea la lechuga, el tomate, el pepino, los rábanos y la cebolleta en un bol grande; añade las hojas de perejil y menta.",
-    "Calienta una sartén a fuego fuerte y dora la heura 5-6 minutos, removiendo de vez en cuando, hasta que tenga bordes tostados.",
     "Justo antes de servir, mezcla la ensalada con el aliño y la pita crujiente y corona con la heura caliente."
   ],
-  nutricion: { kcal: 575, prot: 32, hc: 48, grasa: 28 },
+  nutricion: { kcal: 680, prot: 35, hc: 60, grasa: 31 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "alta en proteína", "verano", "poco especiada"],
   consejo: "Si no encuentras melaza de granada, mezcla 1 cucharada de vinagre balsámico con media cucharadita de azúcar moreno.",
   alternativa: "Sin zumaque, frota la heura con la ralladura de 1 limón y 0,5 cdta de pimentón dulce antes de dorarla, y añade unas gotas más de limón al aliño: el toque ácido se mantiene.",
@@ -618,7 +617,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz arborio", q: 140, u: "g" },
@@ -637,14 +636,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita la parte leñosa de los espárragos, corta las puntas y reserva; trocea los tallos en rodajas. Pica la chalota. Tuesta las almendras en una sartén seca 2 minutos y reserva.",
-    "En una cazuela con 1,5 cucharadas de aceite, pocha la chalota 3 minutos. Añade el arroz y nácaralo 1 minuto, hasta que los granos estén brillantes.",
+    "Quita la parte leñosa de los espárragos, corta las puntas y reserva; trocea los tallos en rodajas. Pica la chalota. Tuesta las almendras en la cazuela en seco 2 minutos y sácalas a un plato.",
+    "En la misma cazuela, con 1,5 cucharadas de aceite, pocha la chalota 3 minutos. Añade el arroz y nácaralo 1 minuto, hasta que los granos estén brillantes.",
     "Vierte el vino y deja que se evapore. Añade los tallos de espárrago y ve incorporando el caldo caliente cucharón a cucharón, removiendo a menudo y esperando a que se absorba, durante 16 minutos.",
     "A los 12 minutos añade las puntas de espárrago, los guisantes y las judías, aplastando unas cuantas con la cuchara para que den cremosidad.",
     "Cuando el arroz esté al dente y el conjunto fluya como una ola, apaga y añade la levadura nutricional, la ralladura y el zumo de limón y el resto del aceite. Remueve con energía 1 minuto y deja reposar tapado 2 minutos. Mientras, pica la menta.",
     "Sirve con la menta picada, las almendras y pimienta recién molida."
   ],
-  nutricion: { kcal: 600, prot: 24, hc: 81, grasa: 20 },
+  nutricion: { kcal: 695, prot: 26, hc: 92, grasa: 21 },
   etiquetas: ["mediterránea", "fácil", "aromática", "primavera", "poco especiada", "bajo en colesterol"],
   consejo: "Con las sobras haz arancini: forma bolitas con el risotto frío, pásalas por pan rallado y hornéalas 20 minutos a 200 °C.",
   contundencia: "media",
@@ -708,7 +707,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "pasta corta", q: 160, u: "g", nota: "tipo fusilli o busiate" },
@@ -725,13 +724,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal y cuece la pasta el tiempo indicado en el paquete.",
-    "Mientras, trocea los tomates y tuesta las almendras en una sartén seca a fuego medio 3-4 minutos, hasta que estén ligeramente doradas. Reserva un puñadito y pícalo para servir.",
-    "Tritura el resto de las almendras con el ajo hasta que queden como arena gruesa. Añade los tomates troceados, casi toda la albahaca, la levadura nutricional, la guindilla, sal y el aceite y tritura a pulsos: debe quedar una salsa rústica, no un puré liso.",
+    "Tuesta las almendras en la cazuela en seco a fuego medio 3-4 minutos, hasta que estén ligeramente doradas, y sácalas a un plato. Llena la cazuela de agua con sal y ponla a hervir. Mientras, trocea los tomates y pica un puñadito de las almendras para servir.",
+    "Cuando hierva, cuece la pasta el tiempo indicado en el paquete.",
+    "Mientras se cuece, tritura el resto de las almendras con el ajo hasta que queden como arena gruesa. Añade los tomates troceados, casi toda la albahaca, la levadura nutricional, la guindilla, sal y el aceite y tritura a pulsos: debe quedar una salsa rústica, no un puré liso.",
     "Calienta los garbanzos 2 minutos en el agua de la pasta (añádelos al final de la cocción) y escurre todo junto, reservando medio vaso de agua.",
     "Mezcla la pasta y los garbanzos con el pesto fuera del fuego, añadiendo un chorrito del agua de cocción si queda espeso. Sirve con las almendras reservadas picadas, hojas de albahaca y pimienta."
   ],
-  nutricion: { kcal: 770, prot: 26, hc: 85, grasa: 36 },
+  nutricion: { kcal: 775, prot: 25, hc: 80, grasa: 37 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "verano", "verduras escondidas"],
   consejo: "Este pesto no se calienta: así el tomate y la albahaca conservan todo su perfume. ¿Sobra pesto? Úsalo para untar tostas.",
   contundencia: "contundente",

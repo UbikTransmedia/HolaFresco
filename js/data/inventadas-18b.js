@@ -121,14 +121,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece los huevos en agua hirviendo 10 minutos y pásalos a agua fría. Pélalos y córtalos en cuartos.",
-    "Mientras, enjuaga las lentejas, escúrrelas bien y caliéntalas 1 minuto en el microondas o en un cazo con una cucharada de agua: templadas absorben mucho mejor el aliño.",
-    "Prepara la vinagreta: machaca el ajo con una pizca de sal, añade la mostaza, el vinagre, el orégano, las alcaparras picadas gruesas y 2 cucharadas de aceite (puedes usar parte del aceite del tomate seco). Bate con un tenedor hasta que emulsione.",
-    "Mezcla las lentejas templadas con la mitad de la vinagreta y deja reposar 5 minutos. Mientras, pica la cebolla morada fina, corta los cherry por la mitad y el tomate seco en tiras.",
+    "Pon agua a hervir en una cazuela y cuece los huevos 10 minutos. Mientras, enjuaga las lentejas y escúrrelas bien, y prepara la vinagreta: machaca el ajo con una pizca de sal, añade la mostaza, el vinagre, el orégano, las alcaparras picadas gruesas y 2 cucharadas de aceite (puedes usar parte del aceite del tomate seco). Bate con un tenedor hasta que emulsione.",
+    "Pasa los huevos a agua fría. Echa las lentejas al agua caliente de la cazuela 30 segundos y escúrrelas bien: templadas absorben mucho mejor el aliño.",
+    "Mezcla las lentejas templadas con la mitad de la vinagreta y deja reposar 5 minutos. Mientras, pela los huevos y córtalos en cuartos, pica la cebolla morada fina, corta los cherry por la mitad y el tomate seco en tiras.",
     "Añade a las lentejas la cebolla, los cherry y el tomate seco junto con la rúcula.",
     "Reparte en platos, coloca los cuartos de huevo encima, riega con el resto de la vinagreta y termina con pimienta negra recién molida."
   ],
-  nutricion: { kcal: 430, prot: 23, hc: 36, grasa: 21 },
+  nutricion: { kcal: 425, prot: 22, hc: 32, grasa: 22 },
   etiquetas: ["mediterránea", "fácil", "aromática", "rápida", "ligera", "económica", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "Las lentejas aliñadas aguantan 3 días en la nevera; añade la rúcula y el huevo solo al servir. Un puñado de queso feta desmigado la convierte en una cena aún más saciante.",
   contundencia: "ligera",
@@ -787,7 +786,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "cazuela"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "coliflor", q: 600, u: "g", nota: "una pequeña" },
@@ -807,12 +806,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta la coliflor en ramilletes medianos, aprovechando también las hojas tiernas, y mézclala en una bandeja con 1 cucharada de aceite y sal.",
     "Hornea 30-35 minutos, dándole la vuelta a mitad, hasta que esté tierna y con los bordes bien tostados. Ese tostado es el que da el sabor dulce y avellanado.",
-    "Mientras, hidrata las pasas en el zumo del limón y pica el perejil. Cuece los huevos 10 minutos, enfríalos y pélalos.",
-    "Pica las almendras y el ajo. En una sartén con 1 cucharadita de aceite tuesta el pan rallado, el ajo y las almendras a fuego medio 3-4 minutos, removiendo sin parar, hasta que estén dorados. Añade la ralladura del limón y la guindilla.",
-    "Saca la coliflor a un bol y alíñala aún caliente con las pasas y su zumo de limón, las alcaparras, el perejil picado, el resto del aceite y pimienta.",
+    "Mientras, hidrata las pasas en el zumo del limón y pica el perejil. Cuece los huevos 10 minutos, enfríalos y pélalos. Pica las almendras y el ajo y mézclalos con el pan rallado y 1 cucharadita de aceite.",
+    "A falta de 5 minutos, aparta la coliflor a un lado de la bandeja, esparce la mezcla de pan rallado en el hueco y deja que se tueste hasta que esté dorada, removiéndola una vez. Al sacarla, mézclala con la ralladura del limón y la guindilla.",
+    "Pasa la coliflor a un bol y alíñala aún caliente con las pasas y su zumo de limón, las alcaparras, el perejil picado, el resto del aceite y pimienta.",
     "Reparte en platos con los huevos en cuartos y cubre todo con el pan rallado crujiente justo antes de servir."
   ],
-  nutricion: { kcal: 440, prot: 19, hc: 34, grasa: 25 },
+  nutricion: { kcal: 445, prot: 19, hc: 30, grasa: 27 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "ligera", "económica", "invierno"],
   consejo: "El pan rallado tostado (pangrattato) es el parmesano de los pobres en Sicilia: haz un tarro y úsalo sobre pastas y verduras. La coliflor también admite romanesco o brócoli con el mismo tiempo.",
   contundencia: "ligera",
@@ -909,7 +908,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-907",
-  nombre: "Ensalada de alcachofas asadas y langostinos a la plancha con rúcula, lascas de parmesano y limón",
+  nombre: "Ensalada de alcachofas y langostinos asados con rúcula, lascas de parmesano y limón",
   subtitulo: "alcachofas frescas asadas al ajo y perejil, con pan tostado",
   origen: "inventada",
   categoria: "ensaladas",
@@ -918,7 +917,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["horno", "plancha"],
+  equipo: ["horno"],
   raciones: 2,
   ingredientes: [
     { n: "alcachofa", q: 4, u: "ud" },
@@ -938,13 +937,13 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Llena un bol con agua y el zumo de medio limón. Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas y amarillentas, corta el tercio superior, pela el tallo y pártelas en cuartos. Ve echándolas al agua con limón para que no se oxiden.",
     "Escúrrelas, sécalas y mézclalas en una bandeja con 1 cucharada de aceite, un ajo picado y sal. Hornea 25-30 minutos, dándoles la vuelta a mitad, hasta que estén tiernas por dentro y las puntas de las hojas crujientes y doradas.",
     "Mientras, pica el otro ajo con el perejil y mézclalo con la ralladura del limón, el zumo del medio restante y el resto del aceite.",
-    "Calienta la plancha a fuego fuerte. Sala los langostinos y márcalos 1 minuto por cada lado, hasta que estén rosados y ligeramente curvados. Tuesta el pan en la misma plancha.",
+    "A falta de 5 minutos, sala los langostinos, repártelos entre las alcachofas y pon el pan en un hueco de la bandeja. Hornea hasta que los langostinos estén rosados y ligeramente curvados y el pan tostado.",
     "Mezcla las alcachofas y los langostinos aún calientes con el aliño de perejil y limón.",
     "Sirve sobre la rúcula con las lascas de parmesano, pimienta recién molida y el pan tostado."
   ],
-  nutricion: { kcal: 450, prot: 34, hc: 38, grasa: 18 },
+  nutricion: { kcal: 455, prot: 38, hc: 28, grasa: 19 },
   etiquetas: ["mediterránea", "aromática", "al horno", "ligera", "alta en proteína", "invierno", "poco especiada"],
-  consejo: "Ponte guantes o frota las manos con limón al limpiar las alcachofas para que no se ennegrezcan. Fuera de temporada, usa un bote de corazones de alcachofa bien escurridos y dóralos solo 10 minutos en la plancha.",
+  consejo: "Ponte guantes o frota las manos con limón al limpiar las alcachofas para que no se ennegrezcan. Fuera de temporada, usa un bote de corazones de alcachofa bien escurridos y ásalos solo 10 minutos.",
   contundencia: "ligera",
   coste: "premium"
 });
@@ -960,7 +959,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "batidora"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 400, u: "g" },
@@ -984,11 +983,11 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C. Corta las patatas con piel en dados de 2 cm y el resto de verduras en trozos de 3 cm. Repártelas en una o dos bandejas sin amontonar, con 1 cucharada de aceite, las hojas del tomillo, sal y pimienta.",
     "Hornea 40-45 minutos, removiendo a mitad, hasta que las patatas estén doradas y las verduras tiernas y tostadas por los bordes.",
     "Mientras, cuece los huevos 9 minutos, enfríalos en agua y pélalos.",
-    "Prepara la tapenade: tritura las aceitunas con las alcaparras, las anchoas, el ajo, el zumo del medio limón y 2 cucharadas de aceite hasta tener una pasta gruesa. Aligérala con 1-2 cucharadas de agua para usarla como aliño.",
+    "Prepara la tapenade: pica muy fino a cuchillo las aceitunas, las alcaparras, las anchoas y el ajo, y mézclalos con el zumo del medio limón y 2 cucharadas de aceite hasta tener una pasta gruesa. Aligérala con 1-2 cucharadas de agua para usarla como aliño.",
     "Mezcla las verduras templadas con la mitad de la tapenade.",
     "Sirve con los huevos partidos por la mitad, el resto de la tapenade por encima y unas hojas de tomillo fresco."
   ],
-  nutricion: { kcal: 590, prot: 22, hc: 50, grasa: 33 },
+  nutricion: { kcal: 640, prot: 23, hc: 49, grasa: 37 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "económica", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "La tapenade aguanta una semana en la nevera cubierta de aceite y es perfecta para untar tostadas o aliñar pasta. Si quieres más proteína, añade una lata de atún o unos garbanzos a la bandeja.",
   contundencia: "media",

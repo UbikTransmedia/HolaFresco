@@ -298,7 +298,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-843",
-  nombre: "Pitas-pizza crujientes de berenjena a la plancha, tomate, mozzarella y orégano",
+  nombre: "Pitas-pizza crujientes de berenjena asada, tomate, mozzarella y orégano",
   subtitulo: "con rúcula aliñada y un toque de parmesano",
   origen: "inventada",
   categoria: "verduras",
@@ -307,7 +307,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["horno", "plancha"],
+  equipo: ["horno"],
   raciones: 2,
   ingredientes: [
     { n: "pan de pita", q: 4, u: "ud" },
@@ -323,13 +323,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C con calor arriba y abajo. Mezcla el tomate triturado con el ajo rallado, la mitad del orégano, una pizca de sal y 1 cucharada de aceite. Escurre y trocea la mozzarella.",
-    "Pinta las rodajas de berenjena con 1 cucharada de aceite y sálalas. Hazlas en una plancha o sartén muy caliente 2 minutos por lado, hasta que estén tiernas y marcadas.",
-    "Coloca las pitas en una bandeja, unta cada una con la salsa de tomate dejando un borde y reparte encima la berenjena y la mozzarella.",
+    "Precalienta el horno a 220 °C con calor arriba y abajo. Pinta las rodajas de berenjena con 1 cucharada de aceite, sálalas, extiéndelas en una bandeja con papel y hornéalas 8-10 minutos, hasta que estén tiernas y algo doradas.",
+    "Mientras, mezcla el tomate triturado con el ajo rallado, la mitad del orégano, una pizca de sal y 1 cucharada de aceite. Escurre y trocea la mozzarella.",
+    "Saca la berenjena a un plato y coloca las pitas en la misma bandeja. Unta cada una con la salsa de tomate dejando un borde y reparte encima la berenjena y la mozzarella.",
     "Hornea 8-10 minutos, hasta que el queso burbujee y los bordes de la pita estén crujientes y dorados.",
     "Saca, ralla el parmesano por encima, espolvorea el resto del orégano y termina con la rúcula aliñada con la última cucharada de aceite y pimienta negra."
   ],
-  nutricion: { kcal: 575, prot: 26, hc: 66, grasa: 23 },
+  nutricion: { kcal: 765, prot: 29, hc: 77, grasa: 37 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "al horno", "para niños", "económica", "poco especiada"],
   consejo: "Si tienes horno con grill, gratina los últimos 2 minutos para que el queso quede tostado. Prueba también con calabacín en láminas o con pimiento asado de bote.",
   contundencia: "media",
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["horno", "plancha", "sartén"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "berenjena", q: 2, u: "ud", nota: "alargadas, unos 600 g" },
@@ -365,14 +365,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta las berenjenas a lo largo en láminas de 0,5 cm (salen unas 12). Lamina 1 diente de ajo y ralla el parmesano. Pinta las berenjenas con 1,5 cucharadas de aceite, sálalas y hazlas en una plancha caliente 2 minutos por lado, hasta que estén flexibles y marcadas.",
-    "En una sartén con 1 cucharada de aceite, sofríe el ajo laminado 30 segundos, añade el tomate, unas hojas de albahaca y una pizca de sal y cocina 10 minutos a fuego medio, hasta que espese.",
-    "Mientras, saltea las espinacas en otra sartén sin aceite 2 minutos, hasta que mermen. Escúrrelas apretando bien, pícalas y mézclalas con la ricotta, la mitad del parmesano, el otro ajo rallado, la nuez moscada, sal y pimienta. Trocea la mozzarella.",
+    "Precalienta el horno a 200 °C. Corta las berenjenas a lo largo en láminas de 0,5 cm (salen unas 12). Píntalas con 1,5 cucharadas de aceite, sálalas, extiéndelas en una bandeja con papel y hornéalas 10-12 minutos, hasta que estén flexibles y algo doradas.",
+    "Mientras, lamina 1 diente de ajo y ralla el parmesano. Saltea las espinacas en una sartén sin aceite 2 minutos, hasta que mermen. Escúrrelas apretando bien y pícalas.",
+    "En la misma sartén, con 1 cucharada de aceite, sofríe el ajo laminado 30 segundos, añade el tomate, unas hojas de albahaca y una pizca de sal y cocina 10 minutos a fuego medio, hasta que espese. Mientras, mezcla las espinacas con la ricotta, la mitad del parmesano, el otro ajo rallado, la nuez moscada, sal y pimienta, y trocea la mozzarella.",
     "Pon una cucharada de relleno en el extremo ancho de cada lámina de berenjena y enróllala. Extiende la salsa de tomate en una fuente pequeña y coloca los rollitos encima, con el cierre hacia abajo.",
     "Reparte la mozzarella troceada y el resto del parmesano por encima y hornea 15 minutos, hasta que la salsa borbotee y el queso esté dorado. Mientras, tuesta el pan.",
     "Termina con albahaca fresca y un hilo de aceite en crudo. Sirve con pan tostado para la salsa."
   ],
-  nutricion: { kcal: 512, prot: 25, hc: 40, grasa: 28 },
+  nutricion: { kcal: 690, prot: 31, hc: 41, grasa: 43 },
   etiquetas: ["mediterránea", "aromática", "al horno", "batch cooking", "verano", "poco especiada"],
   consejo: "Puedes dejarlos montados en la fuente el día antes y hornearlos al momento. Un puñado de nueces picadas en el relleno le da un punto crujiente muy rico.",
   contundencia: "media",
@@ -515,7 +515,7 @@ window.RECETAS_SEED.push({
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "queso",
-  tiempo: 30,
+  tiempo: 25,
   dificultad: "fácil",
   equipo: ["sartén"],
   raciones: 2,
@@ -533,13 +533,12 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir un cazo de agua con sal para las habas. Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa si la tienen y frótalas con limón o déjalas en agua con zumo para que no se oscurezcan.",
-    "Escalda las habas 2 minutos en el agua hirviendo, escúrrelas y, si quieres, quítales la piel apretándolas entre los dedos.",
+    "Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas, corta las puntas y pela el tallo. Pártelas en cuartos, quita la pelusa si la tienen y frótalas con limón o déjalas en agua con zumo para que no se oscurezcan.",
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio, añade las alcachofas bien secas con una pizca de sal y cocina 10-12 minutos, tapando los primeros 5 con un chorrito de agua, hasta que estén tiernas y doradas. Mientras, corta los ajos tiernos en trozos de 3 cm y pica la menta.",
-    "Añade los ajos tiernos y saltea 3 minutos, hasta que se ablanden. Incorpora las habas y saltea 2 minutos más. Riega con zumo de limón y salpimienta.",
+    "Añade los ajos tiernos y saltea 3 minutos, hasta que se ablanden. Incorpora las habas congeladas con 2 cucharadas de agua, tapa y cocina 4-5 minutos, hasta que estén tiernas y el agua se haya evaporado. Riega con zumo de limón y salpimienta.",
     "Tuesta el pan y riégalo con la última cucharada de aceite. Pon encima el queso fresco en lonchas y cubre con el salteado templado y abundante menta picada."
   ],
-  nutricion: { kcal: 442, prot: 25, hc: 45, grasa: 18 },
+  nutricion: { kcal: 645, prot: 29, hc: 41, grasa: 37 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "una sola sartén", "primavera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Fuera de temporada, usa alcachofas en conserva bien secas y doradas a fuego fuerte: tardarás 15 minutos. Un huevo poché encima la convierte en una cena aún más completa.",
   contundencia: "ligera",
@@ -815,7 +814,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "berenjena", q: 2, u: "ud", nota: "unos 600 g, en dados de 2 cm" },
@@ -836,14 +835,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Sala la berenjena en dados y déjala en un colador 10 minutos. Mientras, pon las pasas en remojo con agua templada y tuesta los piñones en una sartén sin aceite 2 minutos, hasta que estén dorados. Pica la cebolla y el apio.",
-    "Seca la berenjena con papel. Calienta 3 cucharadas de aceite en la sartén a fuego medio-alto y dórala 10 minutos, removiendo de vez en cuando, hasta que esté dorada por fuera y cremosa por dentro. Reserva.",
-    "En una cazuela con la última cucharada de aceite, pocha la cebolla y el apio 6 minutos, hasta que estén tiernos; mientras, corta las aceitunas en rodajas. Añade el tomate y cocina 5 minutos.",
-    "Incorpora la berenjena, las aceitunas, las alcaparras y las pasas escurridas. Disuelve el azúcar en el vinagre, viértelo y cocina 5 minutos a fuego suave, hasta que se evapore el olor fuerte del vinagre y todo quede brillante.",
+    "Sala la berenjena en dados y déjala en un colador 10 minutos. Mientras, pon las pasas en remojo con agua templada y tuesta los piñones en una sartén amplia sin aceite 2 minutos, hasta que estén dorados; sácalos a un plato. Pica la cebolla y el apio.",
+    "Seca la berenjena con papel. Calienta 3 cucharadas de aceite en la sartén a fuego medio-alto y dórala 10 minutos, removiendo de vez en cuando, hasta que esté dorada por fuera y cremosa por dentro. Sácala a un plato.",
+    "En la misma sartén, con la última cucharada de aceite, pocha la cebolla y el apio 6 minutos, hasta que estén tiernos; mientras, corta las aceitunas en rodajas. Añade el tomate y cocina 5 minutos.",
+    "Devuelve la berenjena e incorpora las aceitunas, las alcaparras y las pasas escurridas. Disuelve el azúcar en el vinagre, viértelo y cocina 5 minutos a fuego suave, hasta que se evapore el olor fuerte del vinagre y todo quede brillante.",
     "Apaga, añade la mitad de la albahaca rota y los piñones y deja templar al menos 10 minutos: la caponata se sirve tibia o a temperatura ambiente. Mientras, tuesta el pan.",
     "Reparte en los platos, pon media burrata abierta encima de cada uno, termina con el resto de la albahaca y acompaña con el pan."
   ],
-  nutricion: { kcal: 612, prot: 20, hc: 52, grasa: 36 },
+  nutricion: { kcal: 860, prot: 22, hc: 68, grasa: 55 },
   etiquetas: ["mediterránea", "fácil", "aromática", "batch cooking", "verano", "ideal para llevar", "poco especiada"],
   consejo: "La caponata gana mucho de un día para otro: hazla la víspera y añade la burrata en el momento. Sin burrata, unas lascas de queso ricotta salada o de parmesano también funcionan.",
   alternativa: "Para que salga más económica, cambia los piñones por 30 g de almendra laminada tostada en seco: encaja igual de bien con las pasas y el agridulce.",

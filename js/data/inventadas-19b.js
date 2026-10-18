@@ -297,14 +297,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el pimiento en dados pequeños y pica el ajo. En una sartén honda con el aceite, póchalos a fuego medio-alto 5 minutos, hasta que la cebolla esté transparente.",
+    "Tuesta los pistachos en una sartén honda en seco 2 minutos, sácalos y trocéalos. Pica la cebolla y el pimiento en dados pequeños y pica el ajo. En la misma sartén, con el aceite, pocha la cebolla y el pimiento a fuego medio-alto 5 minutos, hasta que la cebolla esté transparente.",
     "Sube el fuego, añade el pavo y deshazlo con la cuchara; cocina 4 minutos, hasta que pierda el color rosado y empiece a dorarse.",
     "Agrega el ajo picado, el comino, el pimentón y el tomate concentrado y remueve 1 minuto, hasta que huela intensamente a especias.",
     "Incorpora el bulgur y el caldo caliente, sala, tapa y cuece a fuego suave 10–12 minutos, hasta que absorba el líquido. Apaga y deja reposar 2 minutos tapado.",
-    "Mientras, tuesta los pistachos en una sartén seca 2 minutos y pícalos, y pica la menta. Mezcla el yogur con la mitad de la menta picada, una pizca de sal y unas gotas de limón.",
+    "Mientras, pica la menta y mezcla el yogur con la mitad de la menta picada, una pizca de sal y unas gotas de limón.",
     "Sirve el bulgur con un chorrito de limón, el yogur a la menta, los pistachos y el resto de la menta por encima."
   ],
-  nutricion: { kcal: 580, prot: 40, hc: 64, grasa: 18 },
+  nutricion: { kcal: 735, prot: 43, hc: 67, grasa: 30 },
   etiquetas: ["mediterránea", "fácil", "rápida", "aromática", "una sola sartén", "alta en proteína", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Si encuentras pul biber (escamas de pimiento turco), añade una pizca al final: le da el toque auténtico. Se congela muy bien sin el yogur.",
   contundencia: "media",
@@ -409,7 +409,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz arborio", q: 160, u: "g" },
@@ -428,14 +428,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla grueso uno de los calabacines, corta el otro en dados pequeños y pica la chalota y el ajo. Tuesta los piñones en una sartén seca 2 minutos y resérvalos; en la misma sartén, dora los dados de calabacín con 1 cucharada de aceite y sal 5 minutos a fuego fuerte. Reserva.",
-    "En una cazuela, sofríe la chalota y el ajo picados con el resto del aceite 3 minutos a fuego medio. Añade el arroz y nácaralo 1 minuto, hasta que los bordes se vuelvan translúcidos.",
+    "Ralla grueso uno de los calabacines, corta el otro en dados pequeños y pica la chalota y el ajo. Tuesta los piñones en la cazuela en seco 2 minutos y sácalos; en la misma cazuela, dora los dados de calabacín con 1 cucharada de aceite y sal 5 minutos a fuego fuerte. Sácalos a un plato.",
+    "En la misma cazuela, sofríe la chalota y el ajo picados con el resto del aceite 3 minutos a fuego medio. Añade el arroz y nácaralo 1 minuto, hasta que los bordes se vuelvan translúcidos.",
     "Vierte el vino y deja que se evapore. Añade el calabacín rallado y la mitad del caldo caliente, sala ligeramente y cuece a fuego medio-suave 8 minutos, removiendo solo cada 2–3 minutos.",
     "Ve añadiendo el resto del caldo en dos veces y cocina 8–10 minutos más, hasta que el grano esté tierno pero con un punto firme en el centro y el conjunto quede suelto, como una ola.",
     "Fuera del fuego, incorpora el parmesano, la mitad de la ricotta, la ralladura del limón y un chorrito de su zumo. Remueve enérgicamente 30 segundos para que quede cremoso y deja reposar 1 minuto tapado.",
     "Sirve con los dados de calabacín dorado, el resto de la ricotta en cucharadas, los piñones, la albahaca rota y pimienta."
   ],
-  nutricion: { kcal: 550, prot: 20, hc: 72, grasa: 20 },
+  nutricion: { kcal: 690, prot: 22, hc: 82, grasa: 29 },
   etiquetas: ["mediterránea", "fácil", "aromática", "vegetariana", "verano", "poco especiada"],
   consejo: "Para añadir proteína, corona cada plato con un huevo poché o unas gambas salteadas. Las sobras se convierten en unas croquetas de arroz al día siguiente.",
   contundencia: "media",
@@ -621,7 +621,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-950",
   nombre: "Risotto de tomate asado y albahaca con burrata",
-  subtitulo: "con tomates cherry confitados en sartén y aceite de albahaca",
+  subtitulo: "con tomates cherry confitados y aceite de albahaca",
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "italiana",
@@ -629,7 +629,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz arborio", q: 170, u: "g" },
@@ -648,14 +648,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Saca la burrata de la nevera. En una sartén con 1 cucharada de aceite, cocina los tomates cherry enteros con 1 ajo laminado y sal a fuego medio-alto 8 minutos, hasta que la piel se arrugue y estallen. Mientras, pica la cebolla y el otro ajo. Reserva los tomates.",
-    "En una cazuela con el resto del aceite, pocha la cebolla y el otro ajo picados 4 minutos. Añade el arroz y nacáralo 1 minuto.",
+    "Saca la burrata de la nevera. En una cazuela con 1 cucharada de aceite, cocina los tomates cherry enteros con 1 ajo laminado y sal a fuego medio-alto 8 minutos, hasta que la piel se arrugue y estallen. Mientras, pica la cebolla y el otro ajo. Saca los tomates con cuidado a un plato.",
+    "En la misma cazuela, con el resto del aceite, pocha la cebolla y el otro ajo picados 4 minutos. Añade el arroz y nacáralo 1 minuto.",
     "Vierte el vino y deja evaporar. Añade el tomate triturado, sala ligeramente y remueve 2 minutos, hasta que se pegue al grano.",
     "Ve añadiendo el caldo caliente por cazos, removiendo de vez en cuando, durante 16–18 minutos, hasta que el arroz esté al dente y cremoso. Entre cazo y cazo, pica la mitad de la albahaca.",
     "Fuera del fuego, incorpora la mantequilla fría, el parmesano y la albahaca picada. Remueve enérgicamente para ligar y deja reposar 1 minuto.",
     "Sirve el risotto con los tomates confitados por encima, media burrata abierta en cada plato, un hilo de aceite, hojas de albahaca y pimienta."
   ],
-  nutricion: { kcal: 710, prot: 24, hc: 82, grasa: 32 },
+  nutricion: { kcal: 795, prot: 24, hc: 88, grasa: 37 },
   etiquetas: ["mediterránea", "aromática", "vegetariana", "verano", "poco especiada"],
   consejo: "La burrata debe estar a temperatura ambiente para que su corazón cremoso se funda sobre el arroz caliente. Si no tienes, una mozzarella fresca troceada también funciona.",
   contundencia: "contundente",
@@ -976,7 +976,7 @@ window.RECETAS_SEED.push({
   proteina: "cordero",
   tiempo: 70,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
     { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "en dados de 2 cm" },
@@ -998,10 +998,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta la cebolla en juliana y pica el ajo. Salpimienta el cordero y dóralo en una cazuela con el aceite a fuego fuerte, en dos tandas, 5 minutos, hasta que esté bien tostado.",
+    "Tuesta los pistachos en la cazuela en seco 2 minutos, sácalos y trocéalos. Corta la cebolla en juliana y pica el ajo. Salpimienta el cordero y dóralo en la misma cazuela con el aceite a fuego fuerte, en dos tandas, 5 minutos, hasta que esté bien tostado.",
     "Baja el fuego, añade la cebolla en juliana y pocha 8 minutos, hasta que esté dorada. Incorpora el ajo, el comino, el cilantro y la canela y remueve 30 segundos.",
     "Vierte 280 ml del caldo, tapa y cuece a fuego suave 35 minutos, hasta que el cordero esté tierno al pincharlo.",
-    "Mientras, lava el basmati hasta que el agua salga clara y escúrrelo. Tuesta los pistachos en una sartén seca 2 minutos y trocéalos.",
+    "Mientras, lava el basmati hasta que el agua salga clara y escúrrelo.",
     "Añade a la cazuela el arroz, las pasas y el resto del caldo caliente (320 ml); prueba de sal. Cuando hierva, tapa y cocina a fuego mínimo 12 minutos sin destapar; mientras, pica la menta. Reposa 5 minutos tapado.",
     "Mezcla el yogur con el zumo de limón, sal y un poco de la menta picada. Ahueca el pilaf con un tenedor y sirve con los pistachos, el resto de la menta y el yogur."
   ],
