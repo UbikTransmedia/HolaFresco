@@ -264,7 +264,7 @@
         listaIng.appendChild(h("div.fila-ing-oblig",
           h("div.oblig-info", h("strong", "🥕 ", x.nombre), h("small.muted", n ? `${n} ${UI.plural(n, "receta lo lleva", "recetas lo llevan")}` : "Ninguna receta lo lleva: prueba con otro nombre (en singular, p. ej. «calabacín»)."),
             vetado ? h("div.aviso.aviso-alerta.aviso-mini", "⚠️ También lo has vetado: manda el veto y no se forzará.") : null),
-          h("label.check-inline", { title: "Si lo marcas, no saldrá en la lista de la compra" }, h("input", { type: "checkbox", checked: x.enCasa !== false, onChange: (e) => { x.enCasa = e.target.checked; guardarBorrador(); } }), "Ya lo tengo (no comprar)"),
+          h("label.check-inline", { title: "Si lo marcas, en la lista de la compra saldrá aparte, en «Ya lo tienes en casa», con la cantidad que necesita el menú para que compruebes que tienes bastante" }, h("input", { type: "checkbox", checked: x.enCasa !== false, onChange: (e) => { x.enCasa = e.target.checked; guardarBorrador(); } }), "Ya lo tengo (no comprar)"),
           h("button.btn.btn-icono", { type: "button", "aria-label": `Quitar ${x.nombre}`, onClick: () => { st.cfg.ingredientesObligatorios = st.cfg.ingredientesObligatorios.filter((y) => y !== x); guardarBorrador(); pintarIng(); } }, "✕")
         ));
       }

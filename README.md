@@ -49,6 +49,12 @@ desde la misma wifi, o copia la carpeta al móvil y ábrela con un navegador que
 - Reparte categorías según la frecuencia elegida, evita repetir recetas, proteínas y cocinas en días seguidos, respeta la
   contundencia deseada para comidas y cenas, el presupuesto, los límites de tiempo (estrictos u orientativos), las cocinas a evitar
   y las recetas usadas en menús recientes. Favorece las favoritas y las cocinas marcadas como preferidas.
+- **Variedad de ingredientes:** además de no repetir recetas, proteínas ni cocinas en días seguidos, el generador
+  penaliza los ingredientes que ya se repiten en la semana (patata, huevo, limón, perejil…). Es importante en los menús
+  de fácil digestión, donde las restricciones dejan menos ingredientes posibles.
+- **Lista de la compra exacta:** cada ingrediente de cada receta entra con su cantidad (redondeada siempre hacia
+  arriba). Solo se apartan, sin desaparecer, los básicos (sal, aceite de oliva, pimienta negra y agua, por nombre
+  exacto) y lo que marcas como «Ya lo tengo», que sale en «Ya lo tienes en casa» con la cantidad que pide el menú.
 - Las **raciones** se calculan con la fórmula de Mifflin-St Jeor (orientativa) ajustada por actividad y objetivos:
   una ración estándar ≈ adulto de 2.100 kcal/día. La lista de la compra escala todas las cantidades.
 

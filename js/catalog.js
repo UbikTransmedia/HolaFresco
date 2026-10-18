@@ -64,7 +64,7 @@
     { id: "bebidas", nombre: "Bebidas", icono: "🍷", orden: 10 },
     { id: "otros", nombre: "Otros", icono: "🛒", orden: 11 },
     { id: "basicos", nombre: "Básicos de despensa (revisa que tengas)", icono: "🏠", orden: 12 },
-    { id: "en-casa", nombre: "Ya lo tienes en casa (no comprar)", icono: "🧊", orden: 13 },
+    { id: "en-casa", nombre: "Ya lo tienes en casa (comprueba que hay bastante)", icono: "🧊", orden: 13 },
   ];
 
   // Orden importa: la primera regla que coincide gana.
@@ -73,8 +73,8 @@
     ["frutas-verduras", ["espinacas de agua"]],
     ["despensa", ["castañas de agua", "sardinas en*", "atun en*", "bonito en*", "caballa en*", "anchoas en*", "mejillones en*"]],
     ["bebidas", ["agua de coco", "agua con gas"]],
-    ["especias", ["pimienta blanca*", "pimienta de*", "pimienta rosa*", "pimienta verde*", "sal negra*", "agua de azahar", "agua de rosas"]],
-    ["basicos", ["aceite de oliva", "aceite de oliva virgen", "aceite de oliva virgen extra", "sal", "sal gruesa", "sal en escamas", "pimienta negra", "pimienta", "agua"]],
+    ["especias", ["pimienta negra en grano", "pimienta en grano", "pimienta blanca*", "pimienta de*", "pimienta rosa*", "pimienta verde*", "sal negra*", "agua de azahar", "agua de rosas"]],
+    ["basicos", ["aceite de oliva", "aceite de oliva virgen", "aceite de oliva virgen extra", "sal", "sal gruesa", "sal gorda", "sal en escamas", "pimienta negra", "pimienta", "agua"]],
     ["congelados", ["congelad*", "edamame", "helado"]],
     ["especias", [
       "pimenton*", "comino*", "asafetida", "mejorana*", "guascas*", "curcuma*", "canela*", "oregano*", "tomillo seco", "romero seco", "laurel", "cayena", "garam masala",
@@ -139,6 +139,9 @@
     let res = "otros";
     const t = tokens(nombre);
     bucle: for (const [pasillo, claves] of REGLAS_PASILLO) {
+      // Los básicos de despensa se ocultan al copiar la lista: solo cuentan con el nombre exacto («sal», «pimienta negra»),
+      // nunca un producto que lo contenga («pimienta en grano», «agua de azahar», «sal de apio»)
+      if (pasillo === "basicos") { if (claves.some((k) => t.length === tokens(k).length && contieneFrase(t, k))) { res = pasillo; break; } continue; }
       for (const k of claves) if (contieneFrase(t, k)) { res = pasillo; break bucle; }
     }
     cachePasillo.set(key, res);

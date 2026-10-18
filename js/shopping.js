@@ -120,14 +120,14 @@
   const PESO_UD = {
     cebolla: [150, "ud"], "cebolla morada": [150, "ud"], cebolleta: [60, "ud"], chalota: [30, "ud"], puerro: [150, "ud"],
     patata: [200, "ud"], "patata nueva": [80, "ud"], boniato: [300, "ud"], zanahoria: [80, "ud"], chirivia: [150, "ud"],
-    tomate: [120, "ud"], "tomate pera": [100, "ud"], "tomate cherry": [15, "g"], pepino: [300, "ud"],
+    tomate: [120, "ud"], "tomate pera": [90, "ud"], "tomate cherry": [15, "g"], pepino: [300, "ud"],
     "pimiento rojo": [200, "ud"], "pimiento verde": [150, "ud"], "pimiento verde italiano": [120, "ud"], calabacin: [250, "ud"],
     berenjena: [300, "ud"], hinojo: [250, "ud"], rabano: [15, "ud"], "lechuga romana": [300, "ud"], "pak choi": [150, "ud"],
     brocoli: [400, "ud"], coliflor: [800, "ud"], "col blanca": [1000, "ud"], repollo: [1000, "ud"], calabaza: [1500, "g"],
     granada: [300, "ud"], "platano macho": [250, "ud"], limon: [120, "ud"], lima: [70, "ud"], naranja: [200, "ud"],
     manzana: [180, "ud"], pera: [180, "ud"], aguacate: [200, "ud"], huevo: [60, "ud"],
     "jengibre fresco": [30, "g"], "aceituna negra": [4, "g"], "aceituna verde": [4, "g"], almendra: [1.2, "g"],
-    pepinillo: [15, "g"], "anchoa en aceite": [4, "g"], "pimiento del piquillo": [20, "g"], chorizo: [100, "g"],
+    pepinillo: [20, "g"], "anchoa en aceite": [4, "g"], "pimiento del piquillo": [20, "g"], chorizo: [100, "g"],
     "pollo (contramuslos)": [120, "g"], "pollo (muslos deshuesados)": [100, "g"], "pollo (pechuga)": [250, "g"], "pavo (pechuga)": [300, "g"],
     "merluza (lomos)": [150, "g"], caballa: [300, "g"], "dorada entera": [400, "g"], mango: [300, "ud"], "orejon de albaricoque": [8, "g"],
   };
@@ -198,7 +198,10 @@
       }
     }
     const enCasa = (menu.enCasa || []).filter(Boolean);
-    if (enCasa.length) for (const it of items.values()) if (enCasa.some((t) => Catalogo.ingredienteUsa(it.n, t))) it.pasillo = "en-casa";
+    // «Ya lo tengo»: solo el mismo producto («huevo» no esconde la mayonesa ni «limón» la hierba limón). No desaparece de la
+    // lista: va a «Ya en casa» con la cantidad que pide el menú, para comprobar que hay bastante.
+    const clavesCasa = new Set(enCasa.map(claveCompra));
+    if (enCasa.length) for (const it of items.values()) if (clavesCasa.has(it.clave)) it.pasillo = "en-casa";
     const lista = [...items.values()].map((it) => {
       unificar(it.cantidades, it.clave);
       const partes = [...it.cantidades.entries()]
@@ -238,7 +241,7 @@
     const titulo = `Lista de la compra · ${menu.nombre || "Menú semanal"}`;
     if (conTitulos) lineas.push(formato === "markdown" ? `## ${titulo}` : titulo, "");
     for (const p of lista.porPasillo) {
-      if ((p.id === "basicos" && !incluirBasicos) || p.id === "en-casa") continue;
+      if (p.id === "basicos" && !incluirBasicos) continue;
       if (conTitulos) lineas.push(formato === "markdown" ? `### ${p.icono} ${p.nombre}` : `${p.icono} ${p.nombre.toUpperCase()}`);
       for (const it of p.items) {
         const hecho = marcados.has(it.clave);
@@ -258,7 +261,7 @@
     const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
     let html = `<h2>Lista de la compra · ${esc(menu.nombre || "Menú semanal")}</h2>`;
     for (const p of lista.porPasillo) {
-      if ((p.id === "basicos" && !incluirBasicos) || p.id === "en-casa") continue;
+      if (p.id === "basicos" && !incluirBasicos) continue;
       html += `<h3>${p.icono} ${esc(p.nombre)}</h3><ul>`;
       for (const it of p.items) html += `<li>☐ ${esc(textoItem(it))}</li>`;
       html += `</ul>`;

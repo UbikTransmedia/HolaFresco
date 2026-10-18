@@ -301,6 +301,12 @@
       return res;
     };
     const usadas = () => new Set([...asignacion.values()].map((a) => a.recetaId));
+    // Ingredientes que ya salen en la semana (para no repetir patata, huevo, limón… en todos los platos)
+    const usosIngredientes = () => {
+      const m = new Map();
+      for (const a of asignacion.values()) { const r = a.recetaId && Recetas.porId(a.recetaId); if (r) for (const [k] of notables(r)) m.set(k, (m.get(k) || 0) + 1); }
+      return m;
+    };
     const excluir = new Set(opciones.excluir || []);
     let avisoRecientes = false;
 
@@ -309,6 +315,7 @@
       contar();
       const vec = vecinos(slot);
       const ya = usadas();
+      const usosIng = usosIngredientes();
       const avisos = [];
       let candidatos = todas.filter((r) => elegible(r, cfg, slot.momento, slot.dia, { recientes }) && !excluir.has(r.id) && (cfg.permitirRepetir || !ya.has(r.id)));
       if (!candidatos.length && recientes.size) { candidatos = todas.filter((r) => elegible(r, cfg, slot.momento, slot.dia) && !excluir.has(r.id) && (cfg.permitirRepetir || !ya.has(r.id))); if (candidatos.length) avisoRecientes = true; }
@@ -333,6 +340,10 @@
           if (v.receta.categoria === r.categoria && v.distancia === 1 && v.mismoMomento) p -= 0.6;
           if (v.receta.cocina && v.receta.cocina === r.cocina && v.mismoDia) p -= 0.8;
         }
+        // variedad de ingredientes en la semana: penaliza lo que ya se repite (a partir del segundo plato que lo lleva)
+        let rep = 0;
+        for (const [k, w] of notables(r)) { const u = usosIng.get(k) || 0; if (u >= 2) rep += w * (u - 1); }
+        p -= Math.min(6, rep * 0.6);
         // contundencia deseada
         if (deseo !== "indiferente") {
           const dif = Math.abs(ORDEN_CONT[r.contundencia] - ORDEN_CONT[deseo]);
@@ -412,6 +423,26 @@
     const resto = Recetas.todas().filter((r) => !compat.includes(r) && !ex.has(r.id));
     const orden = (a, b) => (b.favorita - a.favorita) || a.nombre.localeCompare(b.nombre, "es");
     return { compatibles: compat.sort(orden), otras: resto.sort(orden) };
+  };
+
+  /* Ingredientes «notables» de una receta para medir la variedad de la semana: [clave, peso]. No cuentan la sal, el agua,
+     la pimienta ni los aceites (el aceite de ajo es la base de todo lo bajo en FODMAP); las especias y hierbas pesan menos
+     que los ingredientes principales (patata, huevo, pollo…), y el limón y el perejil, lo justo para que no salgan en todo. */
+  const cacheNotables = new Map();
+  const notables = (r) => {
+    let v = cacheNotables.get(r.id);
+    if (v) return v;
+    const clave = (n) => (window.Compra && window.Compra.claveCompra ? window.Compra.claveCompra(n) : Catalogo.normalizar(n));
+    const m = new Map();
+    for (const i of r.ingredientes || []) {
+      if (i.opcional) continue;
+      const pas = Catalogo.pasilloDe(i.n), k = clave(i.n);
+      if (pas === "basicos" || /^(aceite|caldo|agua)\b/.test(k)) continue;
+      m.set(k, pas === "especias" ? 0.3 : /^(limon|lima|perejil|cebollino|cilantro|eneldo|menta|hierbabuena|albahaca|laurel|tomillo|romero|oregano)\b/.test(k) ? 0.5 : 1);
+    }
+    v = [...m];
+    cacheNotables.set(r.id, v);
+    return v;
   };
 
   /* Resumen nutricional medio por ración del menú */
