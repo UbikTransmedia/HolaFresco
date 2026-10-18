@@ -678,7 +678,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela", "batidora", "plancha"],
+  equipo: ["cazuela", "plancha"],
   raciones: 2,
   ingredientes: [
     { n: "pulpo cocido", q: 300, u: "g", nota: "2 patas grandes" },
@@ -698,13 +698,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Enjuaga los guisantes amarillos en un colador hasta que el agua salga clara. Trocea la cebolla y ponla en una cazuela con los guisantes, el ajo, el laurel y 600 ml de agua fría.",
-    "Lleva a ebullición, retira la espuma blanca que suba y cuece a fuego suave, semitapado, 40-45 minutos, removiendo de vez en cuando, hasta que se deshagan y casi no quede líquido.",
+    "Lleva a ebullición, retira la espuma blanca que suba y cuece a fuego suave, semitapado, 40-45 minutos, removiendo de vez en cuando, hasta que los guisantes se deshagan del todo y casi no quede líquido.",
     "Mientras, corta la cebolla morada en juliana fina y déjala en un bol con el vinagre y una pizca de sal. Seca bien el pulpo y córtalo en trozos de 5 cm. Prepara el aliño mezclando 1 cucharada de aceite con el zumo de medio limón, el orégano y pimienta.",
-    "Retira el laurel y tritura la fava con la batidora junto con 1,5 cucharadas de aceite, el zumo de medio limón y sal, hasta que quede un puré fino y sedoso. Si está muy espesa, añade un poco de agua caliente.",
+    "Retira el laurel y, en la misma cazuela, bate la fava con energía con unas varillas (o aplástala con el dorso de un tenedor contra las paredes) mientras añades 1,5 cucharadas de aceite, el zumo de medio limón y sal, hasta que quede un puré fino y cremoso. Si está muy espesa, añade un poco de agua caliente.",
     "Unta el pulpo con media cucharada de aceite y márcalo en la plancha muy caliente 2 minutos por cada lado, hasta que esté tostado y crujiente por los bordes.",
     "Sirve la fava templada en plato hondo, el pulpo encima, la cebolla morada escurrida, las alcaparras y el aliño de limón y orégano por encima."
   ],
-  nutricion: { kcal: 540, prot: 42, hc: 42, grasa: 23 },
+  nutricion: { kcal: 670, prot: 61, hc: 46, grasa: 24 },
   etiquetas: ["creativa", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "La fava griega es de guisantes amarillos partidos, no de habas, y la de Santorini es la más famosa. Puedes hacer el puré hasta 3 días antes: se espesa en la nevera, así que recaliéntalo con un chorrito de agua. Si compras pulpo crudo, cuécelo 40-50 minutos en agua hirviendo hasta que se pinche con facilidad y déjalo enfriar en su agua antes de marcarlo.",
   tupper: false,

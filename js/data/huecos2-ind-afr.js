@@ -739,7 +739,7 @@ window.RECETAS_SEED.push({
   proteina: "tempeh",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["horno", "batidora"],
+  equipo: ["horno"],
   raciones: 2,
   ingredientes: [
     { n: "tempeh", q: 300, u: "g" },
@@ -760,13 +760,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tempeh en dados de 2,5 cm y cuécelo al vapor 10 minutos: pierde el amargor y queda más tierno. Si usas brochetas de madera, ponlas en remojo mientras.",
-    "Prepara el yaji: tritura los cacahuetes a golpes cortos hasta tener un polvo grueso (si te pasas, se vuelve crema). Mézclalo con el jengibre, el ajo y la cebolla en polvo, el pimentón, la cayena, la pastilla de caldo desmenuzada y una pizca de sal.",
+    "Prepara el yaji: pica los cacahuetes muy finos a cuchillo (o aplástalos con un rodillo dentro de una bolsa) hasta tener un polvo grueso. Mézclalo con el jengibre, el ajo y la cebolla en polvo, el pimentón, la cayena, la pastilla de caldo desmenuzada y una pizca de sal.",
     "Enciende el grill del horno a 230 °C. Pincela el tempeh con el aceite, pásalo por dos tercios del yaji presionando para que se adhiera y ensártalo en las brochetas.",
     "Colócalas sobre una rejilla con una bandeja debajo y gratina 10-12 minutos, girándolas a mitad, hasta que la costra de cacahuete esté tostada y oscura en los bordes, sin quemarse.",
     "Mientras, corta la cebolla morada en aros finos, el tomate y el pepino en rodajas y la col en juliana muy fina. Alíñalo todo con zumo de media lima y sal.",
     "Sirve las brochetas sobre la ensalada, espolvorea el resto del yaji por encima, como en los puestos, y acompaña con cuñas de lima."
   ],
-  nutricion: { kcal: 640, prot: 36, hc: 34, grasa: 40 },
+  nutricion: { kcal: 615, prot: 39, hc: 30, grasa: 40 },
   etiquetas: ["creativa", "picante", "alta en proteína"],
   consejo: "La suya es la carne a la brasa de los «mai suya» hausas del norte de Nigeria; lo que la define es el yaji, también llamado kuli-kuli molido, y servirla con cebolla cruda, tomate y col. El tempeh, de sabor a fruto seco, encaja de maravilla. Haz el triple de yaji: se conserva un mes en un bote y sirve para pollo, berenjena o palomitas.",
   tupper: true,
@@ -806,13 +806,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca bien el tofu y córtalo en placas de 1,5 cm. Corta la cebolla en juliana gruesa. En un bol mezcla el zumo de los limones, la mostaza, el ajo machacado, el laurel, la pastilla de caldo desmenuzada, pimienta y una pizca de sal. Añade el tofu y la cebolla, mezcla con las manos y deja marinar al menos 30 minutos.",
     "Pon a cocer el arroz en 240 ml de agua con sal, tapado y a fuego mínimo, 12 minutos; deja reposar 5 minutos.",
-    "Saca el tofu de la marinada y sécalo con papel. Calienta 1 cucharada de aceite en una sartén a fuego medio-alto y dóralo 3-4 minutos por cara, hasta que tenga costra dorada. Resérvalo.",
-    "Escurre la cebolla (guarda el líquido) y cocínala en una cazuela con el resto del aceite a fuego medio 15 minutos, removiendo, hasta que esté blanda, dorada y dulce pero sin deshacerse.",
+    "Saca el tofu de la marinada y sécalo con papel. Calienta 1 cucharada de aceite en una sartén amplia a fuego medio-alto y dóralo 3-4 minutos por cara, hasta que tenga costra dorada. Resérvalo.",
+    "Escurre la cebolla (guarda el líquido) y cocínala en la misma sartén con el resto del aceite a fuego medio 15 minutos, removiendo, hasta que esté blanda, dorada y dulce pero sin deshacerse.",
     "Añade el líquido de la marinada, el habanero y 100 ml de agua. Cuece a fuego suave 5 minutos hasta que la salsa reduzca y la cebolla brille. Prueba: tiene que estar claramente ácida y salada, equilibrada con el dulzor de la cebolla.",
     "Incorpora las aceitunas y el tofu, cubre con la cebolla y calienta tapado 5 minutos para que el tofu absorba la salsa. Retira el habanero y el laurel.",
     "Sirve el tofu y la cebolla sobre el arroz con todo su jugo."
   ],
-  nutricion: { kcal: 770, prot: 38, hc: 75, grasa: 35 },
+  nutricion: { kcal: 790, prot: 41, hc: 75, grasa: 37 },
   etiquetas: ["creativa", "sin lácteos", "picante", "alta en proteína", "batch cooking"],
   consejo: "La yassa viene de Casamance, en el sur de Senegal, y su gracia es el contraste: limón y mostaza muy presentes frente al dulzor de mucha cebolla. Marinar la cebolla junto con la proteína es parte del secreto. Está aún mejor al día siguiente; para un tupper, guarda el arroz aparte. Si dejas el habanero entero y lo retiras, aporta aroma frutal casi sin picar.",
   alternativa: "Sin habanero, usa 1 guindilla fresca roja o media cucharadita de cayena; pierdes parte del aroma afrutado, pero el contraste de limón y mostaza se mantiene.",

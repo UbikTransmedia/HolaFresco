@@ -528,14 +528,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita las hojas exteriores estropeadas de la col y córtala en 4 cuñas de unos 4 cm de grosor, atravesando el tronco para que las hojas sigan unidas. Sálalas por las caras del corte. Calienta el caldo en un cazo o en el microondas y pica la cebolleta.",
-    "Calienta 2 cucharadas de aceite en una sartén amplia con tapa a fuego medio-alto y dora las cuñas 4–5 minutos por cada cara del corte, sin moverlas, hasta que estén bien tostadas y casi negras en los bordes.",
+    "Tuesta las nueces en seco en una sartén amplia con tapa a fuego medio 3 minutos, moviéndolas; sácalas y pícalas gruesas. Calienta 2 cucharadas de aceite en la misma sartén a fuego medio-alto y dora las cuñas 4–5 minutos por cada cara del corte, sin moverlas, hasta que estén bien tostadas y casi negras en los bordes.",
     "Reparte alrededor la cebolleta picada y rehógala 1 minuto. Vierte el caldo caliente (debe cubrir un tercio de la altura de la col), el zumo de medio limón, los tallos del eneldo y pimienta. Tapa y cuece a fuego suave 15–20 minutos, hasta que el tronco se deje atravesar sin resistencia con la punta de un cuchillo.",
-    "Mientras, tuesta las nueces en una sartén pequeña sin aceite 3 minutos, moviéndolas, y pícalas gruesas. Tuesta el pan y pica las hojas de eneldo.",
+    "Mientras, tuesta el pan y pica las hojas de eneldo.",
     "Pasa las cuñas a una fuente caliente y tápala. Retira los tallos de eneldo y mide el caldo que queda en la sartén: necesitas unos 250 ml; si hay menos, completa con agua caliente.",
     "Para el avgolemono, bate en un bol los huevos con la maicena y el zumo de 1 limón. Vierte el caldo caliente en hilo sin dejar de batir, devuelve la mezcla a la sartén y caliéntala a fuego muy bajo, removiendo sin parar, 2–3 minutos, hasta que espese como unas natillas ligeras. No dejes que hierva o se cortará.",
     "Napa la col con la salsa y termina con el eneldo picado, las nueces, el aceite restante en un hilo y pimienta. Sírvela enseguida con el pan para mojar."
   ],
-  nutricion: { kcal: 565, prot: 17, hc: 41, grasa: 36 },
+  nutricion: { kcal: 560, prot: 18, hc: 39, grasa: 36 },
   etiquetas: ["creativa", "invierno", "una sola sartén", "económica", "superalimentos", "poco especiada"],
   consejo: "Los lahanodolmades, hojas de col rellenas, se sirven siempre bañados en avgolemono con eneldo; aquí la col se tuesta a fuego fuerte para que gane un punto dulce y ahumado, y la salsa hace el resto. Para un plato más completo, sírvela sobre un poco de arroz blanco. El avgolemono no admite recalentados bruscos, así que es mejor prepararla en el momento.",
   tupper: false,

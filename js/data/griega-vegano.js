@@ -596,7 +596,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["airfryer", "batidora", "bol"],
+  equipo: ["airfryer", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g" },
@@ -614,15 +614,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escurre y enjuaga los garbanzos y sécalos bien con papel de cocina. Corta el tomate en daditos, quítale las semillas y déjalo escurrir en un colador con una pizca de sal. Pica la menta y el perejil y trocea la cebolla.",
-    "Tritura los garbanzos con la cebolla, 1 cda de aceite, el orégano, sal y pimienta a golpes cortos, hasta obtener una masa gruesa en la que se noten trocitos: no debe quedar un puré.",
-    "Pasa la masa a un bol y añade el tomate escurrido, la menta y el perejil picados y la harina de garbanzo. Mezcla con las manos: debe formar una bola que no se pegue; si está húmeda, añade 1 cda más de harina.",
+    "Escurre y enjuaga los garbanzos y sécalos bien con papel de cocina. Corta el tomate en daditos, quítale las semillas y déjalo escurrir en un colador con una pizca de sal. Pica muy fina la cebolla y pica la menta y el perejil.",
+    "En un bol, aplasta los garbanzos con un tenedor junto con 1 cda de aceite, el orégano, sal y pimienta, hasta obtener una masa gruesa en la que se noten trocitos: no debe quedar un puré.",
+    "Añade la cebolla, el tomate escurrido, la menta y el perejil picados y la harina de garbanzo. Mezcla con las manos: debe formar una bola que no se pegue; si está húmeda, añade 1 cda más de harina.",
     "Forma 8 tortitas de 1,5 cm de grosor, píntalas por ambas caras con 1 cda de aceite y colócalas en la cesta de la airfryer sin que se toquen; si no caben todas, hazlas en dos tandas.",
     "Cocínalas a 190 °C 12–14 minutos, dándoles la vuelta a mitad, hasta que estén doradas y firmes al tocarlas.",
     "Mientras, prepara la lahanosalata: corta la col en tiras finísimas y ralla la zanahoria. Alíñalas con el zumo del limón, la última cucharada de aceite y sal, y estrújalas un poco con las manos para que se ablanden.",
     "Sirve las pitaroudia calientes con la ensalada al lado."
   ],
-  nutricion: { kcal: 610, prot: 22, hc: 70, grasa: 27 },
+  nutricion: { kcal: 575, prot: 22, hc: 57, grasa: 26 },
   etiquetas: ["creativa", "económica", "sin gluten", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "En Rodas los pitaroudia se fríen en abundante aceite y se toman como meze en Cuaresma; en la airfryer quedan crujientes con una fracción de la grasa. La lahanosalata, la ensalada de col del invierno griego, aguanta 2 días en la nevera y está incluso mejor al segundo. Para llevar, recalienta las tortitas 4 minutos en la airfryer a 180 °C y recuperan el crujiente.",
   alternativa: "Sin airfryer, hornea las tortitas sobre papel en el horno precalentado a 200 °C durante 18–20 minutos, dándoles la vuelta a mitad; quedan casi igual de crujientes.",
@@ -895,13 +895,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Lava las patatas, pártelas por la mitad y mézclalas en una bandeja con 1 cda de aceite, el orégano y sal. Ásalas 30–35 minutos, dándoles la vuelta a mitad, hasta que estén doradas por fuera y tiernas por dentro.",
-    "Mientras, remoja el pan en agua 2 minutos y estrújalo bien con las manos.",
-    "Pasa la hoja de nori 10 segundos por cada lado por una sartén caliente, hasta que se vuelva crujiente y verdosa, y desmenúzala.",
-    "Tritura con la batidora el nori, la cebolla en trozos, las alcaparras escurridas y el zumo del limón hasta que no queden trozos. Añade el pan y la remolacha, si la usas, y tritura de nuevo.",
+    "Mientras, remoja el pan en agua 2 minutos y estrújalo bien con las manos. Trocea la cebolla y desmenuza la hoja de nori con los dedos (la de sushi ya viene tostada).",
+    "Tritura con la batidora el nori, la cebolla, las alcaparras escurridas y el zumo del limón hasta que no queden trozos. Añade el pan y la remolacha, si la usas, y tritura de nuevo.",
     "Con la batidora en marcha, incorpora en hilo fino las 3 cda de aceite restantes y 2–3 cda de agua fría, hasta obtener una crema ligera, esponjosa y rosada. Prueba y ajusta de sal y de limón, y déjala en la nevera hasta que salgan las patatas para que se asienten los sabores.",
     "Corta el pepino en bastones y sirve la taramosalata en un cuenco, con las patatas calientes, el pepino y las aceitunas al lado."
   ],
-  nutricion: { kcal: 620, prot: 10, hc: 71, grasa: 32 },
+  nutricion: { kcal: 590, prot: 10, hc: 64, grasa: 32 },
   etiquetas: ["creativa", "al horno", "para picar", "económica", "primavera", "poco especiada"],
   consejo: "La taramosalata de verdad se hace con tarama, huevas curadas de carpa o de bacalao, y no falta en la mesa del Lunes Limpio, el primer día de la Cuaresma, junto a la lagana y la fava. En esta versión el nori y las alcaparras aportan el sabor a mar y la remolacha, el color: no es idéntica, pero tiene la misma textura esponjosa y el mismo punto ácido. Aguanta 3 días en la nevera en un tarro cerrado. Para un plato más completo, añade 200 g de garbanzos cocidos a la bandeja de las patatas los últimos 15 minutos.",
   tupper: true,

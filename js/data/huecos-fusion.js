@@ -70,7 +70,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 95,
   dificultad: "elaborada",
-  equipo: ["olla-express", "sartén"],
+  equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
     { n: "morcillo de ternera", q: 350, u: "g", nota: "en dados de 4 cm" },
@@ -93,16 +93,16 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Seca bien la carne con papel de cocina, salpimiéntala con poca sal (el miso ya sala) y espolvoréala con la harina, sacudiendo el exceso. Pela las chalotas: deja 4 enteras y pica la otra. Lamina el ajo. Pela las zanahorias y córtalas en trozos de 3 cm, y pela las patatas.",
+    "Seca bien la carne con papel de cocina, salpimiéntala con poca sal (el miso ya sala) y espolvoréala con la harina, sacudiendo el exceso. Pela las chalotas: deja 4 enteras y pica la otra. Lamina el ajo y las shiitake. Pela las zanahorias y córtalas en trozos de 3 cm, y pela las patatas.",
     "En la olla exprés destapada, calienta el aceite a fuego fuerte y dora la carne en dos tandas, 3–4 minutos por tanda, sin moverla hasta que forme costra marrón. Si la amontonas, suelta agua y se cuece en vez de dorarse. Reserva.",
-    "Baja a fuego medio y dora las chalotas enteras 3–4 minutos, girándolas, hasta que tengan manchas doradas; sácalas y resérvalas aparte (entrarán al final para que no se deshagan). En la misma grasa sofríe la chalota picada y el ajo laminado 2 minutos, añade el tomate concentrado y el miso y remueve 1 minuto, hasta que oscurezcan un poco.",
-    "Vierte el vino y raspa el fondo con una cuchara de madera para despegar todo lo tostado: ahí está el sabor. Deja hervir 3 minutos para que se evapore el alcohol y añade el agua, el tomillo, el laurel y la carne con su jugo.",
-    "Cierra la olla y pon el fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 35 minutos. Apaga y deja que despresurice sola, unos 10–12 minutos. Mientras, pica el cebollino.",
-    "Abre, añade las chalotas enteras reservadas, la zanahoria y las patatas chascadas en trozos (rompe el último corte con el cuchillo para que suelten almidón y espesen la salsa). Cierra de nuevo y cuenta 5 minutos desde que suba la válvula; esta vez despresuriza rápido, abriendo la válvula con cuidado y apartando la cara del vapor.",
-    "Mientras, lamina las shiitake y saltéalas en una sartén a fuego fuerte con la mantequilla 4–5 minutos, hasta que estén doradas por los bordes. Sálalas al final.",
-    "Prueba la salsa: debe estar brillante y cubrir la cuchara. Si queda líquida, cuécela destapada 5 minutos. Retira el laurel y las ramas de tomillo, ajusta de pimienta y sirve con las shiitake por encima y el cebollino picado."
+    "Baja a fuego medio y dora las chalotas enteras 3–4 minutos, girándolas, hasta que tengan manchas doradas; sácalas a un plato (entrarán al final para que no se deshagan). Funde la mantequilla en la olla, saltea las shiitake 4 minutos, hasta que estén doradas por los bordes, sálalas y resérvalas en otro plato.",
+    "En la misma grasa sofríe la chalota picada y el ajo laminado 2 minutos, añade el tomate concentrado y el miso y remueve 1 minuto, hasta que oscurezcan un poco. Vierte el vino y raspa el fondo con una cuchara de madera para despegar todo lo tostado: ahí está el sabor. Deja hervir 3 minutos para que se evapore el alcohol y añade el agua, el tomillo, el laurel y la carne con su jugo.",
+    "Cierra la olla y pon el fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 35 minutos. Apaga y deja que despresurice sola, unos 10–12 minutos. Mientras, pica el cebollino y chasca las patatas en trozos (rompe el último corte con el cuchillo para que suelten almidón y espesen la salsa).",
+    "Abre, añade las chalotas enteras reservadas, la zanahoria y las patatas. Cierra de nuevo y cuenta 5 minutos desde que suba la válvula; esta vez despresuriza rápido, abriendo la válvula con cuidado y apartando la cara del vapor.",
+    "Prueba la salsa: debe estar brillante y cubrir la cuchara. Si queda líquida, cuécela destapada 5 minutos. Añade las shiitake y deja que se calienten 1 minuto en la salsa.",
+    "Retira el laurel y las ramas de tomillo, ajusta de pimienta y sirve con las shiitake por encima y el cebollino picado."
   ],
-  nutricion: { kcal: 750, prot: 46, hc: 65, grasa: 32 },
+  nutricion: { kcal: 720, prot: 48, hc: 61, grasa: 28 },
   etiquetas: ["creativa", "invierno", "batch cooking", "alta en proteína", "para invitados", "fin de semana", "poco especiada"],
   consejo: "Es la idea de un bourguignon con un ingrediente japonés: el miso, añadido al sofrito, aporta el fondo tostado y salino que en Francia da el bacon. El miso se vende en la sección de productos asiáticos de los supermercados grandes y dura meses en la nevera. Como todo estofado, está mejor al día siguiente; si lo vas a congelar, aparta antes las patatas, que al descongelarse se vuelven harinosas.",
   alternativa: "Si no tienes olla exprés, guisa la carne en cazuela tapada a fuego muy suave unas 2 horas (con 150 ml más de agua) y echa las chalotas, la zanahoria y las patatas en los últimos 30 minutos.",
