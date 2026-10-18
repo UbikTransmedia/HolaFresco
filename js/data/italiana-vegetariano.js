@@ -234,7 +234,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 90,
   dificultad: "elaborada",
-  equipo: ["horno", "bol", "cazuela", "sartén"],
+  equipo: ["horno", "bol", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "harina de trigo", q: 150, u: "g" },
@@ -254,15 +254,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Mezcla en un bol la harina, una pizca de sal, 2 cda de aceite y el agua tibia, y amasa 5 minutos hasta tener una masa lisa y blanda que no se pegue. Tápala y déjala reposar 30 minutos.",
-    "Mientras reposa, pon a hervir agua con sal y lava las acelgas y las espinacas; separa las pencas de las acelgas y pícalas. Escalda las pencas 3 minutos y las hojas 1 minuto en el agua hirviendo. Escúrrelo todo, enfríalo y estrújalo con las manos hasta que no suelte más agua; después pica las hojas. Pica también la cebolleta, el ajo y el perejil y ralla el parmesano.",
-    "En una sartén, funde la mantequilla y rehoga la cebolleta y el ajo 4 minutos. Añade la verdura y saltéala 5 minutos para secarla bien. Deja que se temple.",
+    "Mientras reposa, lava las acelgas y las espinacas; separa las pencas de las acelgas y pícalas, y pica las hojas. Pica también la cebolleta, el ajo y el perejil y ralla el parmesano.",
+    "En una sartén amplia, funde la mantequilla y rehoga la cebolleta y el ajo 4 minutos. Añade las pencas y rehógalas 5 minutos; incorpora las hojas a puñados y saltéalas a fuego vivo 6–8 minutos, hasta que se hayan reducido y no quede agua en el fondo. Pásalo a un colador, aprieta con una cuchara para quitar el líquido que quede y deja que se temple.",
     "Mezcla la verdura con el parmesano (reserva 1 cucharada), el huevo, el pan rallado, el perejil, sal y pimienta. Precalienta el horno a 200 °C.",
     "Divide la masa en dos partes, una algo mayor, y estíralas muy finas, de 1–2 mm. Unta un molde de 24 cm con un poco del aceite restante y fórralo con la lámina mayor, dejando que sobresalga.",
     "Extiende el relleno, cúbrelo con la otra lámina, sella los bordes enrollándolos hacia dentro y pincha toda la superficie con un tenedor.",
     "Pinta con el resto del aceite, espolvorea el parmesano reservado y hornea 35–40 minutos, hasta que la superficie esté dorada y crujiente, con burbujas tostadas.",
     "Deja reposar 10 minutos antes de cortar. Se come templado o frío."
   ],
-  nutricion: { kcal: 775, prot: 31, hc: 80, grasa: 37 },
+  nutricion: { kcal: 755, prot: 32, hc: 72, grasa: 37 },
   etiquetas: ["tradicional", "emilia-romaña", "al horno", "económica", "batch cooking", "ideal para llevar", "poco especiada"],
   consejo: "En Reggio Emilia la masa se hace con manteca de cerdo y el relleno lleva un sofrito con panceta; esta es la versión «di magro», sin carne, que se hace en muchas casas con aceite y mantequilla. El truco es secar muy bien la verdura: si queda agua, la base sale cruda. Aguanta 3 días en la nevera y está buenísimo frío, cortado en cuadrados para llevar.",
   tupper: true,
@@ -281,7 +281,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["bol", "sartén", "cazuela"],
+  equipo: ["bol", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "pan", q: 120, u: "g", nota: "del día anterior, sin corteza" },
@@ -300,14 +300,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Trocea el pan y remójalo en la leche 5 minutos. Mientras, ralla los quesos, pica muy finos 1 diente de ajo y el perejil, pica la cebolla y lamina el otro ajo. Estrújalo bien con las manos para quitarle el exceso.",
+    "Trocea el pan y remójalo en la leche 5 minutos. Mientras, ralla los quesos, pica muy finos 1 diente de ajo y el perejil, pica la cebolla y lamina el otro ajo. Estruja el pan con las manos para quitarle el exceso de leche.",
     "En un bol, mezcla el pan con los huevos, los quesos rallados, el ajo y el perejil picados, y pimienta. Amasa con las manos: debe quedar una pasta blanda que se pueda formar; si está pegajosa, déjala 10 minutos en la nevera. Forma 10–12 bolitas algo aplanadas, del tamaño de una nuez grande.",
     "Calienta el aceite en una sartén a fuego medio-alto (unos 170 °C) y fríe las pallotte 2 minutos por cada lado, hasta que estén doradas. Escúrrelas sobre papel de cocina.",
-    "En una cazuela, calienta 1 cda de ese aceite y sofríe la cebolla, el ajo laminado y la guindilla, si la usas, 5 minutos. Añade el tomate y sal y cuece 10 minutos a fuego suave.",
-    "Mete las pallotte en la salsa, tapa y cuécelas 10–12 minutos a fuego muy suave, sin remover (mueve la cazuela por las asas), hasta que se hinchen y absorban parte de la salsa.",
+    "Retira el aceite de la sartén a un cuenco dejando 1 cucharada y sofríe en ella la cebolla, el ajo laminado y la guindilla, si la usas, 5 minutos. Añade el tomate y sal y cuece 10 minutos a fuego suave.",
+    "Mete las pallotte en la salsa, tapa y cuécelas 10–12 minutos a fuego muy suave, sin remover (mueve la sartén por el mango), hasta que se hinchen y absorban parte de la salsa.",
     "Sirve con hojas de albahaca por encima."
   ],
-  nutricion: { kcal: 635, prot: 29, hc: 47, grasa: 36 },
+  nutricion: { kcal: 790, prot: 32, hc: 46, grasa: 52 },
   etiquetas: ["tradicional", "abruzos", "para niños", "batch cooking"],
   consejo: "Es la «carne de los pobres» de los Abruzos: en los días sin carne se hacían albóndigas con pan duro, queso de oveja y huevo. Si prefieres no freír, dóralas 12 minutos en la airfryer a 190 °C o en el horno y luego cuécelas en la salsa. Recalentadas al día siguiente están aún mejor, porque se empapan de tomate.",
   tupper: true,
@@ -480,10 +480,10 @@ window.RECETAS_SEED.push({
     "Colócala en una fuente, úntala con el aceite, sala y ásala 35–40 minutos, hasta que esté dorada y tostada en las puntas y un cuchillo entre sin resistencia hasta el centro. Los últimos 5 minutos, tuesta el pan en la rejilla.",
     "Mientras, tuesta las avellanas en una sartén seca 4 minutos y pícalas gruesas. En la misma sartén, tuesta la pimienta en grano 1 minuto y machácala gruesa en un mortero.",
     "Ralla muy finos el pecorino y el parmesano. Disuelve la maicena en 2 cucharadas del agua reservada, ya fría.",
-    "En un cazo, calienta 150 ml del agua de cocción con la mantequilla y la maicena hasta que espese ligeramente, 1 minuto. Retira del fuego, espera 1 minuto y añade los quesos de golpe batiendo con varillas hasta tener una salsa lisa y brillante. Añade la mitad de la pimienta.",
+    "En la misma sartén, calienta 150 ml del agua de cocción con la mantequilla y la maicena hasta que espese ligeramente, 1 minuto. Retira del fuego, espera 1 minuto y añade los quesos de golpe batiendo con varillas hasta tener una salsa lisa y brillante. Añade la mitad de la pimienta.",
     "Napa la coliflor con la salsa caliente, esparce las avellanas, el resto de la pimienta y la ralladura del limón. Córtala en cuartos en la mesa y sirve con el pan tostado y unas gotas de zumo de limón."
   ],
-  nutricion: { kcal: 625, prot: 27, hc: 38, grasa: 40 },
+  nutricion: { kcal: 590, prot: 26, hc: 33, grasa: 38 },
   etiquetas: ["creativa", "al horno", "para invitados", "otoño", "invierno"],
   consejo: "La clave de cualquier cacio e pepe es que el queso no se cuaje en grumos: el líquido no debe estar hirviendo cuando lo añades (unos 65–70 °C) y el queso tiene que estar rallado muy fino. La pizca de maicena es un seguro que no cambia el sabor. Cocer la coliflor antes de asarla hace que quede tierna por dentro y dorada por fuera; cruda necesitaría más de una hora de horno.",
   tupper: false,
@@ -502,7 +502,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "batidora", "sartén"],
+  equipo: ["horno", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "calabaza", q: 700, u: "g", nota: "pelada y sin semillas" },
@@ -521,12 +521,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza en dados de 3 cm, mézclala con el aceite y sal y ásala 25–30 minutos, hasta que esté tierna y con los bordes caramelizados.",
-    "Mientras, pica la cebolla y pela y trocea la patata. Rehógalas en una cazuela con 5 g de mantequilla 5 minutos, añade el caldo y cuece 15 minutos, hasta que la patata esté tierna. Mientras cuece, ralla el parmesano y desmenuza los amaretti con los dedos en trozos irregulares.",
+    "Mientras, pica la cebolla y pela y trocea la patata. En la cazuela, calienta 10 g de mantequilla a fuego medio y fríe las hojas de salvia 30–40 segundos, hasta que dejen de burbujear y estén crujientes. Sácalas a un papel y vierte la mantequilla en una taza.",
+    "En la misma cazuela, rehoga la cebolla y la patata con los 5 g de mantequilla restantes 5 minutos, añade el caldo y cuece 15 minutos, hasta que la patata esté tierna. Mientras cuece, ralla el parmesano y desmenuza los amaretti con los dedos en trozos irregulares.",
     "Añade la calabaza asada a la cazuela, cuece 3 minutos más y tritura con la batidora hasta obtener una crema muy fina. Incorpora la mitad del parmesano y la nuez moscada, y ajusta de sal y pimienta. Si está muy espesa, aligérala con agua caliente.",
-    "En una sartén pequeña, calienta el resto de la mantequilla a fuego medio y fríe las hojas de salvia 30–40 segundos, hasta que dejen de burbujear y estén crujientes. Escúrrelas sobre papel.",
-    "Sirve la crema caliente con los amaretti, el resto del parmesano, la salvia crujiente y un hilo de la mantequilla de la sartén."
+    "Sirve la crema caliente con los amaretti, el resto del parmesano, la salvia crujiente y un hilo de la mantequilla de salvia."
   ],
-  nutricion: { kcal: 470, prot: 14, hc: 57, grasa: 20 },
+  nutricion: { kcal: 410, prot: 14, hc: 42, grasa: 20 },
   etiquetas: ["creativa", "de cuchara", "ligera", "otoño", "invierno", "batch cooking", "poco especiada"],
   consejo: "En Mantua los tortelli de calabaza llevan amaretti y mostarda de frutas en el relleno: ese juego de dulce, amargo y salado es lo que imita esta crema. Congela la crema sin los toppings hasta 3 meses; la salvia y los amaretti, siempre en el momento de servir.",
   tupper: true,
@@ -769,7 +769,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["bol", "cazuela", "sartén", "horno"],
+  equipo: ["bol", "sartén", "horno"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 1, u: "ud" },
@@ -790,15 +790,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: en un bol, bate el huevo con 70 g de harina y una pizca de sal y añade 175 ml de leche poco a poco, batiendo con varillas, hasta tener una crema lisa y fluida, sin grumos. Déjala reposar 15 minutos.",
-    "Mientras, separa el brócoli en ramilletes pequeños y pela y lamina el tronco. Cuécelo 3 minutos en una cazuela con agua hirviendo y sal, y escúrrelo bien. Lamina el ajo, ralla el parmesano y pica gruesas las nueces.",
-    "En una sartén antiadherente de unos 20 cm, calienta el aceite con el ajo laminado y la guindilla desmenuzada 1 minuto a fuego medio. Añade el brócoli y saltéalo 4–5 minutos, aplastándolo un poco con la cuchara, hasta que esté tierno y algo dorado. Salpimienta y pásalo a un bol.",
+    "Mientras, separa el brócoli en ramilletes pequeños y pela y lamina el tronco. Lamina el ajo, ralla el parmesano y pica gruesas las nueces.",
+    "En una sartén antiadherente de unos 20 cm, calienta el aceite con el ajo laminado y la guindilla desmenuzada 1 minuto a fuego medio. Añade el brócoli, sal y 4 cucharadas de agua, tapa y cuécelo 4 minutos; destapa y saltéalo 3–4 minutos más, aplastándolo un poco con la cuchara, hasta que esté tierno, sin agua y algo dorado. Salpimienta y pásalo a un bol.",
     "Precalienta el horno a 200 °C. Limpia la sartén con papel, úntala con los 5 g de mantequilla y ponla a fuego medio. Vierte un cacito de masa (unos 50 ml), gira la sartén para cubrir el fondo y cuaja la crespella 1 minuto, hasta que los bordes se despeguen; dale la vuelta y cocina 30 segundos más. Repite hasta tener 6 y apílalas en un plato.",
-    "Para la bechamel, funde 15 g de mantequilla en un cazo, añade 15 g de harina y cocina 1 minuto removiendo. Vierte 250 ml de leche fría de golpe y bate con varillas a fuego medio 5–6 minutos, hasta que espese y cubra la cuchara. Sazona con sal y la nuez moscada.",
+    "Para la bechamel, funde 15 g de mantequilla en la misma sartén, añade 15 g de harina y cocina 1 minuto removiendo. Vierte 250 ml de leche fría de golpe y bate con varillas a fuego medio 5–6 minutos, hasta que espese y cubra la cuchara. Sazona con sal y la nuez moscada.",
     "Corta la scamorza en dados pequeños y mézclala con el brócoli y 3 cucharadas de bechamel. Reparte el relleno sobre las crespelle, enróllalas y colócalas en una fuente untada con un poco de bechamel, con el cierre hacia abajo.",
     "Cúbrelas con el resto de la bechamel, el parmesano y las nueces, y hornea 15–18 minutos, hasta que la superficie esté dorada y burbujee.",
     "Deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 770, prot: 36, hc: 53, grasa: 46 },
+  nutricion: { kcal: 745, prot: 34, hc: 48, grasa: 46 },
   etiquetas: ["creativa", "al horno", "batch cooking", "otoño", "invierno"],
   consejo: "Las crespelle son las crepes italianas: en los Abruzos, la Toscana y la Emilia se rellenan y se gratinan como unos canelones. El brócoli con scamorza ahumada es una pareja muy del sur de Italia, pero también funciona con coliflor o con grelos. Puedes hacer las crespelle el día anterior y guardarlas apiladas y tapadas con film en la nevera; ya gratinadas aguantan 2 días y se recalientan 10 minutos en el horno.",
   tupper: true,

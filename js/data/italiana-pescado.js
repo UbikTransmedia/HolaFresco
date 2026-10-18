@@ -21,7 +21,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 70,
   dificultad: "elaborada",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "cazón", q: 200, u: "g", nota: "en dados; o rape, rubio o cabracho" },
@@ -42,15 +42,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los mejillones raspando la concha y tirando de la barba hacia la parte estrecha; descarta los que estén rotos o abiertos y no se cierren al golpearlos. Corta el cazón en dados de 4 cm y el calamar en anillas de 1 cm. Lamina 2 dientes de ajo.",
-    "Calienta 2 cucharadas de aceite en una cazuela ancha a fuego medio y sofríe el ajo laminado con la salvia y la guindilla durante 1 minuto, hasta que el ajo empiece a tomar color.",
+    "Tuesta el pan en una cazuela ancha con 1 cucharada de aceite a fuego medio, 2 minutos por cada lado, frótalo con el diente de ajo crudo que te queda y resérvalo.",
+    "En la misma cazuela, calienta las 2 cucharadas de aceite restantes a fuego medio y sofríe el ajo laminado con la salvia y la guindilla durante 1 minuto, hasta que el ajo empiece a tomar color.",
     "Añade el calamar y rehógalo 5 minutos: primero soltará agua y luego volverá a chisporrotear. Vierte el vino tinto, sube el fuego y deja que se evapore el alcohol durante 3 minutos.",
     "Incorpora el tomate triturado y una pizca de sal, tapa a medias y cuece 20 minutos a fuego suave, hasta que el calamar esté tierno y la salsa haya oscurecido y espesado. Mientras, pica el perejil.",
     "Vierte el caldo caliente, lleva a un hervor suave y añade el cazón. Cuece 5 minutos sin remover; mueve la cazuela por las asas para que el pescado no se rompa.",
     "Reparte los mejillones y los langostinos por encima, tapa y cuece 4 minutos, hasta que los mejillones se abran y los langostinos estén rosados. Retira los mejillones que sigan cerrados y prueba de sal.",
-    "Mientras, tuesta el pan en una sartén con 1 cucharada de aceite, 2 minutos por cada lado, y frótalo con el diente de ajo crudo que te queda.",
     "Coloca el pan en el fondo de dos platos hondos, sirve encima el pescado y el marisco con todo su caldo y termina con el perejil."
   ],
-  nutricion: { kcal: 635, prot: 51, hc: 48, grasa: 26 },
+  nutricion: { kcal: 650, prot: 55, hc: 44, grasa: 26 },
   etiquetas: ["tradicional", "de cuchara", "para invitados", "alta en proteína", "invierno"],
   consejo: "En Livorno dicen que el cacciucco debe llevar al menos cinco pescados, uno por cada «c» del nombre: cuantos más tipos, más sabor. Valen cazón, rape, rubio, cabracho, sepia o pulpo; añade siempre al final lo que se cuece antes. Puedes dejar hecha la base de tomate y calamar el día anterior y terminar el plato en 10 minutos. El vino tinto y la salvia son la firma livornesa: no los cambies por vino blanco.",
   tupper: false,
@@ -413,7 +413,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 55,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "cuscús", q: 120, u: "g" },
@@ -433,15 +433,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las gambas y reserva las cabezas y las cáscaras. Corta la merluza en 4 trozos y sálala ligeramente. Pica la cebolla y uno de los ajos.",
-    "Calienta 2 cucharadas de aceite en una cazuela y sofríe la cebolla 6 minutos, hasta que esté transparente. Añade el ajo picado y las cabezas y cáscaras de las gambas, y aplástalas con una cuchara de madera durante 3 minutos para que suelten su jugo rojo.",
-    "Añade el tomate, el laurel, la guindilla y el caldo, y cuece a fuego suave 15 minutos.",
-    "Mientras, tuesta las almendras en una sartén sin aceite 3 minutos, removiendo, hasta que estén doradas. Májalas en un mortero, o pícalas, con el otro diente de ajo y la mitad del perejil hasta tener una pasta gruesa. Pica el resto del perejil.",
+    "Tuesta las almendras en la cazuela, en seco, 3 minutos, removiendo, hasta que estén doradas, y sácalas. Calienta en ella 2 cucharadas de aceite y sofríe la cebolla 6 minutos, hasta que esté transparente. Añade el ajo picado y las cabezas y cáscaras de las gambas, y aplástalas con una cuchara de madera durante 3 minutos para que suelten su jugo rojo.",
+    "Añade el tomate, el laurel, la guindilla y el caldo, y cuece a fuego suave 15 minutos. Mientras, maja las almendras en un mortero, o pícalas, con el otro diente de ajo y la mitad del perejil hasta tener una pasta gruesa. Pica el resto del perejil.",
     "Cuela el caldo apretando bien las cabezas y devuélvelo a la cazuela. Disuelve en él la pasta de almendras, prueba de sal y pimienta y mantenlo caliente. Separa 150 ml en una jarra.",
     "Pon el cuscús en un bol con la cucharada de aceite restante y una pizca de sal, vierte encima los 150 ml de caldo hirviendo, tapa con un plato y deja reposar 5 minutos. Desgránalo con un tenedor.",
     "Mientras reposa el cuscús, cuece la merluza en el caldo 4 minutos a fuego suave y añade las gambas 2 minutos más, hasta que estén rosadas.",
     "Sirve el cuscús en platos hondos con la merluza y las gambas encima, riega con un cazo de caldo y termina con el resto del perejil. Lleva a la mesa el caldo que sobre para añadir al gusto."
   ],
-  nutricion: { kcal: 640, prot: 38, hc: 56, grasa: 29 },
+  nutricion: { kcal: 720, prot: 48, hc: 58, grasa: 31 },
   etiquetas: ["tradicional", "alta en proteína", "para invitados"],
   consejo: "En Trapani la sémola se trabaja a mano y se cuece al vapor sobre el caldo en una cuscusera de barro; con cuscús precocido el resultado es muy parecido en una fracción del tiempo. Es la herencia árabe de la Sicilia occidental. Los pescados de roca (cabracho, rubio, gallo) dan un caldo más intenso que la merluza: si tienes tiempo, pide al pescadero espinas y cabezas y haz tú el caldo.",
   tupper: false,
@@ -460,7 +459,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["sartén", "cazuela", "batidora"],
+  equipo: ["sartén", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "rape (lomos)", q: 300, u: "g", nota: "en una pieza gruesa" },
@@ -481,13 +480,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el rape en 4 medallones de unos 3 cm de grosor y sécalos con papel. Sazona con poca sal, porque el jamón ya sala, y con pimienta. Lamina el ajo.",
     "Apoya una hoja de salvia en el lateral de cada medallón y rodéalo con una loncha de jamón, apretando para que se pegue; si hace falta, sujétalo con un palillo. Enharina ligeramente las dos caras del corte, que quedan a la vista, y sacude el exceso.",
-    "Para el puré, calienta 1 cucharada de aceite en un cazo con el ajo y la rama de romero durante 1 minuto. Añade las judías y el caldo y calienta 5 minutos. Retira el romero, tritura con el zumo del medio limón hasta tener una crema lisa, salpimienta y tapa.",
-    "Calienta la otra cucharada de aceite en una sartén a fuego medio-alto y dora los medallones 2-3 minutos por cada cara, girándolos también por el lado del jamón, hasta que este cruja y el rape esté opaco en el centro. Sácalos a un plato.",
+    "Para el puré, calienta 1 cucharada de aceite en la sartén con el ajo y la rama de romero durante 1 minuto. Añade las judías y el caldo y calienta 5 minutos. Retira el romero, pásalo al vaso de la batidora y tritura con el zumo del medio limón hasta tener una crema lisa; salpimienta y tapa.",
+    "Pasa un papel por la sartén, calienta en ella la otra cucharada de aceite a fuego medio-alto y dora los medallones 2-3 minutos por cada cara, girándolos también por el lado del jamón, hasta que este cruja y el rape esté opaco en el centro. Sácalos a un plato.",
     "Baja el fuego, añade a la sartén las 4 hojas de salvia restantes y el vino, y raspa el fondo con una cuchara de madera. Deja reducir a la mitad, 1-2 minutos.",
     "Aparta la sartén del fuego y añade la mantequilla fría, moviendo la sartén en círculos hasta que la salsa quede brillante y ligada.",
     "Sirve el puré en la base del plato, los medallones encima sin los palillos y la salsa con la salvia por encima."
   ],
-  nutricion: { kcal: 495, prot: 40, hc: 26, grasa: 24 },
+  nutricion: { kcal: 540, prot: 43, hc: 29, grasa: 26 },
   etiquetas: ["creativa", "para invitados", "alta en proteína", "otoño", "sin verduras", "poco especiada"],
   consejo: "La saltimbocca alla romana se hace con filetes finos de ternera, jamón y salvia; el rape aguanta igual de bien la sartén y no se desmigaja. Funciona también con lomos gruesos de merluza o de bacalao fresco. Si tu jamón serrano es muy curado, el prosciutto crudo italiano es más suave y menos salado. Sin palillos: aprieta bien el jamón y empieza a dorar por la parte donde se cierra la loncha.",
   tupper: false,
@@ -640,7 +639,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao fresco", q: 300, u: "g", nota: "en 2 lomos" },
@@ -658,14 +657,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Raspa la superficie de las cortezas de parmesano con un cuchillo y lávalas. Ponlas en una cazuela con el agua, la chalota partida por la mitad, 1 diente de ajo aplastado y el laurel.",
-    "Cuece a fuego suave 30 minutos, removiendo de vez en cuando para que las cortezas no se peguen al fondo, hasta que el caldo esté turbio, sabroso y reducido a unos 500 ml.",
-    "Mientras, calienta el aceite en una sartén pequeña con la rama de romero y el otro ajo laminado a fuego mínimo durante 5 minutos; apártalo y deja que infusione. Quita el tallo central de la kale y corta las hojas en tiras.",
+    "Raspa la superficie de las cortezas de parmesano con un cuchillo y lávalas. Calienta el aceite en la cazuela con la rama de romero y 1 diente de ajo laminado a fuego mínimo durante 5 minutos y pásalo a una taza para que infusione.",
+    "Pon en la misma cazuela las cortezas con el agua, la chalota partida por la mitad, el otro diente de ajo aplastado y el laurel.",
+    "Cuece a fuego suave 30 minutos, removiendo de vez en cuando para que las cortezas no se peguen al fondo, hasta que el caldo esté turbio, sabroso y reducido a unos 500 ml. Mientras, quita el tallo central de la kale y corta las hojas en tiras.",
     "Cuela el caldo, devuélvelo a la cazuela con las judías y la kale y cuece 5 minutos, hasta que la kale esté tierna. Prueba antes de salar: el queso ya sala.",
     "Salpimienta el bacalao y colócalo sobre las verduras, medio sumergido en el caldo. Tapa y cuece a fuego muy suave 6-7 minutos, hasta que esté opaco y se separe en lascas.",
     "Sirve en platos hondos el caldo con las alubias y la kale, el bacalao encima, un chorrito del aceite de romero, unas gotas de limón y pimienta."
   ],
-  nutricion: { kcal: 440, prot: 41, hc: 23, grasa: 19 },
+  nutricion: { kcal: 525, prot: 48, hc: 26, grasa: 24 },
   etiquetas: ["creativa", "de cuchara", "ligera", "sin gluten", "invierno", "alta en proteína", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En Italia no se tira la corteza del parmesano: se guarda en el congelador y se echa a la sopa. Aquí se convierte en un caldo lleno de sabor, el «brodo di parmigiano», muy usado en la cocina italiana moderna. Puedes hacerlo con antelación y congelarlo en raciones. El bacalao fresco se puede cambiar por merluza o abadejo.",
   tupper: false,
@@ -768,7 +767,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "trucha (filetes)", q: 300, u: "g", nota: "unos 4 filetes con piel" },
@@ -786,14 +785,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal y, mientras, despunta las judías verdes. Cuécelas 6-7 minutos, hasta que estén tiernas pero con un punto crujiente. Escúrrelas.",
+    "Despunta las judías verdes y ponlas en una sartén amplia con un dedo de agua y sal. Tapa y cuécelas a fuego medio 6-7 minutos, hasta que estén tiernas pero con un punto crujiente. Escúrrelas y seca la sartén.",
     "Mientras se cuecen, ralla el parmesano y mézclalo en un plato con la polenta, la ralladura de medio limón y pimienta. Bate el huevo en otro plato y lamina el ajo.",
     "Seca los filetes de trucha con papel y sálalos. Pasa solo la cara de la carne por el huevo y después por la mezcla de polenta, presionando para que se adhiera bien.",
-    "Calienta el aceite en una sartén amplia a fuego medio. Coloca la trucha con la costra hacia abajo y cocina 3 minutos sin moverla, hasta que esté dorada y crujiente; dale la vuelta y cocina 2 minutos por el lado de la piel.",
+    "Calienta el aceite en la sartén a fuego medio. Coloca la trucha con la costra hacia abajo y cocina 3 minutos sin moverla, hasta que esté dorada y crujiente; dale la vuelta y cocina 2 minutos por el lado de la piel.",
     "Saca la trucha. En la misma sartén, a fuego medio, funde la mantequilla con el ajo y las alcaparras 1 minuto, añade las judías y saltéalas 2 minutos con el zumo de medio limón y sal.",
     "Sirve la trucha sobre las judías, con el resto del limón en gajos."
   ],
-  nutricion: { kcal: 550, prot: 41, hc: 23, grasa: 31 },
+  nutricion: { kcal: 570, prot: 42, hc: 25, grasa: 32 },
   etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "económica", "poco especiada"],
   consejo: "La polenta, que en el norte de Italia se come cremosa o a la plancha, sirve también de empanado: cruje más que el pan rallado y no lleva gluten. La trucha es uno de los pescados más económicos y se encuentra todo el año; la receta funciona igual con caballa o con filetes de merluza. Para que la costra no se despegue, no muevas el pescado hasta que se suelte solo de la sartén.",
   tupper: false,
@@ -812,7 +811,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["sartén", "plancha"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "caballa", q: 280, u: "g", nota: "en filetes con piel, unos 4" },
@@ -828,14 +827,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la calabaza en lonchas de 1 cm y lamina el ajo. Calienta 1 cucharada de aceite en una sartén amplia a fuego medio y dórala 4-5 minutos por cada lado, hasta que esté tierna y con manchas tostadas; hazlo en dos tandas si no cabe, con un chorrito más de aceite. Sálala y pásala a una fuente.",
+    "Corta la calabaza en lonchas de 1 cm y lamina el ajo. Tuesta las almendras en una sartén amplia sin aceite 2-3 minutos, removiendo, hasta que estén doradas, y sácalas. Tuesta también el pan en la sartén 1 minuto por cada lado y resérvalo.",
+    "Calienta 1 cucharada de aceite en la misma sartén a fuego medio y dora la calabaza 4-5 minutos por cada lado, hasta que esté tierna y con manchas tostadas; hazlo en dos tandas si no cabe, con un chorrito más de aceite. Sálala y pásala a una fuente.",
     "En la misma sartén, a fuego suave, dora el ajo 1 minuto. Añade el vinagre y el azúcar y remueve 1 minuto, hasta que el azúcar se disuelva y el líquido espese un poco.",
-    "Vierte el agridulce caliente sobre la calabaza, añade la mitad de las hojas de menta y deja que repose mientras haces el pescado (si la preparas con 30 minutos o una noche de antelación, mejor).",
-    "Tuesta las almendras en una sartén sin aceite 2-3 minutos, removiendo, hasta que estén doradas, y tuesta el pan.",
-    "Seca muy bien los filetes de caballa, haz 2 o 3 cortes superficiales en la piel y sálalos. Calienta la plancha a fuego fuerte, úntala con unas gotas de aceite y cocina la caballa con la piel hacia abajo 3 minutos, hasta que la piel cruja y la carne esté opaca casi hasta arriba; dale la vuelta y deja 30 segundos.",
+    "Vierte el agridulce caliente sobre la calabaza, añade la mitad de las hojas de menta y deja que repose mientras haces el pescado (si la preparas con 30 minutos o una noche de antelación, mejor). Mientras, seca muy bien los filetes de caballa, haz 2 o 3 cortes superficiales en la piel y sálalos.",
+    "Pasa un papel por la sartén, caliéntala a fuego fuerte con unas gotas de aceite y cocina la caballa con la piel hacia abajo 3 minutos, hasta que la piel cruja y la carne esté opaca casi hasta arriba; dale la vuelta y deja 30 segundos.",
     "Sirve la calabaza con su jugo, la caballa encima con la piel hacia arriba, las almendras, el resto de la menta y pimienta, con el pan tostado al lado."
   ],
-  nutricion: { kcal: 605, prot: 34, hc: 38, grasa: 35 },
+  nutricion: { kcal: 610, prot: 33, hc: 33, grasa: 38 },
   etiquetas: ["creativa", "económica", "alta en proteína", "otoño", "poco especiada"],
   consejo: "La zucca in agrodolce es una receta casera de Palermo a la que llaman «fegato ai sette cannoli», el hígado de los siete caños, porque era el «hígado» de los pobres del barrio de la fuente de ese nombre. Está más buena de un día para otro y aguanta 4 días en la nevera, así que puedes hacer el doble. La grasa de la caballa pide algo ácido: la receta funciona igual con sardinas o con jurel.",
   tupper: false,

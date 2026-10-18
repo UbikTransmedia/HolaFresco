@@ -615,7 +615,7 @@ window.RECETAS_SEED.push({
   proteina: "seitan",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["olla-express", "sartén"],
+  equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
     { n: "seitán", q: 250, u: "g" },
@@ -635,14 +635,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el seitán en dados de 3 cm y sécalo con papel de cocina. Corta la calabaza en dados de 4 cm y las patatas peladas en dados de 3 cm (la calabaza, más grande, porque se ablanda antes). Pica fina la cebolla, lamina el ajo y pica 4 hojas de salvia.",
-    "En la olla exprés destapada calienta 1 cda de aceite a fuego medio-fuerte y dora el seitán 4-5 min, dándole la vuelta, hasta que tenga una costra tostada. Retíralo y resérvalo.",
-    "Añade otra cucharada de aceite y rehoga la cebolla 5 min, hasta que esté blanda. Agrega el ajo, la salvia picada y el tomate concentrado y remueve 1 min. Moja con el vino, raspa el fondo y deja que hierva 2 min, hasta que pierda el olor a alcohol.",
-    "Añade la calabaza, las patatas, el romero y el caldo, y sala con prudencia (el seitán suele venir sazonado). Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 5 min. Despresuriza rápido.",
-    "Mientras, calienta la última cucharada de aceite en la sartén a fuego medio y fríe las hojas de salvia enteras 30-40 s, hasta que estén crujientes y translúcidas. Sácalas a un papel y guarda el aceite aromatizado. Parte las castañas por la mitad.",
+    "En la olla exprés destapada calienta 1 cda de aceite a fuego medio y fríe las hojas de salvia enteras 30-40 s, hasta que estén crujientes y translúcidas. Sácalas a un papel y vierte el aceite aromatizado en una taza.",
+    "Sube a fuego medio-fuerte, añade otra cucharada de aceite y dora el seitán 4-5 min, dándole la vuelta, hasta que tenga una costra tostada. Retíralo y resérvalo.",
+    "Añade la última cucharada de aceite y rehoga la cebolla 5 min, hasta que esté blanda. Agrega el ajo, la salvia picada y el tomate concentrado y remueve 1 min. Moja con el vino, raspa el fondo y deja que hierva 2 min, hasta que pierda el olor a alcohol.",
+    "Añade la calabaza, las patatas, el romero y el caldo, y sala con prudencia (el seitán suele venir sazonado). Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 5 min. Despresuriza rápido. Mientras, parte las castañas por la mitad.",
     "Abre: la calabaza debe estar tierna y algunos trozos empezar a deshacerse. Retira el romero, devuelve el seitán, añade las castañas y cuece destapado a fuego medio 4-5 min, moviendo la olla, hasta que la calabaza deshecha espese la salsa.",
     "Prueba de sal, añade pimienta recién molida y sirve con la salvia crujiente y un hilo del aceite de salvia por encima."
   ],
-  nutricion: { kcal: 625, prot: 37, hc: 65, grasa: 23.5 },
+  nutricion: { kcal: 585, prot: 37, hc: 57, grasa: 23 },
   etiquetas: ["creativa", "vegana", "alta en proteína", "sin lácteos", "invierno", "batch cooking", "poco especiada", "bajo en colesterol"],
   consejo: "Usa calabaza de carne prieta, tipo violín: aguanta la presión sin convertirse en puré. El seitán vuelve a la olla después de la presión para que no se quede esponjoso y conserve la costra. Es gluten de trigo, así que no es apto para celíacos: para una versión sin gluten cámbialo por garbanzos cocidos y añádelos con las castañas. Aguanta 3 días en la nevera; la salvia crujiente, hazla al servir.",
   tupper: true,
@@ -759,7 +759,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 110,
   dificultad: "elaborada",
-  equipo: ["olla-express", "airfryer", "sartén"],
+  equipo: ["olla-express", "airfryer"],
   raciones: 3,
   ingredientes: [
     { n: "panceta fresca", q: 350, u: "g", nota: "en una pieza rectangular, con piel y sin hueso" },
@@ -782,7 +782,7 @@ window.RECETAS_SEED.push({
     "Pon la rejilla o el cestillo en la olla exprés, coloca encima el rollo y vierte alrededor el vino y el agua, sin que lleguen a la piel. Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 40 min. Deja que la presión baje sola, unos 15 min; mientras, precalienta la airfryer a 200 °C.",
     "Saca el rollo con cuidado y sécale bien la piel con papel de cocina: cuanto más seca, más cruje.",
     "Cocina el rollo en la airfryer a 200 °C 15-18 min, girándolo a mitad, hasta que la piel se hinche en burbujas doradas y suene hueca al golpearla.",
-    "Mientras, cuela el líquido de la olla y retira con una cuchara casi toda la grasa de arriba. En la sartén calienta el aceite con el ajo restante laminado y la otra rama de romero 1 min, añade las alubias y 100 ml del jugo desgrasado y cuece 5 min, hasta que espese. Ajusta de sal.",
+    "Mientras, cuela el líquido de la olla a un bol y retira con una cuchara casi toda la grasa de arriba. Pasa un papel por la olla, calienta en ella el aceite con el ajo restante laminado y la otra rama de romero 1 min, añade las alubias y 100 ml del jugo desgrasado y cuece destapado 5 min, hasta que espese. Ajusta de sal.",
     "Deja reposar la porchetta 5 min, quita el cordel y córtala en rodajas de 1 cm con un cuchillo de sierra. Sírvela sobre las alubias, con la rúcula aliñada con el zumo del limón."
   ],
   nutricion: { kcal: 665, prot: 27, hc: 24, grasa: 49 },
@@ -805,7 +805,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["olla-express", "sartén", "cazuela"],
+  equipo: ["olla-express", "cazuela"],
   raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 700, u: "g", nota: "de lomo o de panceta, en trozos de 2-3 huesos" },
@@ -830,8 +830,8 @@ window.RECETAS_SEED.push({
     "Rehoga la cebolla y los ajos 4 min a fuego medio, hasta que la cebolla esté blanda. Vierte 50 ml del balsámico y el agua y raspa el fondo con una cuchara de madera para despegar lo tostado. Añade el romero, el laurel y las costillas, de pie y apretadas.",
     "Cierra a fuego fuerte; cuando suba la válvula, baja a fuego medio-bajo y cuenta 25 min. Deja que la presión baje sola, unos 12 min: si la liberas de golpe, la carne se endurece.",
     "Mientras, pela las patatas, córtalas en trozos iguales y cuécelas en un cazo con agua fría y sal 20 min desde que hierva, hasta que se deshagan al pincharlas. Escúrrelas, cháfalas con un pasapurés o un tenedor (con batidora se vuelven elásticas) y mézclalas con la leche caliente y el parmesano. Ajusta de sal.",
-    "Abre la olla: la carne debe separarse del hueso. Saca las costillas, cuela el líquido y desgrásalo con una cuchara. Ponlo en la sartén con el resto del balsámico y la miel y redúcelo a fuego fuerte 6-8 min, hasta que esté espeso y brillante como un jarabe.",
-    "Devuelve las costillas a la sartén y dales vueltas a fuego medio 2-3 min, hasta que queden lacadas y pegajosas. Sírvelas sobre el puré, con la rúcula al lado y pimienta recién molida."
+    "Abre la olla: la carne debe separarse del hueso. Saca las costillas, cuela el líquido y desgrásalo con una cuchara. Devuélvelo a la olla con el resto del balsámico y la miel y redúcelo destapado a fuego fuerte 6-8 min, hasta que esté espeso y brillante como un jarabe.",
+    "Devuelve las costillas a la olla y dales vueltas a fuego medio 2-3 min, hasta que queden lacadas y pegajosas. Sírvelas sobre el puré, con la rúcula al lado y pimienta recién molida."
   ],
   nutricion: { kcal: 730, prot: 35, hc: 42, grasa: 47 },
   etiquetas: ["creativa", "alta en proteína", "sin gluten", "fin de semana", "para invitados", "poco especiada"],
@@ -897,7 +897,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["olla-express", "sartén", "cazuela"],
+  equipo: ["olla-express", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "calabacín", q: 500, u: "g" },
@@ -922,11 +922,11 @@ window.RECETAS_SEED.push({
     "Calienta media cucharada de aceite en la sartén a fuego medio y rehoga la cebolleta 3 min; añade el calabacín y saltéalo 5-6 min, hasta que no quede líquido y empiece a dorarse. Pásalo a un bol y deja que temple 5 min. Mientras, pica la mitad de la albahaca.",
     "Añade al calabacín los huevos, la ricotta, el parmesano (reserva 1 cda), la nuez moscada, la albahaca picada y pimienta, y mezcla bien. Unta con la mantequilla 4 flaneras o moldes individuales de unos 150 ml, espolvoréalos con el pan rallado, rellénalos hasta 1 cm del borde y tápalos con papel de aluminio.",
     "Pon la rejilla o el cestillo en la olla exprés con el agua y coloca encima las flaneras. Cierra a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 10 min. Deja que la presión baje sola, unos 10 min: los flanes deben estar firmes al tocarlos y un palillo debe salir limpio.",
-    "Mientras, calienta en un cazo media cucharada de aceite con el ajo laminado 1 min, añade el tomate y sal y cuécelo a fuego suave 12-15 min, hasta que espese; al final rompe dentro unas hojas de albahaca. Tuesta el pan.",
+    "Mientras, tuesta el pan en la misma sartén 1-2 min por cara y resérvalo. Calienta en ella media cucharada de aceite con el ajo laminado 1 min, añade el tomate y sal y cuécelo a fuego suave 12-15 min, hasta que espese; al final rompe dentro unas hojas de albahaca.",
     "Saca las flaneras con cuidado y deja que reposen 3 min. Pasa un cuchillo fino por el borde y desmolda cada flan sobre un charco de salsa de tomate.",
     "Termina con el parmesano reservado, el resto de la albahaca y un hilo del aceite restante, y sirve con el pan tostado."
   ],
-  nutricion: { kcal: 595, prot: 30.5, hc: 42, grasa: 33 },
+  nutricion: { kcal: 585, prot: 30, hc: 39, grasa: 33 },
   etiquetas: ["creativa", "verano", "para niños", "batch cooking", "económica", "verduras escondidas", "poco especiada"],
   consejo: "El sformato es el flan salado de verdura de Toscana, Emilia y el Piamonte, que tradicionalmente se cuaja con bechamel al baño maría en el horno; esta versión con ricotta es más ligera y la olla exprés hace de baño maría en 10 minutos. Escurrir bien el calabacín es lo que evita que quede aguado. Puedes hacerlo con espinacas, guisantes o alcachofas, o en un solo molde de 750 ml con unos 18 min de presión. Aguantan 2 días en la nevera: recaliéntalos 1 min en el microondas o cómelos templados.",
   alternativa: "Sin olla, cuaja las flaneras tapadas al baño maría en el horno a 170 °C, con agua caliente hasta media altura, 35-40 min, hasta que un palillo salga limpio.",
