@@ -46,16 +46,16 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-762",
-  nombre: "Conejo al ajillo con romero, guindilla y pimientos rojos asados",
+  nombre: "Conejo al ajillo con romero, guindilla y pimientos rojos",
   subtitulo: "con un golpe de vino blanco y perejil picado",
   origen: "inventada",
   categoria: "carnes",
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "mixto",
-  tiempo: 45,
+  tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "horno"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "conejo troceado", q: 600, u: "g", nota: "en trozos pequeños" },
@@ -72,14 +72,13 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 2, u: "rebanada", opcional: true, nota: "para mojar" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Asa los pimientos enteros en una bandeja 30 minutos, girándolos a mitad, hasta que la piel esté ampollada y negra en algunos puntos. Tápalos 10 minutos con un paño, pélalos y córtalos en tiras con su jugo.",
-    "Mientras, seca bien el conejo con papel y salpimiéntalo. Chafa los dientes de ajo con la piel con la hoja del cuchillo.",
+    "Seca bien el conejo con papel y salpimiéntalo. Chafa los dientes de ajo con la piel con la hoja del cuchillo y corta los pimientos en tiras de 1 cm.",
     "Calienta el aceite en una cazuela ancha a fuego medio-alto y dora el conejo por tandas, 8–10 minutos en total, hasta que esté bien tostado por todos los lados.",
-    "Añade los ajos chafados, el romero, el tomillo y la guindilla; baja a fuego medio y cocina 3 minutos removiendo, hasta que los ajos estén dorados y la cocina huela a ajo y romero.",
-    "Vierte el vino blanco, deja que evapore el alcohol 1 minuto, tapa y cocina a fuego suave 15 minutos, moviendo la cazuela, hasta que el conejo esté tierno y la salsa se reduzca a un jugo brillante. Mientras, pica el perejil.",
-    "Incorpora las tiras de pimiento asado con su jugo, mezcla 2 minutos y termina con el perejil picado. Sirve con pan para mojar si quieres."
+    "Añade los ajos chafados, las tiras de pimiento, el romero, el tomillo y la guindilla; baja a fuego medio y cocina 3 minutos removiendo, hasta que los ajos estén dorados y la cocina huela a ajo y romero.",
+    "Vierte el vino blanco, deja que evapore el alcohol 1 minuto, tapa y cocina a fuego suave 15 minutos, moviendo la cazuela, hasta que el conejo esté tierno, el pimiento blando y dulce y la salsa se reduzca a un jugo brillante. Mientras, pica el perejil.",
+    "Termina con el perejil picado y sirve con pan para mojar si quieres."
   ],
-  nutricion: { kcal: 425, prot: 43, hc: 13, grasa: 22 },
+  nutricion: { kcal: 535, prot: 54, hc: 15, grasa: 27 },
   etiquetas: ["mediterránea", "fácil", "aromática", "ligera", "alta en proteína"],
   consejo: "Si no encuentras conejo, usa muslos de pollo deshuesados en dados: la receta funciona igual en 5 minutos menos.",
   contundencia: "ligera",
@@ -246,14 +245,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Unta el pollo con 1 cucharada de zumaque, el comino, la canela, el zumo de medio limón, media cucharada de aceite, sal y pimienta.",
-    "Corta las cebollas en pluma fina y póchalas en una sartén con 1 cucharada de aceite y una pizca de sal a fuego medio-bajo 15 minutos, removiendo a menudo, hasta que estén blandas, dulces y moradas oscuras.",
-    "Mientras, coloca el pollo en una bandeja y hornéalo 20–22 minutos, hasta que esté dorado y suelte un jugo claro al pincharlo.",
-    "Tuesta las almendras en una sartén seca 2–3 minutos, hasta que huelan y estén doradas. Mezcla el yogur con la ralladura del limón y una pizca de sal, y pica el perejil.",
+    "Precalienta el horno a 210 °C. Unta el pollo con 1 cucharada de zumaque, el comino, la canela, el zumo de medio limón, media cucharada de aceite, sal y pimienta, y colócalo en una bandeja.",
+    "Tuesta las almendras en una sartén seca 2–3 minutos, hasta que huelan y estén doradas, y resérvalas. Mete el pollo en el horno 20–22 minutos, hasta que esté dorado y suelte un jugo claro al pincharlo.",
+    "Mientras, corta las cebollas en pluma fina y póchalas en la misma sartén con 1 cucharada de aceite y una pizca de sal a fuego medio-bajo 15 minutos, removiendo a menudo, hasta que estén blandas, dulces y moradas oscuras. Mientras se pochan, mezcla el yogur con la ralladura del limón y una pizca de sal, y pica el perejil.",
     "Abre las pitas, píntalas con el resto del aceite, reparte encima la mitad de la cebolla, coloca el pollo cortado en tiras y cubre con el resto de la cebolla y del zumaque. Hornea 6–8 minutos, hasta que el borde del pan esté crujiente.",
     "Termina con las almendras, el perejil picado y unas gotas de limón, y sirve con el yogur."
   ],
-  nutricion: { kcal: 765, prot: 51, hc: 50, grasa: 40 },
+  nutricion: { kcal: 845, prot: 53, hc: 59, grasa: 43 },
   etiquetas: ["mediterránea", "fácil", "al horno", "aromática", "alta en proteína", "poco especiada"],
   consejo: "El zumaque aporta un ácido afrutado que equilibra el dulzor de la cebolla: si no lo tienes, usa ralladura de limón y una pizca de pimentón.",
   contundencia: "contundente",

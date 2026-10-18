@@ -526,7 +526,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela", "plancha"],
+  equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "caballa fresca (lomos)", q: 280, u: "g" },
@@ -548,12 +548,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas. Escúrrelas y aliña con el orégano, una cucharadita de aceite y sal.",
     "Mientras, corta los pimientos y la cebolla en tiras. Calienta 1,5 cucharadas de aceite en una sartén y sofríelos a fuego medio 12 minutos, removiendo de vez en cuando, hasta que estén blandos y dulces. Mientras, lamina el ajo y ralla el tomate.",
-    "Añade el ajo y el tomate y cocina 5 minutos más. Incorpora las alcaparras y el vinagre, deja que se evapore 1 minuto y apaga. Termina con la albahaca rota.",
-    "Seca los lomos de caballa y sálalos. Calienta la plancha a fuego fuerte con unas gotas de aceite.",
+    "Añade el ajo y el tomate y cocina 5 minutos más. Incorpora las alcaparras y el vinagre, deja que se evapore 1 minuto y apaga. Termina con la albahaca rota y pasa la peperonata a una fuente.",
+    "Seca los lomos de caballa y sálalos. Limpia la sartén con papel, añade unas gotas de aceite y ponla a fuego fuerte.",
     "Pon la caballa con la piel hacia abajo 2-3 minutos, presionando al principio, hasta que la piel esté crujiente; dale la vuelta solo 30 segundos.",
     "Sirve la peperonata templada con la caballa encima y las patatas al orégano al lado."
   ],
-  nutricion: { kcal: 575, prot: 32, hc: 44, grasa: 30 },
+  nutricion: { kcal: 615, prot: 33, hc: 46, grasa: 32 },
   etiquetas: ["mediterránea", "fácil", "aromática", "económica", "batch cooking", "verano", "poco especiada"],
   consejo: "La peperonata está todavía más buena al día siguiente: haz el doble y úsala en bocadillos, sobre tostadas con queso fresco o como base para huevos al plato.",
   contundencia: "media",
@@ -571,7 +571,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["sartén", "plancha"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "atún rojo (lomos)", q: 280, u: "g", nota: "en dos filetes de 2 cm" },
@@ -592,13 +592,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la berenjena en dados de 2 cm, sálala y déjala 10 minutos en un colador. Mientras, pica el apio y la cebolla, parte los tomates cherry, corta las aceitunas en rodajas y tuesta los piñones 2 minutos en la sartén seca. Seca bien la berenjena con papel de cocina.",
-    "Calienta 2 cucharadas de aceite en una sartén amplia a fuego medio-alto y saltea la berenjena 8 minutos, removiendo, hasta que esté dorada por fuera y cremosa por dentro.",
+    "Calienta 2 cucharadas de aceite en la sartén a fuego medio-alto y saltea la berenjena 8 minutos, removiendo, hasta que esté dorada por fuera y cremosa por dentro.",
     "Añade el apio y la cebolla y cocina 3 minutos. Incorpora los tomates cherry, las aceitunas y las alcaparras y cocina 4 minutos, hasta que el tomate se ablande.",
-    "Disuelve el azúcar en el vinagre, viértelo en la sartén y deja que se evapore 1 minuto: notarás el aroma agridulce. Apaga, añade los piñones y la albahaca y deja templar. Mientras, tuesta el pan.",
-    "Seca el atún, úntalo con el resto del aceite, sal y pimienta. Marca en la plancha muy caliente 1 minuto por lado, hasta que tenga costra fuera y siga rosado dentro.",
+    "Disuelve el azúcar en el vinagre, viértelo en la sartén y deja que se evapore 1 minuto: notarás el aroma agridulce. Apaga, añade los piñones y la albahaca y pasa la caponata a una fuente para que temple. Mientras, tuesta el pan.",
+    "Limpia la sartén con papel. Seca el atún, úntalo con el resto del aceite, sal y pimienta, y márcalo en la sartén muy caliente 1 minuto por lado, hasta que tenga costra fuera y siga rosado dentro.",
     "Corta el atún en tiras gruesas y sírvelo sobre la caponata templada con el pan tostado."
   ],
-  nutricion: { kcal: 545, prot: 38, hc: 34, grasa: 28 },
+  nutricion: { kcal: 605, prot: 39, hc: 29, grasa: 36 },
   etiquetas: ["mediterránea", "aromática", "para invitados", "verano", "alta en proteína", "poco especiada"],
   consejo: "No pases el atún: si lo cocinas más de 2 minutos en total se seca. La caponata, como cualquier guiso siciliano, mejora en la nevera; hazla la víspera y sírvela a temperatura ambiente.",
   alternativa: "Si el atún rojo está muy caro, usa lomos de atún claro o, en verano, bonito del norte del mismo grosor; márcalos igual de rápido para que no se sequen.",
@@ -940,11 +940,11 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 210 °C con calor arriba y abajo.",
     "Corta la calabaza en dados de 2,5 cm y la cebolla en gajos. Mézclalos en una bandeja grande con los garbanzos, el comino, el pimentón, el aceite y sal y extiéndelos en una sola capa.",
     "Hornea 25 minutos, removiendo a mitad, hasta que la calabaza esté tierna y caramelizada por los bordes y los garbanzos algo crujientes.",
-    "Mientras, pica el eneldo, ralla el ajo y mézclalos con el yogur, la ralladura de medio limón, sal y unas gotas de zumo. Tuesta las semillas de calabaza 2 minutos en una sartén seca.",
-    "Haz hueco en la bandeja, coloca el salmón salado con la piel hacia abajo, ralla por encima la otra mitad de la piel de limón y hornea 10-12 minutos, hasta que el salmón se separe en lascas pero siga jugoso en el centro.",
-    "Sirve la bandeja con cucharadas de yogur al eneldo, las semillas por encima y un chorrito de limón."
+    "Mientras, pica el eneldo, ralla el ajo y mézclalos con el yogur, la ralladura de medio limón, sal y unas gotas de zumo.",
+    "Haz hueco en la bandeja, coloca el salmón salado con la piel hacia abajo, ralla por encima la otra mitad de la piel de limón y hornea 10-12 minutos, hasta que el salmón se separe en lascas pero siga jugoso en el centro. En los 3 últimos minutos, esparce las semillas de calabaza sobre las verduras para que se tuesten.",
+    "Sirve la bandeja con cucharadas de yogur al eneldo y un chorrito de limón."
   ],
-  nutricion: { kcal: 720, prot: 44, hc: 50, grasa: 38 },
+  nutricion: { kcal: 770, prot: 47, hc: 43, grasa: 44 },
   etiquetas: ["mediterránea", "fácil", "aromática", "al horno", "invierno", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "Si te sobra, desmiga el salmón y mezcla todo con hojas de espinaca y el yogur aligerado con agua: tienes una ensalada templada para el día siguiente.",
   contundencia: "contundente",
@@ -1049,7 +1049,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 140,
   dificultad: "media",
-  equipo: ["horno", "batidora", "bol"],
+  equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "caballa fresca (lomos)", q: 280, u: "g" },
@@ -1068,14 +1068,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la chermoula: tritura la mitad del cilantro, el perejil, el ajo, 1 cucharadita de comino, el pimentón, el zumo de medio limón, 1 cucharada de aceite y sal hasta tener una pasta verde y fragante.",
+    "Prepara la chermoula: pica muy finos a cuchillo la mitad del cilantro, el perejil y el ajo, y mézclalos en un bol con 1 cucharadita de comino, el pimentón, el zumo de medio limón, 1 cucharada de aceite y sal hasta tener una pasta verde y fragante.",
     "Unta bien los lomos de caballa con dos tercios de la chermoula, colócalos en una fuente, tapa y deja marinar en la nevera 2 horas (hasta 6 horas como máximo).",
     "Cuando falten 15 minutos para acabar la marinada, precalienta el horno a 210 °C y corta las zanahorias en bastones. Mézclalas con el resto del comino, la canela, un chorrito de aceite y sal y ásalas 20 minutos, hasta que estén tiernas y caramelizadas. Mientras, pica el resto del cilantro.",
     "Coloca la caballa con la piel hacia arriba en la misma bandeja junto a las zanahorias y hornea 8-10 minutos, hasta que la piel esté tersa y la carne opaca.",
     "Mientras, hierve el caldo, viértelo sobre el cuscús con las pasas y el resto del aceite, tapa 5 minutos y esponja con un tenedor. Mezcla con las zanahorias asadas y el resto del cilantro.",
     "Sirve la caballa sobre el cuscús con la chermoula reservada por encima y cuñas de limón."
   ],
-  nutricion: { kcal: 615, prot: 35, hc: 56, grasa: 28 },
+  nutricion: { kcal: 705, prot: 37, hc: 64, grasa: 33 },
   etiquetas: ["mediterránea", "aromática", "al horno", "económica", "ideal para llevar"],
   consejo: "La chermoula es el adobo estrella del pescado marroquí: haz el doble y congélala en cubiteras para tenerla siempre a mano. Funciona igual con sardinas, merluza o pollo.",
   contundencia: "media",

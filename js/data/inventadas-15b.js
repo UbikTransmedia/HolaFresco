@@ -148,7 +148,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["sartén", "cazuela"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "calamar", q: 600, u: "g", nota: "4 medianos, limpios, con sus patas" },
@@ -171,18 +171,19 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica finas las patas y aletas de los calamares, los 2 ajos y la cebolla, y reserva aparte 1 ajo y la mitad de la cebolla para la salsa. Sofríe el resto en una sartén con 1 cucharada de aceite a fuego medio 5 minutos, hasta que el calamar deje de soltar agua.",
-    "Tuesta los piñones en seco 2 minutos hasta que estén dorados. En un bol mezcla el sofrito, el pan rallado, los piñones, el parmesano, el huevo, la menta y la mitad del perejil picados, la ralladura de medio limón, sal y pimienta.",
+    "Pica finas las patas y aletas de los calamares, los 2 ajos y la cebolla, y reserva aparte 1 ajo y la mitad de la cebolla para la salsa.",
+    "En una cazuela ancha, tuesta los piñones en seco 2 minutos hasta que estén dorados y pásalos a un bol. En la misma cazuela sofríe las patas, las aletas, el ajo y la cebolla del relleno con 1 cucharada de aceite a fuego medio 5 minutos, hasta que el calamar deje de soltar agua.",
+    "Pasa el sofrito al bol de los piñones y mézclalo con el pan rallado, el parmesano, el huevo, la menta y la mitad del perejil picados, la ralladura de medio limón, sal y pimienta.",
     "Rellena los tubos de calamar hasta 3/4 de su capacidad (encogen al cocinarse) y ciérralos con un palillo.",
-    "En una cazuela ancha dora los calamares rellenos con 1 cucharada de aceite a fuego medio-alto 1 minuto por lado. Retíralos.",
-    "En la misma cazuela pocha el resto de la cebolla y el otro ajo picados 6 minutos. Añade el vino y deja evaporar 2 minutos; incorpora el tomate y una pizca de sal.",
+    "En la misma cazuela dora los calamares rellenos con 1 cucharada de aceite a fuego medio-alto 1 minuto por lado. Retíralos.",
+    "Pocha ahí el resto de la cebolla y el otro ajo picados 6 minutos. Añade el vino y deja evaporar 2 minutos; incorpora el tomate y una pizca de sal.",
     "Devuelve los calamares, tapa y cocina a fuego suave 35 minutos, dándoles la vuelta a mitad, hasta que se pinchen con facilidad. Si la salsa espesa demasiado, añade un chorrito de agua.",
     "Sirve los calamares cortados en rodajas gruesas con la salsa, el resto del perejil, la rúcula aliñada con zumo de limón y el último aceite, y el pan para la salsa."
   ],
-  nutricion: { kcal: 660, prot: 52, hc: 50, grasa: 28 },
+  nutricion: { kcal: 845, prot: 66, hc: 57, grasa: 37 },
   etiquetas: ["mediterránea", "aromática", "para invitados", "batch cooking", "invierno", "poco especiada"],
   consejo: "Están aún más ricos de un día para otro: guárdalos en su salsa y caliéntalos a fuego suave tapados. Puedes añadir unas pasas al relleno para un aire siciliano.",
-  alternativa: "Para el relleno puedes cambiar los piñones por almendras crudas picadas o nueces (los mismos 20 g), tostadas un minuto en la sartén: el resultado apenas cambia y sale más barato.",
+  alternativa: "Para el relleno puedes cambiar los piñones por almendras crudas picadas o nueces (los mismos 20 g), tostadas un minuto en la cazuela: el resultado apenas cambia y sale más barato.",
   contundencia: "contundente",
   coste: "media"
 });
@@ -412,7 +413,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["horno", "batidora"],
+  equipo: ["horno"],
   raciones: 2,
   ingredientes: [
     { n: "langostinos pelados", q: 300, u: "g" },
@@ -431,14 +432,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Prepara la chermoula triturando el cilantro, el perejil, los ajos, 1 cucharadita de comino, el pimentón, la cayena, el zumo de medio limón, 3 cucharadas de aceite y sal hasta tener una pasta verde y espesa.",
+    "Precalienta el horno a 220 °C. Prepara la chermoula: pica muy finos a cuchillo el cilantro, el perejil y los ajos, y mézclalos con 1 cucharadita de comino, el pimentón, la cayena, el zumo de medio limón, 3 cucharadas de aceite y sal hasta tener una pasta verde y espesa.",
     "Mezcla los langostinos con la mitad de la chermoula y déjalos marinar mientras haces los garbanzos.",
     "Corta el pimiento en tiras y la cebolla en gajos. En una bandeja grande mézclalos con los garbanzos, la última cucharada de aceite, sal y una cucharadita de chermoula.",
     "Hornea 18 minutos, removiendo a mitad, hasta que los garbanzos estén crujientes por fuera y el pimiento tierno con los bordes tostados.",
     "Reparte los langostinos sobre los garbanzos y hornea 5 o 6 minutos más, hasta que estén rosados y opacos.",
     "Mezcla el yogur con el resto del comino y una pizca de sal. Sirve la bandeja con la chermoula restante por encima, gajos de limón y el yogur aparte."
   ],
-  nutricion: { kcal: 592, prot: 44, hc: 50, grasa: 24 },
+  nutricion: { kcal: 690, prot: 46, hc: 47, grasa: 33 },
   etiquetas: ["mediterránea", "aromática", "al horno", "marroquí", "batch cooking"],
   consejo: "La chermoula aguanta 4 días en la nevera cubierta de aceite: úsala para pollo, pescado blanco o para aliñar patatas cocidas.",
   contundencia: "media",
@@ -830,15 +831,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica la cebolla, el pimiento y 2 ajos. En una cazuela calienta 2 cucharadas de aceite a fuego medio-alto y saltea la sepia 5 minutos, hasta que suelte el agua y esta se evapore. Retírala.",
-    "En la misma cazuela pocha la cebolla, el pimiento y 2 ajos picados con una pizca de sal 10 minutos, hasta que estén tiernos y dorados.",
+    "Pica la cebolla, el pimiento y 2 ajos. En una cazuela, fríe el pan en 1 cucharada de aceite hasta que esté dorado y resérvalo.",
+    "Añade a la cazuela 2 cucharadas de aceite a fuego medio-alto y saltea la sepia 5 minutos, hasta que suelte el agua y esta se evapore. Retírala.",
+    "En la misma cazuela pocha la cebolla, el pimiento y los 2 ajos picados con una pizca de sal 10 minutos, hasta que estén tiernos y dorados.",
     "Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte el vino. Vuelve al fuego y deja reducir 3 minutos. Incorpora el tomate y cocina 5 minutos.",
     "Devuelve la sepia, añade el romero, el laurel y agua justo hasta cubrir. Tapa y cuece a fuego suave 45 minutos, hasta que la sepia esté casi tierna.",
-    "Mientras, pela las patatas. Fríe el pan en la última cucharada de aceite y májalo en un mortero con las almendras, el ajo restante y el perejil hasta tener una pasta gruesa.",
+    "Mientras, pela las patatas y maja en un mortero el pan frito con las almendras, el ajo restante y el perejil hasta tener una pasta gruesa.",
     "Añade a la cazuela las patatas chascadas en trozos (rompiéndolas con el cuchillo para que suelten almidón) y la picada. Cuece 25 minutos más, hasta que las patatas estén tiernas y la salsa trabada.",
     "Retira el romero y el laurel, rectifica de sal y deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 666, prot: 52, hc: 56, grasa: 26 },
+  nutricion: { kcal: 795, prot: 67, hc: 58, grasa: 28 },
   etiquetas: ["mediterránea", "fácil", "de cuchara", "batch cooking", "invierno", "aromática", "poco especiada"],
   consejo: "Como todo guiso, gana de un día para otro. Si tienes olla exprés, la sepia queda tierna en 12 minutos y luego basta con 10 más con las patatas.",
   contundencia: "contundente",

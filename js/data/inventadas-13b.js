@@ -126,11 +126,11 @@ window.RECETAS_SEED.push({
     "Seca bien los garbanzos con papel de cocina; cuanto más secos, más se doran. Lamina los ajos, corta los piquillos en tiras y pica el perejil.",
     "Calienta 2 cucharadas de aceite en una sartén grande a fuego medio y dora el ajo laminado 1 minuto, hasta que empiece a tomar color. Retíralo con una espumadera y resérvalo.",
     "Sube el fuego, añade los garbanzos en una sola capa y déjalos 3 minutos sin tocar. Saltea luego 4-5 minutos más, hasta que estén dorados y la piel cruja.",
-    "Agrega los piquillos y las tiras de jamón y saltea 1 minuto, solo para que el jamón suelte su grasa sin secarse. Aparta del fuego, espolvorea el pimentón, el ajo frito y una pizca de sal, y mezcla.",
-    "En otra sartén pequeña con la última cucharada de aceite bien caliente, fríe los huevos 1-2 minutos, echándoles aceite por encima con la cuchara, hasta que la clara tenga puntilla y la yema siga líquida.",
-    "Reparte los garbanzos en dos platos, coloca un huevo encima de cada uno y espolvorea el perejil. Rompe la yema en la mesa y moja con pan."
+    "Agrega los piquillos y las tiras de jamón y saltea 1 minuto, solo para que el jamón suelte su grasa sin secarse. Aparta del fuego, espolvorea el pimentón, el ajo frito y una pizca de sal, mezcla y reparte en dos platos.",
+    "En la misma sartén, con la última cucharada de aceite bien caliente, fríe los huevos 1-2 minutos, echándoles aceite por encima con la cuchara, hasta que la clara tenga puntilla y la yema siga líquida.",
+    "Coloca un huevo encima de cada plato de garbanzos y espolvorea el perejil. Rompe la yema en la mesa y moja con pan."
   ],
-  nutricion: { kcal: 590, prot: 32, hc: 48, grasa: 30 },
+  nutricion: { kcal: 590, prot: 31, hc: 35, grasa: 34 },
   etiquetas: ["rápida", "una sola sartén", "de aprovechamiento", "poco especiada"],
   consejo: "El pimentón siempre fuera del fuego: con el calor residual suelta el aroma y no amarga.",
   contundencia: "media",
@@ -357,7 +357,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 210 °C con ventilador y forra una bandeja con papel. Escalda las habas y los guisantes 2 minutos en agua hirviendo, enfríalos en agua fría y pela las habas más grandes si la piel es dura.",
+    "Precalienta el horno a 210 °C con ventilador y forra una bandeja con papel. Descongela las habas y los guisantes en un colador bajo el grifo de agua templada, escúrrelos bien y pela las habas más grandes si la piel es dura.",
     "Tritura las habas y los guisantes con la cebolleta, el ajo, la mitad del perejil y del cilantro, el comino y sal, a golpes, hasta obtener una pasta granulosa, no un puré.",
     "Pasa la mezcla a un bol y añade la harina de garbanzo y la levadura. Mezcla y deja reposar 10 minutos: la harina absorbe la humedad y la masa se vuelve moldeable.",
     "Forma 12 bolitas aplanadas con las manos húmedas, colócalas en la bandeja y píntalas con 1 cucharada de aceite. Hornea 20 minutos, dándoles la vuelta a mitad, hasta que estén doradas por fuera y firmes al tacto.",
@@ -365,7 +365,7 @@ window.RECETAS_SEED.push({
     "Para la ensalada, corta pepino, tomate y rábanos en dados pequeños, mezcla con las hojas de menta y el resto del perejil y cilantro, y aliña con el otro medio limón, 1 cucharada de aceite, sal y zumaque.",
     "Sirve los falafel sobre la ensalada y riega con la salsa de tahini."
   ],
-  nutricion: { kcal: 426, prot: 22, hc: 44, grasa: 18 },
+  nutricion: { kcal: 480, prot: 22, hc: 37, grasa: 24 },
   etiquetas: ["al horno", "ligera", "vegana", "primavera", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Si la masa queda demasiado blanda para formar bolas, añade una cucharada más de harina de garbanzo en lugar de pan rallado.",
   alternativa: "Sin zumaque, termina la ensalada con ralladura de limón y una pizca de pimentón dulce: da la misma nota ácida sin añadir líquido.",
@@ -384,7 +384,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g", nota: "con 100 ml de su líquido" },
@@ -404,12 +404,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el caldo a calentar en un cazo. Calienta 2 cucharadas de aceite en una cazuela a fuego medio-bajo con los ajos aplastados, las ramas de romero y la guindilla. Deja que se confite 3 minutos, hasta que el ajo esté dorado; retira el ajo y la guindilla.",
     "Añade el tomate concentrado y remueve 1 minuto, hasta que oscurezca un poco. Incorpora los garbanzos con su líquido y el caldo caliente, y cuece 10 minutos a fuego suave. Mientras, ralla el parmesano y la piel del limón.",
-    "Retira el romero. Saca un tercio de los garbanzos con un poco de caldo, tritúralos hasta tener un puré liso y devuélvelos a la cazuela.",
+    "Retira el romero. Saca un tercio de los garbanzos con un poco de caldo, aplástalos con un tenedor hasta tener un puré lo más fino posible y devuélvelos a la cazuela.",
     "Lleva a ebullición, añade la pasta y cuécela directamente en la cazuela el tiempo del paquete más 1 minuto, removiendo a menudo para que no se pegue. Si se queda seca, añade agua caliente a cazos.",
     "Debe quedar un plato a medio camino entre sopa y risotto. Apaga, añade la mitad del parmesano, pimienta y la ralladura de limón, y remueve con energía 30 segundos.",
     "Sirve en plato hondo con el resto del parmesano y un hilo de aceite crudo."
   ],
-  nutricion: { kcal: 718, prot: 30, hc: 100, grasa: 22 },
+  nutricion: { kcal: 710, prot: 26, hc: 81, grasa: 29 },
   etiquetas: ["de cuchara", "económica", "invierno", "para niños", "vegetariana", "sin verduras", "bajo en colesterol"],
   consejo: "La pasta suelta almidón y espesa el caldo: no la cuezas aparte ni la enjuagues. Al recalentar, añade un chorrito de agua porque se espesa mucho.",
   contundencia: "contundente",
@@ -447,13 +447,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz con 240 ml de agua y sal, tapado y a fuego mínimo, 12 minutos. Mientras, pica la cebolla, el pimiento, el ajo y el cilantro. Extiende el arroz en una bandeja para que se enfríe y se seque: el gallo pinto sale mejor con arroz del día anterior o bien oreado.",
-    "Pela el plátano macho y córtalo en rodajas al bies de 1 cm. Dóralo en una sartén con 1 cucharada de aceite a fuego medio 3 minutos por lado, hasta que esté caramelizado y tierno. Resérvalo.",
-    "En una sartén grande, sofríe la cebolla, el pimiento y el ajo con 1/2 cucharada de aceite 5 minutos, hasta que estén blandos.",
+    "Pela el plátano macho y córtalo en rodajas al bies de 1 cm. Dóralo en una sartén grande con 1 cucharada de aceite a fuego medio 3 minutos por lado, hasta que esté caramelizado y tierno. Resérvalo.",
+    "En la misma sartén, sofríe la cebolla, el pimiento y el ajo con 1/2 cucharada de aceite 5 minutos, hasta que estén blandos.",
     "Añade los frijoles con su líquido, la salsa worcestershire y el comino, y cocina 2 minutos hasta que el líquido reduzca a la mitad.",
-    "Incorpora el arroz y mezcla a fuego medio-alto 4-5 minutos, hasta que el arroz se tiña de oscuro y se tueste ligeramente en el fondo. Termina con el cilantro.",
-    "Fríe los huevos en el resto del aceite y sírvelos sobre el gallo pinto, con el plátano al lado y salsa picante al gusto."
+    "Incorpora el arroz y mezcla a fuego medio-alto 4-5 minutos, hasta que el arroz se tiña de oscuro y se tueste ligeramente en el fondo. Termina con el cilantro y reparte en los platos.",
+    "En la misma sartén, fríe los huevos en el resto del aceite y sírvelos sobre el gallo pinto, con el plátano al lado y salsa picante al gusto."
   ],
-  nutricion: { kcal: 608, prot: 24, hc: 92, grasa: 16 },
+  nutricion: { kcal: 705, prot: 24, hc: 101, grasa: 20 },
   etiquetas: ["económica", "de aprovechamiento", "una sola sartén", "vegetariana"],
   consejo: "La salsa worcestershire sustituye a la salsa Lizano tica; si la encuentras en tiendas latinas, úsala y tendrás el sabor auténtico.",
   contundencia: "media",
@@ -471,7 +471,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["horno", "batidora", "sartén"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g", nota: "escurridos y secos" },
@@ -490,14 +490,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Saltea las espinacas en una sartén seca 1-2 minutos, hasta que se ablanden; escúrrelas apretando bien con las manos y pícalas.",
-    "Tritura los garbanzos a golpes con 1 diente de ajo, el comino y sal, hasta tener una masa gruesa. Pásala a un bol con las espinacas, el huevo batido y el pan rallado, y mezcla. Debe poder formarse sin pegarse; si está blanda, añade más pan rallado.",
+    "Precalienta el horno a 200 °C. Saltea las espinacas en una sartén seca 1-2 minutos, hasta que se ablanden; escúrrelas apretando bien con las manos y pícalas. Pica la cebolla y los dos ajos.",
+    "En un bol, aplasta los garbanzos con un tenedor o un machacador junto con la mitad del ajo, el comino y sal, hasta tener una masa gruesa. Añade las espinacas, el huevo batido y el pan rallado, y mezcla. Debe poder formarse sin pegarse; si está blanda, añade más pan rallado.",
     "Forma 12 albóndigas del tamaño de una nuez, colócalas en una fuente apta para horno ligeramente aceitada y hornea 12 minutos, hasta que estén firmes y doradas por debajo.",
-    "Mientras, pica la cebolla y el otro ajo y sofríelos con el aceite 5 minutos en una sartén. Añade el pimentón y la canela, remueve 20 segundos y agrega el tomate triturado con sal. Cuece 8 minutos, hasta que espese.",
+    "Mientras, sofríe la cebolla y el resto del ajo con el aceite 5 minutos en la sartén. Añade el pimentón y la canela, remueve 20 segundos y agrega el tomate triturado con sal. Cuece 8 minutos, hasta que espese.",
     "Vierte la salsa alrededor de las albóndigas en la fuente y hornea 10 minutos más, hasta que la salsa burbujee. Mientras, pica la menta.",
     "Mezcla el yogur con la mitad de la menta y una pizca de sal. Sirve las albóndigas con cucharadas de yogur por encima y el resto de la menta."
   ],
-  nutricion: { kcal: 424, prot: 24, hc: 46, grasa: 16 },
+  nutricion: { kcal: 455, prot: 22, hc: 50, grasa: 16 },
   etiquetas: ["al horno", "ligera", "económica", "para niños", "batch cooking", "vegetariana", "detox", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las albóndigas crudas se congelan bien en bandeja; hornéalas directamente congeladas añadiendo 5 minutos.",
   contundencia: "ligera",
@@ -515,7 +515,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["sartén", "bol", "batidora"],
+  equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas cocidas", q: 250, u: "g", nota: "bien escurridas" },
@@ -535,14 +535,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Ralla la remolacha con el rallador grueso y ponla en un colador apretando para que suelte el exceso de jugo. Seca las lentejas extendiéndolas sobre papel de cocina. Pica muy fino un cuarto de la cebolla morada y corta el resto en aros finos.",
-    "Tritura los copos de avena hasta tener una harina gruesa. Añade la mitad de las lentejas, el ajo, el comino, el tomillo, sal y pimienta, y tritura a golpes hasta formar una pasta.",
-    "Pasa la pasta a un bol con el resto de lentejas enteras, la remolacha y la cebolla picada. Mezcla y refrigera 10 minutos para que la avena absorba la humedad. Mientras, mezcla la mayonesa con la mostaza antigua.",
+    "Ralla la remolacha con el rallador grueso y ponla en un colador apretando para que suelte el exceso de jugo. Seca las lentejas extendiéndolas sobre papel de cocina. Pica muy fino un cuarto de la cebolla morada y el ajo, y corta el resto de la cebolla en aros finos.",
+    "En un bol, aplasta la mitad de las lentejas con un tenedor hasta formar una pasta. Añade los copos de avena, el ajo, el comino, el tomillo, sal y pimienta, el resto de lentejas enteras, la remolacha y la cebolla picada.",
+    "Mezcla bien apretando con las manos y refrigera 10 minutos para que la avena absorba la humedad. Mientras, mezcla la mayonesa con la mostaza antigua.",
     "Forma 2 hamburguesas gruesas de unos 2 cm con las manos húmedas. Dóralas en una sartén antiadherente con el aceite a fuego medio 4-5 minutos por lado, sin moverlas hasta que formen costra.",
     "En el último minuto, coloca una rodaja gruesa de queso de cabra sobre cada hamburguesa y tapa la sartén para que se funda ligeramente.",
     "Tuesta el pan de centeno. Úntalo con la mayonesa de mostaza, añade la rúcula, la hamburguesa y los aros de cebolla, y cierra."
   ],
-  nutricion: { kcal: 554, prot: 28, hc: 70, grasa: 18 },
+  nutricion: { kcal: 610, prot: 27, hc: 69, grasa: 23 },
   etiquetas: ["vegetariana", "para niños", "ideal para llevar", "verduras escondidas", "superalimentos", "poco especiada"],
   consejo: "No te saltes el reposo en frío: es lo que evita que se rompan al darles la vuelta.",
   contundencia: "media",
@@ -558,9 +558,9 @@ window.RECETAS_SEED.push({
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "legumbre",
-  tiempo: 40,
+  tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g" },
@@ -582,15 +582,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga casi clara y cuécelo con 180 ml de agua, tapado, 12 minutos a fuego mínimo. Apaga y deja reposar 10 minutos sin destapar.",
-    "Mientras se cuece el arroz, pon el caldo a calentar y corta la cebolla en gajos, la zanahoria en rodajas al bies y la patata en dados de 2 cm. Rehoga la cebolla con 5 g de mantequilla en una cazuela 5 minutos, hasta que empiece a dorarse.",
-    "Añade zanahoria, patata, garbanzos y el caldo caliente. Ralla la manzana dentro, lleva a ebullición y cuece tapado a fuego suave 15 minutos, hasta que la patata esté tierna. Mientras, pica los pepinillos.",
-    "Prepara el roux: funde el resto de la mantequilla en una sartén a fuego bajo, añade la harina y remueve 3-4 minutos, hasta que tome color avellana. Añade el curry en polvo y remueve 30 segundos más.",
-    "Disuelve el roux en un cazo de caldo de la cazuela y vierte todo a la cazuela. Agrega la soja, el kétchup y la miel, y cuece 5 minutos removiendo hasta que la salsa espese y brille. Rectifica de sal.",
+    "Mientras se cuece el arroz, pon el caldo a calentar y corta la cebolla en gajos, la zanahoria en rodajas al bies y la patata en dados de 2 cm. Rehoga la cebolla con toda la mantequilla en una cazuela 5 minutos, hasta que empiece a dorarse.",
+    "Espolvorea la harina sobre la cebolla y remueve 2-3 minutos a fuego bajo, hasta que tome color avellana. Añade el curry en polvo y remueve 30 segundos más.",
+    "Vierte el caldo caliente poco a poco, removiendo para que no se formen grumos. Añade la zanahoria, la patata y los garbanzos, ralla la manzana dentro, lleva a ebullición y cuece tapado a fuego suave 15 minutos, removiendo de vez en cuando, hasta que la patata esté tierna. Mientras, pica los pepinillos.",
+    "Agrega la soja, el kétchup y la miel, y cuece 3 minutos removiendo hasta que la salsa espese y brille. Rectifica de sal.",
     "Sirve el arroz a un lado del plato hondo y el curry al otro, con el pepinillo por encima para dar un toque ácido."
   ],
-  nutricion: { kcal: 646, prot: 22, hc: 108, grasa: 14 },
+  nutricion: { kcal: 720, prot: 21, hc: 123, grasa: 13 },
   etiquetas: ["para niños", "económica", "batch cooking", "invierno"],
-  consejo: "El curry japonés es dulce y suave; si te gusta picante, añade una pizca de cayena al roux.",
+  consejo: "El curry japonés es dulce y suave; si te gusta picante, añade una pizca de cayena junto con el curry en polvo.",
   contundencia: "media",
   coste: "económica"
 });
@@ -625,15 +625,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon el caldo a calentar. Pica fina la cebolla y 2 dientes de ajo y ralla los tomates. Seca bien la sepia y márcala en la cazuela con 1 cucharada de aceite muy caliente 3 minutos, hasta que suelte el agua y empiece a dorarse. Retírala.",
+    "Pon el caldo a calentar. Pica fina la cebolla y 2 dientes de ajo y ralla los tomates. Tuesta las almendras en seco en la cazuela 2-3 minutos, hasta que se doren, y resérvalas.",
+    "Seca bien la sepia y márcala en la misma cazuela con 1 cucharada de aceite muy caliente 3 minutos, hasta que suelte el agua y empiece a dorarse. Retírala.",
     "En la misma cazuela, con el resto del aceite, sofríe la cebolla a fuego medio-bajo 12 minutos, hasta que esté dorada. Añade el ajo picado y, al minuto, el tomate. Cocina 8 minutos, hasta que el sofrito esté oscuro y concentrado.",
     "Agrega el pimentón, remueve unos segundos y devuelve la sepia. Riega con el vino blanco y deja evaporar el alcohol 2 minutos.",
     "Añade el caldo caliente, tapa y cuece a fuego suave 25 minutos, hasta que la sepia esté tierna al pincharla.",
-    "Mientras, tuesta las almendras 2-3 minutos en una sartén seca y machácalas en el mortero con un poco de perejil y una pizca de sal. Pica el resto del perejil. Prepara el alioli suave mezclando la mayonesa con el último ajo rallado finísimo.",
+    "Mientras, machaca las almendras en el mortero con un poco de perejil y una pizca de sal. Pica el resto del perejil. Prepara el alioli suave mezclando la mayonesa con el último ajo rallado finísimo.",
     "Incorpora las judías y la picada a la cazuela y cuece 5 minutos más, meneando la cazuela por las asas para que no se rompan, hasta que el caldo espese.",
     "Sirve con el perejil picado y una cucharadita de alioli encima de cada plato, para que se funda al mezclar."
   ],
-  nutricion: { kcal: 542, prot: 42, hc: 44, grasa: 22 },
+  nutricion: { kcal: 605, prot: 43, hc: 45, grasa: 25 },
   etiquetas: ["de cuchara", "mar y montaña", "alta en proteína", "sin verduras", "poco especiada"],
   consejo: "Si encuentras la sepia con su bolsa de tinta, añade un poco al sofrito: el guiso se vuelve negro y aún más sabroso.",
   contundencia: "media",
@@ -746,7 +747,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "horno"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 120, u: "g" },
@@ -765,15 +766,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las lentejas con la zanahoria entera, el laurel y el tomillo en agua fría abundante, sin sal, 22-25 minutos desde que hiervan, hasta que estén tiernas pero enteras. Escúrrelas, retira los aromáticos y sálalas en caliente.",
+    "Tuesta las avellanas en seco en la cazuela 2-3 minutos, resérvalas y trocéalas. En la misma cazuela, cuece las lentejas con la zanahoria entera, el laurel y el tomillo en agua fría abundante, sin sal, 22-25 minutos desde que hiervan, hasta que estén tiernas pero enteras.",
     "Mientras, saca el magret de la nevera, sécalo y haz cortes en rombo en la grasa sin llegar a la carne. Salpimiéntalo por ambos lados.",
-    "Ponlo con la piel hacia abajo en una sartén fría y enciende a fuego medio-bajo. Deja que la grasa se funda 10-12 minutos, retirando el exceso con una cuchara, hasta que la piel esté muy dorada y crujiente. Reserva 2 cucharadas de esa grasa.",
-    "Dale la vuelta y cocina 3 minutos por el lado de la carne para un punto rosado (o termínalo 4 minutos en el horno a 180 °C si lo prefieres más hecho). Déjalo reposar 8 minutos sobre una tabla antes de cortar.",
-    "Mientras reposa, tuesta las avellanas 2-3 minutos en un cazo seco y trocéalas. Pica la chalota muy fina y mézclala con el vinagre, la mostaza, sal y pimienta. Añade 2 cucharadas de la grasa del pato tibia y bate, más un poco del zumo de la naranja.",
+    "Ponlo con la piel hacia abajo en una sartén fría y enciende a fuego medio-bajo. Deja que la grasa se funda 10-12 minutos, retirando el exceso con una cuchara, hasta que la piel esté muy dorada y crujiente. Reserva 2 cucharadas de esa grasa. Mientras, escurre las lentejas, retira los aromáticos y sálalas en caliente.",
+    "Dale la vuelta y cocina 3 minutos por el lado de la carne para un punto rosado (o 2 minutos más si lo prefieres más hecho). Déjalo reposar 8 minutos sobre una tabla antes de cortar.",
+    "Mientras reposa, pica la chalota muy fina y mézclala con el vinagre, la mostaza, sal y pimienta. Añade 2 cucharadas de la grasa del pato tibia y bate, más un poco del zumo de la naranja.",
     "Pela la naranja a lo vivo y separa los gajos. Mezcla las lentejas tibias con la mitad de la vinagreta.",
     "Monta los platos con una base de canónigos, las lentejas, los gajos de naranja y el magret cortado en lonchas finas. Riega con el resto de vinagreta y esparce las avellanas."
   ],
-  nutricion: { kcal: 682, prot: 44, hc: 50, grasa: 34 },
+  nutricion: { kcal: 785, prot: 45, hc: 42, grasa: 47 },
   etiquetas: ["para invitados", "alta en proteína", "invierno", "poco especiada"],
   consejo: "Guarda el resto de la grasa del pato en un tarro en la nevera: unas patatas salteadas con ella son otra cosa.",
   contundencia: "contundente",
@@ -857,11 +858,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C con ventilador. Corta la calabaza en dados de 2,5 cm y la cebolla morada en gajos.",
     "En una bandeja grande, mezcla la calabaza, la cebolla y los garbanzos con el aceite, el comino, el pimentón, sal, pimienta y las hojas de 2 ramas de tomillo. Repártelos en una sola capa, sin amontonar.",
-    "Hornea 25 minutos, remueve y hornea 10 minutos más, hasta que la calabaza esté tierna y caramelizada en los bordes y los garbanzos crujientes. Mientras, tuesta las semillas de calabaza 2 minutos en una sartén seca, hasta que empiecen a saltar.",
-    "Desmigaja el feta por encima, riega con la miel en hilo fino y añade las otras ramas de tomillo. Hornea 5 minutos más con el grill, hasta que el feta se dore ligeramente.",
-    "Aliña la rúcula con el zumo de limón y una pizca de sal. Sirve la bandeja sobre la rúcula y espolvorea las semillas."
+    "Hornea 25 minutos, remueve y hornea 10 minutos más, hasta que la calabaza esté tierna y caramelizada en los bordes y los garbanzos crujientes.",
+    "Desmigaja el feta por encima, riega con la miel en hilo fino y añade las otras ramas de tomillo. Hornea 5 minutos más con el grill, hasta que el feta se dore ligeramente; esparce las semillas de calabaza en los 2 últimos minutos para que se tuesten sin quemarse. Mientras, aliña la rúcula con el zumo de limón y una pizca de sal.",
+    "Sirve la bandeja sobre la rúcula."
   ],
-  nutricion: { kcal: 448, prot: 20, hc: 56, grasa: 16 },
+  nutricion: { kcal: 460, prot: 20, hc: 50, grasa: 20 },
   etiquetas: ["al horno", "ligera", "otoño", "vegetariana", "una sola bandeja", "poco especiada"],
   consejo: "No metas los garbanzos húmedos: sécalos bien con un paño o quedarán blandos en lugar de crujientes.",
   contundencia: "ligera",
