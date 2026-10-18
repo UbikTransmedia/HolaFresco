@@ -663,13 +663,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C con aire. Limpia las sardinas y sácales los lomos: sin cabeza ni tripas, ábrelas por el vientre, retira la espina y separa los dos lomos. Sécalos y sálalos.",
     "Corta la col en juliana muy fina y la zanahoria rallada. Mézclalas con una pizca de sal y deja 10 minutos: la sal ablanda la col y le quita el punto áspero. Escurre el agua que suelte.",
-    "Mientras, mezcla el panko con el pimentón y la mitad del aceite y tuéstalo en una sartén seca 2-3 minutos, hasta que esté dorado: así el horno solo tendrá que calentar y quedará crujiente.",
+    "Mientras, mezcla el panko con el pimentón y la mitad del aceite, extiéndelo en la bandeja del horno y tuéstalo 2-3 minutos, vigilando, hasta que esté dorado: así el horno luego solo tendrá que calentar y quedará crujiente. Pásalo a un plato.",
     "Prepara tres platos: harina, huevo batido y panko. Usa una mano para la harina y el panko (mano seca) y la otra para el huevo (mano húmeda): así no acabas con dedos rebozados y la costra queda uniforme.",
     "Pasa los lomos por harina, huevo y panko, presionando para que se pegue. Colócalos en una rejilla sobre la bandeja (el aire circula por debajo y no se ablandan) y riégalos con el resto del aceite.",
     "Hornea 8-10 minutos, hasta que estén dorados y crujientes.",
     "Mientras, mezcla el yogur con la mostaza, el zumo de medio limón, sal y pimienta y aliña la col y la zanahoria. Sirve las sardinas con la ensalada y gajos de limón."
   ],
-  nutricion: { kcal: 442, prot: 34, hc: 36, grasa: 18 },
+  nutricion: { kcal: 585, prot: 47, hc: 36, grasa: 28 },
   etiquetas: ["sardinas", "pescado azul", "pescado poco habitual", "al horno", "crujiente", "ligera", "para niños", "omega 3", "poco especiada", "bajo en colesterol"],
   consejo: "Tostar el pan rallado o el panko antes de hornear es el secreto de los empanados al horno que parecen fritos: sirve para pechugas, merluza o verduras. La ensalada de col aguanta 2 días aliñada en la nevera y está aún mejor al día siguiente.",
   alternativa: "Si no encuentras panko, usa pan rallado grueso o miga de pan duro desmenuzada y tostada antes igual que el panko; la costra cruje casi lo mismo.",
@@ -1016,9 +1016,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Saca los lomos del jurel: quita la cabeza con un corte detrás de la agalla, apoya el pescado de lado y desliza el cuchillo desde la cabeza a la cola pegado a la espina, sintiendo el roce con los huesos. Da la vuelta y repite. Retira la línea de escamas duras del costado con el cuchillo plano.",
     "Pon a cocer el arroz lavado con 1,25 veces su volumen de agua, tapado a fuego mínimo, 12 minutos. Deja reposar tapado. Mientras, pica el ajo, la chalota y el chile y corta el pepino en bastones.",
-    "Para la salsa, sofríe en un cazo con 1 cucharada de aceite el ajo, la chalota y el chile 2 minutos. Añade el tamarindo, el azúcar, la salsa de pescado y 4 cucharadas de agua y cuece 3 minutos, hasta que espese como un jarabe. Debe ser a la vez ácida, dulce y salada.",
+    "Para la salsa, sofríe en una sartén con 1 cucharada de aceite el ajo, la chalota y el chile 2 minutos. Añade el tamarindo, el azúcar, la salsa de pescado y 4 cucharadas de agua y cuece 3 minutos, hasta que espese como un jarabe. Debe ser a la vez ácida, dulce y salada. Pásala a un cuenco y limpia la sartén con papel de cocina.",
     "Corta los lomos en dos, sécalos muy bien, sálalos ligeramente y rebózalos en la maicena, sacudiendo el exceso. La maicena forma una costra más fina y crujiente que la harina de trigo.",
-    "Calienta un dedo y medio de aceite en una sartén a 180 °C y fríe los lomos 2 minutos por lado, con la piel hacia abajo primero, hasta que estén dorados y crujientes. Escúrrelos sobre papel.",
+    "Calienta en la misma sartén un dedo y medio de aceite a 180 °C y fríe los lomos 2 minutos por lado, con la piel hacia abajo primero, hasta que estén dorados y crujientes. Escúrrelos sobre papel.",
     "Coloca el jurel sobre el arroz, napa con la salsa de tamarindo justo antes de servir (para que no pierda el crujiente) y acompaña con el pepino y el cilantro."
   ],
   nutricion: { kcal: 690, prot: 27, hc: 66, grasa: 35 },
