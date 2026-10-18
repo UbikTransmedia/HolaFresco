@@ -440,7 +440,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["olla-express", "horno", "sartén"],
+  equipo: ["olla-express", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "cerdo (paleta)", q: 500, u: "g", nota: "en tacos de 5 cm, con algo de grasa" },
@@ -463,13 +463,13 @@ window.RECETAS_SEED.push({
     "Salpimienta la carne generosamente y mézclala con el orégano y el comino. Corta la cebolla en cuartos y la naranja por la mitad.",
     "Pon en la olla express la carne, la cebolla, los dientes de ajo enteros aplastados, el laurel, el caldo y el zumo de la naranja; añade también las dos mitades exprimidas de la naranja (dan aroma).",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja al mínimo y cuenta 35 min. Mientras, pica el cilantro y la cebolla morada y corta las limas en gajos.",
-    "Aparta del fuego y deja que la presión baje sola por completo (unos 15 min); mientras, enciende el gratinador del horno a máxima potencia. Abre: la carne debe estar tan tierna que se deshaga con un tenedor. Retira las cáscaras de naranja y el laurel.",
-    "Saca la carne a una bandeja de horno y desmenúzala en trozos gruesos con dos tenedores. Reduce el jugo de la olla destapado a fuego fuerte 5 min y viértelo sobre la carne junto con la manteca derretida.",
-    "Dora la carne bajo el gratinador (o en una sartén grande a fuego fuerte) 6-8 min hasta que los bordes estén crujientes y caramelizados: ese contraste tierno-crujiente es lo que define las carnitas.",
-    "Calienta las tortillas 30 s por lado en una sartén seca y envuélvelas en un paño para que no se enfríen.",
+    "Aparta del fuego y deja que la presión baje sola por completo (unos 15 min). Abre: la carne debe estar tan tierna que se deshaga con un tenedor. Retira las cáscaras de naranja y el laurel.",
+    "Saca la carne a una fuente y desmenúzala en trozos gruesos con dos tenedores. Mientras, reduce el jugo de la olla destapado a fuego fuerte 5 min.",
+    "Calienta la manteca en una sartén grande a fuego fuerte, añade la carne y el jugo reducido y dórala 6-8 min, moviéndola solo de vez en cuando, hasta que se evapore el líquido y los bordes estén crujientes y caramelizados: ese contraste tierno-crujiente es lo que define las carnitas. Pásala a una fuente.",
+    "Limpia la sartén con papel, calienta las tortillas en seco 30 s por lado y envuélvelas en un paño para que no se enfríen.",
     "Sirve las carnitas en las tortillas con el cilantro, la cebolla morada y los gajos de lima para exprimir encima."
   ],
-  nutricion: { kcal: 760, prot: 50, hc: 52, grasa: 36 },
+  nutricion: { kcal: 870, prot: 55, hc: 68, grasa: 43 },
   etiquetas: ["mexicana", "batch cooking", "para compartir", "sin verduras", "poco especiada"],
   consejo: "No limpies demasiado la grasa de la paleta: es la que mantiene la carne jugosa y la que la dora al final. Acompaña con una salsa verde de tomatillo o pico de gallo.",
   alternativa: "Si no tienes olla exprés, cuece la carne con todos sus aromáticos en cazuela tapada a fuego mínimo unas 2 h, con 250 ml de agua extra, hasta que se desmenuce con el tenedor; luego gratínala igual."

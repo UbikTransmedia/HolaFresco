@@ -164,14 +164,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos regulares y cuécelas en agua con sal desde frío 18-20 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, pon a hervir un cazo de agua con sal y prepara la gremolata: pica muy fino el perejil y el ajo y mézclalos con la ralladura del limón, 1 cda de aceite y una pizca de sal. Reserva.",
-    "Pela las zanahorias y córtalas en bastones; despunta las judías verdes y córtalas en dos. Cuécelas en el cazo de agua hirviendo 5 minutos y escúrrelas.",
-    "En una sartén, derrite 10 g de mantequilla con la miel y 2 cda de agua a fuego medio. Añade las verduras escurridas y saltéalas 3-4 minutos moviendo hasta que queden brillantes y glaseadas. Salpimienta.",
+    "Mientras, prepara la gremolata: pica muy fino el perejil y el ajo y mézclalos con la ralladura del limón, 1 cda de aceite y una pizca de sal. Reserva. Pela las zanahorias y córtalas en bastones; despunta las judías verdes y córtalas en dos.",
+    "Cuando a las patatas les queden unos 5 minutos, añade las zanahorias y las judías a la misma cazuela. Al terminar, saca las verduras con una espumadera.",
+    "En una sartén, derrite 10 g de mantequilla con la miel y 2 cda de agua a fuego medio. Añade las verduras escurridas y saltéalas 3-4 minutos moviendo hasta que queden brillantes y glaseadas. Salpimienta y pásalas a un plato.",
     "Escurre las patatas, devuélvelas a la cazuela caliente 1 minuto para que pierdan humedad y aplástalas con el resto de la mantequilla y la leche caliente. Ajusta de sal y pimienta y mantén el puré tapado.",
-    "Seca los lomos de merluza con papel de cocina y salpimiéntalos. Calienta 1 cda de aceite en una sartén antiadherente a fuego medio-alto y cocínalos 3 minutos por el lado de la piel y 2 minutos por el otro, hasta que la carne se separe en lascas.",
+    "Seca los lomos de merluza con papel de cocina y salpimiéntalos. Limpia la sartén con papel, calienta 1 cda de aceite a fuego medio-alto y cocínalos 3 minutos por el lado de la piel y 2 minutos por el otro, hasta que la carne se separe en lascas.",
     "Sirve el puré como base, apoya encima la merluza y cúbrela con una cucharada generosa de gremolata. Acompaña con las verduras glaseadas y un gajo de limón."
   ],
-  nutricion: { kcal: 615, prot: 35, hc: 65, grasa: 24 },
+  nutricion: { kcal: 645, prot: 35, hc: 60, grasa: 29 },
   etiquetas: ["para niños", "económica", "poco especiada"],
   consejo: "La gremolata se puede preparar con horas de antelación y también levanta un pescado al horno o unas verduras asadas. Si tienes merluza congelada, descongélala en la nevera y sécala muy bien antes de marcarla."
 });
@@ -244,14 +244,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Enjuaga el arroz hasta que el agua salga clara y cuécelo tapado en 280 ml de agua con una pizca de sal: 12 minutos a fuego mínimo desde que hierva y 5 minutos de reposo sin destapar.",
-    "Mientras se cuece el arroz, separa el brócoli en ramilletes y cuécelo al vapor o en agua hirviendo con sal 4 minutos, hasta que esté verde intenso y tierno pero firme. Escúrrelo.",
-    "Mezcla en un bol la miel, la salsa de soja, la sriracha, el zumo de medio limón y los ajos rallados. Reserva el glaseado. Corta la cebolleta en rodajas finas.",
+    "Enjuaga el arroz hasta que el agua salga clara y cuécelo tapado en 280 ml de agua con una pizca de sal: 12 minutos a fuego mínimo desde que hierva y 5 minutos de reposo sin destapar. Mientras, separa el brócoli en ramilletes.",
+    "Cuando al arroz le queden 4 minutos, coloca los ramilletes de brócoli encima, sin remover, y vuelve a tapar: se harán al vapor hasta quedar verde intenso y tiernos pero firmes. Sácalos antes de soltar el arroz.",
+    "Mientras se cuece el arroz, mezcla en un bol la miel, la salsa de soja, la sriracha, el zumo de medio limón y los ajos rallados. Reserva el glaseado. Corta la cebolleta en rodajas finas.",
     "Seca los lomos de salmón y salpimiéntalos ligeramente (la soja ya aporta sal). Calienta el aceite en una sartén antiadherente a fuego medio-alto y colócalos con la piel hacia abajo. Cocina 4 minutos sin moverlos, hasta que la piel esté crujiente.",
     "Dales la vuelta, cocina 1 minuto y baja el fuego a medio. Vierte el glaseado sobre el salmón y deja que reduzca 2-3 minutos, bañando los lomos con una cuchara, hasta que la salsa espese y brille.",
     "Sirve el salmón sobre el arroz con el brócoli al lado, riégalo con el glaseado restante y termina con el sésamo, la cebolleta y unas gotas de limón."
   ],
-  nutricion: { kcal: 730, prot: 41, hc: 80, grasa: 27 },
+  nutricion: { kcal: 755, prot: 40, hc: 82, grasa: 29 },
   etiquetas: ["rápida", "picante", "alta en proteína", "para niños"],
   consejo: "Vigila el glaseado: la miel se quema con facilidad, por eso se añade con el fuego ya bajado. Para los niños, omite la sriracha y añádela después solo en los platos de los adultos."
 });

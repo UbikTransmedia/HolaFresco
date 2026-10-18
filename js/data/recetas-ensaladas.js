@@ -285,9 +285,9 @@ window.RECETAS_SEED.push({
   cocina: "americana",
   momentos: ["comida", "cena"],
   proteina: "pollo",
-  tiempo: 30,
+  tiempo: 25,
   dificultad: "fácil",
-  equipo: ["plancha", "horno", "bol"],
+  equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "pollo (pechuga)", q: 300, u: "g" },
@@ -305,14 +305,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta el pan en dados de 2 cm, mézclalos con 1 cda de aceite, una pizca de sal y pimienta y hornéalos 8-10 minutos hasta que estén dorados y crujientes.",
-    "Mientras se hornea el pan, abre las pechugas por la mitad a lo largo para obtener filetes de 1,5 cm, salpimiéntalos y úntalos con el resto del aceite. Cocínalos en la plancha muy caliente 3-4 minutos por cada lado hasta que estén dorados y jugosos por dentro. Déjalos reposar 3 minutos y córtalos en tiras.",
+    "Corta el pan en dados de 2 cm y mézclalos con 1 cda de aceite, una pizca de sal y pimienta. Tuéstalos en la plancha a fuego medio 4-5 minutos, moviéndolos, hasta que estén dorados y crujientes por todas las caras. Retíralos.",
+    "Mientras se tuesta el pan, abre las pechugas por la mitad a lo largo para obtener filetes de 1,5 cm, salpimiéntalos y úntalos con el resto del aceite. Sube el fuego y cocínalos en la misma plancha muy caliente 3-4 minutos por cada lado hasta que estén dorados y jugosos por dentro. Déjalos reposar 3 minutos y córtalos en tiras.",
     "Prepara la salsa césar: ralla la mitad del parmesano, machaca las anchoas con el ajo hasta formar una pasta y mézclala con la mayonesa, la mostaza, el zumo del medio limón, el parmesano rallado y pimienta. Alígerala con 1-2 cda de agua hasta que quede cremosa pero fluida.",
     "Lava y seca bien la lechuga romana y trocéala en pedazos grandes.",
     "Mezcla la lechuga con dos tercios de la salsa en un bol grande hasta que todas las hojas estén cubiertas.",
     "Sirve la ensalada con las tiras de pollo encima, los picatostes, el resto de la salsa y lascas de parmesano sacadas con un pelador. Termina con pimienta recién molida."
   ],
-  nutricion: { kcal: 595, prot: 47, hc: 20, grasa: 36 },
+  nutricion: { kcal: 695, prot: 43, hc: 20, grasa: 49 },
   etiquetas: ["alta en proteína", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "Para una versión más ligera, sustituye la mitad de la mayonesa por yogur griego. Si la preparas para llevar, guarda salsa y picatostes aparte para que la lechuga siga crujiente."
 });

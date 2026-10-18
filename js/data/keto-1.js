@@ -114,7 +114,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 55,
   dificultad: "media",
-  equipo: ["sartén", "plancha", "bol"],
+  equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "falda de ternera", q: 400, u: "g", nota: "en una pieza o en filetes, tipo arrachera" },
@@ -134,14 +134,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Marina la carne: mezcla el zumo de 1 lima, el ajo rallado, el comino, la mitad del aceite y pimienta, embadurna la falda y déjala 30 minutos a temperatura ambiente (no más de 2 horas en la nevera: la lima acaba \"cociendo\" la superficie).",
+    "Marina la carne: mezcla el zumo de 1 lima, el ajo rallado, el comino, la mitad del aceite y pimienta, embadurna la falda y déjala 30 minutos a temperatura ambiente (no más de 2 horas en la nevera: la lima acaba «cociendo» la superficie).",
     "Mientras marina, asa los chiles poblanos directamente sobre la llama del fuego o bajo el grill, girándolos, hasta que la piel esté negra y ampollada por todos lados, unos 8 minutos. Mételos en un bol tapado 10 minutos para que suden y, mientras, corta la cebolla en tiras; pélalos con los dedos, quita semillas y córtalos en tiras (rajas).",
-    "Pocha la cebolla con el resto del aceite a fuego medio 6 minutos, hasta que esté transparente. Añade las rajas, la nata y sal, cuece 3 minutos hasta que espese y apaga el fuego con la mozzarella por encima, tapado, para que se funda.",
     "Para el guacamole, pica muy fina la cebolla morada, pica el jalapeño sin semillas y el cilantro, y machaca el aguacate con un tenedor dejándolo con tropezones. Mezcla la cebolla morada, el jalapeño, la mitad del cilantro, el zumo de media lima y sal.",
-    "Calienta la plancha a fuego muy fuerte. Escurre la carne de la marinada, sécala, sálala y ásala 3 minutos por cada lado si es una pieza de 2 cm (2 minutos si son filetes finos), hasta que se dore bien. La falda queda mejor poco hecha.",
-    "Déjala reposar 5 minutos y córtala en tiras finas en contra de la fibra, que es lo que la hace tierna. Sirve con las rajas con crema, el guacamole, el resto del cilantro y gajos de lima."
+    "Calienta la sartén a fuego muy fuerte. Escurre la carne de la marinada, sécala, sálala y ásala 3 minutos por cada lado si es una pieza de 2 cm (2 minutos si son filetes finos), hasta que se dore bien. Pásala a una tabla y déjala reposar mientras haces las rajas: la falda queda mejor poco hecha.",
+    "Baja a fuego medio y, en la misma sartén, pocha la cebolla con el resto del aceite 6 minutos, hasta que esté transparente. Añade las rajas, la nata y sal, cuece 3 minutos hasta que espese y apaga el fuego con la mozzarella por encima, tapado, para que se funda.",
+    "Corta la carne en tiras finas en contra de la fibra, que es lo que la hace tierna. Sirve con las rajas con crema, el guacamole, el resto del cilantro y gajos de lima."
   ],
-  nutricion: { kcal: 800, prot: 50, hc: 14, grasa: 61 },
+  nutricion: { kcal: 845, prot: 49, hc: 15, grasa: 64 },
   etiquetas: ["keto", "creativa", "sin gluten", "picante", "alta en proteína"],
   consejo: "Las rajas con crema son un clásico del centro de México que normalmente se come en tacos: aquí hacen de guarnición cremosa. El chile poblano se encuentra en tiendas latinas y algunas fruterías; con pimiento verde italiano asado y medio jalapeño queda muy parecido. Cortar la falda en contra de la fibra es la diferencia entre una carne tierna y una chiclosa.",
   tupper: false,
@@ -320,15 +320,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal. Mientras, limpia los grelos: quita los tallos duros y las hojas estropeadas y quédate con las hojas tiernas, los brotes y los tallos finos. Lávalos bien.",
-    "Blanquéalos 2 minutos en el agua hirviendo y escúrrelos, apretando un poco. Así pierden parte del amargor sin perder el color.",
-    "Pincha las salchichas un par de veces y dóralas en una sartén con 1 cucharada de aceite a fuego medio, 8 minutos, girándolas, hasta que estén doradas por todos lados.",
-    "Riega con el vino blanco, tapa y deja que se hagan por dentro 5 minutos más; mientras, lamina los ajos. Destapa y deja que se evapore el líquido y se vuelvan a dorar en su grasa.",
-    "En otra sartén grande, calienta el resto del aceite con los ajos laminados y la guindilla rota a fuego suave, 2 minutos, sin que el ajo llegue a tostarse.",
+    "Pon a hervir abundante agua con sal. Mientras, limpia los grelos: quita los tallos duros y las hojas estropeadas y quédate con las hojas tiernas, los brotes y los tallos finos. Lávalos bien y lamina los ajos.",
+    "Blanquea los grelos 2 minutos en el agua hirviendo y escúrrelos, apretando un poco. Así pierden parte del amargor sin perder el color.",
+    "Pincha las salchichas un par de veces y dóralas en una sartén grande con 1 cucharada de aceite a fuego medio, 8 minutos, girándolas, hasta que estén doradas por todos lados.",
+    "Riega con el vino blanco, tapa y deja que se hagan por dentro 5 minutos más. Destapa, deja que se evapore el líquido y se vuelvan a dorar en su grasa, y sácalas a un plato.",
+    "Baja el fuego y, en la misma sartén, calienta el resto del aceite con los ajos laminados y la guindilla rota 2 minutos, sin que el ajo llegue a tostarse.",
     "Añade los grelos escurridos, sube el fuego y saltéalos 6-8 minutos, removiendo, hasta que estén tiernos y brillantes de aceite. Sálalos.",
-    "Mete las salchichas en la sartén de los grelos con todo su jugo, mezcla 1 minuto para que los sabores se unan y sirve con unas gotas de limón."
+    "Devuelve las salchichas a la sartén con todo su jugo, mezcla 1 minuto para que los sabores se unan y sirve con unas gotas de limón."
   ],
-  nutricion: { kcal: 830, prot: 39, hc: 9, grasa: 70 },
+  nutricion: { kcal: 815, prot: 39, hc: 14, grasa: 64 },
   etiquetas: ["keto", "tradicional", "sin gluten", "picante", "invierno", "una sola sartén"],
   consejo: "Los friarielli son los brotes de la cima di rapa que se comen en Nápoles con salchicha, en bocadillo o sobre la pizza. Los grelos gallegos son primos hermanos y funcionan igual de bien; fuera de temporada, usa brócoli de tallo largo o acelgas con un poco de rúcula al final para el punto amargo. Recalentado al día siguiente está aún más bueno.",
   tupper: true,
@@ -564,7 +564,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["wok", "sartén", "bol"],
+  equipo: ["wok", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "lubina (lomos)", q: 360, u: "g", nota: "sin piel; también corvina o dorada" },
@@ -585,14 +585,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta los lomos de lubina al bies en láminas de 1 cm. Mézclalas con la clara, el vino y una pizca de sal y masajéalas con los dedos hasta que la clara desaparezca y el pescado brille. Déjalas 15 minutos en la nevera: esa película las mantiene sedosas en el caldo.",
-    "Mientras, tuesta las guindillas abiertas y sin semillas y la pimienta de Sichuan en una sartén sin grasa a fuego bajo 2-3 minutos, removiendo, hasta que huelan y las guindillas se oscurezcan sin llegar a quemarse. Pícalas gruesas a cuchillo y reserva.",
+    "Mientras, tuesta las guindillas abiertas y sin semillas y la pimienta de Sichuan en el wok sin grasa a fuego bajo 2-3 minutos, removiendo, hasta que huelan y las guindillas se oscurezcan sin llegar a quemarse. Pícalas gruesas a cuchillo y reserva.",
     "Corta la col china en tiras anchas y el apio en bastones finos al bies. Separa la parte blanca de las cebolletas (en trozos) de la verde (en aros) y pica el ajo y el jengibre.",
     "Calienta 1 cucharada de aceite en el wok a fuego fuerte y saltea la col y el apio con una pizca de sal 2 minutos, solo hasta que pierdan rigidez. Repártelos en el fondo de dos cuencos grandes y hondos.",
     "Baja a fuego medio, añade otra cucharada de aceite y fríe la pasta de judía picante 1 minuto, hasta que el aceite se tiña de rojo. Incorpora el ajo, el jengibre y la cebolleta blanca, sofríe 1 minuto y vierte el caldo. Lleva a hervor suave y prueba de sal.",
     "Baja el fuego para que el caldo apenas tiemble y echa las láminas de pescado de una en una, separadas. Cuécelas 2-3 minutos sin remover, hasta que estén blancas y opacas. Pásalas con cuidado sobre las verduras y vierte el caldo hasta cubrirlas a medias.",
-    "Reparte por encima la picada de guindilla y pimienta, la cebolleta verde y el cilantro. Calienta las 3 cucharadas de aceite restantes en un cazo hasta que empiecen a humear y viértelas sobre las especias: chisporrotearán y soltarán todo su perfume. Sirve al momento."
+    "Reparte por encima la picada de guindilla y pimienta, la cebolleta verde y el cilantro. Seca el wok con papel, calienta las 3 cucharadas de aceite restantes hasta que empiecen a humear y viértelas sobre las especias: chisporrotearán y soltarán todo su perfume. Sirve al momento."
   ],
-  nutricion: { kcal: 585, prot: 38, hc: 11, grasa: 43 },
+  nutricion: { kcal: 630, prot: 46, hc: 17, grasa: 41 },
   etiquetas: ["keto", "tradicional", "picante", "alta en proteína", "para invitados"],
   consejo: "Shui zhu yu significa «pescado hervido en agua», un nombre engañoso para uno de los platos más picantes de Sichuan, nacido en Chongqing. La pimienta de Sichuan no pica: adormece los labios y es la mitad de la gracia. La pasta de judía picante (doubanjiang) lleva harina de trigo, así que el plato no es apto para celíacos; si no la encuentras, usa 1 cucharada de miso con 1 cucharadita de pimentón picante. Prepara todo antes de empezar: el pescado se hace en 3 minutos.",
   tupper: false,
@@ -611,7 +611,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "trucha", q: 2, u: "ud", nota: "pídela abierta en libro y sin espinas (unos 320 g de filetes)" },
@@ -626,14 +626,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal y, mientras, despunta las judías verdes y pica el perejil. Cuece las judías 5-6 minutos, hasta que estén tiernas pero aún crujientes. Pásalas a un bol con agua helada para fijar el color y escúrrelas.",
-    "Seca bien las truchas con papel de cocina y salpiméntalas por ambos lados.",
-    "Calienta el aceite con 10 g de mantequilla en una sartén grande a fuego medio-alto. Pon las truchas con la piel hacia abajo y cocina 3 minutos, hasta que la piel esté dorada y crujiente; dales la vuelta con cuidado y cocina 1-2 minutos más. Pásalas a los platos.",
+    "Despunta las judías verdes y pica el perejil. Pon las judías en una sartén grande con un dedo de agua y sal, tapa y cuécelas 5-6 minutos a fuego medio-alto, hasta que estén tiernas pero aún crujientes. Destapa, deja que se evapore el agua que quede y pásalas a un plato.",
+    "Mientras se cuecen, seca bien las truchas con papel de cocina y salpiméntalas por ambos lados.",
+    "Seca la sartén y calienta el aceite con 10 g de mantequilla a fuego medio-alto. Pon las truchas con la piel hacia abajo y cocina 3 minutos, hasta que la piel esté dorada y crujiente; dales la vuelta con cuidado y cocina 1-2 minutos más. Pásalas a los platos.",
     "En la misma sartén saltea las judías 2 minutos con sal y pimienta, hasta que se calienten y brillen. Repártelas junto al pescado.",
     "Limpia la sartén con papel, añade los 40 g de mantequilla restantes y las almendras a fuego medio. Remueve sin parar 2-3 minutos, hasta que la mantequilla huela a avellana y las almendras estén doradas.",
     "Fuera del fuego, exprime el zumo de medio limón (chisporroteará) y añade el perejil. Vierte la salsa con las almendras sobre las truchas y sirve con el otro medio limón en gajos."
   ],
-  nutricion: { kcal: 625, prot: 39, hc: 8, grasa: 48 },
+  nutricion: { kcal: 840, prot: 67, hc: 10, grasa: 57 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "rápida"],
   consejo: "La trout amandine es un clásico de los restaurantes criollos de Nueva Orleans, heredero de la cocina francesa. Allí la trucha suele pasarse por harina antes de freírla; sin harina, el truco es secar muy bien la piel y no moverla hasta que esté dorada. Si la mantequilla se tuesta demasiado y se vuelve negra, empieza de nuevo: amarga.",
   tupper: false,
@@ -824,9 +824,9 @@ window.RECETAS_SEED.push({
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "huevo",
-  tiempo: 25,
+  tiempo: 20,
   dificultad: "media",
-  equipo: ["wok", "sartén", "cazuela", "bol"],
+  equipo: ["wok", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 6, u: "ud" },
@@ -843,15 +843,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Seca bien los langostinos con papel, ábrelos por el lomo para quitarles el intestino y mézclalos con una pizca de sal, pimienta blanca y el vino. Déjalos 10 minutos. Mientras, pon a hervir agua con sal, pica la parte blanca de la cebolleta, corta la verde en aros y lamina el ajo.",
+    "Seca bien los langostinos con papel, ábrelos por el lomo para quitarles el intestino y mézclalos con una pizca de sal, pimienta blanca y el vino. Déjalos 10 minutos. Mientras, pica la parte blanca de la cebolleta, corta la verde en aros y lamina el ajo.",
     "Bate los huevos con media cucharadita de sal, el aceite de sésamo y la parte blanca de la cebolleta, solo hasta que clara y yema se unan, sin hacer espuma.",
-    "Blanquea el brócoli 1 minuto en el agua hirviendo y escúrrelo. Saltéalo en una sartén con 1 cucharada de aceite y el ajo 2 minutos a fuego fuerte, riégalo con el tamari y repártelo en los platos.",
-    "Calienta 1 cucharada de aceite en el wok a fuego fuerte y saltea los langostinos 1 minuto, solo hasta que se curven y se vuelvan rosados; no tienen que hacerse del todo. Échalos al bol de los huevos.",
+    "Calienta 1 cucharada de aceite en el wok a fuego fuerte y saltea el brócoli con el ajo 1 minuto. Añade 2 cucharadas de agua, tapa y deja 1-2 minutos, hasta que esté tierno pero crujiente; destapa, riégalo con el tamari y repártelo en los platos.",
+    "Seca el wok con papel, calienta 1 cucharada de aceite a fuego fuerte y saltea los langostinos 1 minuto, solo hasta que se curven y se vuelvan rosados; no tienen que hacerse del todo. Échalos al bol de los huevos.",
     "Limpia el wok, calienta las 2 cucharadas de aceite restantes a fuego medio-alto hasta que brillen y vierte la mezcla. Cuenta cinco segundos y empuja despacio con una espátula ancha el huevo cuajado desde el borde hacia el centro, formando pliegues grandes; inclina el wok para que el huevo líquido ocupe el hueco. Repite alrededor.",
     "Apaga el fuego cuando aún quede un tercio del huevo líquido y brillante: en 30 segundos, con el calor del wok, termina de cuajar en capas suaves. Pásalo enseguida a los platos.",
     "Termina con la parte verde de la cebolleta y pimienta blanca, y sirve junto al brócoli."
   ],
-  nutricion: { kcal: 640, prot: 48, hc: 9, grasa: 46 },
+  nutricion: { kcal: 670, prot: 50, hc: 13, grasa: 45 },
   etiquetas: ["keto", "tradicional", "sin gluten", "poco especiada", "rápida", "alta en proteína"],
   consejo: "Hua dan significa «huevo resbaladizo» y es una prueba de oficio de los cocineros cantoneses: el huevo debe quedar en pliegues blandos y brillantes, nunca seco ni granuloso. En Hong Kong suelen añadir al huevo un poco de agua con maicena para que aguante más jugoso; aquí se prescinde de ella y el truco es apagar antes de tiempo. Funciona igual con gambas, vieiras o carne de cangrejo.",
   tupper: false,
@@ -887,12 +887,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C con grill. Corta la coliflor en ramilletes grandes y cuécelos en agua hirviendo con sal 5-6 minutos, hasta que estén tiernos pero firmes.",
     "Escúrrela y déjala humear en el colador 5 minutos, para que pierda el agua: si no, aguará la salsa en el horno.",
-    "Mientras, lleva la nata a ebullición suave en un cazo y redúcela 5 minutos, removiendo, hasta que espese y cubra la cuchara.",
+    "Mientras, en la misma cazuela ya vacía, lleva la nata a ebullición suave y redúcela 5 minutos, removiendo, hasta que espese y cubra la cuchara.",
     "Fuera del fuego, añade 100 g de cheddar en dos veces, removiendo hasta que se funda, y luego la mostaza, la nuez moscada y pimienta. Prueba de sal (el queso ya sala).",
     "Coloca la coliflor en una fuente de horno en una sola capa, cúbrela con la salsa y espolvorea el resto del cheddar mezclado con el parmesano.",
     "Gratina 15-20 minutos, hasta que la salsa burbujee por los bordes y la superficie esté dorada con manchas tostadas. Mientras, pica el cebollino. Deja reposar 5 minutos y sirve con el cebollino por encima."
   ],
-  nutricion: { kcal: 700, prot: 28, hc: 14, grasa: 59 },
+  nutricion: { kcal: 680, prot: 25, hc: 10, grasa: 59 },
   etiquetas: ["keto", "creativa", "sin gluten", "poco especiada", "al horno", "invierno"],
   consejo: "En Reino Unido el cauliflower cheese es guarnición del asado del domingo y cena en sí mismo; la versión clásica lleva una bechamel con harina, que aquí se sustituye por nata reducida, más rica y igual de cremosa. Un cheddar bien curado da mucho más sabor que uno suave. Se puede montar por la mañana y gratinar al momento, y recalentado aguanta 2 días.",
   tupper: true,

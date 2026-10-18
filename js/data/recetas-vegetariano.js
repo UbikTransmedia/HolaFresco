@@ -150,7 +150,7 @@ window.RECETAS_SEED.push({
   proteina: "seitan",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["wok", "sartén"],
+  equipo: ["wok"],
   raciones: 2,
   ingredientes: [
     { n: "seitán", q: 250, u: "g", nota: "en tiras" },
@@ -177,14 +177,14 @@ window.RECETAS_SEED.push({
   pasos: [
     "Prepara la salsa: mezcla en un vaso la salsa de soja, la miel, el vinagre de arroz, el aceite de sésamo, la maicena y 3 cucharadas de agua hasta disolver la maicena.",
     "Corta el pimiento y la cebolla morada en tiras, el calabacín en medias lunas y la zanahoria en bastones finos. Pica el ajo y ralla el jengibre.",
-    "Seca los garbanzos y saltéalos en una sartén con 1 cucharada de aceite a fuego medio-alto 8-10 minutos, moviéndolos de vez en cuando, hasta que estén dorados y crujientes. En el último minuto añade el pimentón, el comino y una pizca de sal. Resérvalos.",
-    "Tuesta el sésamo en la misma sartén sin aceite 2 minutos, hasta que empiece a saltar, y resérvalo.",
-    "Calienta el wok a fuego fuerte con la cucharada de aceite restante y dora el seitán 4 minutos hasta que esté tostado por los bordes. Sácalo y resérvalo.",
+    "Seca los garbanzos y saltéalos en el wok con 1 cucharada de aceite a fuego medio-alto 8-10 minutos, moviéndolos de vez en cuando, hasta que estén dorados y crujientes. En el último minuto añade el pimentón, el comino y una pizca de sal. Resérvalos.",
+    "Tuesta el sésamo en el mismo wok sin aceite 2 minutos, hasta que empiece a saltar, y resérvalo.",
+    "Sube el wok a fuego fuerte con la cucharada de aceite restante y dora el seitán 4 minutos hasta que esté tostado por los bordes. Sácalo y resérvalo.",
     "En el mismo wok saltea la zanahoria y el pimiento 3 minutos, añade la cebolla y el calabacín y saltea 3 minutos más: las verduras deben quedar crujientes. Incorpora el ajo y el jengibre y remueve 30 segundos.",
     "Devuelve el seitán al wok, vierte la salsa y cocina 1-2 minutos removiendo hasta que espese y lo cubra todo con brillo. Prueba de sal.",
     "Sirve el salteado con los garbanzos especiados por encima y el sésamo tostado."
   ],
-  nutricion: { kcal: 590, prot: 39, hc: 50, grasa: 24 },
+  nutricion: { kcal: 630, prot: 46, hc: 56, grasa: 24 },
   etiquetas: ["alta en proteína", "ideal para llevar", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "Para que las verduras queden al dente, el wok tiene que estar muy caliente y no debes amontonarlas; si tu sartén es pequeña, hazlo en dos tandas. Sirve con arroz basmati si quieres un plato más contundente."
 });

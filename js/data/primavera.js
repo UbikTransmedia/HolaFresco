@@ -81,13 +81,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Dobla cada espárrago por la base: se parte solo donde empieza la parte tierna. Desecha los extremos leñosos.",
-    "Pon los espárragos en una bandeja, úntalos con media cucharada de aceite y sal, y ásalos 8 a 10 minutos, hasta que estén tiernos y con las puntas algo tostadas. Mientras se asan, pica muy finos la cebolleta y el estragón, lamina los rabanitos muy finos y tuesta las nueces 3 minutos en una sartén sin aceite; pícalas gruesas. Al sacar los espárragos, córtalos en trozos de 3 cm.",
+    "Pon los espárragos en una bandeja, úntalos con media cucharada de aceite y sal, y ásalos 8 a 10 minutos, hasta que estén tiernos y con las puntas algo tostadas; en los últimos 3 minutos añade las nueces a un lado de la bandeja para que se tuesten. Mientras se asan, pica muy finos la cebolleta y el estragón y lamina los rabanitos muy finos. Al sacar la bandeja, pica las nueces gruesas y corta los espárragos en trozos de 3 cm.",
     "Mientras, templa las lentejas en un cazo con 2 cucharadas de agua, 3 minutos a fuego suave, removiendo con cuidado para no romperlas.",
     "Prepara la vinagreta en un bol grande: bate la mostaza con el vinagre, sal y pimienta, y añade 2 cucharadas de aceite en hilo hasta que emulsione. Añade la cebolleta y el estragón, y deja reposar 5 minutos para que la cebolleta pierda fuerza.",
     "Mezcla las lentejas aún tibias con la mitad de la vinagreta: en caliente absorben mucho mejor el aliño.",
     "Reparte los canónigos en los platos, pon encima las lentejas, los espárragos y los rabanitos, riega con el resto de la vinagreta y termina con las nueces."
   ],
-  nutricion: { kcal: 465, prot: 22, hc: 42, grasa: 23 },
+  nutricion: { kcal: 470, prot: 21, hc: 34, grasa: 25 },
   etiquetas: ["primavera", "creativa", "ligera", "vegana", "sin gluten", "ideal para llevar", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "En Francia esta ensalada se hace con lentejas verdes de Le Puy, que no se deshacen; las pardinas cocidas son la alternativa más parecida. Para llevar, guarda la vinagreta y los canónigos aparte y mézclalo todo al comer: aguanta 2 días en la nevera. Si quieres más proteína, añade unos dados de tofu firme dorado por persona.",
   tupper: true,
@@ -256,12 +256,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir una cazuela con agua, sal y la pizca de azúcar. Mientras se calienta, pela los espárragos con un pelador desde justo debajo de la yema hasta la base, a conciencia: la piel del espárrago blanco es amarga y fibrosa. Corta 2 cm de la base.",
     "Cuando hierva, cuece las patatas nuevas partidas por la mitad 5 minutos, añade los espárragos y cuécelo todo 12 a 15 minutos más, hasta que la punta de un cuchillo entre sin resistencia en la base de los espárragos.",
-    "Mientras, derrite la mantequilla y mantenla tibia. Ralla la piel de media naranja, exprime toda la naranja y reduce el zumo a la mitad en un cazo, 2 minutos a fuego vivo. Deja que temple. Pica el cebollino.",
+    "Mientras, derrite la mantequilla y mantenla tibia. Ralla la piel de media naranja, exprime toda la naranja y reduce el zumo a la mitad en la sartén que usarás para el pescado, 2 minutos a fuego vivo. Pásalo a un vaso y deja que temple. Pica el cebollino.",
     "Pon las yemas con 1 cucharada del zumo reducido en un bol sobre la cazuela de los espárragos, sin que el bol toque el agua, y bátelas 3 minutos hasta que espesen y blanqueen. Fuera del calor, añade la mantequilla tibia en hilo sin dejar de batir. Termina con el resto del zumo, la ralladura, sal, pimienta blanca y unas gotas de limón.",
-    "Seca la lubina, sálala y haz 2 cortes en la piel. Calienta el aceite en una sartén a fuego fuerte y cocínala con la piel hacia abajo 3 o 4 minutos, presionando al principio, hasta que la piel esté crujiente; dale la vuelta y cocina 1 minuto más.",
+    "Seca la lubina, sálala y haz 2 cortes en la piel. Limpia la sartén con papel, calienta el aceite a fuego fuerte y cocina la lubina con la piel hacia abajo 3 o 4 minutos, presionando al principio, hasta que la piel esté crujiente; dale la vuelta y cocina 1 minuto más.",
     "Escurre los espárragos y las patatas y sírvelos con la lubina; napa los espárragos con la salsa maltesa y espolvorea el cebollino."
   ],
-  nutricion: { kcal: 615, prot: 38, hc: 31, grasa: 38 },
+  nutricion: { kcal: 620, prot: 40, hc: 30, grasa: 37 },
   etiquetas: ["primavera", "creativa", "sin gluten", "para invitados", "poco especiada"],
   consejo: "La salsa maltesa es una holandesa con zumo y piel de naranja sanguina, la pareja clásica del espárrago blanco en Francia; las sanguinas llegan hasta abril, después usa una naranja normal con unas gotas de limón. Si la salsa se corta, bate en otro bol una cucharada de agua caliente y ve añadiendo la salsa cortada poco a poco.",
   tupper: false,
@@ -687,7 +687,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas nuevas con piel en agua con sal 15 a 18 minutos, hasta que estén tiernas. En otro cazo, cuece los huevos 10 minutos y enfríalos en agua fría.",
+    "Cuece las patatas nuevas con piel en agua con sal 15 a 18 minutos, hasta que estén tiernas. A los 6 minutos, mete los huevos con cuidado en la misma cazuela y cuécelos 10 minutos; sácalos con una espumadera y enfríalos en agua fría.",
     "Mientras, corta los rabanitos en rodajas finas, el pepino en medias lunas y la cebolleta en aros finos, también la parte verde. Pica el eneldo.",
     "Pela los huevos y pícalos en trozos grandes.",
     "Mezcla en un bol los rabanitos, el pepino, la cebolleta, los huevos y casi todo el eneldo.",

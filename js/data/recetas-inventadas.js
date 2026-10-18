@@ -37,12 +37,11 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Enjuaga la quinoa bajo el grifo hasta que el agua salga clara y cuécela en 250 ml de agua con una pizca de sal, tapada, 15 minutos a fuego suave. Apaga, deja reposar 5 minutos tapada y suéltala con un tenedor.",
-    "Mientras, corta el pepino en rodajas muy finas y mézclalo en un bol con 2 cdas de vinagre de arroz, el azúcar y una pizca de sal. Déjalo encurtir 10 minutos: quedará crujiente y agridulce.",
-    "Cuece el edamame en agua hirviendo 4 minutos (o según el envase), escúrrelo y refréscalo con agua fría. Corta la cebolleta en aros finos.",
+    "Enjuaga la quinoa bajo el grifo hasta que el agua salga clara y cuécela en 250 ml de agua con una pizca de sal, tapada, 15 minutos a fuego suave. En los últimos 4 minutos, echa el edamame congelado por encima sin remover y vuelve a tapar: se hará al vapor. Apaga, deja reposar 5 minutos tapada y suéltala con un tenedor.",
+    "Mientras, corta el pepino en rodajas muy finas y mézclalo en un bol con 2 cdas de vinagre de arroz, el azúcar y una pizca de sal. Déjalo encurtir 10 minutos: quedará crujiente y agridulce. Corta la cebolleta en aros finos.",
     "Prepara el glaseado: ralla el jengibre, pica fino el ajo y mézclalos con el miso, la salsa de soja, la miel y la cucharada restante de vinagre hasta que no queden grumos.",
     "Seca bien los lomos de salmón. Calienta el aceite en una sartén antiadherente a fuego medio-alto y dóralos 3 minutos por el lado de la piel. Dales la vuelta, baja a fuego medio, vierte el glaseado y cocina 2-3 minutos más, cucharéandolo por encima hasta que espese y brille. No lo pases: el centro debe quedar jugoso.",
-    "Monta cada bol con una base de quinoa, el edamame, el pepino encurtido escurrido y el aguacate en láminas. Coloca el salmón encima, riega con el glaseado que quede en la sartén y termina con la cebolleta y el sésamo."
+    "Monta cada bol con una base de quinoa y edamame, el pepino encurtido escurrido y el aguacate en láminas. Coloca el salmón encima, riega con el glaseado que quede en la sartén y termina con la cebolleta y el sésamo."
   ],
   nutricion: { kcal: 605, prot: 35, hc: 42, grasa: 32 },
   etiquetas: ["fusión", "rápida", "alta en proteína", "ideal para llevar", "una sola sartén", "superalimentos", "poco especiada"],
@@ -254,14 +253,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Pela el boniato y córtalo en dados de 2 cm. Seca bien los garbanzos. Mezcla ambos en una bandeja con 1 cda de aceite, el comino, sal y pimienta y asa 25 minutos, removiendo a la mitad, hasta que el boniato esté tierno y los garbanzos crujientes.",
+    "Precalienta el horno a 210 °C. Pela el boniato y córtalo en dados de 2 cm. Seca bien los garbanzos. Mezcla ambos en una bandeja con 1 cda de aceite, el comino, sal y pimienta y asa 25 minutos, removiendo a la mitad, hasta que el boniato esté tierno y los garbanzos crujientes. En los últimos 3 minutos, esparce las semillas de calabaza por la bandeja para que se tuesten.",
     "Mientras, enjuaga la quinoa y cuécela en 200 ml de agua con sal, tapada, 15 minutos a fuego suave. Reposa 5 minutos y suéltala.",
     "Quita el tallo central del kale, trocea las hojas y ponlas en el bol grande con una pizca de sal y ½ cda de aceite. Masajéalas con las manos 1 minuto: se ablandan, se oscurecen y pierden el amargor.",
     "Prepara la vinagreta: mezcla el tahini con el zumo de media naranja, el zumo del medio limón, el ajo rallado, sal y 2-3 cdas de agua hasta que quede cremosa y fluida.",
-    "Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a saltar. Pela la otra media naranja a lo vivo y córtala en gajos; corta la cebolla morada en plumas finas.",
+    "Pela la otra media naranja a lo vivo y córtala en gajos; corta la cebolla morada en plumas finas.",
     "Mezcla en el bol el kale, la quinoa tibia, el boniato y los garbanzos recién salidos del horno, la cebolla y los gajos de naranja. Riega con la vinagreta y termina con las semillas tostadas."
   ],
-  nutricion: { kcal: 810, prot: 28, hc: 105, grasa: 31 },
+  nutricion: { kcal: 765, prot: 28, hc: 89, grasa: 32 },
   etiquetas: ["fusión", "al horno", "ideal para llevar", "otoño", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Es la ensalada perfecta para el táper: lleva la vinagreta aparte y añádela al momento. Si quieres más proteína, suma huevo duro o queso feta desmenuzado."
 });
