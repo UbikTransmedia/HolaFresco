@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["sartén", "cazuela", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "ternera picada", q: 300, u: "g" },
@@ -185,13 +185,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Remoja el pan en el vino 5 minutos; mientras, ralla 2 ajos y pica el tercero. Escurre el pan apretando y desmenúzalo en un bol con la carne, el huevo, los ajos rallados, el comino, sal y pimienta. Amasa 2 minutos, hasta que la mezcla esté pegajosa.",
     "Con las manos húmedas, forma 8-10 albóndigas alargadas, como un dedo gordo de unos 8 cm. Pásalas por la harina y sacude el exceso.",
-    "Dóralas en la sartén con el aceite a fuego medio-alto 6-7 minutos, girándolas, hasta que tengan costra por todos lados; no hace falta que estén hechas por dentro.",
-    "En la cazuela, rehoga el ajo picado 30 segundos con un poco del aceite de la sartén. Añade el tomate, la canela, el laurel, el azúcar, sal y 100 ml de agua, y cuece 10 minutos a fuego medio.",
-    "Pasa las albóndigas a la salsa, tapa y cuece a fuego suave 20 minutos, hasta que la salsa esté espesa y brillante y las albóndigas tiernas. Si lo usas, pica el perejil mientras tanto.",
+    "Dóralas en la cazuela con el aceite a fuego medio-alto 6-7 minutos, girándolas, hasta que tengan costra por todos lados; no hace falta que estén hechas por dentro. Sácalas a un plato.",
+    "En la misma cazuela, con la grasa que ha quedado, rehoga el ajo picado 30 segundos. Añade el tomate, la canela, el laurel, el azúcar, sal y 100 ml de agua, raspando el fondo, y cuece 10 minutos a fuego medio.",
+    "Devuelve las albóndigas a la salsa, tapa y cuece a fuego suave 20 minutos, hasta que la salsa esté espesa y brillante y las albóndigas tiernas. Si lo usas, pica el perejil mientras tanto.",
     "Mientras, en un cazo, sofríe el arroz con la mantequilla 2 minutos, hasta que brille. Añade 280 ml de agua con sal, lleva a ebullición, tapa y cuece 12 minutos a fuego mínimo; deja reposar 5 minutos tapado y suelta los granos con un tenedor.",
     "Retira la canela y el laurel y sirve las soutzoukakia con su salsa junto al arroz, con el perejil si quieres."
   ],
-  nutricion: { kcal: 800, prot: 42, hc: 76, grasa: 35 },
+  nutricion: { kcal: 875, prot: 43, hc: 79, grasa: 41 },
   etiquetas: ["tradicional", "batch cooking", "ideal para llevar", "para niños"],
   consejo: "Las trajeron los refugiados de Esmirna en 1922 y hoy son un clásico de Tesalónica y de cualquier taberna griega: el comino y el pan remojado en vino son su firma. Aguantan 3 días en la nevera y se congelan muy bien en su salsa. También van con puré de patata o patatas fritas en vez de arroz.",
   tupper: true,
@@ -628,12 +628,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Mezcla la miel con 1 cucharadita de zumo de limón.",
     "Salpimienta el pavo, úntalo por arriba con la miel y aprieta encima el sésamo para que se pegue bien. Ponlo en una fuente con unas gotas de aceite y hornea 18-20 minutos, hasta que el sésamo esté dorado y el jugo salga claro al pincharlo.",
-    "Mientras, calienta el caldo en un cazo, ralla grueso el calabacín, pica la cebolleta, el ajo y la menta, ralla la piel del limón y desmiga la feta. Rehoga en la cazuela con el resto del aceite la cebolleta y el ajo 2 minutos. Añade el orzo y tuéstalo 1 minuto removiendo.",
-    "Añade el calabacín y el caldo caliente en dos veces, como un risotto. Cuece 10-11 minutos removiendo a menudo, hasta que el orzo esté al dente y cremoso.",
+    "Mientras, ralla grueso el calabacín, pica la cebolleta, el ajo y la menta, ralla la piel del limón y desmiga la feta. Rehoga en la cazuela con el resto del aceite la cebolleta y el ajo 2 minutos. Añade el orzo y tuéstalo 1 minuto removiendo.",
+    "Añade el calabacín y el caldo en dos veces, como un risotto. Cuece 11-12 minutos desde que hierva, removiendo a menudo, hasta que el orzo esté al dente y cremoso.",
     "Fuera del fuego, mezcla el orzo con la feta, la ralladura del limón, un chorrito de su zumo y la menta. Prueba de sal.",
     "Deja reposar el pavo 3 minutos, córtalo en rodajas y sírvelo sobre el orzo."
   ],
-  nutricion: { kcal: 625, prot: 52, hc: 57, grasa: 21 },
+  nutricion: { kcal: 640, prot: 52, hc: 58, grasa: 22 },
   etiquetas: ["creativa", "al horno", "alta en proteína", "ideal para llevar", "verano", "poco especiada"],
   consejo: "El pasteli es la golosina griega más antigua: sésamo tostado ligado con miel. Aquí hace de costra crujiente y dulce frente a la acidez del limón y la sal de la feta. El orzo aguanta 2 días en la nevera; al recalentarlo, añade un chorrito de caldo o agua. También funciona con pechuga de pollo.",
   tupper: true,

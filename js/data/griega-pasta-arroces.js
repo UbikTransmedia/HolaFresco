@@ -614,13 +614,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el pez espada en dados de 2 cm y rocíalos con el zumo del limón, sal y pimienta. Pon a hervir agua abundante con sal.",
     "Parte los tomates por la mitad y rállalos por la cara del corte; desecha la piel. Pica el perejil, lamina dos dientes de ajo y pica muy fino el tercero.",
-    "En una sartén pequeña, tuesta el pan rallado con 1 cucharadita de aceite y el ajo picado a fuego medio 3–4 minutos, removiendo, hasta que esté dorado y huela a tostado. Mézclalo con un tercio del perejil y resérvalo.",
-    "En una sartén amplia, calienta el resto del aceite y dora el ajo laminado 1 minuto. Añade el vino blanco y deja que se evapore 1 minuto; incorpora el tomate rallado, el azúcar y sal y cuece 10 minutos a fuego medio, hasta que espese.",
+    "En una sartén amplia, tuesta el pan rallado con 1 cucharadita de aceite y el ajo picado a fuego medio 3–4 minutos, removiendo, hasta que esté dorado y huela a tostado. Pásalo a un plato, mézclalo con un tercio del perejil y resérvalo.",
+    "En la misma sartén, calienta el resto del aceite y dora el ajo laminado 1 minuto. Añade el vino blanco y deja que se evapore 1 minuto; incorpora el tomate rallado, el azúcar y sal y cuece 10 minutos a fuego medio, hasta que espese.",
     "Cuece los espaguetis 1 minuto menos de lo que indique el paquete. Cuando falten 4 minutos, añade el pez espada escurrido a la salsa y cuécelo 3 minutos a fuego suave: debe quedar jugoso, sin deshacerse.",
     "Pasa los espaguetis escurridos a la sartén con un chorrito de agua de cocción y el resto del perejil y saltea 1 minuto con cuidado para no romper el pescado.",
     "Sirve con las migas de pan al ajo por encima en el último momento, para que crujan."
   ],
-  nutricion: { kcal: 665, prot: 38, hc: 72, grasa: 24 },
+  nutricion: { kcal: 640, prot: 38, hc: 72, grasa: 21 },
   etiquetas: ["creativa", "sin lactosa", "verano", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "En Spetses, isla del golfo Sarónico, el pescado se hornea cubierto con esta salsa y pan rallado; aquí la costra se tuesta aparte para que no se ablande. Funciona igual con atún fresco, bonito o corvina. En invierno, 400 g de buen tomate triturado sustituyen al tomate rallado.",
   tupper: false,
@@ -661,13 +661,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Si tus placas de canelones no son precocidas, cuécelas en agua con sal el tiempo del paquete y extiéndelas sobre un paño limpio sin que se toquen.",
     "Corta el pollo en dados de 1 cm y salpimiéntalo. Pica la cebolla y los pimientos en dados pequeños.",
-    "Calienta el aceite en una sartén a fuego medio-alto y dora el pollo 5 minutos. Añade la cebolla y los pimientos y cocina 8-10 minutos más, hasta que estén blandos y empiecen a dorarse. Retira del fuego.",
-    "Haz la bechamel: derrite la mantequilla en un cazo, añade la harina y remueve 1 minuto. Vierte la leche poco a poco sin dejar de batir y cuece 5-6 minutos a fuego suave, hasta que espese y cubra la cuchara. Sazona con sal, pimienta y nuez moscada y añade la mitad del kefalotyri.",
+    "Calienta el aceite en una sartén a fuego medio-alto y dora el pollo 5 minutos. Añade la cebolla y los pimientos y cocina 8-10 minutos más, hasta que estén blandos y empiecen a dorarse. Pásalo a un plato.",
+    "Haz la bechamel en la misma sartén: derrite la mantequilla a fuego medio, añade la harina y remueve 1 minuto. Vierte la leche poco a poco sin dejar de batir y cuece 5-6 minutos a fuego suave, hasta que espese y cubra la cuchara. Sazona con sal, pimienta y nuez moscada y añade la mitad del kefalotyri.",
     "Mezcla el sofrito de pollo con la feta desmenuzada y 4 cucharadas de la bechamel: tendrás un relleno cremoso como el de la kotopita.",
     "Extiende un poco de bechamel en el fondo de una fuente. Pon una cucharada de relleno en cada placa, enróllala y colócala en la fuente con la unión hacia abajo.",
     "Cubre con el resto de la bechamel, espolvorea el kefalotyri restante y hornea 20-25 minutos, hasta que la superficie esté dorada y burbujee por los bordes. Deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 770, prot: 45, hc: 52, grasa: 42 },
+  nutricion: { kcal: 785, prot: 42, hc: 60, grasa: 41 },
   etiquetas: ["creativa", "al horno", "para niños", "alta en proteína", "ideal para llevar", "poco especiada"],
   consejo: "La kotopita es el pastel de pollo de las panaderías griegas: pollo, pimientos y queso ligados con una crema de leche entre hojas de filo. En canelones es más fácil de repartir y aguanta perfecta en el táper. Puedes montarlos el día antes, taparlos y hornearlos justo al servir; ya horneados aguantan 3 días en la nevera. Si no encuentras kefalotyri, usa parmesano o un manchego curado.",
   tupper: true,

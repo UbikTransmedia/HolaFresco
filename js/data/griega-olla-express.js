@@ -460,7 +460,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escalda las hojas de parra 2 min en agua hirviendo para quitarles la salmuera, escúrrelas y córtales el rabito. Aparta las rotas para forrar la olla. Ralla la cebolla y uno de los tomates, corta el otro en rodajas y pica el perejil y la menta.",
+    "Pon a hervir agua en la olla exprés y escalda las hojas de parra 2 min para quitarles la salmuera; escúrrelas, córtales el rabito y vacía la olla. Aparta las rotas para forrarla. Mientras llega a hervir el agua, ralla la cebolla y uno de los tomates, corta el otro en rodajas y pica el perejil y la menta.",
     "En un bol mezcla con las manos la ternera, el cerdo, el arroz lavado, la cebolla y el tomate rallados, el perejil y la menta picados, la canela, 1 cda de aceite, sal y pimienta, hasta que quede homogéneo.",
     "Pon una hoja con las nervaduras hacia arriba, coloca una cucharada colmada de relleno en la base, dobla los laterales hacia dentro y enrolla hacia la punta, firme pero sin apretar: el arroz necesita sitio para hincharse.",
     "Forra el fondo de la olla exprés con las hojas rotas y las rodajas del otro tomate. Coloca encima los rollitos muy juntos, con el cierre hacia abajo, en una o dos capas.",
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 15 min. Retira del fuego y deja despresurizar de forma natural 10 min. Mientras, corta el resto del limón en gajos.",
     "Abre, retira el plato y deja reposar 10 min con la olla destapada para que los rollitos se asienten y absorban el caldo que queda. Sírvelos templados con el yogur, el resto del limón en gajos y un poco de su salsa."
   ],
-  nutricion: { kcal: 770, prot: 35, hc: 45, grasa: 48 },
+  nutricion: { kcal: 795, prot: 40, hc: 48, grasa: 49 },
   etiquetas: ["tradicional", "fin de semana", "sin gluten", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En Chipre se hacen en primavera con hojas tiernas de la parra del patio, que se congelan para todo el año; las de bote ya vienen cocidas en salmuera, por eso basta con escaldarlas. A diferencia de los dolmadakia de Cuaresma, solo de arroz, los koupepia llevan carne de cerdo y ternera. Aguantan 3 días en la nevera y están ricos fríos, como meze.",
   alternativa: "Sin olla exprés, cuece los koupepia en una cazuela ancha tapada 45 min a fuego suave, con el plato encima, hasta que el arroz esté tierno; añade agua caliente si se quedan secos.",
@@ -935,7 +935,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Salpimienta los contramuslos. Pela las cebollitas: escáldalas 1 min en agua hirviendo, pásalas por agua fría y la piel saldrá sola; déjalas enteras. Lamina el ajo.",
+    "Salpimienta los contramuslos. Pela las cebollitas: escáldalas 1 min en agua hirviendo en la propia olla exprés, pásalas por agua fría y la piel saldrá sola; déjalas enteras. Vacía y seca la olla. Lamina el ajo.",
     "Calienta 1 cda de aceite en la olla exprés destapada a fuego medio-fuerte y dora los contramuslos 3 min por cada lado. Resérvalos.",
     "Añade el resto del aceite y dora las cebollitas 5 min, moviendo la olla, hasta que tengan manchas tostadas. Añade el ajo y el tomate concentrado y remueve 1 min.",
     "Moja con el vino dulce y deja hervir 2 min raspando el fondo. Añade el caldo caliente, la canela, la pimienta de Jamaica y el laurel, y vuelve a poner el pollo con sus jugos.",
@@ -943,7 +943,7 @@ window.RECETAS_SEED.push({
     "Abre, hunde las castañas en la salsa y cuece destapado a fuego medio 8-10 min, moviendo la olla de vez en cuando en lugar de remover, hasta que la salsa reduzca y brille y las castañas tomen su sabor sin deshacerse. Retira la canela y el laurel y rectifica de sal.",
     "Sirve con pimienta recién molida y pan para mojar en la salsa."
   ],
-  nutricion: { kcal: 590, prot: 38, hc: 54, grasa: 24 },
+  nutricion: { kcal: 640, prot: 41, hc: 46, grasa: 30 },
   etiquetas: ["creativa", "otoño", "invierno", "sin gluten", "sin lácteos", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Las castañas son el fruto de otoño de las montañas griegas, del Pelion a Creta, y en muchas casas acompañan los guisos de fiesta con vino dulce, canela y pimienta de Jamaica. El Mavrodafni es un tinto dulce de Patras; si no lo encuentras, usa oporto o vino tinto con 1 cdta de miel. Con castañas frescas, hazles un corte, ásalas 20 min a 200 °C y pélalas en caliente. Aguanta 3 días en la nevera y está mejor al día siguiente.",
   alternativa: "En cazuela convencional, cuece el pollo tapado 30 min a fuego suave en vez de 10 min a presión; luego añade las castañas y reduce igual.",

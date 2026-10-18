@@ -41,15 +41,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon los contramuslos en una olla con 1,2 l de agua fría, el laurel y sal. Lleva a ebullición, retira la espuma gris que sube y cuece 30 minutos a fuego suave, con la superficie apenas temblando.",
-    "Mientras, lava la cebada perlada y cuécela aparte en un cazo con agua 25 minutos; escúrrela. Cocida por separado no enturbia ni espesa el caldo.",
-    "Pica la cebolla, ralla la zanahoria con el rallador grueso, pela la patata en dados de 1,5 cm, corta los pepinillos en tiras finas y pica el eneldo.",
+    "Lava la cebada perlada. Pon los contramuslos en una olla con 1,2 l de agua fría, el laurel y sal. Lleva a ebullición, retira la espuma gris que sube, añade la cebada y cuece 30 minutos a fuego suave, con la superficie apenas temblando.",
+    "Mientras, pica la cebolla, ralla la zanahoria con el rallador grueso, pela la patata en dados de 1,5 cm, corta los pepinillos en tiras finas y pica el eneldo.",
     "En una sartén, rehoga la cebolla y la zanahoria en el aceite de girasol 8 minutos a fuego medio, hasta que estén tiernas y algo doradas. Añade los pepinillos, el tomate concentrado y un cazo de caldo, y cuece 5 minutos más: el pepinillo se suaviza y pierde el filo crudo.",
-    "Saca el pollo, deshuésalo y desmígalo. Echa al caldo la patata y cuécela 12 minutos, hasta que esté tierna.",
-    "Ahora, y no antes, añade el sofrito de pepinillo, la cebada y el pollo desmigado. Vierte la salmuera poco a poco, probando: la sopa debe quedar claramente ácida pero agradable. Cuece 5 minutos más y salpimienta.",
+    "Saca el pollo, deshuésalo y desmígalo. Echa al caldo la patata y cuécela 12 minutos, hasta que esté tierna; la cebada termina de hacerse a la vez.",
+    "Ahora, y no antes, añade el sofrito de pepinillo y el pollo desmigado. Vierte la salmuera poco a poco, probando: la sopa debe quedar claramente ácida pero agradable. Cuece 5 minutos más y salpimienta.",
     "Apaga, deja reposar 10 minutos tapada y sirve con el eneldo y una cucharada de smetana en cada plato."
   ],
-  nutricion: { kcal: 525, prot: 35, hc: 56, grasa: 18 },
+  nutricion: { kcal: 580, prot: 36, hc: 52, grasa: 23 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "batch cooking", "económica", "alta en proteína", "poco especiada"],
   consejo: "Añade el pepinillo y la salmuera solo cuando la patata ya esté tierna: el ácido detiene su cocción y se quedaría dura por mucho que hiervas. El rassolnik de Leningrado lleva cebada; en otras regiones se hace con arroz y con riñones o menudillos en lugar de pollo. Aguanta 3 días en la nevera y está mejor al día siguiente. La smetana se vende en tiendas de productos del este; la nata agria o el yogur griego la sustituyen bien.",
   tupper: true,
@@ -255,7 +254,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 1,
   ingredientes: [
     { n: "pan", q: 2, u: "rebanada", nota: "del día anterior" },
@@ -270,8 +269,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pan en dados y tuéstalo en una sartén sin grasa 4 minutos, removiendo, hasta que esté dorado y crujiente. Reserva. Pica el ajo y el perejil.",
-    "En la cazuela, funde la mantequilla a fuego medio, añade la harina y remueve sin parar 5 o 6 minutos, hasta que tome color avellana y huela a pan tostado. Ese tostado (prežganje, «quemado») es todo el sabor de la sopa; no lo dejes pasar a marrón oscuro o amargará.",
+    "Corta el pan en dados y tuéstalo en la cazuela sin grasa 4 minutos, removiendo, hasta que esté dorado y crujiente. Resérvalo en un plato. Pica el ajo y el perejil.",
+    "En la misma cazuela, funde la mantequilla a fuego medio, añade la harina y remueve sin parar 5 o 6 minutos, hasta que tome color avellana y huela a pan tostado. Ese tostado (prežganje, «quemado») es todo el sabor de la sopa; no lo dejes pasar a marrón oscuro o amargará.",
     "Añade la alcaravea y el ajo y remueve 30 segundos.",
     "Aparta la cazuela del fuego y vierte el caldo frío o templado poco a poco, batiendo con unas varillas para que no queden grumos.",
     "Vuelve al fuego, lleva a ebullición y cuece 10 minutos a fuego suave, removiendo de vez en cuando, hasta que espese como una crema ligera. Salpimienta.",
@@ -606,16 +605,16 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-3124",
-  nombre: "Crema de coliflor y queso ahumado con trigo sarraceno crujiente en airfryer",
+  nombre: "Crema de coliflor y queso ahumado con trigo sarraceno crujiente",
   subtitulo: "una crema suave y ahumada con el grano tostado de las cocinas rusa y polaca crujiendo por encima",
   origen: "inventada",
   categoria: "sopas-cremas",
   cocina: "eslava",
   momentos: ["cena"],
   proteina: "queso",
-  tiempo: 30,
+  tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "airfryer", "batidora"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "trigo sarraceno", q: 40, u: "g", nota: "alforfón en grano" },
@@ -634,15 +633,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua con sal y pica la cebolla y el ajo. Cuece el trigo sarraceno en el agua hirviendo 8 minutos, escúrrelo muy bien y extiéndelo sobre papel de cocina para que se seque.",
-    "Mientras, funde la mantequilla en la cazuela y rehoga la cebolla y el ajo 5 minutos. Añade la coliflor y el caldo y cuece tapado 15 minutos, hasta que la coliflor esté muy tierna.",
-    "Mientras se cuece la coliflor, ralla el queso, pica el cebollino y mezcla el trigo sarraceno seco con el aceite y una pizca de sal; cocínalo en la airfryer a 190 °C 10 o 12 minutos, sacudiendo la cesta cada 4 minutos, hasta que esté dorado y crujiente: al agitarlo suena como grava.",
-    "Aparta la cazuela del fuego, añade la leche y dos tercios del queso ahumado y tritura con la batidora hasta que la crema quede muy fina. Salpimienta y añade la nuez moscada.",
+    "Pica la cebolla y el ajo. En la cazuela, tuesta el trigo sarraceno con el aceite y una pizca de sal 5 o 6 minutos a fuego medio, removiendo, hasta que esté dorado, huela a nuez tostada y suene como grava al moverlo. Resérvalo en un plato.",
+    "En la misma cazuela, funde la mantequilla y rehoga la cebolla y el ajo 5 minutos. Añade la coliflor y el caldo y cuece tapado 15 minutos, hasta que la coliflor esté muy tierna.",
+    "Mientras se cuece la coliflor, ralla el queso y pica el cebollino.",
+    "Aparta la cazuela del fuego, añade la leche y dos tercios del queso ahumado y tritura con la batidora hasta que la crema quede muy fina; si queda muy espesa, aligérala con un poco de agua. Salpimienta y añade la nuez moscada.",
     "Sirve la crema con el resto del queso rallado, el trigo sarraceno crujiente y el cebollino."
   ],
-  nutricion: { kcal: 430, prot: 20, hc: 37, grasa: 22 },
+  nutricion: { kcal: 410, prot: 19, hc: 34, grasa: 22 },
   etiquetas: ["creativa", "vegetariana", "sin gluten", "ligera", "invierno", "poco especiada"],
-  consejo: "El trigo sarraceno crujiente se guarda una semana en un tarro bien cerrado y sirve para cremas, ensaladas o yogur. Sin airfryer, hornéalo a 200 °C unos 15 minutos removiendo a mitad. El oscypek es el queso ahumado de oveja de los montes Tatra; cualquier queso ahumado que funda bien vale. La crema sin el crujiente aguanta 3 días en la nevera.",
+  consejo: "El trigo sarraceno tostado se guarda una semana en un tarro bien cerrado y sirve para cremas, ensaladas o yogur. Tuéstalo a fuego medio y sin prisa: si se oscurece demasiado amarga. El oscypek es el queso ahumado de oveja de los montes Tatra; cualquier queso ahumado que funda bien vale. La crema sin el crujiente aguanta 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
   coste: "media"
@@ -797,7 +796,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "guisantes congelados", q: 400, u: "g" },
@@ -818,14 +817,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lamina los rábanos muy finos y ponlos en un bol con el vinagre, el azúcar, una pizca de sal y 2 cda de agua. Déjalos encurtir mientras haces la crema. Pica la cebolla, lamina el ajo y pela la patata y córtala en dados pequeños.",
-    "Calienta 1 cda de aceite en la cazuela a fuego medio y rehoga la cebolla 5 min, hasta que esté transparente. Añade el ajo 1 min.",
-    "Incorpora la patata y el caldo, sala ligeramente y cuece 12 min, hasta que la patata esté tierna. Mientras, corta el pan de centeno en dados y dóralo en la sartén con el resto del aceite 4 min a fuego medio; en el último minuto añade las semillas de girasol.",
+    "Lamina los rábanos muy finos y ponlos en un bol con el vinagre, el azúcar, una pizca de sal y 2 cda de agua. Déjalos encurtir mientras haces la crema. Pica la cebolla, lamina el ajo, pela la patata y córtala en dados pequeños y corta el pan de centeno en dados.",
+    "Calienta 1 cda de aceite en la cazuela a fuego medio y dora el pan 4 min, removiendo; en el último minuto añade las semillas de girasol. Resérvalos en un plato.",
+    "En la misma cazuela, calienta el resto del aceite y rehoga la cebolla 5 min, hasta que esté transparente. Añade el ajo 1 min.",
+    "Incorpora la patata y el caldo, sala ligeramente y cuece 12 min, hasta que la patata esté tierna.",
     "Añade los guisantes congelados y cuece solo 4 min desde que vuelva a hervir: más tiempo y pierden el color verde y el dulzor.",
     "Fuera del fuego, agrega las espinacas y los tallos finos del eneldo y tritura con la batidora 2 min hasta que la crema quede lisa. Salpimienta.",
     "Sirve la crema con los rábanos escurridos, los picatostes, las semillas y las hojas de eneldo por encima."
   ],
-  nutricion: { kcal: 460, prot: 19, hc: 63, grasa: 15 },
+  nutricion: { kcal: 540, prot: 21, hc: 63, grasa: 19 },
   etiquetas: ["creativa", "vegana", "rápida", "primavera", "económica", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Los guisantes con eneldo son un clásico de los huertos de dacha rusos y polacos; congelados están en su punto todo el año. Si no tienes rábanos, un pepino en láminas encurtido igual funciona. La crema aguanta 3 días en la nevera; guarda aparte rábanos y picatostes.",
   tupper: true,
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
@@ -862,14 +862,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela la patata y córtala en dados de 2 cm. Lava bien el puerro y córtalo en rodajas. Pica el ajo.",
-    "Funde la mantequilla en la cazuela y rehoga el puerro y el ajo 5 minutos, sin que se doren. Añade la patata, la alcaravea y el caldo y cuece 20 minutos, hasta que la patata se deshaga.",
-    "Mientras, corta la kielbasa en dados pequeños y dórala en una sartén sin aceite a fuego medio 6 u 8 minutos, hasta que esté crujiente y haya soltado su grasa. Sácala sobre papel de cocina.",
-    "En la grasa que queda en la sartén, tuesta el pan de centeno en dados 3 o 4 minutos, hasta que cruja. Pica el cebollino.",
-    "Añade la leche y la mejorana a la cazuela y tritura con la batidora no más de 1 minuto: la patata batida en exceso se vuelve elástica, como un engrudo. Salpimienta.",
+    "Corta la kielbasa en dados pequeños y dórala en la cazuela sin aceite a fuego medio 6 u 8 minutos, hasta que esté crujiente y haya soltado su grasa. Mientras, pela la patata y córtala en dados de 2 cm, lava bien el puerro y córtalo en rodajas, pica el ajo y corta el pan de centeno en dados.",
+    "Saca la kielbasa sobre papel de cocina. En la grasa que queda en la cazuela, tuesta el pan 3 o 4 minutos, hasta que cruja, y resérvalo.",
+    "En la misma cazuela, funde la mantequilla y rehoga el puerro y el ajo 5 minutos, sin que se doren. Añade la patata, la alcaravea y el caldo y cuece 20 minutos, hasta que la patata se deshaga. Mientras, pica el cebollino.",
+    "Añade la leche y la mejorana y tritura con la batidora no más de 1 minuto: la patata batida en exceso se vuelve elástica, como un engrudo. Salpimienta.",
     "Sirve la crema con la kielbasa, los picatostes, el cebollino y pimienta recién molida."
   ],
-  nutricion: { kcal: 580, prot: 20, hc: 72, grasa: 23 },
+  nutricion: { kcal: 550, prot: 19, hc: 64, grasa: 23 },
   etiquetas: ["creativa", "invierno", "para niños", "económica", "ideal para llevar", "poco especiada"],
   consejo: "La bramboračka, la sopa de patata de Bohemia, se perfuma siempre con mejorana y alcaravea, que aquí convierten una crema de patata y puerro de diario en algo muy distinto. Si no encuentras kielbasa, usa bacon ahumado en tiras. La crema sola aguanta 3 días en la nevera; al recalentarla aligérala con un poco de leche y prepara la kielbasa y los picatostes al momento.",
   tupper: true,
