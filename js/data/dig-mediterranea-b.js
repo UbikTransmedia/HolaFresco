@@ -44,10 +44,10 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Parte la berenjena a lo largo, haz cortes en rejilla en la pulpa, pincélala con 1 cucharadita de aceite de ajo, sálala y ásala boca abajo 25-30 minutos, hasta que esté muy tierna. Saca la pulpa con una cuchara y desecha la piel.",
     "Baja el horno a 170 °C y pon agua a hervir. Tritura la pulpa con los huevos, la leche, el parmesano, la nuez moscada, las hojas de una rama de tomillo, sal y pimienta, hasta tener una crema fina.",
     "Unta dos flaneras o cuencos individuales con el aceite de oliva y reparte la crema. Colócalos en una fuente honda, vierte agua hirviendo hasta media altura y hornea 30-35 minutos, hasta que estén cuajados (la punta de un cuchillo sale limpia).",
-    "Mientras, prepara el coulis: escalda los tomates 20 segundos, pélalos, quítales las semillas y pícalos. Cuécelos en una sartén con el resto del aceite de ajo y las hojas del tomillo restante 15 minutos, tritúralos y sálalos. Tuesta el pan.",
+    "Mientras, prepara el coulis: ralla los tomates por el lado grueso del rallador y desecha la piel. Cuécelos en una sartén con el resto del aceite de ajo y las hojas del tomillo restante 15 minutos, hasta que espesen, y sálalos. Tuesta el pan.",
     "Deja reposar los papetons 5 minutos, pasa un cuchillo por el borde y desmóldalos sobre el coulis caliente. Sírvelos con el pan tostado y los canónigos."
   ],
-  nutricion: { kcal: 420, prot: 18, hc: 34, grasa: 23 },
+  nutricion: { kcal: 440, prot: 20, hc: 35, grasa: 24 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "al horno", "verano"],
   consejo: "Se cuenta que el papeton d'aubergines nació en la corte de los papas de Aviñón; se hace con berenjena frita en abundante aceite, ajo y huevo. Aquí la berenjena se asa y el ajo va en el aceite. La berenjena es baja en FODMAP hasta unos 75 g por persona, justo la de esta receta: el huevo y la leche sin lactosa le dan cuerpo sin pasarse de ración. Quitarle la piel después de asarla elimina la parte más fibrosa. Templado o frío, con el coulis, es una cena de verano muy ligera.",
   tupper: true,
@@ -154,7 +154,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "calabaza japonesa", q: 500, u: "g", nota: "kabocha, pelada; no la cambies por calabaza violín" },
@@ -175,12 +175,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza en gajos de 2 cm, mézclala en una bandeja con el aceite de oliva, las hojas de tomillo, sal y pimienta, y ásala 30-35 minutos, dándole la vuelta a mitad, hasta que esté tierna y con los bordes tostados.",
     "Mientras, lava la quinoa en un colador hasta que el agua salga limpia y cuécela en el doble de su volumen de agua con sal, tapada y a fuego suave, 15 minutos. Apaga, deja reposar 5 minutos tapada y suéltala con un tenedor.",
-    "Tuesta las avellanas en una sartén sin aceite a fuego medio 4 minutos, moviéndolas, hasta que huelan y la piel se cuartee. Frótalas en un paño para quitar la piel suelta.",
+    "Cuando a la calabaza le queden unos 5 minutos, pon las avellanas en un rincón de la bandeja y tuéstalas hasta que huelan y la piel se cuartee. Frótalas en un paño para quitar la piel suelta.",
     "Haz la persillade: pica a cuchillo el perejil y las avellanas, no demasiado fino, y mézclalos con la ralladura de medio limón y el aceite de ajo.",
     "Aliña la quinoa con el zumo de medio limón y una pizca de sal.",
     "Sirve la quinoa con la rúcula, coloca encima la calabaza recién salida del horno, reparte la persillade y el queso de cabra en lascas finas hechas con un pelador. Termina con escamas de sal."
   ],
-  nutricion: { kcal: 460, prot: 15, hc: 46, grasa: 24 },
+  nutricion: { kcal: 500, prot: 18, hc: 49, grasa: 25 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "al horno", "otoño", "invierno"],
   consejo: "No todas las calabazas son iguales para el intestino irritable: la japonesa (kabocha) y las de carne firme tienen pocos FODMAP incluso en ración generosa, mientras que la violín o cacahuete acumula manitol y conviene limitarla a unos 45 g por persona. La persillade es la picada provenzal de perejil y ajo; con aceite de ajo y avellanas gana crujiente sin los fructanos. El queso de cabra curado, a diferencia del fresco, apenas tiene lactosa.",
   tupper: true,
@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "bol"],
+  equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "tofu firme", q: 300, u: "g" },
@@ -309,14 +309,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Escurre el tofu, envuélvelo en papel de cocina, ponle un peso encima 10 minutos y, mientras, lamina el hinojo muy fino, parte los tomates cherry por la mitad y pica el perejil. Corta el tofu en 4 lonchas gruesas.",
-    "Mientras, pela la patata, córtala en rodajas de 3 mm y cuécelas 5 minutos en agua con sal: así terminarán tiernas al mismo tiempo que el tofu. Escúrrelas.",
+    "Precalienta el horno a 200 °C. Escurre el tofu, envuélvelo en papel de cocina y ponle un peso encima 10 minutos. Mientras, lamina el hinojo muy fino, parte los tomates cherry por la mitad, pica el perejil y pela la patata y córtala en rodajas muy finas, de 2 mm, para que se haga en el paquete al mismo tiempo que el tofu. Corta el tofu en 4 lonchas gruesas.",
     "Prepara la marinada: machaca las semillas de hinojo en el mortero, deshaz el azafrán con los dedos en el zumo de media naranja templado, añade el aceite de ajo, 2 tiras de piel de naranja sin la parte blanca, las semillas machacadas, sal y pimienta. Unta bien el tofu y déjalo 5 minutos.",
-    "Corta dos hojas grandes de papel de horno. En el centro de cada una, pon una cama de patata e hinojo, encima dos lonchas de tofu, los tomates, el tomillo y el resto de la marinada. Rocía con el aceite de oliva, cierra los paquetes doblando los bordes varias veces para que no escape el vapor y colócalos en una bandeja.",
-    "Hornea 18-20 minutos: el paquete se hinchará y el hinojo quedará tierno y translúcido.",
+    "Corta dos hojas grandes de papel de horno. En el centro de cada una, pon una cama de patata e hinojo con una pizca de sal, encima dos lonchas de tofu, los tomates, el tomillo y el resto de la marinada. Rocía con el aceite de oliva, cierra los paquetes doblando los bordes varias veces para que no escape el vapor y colócalos en una bandeja.",
+    "Hornea 22-25 minutos: el paquete se hinchará, la patata quedará tierna (pínchala con un palillo a través del papel) y el hinojo, translúcido.",
     "Sirve los paquetes cerrados y ábrelos en la mesa; termina con perejil picado y unos gajos de la otra media naranja."
   ],
-  nutricion: { kcal: 465, prot: 26, hc: 41, grasa: 22 },
+  nutricion: { kcal: 455, prot: 28, hc: 36, grasa: 22 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "al horno", "bajo en colesterol", "detox"],
   consejo: "El hinojo da el sabor anisado de la bullabesa, pero el bulbo solo es bajo en FODMAP en raciones pequeñas (unos 40-50 g por persona): por eso las semillas de hinojo, que no tienen ese problema, refuerzan el aroma. El tofu firme es bajo en FODMAP porque, al prensar la soja, los galactooligosacáridos se quedan en el suero; el tofu sedoso no, así que no lo sustituyas. La cocción en papillote es de las más suaves: no hay grasa caliente y el tofu queda jugoso.",
   tupper: false,
@@ -686,7 +685,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "mijo", q: 140, u: "g" },
@@ -705,14 +704,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el mijo en un colador fino con agua fría hasta que salga limpia: así pierde el ligero amargor. Calienta el caldo.",
-    "Mientras se calienta el caldo, tuesta los piñones en una sartén sin aceite 2 minutos, moviéndolos, hasta que estén dorados. Resérvalos. Pica la parte verde de la cebolleta y la mitad de la menta.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio y tuesta el mijo escurrido 2 minutos, removiendo, hasta que huela a cereal tostado. Añade la cebolleta.",
+    "Mientras se calienta el caldo, tuesta los piñones en la cazuela, en seco, 2 minutos, moviéndolos, hasta que estén dorados. Resérvalos. Pica la parte verde de la cebolleta y la mitad de la menta.",
+    "En la misma cazuela, calienta el aceite de ajo a fuego medio y tuesta el mijo escurrido 2 minutos, removiendo, hasta que huela a cereal tostado. Añade la cebolleta.",
     "Vierte dos tercios del caldo caliente, lleva a ebullición, baja el fuego, tapa y cuece 10 minutos.",
     "Mientras, ralla el calabacín con un rallador grueso y pica las espinacas. Añade el calabacín al mijo con el resto del caldo y cuece destapado 8-10 minutos, removiendo a menudo, hasta que el grano esté tierno y el conjunto cremoso: el almidón del mijo y el calabacín rallado ligan la salsa. Incorpora las espinacas el último minuto, solo para que mermen.",
     "Fuera del fuego, añade la ralladura del limón, un chorro de su zumo, la mitad del feta desmenuzado y la menta picada; remueve con energía 30 segundos y ajusta de sal y pimienta.",
     "Sirve con el resto del feta, los piñones y unas hojas de menta."
   ],
-  nutricion: { kcal: 477, prot: 16, hc: 56, grasa: 21 },
+  nutricion: { kcal: 520, prot: 17, hc: 60, grasa: 22 },
   etiquetas: ["creativa", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "verano", "económica"],
   consejo: "El mijo es un cereal sin gluten y bajo en FODMAP que casi nadie usa y que da una textura melosa estupenda. El feta, por su maduración en salmuera, tiene muy poca lactosa y se tolera bien en 30 g por persona. Rallar el calabacín hace que se integre en la crema y sea más fácil de digerir que en trozos; se queda en 65 g por persona, su ración baja en FODMAP, y las espinacas, que se toleran sin límite, completan la verdura.",
   alternativa: "Si no encuentras mijo, usa los mismos 140 g de arroz redondo sin lavar: tuéstalo igual y cuécelo unos 18 min en total, añadiendo un poco más de caldo si se seca; queda igual de meloso.",
@@ -1020,14 +1019,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Escalda el tomate 20 segundos, pélalo, quítale las semillas y pícalo. Lamina el hinojo muy fino y pica la parte verde de la cebolleta. Pela la patata y córtala en rodajas de 1 cm.",
+    "Ralla el tomate por el lado grueso del rallador y desecha la piel. Lamina el hinojo muy fino y pica la parte verde de la cebolleta. Pela la patata y córtala en rodajas de 1 cm.",
     "Calienta el aceite de ajo en una cazuela ancha a fuego medio y rehoga el hinojo y la cebolleta 4 minutos, hasta que el hinojo esté blando sin tomar color. Añade el tomate y cuece 3 minutos más.",
     "Incorpora la patata, el azafrán desmenuzado, la piel de naranja, el tomillo, el laurel, el agua y sal. Lleva a ebullición y cuece a fuego suave 15-18 minutos, hasta que la patata esté tierna pero entera. Mientras, tuesta el pan sin gluten y pica el perejil.",
     "Retira la piel de naranja, el tomillo y el laurel. Baja el fuego al mínimo para que el caldo apenas tiemble.",
     "Casca cada huevo en una taza y deslízalo en el caldo, separados entre sí. Escálfalos 3-4 minutos, echándoles caldo por encima con una cuchara, hasta que la clara esté cuajada y la yema líquida.",
     "Pon una rebanada de pan en cada plato hondo. Reparte encima la patata y el caldo y coloca dos huevos por plato. Termina con perejil picado y pimienta."
   ],
-  nutricion: { kcal: 495, prot: 19, hc: 55, grasa: 22 },
+  nutricion: { kcal: 480, prot: 19, hc: 48, grasa: 22 },
   etiquetas: ["tradicional", "bajo en fodmap", "fácil digestión", "poco especiada", "sin gluten", "de cuchara", "económica", "invierno"],
   consejo: "La bullabesa «tuerta» es la versión de diario de las casas marsellesas, cuando no había pescado: el mismo caldo de azafrán, hinojo y naranja, con huevos en lugar de rape. Tradicionalmente lleva cebolla, ajo y puerro; con aceite de ajo y la parte verde de la cebolleta queda igual de aromática. El hinojo se queda en unos 30 g por persona, una ración bien tolerada, y bien cocido es suave para el intestino. Las patatas, cocidas en el caldo y comidas recién hechas, son de los hidratos más fáciles de digerir.",
   tupper: false,
