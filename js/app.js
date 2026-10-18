@@ -138,6 +138,8 @@
     document.dispatchEvent(new CustomEvent("recetas:semilla-cargada"));
     if (!(window.RECETAS_SEED || []).length) UI.toast("No se han cargado las recetas de ejemplo. Comprueba que la carpeta js/data está junto a index.html.", "error", 8000);
     window.addEventListener("hashchange", render);
+    // Direcciones de las páginas estáticas de las recetas (no cambian aunque cambie el nombre de la receta)
+    fetch("tools/slugs.json").then((r) => (r.ok ? r.json() : null)).then((m) => { if (m) window.SLUGS_RECETAS = m; }).catch(() => {});
     render();
   };
 

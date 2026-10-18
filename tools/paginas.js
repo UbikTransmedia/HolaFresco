@@ -59,7 +59,12 @@ const anuncio = () => `<aside class="anuncio" aria-label="Publicidad"><span clas
 
 const R = Recetas.todas().filter((r) => r.origen !== "propia");
 const porId = new Map(R.map((r) => [r.id, r]));
-const slugs = new Map(R.map((r) => [r.id, slug(r)]));
+// Cada receta conserva la dirección con la que se publicó por primera vez (tools/slugs.json), aunque luego cambie su
+// nombre: así no se rompen los enlaces ni lo que ya tiene indexado Google
+const FICH_SLUGS = path.join(RAIZ, "tools/slugs.json");
+const fijos = fs.existsSync(FICH_SLUGS) ? JSON.parse(fs.readFileSync(FICH_SLUGS, "utf8")) : {};
+const slugs = new Map(R.map((r) => [r.id, fijos[r.id] || slug(r)]));
+fs.writeFileSync(FICH_SLUGS, JSON.stringify(Object.fromEntries([...slugs].sort((a, b) => a[0].localeCompare(b[0])))));
 
 const paginaReceta = (r) => {
   const cat = Recetas.categoria(r.categoria), coc = Recetas.cocina(r.cocina), n = r.nutricion || {};

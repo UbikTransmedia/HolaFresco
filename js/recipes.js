@@ -404,6 +404,7 @@
 
   /* Página estática de una receta del recetario (recetas/<slug>.html, generada por tools/paginas.js con el nombre original) */
   const paginaEstatica = (id) => {
+    if (window.SLUGS_RECETAS && window.SLUGS_RECETAS[id]) return `/recetas/${window.SLUGS_RECETAS[id]}.html`;
     const semilla = (window.RECETAS_SEED || []).find((s) => s.id === id);
     if (!semilla) return null;
     return `/recetas/${Catalogo.normalizar(semilla.nombre.split(":")[0]).replace(/ñ/g, "n").split(" ").filter(Boolean).slice(0, 8).join("-")}-${id}.html`;
