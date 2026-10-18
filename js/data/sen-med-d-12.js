@@ -113,7 +113,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "salmón fresco (lomos)", q: 240, u: "g" },
@@ -130,9 +130,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pela las patatas, córtalas en rodajas de 3 mm y cuécelas en agua con sal 8 minutos, hasta que estén casi tiernas pero enteras. Escúrrelas con cuidado.",
+    "Precalienta el horno a 190 °C. Pela las patatas, córtalas en rodajas de 3 mm y cuécelas en una cazuela con agua y sal 8 minutos, hasta que estén casi tiernas pero enteras. Escúrrelas con cuidado y resérvalas.",
     "Mientras se cuecen, quita la piel y las espinas al salmón y córtalo en dados de 2 cm; pica el eneldo y el cebollino; ralla la piel del limón y exprime una cucharada de zumo.",
-    "Saltea las espinacas en una sartén con unas gotas del aceite 2 minutos, solo hasta que mermen. Pásalas a un colador, apriétalas con una cuchara para quitarles el agua y pícalas por encima.",
+    "En la misma cazuela, ya vacía, saltea las espinacas con unas gotas del aceite 2 minutos, solo hasta que mermen. Pásalas a un colador, apriétalas con una cuchara para quitarles el agua y pícalas por encima.",
     "Bate los huevos con la leche, la ralladura de limón, la mitad de las hierbas, sal y pimienta.",
     "Unta con el resto del aceite una fuente de unos 20 cm. Coloca la mitad de la patata, reparte encima el salmón y las espinacas, rocía con el zumo de limón y cubre con el resto de la patata. Vierte el batido por encima.",
     "Hornea 30 o 35 minutos, hasta que el centro esté cuajado (un cuchillo sale limpio) y la superficie dorada. Deja reposar 10 minutos antes de cortar en porciones y reparte por encima las hierbas restantes."
@@ -486,9 +486,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca la carne con papel de cocina, sálala y espolvoréala con la harina de arroz. Pela la zanahoria y córtala en rodajas; pica el verde de la cebolleta. Saca con el pelador dos tiras de piel de limón.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio-alto y dora la carne 6 minutos, en dos tandas si no cabe holgada. Añade la zanahoria y la cebolleta y rehoga 2 minutos.",
-    "Vierte el caldo con el azafrán desmenuzado, añade el laurel y la piel de limón, tapa y cuece 40 minutos a fuego suave.",
-    "Mientras se guisa, pela las patatas y cáscalas en trozos de 3 cm; lava las espinacas, exprime el limón y tuesta los piñones en una sartén sin aceite 2 minutos, hasta que estén dorados.",
+    "Tuesta los piñones en la cazuela, sin aceite, a fuego medio 2 minutos, moviéndolos, hasta que estén dorados, y sácalos a un plato.",
+    "En la misma cazuela, calienta el aceite de ajo a fuego medio-alto y dora la carne 6 minutos, en dos tandas si no cabe holgada. Añade la zanahoria y la cebolleta y rehoga 2 minutos.",
+    "Vierte el caldo con el azafrán desmenuzado, añade el laurel y la piel de limón, tapa y cuece 40 minutos a fuego suave. Mientras se guisa, pela las patatas y cáscalas en trozos de 3 cm; lava las espinacas y exprime el limón.",
     "Añade las patatas, tapa y cuece 20 minutos más, hasta que la carne esté tierna y las patatas se dejen atravesar con un cuchillo.",
     "Retira el laurel y la piel de limón, incorpora las espinacas a puñados y cuece 2 minutos, hasta que se ablanden. Fuera del fuego, añade el zumo de limón, prueba de sal y termina con pimienta y los piñones tostados."
   ],
@@ -574,11 +574,11 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto", nota: "unos granos" },
   ],
   pasos: [
-    "Cuece los huevos 10 minutos desde que el agua hierva, pásalos a agua fría y pélalos. Mientras, pela las patatas, córtalas en dados de 3 cm y cuécelas en otro cazo con agua y sal 15 minutos, hasta que estén tiernas pero enteras.",
-    "Mientras se cuecen las patatas, pela la zanahoria y córtala en rodajas finas, pica el verde de la cebolleta y pica también el perejil para el final.",
-    "Calienta los dos aceites en un cazo a fuego suave y pocha la zanahoria y la cebolleta 8 minutos, sin que tomen color, hasta que la zanahoria esté tierna.",
-    "Añade el laurel, el tomillo y unos granos de pimienta; aparta del fuego, incorpora el pimentón y, enseguida, el vinagre, 100 ml de agua y sal. Vuelve al fuego y hierve 3 minutos.",
-    "Escurre las patatas y colócalas en un tupper o fuente con los huevos enteros. Vierte el escabeche caliente por encima, que los cubra lo más posible.",
+    "Pela las patatas, córtalas en dados de 3 cm y ponlas en una cazuela con agua fría y sal. Cuando hierva, cuécelas 5 minutos, añade los huevos con cuidado y cuece todo 10 minutos más, hasta que las patatas estén tiernas pero enteras.",
+    "Mientras se cuecen, pela la zanahoria y córtala en rodajas finas, pica el verde de la cebolleta y pica también el perejil para el final.",
+    "Pasa los huevos a agua fría y pélalos. Escurre las patatas y colócalas en un tupper o fuente con los huevos enteros.",
+    "En la misma cazuela, calienta los dos aceites a fuego suave y pocha la zanahoria y la cebolleta 8 minutos, sin que tomen color, hasta que la zanahoria esté tierna.",
+    "Añade el laurel, el tomillo y unos granos de pimienta; aparta del fuego, incorpora el pimentón y, enseguida, el vinagre, 100 ml de agua y sal. Vuelve al fuego y hierve 3 minutos. Vierte el escabeche caliente sobre las patatas y los huevos, que los cubra lo más posible.",
     "Deja templar, tapa y refrigera al menos 2 horas (mejor de un día para otro), dándoles la vuelta una vez. Sirve los huevos partidos por la mitad, con las patatas, la zanahoria y el perejil."
   ],
   nutricion: { kcal: 450, prot: 18, hc: 37, grasa: 24 },
@@ -686,7 +686,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "calabaza japonesa", q: 700, u: "g", nota: "pesada con piel" },
@@ -705,8 +705,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Quita las semillas a la calabaza y córtala con piel en láminas de medio centímetro (la piel de la japonesa se come). Extiéndelas en una bandeja con papel de horno, píntalas con el aceite de oliva, sálalas y ásalas 15 minutos, hasta que estén tiernas.",
-    "Mientras se asan, prepara la salsa: calienta el aceite de ajo en un cazo, añade el tomate, el orégano y sal y cuece 10 minutos a fuego suave, hasta que espese un poco. Ralla el parmesano.",
-    "Mientras tanto, saltea las espinacas en una sartén con unas gotas de agua 2 minutos, hasta que mermen; escúrrelas apretándolas y pícalas. Mézclalas con el huevo batido, la mitad del parmesano, la nuez moscada y pimienta.",
+    "Mientras se asan, saltea las espinacas en una cazuela con unas gotas de agua 2 minutos, hasta que mermen; pásalas a un colador, apriétalas y pícalas. Ralla el parmesano y mezcla las espinacas con el huevo batido, la mitad del parmesano, la nuez moscada y pimienta.",
+    "En la misma cazuela, calienta el aceite de ajo, añade el tomate, el orégano y sal y cuece 10 minutos a fuego suave, hasta que espese un poco.",
     "Baja el horno a 180 °C. En una fuente de unos 20 x 20 cm, extiende un poco de salsa y haz capas de calabaza, espinacas y salsa; repite y termina con calabaza, el resto de la salsa y el resto del parmesano.",
     "Hornea 20 minutos, hasta que burbujee y la superficie esté gratinada.",
     "Deja reposar 10 minutos para que se asiente, córtala en porciones y termina con la albahaca rota con las manos."
@@ -860,7 +860,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "plancha"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "trigo sarraceno", q: 120, u: "g" },
@@ -879,10 +879,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela las zanahorias, córtalas en bastones de 1 cm, mézclalas con una cucharadita del aceite, sal y las hojas de la mitad del tomillo y ásalas 20 minutos, hasta que estén tiernas y con las puntas tostadas.",
-    "Mientras se asan, cuece el trigo sarraceno en abundante agua con sal 10 o 12 minutos, hasta que esté tierno pero entero. Escúrrelo y pásalo por agua fría.",
-    "Sazona el pollo con sal, pimienta y el resto del tomillo y hazlo en la plancha con unas gotas de aceite a fuego medio, 4 minutos por cada lado, hasta que no quede rosado por dentro. Déjalo reposar 5 minutos y córtalo en tiras.",
-    "Durante el reposo, corta las uvas por la mitad, el pepino en medias lunas y trocea las nueces. Bate el zumo de limón con la mostaza, el resto del aceite y sal.",
+    "Precalienta el horno a 200 °C. Pela las zanahorias y córtalas en bastones de 1 cm; deshoja el tomillo. Sazona el pollo con sal, pimienta y la mitad del tomillo.",
+    "En una bandeja, mezcla las zanahorias con una cucharadita del aceite, sal y el resto del tomillo; coloca el pollo a un lado y úntalo con unas gotas de aceite. Hornea 18 o 20 minutos, hasta que las zanahorias estén tiernas y con las puntas tostadas y el pollo no quede rosado por dentro.",
+    "Mientras se asa, cuece el trigo sarraceno en abundante agua con sal 10 o 12 minutos, hasta que esté tierno pero entero. Escúrrelo y pásalo por agua fría.",
+    "Saca el pollo, déjalo reposar 5 minutos y córtalo en tiras. Durante el reposo, corta las uvas por la mitad, el pepino en medias lunas y trocea las nueces. Bate el zumo de limón con la mostaza, el resto del aceite y sal.",
     "Mezcla el trigo sarraceno con la zanahoria, el pepino, las uvas, las espinacas y el aliño. Reparte y coloca encima el pollo y las nueces."
   ],
   nutricion: { kcal: 630, prot: 39, hc: 65, grasa: 25 },
@@ -968,10 +968,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Lleva el caldo a ebullición en un cazo, baja el fuego y escalfa la pechuga entera 12 minutos a fuego suave, hasta que esté blanca por dentro. Mientras, lava el arroz hasta que el agua salga clara y déjalo escurrir; ralla los tomates desechando la piel y corta el pimiento en dados pequeños.",
-    "Saca la pechuga y desmígala con dos tenedores. Mide 280 ml del caldo y mantenlo caliente; guarda el resto para otro uso.",
-    "Calienta el aceite en una cazuela a fuego medio y rehoga el pimiento 3 minutos. Añade el tomate concentrado, remueve 1 minuto y agrega el tomate rallado; cocina 3 minutos, hasta que espese.",
-    "Añade el arroz y remueve 1 minuto para que se impregne. Vierte los 280 ml de caldo caliente, sala, tapa y cuece 12 minutos a fuego mínimo, sin destapar.",
+    "Lleva el caldo a ebullición en una cazuela, baja el fuego y escalfa la pechuga entera 12 minutos a fuego suave, hasta que esté blanca por dentro. Mientras, lava el arroz hasta que el agua salga clara y déjalo escurrir; ralla los tomates desechando la piel y corta el pimiento en dados pequeños.",
+    "Saca la pechuga y desmígala con dos tenedores. Mide 280 ml del caldo en una jarra; guarda el resto para otro uso.",
+    "Calienta el aceite en la misma cazuela a fuego medio y rehoga el pimiento 3 minutos. Añade el tomate concentrado, remueve 1 minuto y agrega el tomate rallado; cocina 3 minutos, hasta que espese.",
+    "Añade el arroz y remueve 1 minuto para que se impregne. Vierte los 280 ml de caldo, sala, tapa y cuece 12 minutos a fuego mínimo, sin destapar.",
     "Mientras se cuece, prepara el cacık: ralla el pepino, apriétalo con las manos para quitarle el agua y mézclalo con el yogur, la menta seca frotada entre los dedos y sal. Pica el perejil.",
     "Aparta el arroz del fuego, pon el pollo encima, tapa con un paño bajo la tapa y deja reposar 10 minutos. Esponja con un tenedor mezclando el pollo y sirve con el perejil, pimienta y el cacık al lado."
   ],
@@ -1038,7 +1038,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "chirivía", q: 300, u: "g" },
@@ -1058,9 +1058,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las chirivías, las zanahorias y la patata y córtalas en rodajas o dados de 2 cm; pica el verde de la cebolleta. Pon el caldo a calentar.",
-    "Calienta el aceite de ajo en una olla a fuego medio y rehoga la cebolleta, la chirivía, la zanahoria y la patata 4 minutos, removiendo. Añade la cúrcuma y el comino y remueve 20 segundos.",
-    "Vierte el caldo caliente, sala, tapa y cuece 20 minutos, hasta que todo esté muy tierno.",
-    "Mientras se cuece, tuesta las pipas en una sartén sin aceite 2 minutos, hasta que empiecen a saltar; pica el cebollino y exprime la media naranja.",
+    "Tuesta las pipas en una olla, sin aceite, a fuego medio 2 minutos, hasta que empiecen a saltar, y sácalas a un plato. En la misma olla, calienta el aceite de ajo y rehoga la cebolleta, la chirivía, la zanahoria y la patata 4 minutos, removiendo. Añade la cúrcuma y el comino y remueve 20 segundos.",
+    "Vierte el caldo caliente, sala, tapa y cuece 20 minutos, hasta que todo esté muy tierno. Mientras se cuece, pica el cebollino y exprime la media naranja.",
     "Tritura la crema con la batidora hasta que quede muy fina; si la quieres más ligera, añade un poco de agua caliente. Incorpora el zumo de naranja, prueba de sal y añade pimienta.",
     "Sirve con una cucharada de yogur, las pipas tostadas y el cebollino por encima."
   ],

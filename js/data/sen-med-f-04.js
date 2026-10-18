@@ -69,7 +69,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "plancha"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "lubina (lomos)", q: 320, u: "g", nota: "2 lomos con piel" },
@@ -90,9 +90,9 @@ window.RECETAS_SEED.push({
     "Lava la quinoa en un colador bajo el grifo y ponla en una cazuela con los 300 ml de agua y sal. Llévala a ebullición, tapa y cuécela a fuego suave 13 minutos; apaga y déjala reposar tapada.",
     "Mientras se cuece, ralla la piel de media naranja y exprime la naranja entera. Pica las aceitunas, las alcaparras, el perejil y el cebollino. Seca los lomos de lubina con papel de cocina, hazles dos cortes poco profundos en la piel y sálalos.",
     "Calienta la mitad del aceite de ajo en una sartén a fuego fuerte y saltea las espinacas 2 minutos, hasta que se reduzcan. Sálalas, mézclalas con la quinoa esponjada con un tenedor y la mitad del perejil, y tápalo.",
-    "Calienta la plancha a fuego fuerte con el aceite de oliva. Pon la lubina con la piel hacia abajo, presiónala 10 segundos con una espátula y cocínala 3-4 minutos, hasta que la carne esté blanca casi hasta arriba; dale la vuelta y deja 30 segundos más.",
-    "En la sartén de las espinacas, a fuego medio, echa el zumo y la ralladura de naranja, las aceitunas, las alcaparras y el resto del aceite de ajo y deja que hierva 1 minuto, hasta que reduzca un poco. Fuera del fuego, añade el resto del perejil y pimienta: es la salsa.",
-    "Sirve la quinoa con espinacas, pon encima la lubina con la piel hacia arriba, riégala con la salsa tibia y termina con el cebollino."
+    "En la misma sartén, a fuego fuerte, calienta el aceite de oliva. Pon la lubina con la piel hacia abajo, presiónala 10 segundos con una espátula y cocínala 3-4 minutos, hasta que la carne esté blanca casi hasta arriba; dale la vuelta, deja 30 segundos más y sácala a los platos.",
+    "Baja a fuego medio, echa en la sartén el zumo y la ralladura de naranja, las aceitunas, las alcaparras y el resto del aceite de ajo y deja que hierva 1 minuto, hasta que reduzca un poco. Fuera del fuego, añade el resto del perejil y pimienta: es la salsa.",
+    "Sirve la quinoa con espinacas junto a la lubina con la piel hacia arriba, riégala con la salsa tibia y termina con el cebollino."
   ],
   nutricion: { kcal: 555, prot: 41, hc: 47, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten", "sin lácteos", "rápida", "alta en proteína"],
@@ -157,7 +157,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "plancha", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "merluza (lomos)", q: 340, u: "g" },
@@ -178,8 +178,8 @@ window.RECETAS_SEED.push({
     "Pela las zanahorias y la patata y córtalas en rodajas finas. Cuécelas en una cazuela con agua justa para cubrirlas y sal 15-18 minutos, hasta que estén muy tiernas.",
     "Mientras, tuesta los piñones en una sartén en seco 2 minutos y resérvalos. Ralla la piel de media naranja y exprime su zumo. Pica el cebollino y lava las espinacas.",
     "Escurre las verduras guardando el agua de cocción. Tritúralas con el zumo de naranja, el comino, 2 cucharaditas de aceite de oliva, sal y el agua de cocción necesaria (unos 100 ml) hasta tener una crema espesa y lisa. Tápala.",
-    "En la sartén de los piñones, calienta el aceite de ajo a fuego fuerte y saltea las espinacas 2 minutos, hasta que se reduzcan. Sálalas y escúrrelas.",
-    "Calienta la plancha a fuego fuerte con el resto del aceite de oliva. Seca la merluza, sálala y cocínala 3 minutos por el lado de la piel y 2 por el otro, hasta que esté opaca pero jugosa.",
+    "En la sartén de los piñones, calienta el aceite de ajo a fuego fuerte y saltea las espinacas 2 minutos, hasta que se reduzcan. Sálalas, escúrrelas y resérvalas.",
+    "Pasa un papel por la sartén y caliéntala a fuego fuerte con el resto del aceite de oliva. Seca la merluza, sálala y cocínala 3 minutos por el lado de la piel y 2 por el otro, hasta que esté opaca pero jugosa.",
     "Sirve una cama de crema de zanahoria, la merluza encima, las espinacas al lado y termina con los piñones, la ralladura de naranja, el cebollino y pimienta."
   ],
   nutricion: { kcal: 485, prot: 36, hc: 34, grasa: 23 },
@@ -287,7 +287,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["horno", "plancha", "sartén", "bol"],
+  equipo: ["horno", "plancha", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "lomo de cerdo", q: 320, u: "g", nota: "picado: pide en la carnicería que te lo piquen sin grasa" },
@@ -306,7 +306,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en rodajas de 1 cm y mézclalas en una bandeja con 2 cucharaditas de aceite de oliva, las semillas de hinojo y sal. Hornéalas 30 minutos, dándoles la vuelta a mitad.",
-    "Mientras, tuesta las semillas de cilantro en una sartén en seco 1 minuto, hasta que huelan, y machácalas en un mortero (o con el fondo de un vaso). Pica fino el perejil.",
+    "Mientras, tuesta las semillas de cilantro en la plancha en seco 1 minuto, moviéndolas, hasta que huelan, y machácalas en un mortero (o con el fondo de un vaso). Pica fino el perejil.",
     "En un bol, mezcla la carne picada con el cilantro machacado, el perejil, 1 cucharadita de aceite de ajo, 3/4 de cucharadita de sal y 1/4 de cucharadita de pimienta. Amasa 1 minuto, hasta que la carne se vuelva algo pegajosa: así las salchichas no se desmigan.",
     "Con las manos mojadas, forma 6 salchichas gruesas sin tripa y déjalas en la nevera 10 minutos para que se asienten.",
     "Mientras reposan, corta los tomates en rodajas y pica el cebollino. Alíñalos con las alcaparras, el vinagre, el resto del aceite de oliva y sal.",
@@ -423,7 +423,7 @@ window.RECETAS_SEED.push({
   proteina: "pavo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "plancha"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "pavo (pechuga)", q: 320, u: "g", nota: "en 4 filetes finos" },
@@ -444,9 +444,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Mientras se calienta, pela las patatas y córtalas en trozos de 3 cm; quita las puntas a las judías verdes y pártelas por la mitad.",
     "Cuece las patatas 15 minutos; a los 7 minutos añade las judías verdes.",
-    "Mientras se cuecen, ralla los tomates partidos por la mitad y desecha la piel. Pica la hierbabuena y el perejil. Calienta el aceite de ajo en una sartén a fuego medio, apártala del fuego, añade el comino y el pimentón, remueve 10 segundos y echa el tomate rallado con sal. Vuelve al fuego y cocina 6-7 minutos, hasta que espese.",
-    "Seca los filetes de pavo, úntalos con el aceite de oliva y sálalos. Calienta la plancha a fuego fuerte y hazlos 2 minutos por cada lado, hasta que estén dorados y blancos por dentro.",
-    "Añade a la salsa el zumo de limón y la mitad de la hierbabuena. Escurre las patatas y las judías y mézclalas con el perejil y una pizca de sal.",
+    "Mientras se cuecen, ralla los tomates partidos por la mitad y desecha la piel. Pica la hierbabuena y el perejil. Seca los filetes de pavo, úntalos con el aceite de oliva y sálalos.",
+    "Calienta una sartén a fuego fuerte y haz los filetes 2 minutos por cada lado, hasta que estén dorados y blancos por dentro. Sácalos a un plato y tápalos.",
+    "Baja a fuego medio y calienta el aceite de ajo en la misma sartén; apártala del fuego, añade el comino y el pimentón, remueve 10 segundos y echa el tomate rallado con sal. Vuelve al fuego y cocina 6-7 minutos, raspando el fondo, hasta que espese. Añade el zumo de limón y la mitad de la hierbabuena. Escurre las patatas y las judías y mézclalas con el perejil y una pizca de sal.",
     "Sirve los filetes cubiertos con la salsa tibia, el resto de la hierbabuena por encima y las patatas con las judías al lado, con pimienta al gusto."
   ],
   nutricion: { kcal: 445, prot: 43, hc: 34, grasa: 14 },
@@ -707,8 +707,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir dos dedos de agua en una cazuela con una vaporera encima y, en un cazo, agua para los huevos. Mientras se calientan, pela las patatas y córtalas en rodajas de 1,5 cm; pela las zanahorias y córtalas en bastones; quita las puntas a las judías verdes y pártelas por la mitad.",
-    "Cuece las patatas y las zanahorias al vapor, tapadas, 15 minutos; a los 7 minutos añade las judías. Cuando hierva el agua del cazo, baja los huevos con una cuchara y cuécelos 10 minutos; pásalos a agua fría.",
+    "Pon a hervir dos dedos de agua en una cazuela con una vaporera encima. Mientras se calienta, pela las patatas y córtalas en rodajas de 1,5 cm; pela las zanahorias y córtalas en bastones; quita las puntas a las judías verdes y pártelas por la mitad.",
+    "Pon en la vaporera las patatas, las zanahorias y los huevos enteros, tapa y cuece 15 minutos; a los 7 minutos añade las judías. A los 12 minutos, saca los huevos y pásalos a agua fría.",
     "Mientras, tuesta las almendras en una sartén en seco 2 minutos y resérvalas. Pica el eneldo y el cebollino y mezcla en un bol el yogur con el eneldo, el zumo del medio limón, sal y pimienta: es la salsa.",
     "Pela los huevos y córtalos en cuartos.",
     "Calienta el aceite de ajo en la sartén a fuego bajo 30 segundos, apártala del fuego, añade el pimentón y remueve 10 segundos.",
@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pimiento verde italiano", q: 4, u: "ud", nota: "grandes" },
@@ -752,13 +752,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta una tira longitudinal de la parte superior de cada pimiento para abrirlo como una barca y quítale las semillas, dejando el tallo.",
-    "Calienta el aceite de ajo en una sartén, añade el tomate triturado, el orégano y sal y cocina 8 minutos a fuego medio, hasta que espese. Viértelo en una fuente de horno.",
-    "Mientras tanto, lleva a ebullición 320 ml de agua con sal en una cazuela, echa la polenta en lluvia batiendo con unas varillas y cuécela 4-5 minutos removiendo, hasta que esté espesa. Retírala del fuego.",
-    "Mientras se cuece la polenta, pica las aceitunas y la mitad de la albahaca y ralla el parmesano. Mezcla con la polenta caliente las aceitunas, la albahaca picada, dos tercios del parmesano, el huevo batido y pimienta.",
+    "Calienta el aceite de ajo en una cazuela, añade el tomate triturado, el orégano y sal y cocina 8 minutos a fuego medio, hasta que espese. Mientras, pica las aceitunas y la mitad de la albahaca y ralla el parmesano. Vierte la salsa en una fuente de horno.",
+    "En la misma cazuela, sin lavarla, lleva a ebullición 320 ml de agua con sal, echa la polenta en lluvia batiendo con unas varillas y cuécela 4-5 minutos removiendo, hasta que esté espesa. Retírala del fuego.",
+    "Mezcla con la polenta caliente las aceitunas, la albahaca picada, dos tercios del parmesano, el huevo batido y pimienta.",
     "Rellena los pimientos con la polenta, colócalos sobre la salsa de tomate, espolvorea el resto del parmesano y riégalos con el aceite de oliva.",
     "Hornea 25 minutos, hasta que los pimientos estén tiernos y el relleno dorado. Termina con el resto de la albahaca."
   ],
-  nutricion: { kcal: 409, prot: 16, hc: 44, grasa: 19 },
+  nutricion: { kcal: 420, prot: 16, hc: 43, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "al horno", "sin gluten", "ideal para llevar"],
   consejo: "El pimiento verde italiano tiene la piel fina y se ablanda en el horno sin pelarlo, por eso se digiere mejor que el morrón. La polenta es harina de maíz, sin gluten y baja en FODMAP. Se pueden dejar rellenos por la mañana y hornear al llegar a casa (5 minutos más).",
   tupper: true,
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
     "Mientras se prensa el tofu, tuesta los piñones en una sartén en seco 2 minutos y resérvalos.",
     "Corta el tofu en dados de 2 cm. Calienta en la sartén 1 cucharadita de aceite de ajo a fuego medio-alto y dora el tofu 6-7 minutos, girándolo, hasta que esté dorado por todas las caras. Vierte el glaseado y remueve 1 minuto, hasta que espese y lo cubra brillante. Pásalo a un plato.",
     "Escurre las patatas, aplástalas con la base de un vaso y dóralas en la misma sartén con el aceite de oliva 3 minutos por cara. Sálalas.",
-    "Mientras se doran, saltea las espinacas en otra sartén con el resto del aceite de ajo 2 minutos, hasta que se reduzcan; sálalas y añade el zumo de limón y los piñones. Sirve el tofu con las patatas y las espinacas."
+    "Mientras se doran, saltea las espinacas en la cazuela de las patatas, ya vacía, con el resto del aceite de ajo 2 minutos, hasta que se reduzcan; sálalas y añade el zumo de limón y los piñones. Sirve el tofu con las patatas y las espinacas."
   ],
   nutricion: { kcal: 500, prot: 31, hc: 41, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "bajo en colesterol", "sin gluten"],
@@ -1019,9 +1019,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta. Mientras se calienta, limpia los mejillones: quítales las barbas tirando hacia la punta y rasca la concha con un cuchillo; desecha los que estén abiertos y no se cierren al golpearlos.",
-    "Pon los mejillones en otra cazuela con el laurel y medio vaso de agua, tapa y cuécelos a fuego fuerte 3-4 minutos, sacudiendo la cazuela, hasta que se abran. Cuela el caldo con un colador fino y guárdalo; saca la carne de casi todos y deja unos pocos en su concha para decorar.",
+    "Pon los mejillones en una sartén grande con tapa con el laurel y medio vaso de agua, tapa y cuécelos a fuego fuerte 3-4 minutos, sacudiendo la sartén, hasta que se abran. Cuela el caldo con un colador fino y guárdalo; saca la carne de casi todos y deja unos pocos en su concha para decorar.",
     "Echa la pasta al agua y cuécela el tiempo del paquete. Mientras, desmenuza el azafrán en el caldo caliente de los mejillones, parte los tomates cherry en cuartos, pica el perejil y el cebollino, ralla la piel del limón y exprime la mitad.",
-    "Calienta el aceite de ajo en una sartén grande a fuego medio y saltea los tomates 2 minutos. Añade el caldo azafranado y deja que hierva 2 minutos, hasta que reduzca a la mitad.",
+    "Pasa un papel por la sartén, calienta en ella el aceite de ajo a fuego medio y saltea los tomates 2 minutos. Añade el caldo azafranado y deja que hierva 2 minutos, hasta que reduzca a la mitad.",
     "Escurre la pasta guardando medio vaso de su agua y pásala a la sartén con los mejillones, el zumo y la ralladura de limón y la mitad del perejil. Mezcla a fuego suave 1 minuto, con un chorrito del agua de cocción si hace falta, hasta que quede brillante.",
     "Sirve con el resto del perejil, el cebollino, pimienta y los mejillones con concha por encima."
   ],

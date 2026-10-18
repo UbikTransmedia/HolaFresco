@@ -865,12 +865,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C con calor arriba y abajo.",
     "Mientras se calienta, corta las berenjenas por la mitad a lo largo y haz cortes en rejilla en la pulpa sin llegar a la piel. Pinta las caras cortadas con 1 1/2 cucharadas de aceite, sálalas y ásalas boca arriba 30–35 minutos, hasta que la pulpa esté dorada y muy tierna.",
-    "Mientras se asan, lamina el ajo y dóralo ligeramente en una sartén con el resto del aceite (1 minuto). Añade el tomate triturado, el orégano y sal, y cuece 15 minutos a fuego suave, hasta que espese.",
-    "Tuesta los piñones en una sartén seca 2–3 minutos, moviéndolos, hasta que estén dorados. Ralla el parmesano y mézclalo en un bol con la ricotta y pimienta.",
+    "Mientras se asan, tuesta los piñones en una sartén seca 2–3 minutos, moviéndolos, hasta que estén dorados, y sácalos. Lamina el ajo y dóralo ligeramente en la misma sartén con el resto del aceite (1 minuto). Añade el tomate triturado, el orégano y sal, y cuece 15 minutos a fuego suave, hasta que espese.",
+    "Mientras cuece la salsa, ralla el parmesano y mézclalo en un bol con la ricotta y pimienta.",
     "Saca las berenjenas, aplasta un poco la pulpa con un tenedor, cúbrelas con la salsa de tomate y reparte encima cucharadas de ricotta. Hornea 5 minutos más, hasta que la ricotta se temple.",
     "Termina con los piñones y las hojas de albahaca."
   ],
-  nutricion: { kcal: 410, prot: 16, hc: 26, grasa: 27 },
+  nutricion: { kcal: 420, prot: 16, hc: 22, grasa: 29 },
   etiquetas: ["creativa", "al horno", "sin gluten", "poco especiada", "ligera", "verano"],
   consejo: "Los cortes en rejilla dejan entrar el calor y el aceite, y así la berenjena se asa en la mitad de tiempo sin quedar gomosa. Con pan o un poco de cuscús es un plato completo. Si no tienes ricotta, usa requesón o queso fresco batido.",
   tupper: true,

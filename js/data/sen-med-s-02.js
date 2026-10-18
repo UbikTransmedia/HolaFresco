@@ -747,13 +747,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta cada hinojo en 6 gajos sin quitar la base, para que no se deshagan, y guarda las barbas verdes. Lamina los ajos. Ralla la piel de media naranja y exprime la naranja entera. Ralla el parmesano.",
-    "Calienta el aceite en una sartén amplia con tapa a fuego medio-fuerte y dora los gajos de hinojo 3 minutos por cada cara, hasta que estén tostados.",
-    "Añade el ajo y el tomillo y remueve 1 minuto. Incorpora el tomate y el zumo de naranja, sala, tapa y cuece a fuego suave 20 minutos, dándoles la vuelta a mitad, hasta que estén tiernos al pincharlos. Mientras, tuesta los piñones en una sartén pequeña sin aceite 2 minutos, pica las barbas del hinojo y pon a calentar la leche con 300 ml de agua y sal en un cazo.",
+    "Tuesta los piñones en una sartén amplia con tapa, sin aceite, 2 minutos y sácalos. En la misma sartén, calienta el aceite a fuego medio-fuerte y dora los gajos de hinojo 3 minutos por cada cara, hasta que estén tostados.",
+    "Añade el ajo y el tomillo y remueve 1 minuto. Incorpora el tomate y el zumo de naranja, sala, tapa y cuece a fuego suave 20 minutos, dándoles la vuelta a mitad, hasta que estén tiernos al pincharlos. Mientras, pica las barbas del hinojo y pon a calentar la leche con 300 ml de agua y sal en un cazo.",
     "Cuando la leche hierva, echa la polenta en forma de lluvia batiendo con varillas y cuécela a fuego suave 5-8 minutos, removiendo, hasta que esté cremosa. Fuera del fuego, añade el parmesano y pimienta.",
     "Destapa el hinojo, sube el fuego y reduce la salsa 2 minutos. Añade la ralladura de naranja.",
     "Sirve la polenta en platos hondos, el hinojo con su salsa encima, los piñones y las barbas picadas."
   ],
-  nutricion: { kcal: 610, prot: 19, hc: 66, grasa: 30 },
+  nutricion: { kcal: 645, prot: 21, hc: 66, grasa: 31 },
   etiquetas: ["creativa", "otoño", "invierno", "sin gluten", "poco especiada"],
   consejo: "El hinojo, que crece silvestre por toda la Provenza, se vuelve dulce y meloso al brasearlo: el truco es dorarlo bien antes de añadir el líquido. Si sobra polenta, extiéndela en una bandeja, enfríala y al día siguiente dórala en la sartén en bastones.",
   tupper: true,
@@ -1037,7 +1037,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g" },
@@ -1056,11 +1056,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela los dientes de ajo. Pica la cebolla y la zanahoria pelada. Enjuaga los garbanzos y corta el pan en dados.",
     "Pon los ajos en un cazo pequeño con 4 cucharadas de aceite y una rama de romero y confítalos a fuego muy suave 15 minutos, hasta que estén blandos y apenas dorados. Mientras, en una cazuela con 1 cucharada de aceite, pocha la cebolla y la zanahoria 8 minutos a fuego medio.",
-    "Saca los ajos y el romero del aceite, que queda aromatizado. Añade a la cazuela los ajos (reserva 4 para servir), los garbanzos y el caldo, y hierve 10 minutos. Mientras, dora los dados de pan en una sartén con 1 cucharada del aceite de romero, 3 minutos, y pica fino las hojas de la otra rama de romero.",
+    "Saca los ajos y el romero del aceite, que queda aromatizado. Añade a la cazuela los ajos (reserva 4 para servir), los garbanzos y el caldo, y hierve 10 minutos. Mientras, pasa el aceite de romero a una taza dejando 1 cucharada en el cazo, dora en él los dados de pan 3 minutos y pica fino las hojas de la otra rama de romero.",
     "Tritura la crema con la batidora hasta que esté muy fina. Añade el zumo de medio limón, sal y pimienta; si queda espesa, aclárala con un poco de agua caliente.",
     "Sirve con los picatostes, los ajos reservados, el romero picado, la ralladura del limón y un hilo del aceite de romero."
   ],
-  nutricion: { kcal: 520, prot: 18, hc: 60, grasa: 23 },
+  nutricion: { kcal: 715, prot: 21, hc: 66, grasa: 39 },
   etiquetas: ["creativa", "de cuchara", "invierno", "económica"],
   consejo: "En Niza y Marsella el garbanzo es de casa (socca, panisse); esta crema juega con él y con el ajo confitado, que pierde el picor y gana dulzor. El aceite de romero sobrante sirve para aliñar ensaladas o pasta. Sin picatostes es apta sin gluten.",
   tupper: true,

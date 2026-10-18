@@ -204,7 +204,7 @@ window.RECETAS_SEED.push({
   proteina: "cordero",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["plancha", "cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "pierna de cordero (filetes)", q: 280, u: "g", nota: "4 filetes finos" },
@@ -227,8 +227,8 @@ window.RECETAS_SEED.push({
     "Lava la quinoa en un colador bajo el grifo y ponla en una cazuela con los 300 ml de agua y sal. Cuando hierva, tapa y cuécela a fuego suave 13 minutos; apaga y déjala reposar tapada.",
     "Mientras, saca los filetes de cordero de la nevera y sécalos con papel de cocina. Pica las hojas de romero y frota con ellas los filetes, junto con sal y pimienta. Ralla la piel del limón y exprímelo.",
     "Prepara la salsa: trocea el tomate y tritúralo con los pimientos escurridos, las almendras, el pimentón, el vinagre, la mitad del aceite de ajo y sal hasta obtener una crema espesa que conserve algo de textura.",
-    "Saltea las espinacas en una sartén con el resto del aceite de ajo, a fuego fuerte, 2 minutos, hasta que se reduzcan; sálalas.",
-    "Calienta la plancha a fuego fuerte con el aceite de oliva y marca los filetes 1½-2 minutos por cada lado, hasta que estén dorados por fuera y rosados por dentro. Déjalos reposar 2 minutos.",
+    "Saltea las espinacas en una sartén con el resto del aceite de ajo, a fuego fuerte, 2 minutos, hasta que se reduzcan; sálalas y sácalas a un plato.",
+    "Pasa un papel por la sartén, caliéntala a fuego fuerte con el aceite de oliva y marca los filetes 1½-2 minutos por cada lado, hasta que estén dorados por fuera y rosados por dentro. Déjalos reposar 2 minutos.",
     "Esponja la quinoa con un tenedor y mézclala con la ralladura y la mitad del zumo de limón. Sirve el cordero sobre una cama de salsa, con la quinoa y las espinacas al lado y el resto del zumo de limón por encima."
   ],
   nutricion: { kcal: 590, prot: 43, hc: 47, grasa: 25 },
@@ -250,7 +250,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela", "plancha"],
+  equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "lomo de cerdo (filetes)", q: 300, u: "g", nota: "4 filetes de 1 cm" },
@@ -270,12 +270,12 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 600, u: "ml" },
   ],
   pasos: [
-    "Tuesta los piñones en una sartén sin aceite a fuego medio 2-3 minutos, moviéndolos, hasta que estén dorados; sácalos. Mientras se tuestan, corta los pimientos en tiras de 1 cm, sin el tallo ni las semillas, y pica la parte verde de la cebolleta.",
-    "En la misma sartén, calienta el aceite de ajo a fuego medio y rehoga los pimientos y la cebolleta con una pizca de sal 10 minutos, removiendo de vez en cuando, hasta que estén blandos y con algunas manchas doradas.",
-    "Mientras se hacen los pimientos, pon a hervir los 600 ml de agua con sal en una cazuela, ralla el parmesano y salpimienta los filetes de cerdo.",
-    "Añade a los pimientos el vinagre, el azúcar y las alcaparras y deja que hierva 2 minutos, hasta que el líquido se reduzca a un glaseado brillante. Apaga el fuego y añade los piñones.",
-    "Echa la polenta en lluvia en el agua hirviendo, batiendo con unas varillas, y cuécela a fuego suave 5 minutos (o lo que indique el envase), removiendo, hasta que esté cremosa. Fuera del fuego, añade el parmesano.",
-    "Calienta la plancha a fuego fuerte con el aceite de oliva y marca los filetes 2 minutos por cada lado, hasta que estén dorados y apenas rosados en el centro.",
+    "Tuesta los piñones en una sartén sin aceite a fuego medio 2-3 minutos, moviéndolos, hasta que estén dorados; sácalos. Mientras se tuestan, corta los pimientos en tiras de 1 cm, sin el tallo ni las semillas, pica la parte verde de la cebolleta y salpimienta los filetes de cerdo.",
+    "En la misma sartén, a fuego fuerte, calienta el aceite de oliva y marca los filetes 2 minutos por cada lado, hasta que estén dorados y apenas rosados en el centro. Sácalos a un plato y tápalos.",
+    "Baja a fuego medio, calienta el aceite de ajo en la sartén y rehoga los pimientos y la cebolleta con una pizca de sal 10 minutos, removiendo de vez en cuando, hasta que estén blandos y con algunas manchas doradas.",
+    "Mientras se hacen los pimientos, pon a hervir los 600 ml de agua con sal en una cazuela y ralla el parmesano.",
+    "Añade a los pimientos el vinagre, el azúcar y las alcaparras y deja que hierva 2 minutos, hasta que el líquido se reduzca a un glaseado brillante. Apaga el fuego, añade los piñones y devuelve los filetes con su jugo para que se templen en el glaseado.",
+    "Mientras reduce, echa la polenta en lluvia en el agua hirviendo, batiendo con unas varillas, y cuécela a fuego suave 5 minutos (o lo que indique el envase), removiendo, hasta que esté cremosa. Fuera del fuego, añade el parmesano.",
     "Sirve la polenta en platos hondos, coloca encima los filetes y los pimientos en agridulce con su jugo y termina con las hojas de menta."
   ],
   nutricion: { kcal: 615, prot: 44, hc: 58, grasa: 23 },
@@ -494,11 +494,11 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 3, u: "cda" },
   ],
   pasos: [
-    "Corta la calabaza japonesa, con su piel, en dados de 2 cm, sin las semillas. Calienta 1 cucharada de aceite en una sartén grande a fuego medio, añade la calabaza con las ramas de romero, sal y las 3 cucharadas de agua, tapa y deja 8 minutos, removiendo un par de veces.",
-    "Mientras, tuesta las nueces 2 minutos en otra sartén sin aceite y trocéalas. Ralla la piel de media naranja y exprime la naranja entera. Seca los filetes de pavo con papel de cocina, salpiméntalos y úntalos con la ralladura.",
-    "Destapa la calabaza, sube el fuego y dórala 5-6 minutos más, dándole la vuelta, hasta que esté tierna y tostada por varios lados. Retira el romero.",
+    "Corta la calabaza japonesa, con su piel, en dados de 2 cm, sin las semillas. Tuesta las nueces 2 minutos en una sartén grande sin aceite y sácalas. En la misma sartén, calienta 1 cucharada de aceite a fuego medio, añade la calabaza con las ramas de romero, sal y las 3 cucharadas de agua, tapa y deja 8 minutos, removiendo un par de veces.",
+    "Mientras, trocea las nueces. Ralla la piel de media naranja y exprime la naranja entera. Seca los filetes de pavo con papel de cocina, salpiméntalos y úntalos con la ralladura.",
+    "Destapa la calabaza, sube el fuego y dórala 5-6 minutos más, dándole la vuelta, hasta que esté tierna y tostada por varios lados. Retira el romero y pasa la calabaza a un plato.",
     "Mientras se dora, prepara la vinagreta batiendo en un bol grande el zumo de naranja, el vinagre, 2 cucharaditas de aceite, sal y pimienta.",
-    "Calienta la sartén de las nueces a fuego fuerte con el aceite que queda y marca el pavo 2 minutos por cada lado, hasta que esté dorado y sin rastro rosado en el centro. Déjalo reposar 2 minutos y córtalo en tiras.",
+    "Pon la misma sartén a fuego fuerte con el aceite que queda y marca el pavo 2 minutos por cada lado, hasta que esté dorado y sin rastro rosado en el centro. Déjalo reposar 2 minutos y córtalo en tiras.",
     "Mezcla la rúcula con la mitad de la vinagreta y repártela en los platos. Pon encima la calabaza templada y el pavo, riega con el resto de la vinagreta y termina con la granada y las nueces."
   ],
   nutricion: { kcal: 520, prot: 42, hc: 32, grasa: 24 },
@@ -566,7 +566,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "tomate pera", q: 700, u: "g", nota: "bien maduros" },
@@ -584,9 +584,9 @@ window.RECETAS_SEED.push({
     { n: "agua", q: 500, u: "ml" },
   ],
   pasos: [
-    "Pela las patatas y córtalas en dados de 2 cm; quita el tallo y las semillas a los pimientos y trocéalos; parte los tomates en cuartos y corta en aros el verde de la cebolleta.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio y rehoga el pimiento y la cebolleta 4 minutos. Añade el tomate, la patata, el orégano, sal y los 500 ml de agua; cuando hierva, tapa y cuece a fuego medio 15 minutos, hasta que la patata se deshaga al apretarla con una cuchara.",
-    "Mientras se cuece, prepara el aceite de albahaca triturando las hojas de albahaca con 1 cucharada de aceite de oliva y una pizca de sal. Corta el pan en dados de 1 cm y tuéstalos en una sartén con el resto del aceite a fuego medio 4-5 minutos, moviéndolos, hasta que estén dorados. Corta la merluza en 4 trozos, quítale las espinas que tenga y sálala.",
+    "Pela las patatas y córtalas en dados de 2 cm; quita el tallo y las semillas a los pimientos y trocéalos; parte los tomates en cuartos, corta en aros el verde de la cebolleta y corta el pan en dados de 1 cm.",
+    "Tuesta los dados de pan en una cazuela con media cucharada de aceite de oliva a fuego medio 4-5 minutos, moviéndolos, hasta que estén dorados, y sácalos. En la misma cazuela, calienta el aceite de ajo y rehoga el pimiento y la cebolleta 4 minutos. Añade el tomate, la patata, el orégano, sal y los 500 ml de agua; cuando hierva, tapa y cuece a fuego medio 15 minutos, hasta que la patata se deshaga al apretarla con una cuchara.",
+    "Mientras se cuece, prepara el aceite de albahaca triturando las hojas de albahaca con 1 cucharada de aceite de oliva y una pizca de sal. Corta la merluza en 4 trozos, quítale las espinas que tenga y sálala.",
     "Tritura la crema con la batidora hasta que quede fina; si la quieres más sedosa, pásala por un colador para quitar las pieles del tomate. Prueba de sal y pimienta.",
     "Vuelve a poner la crema a fuego suave, mete los trozos de merluza, tapa y deja 4-5 minutos, sin que llegue a hervir, hasta que estén blancos y se separen en lascas.",
     "Sirve la crema en platos hondos con la merluza en lascas por encima, un hilo de aceite de albahaca y los picatostes."

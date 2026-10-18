@@ -205,14 +205,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las cebollas por la mitad y luego en medias lunas finas. Mezcla el vinagre con el azúcar hasta disolverlo. Saca el atún de la nevera, sécalo y córtalo en dos filetes.",
-    "Pon las cebollas en una sartén con 2 cda de aceite, el laurel y una pizca de sal a fuego medio-bajo, tapadas, 12 minutos, removiendo de vez en cuando, hasta que estén blandas y transparentes, sin tostarse.",
-    "Mientras se pocha la cebolla, tuesta las almendras en otra sartén en seco 3 minutos, hasta que huelan, apártalas y pícalas gruesas. Deshoja la menta.",
-    "Destapa la cebolla, añade el vinagre con el azúcar y deja que hierva 3–4 minutos, hasta que el olor fuerte se suavice y quede un almíbar ligero. Apártala del fuego.",
-    "Salpimienta el atún y pásalo por la harina sacudiendo el exceso. En la sartén de las almendras, con 1 cda de aceite muy caliente, márcalo 1 minuto y medio por cada lado: dorado fuera y rosado dentro.",
+    "Tuesta las almendras en una sartén en seco 3 minutos, hasta que huelan, y sácalas. Pon en la misma sartén las cebollas con 2 cda de aceite, el laurel y una pizca de sal a fuego medio-bajo, tapadas, 12 minutos, removiendo de vez en cuando, hasta que estén blandas y transparentes, sin tostarse.",
+    "Mientras se pocha la cebolla, pica gruesas las almendras y deshoja la menta.",
+    "Destapa la cebolla, añade el vinagre con el azúcar y deja que hierva 3–4 minutos, hasta que el olor fuerte se suavice y quede un almíbar ligero. Pásala a un plato.",
+    "Salpimienta el atún y pásalo por la harina sacudiendo el exceso. En la misma sartén, con 1 cda de aceite muy caliente, márcalo 1 minuto y medio por cada lado: dorado fuera y rosado dentro.",
     "Vuelca la cebolla agridulce sobre el atún, apaga el fuego y deja reposar 2 minutos para que se impregne. Añade la mitad de la menta.",
     "Sirve el atún cubierto de cebolla, con las almendras y el resto de la menta por encima y la rúcula al lado."
   ],
-  nutricion: { kcal: 520, prot: 40, hc: 26, grasa: 26 },
+  nutricion: { kcal: 560, prot: 40, hc: 26, grasa: 32 },
   etiquetas: ["tradicional", "alta en proteína", "pescado azul", "ideal para llevar", "poco especiada"],
   consejo: "En Trapani el atún en agridulce se prepara de víspera y se come frío o templado: aguanta 2 días en la nevera tapado con su cebolla, que lo conserva como un escabeche suave. Si prefieres el atún más hecho, déjalo 1 minuto más por lado; el bonito del norte funciona igual de bien.",
   tupper: true,
@@ -800,7 +800,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "bol"],
+  equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "calabaza", q: 500, u: "g" },
@@ -817,12 +817,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Mientras se calienta, pela la calabaza, quítale las semillas y córtala en dados de 2 cm; corta la cebolla morada en gajos finos.",
-    "Mezcla la calabaza y la cebolla en una bandeja con 1 cda de aceite, las hojas de romero y sal. Ásalas 25 minutos, dándoles la vuelta a mitad, hasta que estén tiernas y doradas por los bordes.",
-    "Mientras se asan, tuesta las almendras en una sartén en seco 3 minutos y pícalas gruesas. Ralla la piel del limón y exprime la mitad.",
-    "Prepara el aliño con el zumo de limón, la miel, la guindilla desmenuzada, el resto del aceite y sal. Mezcla la ricotta con la ralladura de limón y una pizca de sal.",
-    "Deja templar la calabaza 5 minutos. Reparte la rúcula en los platos, pon encima la calabaza y la cebolla, cucharadas de ricotta y las almendras, y riega con el aliño."
+    "Mezcla la calabaza y la cebolla en una bandeja con 1 cda de aceite, las hojas de romero y sal. Ásalas 25 minutos, dándoles la vuelta a mitad, hasta que estén tiernas y doradas por los bordes; en los últimos 4 minutos, pon las almendras en un hueco de la bandeja para que se tuesten.",
+    "Mientras se asan, ralla la piel del limón y exprime la mitad. Prepara el aliño con el zumo de limón, la miel, la guindilla desmenuzada, el resto del aceite y sal. Mezcla la ricotta con la ralladura de limón y una pizca de sal.",
+    "Saca la bandeja, pica gruesas las almendras y deja templar la calabaza 5 minutos.",
+    "Reparte la rúcula en los platos, pon encima la calabaza y la cebolla, cucharadas de ricotta y las almendras, y riega con el aliño."
   ],
-  nutricion: { kcal: 470, prot: 13, hc: 26, grasa: 34 },
+  nutricion: { kcal: 470, prot: 13, hc: 28, grasa: 35 },
   etiquetas: ["creativa", "al horno", "otoño", "picante"],
   consejo: "Miel y guindilla es una pareja muy calabresa: el picante realza el dulzor de la calabaza asada y la ricotta lo calma. Si la calabaza entra en la ensalada muy caliente, la rúcula se marchita, así que déjala templar. Cambia la ricotta por queso feta si la quieres más salada.",
   tupper: false,
@@ -883,7 +883,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "espaguetis", q: 180, u: "g" },
@@ -899,13 +899,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir los 2 litros de agua con sal para la pasta. Mientras, corta los tomates en dados pequeños, pica el ajo muy fino, pica la albahaca y el perejil y desmenuza la guindilla.",
+    "Tuesta el pan rallado en la cazuela de la pasta con 1 cda de aceite a fuego medio 3 minutos, removiendo, hasta que esté dorado, y pásalo a un plato. Llena la cazuela con los 2 litros de agua, sala y ponla a hervir. Mientras, corta los tomates en dados pequeños, pica el ajo muy fino, pica la albahaca y el perejil y desmenuza la guindilla.",
     "En una fuente grande, mezcla el tomate con el ajo, la guindilla, las hierbas, 3 cda de aceite y sal. Déjalo macerar mientras se hace la pasta: soltará un jugo que será la salsa.",
-    "Cuece los espaguetis el tiempo del paquete, unos 10 minutos. Mientras, tuesta el pan rallado en una sartén con el resto del aceite a fuego medio 3 minutos, removiendo, hasta que esté dorado, y ralla el pecorino.",
+    "Cuece los espaguetis el tiempo del paquete, unos 10 minutos. Mientras, ralla el pecorino.",
     "Escurre la pasta reservando medio vaso del agua de cocción y vuélcala sobre el tomate. Mezcla con energía añadiendo el pecorino y un chorrito del agua reservada para que el jugo se ligue con el almidón.",
     "Sirve enseguida con el pan rallado tostado por encima."
   ],
-  nutricion: { kcal: 730, prot: 20, hc: 84, grasa: 35 },
+  nutricion: { kcal: 730, prot: 22, hc: 83, grasa: 34 },
   etiquetas: ["tradicional", "rápida", "económica", "verano", "picante"],
   consejo: "Se dice que los carreteros que cruzaban Sicilia se la preparaban con lo que llevaban: tomate, ajo, queso duro y pan. Solo vale la pena con tomates de verano muy maduros; en invierno, usa tomates cherry partidos y déjalos macerar 20 minutos con la sal.",
   alternativa: "Si no tienes pecorino, ralla sobre la pasta 40 g de un queso de oveja curado, tipo manchego viejo: es lo que más se le parece en sal y punzada; el parmesano la deja más dulce.",
@@ -925,7 +925,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
@@ -943,13 +943,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta el caldo con el tomate triturado en un cazo y mantenlo caliente a fuego mínimo. Mientras, pica la cebolla y el ajo, corta la mozzarella en dados y ralla el parmesano.",
-    "Rehoga la cebolla en una cazuela ancha con 1 cda de aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el ajo 30 segundos y después el arroz, removiendo 1–2 minutos hasta que los granos brillen.",
+    "Tuesta el pan rallado en una cazuela ancha con 1 cda de aceite a fuego medio 3 minutos, removiendo, hasta que esté dorado, y sácalo a un plato.",
+    "En la misma cazuela, rehoga la cebolla con el resto del aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el ajo 30 segundos y después el arroz, removiendo 1–2 minutos hasta que los granos brillen.",
     "Vierte el caldo de tomate cazo a cazo, removiendo a menudo y esperando a que se absorba antes de añadir el siguiente, unos 18 minutos. A los 12 minutos añade los guisantes.",
-    "Mientras se hace el arroz, tuesta el pan rallado en una sartén con el resto del aceite a fuego medio 3 minutos, removiendo, hasta que esté dorado.",
     "Cuando el arroz esté tierno pero con el centro algo firme y la textura cremosa y suelta, apártalo del fuego. Añade el parmesano y la albahaca en trozos, prueba de sal, mezcla y tapa 2 minutos.",
     "Reparte el arroz en platos, hunde los dados de mozzarella para que se fundan con el calor y cubre con el pan rallado tostado."
   ],
-  nutricion: { kcal: 695, prot: 27, hc: 87, grasa: 25 },
+  nutricion: { kcal: 770, prot: 29, hc: 90, grasa: 31 },
   etiquetas: ["creativa", "para niños", "poco especiada"],
   consejo: "Los arancini de Palermo llevan arroz con azafrán o con ragú y guisantes, un corazón de queso y un rebozado frito. Aquí tienes los mismos sabores en 35 minutos y sin freír. Si te sobra, forma bolas con el arroz frío, mete un dado de mozzarella dentro, pásalas por pan rallado y hornéalas a 200 °C 20 minutos.",
   tupper: true,
