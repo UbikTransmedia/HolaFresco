@@ -104,9 +104,9 @@ window.RECETAS_SEED.push({
   coste: "media",
   momentos: ["comida"],
   proteina: "queso",
-  tiempo: 60,
+  tiempo: 50,
   dificultad: "media",
-  equipo: ["sartén", "cazuela", "batidora", "bol"],
+  equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "paneer", q: 200, u: "g" },
@@ -130,17 +130,16 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Naan: mezcla la harina con la levadura química y media cucharadita de sal, añade el yogur y el agua y amasa 3 minutos hasta tener una masa suave. Tápala y déjala reposar 20 minutos. Mientras, pon a hervir agua con sal para las espinacas, pica la cebolla y ralla el ajo, el jengibre y el tomate.",
-    "Lava las espinacas y escáldalas 1 minuto en agua hirviendo con sal. Escúrrelas, refréscalas bajo el grifo y apriétalas. Tritúralas con el chile y dos cucharadas de agua hasta tener un puré grueso, no fino.",
-    "Corta el paneer en dados de 2 cm y dóralo en una sartén antiadherente con el aceite a fuego medio-alto 4-5 minutos, girándolo, hasta que tenga las caras doradas. Reserva.",
-    "En una cazuela funde la mitad de la mantequilla, sofríe la cebolla picada 6 minutos, añade el ajo y el jengibre rallados, el comino y la cúrcuma y remueve 1 minuto. Agrega el tomate rallado y cocina 4 minutos hasta que se seque.",
-    "Incorpora el puré de espinacas, sal y 100 ml de agua y cuece 8 minutos a fuego medio-bajo; mientras, pica el cilantro. Añade la nata, el garam masala y el paneer y cocina 3 minutos más. Prueba de sal.",
+    "Naan: mezcla la harina con la levadura química y media cucharadita de sal, añade el yogur y el agua y amasa 3 minutos hasta tener una masa suave. Tápala y déjala reposar 20 minutos. Mientras, lava las espinacas y pícalas groseramente, pica la cebolla y el chile, ralla el ajo, el jengibre y el tomate y corta el paneer en dados de 2 cm.",
+    "Calienta el aceite en una cazuela a fuego medio-alto y dora el paneer 4-5 minutos, girándolo, hasta que tenga las caras doradas. Resérvalo en un plato.",
+    "Baja a fuego medio, funde la mitad de la mantequilla en la misma cazuela y sofríe la cebolla picada 6 minutos. Añade el ajo y el jengibre rallados, el chile, el comino y la cúrcuma y remueve 1 minuto. Agrega el tomate rallado y cocina 4 minutos hasta que se seque.",
+    "Incorpora las espinacas en tandas, dejando que se bajen antes de añadir más, con sal y 100 ml de agua. Cuece 8 minutos a fuego medio-bajo, aplastándolas con la cuchara para que queden como un puré grueso; mientras, pica el cilantro. Añade la nata, el garam masala y el paneer y cocina 3 minutos más. Prueba de sal.",
     "Divide la masa en 4 bolas y estíralas con rodillo en óvalos de 3 mm. Calienta una sartén de fondo grueso a fuego fuerte sin aceite y cocina cada naan 1-2 minutos por lado, hasta que se hinche y tenga manchas tostadas. Píntalos con la mantequilla restante fundida.",
     "Sirve el saag paneer en platos hondos con el cilantro picado y los naan calientes para mojar."
   ],
-  nutricion: { kcal: 790, prot: 36, hc: 72, grasa: 39 },
+  nutricion: { kcal: 900, prot: 41, hc: 78, grasa: 47 },
   etiquetas: ["alta en proteína", "de cuchara", "invierno", "masa casera"],
-  consejo: "Cuanto más dorado y seco esté el paneer, mejor aguanta en la salsa sin deshacerse. Y no tritures las espinacas hasta crema: la gracia está en que se note la hoja.",
+  consejo: "Cuanto más dorado y seco esté el paneer, mejor aguanta en la salsa sin deshacerse. Y no pases las espinacas a crema: la gracia está en que se note la hoja.",
   alternativa: "Si no encuentras paneer, usa halloumi (sin añadirle sal) o queso para freír en dados, dorados igual; las espinacas pueden ser 400 g congeladas, bien escurridas."
 });
 
@@ -580,15 +579,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Salsa: pica la cebolla y sofríela en media cucharada de aceite 5 minutos a fuego medio. Añade el tomate triturado, el pimentón, el azúcar y sal y cocina 10 minutos, hasta que espese; mientras, pica el ajo.",
-    "Saltea las espinacas con el ajo y el resto del aceite a fuego fuerte 2 minutos, hasta que se bajen. Escúrrelas apretando y pícalas.",
-    "Mezcla en un bol las espinacas con el queso fresco desmenuzado, el huevo, la mitad del queso rallado, la nuez moscada, sal y pimienta.",
-    "Escurre los piquillos con cuidado de no romperlos y rellénalos con una cucharilla (o con una bolsa de congelar con una esquina cortada), sin llenarlos a tope para que no revienten.",
+    "Precalienta el horno a 200 °C. Pica la cebolla y el ajo.",
+    "Saltea las espinacas con el ajo y media cucharada de aceite en una sartén a fuego fuerte 2 minutos, hasta que se bajen. Escúrrelas apretando, pícalas y pásalas a un bol.",
+    "Salsa: en la misma sartén sofríe la cebolla con el resto del aceite 5 minutos a fuego medio. Añade el tomate triturado, el pimentón, el azúcar y sal y cocina 10 minutos, hasta que espese.",
+    "Mientras se hace la salsa, mezcla en el bol las espinacas con el queso fresco desmenuzado, el huevo, la mitad del queso rallado, la nuez moscada, sal y pimienta. Escurre los piquillos con cuidado de no romperlos y rellénalos con una cucharilla (o con una bolsa de congelar con una esquina cortada), sin llenarlos a tope para que no revienten.",
     "Extiende la salsa de tomate en una fuente, coloca los piquillos encima y espolvorea el queso rallado restante.",
     "Hornea 15 minutos, hasta que el relleno esté cuajado y el queso dorado. Mientras, tuesta el pan.",
     "Sirve seis piquillos por persona con la salsa y la tostada para mojar."
   ],
-  nutricion: { kcal: 455, prot: 24, hc: 36, grasa: 24 },
+  nutricion: { kcal: 495, prot: 26, hc: 34, grasa: 27 },
   etiquetas: ["al horno", "ligera", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "Si algún piquillo viene roto, tritúralo con el tomate de la salsa: le dará un punto dulce y ahumado."
 });
@@ -606,7 +605,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "batidora"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pasta", q: 140, u: "g", nota: "macarrones" },
@@ -631,13 +630,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 220 °C. Corta la calabaza en dados de 2 cm y la cebolla en gajos; mézclalas con el aceite, el ajo entero con piel y sal, y ásalo todo 25 minutos, hasta que la calabaza esté muy tierna y dorada.",
     "Mientras, cuece la pasta en abundante agua con sal 2 minutos menos de lo que indique el paquete. Escúrrela reservando un vaso del agua.",
-    "Tritura la calabaza asada con la cebolla, el ajo pelado y 100 ml de la leche hasta tener un puré liso.",
+    "Pela el ajo asado y aplástalo en la propia bandeja con la calabaza y la cebolla usando un tenedor, hasta tener un puré lo más fino posible; aflójalo con 100 ml de la leche.",
     "En la misma cazuela de la pasta funde la mantequilla a fuego medio, añade la harina y remueve 1 minuto. Vierte el resto de la leche poco a poco batiendo y cuece 4 minutos, hasta que espese.",
     "Fuera del fuego añade el puré de calabaza, el cheddar, la mostaza, el pimentón, la nuez moscada, sal y pimienta y remueve hasta que el queso se funda. Incorpora la pasta y, si queda muy espeso, afloja con el agua reservada: debe quedar cremoso y algo suelto, porque espesa en el horno.",
     "Pasa a una fuente, espolvorea el queso rallado mezclado con el panko y gratina 10-12 minutos a 220 °C, hasta que la costra esté dorada y burbujee. Mientras, pica el cebollino.",
     "Deja reposar 5 minutos y sirve con el cebollino picado."
   ],
-  nutricion: { kcal: 810, prot: 33, hc: 87, grasa: 36 },
+  nutricion: { kcal: 830, prot: 34, hc: 88, grasa: 38 },
   etiquetas: ["al horno", "para niños", "económica", "invierno", "verduras escondidas", "poco especiada"],
   consejo: "La calabaza da cremosidad y color sin necesidad de más queso. Si sobra, recalienta con un chorrito de leche: queda como recién hecho.",
   alternativa: "Sin panko, mezcla 25 g de pan rallado grueso con la mantequilla o el aceite antes de espolvorearlo: la costra gratina igual de dorada."
@@ -852,12 +851,12 @@ window.RECETAS_SEED.push({
     "En un bol disuelve la sal en el agua templada y añade la harina de maíz en lluvia mientras remueves. Amasa 2 minutos y deja reposar 5 minutos: debe quedar una masa suave que no se agriete al apretarla (añade una cucharada de agua si se cuartea).",
     "Divide la masa en 4 bolas y aplánalas con las palmas en discos de 1,5 cm de grosor y unos 10 cm de diámetro.",
     "Calienta una sartén a fuego medio-bajo con la mitad del aceite y cocina las arepas 7-8 minutos por cada lado, hasta que formen una costra dorada y suenen huecas al golpearlas.",
-    "Mientras, pica el tomate y la cebolleta. Chafa el aguacate con el zumo de lima, sal y pimienta. Desmenuza el queso fresco.",
-    "En otra sartén derrite la mantequilla, sofríe la cebolleta 2 minutos, añade el tomate 1 minuto y luego los huevos batidos con sal. Remueve a fuego bajo hasta tener un revuelto cremoso.",
+    "Mientras, pica el tomate y la cebolleta, chafa el aguacate con el zumo de lima, sal y pimienta, desmenuza el queso fresco y bate los huevos con sal.",
+    "Envuelve las arepas en un paño para que no se enfríen. En la misma sartén derrite la mantequilla, sofríe la cebolleta 2 minutos, añade el tomate 1 minuto y luego los huevos batidos. Remueve a fuego bajo hasta tener un revuelto cremoso.",
     "Abre las arepas en caliente por el canto con un cuchillo, sin llegar al final, como si fueran un pan de pita.",
     "Unta el interior con el aguacate, rellena con el revuelto y termina con el queso fresco. Sirve dos por persona."
   ],
-  nutricion: { kcal: 760, prot: 24, hc: 80, grasa: 37 },
+  nutricion: { kcal: 785, prot: 25, hc: 86, grasa: 36 },
   etiquetas: ["sin gluten", "fin de semana", "poco especiada"],
   consejo: "Si te sobran arepas sin rellenar, guárdalas en la nevera y recaliéntalas 5 minutos en la sartén seca: recuperan la costra."
 });
@@ -875,7 +874,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "fideos ramen", q: 160, u: "g", nota: "secos" },
@@ -895,14 +894,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece los huevos 6 minutos y medio en agua hirviendo y pásalos a agua con hielo. Pélalos y déjalos en un vaso con la soja y 4 cucharadas de agua, girándolos de vez en cuando, mientras preparas el resto (mínimo 20 minutos).",
-    "Pon el caldo en una cazuela con el ajo y el jengibre en láminas y la parte blanca de las cebolletas. Lleva a ebullición y deja a fuego suave 15 minutos para que se aromatice. Cuela.",
-    "Mientras, pon a hervir agua para los fideos, lamina las setas y corta los pak choi a lo largo en cuartos. Saltea las setas en una sartén con la mitad del aceite de sésamo a fuego fuerte 4 minutos, hasta que doren; añade el pak choi 1 minuto más.",
-    "Disuelve el miso en un cazo con un poco de caldo caliente y devuélvelo a la cazuela. Añade un chorrito de la marinada de los huevos; no dejes que vuelva a hervir para que el miso no pierda aroma.",
+    "Pon a hervir agua en un cazo y cuece los huevos 6 minutos y medio; pásalos a agua con hielo y guarda el agua del cazo para los fideos. Pela los huevos y déjalos en un vaso con la soja y 4 cucharadas de agua, girándolos de vez en cuando, mientras preparas el resto (mínimo 20 minutos).",
+    "Mientras, lamina las setas, el ajo y el jengibre, corta los pak choi a lo largo en cuartos y separa la parte blanca de las cebolletas. Saltea las setas en una cazuela con la mitad del aceite de sésamo a fuego fuerte 4 minutos, hasta que doren; añade el pak choi 1 minuto más y resérvalo todo en un plato.",
+    "Pon en la misma cazuela el caldo con el ajo, el jengibre y la parte blanca de las cebolletas. Lleva a ebullición y deja a fuego suave 15 minutos para que se aromatice; mientras, pica la parte verde de la cebolleta. Retira los aromáticos con una espumadera.",
+    "Vuelve a llevar a ebullición el agua del cazo. Disuelve el miso en un cucharón de caldo caliente y devuélvelo a la cazuela. Añade un chorrito de la marinada de los huevos; no dejes que vuelva a hervir para que el miso no pierda aroma.",
     "Cuece los fideos en el agua hirviendo el tiempo del paquete (3-4 minutos), escúrrelos y repártelos en dos boles hondos.",
     "Vierte el caldo caliente, coloca encima las setas, el pak choi, el maíz y los huevos partidos por la mitad. Termina con la mantequilla, el resto del aceite de sésamo, el sésamo y la parte verde de la cebolleta picada."
   ],
-  nutricion: { kcal: 600, prot: 24, hc: 72, grasa: 22 },
+  nutricion: { kcal: 660, prot: 28, hc: 84, grasa: 22 },
   etiquetas: ["de cuchara", "invierno", "poco especiada"],
   consejo: "Los huevos marinados mejoran si los preparas la víspera: en la nevera aguantan 3 días y la yema queda más melosa y sabrosa.",
   alternativa: "Si no encuentras fideos de ramen, usa fideos chinos de huevo y cuécelos según el paquete; el pak choi se sustituye bien por un puñado de espinacas o acelga tierna, que van directamente al caldo."
@@ -940,13 +939,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Bate la harina de trigo sarraceno con un huevo, la leche, el agua y una pizca de sal hasta tener una masa lisa y fluida como nata líquida. Déjala reposar 10 minutos mientras preparas el relleno.",
-    "Pica la cebolla y lamina los champiñones. Saltéalos en una sartén con un tercio de la mantequilla a fuego fuerte 5 minutos, hasta que doren. Añade las espinacas, sal, pimienta y nuez moscada y saltea 1-2 minutos, hasta que se reduzcan. Escurre el líquido y reserva.",
-    "Calienta una sartén antiadherente grande a fuego medio-alto y úntala con un poco de mantequilla. Vierte un cazo de masa y gira la sartén para cubrir el fondo en capa fina. Cocina 1-2 minutos, hasta que los bordes se despeguen.",
+    "Pica la cebolla y lamina los champiñones. Saltéalos en una sartén antiadherente grande con un tercio de la mantequilla a fuego fuerte 5 minutos, hasta que doren. Añade las espinacas, sal, pimienta y nuez moscada y saltea 1-2 minutos, hasta que se reduzcan. Escurre el líquido, pasa el relleno a un plato y limpia la sartén con papel.",
+    "Calienta la misma sartén a fuego medio-alto y úntala con un poco de mantequilla. Vierte un cazo de masa y gira la sartén para cubrir el fondo en capa fina. Cocina 1-2 minutos, hasta que los bordes se despeguen.",
     "Da la vuelta a la galette, baja el fuego a medio y reparte en el centro un cuarto del queso y un cuarto del relleno. Dobla los bordes hacia dentro formando un cuadrado. Repite con otra galette y reserva ambas en un plato caliente.",
     "Prepara las otras dos igual, pero antes de doblar los bordes casca un huevo en el centro de cada una, sobre el relleno. Tapa la sartén y cocina 3-4 minutos, hasta que la clara cuaje y la yema siga líquida.",
     "Sirve una galette con huevo y una sin él por persona, acompañadas de los canónigos aliñados con sal y unas gotas de aceite."
   ],
-  nutricion: { kcal: 525, prot: 31, hc: 42, grasa: 26 },
+  nutricion: { kcal: 540, prot: 32, hc: 40, grasa: 27 },
   etiquetas: ["sin gluten", "una sola sartén", "superalimentos", "poco especiada"],
   consejo: "La primera galette casi siempre sale peor: sirve para ajustar el fuego y la cantidad de masa. Si la masa espesa al reposar, aclárala con una cucharada de agua."
 });
@@ -1054,7 +1053,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 170, u: "g", nota: "mejor tipo arborio o carnaroli" },
@@ -1072,15 +1071,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo a fuego mínimo. Tuesta las hebras de azafrán 20 segundos en una sartén seca, desmenúzalas con los dedos e infusiónalas en un cazo de caldo caliente. Pica la cebolla muy fina y el ajo, ralla el parmesano y pica el perejil.",
-    "Trocea las setas y saltéalas en la sartén con la mitad del aceite y 10 g de mantequilla a fuego fuerte 5 minutos, hasta que doren. Añade el ajo, sal y pimienta 30 segundos más y reserva.",
-    "En una cazuela ancha pocha la cebolla con el resto del aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el arroz y nácaralo 2 minutos, removiendo, hasta que los granos se vean translúcidos en los bordes.",
-    "Vierte el vino y remueve hasta que se evapore. Añade el caldo con azafrán y luego el resto de caldo cazo a cazo, removiendo con frecuencia y esperando a que el arroz lo absorba antes de añadir más.",
+    "Calienta el caldo y mantenlo a fuego mínimo. Pica la cebolla muy fina y el ajo, trocea las setas, ralla el parmesano y pica el perejil.",
+    "Tuesta las hebras de azafrán 20 segundos en seco en una cazuela ancha, desmenúzalas con los dedos y échalas al caldo caliente. En la misma cazuela saltea las setas con la mitad del aceite y 10 g de mantequilla a fuego fuerte 5 minutos, hasta que doren. Añade el ajo, sal y pimienta 30 segundos más y resérvalas en un plato.",
+    "Pocha la cebolla en la misma cazuela con el resto del aceite a fuego medio 5 minutos, hasta que esté transparente. Añade el arroz y nácaralo 2 minutos, removiendo, hasta que los granos se vean translúcidos en los bordes.",
+    "Vierte el vino y remueve hasta que se evapore. Añade el caldo con azafrán cazo a cazo, removiendo con frecuencia y esperando a que el arroz lo absorba antes de añadir más.",
     "A los 12 minutos incorpora dos tercios de las setas. Sigue añadiendo caldo 5-6 minutos más, hasta que el arroz esté al dente y la textura sea fluida, que forme una ola al mover la cazuela.",
     "Retira del fuego, añade la mantequilla restante fría en dados y el parmesano rallado y remueve enérgicamente 1 minuto para mantecar. Tapa y deja reposar 2 minutos.",
     "Sirve en platos llanos con las setas reservadas, perejil picado y pimienta recién molida."
   ],
-  nutricion: { kcal: 675, prot: 19, hc: 76, grasa: 31 },
+  nutricion: { kcal: 700, prot: 21, hc: 84, grasa: 29 },
   etiquetas: ["fin de semana", "invierno", "poco especiada"],
   consejo: "No laves el arroz: el almidón de la superficie es el que da la cremosidad. Y mantén siempre el caldo caliente; si lo añades frío corta la cocción y el grano se pasa por fuera."
 });

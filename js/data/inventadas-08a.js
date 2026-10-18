@@ -28,10 +28,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Exprime medio limón en un bol con agua fría. Quita a las alcachofas las hojas exteriores duras hasta llegar a las amarillas, corta la punta y pela el tallo. Pártelas en cuartos y mételas en el agua con limón para que no se oxiden.",
-    "Pon en la olla los 300 ml de agua, el zumo del otro medio limón y una pizca de sal. Coloca el cestillo de vapor y encima las alcachofas escurridas.",
+    "Exprime medio limón en un bol con agua fría. Quita a las alcachofas las hojas exteriores duras hasta llegar a las amarillas, corta la punta y pela el tallo. Pártelas en cuartos y mételas en el agua con limón para que no se oxiden. Pica el perejil y lamina los ajos.",
+    "Dora los ajos en la olla destapada con el aceite a fuego suave 3-4 min, hasta que estén dorados, no quemados. Vierte el aceite con los ajos en un cuenco y añade el vinagre, el perejil y pimienta.",
+    "Pon en la olla, sin lavarla, los 300 ml de agua, el zumo del otro medio limón y una pizca de sal. Coloca el cestillo de vapor y encima las alcachofas escurridas.",
     "Cierra la olla y ponla a fuego fuerte. Cuando suba la válvula (presión alta), baja a fuego medio-bajo y cuenta 5 min.",
-    "Mientras, pica el perejil, lamina los ajos y dóralos en una sartén pequeña con el aceite a fuego suave 3-4 min hasta que estén dorados, no quemados. Aparta del fuego y añade el vinagre, el perejil y pimienta.",
     "Despresuriza rápido abriendo la válvula (o bajo el grifo). Abre, comprueba pinchando el corazón: debe entrar el cuchillo sin resistencia. Si no, cierra y da 1 min más.",
     "Sirve las alcachofas calientes rociadas con la vinagreta de ajo y, si quieres, con las tiras de jamón por encima."
   ],
@@ -53,7 +53,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["olla-express", "sartén"],
+  equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
     { n: "coliflor", q: 1, u: "ud", nota: "pequeña, unos 800 g, entera sin hojas" },
@@ -73,15 +73,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el tronco de la coliflor a ras para que se apoye plana. Vierte el agua en la olla, coloca el cestillo y la coliflor encima con el tallo hacia abajo. Sálala por encima.",
-    "Cierra, pon fuego fuerte y, cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min. Despresuriza rápido y abre: debe estar tierna pero firme, que no se deshaga.",
-    "Mientras cuece, maja el ajo, pica el perejil y corta medio limón en gajos. Mezcla en un bol el tahini, el yogur, el zumo del otro medio limón, el ajo y una pizca de sal. Si queda muy espesa, aclárala con 1-2 cda de agua hasta textura de crema.",
-    "En otro bol pequeño mezcla el aceite con el comino, el pimentón, la cúrcuma y sal. Pinta toda la coliflor con esta mezcla.",
-    "Calienta una sartén grande a fuego fuerte y marca la coliflor 2 min por cada lado apoyándola en distintas caras hasta que se tueste y huela a especias (o 5 min en el horno con grill).",
+    "Cierra, pon fuego fuerte y, cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min. Mientras cuece, maja el ajo, pica el perejil y corta medio limón en gajos. Mezcla en un bol el tahini, el yogur, el zumo del otro medio limón, el ajo y una pizca de sal; si queda muy espesa, aclárala con 1-2 cda de agua hasta textura de crema.",
+    "Despresuriza rápido y abre: debe estar tierna pero firme, que no se deshaga. Saca la coliflor a un plato, vacía el agua de la olla y sécala.",
+    "Mezcla en un cuenco el aceite con el comino, el pimentón, la cúrcuma y sal. Pinta toda la coliflor con esta mezcla.",
+    "Calienta la olla vacía a fuego fuerte y marca la coliflor 2 min por cada lado apoyándola en distintas caras hasta que se tueste y huela a especias (o 5 min en el horno con grill).",
     "Sirve entera en una fuente, nápala con la salsa de tahini y reparte por encima los granos de granada, el perejil picado, los gajos de limón y los piñones."
   ],
-  nutricion: { kcal: 340, prot: 11, hc: 30, grasa: 19 },
+  nutricion: { kcal: 400, prot: 13, hc: 22, grasa: 28 },
   etiquetas: ["rápida", "ligera", "vegetariano", "para compartir", "al vapor", "detox", "superalimentos", "bajo en colesterol"],
-  consejo: "Para hacerla con antelación, cuécela por la mañana y márcala en la sartén justo antes de servir: el contraste tostado-tierno es lo que la hace especial."
+  consejo: "Para hacerla con antelación, cuécela por la mañana y márcala en la olla justo antes de servir: el contraste tostado-tierno es lo que la hace especial."
 });
 
 window.RECETAS_SEED.push({
@@ -116,14 +116,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien las remolachas, córtales las hojas dejando 1 cm de tallo (no las peles, así no sangran) y pártelas por la mitad. Ponlas sobre el cestillo con el agua en el fondo de la olla.",
+    "Tuesta las nueces 3 min en seco en la olla destapada, sácalas y trocéalas. Lava bien las remolachas, córtales las hojas dejando 1 cm de tallo (no las peles, así no sangran) y pártelas por la mitad. Ponlas sobre el cestillo con el agua en el fondo de la olla.",
     "Cierra, fuego fuerte hasta que suba la válvula y luego fuego medio-bajo 10 min. Despresuriza rápido. Pincha con un cuchillo: debe entrar fácil. Si tus remolachas son grandes, dale 2 min más.",
-    "Mientras, pica el eneldo (reserva unas ramitas) y mézclalo con el yogur, la mostaza, una pizca de sal y pimienta. Tuesta las nueces en una sartén seca 3 min y trocéalas. Tuesta el pan.",
+    "Mientras, pica el eneldo (reserva unas ramitas) y mézclalo con el yogur, la mostaza, una pizca de sal y pimienta. Tuesta el pan.",
     "Prepara la vinagreta en un bol: vinagre, miel, aceite, sal y pimienta. Corta los rábanos y la manzana en láminas finas y déjalos en la vinagreta para que se maceren.",
     "Deja templar las remolachas 2-3 min y pélalas con las manos protegidas con papel de cocina: la piel sale sola. Córtalas en gajos y mézclalas aún tibias con la vinagreta, el rábano y la manzana.",
     "Extiende el yogur al eneldo en el fondo de dos platos, pon encima la remolacha, las nueces y el eneldo reservado. Acompaña con el pan tostado."
   ],
-  nutricion: { kcal: 320, prot: 10, hc: 30, grasa: 17 },
+  nutricion: { kcal: 470, prot: 14, hc: 45, grasa: 26 },
   etiquetas: ["rápida", "ligera", "vegetariano", "verano", "ideal para llevar", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La remolacha cocida aguanta 5 días en la nevera: haz el doble y tendrás base para ensaladas y hummus rosa toda la semana.",
   alternativa: "Sin olla exprés, cuece las remolachas enteras y con piel en una cazuela cubiertas de agua 45-50 min a fuego medio; o sáltate la cocción con 500 g de remolacha cocida envasada al vacío."
@@ -1169,12 +1169,12 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta la cebolla en juliana y ralla el ajo y el jengibre. Mezcla las especias molidas (cúrcuma, comino, cilantro) con sal y pimienta y frota el cordero. Calienta el aceite en la olla a fuego fuerte y dora los tacos por tandas 6-8 min en total. Resérvalos.",
-    "Baja a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo, el jengibre, la canela y el azafrán y remueve 1 min.",
+    "Corta la cebolla en juliana y ralla el ajo y el jengibre. Mezcla las especias molidas (cúrcuma, comino, cilantro) con sal y pimienta y frota el cordero. Tuesta las almendras y el sésamo en seco en la olla destapada a fuego medio 3 min y sácalos a un plato.",
+    "Calienta el aceite en la olla a fuego fuerte y dora los tacos por tandas 6-8 min en total. Resérvalos. Baja a fuego medio y sofríe la cebolla 8 min hasta que esté dorada. Añade el ajo, el jengibre, la canela y el azafrán y remueve 1 min.",
     "Devuelve el cordero, añade el caldo y raspa el fondo. El líquido debe llegar a dos tercios de la carne.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 25 min; mientras, pica el cilantro. Aparta y deja despresurizar de forma natural 15 min.",
     "Abre, añade las ciruelas y la miel y cocina destapado a fuego medio 10-12 min, removiendo de vez en cuando, hasta que la salsa espese y las ciruelas estén brillantes y melosas. Rectifica de sal.",
-    "Mientras, tuesta las almendras y el sésamo en una sartén seca 3 min. Prepara el cuscús: cúbrelo con 170 ml de agua hirviendo con sal, tapa 5 min y suéltalo con la mantequilla y un tenedor.",
+    "Mientras, prepara el cuscús: cúbrelo con 170 ml de agua hirviendo con sal, tapa 5 min y suéltalo con la mantequilla y un tenedor.",
     "Sirve el cordero con su salsa sobre el cuscús, con el cilantro picado, las almendras y el sésamo por encima."
   ],
   nutricion: { kcal: 585, prot: 26, hc: 44, grasa: 33 },

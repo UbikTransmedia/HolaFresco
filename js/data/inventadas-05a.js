@@ -99,7 +99,7 @@ window.RECETAS_SEED.push({
   coste: "media",
   momentos: ["comida", "cena"],
   proteina: "huevo",
-  tiempo: 45,
+  tiempo: 40,
   dificultad: "fácil",
   equipo: ["horno", "sartén", "bol"],
   raciones: 2,
@@ -118,14 +118,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 190 °C y pon a hervir agua con sal. Pela la patata y córtala en láminas de 3 mm. Cuécela 6 minutos en el agua hirviendo, hasta que esté casi tierna, y escúrrela.",
-    "Corta el puerro en rodajas finas. En una sartén apta para horno (20-22 cm) calienta 1 cucharada de aceite y póchalo 6-7 minutos a fuego medio con una pizca de sal y las hojas de tomillo, hasta que esté tierno.",
-    "Bate los huevos con la leche, sal y pimienta. Reparte las patatas sobre el puerro en la sartén, vierte el huevo y reparte el queso de cabra en trozos por encima.",
+    "Precalienta el horno a 190 °C. Pela la patata y córtala en láminas de 3 mm; corta el puerro en rodajas finas.",
+    "En una sartén apta para horno (20-22 cm) calienta 1 cucharada de aceite a fuego medio. Añade la patata y el puerro con una pizca de sal y las hojas de tomillo, tapa y cocina 10-12 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna sin llegar a dorarse (si se agarra, añade un chorrito de agua).",
+    "Mientras, bate los huevos con la leche, sal y pimienta. Extiende bien la patata y el puerro por la sartén, vierte el huevo y reparte el queso de cabra en trozos por encima.",
     "Cocina 2 minutos en el fuego para que cuaje la base y pasa la sartén al horno 15-18 minutos, hasta que el centro esté firme al tocarlo y el queso dorado.",
     "Deja reposar 5 minutos fuera del horno: así se asienta y se corta limpia.",
     "Aliña la rúcula con el aceite restante, el balsámico y sal. Sirve la frittata en porciones con la ensalada encima o al lado."
   ],
-  nutricion: { kcal: 450, prot: 22, hc: 28, grasa: 28 },
+  nutricion: { kcal: 460, prot: 24, hc: 26, grasa: 28 },
   etiquetas: ["al horno", "ligera", "ideal para llevar", "para niños", "poco especiada"],
   consejo: "Fría también está buenísima: córtala en dados para el tupper o para un picoteo."
 });
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: mezcla la harina con media cucharadita de sal, añade la mantequilla fría y frótala con las yemas de los dedos hasta tener una arena gruesa. Incorpora 1 huevo, junta la masa sin amasar, forma un disco, envuélvelo y refrigéralo 30 minutos.",
-    "Mientras, corta el brócoli en ramilletes pequeños y escáldalos 2 minutos en agua hirviendo con sal. Escúrrelos y refréscalos. Pica la cebolla y póchala en el aceite a fuego medio 8 minutos, hasta que esté dorada. Unos 15 minutos antes de que acabe el reposo de la masa, precalienta el horno a 190 °C.",
+    "Mientras, corta el brócoli en ramilletes pequeños y pica la cebolla. Pocha la cebolla en el aceite en una sartén a fuego medio 8 minutos, hasta que esté dorada. Añade el brócoli con 3 cucharadas de agua y una pizca de sal, tapa y cuece 3 minutos, hasta que esté verde intenso y al dente; destapa para que se evapore el agua. Unos 15 minutos antes de que acabe el reposo de la masa, precalienta el horno a 190 °C.",
     "Estira la masa sobre papel de horno hasta 3 mm y forra un molde de 20 cm, dejando que sobresalga un poco el borde. Pincha la base con un tenedor.",
     "Cubre la masa con papel de horno y legumbres secas o bolas de cerámica y hornea 15 minutos. Retira el peso y hornea 5 minutos más, hasta que la base esté seca y empiece a dorarse.",
     "Mientras se hornea la base, bate los 2 huevos con la nata, la leche, la mostaza, la nuez moscada, sal y pimienta.",
@@ -318,7 +318,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["sartén", "cazuela", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 3,
   ingredientes: [
     { n: "paneer", q: 200, u: "g" },
@@ -345,9 +345,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el paneer en dados de 2,5 cm y ralla el jengibre y el ajo. Mezcla en un bol el yogur con 1 cucharadita de garam masala, media de cúrcuma, el pimentón, la mitad del jengibre y del ajo, el zumo de medio limón y sal. Embadurna el paneer y déjalo marinar 15 minutos mientras sigues.",
     "Lava el arroz hasta que el agua salga clara. Ponlo en un cazo con 280 ml de agua y sal, lleva a ebullición, tapa y cuece 10 minutos a fuego mínimo. Apaga y deja reposar tapado 10 minutos sin destapar.",
-    "Pica la cebolla fina y el pimiento en dados. Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla 6-7 minutos hasta que dore. Añade el pimiento, el resto de jengibre y ajo, el comino, la cúrcuma restante y la otra cucharadita de garam masala; remueve 1 minuto hasta que huela.",
-    "Vierte el tomate triturado, el azúcar y sal. Cocina 12-15 minutos a fuego medio-bajo, removiendo de vez en cuando, hasta que espese y oscurezca; aprovecha los primeros minutos para picar el cilantro. Si prefieres la salsa fina, tritúrala.",
-    "Mientras reduce la salsa, calienta una sartén antiadherente a fuego fuerte y dora el paneer marinado 2 minutos por cara, en dos tandas, hasta que tenga manchas tostadas. Reserva.",
+    "Pica la cebolla fina y el pimiento en dados. Calienta el aceite en una cazuela a fuego medio-alto y dora el paneer marinado 2 minutos por cara, en dos tandas, hasta que tenga manchas tostadas. Resérvalo en un plato.",
+    "Baja a fuego medio y sofríe la cebolla en la misma cazuela 6-7 minutos hasta que dore. Añade el pimiento, el resto de jengibre y ajo, el comino, la cúrcuma restante y la otra cucharadita de garam masala; remueve 1 minuto hasta que huela.",
+    "Vierte el tomate triturado, el azúcar y sal. Cocina 12-15 minutos a fuego medio-bajo, removiendo de vez en cuando, hasta que espese y oscurezca; aprovecha los primeros minutos para picar el cilantro.",
     "Añade la nata a la salsa, mezcla y prueba de sal y picante (cayena al gusto). Incorpora el paneer y cocina 3 minutos a fuego suave para que se impregne sin endurecerse.",
     "Sirve sobre el arroz, con el cilantro picado y gajos del medio limón restante."
   ],
@@ -416,9 +416,9 @@ window.RECETAS_SEED.push({
   coste: "media",
   momentos: ["comida", "cena"],
   proteina: "queso",
-  tiempo: 60,
+  tiempo: 55,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "bol"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pimiento rojo", q: 3, u: "ud", nota: "grandes" },
@@ -441,15 +441,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Enjuaga la quinoa bajo el grifo, ponla en un cazo con el caldo y una pizca de sal, lleva a ebullición, tapa y cuece 12-14 minutos a fuego mínimo hasta que absorba el líquido y asome el germen en espiral. Reposa 5 minutos tapada.",
-    "Corta los pimientos por la mitad a lo largo conservando el rabillo y quítales semillas y membranas. Colócalos boca arriba en una fuente, píntalos con un poco de aceite y sal y hornéalos 15 minutos para que se ablanden.",
-    "Mientras, pica la cebolla y el ajo y póchalos con el aceite restante a fuego medio 6 minutos. Añade el comino y la canela, remueve 30 segundos, agrega el tomate y cocina 5 minutos hasta que espese. Mientras se cocina, pica el perejil y la menta.",
-    "Mezcla en un bol la quinoa con el sofrito, las pasas, las almendras, el perejil picado, la mitad de la menta picada y dos tercios de la feta desmenuzada. Prueba y rectifica de sal y pimienta.",
+    "Precalienta el horno a 200 °C. Corta los pimientos por la mitad a lo largo conservando el rabillo y quítales semillas y membranas. Colócalos boca arriba en una fuente, píntalos con un poco de aceite y sal y hornéalos 15 minutos para que se ablanden. Mientras, pica la cebolla y el ajo y enjuaga la quinoa bajo el grifo.",
+    "Pocha la cebolla y el ajo con el aceite restante en una cazuela a fuego medio 6 minutos. Añade el comino y la canela, remueve 30 segundos e incorpora la quinoa, el tomate, el caldo y una pizca de sal. Lleva a ebullición, tapa y cuece 14 minutos a fuego mínimo, hasta que absorba el líquido (destapa los últimos minutos si queda caldosa). Mientras, pica el perejil y la menta.",
+    "Fuera del fuego, mezcla en la misma cazuela la quinoa con las pasas, las almendras, el perejil picado, la mitad de la menta picada y dos tercios de la feta desmenuzada. Prueba y rectifica de sal y pimienta.",
     "Rellena las mitades de pimiento apretando un poco y corona con la feta restante. Hornea 20-25 minutos, hasta que los bordes de los pimientos se tuesten y la feta esté dorada.",
     "Mientras se hornean, prepara la salsa mezclando el yogur con el resto de la menta picada, el zumo de medio limón y sal.",
     "Sirve tres mitades por persona con la salsa de yogur al lado o en cucharadas por encima."
   ],
-  nutricion: { kcal: 630, prot: 23, hc: 62, grasa: 32 },
+  nutricion: { kcal: 710, prot: 27, hc: 73, grasa: 33 },
   etiquetas: ["al horno", "ideal para llevar", "batch cooking", "poco especiada"],
   consejo: "Puedes rellenarlos la víspera y hornearlos al día siguiente; fríos también están buenísimos, así que haz de más para el tupper."
 });
@@ -696,7 +695,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "batidora"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "tortillas de maíz", q: 6, u: "ud" },
@@ -717,18 +716,18 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pica la cebolla, los ajos y el chipotle y corta el pimiento verde en dados. Salsa: calienta media cucharada de aceite en una sartén y sofríe la mitad de la cebolla con un diente de ajo 4 minutos. Añade el tomate triturado, el chipotle con su adobo, media cucharadita de comino, el orégano y sal; cuece 10 minutos a fuego medio y, mientras, pica el cilantro. Tritura hasta que quede lisa y reserva.",
+    "Precalienta el horno a 200 °C. Pica muy finos la cebolla, los ajos y el chipotle y corta el pimiento verde en dados.",
+    "Salsa: calienta media cucharada de aceite en una sartén y sofríe la mitad de la cebolla con un diente de ajo 4 minutos. Añade el tomate triturado, el chipotle con su adobo, media cucharadita de comino, el orégano y sal; cuece 10 minutos a fuego medio, hasta que espese, y, mientras, pica el cilantro. Pásala a un cuenco.",
     "En la misma sartén con el aceite restante sofríe la otra mitad de la cebolla, el pimiento verde y el otro ajo 5 minutos. Añade las alubias escurridas, el maíz, el comino restante y sal; cocina 3 minutos aplastando un tercio de las alubias con el tenedor para que el relleno ligue. Mezcla con la mitad del cilantro picado.",
-    "Calienta las tortillas 20 segundos por cara en una sartén seca, o 30 segundos en el microondas envueltas en un paño húmedo, para que se doblen sin romperse.",
+    "Calienta las tortillas 30 segundos en el microondas envueltas en un paño húmedo para que se doblen sin romperse.",
     "Extiende una capa fina de salsa en el fondo de una fuente. Pasa cada tortilla por la salsa, rellénala con dos cucharadas de alubias y una pizca de queso, enróllala y colócala con el cierre hacia abajo.",
-    "Cubre con el resto de la salsa y espolvorea el queso restante. Hornea 15 minutos, hasta que el queso burbujee y los bordes de las tortillas se tuesten.",
-    "Mientras se hornean, mezcla el yogur con el zumo de media lima y una pizca de sal.",
+    "Cubre con el resto de la salsa y espolvorea el queso restante. Hornea 15 minutos, hasta que el queso burbujee y los bordes de las tortillas se tuesten. Mientras, mezcla el yogur con el zumo de media lima y una pizca de sal.",
     "Sirve tres enchiladas por persona con hilos de yogur, el cilantro restante y gajos de lima."
   ],
-  nutricion: { kcal: 760, prot: 36, hc: 90, grasa: 29 },
+  nutricion: { kcal: 785, prot: 37, hc: 83, grasa: 30 },
   etiquetas: ["al horno", "picante", "económica", "batch cooking", "alta en proteína"],
   consejo: "El chipotle manda en el picante: empieza con media cucharada y sube. La salsa congela bien y te sirve también para unos huevos rancheros.",
-  alternativa: "¿Sin chipotle en adobo? Tritura la salsa con 2 cdta de pimentón ahumado y media cucharadita de cayena (o menos, a tu gusto): queda roja, ahumada y con el mismo picor."
+  alternativa: "¿Sin chipotle en adobo? Cuece la salsa con 2 cdta de pimentón ahumado y media cucharadita de cayena (o menos, a tu gusto): queda roja, ahumada y con el mismo picor."
 });
 
 window.RECETAS_SEED.push({
@@ -1079,13 +1078,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Coloca los cherry en una bandeja con una cucharadita de aceite, sal y pimienta y ásalos 15 minutos, hasta que la piel se rompa y empiecen a soltar jugo.",
-    "Mientras se asan, prepara el pesto: tuesta los piñones 2 minutos en una sartén seca. Tritura la albahaca (reserva unas hojas) con los piñones, el ajo, una cucharada de aceite, dos cucharadas de agua, sal y pimienta hasta tener una salsa verde suelta. Pica fina la cebolla morada y ralla la piel del limón.",
-    "Calienta las lentejas escurridas 3 minutos en un cazo con la cebolla morada, la ralladura y el zumo de medio limón, el aceite restante, sal y pimienta. Deben quedar tibias, no hirviendo.",
-    "Tuesta el pan.",
+    "Mientras se asan, tuesta los piñones 2 minutos en seco en el cazo que usarás para las lentejas y sácalos. Tritura la albahaca (reserva unas hojas) con los piñones, el ajo, una cucharada de aceite, dos cucharadas de agua, sal y pimienta hasta tener una salsa verde suelta. Pica fina la cebolla morada y ralla la piel del limón.",
+    "Calienta las lentejas escurridas 3 minutos en el cazo con la cebolla morada, la ralladura y el zumo de medio limón, el aceite restante, sal y pimienta. Deben quedar tibias, no hirviendo. Mientras, tuesta el pan.",
     "Reparte las lentejas en dos platos, coloca encima los tomates asados con su jugo y, en el centro, la burrata escurrida partida por la mitad.",
     "Riega con el pesto, termina con pimienta, las hojas de albahaca reservadas y un gajo del medio limón restante. Sirve con el pan tostado."
   ],
-  nutricion: { kcal: 650, prot: 30, hc: 50, grasa: 36 },
+  nutricion: { kcal: 670, prot: 31, hc: 50, grasa: 37 },
   etiquetas: ["rápida", "alta en proteína", "verano", "al horno", "poco especiada"],
   consejo: "Saca la burrata de la nevera 30 minutos antes: fría pierde cremosidad y sabor. El calor de los tomates recién asados termina de atemperarla.",
   alternativa: "Los piñones se pueden cambiar en el pesto por 15 g de almendras crudas o nueces, que son bastante más baratas; el pesto queda apenas más rústico."
@@ -1128,15 +1126,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara. Cuécelo con 270 ml de agua y una pizca de sal: lleva a ebullición, tapa, 12 minutos al mínimo y 10 de reposo tapado.",
-    "Pon a hervir agua en un cazo para escaldar. Salsa: mezcla el gochujang con una cucharada de soja, el vinagre de arroz, el azúcar, una cucharadita de aceite de sésamo y una cucharada de agua.",
-    "Corta la zanahoria y el calabacín en bastones finos, lamina los champiñones, pica el ajo y corta la cebolleta en aros. Escalda los brotes de soja 1 minuto en el agua hirviendo, escúrrelos y alíñalos con sal, una cucharadita de aceite de sésamo y la mitad del sésamo.",
-    "En la misma agua escalda las espinacas 30 segundos, escúrrelas apretando y alíñalas con la mitad del ajo, sal y unas gotas de aceite de sésamo.",
-    "Calienta media cucharada de aceite de oliva en una sartén a fuego fuerte y saltea por separado, 2 minutos cada una con una pizca de sal: primero la zanahoria, luego el calabacín y por último los champiñones con el resto del ajo y la otra cucharada de soja. Reserva cada verdura aparte.",
+    "Mientras se cuece, prepara la salsa: mezcla el gochujang con una cucharada de soja, el vinagre de arroz, el azúcar, una cucharadita de aceite de sésamo y una cucharada de agua. Corta la zanahoria y el calabacín en bastones finos, lamina los champiñones, pica el ajo y corta la cebolleta en aros.",
+    "Calienta media cucharada de aceite de oliva en una sartén a fuego fuerte y saltea los brotes de soja 1 minuto con una pizca de sal. Pásalos a un plato y alíñalos con una cucharadita de aceite de sésamo y la mitad del sésamo.",
+    "En la misma sartén saltea las espinacas con la mitad del ajo 1 minuto, hasta que se bajen. Escúrrelas apretando y alíñalas con sal y unas gotas de aceite de sésamo.",
+    "Saltea después por separado, 2 minutos cada una con una pizca de sal: primero la zanahoria, luego el calabacín y por último los champiñones con el resto del ajo y la otra cucharada de soja. Reserva cada verdura aparte.",
     "Fríe los huevos en la misma sartén con el aceite restante a fuego medio, hasta que la clara cuaje y la yema quede líquida.",
     "Monta los boles: arroz en la base, las verduras en montoncitos separados alrededor y el huevo en el centro.",
     "Termina con la salsa de gochujang, la cebolleta en aros y el sésamo restante. Mezcla todo justo antes de comer."
   ],
-  nutricion: { kcal: 670, prot: 25, hc: 93, grasa: 22 },
+  nutricion: { kcal: 710, prot: 26, hc: 96, grasa: 23 },
   etiquetas: ["picante", "una sola sartén", "económica"],
   consejo: "Si tienes una sartén de hierro, calienta en ella el arroz con unas gotas de aceite de sésamo 3 minutos antes de montar: imita la costra crujiente del cuenco de piedra tradicional.",
   alternativa: "Si no encuentras gochujang, mezcla 1 cda de sriracha, 1 cdta de pimentón dulce, 1 cdta de miel y 1 cdta de soja: da una salsa roja, dulce y picante muy parecida."

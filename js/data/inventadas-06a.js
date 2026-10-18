@@ -394,7 +394,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 105,
   dificultad: "media",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "calabaza", q: 1, u: "ud", nota: "tipo cacahuete, de 1 kg aproximadamente" },
@@ -416,14 +416,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Corta la calabaza a lo largo por la mitad, retira las semillas con una cuchara y haz cortes en rejilla sobre la carne sin llegar a la piel. Píntala con 1 cda de aceite, sal, pimienta y las hojas de 2 ramas de tomillo. Ásala boca arriba 50-60 minutos hasta que un cuchillo entre sin resistencia.",
-    "Mientras, enjuaga la quinoa bajo el grifo y cuécela en el caldo 12 minutos a fuego suave y tapada; entretanto, pica la cebolla y el ajo y quita los tallos al kale y trocéalo. Apaga la quinoa, déjala reposar 5 minutos y suéltala con un tenedor.",
-    "Tuesta las nueces en una sartén seca 3 minutos y pícalas gruesas. En la misma sartén, pocha la cebolla y el ajo con la otra cucharada de aceite a fuego medio 8 minutos hasta que estén blandos y dorados.",
-    "Añade el kale y saltéalo 3 minutos hasta que se ablande. Incorpora las lentejas escurridas, la quinoa, los arándanos y las nueces. Salpimienta y ralla por encima la piel del medio limón.",
+    "Mientras, pica la cebolla y el ajo, enjuaga la quinoa bajo el grifo y quita los tallos al kale y trocéalo. Tuesta las nueces en una sartén amplia en seco 3 minutos, sácalas y pícalas gruesas.",
+    "En la misma sartén, pocha la cebolla y el ajo con la otra cucharada de aceite a fuego medio 8 minutos hasta que estén blandos y dorados. Añade la quinoa y el caldo, tapa y cuece 12 minutos a fuego suave, hasta que absorba el líquido.",
+    "Añade el kale y cocina 3 minutos removiendo hasta que se ablande. Incorpora las lentejas escurridas, los arándanos y las nueces. Salpimienta y ralla por encima la piel del medio limón.",
     "Mezcla en un vaso el sirope, la mostaza y el zumo del medio limón. Añade la mitad de esta salsa al relleno y remueve.",
     "Saca la calabaza, vacía con una cuchara parte de la carne dejando una pared de 1,5 cm. Trocea la pulpa retirada, mézclala con el relleno y colma generosamente las dos mitades.",
     "Vuelve a hornear 15 minutos hasta que la superficie esté tostada. Sirve cada mitad con el resto de la salsa de arce y mostaza por encima y el tomillo restante."
   ],
-  nutricion: { kcal: 729, prot: 22, hc: 95, grasa: 29 },
+  nutricion: { kcal: 745, prot: 25, hc: 92, grasa: 31 },
   etiquetas: ["al horno", "invierno", "batch cooking", "para compartir", "otoño", "superalimentos", "poco especiada"],
   consejo: "Puedes asar la calabaza y preparar el relleno la víspera; al día siguiente solo tienes que rellenar y gratinar 20 minutos. Si la calabaza es muy grande, sobrará relleno: está buenísimo frío como ensalada."
 });
@@ -441,7 +441,7 @@ window.RECETAS_SEED.push({
   proteina: "heura",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["wok", "cazuela"],
+  equipo: ["wok"],
   raciones: 2,
   ingredientes: [
     { n: "heura", q: 250, u: "g", nota: "en tiras o bocados" },
@@ -463,14 +463,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal. Mientras, separa el brócoli en ramilletes pequeños (pela y corta el tronco en rodajas, también se come). Escáldalo 2 minutos en el agua hirviendo, escúrrelo y pásalo por agua fría para que mantenga el verde.",
-    "Mezcla en un vaso el hoisin, la salsa de soja, el vinagre de arroz, la maicena y 3 cda de agua. Corta el pimiento en tiras, la cebolleta en trozos de 3 cm (separa lo verde) y el chile en aros, lamina el ajo y ralla el jengibre.",
+    "Separa el brócoli en ramilletes pequeños (pela y corta el tronco en rodajas, también se come). Mezcla en un vaso el hoisin, la salsa de soja, el vinagre de arroz, la maicena y 3 cda de agua. Corta el pimiento en tiras, la cebolleta en trozos de 3 cm (separa lo verde) y el chile en aros, lamina el ajo y ralla el jengibre.",
     "Calienta el wok a fuego máximo con el aceite de oliva. Tuesta los anacardos 1 minuto removiendo y retíralos. Saltea la heura 3-4 minutos hasta que esté dorada por todas partes y resérvala con los anacardos.",
-    "En el mismo wok, saltea el ajo, el jengibre y lo blanco de la cebolleta 30 segundos. Añade el pimiento y saltéalo 2 minutos; incorpora el brócoli y dale 2 minutos más sin dejar de mover.",
+    "Pon en el mismo wok el brócoli con 3 cda de agua y una pizca de sal, tapa y cuece 3 minutos, hasta que esté verde intenso y al dente; destapa y deja que se evapore el agua.",
+    "Aparta el brócoli a un lado, saltea en el hueco el ajo, el jengibre y lo blanco de la cebolleta 30 segundos. Añade el pimiento y saltéalo todo junto 2 minutos sin dejar de mover.",
     "Devuelve la heura y los anacardos al wok, remueve la salsa (la maicena se habrá posado) y viértela. Saltea 1-2 minutos hasta que espese y lo envuelva todo con brillo.",
     "Apaga, añade el aceite de sésamo y sirve con lo verde de la cebolleta, el chile en aros y el sésamo."
   ],
-  nutricion: { kcal: 468, prot: 30, hc: 33, grasa: 24 },
+  nutricion: { kcal: 565, prot: 36, hc: 33, grasa: 30 },
   etiquetas: ["rápida", "una sola sartén", "ligera", "alta en proteína", "wok", "superalimentos", "bajo en colesterol"],
   consejo: "En un wok todo va muy rápido: ten los ingredientes cortados y la salsa mezclada antes de encender el fuego. Si quieres un plato más completo, sírvelo sobre 60 g de arroz jazmín por persona."
 });
@@ -488,7 +488,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["horno", "cazuela", "sartén", "batidora"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas cocidas", q: 300, u: "g" },
@@ -512,16 +512,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Escurre bien las lentejas y sécalas con papel. Tritura la mitad con la batidora hasta una pasta gruesa y deja la otra mitad entera: la mezcla de texturas es lo que da cuerpo a la albóndiga.",
-    "Pica una cebolla y un ajo muy finos y póchalos en ½ cda de aceite a fuego medio 6 minutos; mientras, pica las nueces y el perejil. Añade el comino y cocina 30 segundos más.",
-    "Mezcla en un bol las lentejas, el sofrito, las nueces, el pan rallado, el perejil, sal y pimienta. Amasa con las manos hasta que compacte y déjalo 15 minutos en la nevera; si queda húmeda, añade pan rallado de cucharada en cucharada. Mientras reposa, precalienta el horno a 200 °C y pela la patata, trocéala y ponla a cocer en agua con sal 20 minutos, hasta que se deshaga al pincharla.",
+    "Precalienta el horno a 200 °C. Pela la patata, trocéala y ponla a cocer en agua con sal 20 minutos, hasta que se deshaga al pincharla. Mientras, pica las 2 cebollas y los 3 ajos, las nueces y el perejil, y escurre bien las lentejas y sécalas con papel.",
+    "Pocha las cebollas y los ajos en una cazuela con 1,5 cda de aceite a fuego medio 8 minutos. Pasa algo menos de la mitad del sofrito a un bol y mézclalo con el comino.",
+    "En ese bol aplasta con un tenedor la mitad de las lentejas hasta una pasta gruesa y añade la otra mitad entera: la mezcla de texturas es lo que da cuerpo a la albóndiga. Incorpora las nueces, el pan rallado, el perejil, sal y pimienta y amasa con las manos hasta que compacte; si queda húmeda, añade pan rallado de cucharada en cucharada. Déjala 15 minutos en la nevera.",
+    "Mientras reposa, haz la salsa: añade a la cazuela con el resto del sofrito el pimentón, remueve 30 segundos y vierte el vino; deja que reduzca 1 minuto. Incorpora el tomate, el laurel, el azúcar y sal y cuece 15 minutos a fuego suave.",
     "Forma 14-16 albóndigas con las manos mojadas, ponlas sobre papel de horno con un hilo de aceite y hornéalas 15 minutos hasta que estén firmes y doradas.",
-    "Mientras, haz la salsa: pocha la otra cebolla y 2 ajos picados en 1 cda de aceite 10 minutos. Añade el pimentón, remueve 30 segundos y vierte el vino; deja que reduzca 1 minuto. Incorpora el tomate, el laurel, el azúcar y sal y cuece 15 minutos a fuego suave.",
     "Escurre la patata y cháfala con la bebida vegetal caliente, la ½ cda de aceite restante, la nuez moscada y sal hasta un puré cremoso.",
     "Pasa las albóndigas a la salsa y cuécelas 5 minutos a fuego mínimo para que absorban sabor sin romperse.",
     "Sirve el puré en la base, las albóndigas con su salsa encima y perejil picado."
   ],
-  nutricion: { kcal: 734, prot: 24, hc: 92, grasa: 30 },
+  nutricion: { kcal: 755, prot: 26, hc: 89, grasa: 30 },
   etiquetas: ["de cuchara", "económica", "batch cooking", "para niños", "invierno", "superalimentos", "poco especiada"],
   consejo: "El paso por el horno es el que evita que las albóndigas se deshagan en la salsa. Las puedes hornear con antelación y congelar; luego solo hay que calentarlas 10 minutos en la salsa."
 });
@@ -762,14 +762,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal. Mientras, corta la col lombarda en juliana muy fina y saca tiras de zanahoria con el pelador. Mézclalas con una pizca de sal y el vinagre de arroz y masajéalas 1 minuto: se ablandan y cogen brillo.",
-    "Cuece el edamame 4 minutos en el agua hirviendo, escúrrelo y pásalo por agua fría.",
-    "Escurre los garbanzos y sécalos muy bien con un paño. Calienta el aceite en una sartén a fuego medio-alto y tuéstalos 8-10 minutos moviendo la sartén de vez en cuando hasta que crujan y se abran un poco; entretanto, ralla el jengibre, corta el pepino en medias lunas y el aguacate en láminas y pica el cilantro. En el último minuto añade el curry y sal.",
+    "Corta la col lombarda en juliana muy fina y saca tiras de zanahoria con el pelador. Mézclalas con una pizca de sal y el vinagre de arroz y masajéalas 1 minuto: se ablandan y cogen brillo.",
+    "Pon el edamame en una sartén con 4 cda de agua y una pizca de sal, tapa y cuécelo 4 minutos a fuego medio, hasta que se evapore el agua. Pásalo a un plato y seca la sartén con papel.",
+    "Escurre los garbanzos y sécalos muy bien con un paño. Calienta el aceite en la misma sartén a fuego medio-alto y tuéstalos 8-10 minutos moviendo la sartén de vez en cuando hasta que crujan y se abran un poco; entretanto, ralla el jengibre, corta el pepino en medias lunas y el aguacate en láminas y pica el cilantro. En el último minuto añade el curry y sal.",
     "Prepara el aliño: mezcla el miso, el jengibre, el tahini, el sirope, el zumo de la lima y 2-3 cda de agua hasta que quede cremoso y se pueda verter.",
     "Reparte en dos bowls la col y la zanahoria, el edamame, el pepino, el aguacate y los garbanzos recién hechos encima.",
     "Riega con el aliño y termina con el cilantro picado y el sésamo."
   ],
-  nutricion: { kcal: 444, prot: 23, hc: 43, grasa: 20 },
+  nutricion: { kcal: 495, prot: 25, hc: 44, grasa: 22 },
   etiquetas: ["rápida", "ligera", "ideal para llevar", "económica", "sin horno", "verano", "superalimentos", "bajo en colesterol"],
   consejo: "Los garbanzos solo crujen si están muy secos y no los llenas de especias desde el principio: el curry se añade al final para que no se queme. Para llevar, guarda el aliño aparte."
 });
@@ -986,7 +986,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["plancha", "cazuela", "batidora"],
+  equipo: ["plancha", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "setas portobello", q: 4, u: "ud", nota: "grandes, unos 400 g en total" },
@@ -1005,14 +1005,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Limpia los portobellos con papel húmedo, retira los tallos (pícalos y resérvalos) y haz unos cortes en cruz poco profundos por dentro. Píntalos con 1 cda de aceite, las hojas de tomillo, sal y pimienta.",
+    "Limpia los portobellos con papel húmedo, retira los tallos (pícalos y resérvalos) y haz unos cortes en cruz poco profundos por dentro. Píntalos con 1 cda de aceite, las hojas de tomillo, sal y pimienta. Lamina los ajos.",
     "Para el puré, calienta la ½ cda de aceite restante en un cazo con los ajos laminados y el romero a fuego suave 1 minuto, sin que el ajo se dore. Añade las judías escurridas y 80 ml de agua y cuece 5 minutos.",
-    "Retira las ramas de romero y tritura las judías con el zumo del medio limón, sal y pimienta hasta obtener un puré sedoso; añade un poco de agua si queda espeso. Mantenlo caliente.",
+    "Retira las ramas de romero y aplasta las judías en el propio cazo con un tenedor o un pasapurés, con el zumo del medio limón, sal y pimienta, hasta obtener un puré cremoso; añade un poco de agua si queda espeso. Tápalo para que se mantenga caliente.",
     "Calienta la plancha a fuego fuerte. Pon los portobellos con las láminas hacia abajo 4 minutos, dales la vuelta y hazlos 3-4 minutos más hasta que estén tiernos, jugosos y con marcas. Añade los tallos picados a la plancha para que se doren también.",
-    "Tuesta el pan y aliña la rúcula con el balsámico y una pizca de sal.",
+    "Mientras, tuesta el pan y aliña la rúcula con el balsámico y una pizca de sal.",
     "Extiende el puré en los platos, coloca encima los portobellos con sus jugos, riega con el aceite de trufa en crudo y acompaña con la rúcula y el pan tostado."
   ],
-  nutricion: { kcal: 452, prot: 22, hc: 55, grasa: 16 },
+  nutricion: { kcal: 475, prot: 21, hc: 55, grasa: 17 },
   etiquetas: ["rápida", "ligera", "a la plancha", "elegante", "cena", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "El aceite de trufa va siempre en crudo y al final: con calor pierde todo el aroma. Si no te convence la trufa, sustitúyelo por un buen aceite virgen extra y ralladura de limón."
 });
@@ -1030,7 +1030,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["horno", "plancha", "cazuela", "batidora"],
+  equipo: ["horno", "plancha", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "tofu ahumado", q: 250, u: "g" },
@@ -1052,17 +1052,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Asa el pimiento entero, los tomates y los ajos con piel sobre una bandeja: los ajos 15 minutos y el pimiento y los tomates 25 minutos, hasta que la piel esté arrugada y tostada; los últimos 6 minutos, tuesta también las almendras y las avellanas en un rincón de la bandeja. Deja templar y pela el pimiento, los tomates y los ajos. Si usas ñora, ponla en remojo en agua caliente al empezar.",
-    "Mientras, pon a hervir agua con sal y un chorro de limón y limpia las alcachofas: retira las hojas exteriores duras, corta la punta, pela el tallo y pártelas en cuartos. Frótalas con medio limón y mételas en agua con el zumo para que no se oxiden.",
-    "Cuece las alcachofas 10 minutos en el agua hirviendo hasta que la base esté tierna. Escúrrelas boca abajo.",
-    "Prepara el romesco: tritura el pimiento, los tomates y los ajos asados con las almendras y avellanas tostadas, la carne de la ñora raspada (o el pimentón), el vinagre, 1,5 cda de aceite y sal hasta una salsa con textura, no del todo lisa.",
-    "Corta el tofu ahumado en filetes de 1 cm. Calienta la plancha a fuego fuerte con ½ cda de aceite y márcalo 3 minutos por lado hasta que esté dorado.",
-    "En la misma plancha, con la ½ cda de aceite restante, haz los espárragos y las alcachofas 5-6 minutos con sal, hasta que tengan marcas y los espárragos estén tiernos pero firmes. Tuesta el pan en la plancha al final.",
+    "Precalienta el horno a 220 °C. Si usas ñora, ponla en remojo en agua caliente. Limpia las alcachofas: retira las hojas exteriores duras, corta la punta, pela el tallo y pártelas en cuartos; frótalas con medio limón para que no se oxiden.",
+    "Pon en una bandeja el pimiento entero, los tomates y los ajos con piel, y a un lado las alcachofas untadas con ½ cda de aceite y sal. Asa los ajos 15 minutos y el pimiento, los tomates y las alcachofas 25 minutos, hasta que la piel esté arrugada y tostada y la base de las alcachofas tierna; los últimos 6 minutos, tuesta también las almendras y las avellanas en un rincón de la bandeja. Mientras, corta el tofu ahumado en filetes de 1 cm.",
+    "Deja templar y pela el pimiento, los tomates y los ajos. Prepara el romesco: tritura el pimiento, los tomates y los ajos asados con las almendras y avellanas tostadas, la carne de la ñora raspada (o el pimentón), el vinagre, 1,5 cda de aceite y sal hasta una salsa con textura, no del todo lisa.",
+    "Calienta la plancha a fuego fuerte con la ½ cda de aceite restante y marca el tofu 3 minutos por lado hasta que esté dorado. Resérvalo.",
+    "En la misma plancha haz los espárragos 5-6 minutos con sal, hasta que tengan marcas y estén tiernos pero firmes; añade las alcachofas asadas los últimos 2 minutos para que se marquen. Tuesta el pan en la plancha al final.",
     "Sirve el tofu con las verduras, romesco generoso, pimienta, ralladura del limón restante y el pan tostado."
   ],
-  nutricion: { kcal: 614, prot: 33, hc: 35, grasa: 38 },
+  nutricion: { kcal: 750, prot: 39, hc: 44, grasa: 43 },
   etiquetas: ["a la plancha", "alta en proteína", "primavera", "fin de semana", "poco especiada"],
-  consejo: "El romesco se conserva una semana en la nevera y mejora con los días: sirve para cualquier verdura asada, para calçots o para untar en pan. Fuera de temporada, usa alcachofas en conserva y sáltate el paso de cocerlas.",
+  consejo: "El romesco se conserva una semana en la nevera y mejora con los días: sirve para cualquier verdura asada, para calçots o para untar en pan. Fuera de temporada, usa alcachofas en conserva bien escurridas y márcalas directamente en la plancha, sin asarlas.",
   alternativa: "Si en tu zona no hay ñora, pon 1 cda de carne de pimiento choricero de bote o, en su defecto, ½ cdta más de pimentón dulce en el romesco, sin remojo."
 });
 
@@ -1079,7 +1078,7 @@ window.RECETAS_SEED.push({
   proteina: "seitan",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["plancha", "sartén", "batidora", "bol"],
+  equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "seitán", q: 220, u: "g" },
@@ -1107,15 +1106,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Trocea el seitán y tritúralo en la picadora a golpes cortos hasta que parezca carne picada gruesa (o pícalo a cuchillo muy fino). Pica la cebolla, el ajo y los pistachos, y pica la mitad del perejil y de la menta.",
-    "Pocha la cebolla y el ajo en ½ cda de aceite a fuego medio 6 minutos hasta que estén blandos y dorados.",
+    "Pica el seitán a cuchillo muy fino, hasta que parezca carne picada gruesa. Pica la cebolla, el ajo y los pistachos, y pica la mitad del perejil y de la menta.",
+    "Pocha la cebolla y el ajo en ½ cda de aceite en una sartén a fuego medio 6 minutos hasta que estén blandos y dorados.",
     "Mezcla en un bol el seitán, el sofrito, los pistachos, el perejil y la menta picados, el comino, el cilantro molido, la canela, el pimentón, el pan rallado, la harina de garbanzo disuelta en 3 cda de agua, sal y pimienta. Amasa 2 minutos y deja reposar 15 minutos en la nevera. Mientras, mezcla el yogur vegetal con el zumo de medio limón y sal, y corta el tomate y el pepino en dados y la cebolla morada en pluma.",
     "Forma 8 koftas alargadas, del tamaño de un dedo gordo, apretándolas bien con las manos húmedas (puedes montarlas en brochetas).",
-    "Calienta 1 cda de aceite en la plancha o en una sartén a fuego medio-alto y haz las koftas 8-10 minutos girándolas hasta que estén doradas por todas las caras.",
-    "Dibuja 1 cda de melaza de granada sobre el yogur. Aliña el tomate, el pepino y la cebolla con el resto de hierbas picadas gruesas, el zumo del otro medio limón, la ½ cda de aceite restante y sal. Tuesta la pita en la plancha y córtala en triángulos.",
+    "Calienta 1 cda de aceite en la misma sartén a fuego medio-alto y haz las koftas 8-10 minutos girándolas hasta que estén doradas por todas las caras.",
+    "Dibuja 1 cda de melaza de granada sobre el yogur. Aliña el tomate, el pepino y la cebolla con el resto de hierbas picadas gruesas, el zumo del otro medio limón, la ½ cda de aceite restante y sal. Tuesta la pita en la sartén y córtala en triángulos.",
     "Sirve las koftas con la ensalada, la salsa de yogur, un hilo de la melaza restante y la pita tostada."
   ],
-  nutricion: { kcal: 612, prot: 39, hc: 60, grasa: 24 },
+  nutricion: { kcal: 700, prot: 43, hc: 72, grasa: 27 },
   etiquetas: ["alta en proteína", "a la plancha", "para compartir", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "La melaza de granada se vende en tiendas de alimentación árabe; si no la encuentras, reduce 100 ml de zumo de granada con una cucharadita de azúcar hasta que quede como un sirope."
 });
@@ -1133,7 +1132,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g" },
@@ -1162,14 +1161,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el azafrán en 3 cda de agua caliente y déjalo infusionar 10 minutos para que suelte todo el color. Mientras, corta la cebolla en juliana, ralla el ajo y el jengibre, corta la zanahoria en rodajas gruesas y pela la calabaza y córtala en dados de 3 cm.",
-    "Pocha la cebolla en 1 cda de aceite a fuego medio 8 minutos. Añade el ajo y el jengibre y, 1 minuto después, la canela, el comino, la cúrcuma y el cilantro molido; tuesta 30 segundos removiendo.",
+    "Tuesta las almendras laminadas en la cazuela en seco 2-3 minutos, removiendo, hasta que estén doradas, y sácalas a un plato.",
+    "Pocha la cebolla en la misma cazuela con 1 cda de aceite a fuego medio 8 minutos. Añade el ajo y el jengibre y, 1 minuto después, la canela, el comino, la cúrcuma y el cilantro molido; tuesta 30 segundos removiendo.",
     "Incorpora la zanahoria, la calabaza, el tomate, 300 ml de caldo, el azafrán con su agua, los orejones partidos por la mitad y sal. Tapa y cuece a fuego suave 20 minutos.",
     "Añade los garbanzos escurridos y las aceitunas, destapa y cuece 10-15 minutos más hasta que la salsa espese y la calabaza esté tierna pero sin deshacerse.",
     "Mientras, pon el cuscús en un bol con ½ cdta de sal y la ½ cda de aceite restante, cúbrelo con 100 ml de caldo hirviendo, tapa con un plato y espera 5 minutos; entretanto, pica el cilantro, ralla la piel del limón y corta medio limón en gajos. Suelta el cuscús con un tenedor.",
-    "Tuesta las almendras laminadas en una sartén seca 2-3 minutos hasta que estén doradas.",
     "Añade al tagine la ralladura y el zumo de medio limón, salpimienta y sírvelo sobre el cuscús con las almendras, el cilantro picado y los gajos de limón."
   ],
-  nutricion: { kcal: 699, prot: 25, hc: 98, grasa: 23 },
+  nutricion: { kcal: 760, prot: 26, hc: 103, grasa: 25 },
   etiquetas: ["de cuchara", "batch cooking", "invierno", "una sola cazuela", "agridulce", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Si encuentras limón encurtido, pica medio y añádelo con los garbanzos en lugar del zumo: es el sabor auténtico de un tagine marroquí. El guiso congela perfectamente; el cuscús hazlo siempre al momento."
 });
@@ -1187,7 +1186,7 @@ window.RECETAS_SEED.push({
   proteina: "seitan",
   tiempo: 120,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "seitán", q: 300, u: "g" },
@@ -1213,15 +1212,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir un cazo con agua. Mientras, pica la cebolla, corta la zanahoria en rodajas gruesas y lamina el ajo. Corta el seitán en trozos de 3-4 cm y enharínalos ligeramente. Dóralos en una cazuela ancha con 1,5 cda de aceite a fuego fuerte, en dos tandas, 5 minutos hasta que tengan costra. Resérvalos.",
-    "Escalda las cebollitas 1 minuto en el agua hirviendo para pelarlas con facilidad. Dóralas enteras en la cazuela 5 minutos y resérvalas; haz lo mismo con los champiñones enteros (o en mitades si son grandes) hasta que estén dorados.",
+    "Escalda las cebollitas 1 minuto en el agua hirviendo para pelarlas con facilidad y guarda el agua del cazo. Dóralas enteras en la cazuela 5 minutos y resérvalas; haz lo mismo con los champiñones enteros (o en mitades si son grandes) hasta que estén dorados.",
     "Baja a fuego medio, añade la cucharada de aceite restante y pocha la cebolla, la zanahoria y el ajo 8 minutos. Incorpora el tomate concentrado y el pimentón y remueve 1 minuto.",
     "Vierte el vino, sube el fuego y déjalo hervir 5 minutos para que reduzca un tercio y pierda el alcohol. Añade el caldo, la salsa de soja, el tomillo, el laurel y el seitán. Tapa y cuece a fuego mínimo 60 minutos.",
     "A los 40 minutos de cocción, añade las cebollitas y los champiñones reservados y sigue cociendo tapado.",
-    "Mientras, cuece las patatas enteras con piel en agua con sal 25 minutos y pica el perejil. Pélalas, córtalas en trozos gruesos y mézclalas con la ½ cda de aceite restante y la mitad del perejil.",
+    "Mientras, sala el agua del cazo, cuece en ella las patatas enteras con piel 25 minutos y pica el perejil. Pélalas, córtalas en trozos gruesos y mézclalas con la ½ cda de aceite restante y la mitad del perejil.",
     "Destapa el estofado los últimos 15 minutos para que la salsa espese y quede brillante. Retira el laurel, pon pimienta generosa y rectifica de sal.",
     "Sirve el bourguignon con las patatas y el resto del perejil."
   ],
-  nutricion: { kcal: 718, prot: 48, hc: 82, grasa: 22 },
+  nutricion: { kcal: 770, prot: 50, hc: 79, grasa: 24 },
   etiquetas: ["de cuchara", "contundente", "invierno", "batch cooking", "fin de semana", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Como todos los estofados, está mejor al día siguiente. Usa un vino que te beberías: la mitad del sabor del plato viene de ahí. El pimentón ahumado sustituye al toque del bacon del original.",
   alternativa: "Si no encuentras cebollitas francesas, usa chalotas peladas enteras (mismo peso) o 2 cebollas pequeñas en cuartos con la raíz para que no se deshagan; dóralas igual antes de guisar."

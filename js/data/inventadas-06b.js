@@ -172,13 +172,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta las judías escurridas en un cazo con 100 ml de agua y un ajo 5 minutos; mientras, pica el otro ajo y el perejil, corta la cebolla morada en pluma y deshoja el tomillo. Tritura las judías en caliente con el tahini, el zumo del limón, el comino, sal y parte del agua de cocción hasta obtener una crema sedosa.",
-    "Trocea las setas grandes y deja enteras las pequeñas. Calienta 1 cda de aceite en una sartén a fuego fuerte y saltéalas 6 minutos moviéndolas poco, hasta que estén doradas.",
-    "Añade el otro ajo, las hojas de tomillo y la cebolla morada y saltea 2 minutos más. Salpimienta.",
-    "Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a crepitar. Calienta las pitas en la tostadora o en la sartén y córtalas en triángulos.",
+    "Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que empiecen a crepitar y sácalas a un plato. Trocea las setas grandes y deja enteras las pequeñas.",
+    "Calienta 1 cda de aceite en la misma sartén a fuego fuerte y saltea las setas 6 minutos moviéndolas poco, hasta que estén doradas. Añade el otro ajo, las hojas de tomillo y la cebolla morada y saltea 2 minutos más. Salpimienta.",
+    "Calienta las pitas en la tostadora y córtalas en triángulos.",
     "Extiende el hummus caliente en dos platos hondos haciendo un hueco en el centro con el dorso de una cuchara y coloca encima las setas con sus jugos.",
     "Termina con la ½ cda de aceite restante, el pimentón, el perejil picado y las semillas. Sirve con la pita para mojar."
   ],
-  nutricion: { kcal: 625, prot: 29, hc: 71, grasa: 25 },
+  nutricion: { kcal: 675, prot: 30, hc: 77, grasa: 26 },
   etiquetas: ["rápida", "para compartir", "económica", "alta en proteína", "sin horno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Triturar las alubias calientes da un hummus mucho más sedoso que el frío. Si queda espeso, añade agua caliente a cucharadas con la batidora en marcha hasta que caiga de la cuchara."
 });
@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 55,
   dificultad: "media",
-  equipo: ["sartén", "batidora", "bol"],
+  equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas cocidas", q: 300, u: "g" },
@@ -314,15 +314,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica muy finos los champiñones y una cebolla (en la picadora, a golpes cortos) y pica el ajo. Saltea los champiñones y la cebolla en ½ cda de aceite a fuego fuerte 8-10 minutos hasta que suelten toda el agua, se evapore y queden dorados. Añade el ajo, el pimentón y el tomillo, 1 minuto más, y la salsa de soja. Deja templar y, mientras, pica las nueces.",
-    "Tritura la mitad de las lentejas escurridas con la batidora. Mézclalas en un bol con las lentejas enteras, el sofrito de champiñones, la avena, las nueces, sal y pimienta. Déjalo 15 minutos en la nevera para que la avena absorba la humedad.",
-    "Mientras, corta la otra cebolla en juliana y carameliza con ½ cda de aceite a fuego medio-bajo 20 minutos, removiendo de vez en cuando; añade el azúcar y el balsámico los últimos 3 minutos.",
+    "Pica a cuchillo muy finos los champiñones, una cebolla y el ajo. Saltea los champiñones y la cebolla en una sartén con ½ cda de aceite a fuego fuerte 8-10 minutos hasta que suelten toda el agua, se evapore y queden dorados. Añade el ajo, el pimentón y el tomillo, 1 minuto más, y la salsa de soja. Pásalo a un bol para que temple y, mientras, pica las nueces.",
+    "En el bol, aplasta con un tenedor la mitad de las lentejas escurridas y mézclalas con las lentejas enteras, el sofrito de champiñones, la avena, las nueces, sal y pimienta. Déjalo 15 minutos en la nevera para que la avena absorba la humedad.",
+    "Mientras, corta la otra cebolla en juliana y carameliza en la misma sartén con ½ cda de aceite a fuego medio-bajo 20 minutos, removiendo de vez en cuando; añade el azúcar y el balsámico los últimos 3 minutos. Pásala a un plato.",
     "Forma 2 hamburguesas gruesas con las manos húmedas, apretando bien, y devuélvelas a la nevera 10 minutos. Mientras, mezcla la veganesa con la mostaza antigua, corta el tomate en rodajas y lamina los pepinillos.",
-    "Calienta la cucharada de aceite restante en una sartén antiadherente a fuego medio y cocina las hamburguesas 5 minutos por lado sin moverlas, hasta que tengan una costra dorada.",
-    "Tuesta los panes 1 minuto por el lado del corte.",
+    "Calienta la cucharada de aceite restante en la sartén a fuego medio y cocina las hamburguesas 5 minutos por lado sin moverlas, hasta que tengan una costra dorada.",
+    "Tuesta los panes 1 minuto por el lado del corte en la misma sartén.",
     "Monta: salsa de mostaza en la base, lechuga, hamburguesa, cebolla caramelizada, pepinillos y tomate. Tapa y sirve."
   ],
-  nutricion: { kcal: 771, prot: 27, hc: 87, grasa: 35 },
+  nutricion: { kcal: 800, prot: 30, hc: 87, grasa: 34 },
   etiquetas: ["contundente", "económica", "batch cooking", "para niños", "fin de semana", "verduras escondidas", "poco especiada"],
   consejo: "Cuanto más seco quede el sofrito de champiñones, mejor compacta la hamburguesa: no tengas prisa en el primer paso. La masa cruda se congela bien en porciones separadas por papel de horno."
 });
@@ -340,7 +340,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 90,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "batidora"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 2, u: "ud", nota: "grandes, de unos 300 g cada una, para asar" },
@@ -361,14 +361,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Lava las patatas, pínchalas con un tenedor, frótalas con ½ cda de aceite y sal y ásalas sobre la rejilla 60-70 minutos hasta que estén tiernas por dentro y la piel crujiente.",
-    "Mientras, pica la cebolla y el ajo y póchalos en la cucharada de aceite restante a fuego medio 8 minutos. Añade las espinacas por puñados hasta que se marchiten, escurre el exceso de agua inclinando la sartén y sazona con sal, pimienta y la nuez moscada.",
-    "Ralla un poco de piel del medio limón y resérvala. Tritura el tofu escurrido con la levadura nutricional, la bebida vegetal, el zumo del medio limón y sal hasta obtener una crema con textura de ricota, no del todo lisa.",
+    "Mientras, pica la cebolla y el ajo y póchalos en la cucharada de aceite restante en una sartén a fuego medio 8 minutos. Añade las espinacas por puñados hasta que se marchiten, escurre el exceso de agua inclinando la sartén y sazona con sal, pimienta y la nuez moscada.",
+    "Ralla un poco de piel del medio limón y resérvala. Aplasta el tofu escurrido con un tenedor junto con la levadura nutricional, la bebida vegetal, el zumo del medio limón y sal hasta obtener una crema con textura de ricota, no del todo lisa.",
     "Corta una tapa a lo largo de cada patata y vacíalas con una cuchara dejando una pared de 1 cm. Chafa la pulpa con un tenedor y mézclala con la crema de tofu y las espinacas.",
     "Rellena las patatas colmándolas bien y cúbrelas con el queso vegetal mezclado con el pan rallado.",
     "Sube el horno a 220 °C y gratina 15 minutos hasta que la superficie esté dorada.",
     "Sirve con pimienta recién molida y la ralladura de limón por encima."
   ],
-  nutricion: { kcal: 601, prot: 30, hc: 64, grasa: 25 },
+  nutricion: { kcal: 575, prot: 32, hc: 50, grasa: 27 },
   etiquetas: ["al horno", "económica", "para niños", "batch cooking", "invierno", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Aprovecha el horno encendido y asa dos patatas más: rellenas y gratinadas aguantan 3 días en la nevera y se recalientan perfectamente en 15 minutos a 180 °C."
 });
@@ -410,13 +410,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pela las berenjenas a tiras alternas dejando franjas de piel y hazles un corte profundo a lo largo sin llegar a los extremos ni atravesarlas. Sálalas por dentro y déjalas 15 minutos en un escurridor; mientras, corta la cebolla en juliana y lamina el ajo. Seca las berenjenas con papel.",
     "Píntalas con 1 cda de aceite y ásalas en una fuente, con el corte hacia arriba, 25 minutos hasta que la carne esté blanda.",
-    "Mientras, pocha la cebolla y el ajo con la otra cucharada de aceite a fuego medio 10 minutos hasta que estén muy blandos y dorados; entretanto, pela los tomates, córtalos en dados y pica el perejil y la menta. Tuesta los piñones aparte en una sartén seca 2 minutos.",
+    "Mientras, tuesta los piñones en una sartén seca 2 minutos y sácalos. En la misma sartén pocha la cebolla y el ajo con la otra cucharada de aceite a fuego medio 10 minutos hasta que estén muy blandos y dorados; entretanto, pela los tomates, córtalos en dados y pica el perejil y la menta.",
     "Añade al sofrito el tomate, la canela, el comino, el azúcar y sal y cuece 10 minutos hasta que espese. Incorpora los garbanzos escurridos, las pasas, la mayoría de los piñones y la mitad de las hierbas.",
     "Abre las berenjenas presionando la carne hacia los lados con una cuchara y rellénalas con todo el sofrito, apretando bien.",
     "Vierte 100 ml de agua caliente en la fuente, tápala con papel de aluminio y hornea 25 minutos; destapa los últimos 5 para que la superficie se dore. Deja templar 10 minutos.",
     "Sirve tibias con el zumo de limón, el resto de hierbas y los piñones reservados por encima."
   ],
-  nutricion: { kcal: 477, prot: 15, hc: 48, grasa: 25 },
+  nutricion: { kcal: 565, prot: 17, hc: 59, grasa: 27 },
   etiquetas: ["al horno", "ligera", "para preparar con antelación", "verano", "para compartir", "poco especiada", "bajo en colesterol"],
   consejo: "Imam bayildi significa 'el imán se desmayó', dicen que de placer. Está mejor tibia o incluso fría al día siguiente, así que es un plato ideal para hacer con antelación o llevar a una comida."
 });
@@ -603,15 +603,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela la chirivía y la patata, trocéalas y cuécelas en agua con sal 18 minutos hasta que estén muy tiernas. Mientras, pon a hervir otro cazo con agua y sal para las judías verdes, despúntalas y pica la chalota. Escurre la chirivía y la patata y tritúralas con la bebida vegetal caliente, ½ cda de aceite, la nuez moscada y sal hasta un puré fino. Mantenlo caliente.",
+    "Pela la chirivía y la patata, trocéalas y cuécelas en agua con sal 18 minutos hasta que estén muy tiernas. Mientras, despunta las judías verdes y échalas a la misma olla los últimos 4 minutos; pica la chalota y lamina el ajo. Saca las judías con una espumadera, escurre la chirivía y la patata y tritúralas con la bebida vegetal caliente, ½ cda de aceite, la nuez moscada y sal hasta un puré fino. Mantenlo caliente.",
     "Machaca los granos de pimienta en el mortero hasta romperlos en trozos gruesos (no en polvo). Seca el seitán, enharínalo ligeramente y presiona la pimienta y sal sobre las dos caras.",
-    "Calienta 1 cda de aceite en una sartén a fuego fuerte y marca el seitán 3 minutos por cada lado hasta que tenga costra. Resérvalo tapado.",
-    "Baja a fuego medio, añade ½ cda de aceite y pocha la chalota 3 minutos. Vierte el brandy y deja que evapore 30 segundos; añade el caldo y redúcelo a la mitad. Incorpora la nata vegetal y la mostaza y cuece 2-3 minutos hasta que la salsa nape la cuchara. Sala.",
-    "Cuece las judías verdes 4 minutos en el agua hirviendo, escúrrelas y saltéalas 2 minutos con el ajo laminado y la ½ cda de aceite restante.",
+    "Saltea las judías verdes en una sartén con el ajo laminado y ½ cda de aceite 2 minutos. Resérvalas tapadas en un plato.",
+    "Calienta 1 cda de aceite en la misma sartén a fuego fuerte y marca el seitán 3 minutos por cada lado hasta que tenga costra. Resérvalo tapado.",
+    "Baja a fuego medio, añade la ½ cda de aceite restante y pocha la chalota 3 minutos. Vierte el brandy y deja que evapore 30 segundos; añade el caldo y redúcelo a la mitad. Incorpora la nata vegetal y la mostaza y cuece 2-3 minutos hasta que la salsa nape la cuchara. Sala.",
     "Devuelve el seitán a la salsa 1 minuto por lado para que se impregne.",
     "Sirve el puré en la base, el seitán encima con la salsa de pimienta y las judías al lado."
   ],
-  nutricion: { kcal: 670, prot: 44, hc: 61, grasa: 28 },
+  nutricion: { kcal: 695, prot: 45, hc: 59, grasa: 29 },
   etiquetas: ["contundente", "alta en proteína", "invierno", "fin de semana", "elegante", "verduras escondidas"],
   consejo: "La pimienta machacada en el mortero, no molida, es la clave: trozos gruesos que crujen y perfuman sin arrasar el plato. Si no encuentras chirivía, usa solo patata o mitad patata y mitad coliflor."
 });
@@ -657,12 +657,11 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 220 °C con ventilador. Presiona el tofu 10 minutos entre dos platos con peso y córtalo en bastones de 2 x 5 cm.",
     "Prepara dos boles: en uno, mezcla la harina de garbanzo con 60 ml de agua y una pizca de sal hasta una papilla; en el otro, la maicena, el panko, el ajo en polvo y el pimentón.",
     "Pasa cada bastón por la papilla, escurre el exceso y rebózalo en la mezcla seca. Colócalos en una bandeja con papel de horno pintado con ½ cda de aceite y hornéalos 20 minutos, dándoles la vuelta a mitad, hasta que estén dorados y crujientes.",
-    "Mientras, calienta en un cazo la salsa picante con la ½ cda de aceite restante y el sirope 1 minuto, removiendo. Apaga.",
-    "Prepara el ranch: mezcla el yogur vegetal con la veganesa, el ajo rallado, el zumo del medio limón, el eneldo y el cebollino picados, sal y pimienta.",
-    "Pasa el tofu caliente a un bol, vierte la salsa búfalo y mézclalo con cuidado para que se bañe. Devuélvelo a la bandeja 3 minutos al horno para que la salsa se fije.",
+    "Mientras, lava el bol de la papilla y mezcla en él la salsa picante con la ½ cda de aceite restante y el sirope. Prepara el ranch: mezcla el yogur vegetal con la veganesa, el ajo rallado, el zumo del medio limón, el eneldo y el cebollino picados, sal y pimienta.",
+    "Pasa el tofu caliente al bol de la salsa búfalo y mézclalo con cuidado para que se bañe. Devuélvelo a la bandeja 3 minutos al horno para que la salsa se fije.",
     "Sirve el tofu con bastones de apio y zanahoria y el ranch para mojar."
   ],
-  nutricion: { kcal: 463, prot: 27, hc: 37, grasa: 23 },
+  nutricion: { kcal: 520, prot: 32, hc: 44, grasa: 25 },
   etiquetas: ["al horno", "picante", "ligera", "crujiente", "económica", "para compartir", "bajo en colesterol"],
   consejo: "La doble capa (papilla de garbanzo y después panko con maicena) hace que el rebozado aguante la salsa sin reblandecerse. Si quieres un plato más contundente, mete el tofu en pan de hamburguesa con lechuga y más ranch.",
   alternativa: "Sin panko, reboza con pan rallado grueso o con copos de maíz naturales sin azúcar machacados a mano (30 g); el tofu queda igual de crujiente bajo la salsa búfalo."
@@ -705,12 +704,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Presiona el tofu 10 minutos con peso encima y córtalo en lonchas de 1 cm.",
     "Prepara la marinada mezclando la pera rallada, la soja, el azúcar moreno, el aceite de sésamo, el ajo y el jengibre rallados, el gochujang, pimienta y la mitad de la cebolleta picada. Baña las lonchas de tofu y déjalas tapadas en la nevera al menos 1 hora (hasta 24).",
-    "Cuando falten 30 minutos, lava el arroz hasta que el agua salga clara y cuécelo en 180 ml de agua, tapado y a fuego mínimo, 14 minutos. Déjalo reposar 10 minutos sin destapar. Mientras, lamina los champiñones y tuesta el sésamo en una sartén seca 2 minutos.",
+    "Cuando falten 30 minutos, lava el arroz hasta que el agua salga clara y cuécelo en 180 ml de agua, tapado y a fuego mínimo, 14 minutos. Déjalo reposar 10 minutos sin destapar. Mientras, lamina los champiñones y tuesta el sésamo en la plancha en seco 2 minutos; sácalo a un plato.",
     "Escurre el tofu reservando la marinada. Calienta el aceite de oliva en la plancha a fuego fuerte y hazlo 3 minutos por cada lado hasta que esté caramelizado y con bordes oscuros.",
     "Aparta el tofu a un lado, añade los champiñones y saltéalos 3 minutos. Vierte la marinada reservada y deja que hierva 1-2 minutos hasta que espese y lo envuelva todo.",
     "Sirve el arroz con el tofu y los champiñones, el kimchi, las hojas de lechuga para envolver y el sésamo y lo verde de la cebolleta por encima."
   ],
-  nutricion: { kcal: 644, prot: 31, hc: 67, grasa: 28 },
+  nutricion: { kcal: 685, prot: 39, hc: 65, grasa: 30 },
   etiquetas: ["marinado", "a la plancha", "alta en proteína", "picante", "para compartir"],
   consejo: "La pera rallada es el secreto del bulgogi: sus enzimas ablandan y su azúcar carameliza. Si no tienes gochujang, sustitúyelo por una cucharadita de sriracha y otra de miso.",
   alternativa: "Si no encuentras kimchi vegano, haz un encurtido exprés: 100 g de col china en tiras con 1 cda de vinagre de arroz, ½ cdta de azúcar, sal y copos de chile; déjalo 15 minutos mientras se marina el tofu."
@@ -937,18 +936,17 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las lentejas en agua sin sal 20-25 minutos, hasta que estén tiernas pero enteras. Escúrrelas.",
-    "Mientras, pica fino la cebolla, la zanahoria, el ajo y los champiñones (puedes usar picadora). Sofríe en una cazuela con 1,5 cda de aceite 10-12 minutos a fuego medio, hasta que los champiñones suelten el agua y se doren.",
-    "Moja con el vino y deja evaporar 2 minutos. Añade el tomate, el orégano, las lentejas, sal y pimienta y cuece 15 minutos a fuego suave hasta tener una boloñesa espesa. Mientras, precalienta el horno a 190 °C.",
-    "Mientras cuece la boloñesa, prepara la bechamel: calienta 1,5 cda de aceite en un cazo, tuesta la harina 1 minuto y añade la bebida vegetal poco a poco sin dejar de batir. Cuece 5 minutos hasta que napee la cuchara; sala y añade la nuez moscada.",
+    "Pica fino la cebolla, la zanahoria, el ajo y los champiñones y lava las lentejas. Sofríe las verduras en una cazuela con 1,5 cda de aceite 10-12 minutos a fuego medio, hasta que los champiñones suelten el agua y se doren.",
+    "Moja con el vino y deja evaporar 2 minutos. Añade el tomate, las lentejas, el orégano, 400 ml de agua, sal y pimienta. Tapa y cuece 35-40 minutos a fuego suave, removiendo de vez en cuando, hasta que las lentejas estén tiernas y la boloñesa espesa; destapa al final si queda líquida.",
+    "Cuando falten 15 minutos, precalienta el horno a 190 °C y prepara la bechamel: calienta 1,5 cda de aceite en un cazo, tuesta la harina 1 minuto y añade la bebida vegetal poco a poco sin dejar de batir. Cuece 5 minutos hasta que napee la cuchara; sala y añade la nuez moscada.",
     "En una fuente pequeña (unos 20×15 cm) extiende un poco de bechamel, luego placas, boloñesa y bechamel; repite hasta terminar con placas cubiertas de bechamel.",
     "Espolvorea el queso vegetal y hornea 30 minutos, hasta que la pasta esté tierna al pincharla y la superficie dorada.",
     "Deja reposar 10 minutos antes de cortar para que las capas se asienten."
   ],
-  nutricion: { kcal: 860, prot: 34, hc: 110, grasa: 30 },
+  nutricion: { kcal: 875, prot: 31, hc: 111, grasa: 30 },
   etiquetas: ["al horno", "batch cooking", "para niños", "invierno", "poco especiada"],
   consejo: "Si la bechamel queda espesa al montar, aclárala con un chorrito de bebida vegetal: las placas sin cocción necesitan líquido para hidratarse. Congela por porciones ya horneada.",
-  alternativa: "Con prisa, usa 250 g de lentejas pardinas cocidas de bote, bien enjuagadas, y sáltate el paso 1: añádelas a la salsa junto con el tomate."
+  alternativa: "Con prisa, usa 250 g de lentejas pardinas cocidas de bote, bien enjuagadas: añádelas a la salsa junto con el tomate, sin el agua, y cuece solo 15 minutos."
 });
 
 window.RECETAS_SEED.push({
