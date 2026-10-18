@@ -100,7 +100,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 130,
   dificultad: "media",
-  equipo: ["olla-express", "sartén", "cazuela"],
+  equipo: ["olla-express", "sartén"],
   raciones: 4,
   ingredientes: [
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo 12 h con agua templada y una pizca de sal" },
@@ -121,10 +121,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Calienta el agua en la olla y, cuando hierva, echa los garbanzos escurridos, la costilla, la panceta y el chorizo. Retira la espuma 5 minutos con la olla destapada.",
     "Cierra la olla; cuando alcance presión, baja a fuego medio-bajo y cuenta 25 minutos. Deja que baje la presión de forma natural.",
-    "Mientras, prepara el relleno: pica muy finos 1 diente de ajo y el perejil y bátelos con el huevo, una pizca de sal y el pan rallado hasta tener una masa blanda que se pueda moldear (si está seca, añade 1 cucharada de agua). Forma 2 bollos ovalados y fríelos en una sartén con 2 cucharadas de aceite, 2 minutos por lado, hasta que estén dorados.",
-    "Corta el repollo en tiras finas y cuécelo en una cazuela con agua hirviendo y sal 15 minutos. Mientras, lamina los 2 ajos restantes. Escurre bien el repollo.",
-    "En la misma sartén, añade el resto del aceite, dora los ajos laminados, aparta del fuego, añade el pimentón y saltea ahí el repollo 2 minutos.",
-    "Abre la olla, prueba los garbanzos (deben estar mantecosos) y sala. Añade la morcilla entera y los rellenos y deja hervir suave, destapado, 10 minutos para que el relleno se empape de caldo.",
+    "Mientras, prepara el relleno: pica muy finos 1 diente de ajo y el perejil y bátelos con el huevo, una pizca de sal y el pan rallado hasta tener una masa blanda que se pueda moldear (si está seca, añade 1 cucharada de agua). Forma 2 bollos ovalados y fríelos en una sartén con 2 cucharadas de aceite, 2 minutos por lado, hasta que estén dorados. Corta también el repollo en tiras finas y lamina los 2 ajos restantes.",
+    "Abre la olla, prueba los garbanzos (deben estar mantecosos) y sala. Añade la morcilla entera, los rellenos y el repollo y deja hervir suave, destapado, 15 minutos, hasta que el repollo esté tierno y el relleno se empape de caldo.",
+    "Saca el repollo con una espumadera y escúrrelo bien. En la sartén del relleno, añade el resto del aceite, dora los ajos laminados, aparta del fuego, añade el pimentón y saltea ahí el repollo 2 minutos.",
     "Sirve primero una taza de caldo bien caliente. Después, los garbanzos con el repollo, las carnes troceadas y el relleno cortado en rodajas."
   ],
   nutricion: { kcal: 575, prot: 23, hc: 31, grasa: 38 },
@@ -314,7 +313,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 105,
   dificultad: "media",
-  equipo: ["olla-express", "cazuela", "batidora"],
+  equipo: ["olla-express", "batidora"],
   raciones: 3,
   ingredientes: [
     { n: "aleta de ternera", q: 500, u: "g", nota: "abierta en libro por el carnicero" },
@@ -337,7 +336,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece los huevos en una cazuela con agua hirviendo 10 minutos. Mientras, trocea la cebolla y las zanahorias y pela los ajos. Enfría los huevos en agua fría y pélalos.",
+    "Cuece los huevos en la olla con agua hirviendo 10 minutos. Mientras, trocea la cebolla y las zanahorias y pela los ajos. Enfría los huevos en agua fría y pélalos; tira el agua y seca la olla.",
     "Extiende la aleta abierta sobre la tabla y salpiméntala. Cúbrela con las lonchas de jamón, coloca los huevos enteros en fila en el centro y reparte las aceitunas. Enróllala apretando y átala con hilo de cocina cada 3 cm. Pásala por la harina.",
     "Calienta el aceite en la olla a fuego fuerte y dora el rollo por todos los lados, 8 minutos, hasta que tenga buen color. Resérvalo.",
     "Baja a fuego medio y sofríe la cebolla, las zanahorias y los ajos 8 minutos. Añade el brandy y el vino y rasca el fondo; deja hervir 2 minutos.",
@@ -985,7 +984,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["olla-express", "sartén"],
+  equipo: ["olla-express"],
   raciones: 1,
   ingredientes: [
     { n: "borraja", q: 700, u: "g" },
@@ -999,10 +998,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Limpia la borraja: quita las hojas grandes (aprovecha solo las tiernas), pasa un paño por los tallos para quitarles la pelusilla y retira los hilos como en el apio. Córtala en trozos de 4 cm y lávala bien.",
     "Pela las patatas y cáscalas en trozos medianos. Ponlas en la olla con la borraja encima, el agua y sal.",
-    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida.",
-    "Mientras, lamina los ajos, calienta el aceite en una sartén a fuego medio y dóralos 1 minuto. Añade el jamón y saltéalo 1 minuto más, sin que se reseque.",
-    "Escurre la borraja y las patatas (guarda el caldo, es excelente para una sopa) y repártelas en los platos.",
-    "Riega con el refrito de ajo y jamón y sirve caliente."
+    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Mientras, lamina los ajos. Despresuriza de forma rápida.",
+    "Escurre la borraja y las patatas (guarda el caldo, es excelente para una sopa).",
+    "En la olla ya seca, calienta el aceite a fuego medio y dora los ajos 1 minuto. Añade el jamón y saltéalo 1 minuto más, sin que se reseque.",
+    "Reparte la borraja y las patatas en los platos, riégalas con el refrito de ajo y jamón y sirve caliente."
   ],
   nutricion: { kcal: 745, prot: 33, hc: 70, grasa: 37 },
   etiquetas: ["tradicional", "fácil", "ligera", "invierno", "poco especiada"],

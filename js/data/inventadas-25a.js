@@ -605,7 +605,7 @@ window.RECETAS_SEED.push({
   cocina: "asiática",
   momentos: ["comida", "cena"],
   proteina: "huevo",
-  tiempo: 25,
+  tiempo: 22,
   dificultad: "fácil",
   equipo: ["wok", "cazuela"],
   raciones: 2,
@@ -624,13 +624,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Si no tienes arroz del día anterior, cuécelo en agua con sal 10 minutos, escúrrelo, extiéndelo en una bandeja y déjalo enfriar al menos 15 minutos para que se seque. Mientras, pela la zanahoria y córtala en dados pequeños y pica la cebolleta.",
-    "Cuece los guisantes y la zanahoria 3 minutos en agua hirviendo y escúrrelos.",
     "Bate los huevos con una pizca de sal. En el wok con media cucharada de aceite, cuájalos en una tortilla fina, enróllala y córtala en tiras finas. Reserva.",
     "Con otra media cucharada de aceite a fuego fuerte, saltea las gambas 1 minuto y el jamón 1 minuto más. Reserva.",
-    "Pon el resto del aceite, saltea la cebolleta 30 segundos y añade el arroz frío. Saltea a fuego fuerte 3 minutos, moviendo sin parar, hasta que el grano esté suelto y caliente.",
-    "Incorpora las verduras, las gambas, el jamón y la tortilla, riega con la salsa de soja y saltea 1 minuto más. Sirve enseguida."
+    "Pon el resto del aceite y saltea la zanahoria 2 minutos. Añade los guisantes y la cebolleta y saltea 2 minutos más. Echa el arroz frío y saltea a fuego fuerte 3 minutos, moviendo sin parar, hasta que el grano esté suelto y caliente.",
+    "Incorpora las gambas, el jamón y la tortilla, riega con la salsa de soja y saltea 1 minuto más. Sirve enseguida."
   ],
-  nutricion: { kcal: 590, prot: 26, hc: 72, grasa: 22 },
+  nutricion: { kcal: 600, prot: 33, hc: 69, grasa: 21 },
   etiquetas: ["tradicional", "rápida", "fácil", "económica", "para niños", "ideal para llevar", "poco especiada"],
   consejo: "El secreto del arroz frito es usar arroz frío y bien seco: el recién hecho se apelmaza. Cuando cuezas arroz para otro plato, haz el doble y guarda la mitad para esto.",
   contundencia: "media",
@@ -736,7 +735,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["wok", "sartén"],
+  equipo: ["wok"],
   raciones: 2,
   ingredientes: [
     { n: "arroz jazmín", q: 150, u: "g", nota: "cocido y frío" },
@@ -756,11 +755,11 @@ window.RECETAS_SEED.push({
     "Mezcla la salsa de soja con el azúcar moreno en un vaso hasta que se disuelva: es tu salsa dulce de soja.",
     "Pica muy finas las chalotas, el ajo y el chile (sin semillas si no quieres mucho picante). Corta el tomate y el pepino en rodajas.",
     "En el wok con 1 cucharada de aceite a fuego fuerte, saltea el pollo salado 4 minutos, hasta que esté dorado. Añade el picadillo de chalota, ajo y chile y saltea 1 minuto, hasta que huela.",
-    "Incorpora el arroz frío y saltea 3 minutos, separando los granos. Vierte la salsa dulce de soja y saltea 1 minuto más, hasta que todo el arroz quede brillante y tostado.",
-    "En una sartén con el resto del aceite, fríe los huevos con la puntilla crujiente y la yema líquida.",
-    "Sirve el arroz con un huevo encima y las rodajas de tomate y pepino al lado para refrescar."
+    "Incorpora el arroz frío y saltea 3 minutos, separando los granos. Vierte la salsa dulce de soja y saltea 1 minuto más, hasta que todo el arroz quede brillante y tostado. Repártelo en los platos.",
+    "En el mismo wok, con el resto del aceite, fríe los huevos con la puntilla crujiente y la yema líquida.",
+    "Pon un huevo sobre cada plato de arroz y sirve con las rodajas de tomate y pepino al lado para refrescar."
   ],
-  nutricion: { kcal: 596, prot: 32, hc: 72, grasa: 20 },
+  nutricion: { kcal: 660, prot: 30, hc: 78, grasa: 25 },
   etiquetas: ["tradicional", "rápida", "fácil", "económica", "picante"],
   consejo: "En Indonesia es el desayuno para aprovechar el arroz de la víspera. Si tienes sambal o sriracha, pon un poco al lado. Unas gambas peladas en lugar del pollo también son muy típicas.",
   contundencia: "media",
