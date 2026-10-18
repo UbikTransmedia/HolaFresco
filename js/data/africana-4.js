@@ -259,14 +259,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la ternera en dados de 2,5 cm. Ponla en la olla exprés con los cacahuetes, media cebolla, 2 dientes de ajo, el jengibre en rodajas, el habanero si lo usas, el agua y sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 25 minutos. Deja bajar la presión sola, unos 10 minutos.",
-    "Mientras, escalda las espinacas y la rúcula 1 minuto en agua hirviendo, escúrrelas apretando bien con las manos y pícalas. Corta la otra media cebolla en plumas y lamina el ajo restante.",
+    "Mientras, lava las espinacas y la rúcula, escúrrelas y pícalas. Corta la otra media cebolla en plumas y lamina el ajo restante.",
     "Abre la olla, saca la carne y reserva. Retira el habanero y tritura los cacahuetes con el caldo y los aromáticos hasta tener una crema fina, como un puré ligero.",
-    "Vuelve a poner la crema y la carne en la olla destapada y cuece a fuego suave 10 minutos, removiendo a menudo porque se pega con facilidad, hasta que espese y huela a cacahuete tostado. Añade las verduras picadas y cuece 5 minutos más. Prueba de sal.",
+    "Vuelve a poner la crema y la carne en la olla destapada y cuece a fuego suave 10 minutos, removiendo a menudo porque se pega con facilidad, hasta que espese y huela a cacahuete tostado. Añade las verduras picadas a puñados, dejando que se reduzcan, y cuece 5-6 minutos más, hasta que estén tiernas. Prueba de sal.",
     "Mientras, pela el plátano, córtalo en rodajas al bies de 1 cm y fríelo en la sartén con el aceite a fuego medio 2-3 minutos por lado, hasta que esté dorado y caramelizado. Escúrrelo sobre papel.",
     "En el aceite que queda, dora la cebolla en plumas y el ajo laminado 4 minutos. Añade las gambas y saltéalas 2 minutos, hasta que estén rosadas.",
     "Vierte las gambas con la cebolla y su aceite sobre el ndolé: ese sofrito final es imprescindible en Camerún. Sirve con el plátano frito al lado."
   ],
-  nutricion: { kcal: 860, prot: 58, hc: 54, grasa: 46 },
+  nutricion: { kcal: 855, prot: 59, hc: 44, grasa: 49 },
   etiquetas: ["tradicional", "alta en proteína", "sin gluten", "sin lácteos", "fin de semana"],
   consejo: "Las hojas de ndolé (Vernonia) son muy amargas y en Camerún se lavan varias veces; la rúcula aporta un punto de ese amargor. Si encuentras ndolé seco o congelado en una tienda africana, úsalo en lugar de las espinacas. Si solo tienes cacahuetes tostados sin sal, no los cuezas: tritúralos con 300 ml del caldo de la carne. Se acompaña también de miondo o de bobolo, palitos de yuca fermentada. Aguanta 3 días en la nevera.",
   alternativa: "Sin olla exprés: cuece la ternera con los cacahuetes y los aromáticos en cazuela tapada a fuego suave 1 h 30 min, con 300 ml más de agua, en lugar de 25 min a presión.",
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["olla-express", "cazuela"],
+  equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
     { n: "callos de ternera", q: 500, u: "g", nota: "limpios y escaldados, como se venden en la carnicería" },
@@ -678,14 +678,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon los callos en una cazuela con agua fría, lleva a ebullición y cuece 5 minutos. Escúrrelos, acláralos y córtalos en tiras de 1 x 4 cm: así pierden el olor fuerte. Mientras cuecen, pica la cebolla, el ajo, el jengibre y el chile y ralla el tomate.",
+    "Pon los callos en la olla exprés destapada con agua fría, lleva a ebullición y cuece 5 minutos. Escúrrelos, acláralos y córtalos en tiras de 1 x 4 cm: así pierden el olor fuerte. Mientras cuecen, pica la cebolla, el ajo, el jengibre y el chile y ralla el tomate. Seca la olla.",
     "Calienta el aceite en la olla exprés destapada a fuego medio y rehoga la cebolla 5 minutos. Añade el ajo, el jengibre y el chile y remueve 1 minuto; agrega el curry y la cúrcuma 30 segundos y después el tomate, y cocina 4 minutos hasta que se espese.",
     "Incorpora los callos, el agua y sal. Cierra; cuando suba la válvula, baja el fuego y cuenta 30 minutos. Deja bajar la presión sola, unos 10 minutos. Mientras, pela la patata y córtala en dados de 2,5 cm, corta el pimiento en tiras y pica el cilantro.",
     "Abre y añade la patata y el pimiento. Cierra y cuenta 5 minutos; despresuriza rápido.",
     "Vierte la leche de coco y cuece destapado a fuego suave 5 minutos, hasta que la salsa quede cremosa y cubra la cuchara. Los callos deben estar tiernos pero con un punto de mordida. Prueba de sal. Mientras, corta media lima en gajos.",
     "Fuera del fuego, añade el zumo de la otra media lima y sirve con el cilantro y los gajos de lima."
   ],
-  nutricion: { kcal: 605, prot: 35, hc: 40, grasa: 34 },
+  nutricion: { kcal: 680, prot: 44, hc: 42, grasa: 38 },
   etiquetas: ["creativa", "sin gluten", "sin lácteos", "económica", "picante", "invierno"],
   consejo: "En Nairobi el matumbo se suele hacer en wet fry, guisado con tomate y cebolla, y se come con ugali o chapati; la versión con coco es propia de la costa swahili. Para el ugali, cuece polenta con el doble de agua hasta que quede muy firme. Los callos ya limpios y escaldados se compran en cualquier carnicería o mercado. Aguanta 3 días en la nevera y mejora al día siguiente.",
   alternativa: "Sin olla exprés: cuece los callos en cazuela tapada a fuego suave 2 h con 600 ml de agua, y añade la patata y el pimiento los últimos 20 min.",

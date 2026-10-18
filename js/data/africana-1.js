@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "judiones cocidos", q: 400, u: "g", nota: "escurridos y enjuagados; o alubias blancas grandes" },
@@ -299,11 +299,11 @@ window.RECETAS_SEED.push({
     "Calienta 2 cucharadas de aceite en una cazuela a fuego medio, añade el comino y deja que chisporrotee 30 segundos. Sofríe el resto de la cebolla 6 minutos, hasta que esté dorada. Añade el majado de ajo y jengibre y el curry desleído en 2 cucharadas de agua (así no se quema) y remueve 2 minutos, hasta que el aceite se separe.",
     "Incorpora el tomate rallado y cocina 3 minutos. Añade los judiones y el resto del agua, sala y cuece a fuego suave 10 minutos, aplastando unos pocos con la cuchara para que la salsa espese sin romper los demás.",
     "Mientras, prepara la rougaille: en una sartén con el resto del aceite, rehoga la cebolla reservada y el ajo laminado 3 minutos; añade los otros dos tomates picados, el tomillo y medio chile en rodajas y cuece 8 minutos, aplastando, hasta tener una salsa espesa. Sala y retira el tomillo.",
-    "Para el chutney, tritura el cilantro (guarda unas hojas), la hierbabuena, el último diente de ajo, el otro medio chile, el zumo de la lima, 3 cucharadas de agua y sal hasta tener una salsa verde y fluida.",
+    "Para el chutney, pica muy fino a cuchillo el cilantro (guarda unas hojas), la hierbabuena, el último diente de ajo y el otro medio chile, hasta que casi sea una pasta, y mézclalo en un cuenco con el zumo de la lima, 3 cucharadas de agua y sal: debe quedar una salsa verde y suelta.",
     "Limpia la sartén y calienta en ella las tortillas en seco, 30 segundos por lado, hasta que estén flexibles y con alguna mancha tostada. Envuélvelas en un paño para que no se sequen.",
     "Sirve como en los puestos de Port Louis: cada tortilla untada con una cucharada de rougaille, una buena cucharada de judiones al curry encima, unas gotas de chutney y hojas de cilantro; dóblala y cómela con la mano."
   ],
-  nutricion: { kcal: 640, prot: 20, hc: 79, grasa: 27 },
+  nutricion: { kcal: 740, prot: 24, hc: 89, grasa: 29 },
   etiquetas: ["creativa", "vegana", "económica", "picante", "batch cooking"],
   consejo: "El dholl puri es el almuerzo callejero más querido de Mauricio: dos tortas finísimas rellenas de guisantes partidos amarillos molidos que se doblan con curry de gros pois (alubias grandes), rougaille y chutney de cilantro, herencia de los trabajadores indios de la isla. Las tortillas de trigo lo hacen posible en media hora; si quieres acercarte más, unta cada una con un poco de puré de guisantes partidos cocidos con cúrcuma. El curry aguanta 4 días en la nevera y la rougaille 3: calienta las tortillas al momento.",
   tupper: true,
@@ -681,7 +681,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["sartén", "batidora", "plancha"],
+  equipo: ["sartén", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "caballa", q: 300, u: "g", nota: "en lomos con piel" },
@@ -703,13 +703,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tritura la cebolla, el ajo, el jengibre y las gambas secas hasta tener una pasta fina.",
     "Calienta 3 cucharadas de aceite en una sartén a fuego medio y fríe la pasta 12-15 minutos, removiendo a menudo, hasta que pierda toda el agua y se vuelva marrón oscuro.",
-    "Añade los copos de chile, el pimentón y el tomate concentrado y fríe 2-3 minutos más a fuego bajo, hasta que el shito esté casi negro y huela tostado, sin quemarse. Sala.",
+    "Añade los copos de chile, el pimentón y el tomate concentrado y fríe 2-3 minutos más a fuego bajo, hasta que el shito esté casi negro y huela tostado, sin quemarse. Sala y pásalo a un tarro o un cuenco.",
     "Mientras, corta el pepino, los tomates y la cebolla morada, y alíñalos con zumo de lima y sal.",
     "Seca bien los lomos de caballa, sálalos y hazles dos cortes en la piel para que no se encojan.",
-    "Calienta la plancha a fuego fuerte con el resto del aceite y cocina la caballa con la piel hacia abajo 3 minutos, hasta que esté crujiente; dale la vuelta y deja 1 minuto.",
+    "Limpia la sartén con papel, ponla a fuego fuerte con el resto del aceite y cocina la caballa con la piel hacia abajo 3 minutos, hasta que esté crujiente; dale la vuelta y deja 1 minuto.",
     "Sirve la caballa con una cucharada de shito por encima y la ensalada al lado."
   ],
-  nutricion: { kcal: 545, prot: 32, hc: 10, grasa: 42 },
+  nutricion: { kcal: 645, prot: 37, hc: 19, grasa: 47 },
   etiquetas: ["creativa", "sin gluten", "picante", "alta en proteína", "keto"],
   consejo: "En Ghana el shito acompaña el arroz, el kenkey o el pescado frito, y se hace en grandes cantidades: dobla la receta y guárdalo en un tarro cubierto de aceite, aguanta un mes en la nevera. Las gambas secas se venden en tiendas asiáticas y africanas. La caballa se come al momento: recalentada pierde la piel crujiente.",
   tupper: false,
@@ -904,7 +904,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 105,
   dificultad: "media",
-  equipo: ["cazuela", "plancha"],
+  equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 550, u: "g", nota: "4 piezas con hueso y sin piel" },
@@ -923,9 +923,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las cebollas en juliana. Mézclalas en un bol con el zumo de los limones, la mostaza, el ajo machacado, el habanero picado, sal, pimienta y 1 cucharada de aceite. Añade el pollo, masajea bien y deja marinar al menos 1 hora en la nevera (mejor toda la noche).",
-    "Saca el pollo de la marinada escurriéndolo y dóralo en la plancha o en una sartén muy caliente 5-6 minutos por lado, hasta que tenga marcas oscuras.",
-    "Escurre la cebolla reservando el líquido de la marinada. Calienta el resto del aceite en una cazuela y pocha la cebolla a fuego medio-bajo 20-25 minutos, hasta que esté muy tierna y dorada.",
-    "Vierte el líquido de la marinada, el agua y el laurel, y coloca el pollo encima. Tapa y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno.",
+    "Saca el pollo de la marinada escurriéndolo y escurre también la cebolla, reservando el líquido. Calienta el resto del aceite en la cazuela a fuego fuerte y dora el pollo 5-6 minutos por lado, hasta que tenga marcas oscuras. Sácalo a un plato.",
+    "Baja el fuego a medio-bajo y, en la misma grasa, pocha la cebolla 20-25 minutos, rascando el fondo tostado, hasta que esté muy tierna y dorada.",
+    "Vierte el líquido de la marinada, 150 ml de agua y el laurel, y coloca encima el pollo con su jugo. Tapa y cuece a fuego suave 20 minutos, hasta que el pollo esté tierno.",
     "Mientras, cuece el arroz con 280 ml de agua y sal, tapado a fuego mínimo, 12 minutos; deja reposar.",
     "Añade las aceitunas a la cazuela los últimos 5 minutos. Prueba la salsa: debe ser ácida, dulce por la cebolla y algo picante.",
     "Sirve el pollo cubierto de cebolla con el arroz."
