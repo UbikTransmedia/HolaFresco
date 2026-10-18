@@ -129,14 +129,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría con una pizca de bicarbonato. Al día siguiente, escúrrelos y ponlos en la cazuela con agua caliente que los cubra 3 dedos, el laurel y media cebolla. Cuece a fuego suave, tapados, 1 h 15 min a 1 h 30 min, hasta que estén tiernos (si el agua es dura, tardarán más). Añade siempre agua caliente si hace falta.",
-    "Mientras se cuecen los garbanzos, cuece los huevos 10 minutos desde que hierve el agua, enfríalos en agua con hielo, pélalos y córtalos en cuartos. Pica fina la otra media cebolla, lamina 1 ajo y ralla el tomate.",
+    "Mientras se cuecen, pica fina la otra media cebolla, lamina 1 ajo y ralla el tomate. Cuando a los garbanzos les falten unos 10 minutos, mete los huevos con cuidado en la misma cazuela; sácalos a los 10 minutos, pásalos por agua fría, pélalos y córtalos en cuartos.",
     "En una sartén con el aceite, fríe la rebanada de pan y los otros 2 ajos, pelados y enteros, a fuego medio hasta que estén dorados (3-4 minutos). Pásalos al mortero con el comino, el azafrán y una pizca de sal y májalos con un chorrito del caldo de los garbanzos hasta obtener una pasta.",
     "En el mismo aceite, pocha la media cebolla picada y el ajo laminado 6 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que espese. Fuera del fuego, incorpora el pimentón.",
     "Cuando los garbanzos estén tiernos, retira la cebolla y el laurel, añade el sofrito y el majado, y deja hervir suave 10 minutos para que el caldo tome cuerpo. Rectifica de sal con cuidado: el bacalao aportará la suya.",
     "Corta el bacalao en tacos de 3 cm e incorpóralo junto con las espinacas en varias tandas. Cocina 5 minutos a fuego muy suave, sin remover apenas, hasta que el bacalao se abra en lascas y las espinacas se hayan rendido.",
     "Apaga, coloca los cuartos de huevo encima, tapa y deja reposar 5 minutos. Sirve en plato hondo con un hilo de aceite crudo."
   ],
-  nutricion: { kcal: 640, prot: 46, hc: 59, grasa: 25 },
+  nutricion: { kcal: 695, prot: 50, hc: 59, grasa: 25 },
   etiquetas: ["de cuchara", "alta en proteína", "batch cooking", "invierno", "superalimentos", "poco especiada"],
   consejo: "Si vas con prisa, usa 400 g de garbanzos cocidos de bote: saltas al paso 2 y cueces el guiso 15 minutos con 400 ml de caldo de verduras. El majado es lo que da el sabor de potaje de verdad: no te lo saltes.",
   contundencia: "media",
@@ -583,7 +583,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 150,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 180, u: "g", nota: "en remojo 12 h" },
@@ -605,16 +605,17 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, salpimienta la costilla y dórala en la cazuela con 1 cucharada de aceite a fuego fuerte 6-8 minutos, por todos los lados, hasta que tenga color oscuro. Retira el exceso de grasa dejando 1 cucharada.",
-    "Añade los garbanzos escurridos, la zanahoria entera, la parte verde del puerro, el laurel y agua caliente que cubra 3 dedos. Lleva a ebullición, espuma y baja a fuego mínimo: cuece tapado 1 h 30 min, añadiendo siempre agua caliente si hace falta.",
-    "Mientras, pica fina la cebolla, la parte blanca del puerro y los ajos, y ralla el tomate. Sofríe la cebolla, el puerro y el ajo en una sartén con la otra cucharada de aceite a fuego medio-bajo 12 minutos, hasta que estén dorados y dulces. Añade el tomate rallado y cocina 5 minutos. Fuera del fuego, incorpora el pimentón y el comino.",
-    "Mientras siguen cociendo los garbanzos, pela la calabaza y la patata y córtalas en dados de 3 cm. Cuando los garbanzos lleven 1 h 30 min, retira la parte verde del puerro y saca la zanahoria (trocéala y devuélvela), añade el sofrito, la calabaza y la patata, y sala.",
+    "La víspera, pon los garbanzos en remojo en abundante agua fría. Al día siguiente, pica fina la cebolla, la parte blanca del puerro y los ajos, ralla el tomate y salpimienta la costilla.",
+    "Dora la costilla en la cazuela con 1 cucharada de aceite a fuego fuerte 6-8 minutos, por todos los lados, hasta que tenga color oscuro. Sácala y retira el exceso de grasa dejando 1 cucharada.",
+    "Añade la otra cucharada de aceite, baja a fuego medio-bajo y sofríe la cebolla, el puerro y el ajo 12 minutos, rascando el fondo, hasta que estén dorados y dulces. Añade el tomate rallado y cocina 5 minutos. Fuera del fuego, incorpora el pimentón y el comino.",
+    "Devuelve la costilla y añade los garbanzos escurridos, la zanahoria entera, la parte verde del puerro, el laurel y agua caliente que cubra 3 dedos. Lleva a ebullición, espuma y baja a fuego mínimo: cuece tapado 1 h 30 min, añadiendo siempre agua caliente si hace falta.",
+    "Mientras, pela la calabaza y la patata y córtalas en dados de 3 cm. Cuando los garbanzos lleven 1 h 30 min, retira la parte verde del puerro y saca la zanahoria (trocéala y devuélvela), añade la calabaza y la patata, y sala.",
     "Cuece 30-40 minutos más a fuego suave, hasta que la costilla se despegue del hueso y los garbanzos se deshagan al apretarlos. La calabaza debe quedar fundida en el caldo, espesándolo. Mientras, pica la hierbabuena.",
     "Prueba de sal y pimienta y deja reposar 10 minutos fuera del fuego. Sirve con la hierbabuena por encima: su frescor levanta todo el guiso."
   ],
   nutricion: { kcal: 650, prot: 29, hc: 55, grasa: 32 },
   etiquetas: ["de cuchara", "invierno", "batch cooking", "para invitados", "poco especiada"],
-  consejo: "En olla exprés, dora la costilla, añade garbanzos, agua y aromáticos y cuece 25 minutos a presión alta; luego añade sofrito y calabaza y cuece 8 minutos más. Congela en raciones: aguanta 3 meses.",
+  consejo: "En olla exprés, dora la costilla y haz el sofrito en la misma olla, añade garbanzos, agua y aromáticos y cuece 25 minutos a presión alta; luego añade la calabaza y la patata y cuece 8 minutos más. Congela en raciones: aguanta 3 meses.",
   contundencia: "media",
   coste: "media"
 });
@@ -653,13 +654,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Mezcla en un vasito la salsa de soja, el vinagre, la miel, la maicena y 3 cucharadas de agua. Pica el ajo y el jengibre, corta el chile en aros y la cebolleta en trozos de 3 cm separando lo blanco de lo verde.",
     "Despunta las judías verdes y córtalas en trozos de 4 cm. Separa las hojas del pak choi y corta los tallos gruesos en tiras. Seca muy bien las gambas con papel.",
-    "Escalda las judías verdes y el edamame 3 minutos en agua hirviendo con sal, escúrrelos y pásalos por agua fría para fijar el color.",
     "Calienta el wok a fuego muy fuerte con el aceite de oliva hasta que humee. Saltea las gambas 1 minuto por lado, hasta que estén rosadas, y resérvalas en un plato.",
-    "En el mismo wok, saltea 30 segundos el ajo, el jengibre, el chile y el blanco de la cebolleta. Añade las judías, el edamame y los tallos de pak choi y saltea 2 minutos sin parar de mover.",
+    "En el mismo wok, echa las judías verdes y el edamame con 4 cucharadas de agua, tapa y deja 3-4 minutos a fuego fuerte, hasta que las judías estén tiernas pero crujientes y el agua se haya evaporado.",
+    "Destapa, añade el ajo, el jengibre, el chile, el blanco de la cebolleta y los tallos de pak choi y saltea 2 minutos sin parar de mover.",
     "Devuelve las gambas, añade las hojas de pak choi y vierte la salsa removida. Saltea 1 minuto: la salsa espesará y abrillantará todo. Apaga y añade el aceite de sésamo.",
     "Sirve enseguida con el sésamo y el verde de la cebolleta por encima."
   ],
-  nutricion: { kcal: 370, prot: 34, hc: 22, grasa: 16 },
+  nutricion: { kcal: 405, prot: 36, hc: 21, grasa: 18 },
   etiquetas: ["rápida", "ligera", "alta en proteína", "una sola sartén", "picante", "superalimentos"],
   consejo: "Para convertirlo en plato más contundente, sírvelo sobre 120 g de fideos de arroz cocidos o arroz jazmín. Las gambas pueden ser congeladas: descongélalas en la nevera y sécalas a conciencia o soltarán agua.",
   alternativa: "Si no hay pak choi, usa 150 g de col china en tiras o las hojas tiernas de unas acelgas, que entran en el mismo momento del salteado.",
@@ -889,12 +890,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pela la calabaza y córtala en dados de 2,5 cm; mézclala en la bandeja con 1 cucharada de aceite, las hojas de tomillo, sal y pimienta. Asa 30 minutos, dándole la vuelta a mitad, hasta que esté tierna y dorada en los bordes.",
     "Mientras, enjuaga las lentejas y ponlas en una cazuela con agua fría que las cubra 3 dedos, el ajo entero y una pizca de sal. Cuece a fuego suave 22-25 minutos: deben quedar tiernas pero enteras y firmes. Escúrrelas y retira el ajo.",
-    "Tuesta las nueces en una sartén seca 3 minutos a fuego medio, moviéndolas, hasta que huelan; trocéalas gruesas. Corta la cebolla morada en plumas muy finas.",
-    "Prepara la vinagreta en el bol grande: bate la mostaza, la miel, el vinagre, sal y pimienta y añade las 2 cucharadas de aceite restantes en hilo hasta emulsionar.",
+    "Mientras se cuecen, corta la cebolla morada en plumas muy finas y prepara la vinagreta en el bol grande: bate la mostaza, la miel, el vinagre, sal y pimienta y añade las 2 cucharadas de aceite restantes en hilo hasta emulsionar.",
+    "En los últimos 4 minutos de horno, pon las nueces en un hueco de la bandeja para que se tuesten; sácalas cuando huelan y trocéalas gruesas.",
     "Añade las lentejas aún calientes a la vinagreta junto con la cebolla morada y mezcla: en caliente absorben mucho mejor el aliño. Deja templar 5 minutos.",
     "Incorpora la rúcula y la mitad de la calabaza y mezcla con suavidad. Reparte en dos platos, coloca el resto de la calabaza encima, el queso de cabra desmenuzado en trozos grandes y las nueces. Termina con pimienta recién molida."
   ],
-  nutricion: { kcal: 580, prot: 27, hc: 58, grasa: 27 },
+  nutricion: { kcal: 800, prot: 36, hc: 57, grasa: 46 },
   etiquetas: ["al horno", "ideal para llevar", "otoño", "batch cooking", "superalimentos", "poco especiada"],
   consejo: "Las lentejas beluga mantienen la forma y no se pasan: cuécelas con antelación y guárdalas aliñadas hasta 3 días. En lugar de calabaza, el boniato o la remolacha asada funcionan igual de bien.",
   alternativa: "Si no encuentras lentejas beluga ni de Puy, usa pardinas (los mismos 160 g), que mantienen bien la forma: cuécelas 20–25 minutos y escúrrelas en cuanto estén tiernas.",
@@ -962,7 +963,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "judiones cocidos", q: 400, u: "g", nota: "de bote, escurridos con cuidado" },
@@ -981,16 +982,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela la patata y córtala en dados de 2 cm. Cuécela en la cazuela con agua con sal y el laurel 12-14 minutos, hasta que esté tierna pero entera. Escúrrela y reserva el laurel.",
-    "Mientras, pica fina la cebolla y los ajos y póchalos en la misma cazuela (ya vacía) con 2 cucharadas de aceite a fuego medio-bajo 10 minutos, hasta que estén muy blandos y dorados.",
+    "Pela la patata y córtala en dados de 2 cm. Cuécela en la cazuela con agua con sal y el laurel 12-14 minutos, hasta que esté tierna pero entera. Mientras, pica fina la cebolla y los ajos y corta el pulpo en rodajas de 1 cm. Escurre la patata y reserva el laurel.",
+    "Seca la cazuela, calienta en ella 1 cucharada de aceite a fuego fuerte y marca las rodajas de pulpo 1 minuto por lado, hasta que se doren y se ricen los bordes. Sácalas a un plato con su aceite.",
+    "Baja a fuego medio-bajo, añade las otras 2 cucharadas de aceite y pocha la cebolla y los ajos 10 minutos, hasta que estén muy blandos y dorados.",
     "Sube el fuego, vierte el vino blanco y deja que reduzca a la mitad, 2 minutos. Aparta del fuego y añade el pimentón dulce y la mitad del picante; remueve 15 segundos.",
-    "Vuelve al fuego con el caldo, el laurel, los judiones y la patata. Cuece a fuego suave 10 minutos, meneando la cazuela por las asas (no remuevas con cuchara: los judiones se rompen) hasta que el caldo espese un poco. Sala.",
-    "Corta el pulpo en rodajas de 1 cm. Calienta la cucharada de aceite restante en una sartén a fuego fuerte y marca las rodajas 1 minuto por lado, hasta que se doren y se ricen los bordes.",
-    "Incorpora el pulpo a la cazuela con su aceite, apaga y deja reposar tapado 3 minutos. Sirve en plato hondo con el resto del pimentón picante por encima y el perejil picado."
+    "Vuelve al fuego con el caldo, el laurel, los judiones y la patata. Cuece a fuego suave 10 minutos, meneando la cazuela por las asas (no remuevas con cuchara: los judiones se rompen) hasta que el caldo espese un poco. Sala. Mientras, pica el perejil.",
+    "Devuelve el pulpo con su aceite, apaga y deja reposar tapado 3 minutos. Sirve en plato hondo con el resto del pimentón picante por encima y el perejil."
   ],
-  nutricion: { kcal: 560, prot: 36, hc: 52, grasa: 23 },
+  nutricion: { kcal: 695, prot: 53, hc: 55, grasa: 24 },
   etiquetas: ["de cuchara", "alta en proteína", "para invitados", "invierno"],
-  consejo: "Si no encuentras judiones, usa alubias blancas grandes. El pulpo cocido se endurece si hierve: por eso se marca aparte y se añade al final con el fuego apagado.",
+  consejo: "Si no encuentras judiones, usa alubias blancas grandes. El pulpo cocido se endurece si hierve: por eso se marca primero, se reserva y se añade al final con el fuego apagado.",
   contundencia: "media",
   coste: "premium"
 });

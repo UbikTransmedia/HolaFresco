@@ -14,7 +14,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 18,
   dificultad: "fácil",
-  equipo: ["plancha", "sartén", "batidora"],
+  equipo: ["plancha", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "pollo (pechuga)", q: 320, u: "g" },
@@ -33,12 +33,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Abre las pechugas por la mitad a lo largo para obtener 4 filetes de 1,5 cm. Salpimiéntalos y úntalos con unas gotas de aceite.",
     "Tritura la rúcula con el parmesano, 1 diente de ajo, el zumo de medio limón, 2 cdas de aceite y una pizca de sal hasta tener un pesto grueso. Si queda muy espeso, añade 1 cda de agua.",
-    "Calienta la plancha a fuego fuerte y marca el pollo 3-4 minutos por cada lado, hasta que esté dorado y al presionarlo con el dedo se note firme. Déjalo reposar 2 minutos antes de cortar.",
-    "En la misma plancha o en una sartén, saltea los tomates cherry enteros con el aceite restante, el orégano y sal 3 minutos a fuego vivo, hasta que la piel se arrugue y alguno reviente.",
-    "Tuesta el pan y frótalo con el diente de ajo restante.",
+    "Calienta la plancha a fuego fuerte y marca el pollo 3-4 minutos por cada lado, hasta que esté dorado y al presionarlo con el dedo se note firme. Sácalo y déjalo reposar 2 minutos antes de cortar.",
+    "En la misma plancha, saltea los tomates cherry enteros con el aceite restante, el orégano y sal 3 minutos a fuego vivo, hasta que la piel se arrugue y alguno reviente. Apártalos a un lado y tuesta el pan 1 minuto por cara; frótalo con el diente de ajo restante.",
     "Sirve el pollo en láminas gruesas con una cucharada generosa de pesto encima, los cherrys al lado con su jugo y el pan tostado."
   ],
-  nutricion: { kcal: 440, prot: 43, hc: 19, grasa: 22 },
+  nutricion: { kcal: 560, prot: 40, hc: 22, grasa: 34 },
   etiquetas: ["rápida", "alta en proteína", "ligera", "a la plancha", "verano", "poco especiada", "bajo en colesterol"],
   consejo: "No cortes el pollo nada más sacarlo de la plancha: esos 2 minutos de reposo son la diferencia entre una pechuga jugosa y una seca.",
   contundencia: "ligera",
@@ -102,7 +101,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["horno", "bol", "cazuela"],
+  equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "pollo (alitas)", q: 700, u: "g" },
@@ -128,11 +127,11 @@ window.RECETAS_SEED.push({
     "Corta las patatas en gajos, mézclalas con el aceite, sal y pimienta y colócalas en un lado de una bandeja con rejilla o papel. Pon las alitas en la otra mitad, con la piel hacia arriba y sin amontonar.",
     "Hornea 40-45 minutos, dando la vuelta a las alitas a mitad de cocción, hasta que la piel esté dorada y crujiente y las patatas tiernas.",
     "Mientras, prepara la ensalada: corta la col en tiras muy finas, ralla la zanahoria y alíñalas con la mayonesa, el yogur, el vinagre, sal y pimienta. Déjala reposar en la nevera para que ablande.",
-    "Prepara el glaseado: calienta en un cazo la miel, la sriracha, la soja, el ajo rallado y el zumo de media lima 2-3 minutos a fuego medio, hasta que burbujee y espese un poco.",
-    "Saca las alitas, pásalas a un bol y vierte el glaseado caliente por encima. Remueve hasta cubrirlas bien y vuelve a hornearlas 5 minutos para que el glaseado se pegue y brille.",
+    "Prepara el glaseado en un bol limpio: mezcla la miel, la sriracha, la soja, el ajo rallado y el zumo de media lima hasta que la miel se integre.",
+    "Saca las alitas, pásalas al bol del glaseado y remueve hasta cubrirlas bien. Devuélvelas a la bandeja y hornéalas 5-7 minutos más, hasta que el glaseado burbujee, se pegue y brille.",
     "Sirve las alitas con los gajos de patata, la ensalada de col y la media lima restante en gajos."
   ],
-  nutricion: { kcal: 795, prot: 43, hc: 66, grasa: 40 },
+  nutricion: { kcal: 800, prot: 57, hc: 62, grasa: 36 },
   etiquetas: ["al horno", "picante", "para compartir", "fin de semana"],
   consejo: "Si tienes rejilla de horno, coloca las alitas encima con la bandeja debajo: el aire circula por todos lados y quedan crujientes como fritas.",
   alternativa: "En airfryer, cocina las alitas a 200 °C unos 22-25 min en una sola capa, sacudiendo la cesta a mitad, y glaséalas después 2 min más; las patatas, en una tanda aparte.",
@@ -353,11 +352,11 @@ window.RECETAS_SEED.push({
     "Lava el arroz y cuécelo en 260 ml de agua con una pizca de sal, tapado, 12 minutos a fuego mínimo; apaga y deja reposar 5 minutos sin destapar.",
     "Mientras, pica el ajo y el jengibre y corta la cebolleta en aros. Corta la zanahoria en bastones finos y saltéala 2 minutos en una sartén con unas gotas de aceite y una pizca de sal; resérvala. En la misma sartén, marchita las espinacas 1 minuto, escúrrelas y alíñalas con 1 cdta de aceite de sésamo y sal.",
     "Sube el fuego, añade el aceite de oliva y saltea el pavo picado con el ajo y el jengibre 5-6 minutos, deshaciéndolo con la cuchara, hasta que pierda el color rosa y empiece a tostarse.",
-    "Añade 2 cdas de salsa de soja, la miel y la mitad de la sriracha; remueve 1 minuto hasta que la salsa se pegue a la carne y brille.",
-    "Fríe los huevos en otra sartén con un poco de aceite a fuego medio-alto 2-3 minutos, hasta que la clara esté cuajada y la yema líquida.",
-    "Monta los boles: arroz en la base, pavo en el centro y espinacas y zanahoria a los lados. Corona con el huevo frito, riega con el resto de la soja, el aceite de sésamo y la sriracha, y espolvorea el sésamo y la cebolleta en aros."
+    "Añade 2 cdas de salsa de soja, la miel y la mitad de la sriracha; remueve 1 minuto hasta que la salsa se pegue a la carne y brille. Monta los boles: arroz en la base, pavo en el centro y espinacas y zanahoria a los lados.",
+    "Pasa un papel por la sartén y fríe los huevos con un poco de aceite a fuego medio-alto 2-3 minutos, hasta que la clara esté cuajada y la yema líquida.",
+    "Corona cada bol con un huevo frito, riega con el resto de la soja, el aceite de sésamo y la sriracha, y espolvorea el sésamo y la cebolleta en aros."
   ],
-  nutricion: { kcal: 610, prot: 46, hc: 62, grasa: 20 },
+  nutricion: { kcal: 740, prot: 47, hc: 66, grasa: 31 },
   etiquetas: ["rápida", "alta en proteína", "picante", "bol", "ideal para llevar"],
   consejo: "Rompe la yema y mézclalo todo antes de comer, como en un bibimbap: la yema hace de salsa cremosa y une el arroz con el pavo.",
   contundencia: "media",
@@ -575,12 +574,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo en 260 ml de agua, tapado, 12 minutos a fuego mínimo; apaga y deja reposar 5 minutos sin destapar.",
     "Mientras se cuece el arroz, ralla el jengibre y el ajo, corta la cebolleta en aros y mezcla la salsa: soja, miel, vinagre, el jengibre y el ajo, la maicena y 3 cdas de agua. Remueve hasta disolver la maicena.",
-    "Corta los muslos en trozos de bocado. Calienta el aceite en una sartén amplia a fuego fuerte y dóralos 6-7 minutos, con la piel o el lado más graso hacia abajo primero, hasta que estén bien tostados.",
-    "Separa el brócoli en ramilletes y cuécelo al vapor (o en 2 dedos de agua hirviendo, tapado) 4 minutos, hasta que esté verde intenso y al dente. Escúrrelo.",
-    "Baja el fuego de la sartén a medio, vierte la salsa sobre el pollo y remueve 2-3 minutos, hasta que espese, burbujee y lo cubra con un brillo oscuro.",
-    "Tuesta el sésamo 1 minuto en una sartén seca. Sirve el arroz con el pollo teriyaki y su salsa, el brócoli al lado y el sésamo y la cebolleta en aros por encima."
+    "Separa el brócoli en ramilletes y corta los muslos en trozos de bocado. Tuesta el sésamo 1 minuto en una sartén amplia seca y sácalo a un plato.",
+    "En la misma sartén, pon el brócoli con 4 cdas de agua, tapa y cuécelo 4 minutos a fuego fuerte, hasta que esté verde intenso y al dente. Sácalo.",
+    "Seca la sartén, calienta el aceite a fuego fuerte y dora el pollo 6-7 minutos, con la piel o el lado más graso hacia abajo primero, hasta que esté bien tostado.",
+    "Baja el fuego a medio, vierte la salsa sobre el pollo y remueve 2-3 minutos, hasta que espese, burbujee y lo cubra con un brillo oscuro.",
+    "Sirve el arroz con el pollo teriyaki y su salsa, el brócoli al lado y el sésamo y la cebolleta en aros por encima."
   ],
-  nutricion: { kcal: 595, prot: 42, hc: 70, grasa: 16 },
+  nutricion: { kcal: 710, prot: 44, hc: 78, grasa: 24 },
   etiquetas: ["rápida", "para niños", "económica", "alta en proteína", "una sola sartén", "poco especiada", "bajo en colesterol"],
   consejo: "El teriyaki casero espesa rápido por la maicena: si se pasa, añade 1-2 cdas de agua y remueve. Debe cubrir el pollo como un barniz, no quedar como gelatina.",
   contundencia: "media",
@@ -665,11 +665,11 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica la cebolla y el ajo y trocea el pan. Sala los contramuslos y dóralos en una cazuela con el aceite a fuego medio-alto, 4 minutos por el lado de la piel y 2 por el otro, hasta que estén tostados. Resérvalos.",
+    "Pica la cebolla y el ajo y trocea el pan. Tuesta el sésamo 1 minuto en la cazuela seca y sácalo a un plato. Sala los contramuslos y dóralos en la cazuela con el aceite a fuego medio-alto, 4 minutos por el lado de la piel y 2 por el otro, hasta que estén tostados. Resérvalos.",
     "En la misma grasa, sofríe la cebolla 6 minutos. Añade el ajo, las almendras, las pasas y el pan y tuesta 2 minutos. Incorpora el pimentón, el comino y la canela y remueve 30 segundos.",
     "Añade el tomate, el chipotle y el caldo; cuece 5 minutos y tritura con la batidora hasta tener una salsa fina. Devuélvela a la cazuela.",
     "Vuelve a meter el pollo con sus jugos, tapa y cuece a fuego bajo 30 minutos, dando la vuelta a mitad, hasta que la carne se separe del hueso con facilidad.",
-    "Mientras, lava el arroz y cuécelo en 260 ml de agua con sal, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos. Trocea el chocolate, pica el cilantro y tuesta el sésamo 1 minuto en una sartén seca.",
+    "Mientras, lava el arroz y cuécelo en 260 ml de agua con sal, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos. Trocea el chocolate y pica el cilantro.",
     "Saca el pollo, añade el chocolate a la salsa y remueve hasta que se funda. Prueba: debe estar equilibrada entre dulce, picante y ahumado; ajusta de sal. Si está muy espesa, alárgala con un poco de agua.",
     "Sirve el pollo bañado en mole sobre el arroz, con el sésamo y el cilantro picado por encima."
   ],
@@ -881,7 +881,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["sartén", "cazuela", "wok"],
+  equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pollo (pechuga)", q: 320, u: "g" },
@@ -903,17 +903,17 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo en 240 ml de agua, tapado, 12 minutos a fuego mínimo; deja reposar 5 minutos.",
-    "Corta el pollo en tiras de 2 cm, sálalo y pásalo por el huevo batido y después por 2 cdas de maicena, sacudiendo el exceso.",
+    "Mientras, corta el pollo en tiras de 2 cm, sálalo y pásalo por el huevo batido y después por 2 cdas de maicena, sacudiendo el exceso. Corta el pak choi a lo largo en cuartos y lamina el ajo.",
     "Prepara la salsa: mezcla el zumo de los 2 limones y la ralladura de uno, la miel, el azúcar, la soja, el caldo, el jengibre rallado y la maicena restante disuelta.",
-    "Calienta 3 cdas de aceite en una sartén a fuego medio-alto y fríe el pollo en dos tandas 3 minutos por lado, hasta que esté dorado y crujiente. Escúrrelo sobre papel.",
+    "Calienta media cucharada de aceite en una sartén a fuego fuerte y saltea el pak choi con el ajo 2-3 minutos, hasta que los tallos estén tiernos y las hojas brillantes. Sala y sácalo a un plato.",
+    "En la misma sartén, calienta 3 cdas de aceite a fuego medio-alto y fríe el pollo en dos tandas 3 minutos por lado, hasta que esté dorado y crujiente. Escúrrelo sobre papel.",
     "Retira el aceite de la sartén, vierte la salsa y cuécela 2-3 minutos removiendo hasta que espese y brille. Añade el pollo y envuélvelo rápidamente, 30 segundos, para que no pierda el crujiente.",
-    "Corta el pak choi a lo largo en cuartos y saltéalo en un wok con el aceite restante y el ajo laminado 2-3 minutos a fuego fuerte, hasta que los tallos estén tiernos y las hojas brillantes. Sala.",
     "Sirve el arroz con el pollo al limón encima, el pak choi al lado y el sésamo espolvoreado."
   ],
-  nutricion: { kcal: 630, prot: 42, hc: 74, grasa: 18 },
+  nutricion: { kcal: 875, prot: 42, hc: 87, grasa: 40 },
   etiquetas: ["para niños", "agridulce", "crujiente", "alta en proteína", "poco especiada"],
   consejo: "Mezcla el pollo con la salsa justo antes de servir: si lo dejas reposar dentro, el rebozado se ablanda en minutos.",
-  alternativa: "Cambia el pak choi por 250 g de brócoli en ramilletes pequeños o por acelga tierna si no lo encuentras; el brócoli necesita 3 min de vapor en lugar de 2.",
+  alternativa: "Cambia el pak choi por 250 g de brócoli en ramilletes pequeños o por acelga tierna si no lo encuentras; el brócoli necesita 1-2 min más en la sartén, con un chorrito de agua y tapado.",
   contundencia: "media",
   coste: "media"
 });
@@ -1094,13 +1094,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados de 3 cm, mézclala con 1 cda de aceite y sal y ásala en una bandeja 25 minutos, removiendo a mitad, hasta que esté dorada y blanda por dentro.",
-    "Mientras, pica la cebolla y el ajo y ralla los tomates (desecha la piel). Calienta el aceite restante en una sartén a fuego medio y sofríe la cebolla 6 minutos. Añade el ajo, el comino, la canela y el pimentón y remueve 30 segundos.",
+    "Mientras, pica la cebolla y el ajo y ralla los tomates (desecha la piel). Tuesta las almendras 1-2 minutos en una sartén seca hasta que doren y sácalas a un plato.",
+    "En la misma sartén, calienta el aceite restante a fuego medio y sofríe la cebolla 6 minutos. Añade el ajo, el comino, la canela y el pimentón y remueve 30 segundos.",
     "Sube el fuego, añade el pavo picado y saltéalo 6-7 minutos deshaciéndolo con la cuchara, hasta que pierda el rosa y empiece a dorarse.",
-    "Incorpora el tomate concentrado y los tomates rallados. Cuece 8 minutos, hasta que la salsa reduzca y se separe la grasa. Salpimienta.",
-    "Mientras se cuece, tuesta las almendras 1-2 minutos en una sartén seca hasta que doren. Pica la menta y mezcla el yogur con la mitad, el zumo de limón y una pizca de sal.",
+    "Incorpora el tomate concentrado y los tomates rallados. Cuece 8 minutos, hasta que la salsa reduzca y se separe la grasa. Salpimienta. Mientras se cuece, pica la menta y mezcla el yogur con la mitad, el zumo de limón y una pizca de sal.",
     "Mezcla la berenjena asada con el pavo en la sartén y calienta 1 minuto. Sirve con el yogur a la menta por encima, las almendras y el resto de la menta."
   ],
-  nutricion: { kcal: 450, prot: 40, hc: 22, grasa: 22 },
+  nutricion: { kcal: 590, prot: 42, hc: 24, grasa: 35 },
   etiquetas: ["ligera", "al horno", "especiado", "alta en proteína", "ideal para llevar", "poco especiada", "bajo en colesterol"],
   consejo: "Sirve con pan de pita caliente si quieres un plato más completo; sin él es una cena ligera y muy sabrosa.",
   contundencia: "ligera",

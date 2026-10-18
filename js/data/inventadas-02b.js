@@ -391,7 +391,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos. Cuece también el huevo 10 minutos en otro cazo.",
+    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos; mete el huevo en la misma olla los primeros 10 minutos y sácalo a agua fría.",
     "Precalienta el horno a 200 °C. Mientras, calienta 250 ml de leche con el laurel y escalfa en ella la merluza 5 minutos a fuego suave; entretanto, pica el puerro y el eneldo. Saca el pescado y reserva la leche colada.",
     "En la cazuela, funde 15 g de mantequilla y rehoga el puerro 5 minutos. Añade la harina, tuéstala 1 minuto y vierte poco a poco la leche de escalfar, removiendo hasta tener una bechamel ligera. Añade la mostaza, el eneldo picado, sal y pimienta.",
     "Desmenuza la merluza en lascas grandes, trocea el salmón ahumado, pela y trocea el huevo, y repártelos con los guisantes en una fuente pequeña. Cubre con la bechamel.",
@@ -399,7 +399,7 @@ window.RECETAS_SEED.push({
     "Extiende el puré sobre el relleno, marca surcos con un tenedor y espolvorea el queso rallado.",
     "Hornea 25 minutos, hasta que el relleno burbujee por los bordes y la superficie esté dorada. Deja reposar 5 minutos antes de servir."
   ],
-  nutricion: { kcal: 710, prot: 42, hc: 58, grasa: 34 },
+  nutricion: { kcal: 745, prot: 52, hc: 65, grasa: 30 },
   etiquetas: ["al horno", "para niños", "batch cooking", "invierno", "poco especiada"],
   consejo: "Puedes dejarlo montado la víspera en la nevera; añade 10 minutos de horno si entra frío.",
   contundencia: "contundente",
@@ -417,7 +417,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["horno", "sartén"],
+  equipo: ["horno"],
   raciones: 2,
   ingredientes: [
     { n: "caballa fresca (lomos)", q: 300, u: "g", nota: "4 lomos con piel" },
@@ -435,16 +435,16 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta el boniato en rodajas de 1 cm, úntalas con media cucharada de aceite y hornéalas en una bandeja con papel 15 minutos.",
-    "Mientras, mezcla el miso con la ralladura de media naranja, 2 cucharadas de su zumo, la miel y la soja hasta tener una pasta lisa. Pica el ajo, el jengibre y la cebolleta.",
-    "Seca bien los lomos de caballa y colócalos con la piel hacia arriba sobre el boniato. Pinta la carne (no la piel) con la mitad del glaseado.",
+    "Mientras, mezcla el miso con la ralladura de media naranja, 2 cucharadas de su zumo, la miel y la soja hasta tener una pasta lisa. Pica el ajo, el jengibre y la cebolleta. Corta los pak choi en cuartos a lo largo y mézclalos con el resto del aceite, el ajo y el jengibre.",
+    "Seca bien los lomos de caballa y colócalos con la piel hacia arriba sobre el boniato. Pinta la carne (no la piel) con la mitad del glaseado y reparte el pak choi alrededor, en la misma bandeja.",
     "Hornea 8 minutos y pon el gratinador los últimos 2 minutos para que la piel quede crujiente y con algunas manchas tostadas.",
-    "Mientras, corta los pak choi en cuartos a lo largo y saltéalos en la sartén con el resto del aceite, el ajo y el jengibre 3 minutos. Añade el resto del glaseado diluido con el zumo de naranja que quede y deja reducir 1 minuto.",
+    "Diluye el resto del glaseado con el zumo de naranja que quede y riega con él el pak choi al sacar la bandeja.",
     "Sirve el boniato con la caballa encima, el pak choi al lado y espolvorea sésamo y cebolleta picada."
   ],
-  nutricion: { kcal: 515, prot: 32, hc: 38, grasa: 26 },
+  nutricion: { kcal: 555, prot: 35, hc: 39, grasa: 28 },
   etiquetas: ["al horno", "económica", "alta en proteína", "superalimentos", "poco especiada"],
   consejo: "La caballa es de los pescados más baratos y ricos en omega 3; pide en la pescadería que te la limpien en lomos.",
-  alternativa: "¿Sin pak choi en tu súper? Sirve la caballa sobre 200 g de acelgas tiernas o espinacas salteadas 2 min con el ajo y el jengibre.",
+  alternativa: "¿Sin pak choi en tu súper? Usa 200 g de acelgas tiernas en tiras gruesas, mezcladas con el ajo y el jengibre y horneadas en la bandeja igual que el pak choi.",
   contundencia: "media",
   coste: "económica"
 });
@@ -574,16 +574,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Ralla el jengibre y el ajo y marina la merluza 10 minutos con ellos, el zumo de medio limón y sal.",
-    "Corta las patatas en dados de 2 cm, cuécelas 8 minutos en agua con sal y escúrrelas bien.",
-    "Mientras se cuecen, corta la cebolla morada en aros finos y cúbrela con el zumo del otro medio limón y una pizca de sal: en 15 minutos estará encurtida.",
+    "Ralla el jengibre y el ajo y marina la merluza 10 minutos con ellos, el zumo de medio limón y sal. Mientras, corta las patatas en dados de 2 cm.",
+    "Calienta 2 cucharadas de aceite en la sartén a fuego medio, añade las patatas con una pizca de sal, tapa y cocina 10 minutos, removiendo de vez en cuando, hasta que estén casi tiernas.",
+    "Mientras se hacen, corta la cebolla morada en aros finos y cúbrela con el zumo del otro medio limón y una pizca de sal: en 15 minutos estará encurtida.",
     "Prepara la raita: ralla el pepino y escúrrelo, pica la menta y mézclalos con el yogur, media cucharadita de comino y sal.",
-    "Saltea las patatas en la sartén con 2 cucharadas de aceite, la cúrcuma y el resto del comino a fuego fuerte, 8-10 minutos, hasta que estén doradas. Resérvalas.",
+    "Destapa las patatas, añade la cúrcuma y el resto del comino, sube el fuego y saltéalas 5-6 minutos, hasta que estén doradas. Resérvalas.",
     "Mezcla la harina de garbanzo con el garam masala, el pimentón y 3-4 cucharadas de agua hasta tener una pasta espesa. Reboza las tiras de merluza.",
     "Fríelas en la misma sartén con el resto del aceite a fuego medio-fuerte, 2-3 minutos por lado, hasta que la costra esté dorada y crujiente.",
     "Sirve la merluza con las patatas, la raita y la cebolla encurtida."
   ],
-  nutricion: { kcal: 670, prot: 40, hc: 56, grasa: 32 },
+  nutricion: { kcal: 715, prot: 39, hc: 53, grasa: 38 },
   etiquetas: ["alta en proteína", "picante", "sin gluten"],
   consejo: "Si quieres una versión más ligera, hornea las tiras rebozadas a 220 °C 12 minutos sobre papel engrasado.",
   contundencia: "contundente",
@@ -663,14 +663,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los mejillones quitando las barbas y raspando las conchas. Ponlos en la cazuela con el vino, tapa y cuécelos a fuego fuerte 3-4 minutos, hasta que se abran. Desecha los que sigan cerrados.",
-    "Saca la carne de las conchas y cuela el caldo que han soltado por un paño o un colador fino; reserva 50 ml.",
-    "Precalienta el horno a 200 °C. Asa el pimiento rojo entero y las patatas en rodajas gruesas untadas con un poco del aceite y sal durante 40 minutos, dando la vuelta a mitad.",
-    "Mientras, lamina los ajos y calienta el aceite en un cazo con ellos, el laurel y la pimienta en grano a fuego suave, hasta que los ajos empiecen a dorarse.",
+    "Saca la carne de las conchas a un recipiente de cristal y cuela el caldo que han soltado por un paño o un colador fino; reserva 50 ml. Enjuaga y seca la cazuela.",
+    "Precalienta el horno a 200 °C. Corta las patatas en rodajas gruesas, úntalas con un poco del aceite y sal y ásalas con el pimiento rojo entero durante 40 minutos, dando la vuelta a mitad.",
+    "Mientras, lamina los ajos y calienta el resto del aceite en la misma cazuela con ellos, el laurel y la pimienta en grano a fuego suave, hasta que los ajos empiecen a dorarse.",
     "Retira del fuego, añade el pimentón, remueve 10 segundos y vierte enseguida el vinagre y el caldo reservado. Lleva a ebullición 1 minuto.",
-    "Echa el escabeche caliente sobre los mejillones en un recipiente de cristal, deja enfriar y reposar al menos 1 hora (mejor de un día para otro en la nevera). Mientras reposa, pica el perejil y, cuando el pimiento esté asado, pélalo y córtalo en tiras.",
+    "Echa el escabeche caliente sobre los mejillones, deja enfriar y reposar al menos 1 hora (mejor de un día para otro en la nevera). Mientras reposa, pica el perejil y, cuando el pimiento esté asado, pélalo y córtalo en tiras.",
     "Sirve las patatas y el pimiento con los mejillones y un poco de su escabeche por encima, con el perejil picado."
   ],
-  nutricion: { kcal: 520, prot: 28, hc: 44, grasa: 26 },
+  nutricion: { kcal: 640, prot: 23, hc: 41, grasa: 41 },
   etiquetas: ["económica", "batch cooking", "ideal para llevar", "verano", "poco especiada"],
   consejo: "En un tarro cerrado y cubiertos de escabeche aguantan 4-5 días en la nevera. Infinitamente mejores que los de lata.",
   contundencia: "media",
@@ -816,7 +816,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "corvina (lomos)", q: 300, u: "g", nota: "en 4 trozos" },
@@ -837,7 +837,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Reserva unas hojas de cilantro y haz la chermoula triturando el resto del cilantro, el perejil, el ajo, el comino, el pimentón, la cúrcuma, el zumo del limón, el aceite y una pizca de sal.",
+    "Reserva unas hojas de cilantro y pica muy fino a cuchillo el resto del cilantro, el perejil y el ajo. Mézclalos en un plato hondo con el comino, el pimentón, la cúrcuma, el zumo del limón, el aceite y una pizca de sal: es la chermoula.",
     "Unta la corvina con un tercio de la chermoula y déjala marinar en la nevera 20 minutos.",
     "Mientras marina, pela las patatas y córtalas en rodajas de medio centímetro; corta los pimientos en tiras y los tomates en rodajas.",
     "Mezcla las patatas y los pimientos con el resto de la chermoula y extiéndelos en la base de la cazuela o tajine. Añade el agua, tapa y cuece a fuego medio-bajo 20 minutos, hasta que las patatas estén casi tiernas. Mientras, pica las hojas de cilantro reservadas.",
@@ -845,7 +845,7 @@ window.RECETAS_SEED.push({
     "Tapa de nuevo y cocina 10-12 minutos a fuego suave, hasta que el pescado se separe en lascas. Si se queda seco, añade un chorrito de agua.",
     "Sirve directamente de la cazuela con el cilantro picado por encima."
   ],
-  nutricion: { kcal: 540, prot: 36, hc: 40, grasa: 26 },
+  nutricion: { kcal: 560, prot: 35, hc: 41, grasa: 28 },
   etiquetas: ["una sola sartén", "alta en proteína", "batch cooking", "poco especiada"],
   consejo: "Si tienes limón encurtido, añade unas tiras de su piel junto a las aceitunas: es el toque marroquí auténtico.",
   contundencia: "media",

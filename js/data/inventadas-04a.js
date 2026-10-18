@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pon en una bandeja la berenjena, los 2 pimientos, la cebolla pelada y los tomates enteros, úntalos con 1 cda de aceite y ásalos 35-40 min, dándoles la vuelta a mitad, hasta que la piel esté arrugada y tiznada.",
-    "Mientras, tuesta en una sartén seca las almendras, las avellanas y la rebanada de pan 3-4 min hasta que estén doradas. Saca el secreto de la nevera para que se atempere.",
+    "Mientras, saca el secreto de la nevera para que se atempere. En los últimos 5 min de asado, pon en un hueco de la bandeja las almendras, las avellanas y la rebanada de pan para que se tuesten; sácalos en cuanto estén dorados.",
     "Saca las verduras y tápalas 10 min con un paño para que suden. Pélalas: reserva 1 pimiento y 1 tomate para el romesco y corta el resto (berenjena, pimiento, cebolla, tomate) en tiras para la escalivada. Alíñala con sal, 1 cda de aceite y unas gotas de vinagre.",
     "Tritura el pimiento y el tomate reservados con los frutos secos, el pan, los ajos, el pimentón, el vinagre, 2 cda de aceite y sal hasta tener una salsa espesa con algo de textura. Rectifica de sal y vinagre.",
     "Calienta la plancha a fuego muy fuerte sin aceite. Seca el secreto, sálalo y márcalo 3-4 min por lado: la grasa infiltrada se dorará y el interior debe quedar ligeramente rosado. Déjalo reposar 5 min en una tabla.",
@@ -332,9 +332,9 @@ window.RECETAS_SEED.push({
   cocina: "fusión",
   momentos: ["comida", "cena"],
   proteina: "cerdo",
-  tiempo: 50,
+  tiempo: 45,
   dificultad: "media",
-  equipo: ["horno", "sartén", "cazuela"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "solomillo de cerdo", q: 450, u: "g", nota: "una pieza entera" },
@@ -354,13 +354,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Abre el solomillo a lo largo en libro sin llegar al final, cúbrelo con film y aplánalo con el fondo de un cazo hasta 1,5 cm de grosor. Salpimiéntalo por dentro.",
     "Pica los dátiles y mézclalos con el queso de cabra desmenuzado y las hojas de 2 ramas de tomillo. Reparte el relleno por el centro del solomillo dejando 2 cm libres en los bordes y enróllalo apretando.",
-    "Extiende las lonchas de bacon solapadas sobre la tabla, pon el rollo encima y envuélvelo con ellas. Átalo con hilo de cocina en 3-4 puntos o sujétalo con palillos.",
-    "Calienta el aceite en una sartén apta para horno a fuego fuerte y sella el rollo 2 min por cada lado hasta que el bacon esté dorado. Mete la sartén al horno 18-20 min (63 °C en el centro). Sácalo y déjalo reposar tapado 5 min.",
-    "Mientras, cuece las judías verdes despuntadas en agua hirviendo con sal 4 min. Escúrrelas y saltéalas 2 min en una cazuela con el ajo laminado y el zumo del medio limón.",
-    "Vuelve a poner la sartén del solomillo al fuego, añade el balsámico y 3 cda de agua y reduce 1 min raspando los jugos.",
+    "Extiende las lonchas de bacon solapadas sobre la tabla, pon el rollo encima y envuélvelo con ellas. Átalo con hilo de cocina en 3-4 puntos o sujétalo con palillos. Despunta las judías verdes y lamina el ajo.",
+    "Calienta el aceite en una sartén apta para horno a fuego fuerte y sella el rollo 2 min por cada lado hasta que el bacon esté dorado. Apaga, reparte alrededor las judías y el ajo, dales una vuelta en la grasa con una pizca de sal y mete la sartén al horno 18-20 min (63 °C en el centro), hasta que las judías estén tiernas con puntas tostadas.",
+    "Saca el solomillo y las judías a un plato, riega las judías con el zumo del medio limón y deja reposar la carne tapada 5 min.",
+    "Vuelve a poner la sartén al fuego (cuidado con el mango, quema), añade el balsámico y 3 cda de agua y reduce 1 min raspando los jugos.",
     "Retira el hilo, corta el solomillo en medallones de 2 cm y sírvelos con las judías, la reducción por encima y la rama de tomillo restante."
   ],
-  nutricion: { kcal: 590, prot: 55, hc: 24, grasa: 30 },
+  nutricion: { kcal: 735, prot: 63, hc: 30, grasa: 40 },
   etiquetas: ["al horno", "para invitados", "alta en proteína", "agridulce", "poco especiada"],
   consejo: "Deja la pieza rellena y atada en la nevera hasta 24 h antes: solo tendrás que sellarla y hornearla. Un termómetro de cocina evita que el solomillo se pase.",
   contundencia: "media",
@@ -378,7 +378,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["wok", "cazuela", "sartén"],
+  equipo: ["wok", "cazuela"],
   raciones: 3,
   ingredientes: [
     { n: "cerdo picado", q: 350, u: "g" },
@@ -401,8 +401,8 @@ window.RECETAS_SEED.push({
     "Maja en un mortero los ajos con los chiles (quita las semillas si quieres menos picante). Corta las judías verdes en trozos de 1 cm y la cebolleta en rodajas.",
     "Calienta 1 cda de aceite en el wok a fuego máximo. Añade el majado de ajo y chile y saltea 20 segundos sin que se queme. Incorpora el cerdo picado y saltéalo 4-5 min desmenuzándolo, hasta que esté dorado y suelto.",
     "Agrega las judías y saltea 2 min. Añade la soja, la salsa de pescado y el azúcar y remueve 1 min para que glasee la carne. Apaga el fuego e incorpora la cebolleta y las hojas de albahaca, que se marchitarán con el calor.",
-    "Calienta las 2 cda de aceite restantes en una sartén pequeña a fuego fuerte y fríe los huevos de uno en uno, regando la clara con el aceite, hasta que los bordes estén crujientes y la yema líquida.",
-    "Sirve el arroz, encima el salteado y corona con el huevo frito. Muele pimienta por encima."
+    "Reparte el arroz en los platos con el salteado encima. Calienta las 2 cda de aceite restantes en el mismo wok a fuego fuerte y fríe los huevos de uno en uno, regando la clara con el aceite, hasta que los bordes estén crujientes y la yema líquida.",
+    "Corona cada plato con un huevo frito y muele pimienta por encima."
   ],
   nutricion: { kcal: 610, prot: 31, hc: 39, grasa: 36 },
   etiquetas: ["rápida", "picante", "económica", "wok", "una sola sartén"],
@@ -562,7 +562,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["sartén", "plancha"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "lomo de cerdo", q: 320, u: "g", nota: "4 filetes finos" },
@@ -578,14 +578,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta el calabacín en rodajas de medio centímetro. Hazlas en la plancha caliente con unas gotas de aceite 2 min por lado hasta que tengan marcas doradas. Sálalas y resérvalas.",
+    "Corta el calabacín en rodajas de medio centímetro. Hazlas en la sartén bien caliente con unas gotas de aceite 2 min por lado hasta que tengan marcas doradas. Sálalas y resérvalas.",
     "Aplana un poco los filetes de lomo con la palma de la mano y salpimiéntalos.",
-    "Calienta 1 cda de aceite en la sartén a fuego fuerte y dora los filetes 1-2 min por lado. Pásalos a un plato.",
+    "Calienta 1 cda de aceite en la misma sartén a fuego fuerte y dora los filetes 1-2 min por lado. Pásalos a un plato.",
     "Baja a fuego medio, añade la otra cda de aceite y los ajos laminados y dóralos 30 segundos. Vierte el tomate triturado, el orégano, las alcaparras escurridas, las aceitunas y una pizca de sal. Cocina 6-7 min hasta que la salsa espese.",
     "Devuelve los filetes a la sartén con sus jugos, cúbrelos con la salsa y cocina 2-3 min a fuego suave para que se terminen de hacer sin secarse.",
-    "Sirve con el calabacín a la plancha y las hojas de albahaca rotas por encima."
+    "Sirve con el calabacín y las hojas de albahaca rotas por encima."
   ],
-  nutricion: { kcal: 440, prot: 38, hc: 14, grasa: 26 },
+  nutricion: { kcal: 455, prot: 40, hc: 12, grasa: 27 },
   etiquetas: ["rápida", "ligera", "económica", "una sola sartén", "poco especiada"],
   consejo: "Con un buen pan para mojar se convierte en una comida más completa. Si el tomate está ácido, una pizca de azúcar lo arregla.",
   contundencia: "ligera",
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 90,
   dificultad: "fácil",
-  equipo: ["horno", "bol", "sartén", "cazuela"],
+  equipo: ["horno", "bol", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "lomo de cerdo", q: 350, u: "g", nota: "cortado en 2 tiras largas de 4 cm de grosor" },
@@ -724,14 +724,14 @@ window.RECETAS_SEED.push({
     "Ralla el ajo y el jengibre y mézclalos en un bol con la soja, 2 cda de miel, las cinco especias, el tomate concentrado, el vinagre y el aceite de sésamo. Reserva 3 cda de la marinada y embadurna las tiras de lomo con el resto. Deja marinar 1 h en la nevera (o toda la noche). Precalienta el horno a 200 °C unos 15 min antes de que termine el marinado.",
     "Pon una rejilla sobre una bandeja con un dedo de agua (evita que los goteos se quemen) y coloca encima las tiras escurridas.",
     "Hornea 12 min, dales la vuelta, píntalas con la marinada reservada y hornea 10 min más. Mezcla la cda de miel restante con la marinada que quede, pinta otra vez y gratina 3 min vigilando hasta que los bordes estén oscuros y brillantes.",
-    "Mientras, cuece el arroz jazmín lavado con 1,5 veces su volumen de agua: 12 min tapado a fuego mínimo y 5 min de reposo. Corta el pak choi a lo largo en cuartos.",
-    "Saltea el pak choi 3 min en una sartén muy caliente con 2 cda de agua y una pizca de sal, hasta que el tallo esté tierno pero crujiente.",
+    "Mientras, pon a cocer el arroz jazmín lavado con 1,5 veces su volumen de agua, tapado a fuego mínimo. Corta el pak choi a lo largo en cuartos.",
+    "A los 9 min de cocción, coloca el pak choi sobre el arroz con una pizca de sal, vuelve a tapar y deja 3 min más al fuego y 5 de reposo: se hará al vapor hasta que el tallo esté tierno pero crujiente.",
     "Deja reposar el lomo 5 min y córtalo en lonchas de medio centímetro. Sírvelo sobre el arroz con el pak choi, los jugos de la bandeja y el sésamo por encima."
   ],
-  nutricion: { kcal: 520, prot: 38, hc: 65, grasa: 12 },
+  nutricion: { kcal: 645, prot: 48, hc: 83, grasa: 14 },
   etiquetas: ["al horno", "marinado", "agridulce", "para niños", "ideal para llevar"],
   consejo: "El tiempo de marinado cuenta en el total, pero el trabajo real son 20 minutos. Si no tienes cinco especias, usa una pizca de canela, otra de anís estrellado molido y pimienta.",
-  alternativa: "¿No hay pak choi? Saltea 300 g de brócoli en ramilletes o de acelga tierna con un poco de ajo; el brócoli pide 2-3 min más de sartén.",
+  alternativa: "¿No hay pak choi? Pon sobre el arroz 300 g de brócoli en ramilletes pequeños o de acelga tierna en tiras; el brócoli pide entrar 2-3 min antes que el pak choi.",
   contundencia: "media",
   coste: "media"
 });
@@ -887,7 +887,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["plancha", "sartén", "cazuela", "bol"],
+  equipo: ["sartén", "cazuela", "bol"],
   raciones: 3,
   ingredientes: [
     { n: "presa ibérica", q: 400, u: "g" },
@@ -910,8 +910,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a cocer el arroz integral en una cazuela con abundante agua y sal: necesita 30-35 min. Escúrrelo al terminar.",
     "Mientras, ralla el jengibre y el ajo y mézclalos en un bol con el miso, 1 cda de soja, la miel y el aceite de sésamo. Unta la presa por todos lados y déjala marinar a temperatura ambiente mientras se hace el arroz.",
-    "Limpia las setas con un paño y trocéalas y corta la cebolleta en rodajas. Calienta el aceite de oliva en una sartén a fuego muy fuerte y saltea las setas 6-7 min sin remover demasiado, hasta que estén doradas. Añade la cebolleta y la otra cda de soja y saltea 1 min más.",
-    "Retira el exceso de marinada de la presa con el dorso de un cuchillo (el miso se quema con facilidad). Calienta la plancha a fuego fuerte y marca la pieza 3-4 min por lado, hasta que esté dorada por fuera y rosada en el centro.",
+    "Limpia las setas con un paño y trocéalas y corta la cebolleta en rodajas. Calienta el aceite de oliva en una sartén a fuego muy fuerte y saltea las setas 6-7 min sin remover demasiado, hasta que estén doradas. Añade la cebolleta y la otra cda de soja, saltea 1 min más y sácalas a un plato.",
+    "Retira el exceso de marinada de la presa con el dorso de un cuchillo (el miso se quema con facilidad). Pasa un papel por la sartén, ponla a fuego fuerte y marca la pieza 3-4 min por lado, hasta que esté dorada por fuera y rosada en el centro.",
     "Déjala reposar 5 min en una tabla y córtala en láminas de 1 cm al bies. Muele pimienta por encima.",
     "Sirve el arroz con las setas, la presa encima, el sésamo, unas gotas de lima y gajos de lima aparte."
   ],
