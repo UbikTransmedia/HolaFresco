@@ -1079,7 +1079,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["batidora", "tabla", "bol"],
+  equipo: ["tabla", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "nueces", q: 70, u: "g" },
@@ -1097,14 +1097,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pon las nueces en el vaso de la batidora o picadora con el chipotle, el comino, el pimentón y la soja. Tritura a golpes cortos, 5-6 pulsaciones, hasta que tenga textura de carne picada; si te pasas, se convierte en pasta.",
+    "Pica las nueces a cuchillo, sin prisa, hasta que tengan textura de carne picada: trozos pequeños e irregulares, sin llegar a polvo. Pica muy fino el chipotle y mézclalo en un bol con las nueces, el comino, el pimentón y la soja.",
     "Escurre y enjuaga las alubias negras, aplasta ligeramente la mitad con un tenedor y mézclalas con el picadillo de nueces.",
     "Para el pico de gallo, pica el tomate sin semillas, la cebolla morada y la mitad del cilantro; aliña con el zumo de una lima y sal.",
     "Machaca el aguacate con el zumo de la otra lima y una pizca de sal.",
     "Separa las hojas de lechuga más bonitas, lávalas y sécalas bien: serán las tortillas.",
     "Rellena cada hoja con el picadillo, una cucharada de aguacate y pico de gallo, y termina con cilantro."
   ],
-  nutricion: { kcal: 505, prot: 17, hc: 29, grasa: 35 },
+  nutricion: { kcal: 555, prot: 20, hc: 35, grasa: 35 },
   etiquetas: ["sin cocción", "creativa", "vegana", "rápida", "verano", "superalimentos"],
   consejo: "El picadillo de nueces es un clásico de la cocina crudivegana de California. Aguanta 3 días en la nevera y sirve también para rellenar tortillas de maíz o una ensalada. El chipotle en adobo se vende en lata; sustitúyelo por 1/2 cucharadita de chipotle en polvo.",
   tupper: false,
@@ -1348,7 +1348,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["batidora", "bol", "tabla"],
+  equipo: ["bol", "tabla"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g" },
@@ -1368,14 +1368,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre y enjuaga los garbanzos y sécalos con un paño.",
-    "Prepara la leche de tigre: tritura en la batidora el zumo de las limas y de la media naranja con los tallos del cilantro, un trozo de cebolla, medio jalapeño y sal, y cuélala.",
+    "Prepara la leche de tigre: pica muy finos los tallos del cilantro, un trozo de cebolla y medio jalapeño, y mézclalos en un bol con el zumo de las limas y de la media naranja y sal.",
     "Corta el resto de la cebolla en juliana muy fina y lávala con agua fría para suavizarla. Pica el resto del jalapeño sin semillas.",
     "Corta el mango, el tomate sin semillas y el pepino en dados de 1 cm.",
-    "En un bol, mezcla los garbanzos con la leche de tigre y el aceite y deja 10 minutos en la nevera para que se impregnen. Mientras, corta el aguacate en láminas.",
+    "Añade al bol de la leche de tigre los garbanzos y el aceite, mezcla y deja 10 minutos en la nevera para que se impregnen. Mientras, corta el aguacate en láminas.",
     "Añade el mango, el tomate, el pepino, la cebolla, el jalapeño y las hojas de cilantro, y mezcla. Prueba de sal y lima.",
     "Sirve el ceviche en cuencos con el aguacate y las tostadas de maíz para usarlas como cuchara."
   ],
-  nutricion: { kcal: 655, prot: 19, hc: 77, grasa: 29 },
+  nutricion: { kcal: 685, prot: 21, hc: 82, grasa: 28 },
   etiquetas: ["sin cocción", "creativa", "vegana", "sin gluten", "rápida", "verano", "superalimentos"],
   consejo: "Los garbanzos no se «cocinan» con el ácido como el pescado, pero absorben la leche de tigre y quedan muy sabrosos. Si quieres hacerlo con antelación, mezcla los garbanzos con la leche de tigre y guarda aparte el mango, el aguacate y las tostadas: así aguanta hasta un día.",
   tupper: false,

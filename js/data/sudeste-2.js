@@ -346,7 +346,7 @@ window.RECETAS_SEED.push({
   proteina: "cordero",
   tiempo: 30,
   dificultad: "media",
-  equipo: ["sartén", "wok", "cazuela"],
+  equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "cordero (chuletas)", q: 400, u: "g", nota: "unas 6 chuletas de palo o riñonada" },
@@ -367,13 +367,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Saca las chuletas de la nevera 15 minutos antes. Pon a cocer el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos. Mientras, pica la chalota y el ajo, corta el chile en rodajas y parte el pak choi a lo largo.",
     "Tuesta la pimienta machacada en la sartén en seco 1 minuto a fuego medio, hasta que huela intensamente. Resérvala.",
+    "En la misma sartén, saltea el pak choi con 2 cucharadas de agua y una pizca de sal 2-3 minutos, hasta que los tallos estén tiernos pero crujientes. Repártelo en los platos.",
     "Sala ligeramente las chuletas. Calienta el aceite en la sartén a fuego fuerte y márcalas 2 minutos por cada lado, hasta que estén doradas y rosadas por dentro. Déjalas reposar en un plato.",
     "Baja el fuego a medio, retira el exceso de grasa y funde la mantequilla. Sofríe la chalota, el ajo y el chile 2 minutos, sin que se quemen.",
     "Añade la pimienta tostada, la salsa de ostras, la soja oscura, el azúcar y 3 cucharadas de agua. Cuando burbujee y espese, unos 30 segundos, devuelve las chuletas con su jugo y dales vueltas para glasearlas.",
-    "Mientras, saltea el pak choi en el wok con 2 cucharadas de agua y una pizca de sal, 2-3 minutos, hasta que los tallos estén tiernos pero crujientes.",
-    "Sirve las chuletas napadas con la salsa, el pak choi y el arroz."
+    "Sirve las chuletas napadas con la salsa junto al pak choi y el arroz."
   ],
-  nutricion: { kcal: 740, prot: 33, hc: 68, grasa: 37 },
+  nutricion: { kcal: 785, prot: 33, hc: 70, grasa: 41 },
   etiquetas: ["creativa", "picante", "para invitados"],
   consejo: "La salsa de pimienta negra nació en los puestos de Singapur en los años cincuenta para el cangrejo; aquí se aprovecha con cordero, que aguanta bien su fuerza. Machaca la pimienta en el mortero, no la muelas: los trozos gruesos son los que dan el carácter.",
   alternativa: "Sin pak choi, saltea 300 g de col china en tiras anchas, primero las pencas 1 min y luego las hojas; la soja oscura se puede cambiar por soja normal con 1/2 cdta de azúcar moreno, aunque el glaseado queda algo menos oscuro.",
@@ -951,7 +951,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["wok", "sartén", "cazuela"],
+  equipo: ["wok", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "tortillas de trigo", q: 4, u: "ud", nota: "finas, de unos 20 cm; o obleas de popiah congeladas" },
@@ -974,15 +974,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela el nabo y la zanahoria y córtalos en juliana fina (o rállalos grueso). Pica el ajo. Corta el tofu en bastones finos y sécalo con papel.",
+    "Pela el nabo y la zanahoria y córtalos en juliana fina (o rállalos grueso). Pica el ajo. Corta el tofu en bastones finos y sécalo con papel. Bate los huevos con una pizca de sal.",
     "Calienta 1 cucharada de aceite en el wok a fuego medio y dora el tofu 5 minutos. Sácalo. En el mismo aceite sofríe el ajo 30 segundos y añade el nabo, la zanahoria, la soja, el azúcar, pimienta blanca y 4 cucharadas de agua.",
-    "Cuece a fuego medio-suave 12-15 minutos, removiendo de vez en cuando, hasta que las verduras estén muy tiernas y casi sin líquido. Mézclalas con el tofu.",
-    "Mientras, bate los huevos con una pizca de sal y cuájalos en la sartén con el resto del aceite en 2 tortillas muy finas, 1 minuto por cara. Enróllalas y córtalas en tiras finas.",
-    "Tuesta los cacahuetes en la sartén en seco 3 minutos, machácalos gruesos y mézclalos con la cebolla frita. Escalda los brotes de soja 20 segundos en agua hirviendo y escúrrelos bien. Calienta las tortillas 20 segundos por cara para que se vuelvan flexibles.",
+    "Cuece a fuego medio-suave 12-15 minutos, removiendo de vez en cuando, hasta que las verduras estén muy tiernas y casi sin líquido. Mientras, tuesta los cacahuetes en la sartén en seco 3 minutos, machácalos gruesos y mézclalos con la cebolla frita. En la misma sartén, con el resto del aceite, cuaja los huevos en 2 tortillas muy finas, 1 minuto por cara; enróllalas y córtalas en tiras. Por último, calienta las tortillas de trigo 20 segundos por cara para que se vuelvan flexibles.",
+    "Pon los brotes de soja sobre las verduras del wok, tapa 1 minuto para que se escalden con el vapor y sácalos aparte. Mezcla las verduras con el tofu.",
     "Para montar cada popiah, unta una tortilla con hoisin y un poco de sambal, pon una hoja de lechuga, 3 cucharadas del relleno bien escurrido, brotes, tiras de huevo y la mezcla de cacahuete. Dobla los lados hacia dentro y enrolla apretando.",
     "Corta cada rollo en tres trozos y sírvelos al momento, antes de que el jugo del relleno ablande la tortilla."
   ],
-  nutricion: { kcal: 750, prot: 30, hc: 67, grasa: 40 },
+  nutricion: { kcal: 865, prot: 40, hc: 76, grasa: 44 },
   etiquetas: ["creativa", "para compartir", "económica"],
   consejo: "En Singapur, Penang y también en Vietnam (bò bía) el popiah se envuelve en una crepe finísima de trigo, y su relleno de jícama guisada lleva a menudo gambas y salchicha china; el nabo daikon o el colinabo se le parecen mucho. El relleno se puede hacer con antelación: aguanta 3 días en la nevera y se sirve templado o frío. Monta los rollos justo al comer.",
   tupper: false,

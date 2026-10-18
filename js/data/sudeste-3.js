@@ -68,7 +68,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "tofu firme", q: 200, u: "g" },
@@ -90,15 +90,15 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el tofu en dados de 2,5 cm, sécalo bien y dóralo en la sartén con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, girándolo, hasta que tenga costra dorada. Resérvalo.",
-    "Pela el boniato y la zanahoria y córtalos en trozos de 3 cm (la zanahoria algo más pequeña, porque tarda más). Limpia los champiñones y pártelos por la mitad.",
+    "Corta el tofu en dados de 2,5 cm, sécalo bien y dóralo en la cazuela con 1 cucharada de aceite a fuego medio-alto 6-8 minutos, girándolo, hasta que tenga costra dorada. Resérvalo en un plato.",
+    "Mientras se dora, pela el boniato y la zanahoria y córtalos en trozos de 3 cm (la zanahoria algo más pequeña, porque tarda más). Limpia los champiñones y pártelos por la mitad.",
     "Pica fina la parte tierna de una rama de hierba limón y chafa la otra. Pica las chalotas y el ajo.",
-    "En la cazuela, con la otra cucharada de aceite, sofríe a fuego medio las chalotas, el ajo y la hierba limón picada 3 minutos, hasta que estén blandos. Añade el curry en polvo y remueve 30 segundos, solo hasta que huela, sin que se queme.",
+    "En la misma cazuela, con la otra cucharada de aceite, sofríe a fuego medio las chalotas, el ajo y la hierba limón picada 3 minutos, hasta que estén blandos. Añade el curry en polvo y remueve 30 segundos, solo hasta que huela, sin que se queme.",
     "Agrega el boniato, la zanahoria, la hierba limón chafada, el anís estrellado y el caldo. Cuece tapado 12 minutos a fuego medio.",
     "Incorpora la leche de coco, la salsa de soja, el azúcar y los champiñones, y cuece destapado 8-10 minutos a fuego suave, hasta que el boniato se deje atravesar fácilmente y la salsa espese un poco.",
     "Añade el tofu, calienta 2 minutos y retira la hierba limón y el anís. Prueba de sal y sirve con la albahaca por encima y la baguette, tostada si quieres, para mojar."
   ],
-  nutricion: { kcal: 828, prot: 28, hc: 89, grasa: 40 },
+  nutricion: { kcal: 900, prot: 33, hc: 89, grasa: 46 },
   etiquetas: ["tradicional", "vegana", "de cuchara", "batch cooking", "sin lácteos", "otoño"],
   consejo: "Es el curry de la cocina «chay», la vegetariana de los monasterios budistas de Vietnam, que se come sobre todo los días 1 y 15 del mes lunar; el pan es herencia francesa, pero también se sirve con fideos de arroz. El polvo de curry vietnamita es suave y anisado: si el tuyo es indio y picante, pon 1 cucharada. Aguanta 3 días en la nevera.",
   tupper: true,
@@ -117,7 +117,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 105,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 3,
   ingredientes: [
     { n: "jaca verde en lata", q: 400, u: "g", nota: "jaca joven en salmuera, escurrida (unas 2 latas); no la madura en almíbar" },
@@ -139,10 +139,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Escurre la jaca, enjuágala y córtala en trozos de 3 cm, quitando la parte central más dura si la tiene. Cúbrela de agua en la cazuela, lleva a ebullición y cuécela 10 minutos; escúrrela. Así pierde el sabor a lata.",
-    "Mientras cuece, tritura las chalotas, el ajo, las almendras, el jengibre y el cilantro molido con 3 cucharadas de agua hasta tener una pasta fina.",
-    "Calienta media cucharada de aceite en la cazuela a fuego medio y sofríe la pasta con el laurel 5 minutos, removiendo, hasta que esté fragante y empiece a dorarse.",
-    "Añade la jaca, la leche de coco, 300 ml de agua, el azúcar de palma, la soja dulce y 1 cucharadita de sal. Lleva a un hervor suave, tapa a medias y cuece a fuego muy bajo 60 minutos, removiendo de vez en cuando con cuidado.",
-    "Durante ese tiempo, corta el tofu en triángulos, sécalo y dóralo en la sartén con el resto del aceite 6-8 minutos, hasta que esté dorado. Corta el chile en rodajas.",
+    "Mientras cuece, tritura las chalotas, el ajo, las almendras, el jengibre y el cilantro molido con 3 cucharadas de agua hasta tener una pasta fina, y corta el tofu en triángulos y sécalo.",
+    "Calienta el aceite en la cazuela vacía y dora el tofu 6-8 minutos, hasta que esté dorado. Sácalo a un plato y deja en la cazuela el aceite que quede.",
+    "Sofríe en ese aceite la pasta con el laurel a fuego medio 5 minutos, removiendo, hasta que esté fragante y empiece a dorarse.",
+    "Añade la jaca, la leche de coco, 300 ml de agua, el azúcar de palma, la soja dulce y 1 cucharadita de sal. Lleva a un hervor suave, tapa a medias y cuece a fuego muy bajo 60 minutos, removiendo de vez en cuando con cuidado. Durante ese tiempo, corta el chile en rodajas.",
     "Destapa y sigue cociendo 15-20 minutos, removiendo más a menudo, hasta que el líquido casi haya desaparecido, la jaca tenga color caramelo y se deshaga en hebras al apretarla. A la vez, cuece el arroz lavado con 210 ml de agua, tapado y a fuego mínimo, 12 minutos.",
     "Retira el laurel y sirve el gudeg sobre el arroz con el tofu al lado y el chile para quien quiera picante."
   ],
@@ -260,7 +260,7 @@ window.RECETAS_SEED.push({
   proteina: "tempeh",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["airfryer", "sartén", "cazuela", "batidora"],
+  equipo: ["airfryer", "sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "berenjena", q: 2, u: "ud", nota: "unos 500 g" },
@@ -280,12 +280,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a cocer el arroz lavado con 180 ml de agua, tapado y a fuego mínimo, 12 minutos; después deja reposar 10 minutos sin destapar.",
     "Parte las berenjenas por la mitad a lo largo, hazles cortes en rombo en la pulpa sin llegar a la piel, pincélalas con 2 cucharaditas de aceite y sálalas. Ásalas en la airfryer a 200 °C 16-18 minutos, hasta que la pulpa esté dorada y muy blanda.",
-    "Mientras se asan, corta el tempeh en bastones de 1 cm y mézclalo con la salsa de soja dulce y 1 cucharadita de aceite. Para el balado, tritura de forma grosera los tomates, los chiles, las chalotas y el ajo: debe quedar con textura, no un puré.",
+    "Mientras se asan, corta el tempeh en bastones de 1 cm y mézclalo con la salsa de soja dulce y 1 cucharadita de aceite. Para el balado, pica a cuchillo los tomates, los chiles, las chalotas y el ajo en trocitos pequeños: debe quedar con textura, no un puré.",
     "Saca las berenjenas y haz el tempeh en la airfryer a 200 °C 10-12 minutos, sacudiendo a mitad, hasta que esté dorado y crujiente.",
-    "Mientras, calienta el resto del aceite en la sartén y fríe el triturado a fuego medio 8-10 minutos, removiendo, hasta que se reduzca, se oscurezca y el aceite empiece a separarse por los bordes. Sazona con el azúcar, sal y el zumo de media lima.",
+    "Mientras, calienta el resto del aceite en la sartén y fríe el picado a fuego medio 8-10 minutos, removiendo y aplastándolo con la cuchara, hasta que se reduzca, se oscurezca y el aceite empiece a separarse por los bordes. Sazona con el azúcar, sal y el zumo de media lima.",
     "Sirve las berenjenas cubiertas con el balado caliente, el tempeh al lado, el arroz y gajos de lima."
   ],
-  nutricion: { kcal: 633, prot: 27, hc: 75, grasa: 25 },
+  nutricion: { kcal: 705, prot: 30, hc: 90, grasa: 25 },
   etiquetas: ["creativa", "vegana", "picante", "airfryer", "alta en proteína", "sin lácteos", "bajo en colesterol"],
   consejo: "El balado es un sambal de chile y tomate de Sumatra occidental; en Indonesia la berenjena (terong balado) se fríe en abundante aceite, y la airfryer consigue la misma pulpa cremosa con mucha menos grasa. Para bajar el picante, quita las semillas a los chiles. El balado aguanta 5 días en la nevera y sirve también para huevos o patatas.",
   alternativa: "Sin airfryer, asa las medias berenjenas en el horno a 220 °C 25-30 min y después el tempeh 12-15 min, girándolo a mitad; si no encuentras tempeh, usa 250 g de tofu firme bien prensado en bastones.",
@@ -458,13 +458,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir un cazo con agua para los brotes. Mientras, tuesta los cacahuetes en la sartén en seco 3-4 minutos, déjalos enfriar y machácalos en trozos gruesos. Resérvalos.",
-    "Corta el tofu en dados de 2 cm, sécalo y dóralo en la sartén con el aceite a fuego medio-alto 6-8 minutos, hasta que esté crujiente por todas las caras.",
+    "Corta el tofu en dados de 2 cm, sécalo y dóralo en la sartén con el aceite a fuego medio-alto 6-8 minutos, hasta que esté crujiente por todas las caras. Sácalo y limpia la sartén con papel.",
     "Escalda los brotes de soja 30 segundos en el agua hirviendo y pásalos a agua fría. Pica el chile.",
-    "Si usas belacan, tuéstalo en la sartén limpia 1 minuto, aplastándolo, hasta que huela intenso. Mézclalo en un cazo con el tamarindo, el azúcar, el zumo de media lima, el chile y 2 cucharadas de agua, y calienta 1-2 minutos removiendo hasta que quede una salsa espesa y brillante. Deja templar.",
+    "Si usas belacan, tuéstalo en la sartén 1 minuto, aplastándolo, hasta que huela intenso. Añade a la misma sartén el tamarindo, el azúcar, el zumo de media lima, el chile y 2 cucharadas de agua, y calienta 1-2 minutos removiendo hasta que quede una salsa espesa y brillante. Deja templar.",
     "Mientras templa, corta la piña, el pepino y el mango en trozos irregulares de bocado.",
     "Justo antes de comer, mezcla la fruta, el pepino, los brotes y el tofu con la salsa y la mitad de los cacahuetes. Sirve con el resto de los cacahuetes por encima y gajos de lima."
   ],
-  nutricion: { kcal: 517, prot: 20, hc: 53, grasa: 25 },
+  nutricion: { kcal: 550, prot: 24, hc: 57, grasa: 26 },
   etiquetas: ["tradicional", "rápida", "sin gluten", "sin lácteos", "verano", "económica"],
   consejo: "«Rojak» significa mezcla en malayo. El de los puestos de Singapur lleva jícama, tau pok (tofu frito esponjoso) y you tiao, y su salsa negra se hace con hae ko, una melaza de gambas fermentadas. Con belacan sale un poco más salado: compensa con azúcar. Si quieres una versión vegana, sustituye la pasta de gambas por 1 cucharadita de miso.",
   tupper: false,
@@ -806,7 +806,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["wok", "sartén", "bol"],
+  equipo: ["wok", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de arroz", q: 140, u: "g", nota: "de los gruesos" },
@@ -829,11 +829,11 @@ window.RECETAS_SEED.push({
     "Mientras se remojan, corta la ternera en tiras finas contra la fibra y mézclala con 1 cucharadita de salsa de soja dulce y pimienta. Mezcla en un bol el resto de la soja dulce, la salsa de ostras, la de pescado y el azúcar. Pica el ajo y corta el cebollino en trozos de 4 cm.",
     "Calienta el wok a fuego fuerte con 1 cucharada de aceite y saltea la ternera 1-1,5 minutos, solo hasta que se dore por fuera. Sácala.",
     "En el mismo wok, saltea el ajo 15 segundos, añade los fideos y la mezcla de salsas y saltea 2-3 minutos, hasta que estén brillantes, tostaditos por algunos puntos y tiernos.",
-    "Devuelve la ternera, añade los brotes y el cebollino y saltea 1 minuto más. Aparta el wok del fuego.",
-    "Fríe enseguida los huevos en la sartén con el resto del aceite, con la clara cuajada y la yema líquida.",
-    "Sirve los fideos con un huevo frito encima de cada ración y la pasta de chile al lado, para que cada uno la mezcle a su gusto."
+    "Devuelve la ternera, añade los brotes y el cebollino y saltea 1 minuto más. Reparte los fideos en los platos.",
+    "Sin lavar el wok, calienta el resto del aceite a fuego medio-alto y fríe los huevos, con la clara cuajada y la yema líquida.",
+    "Pon un huevo frito encima de cada ración y sirve con la pasta de chile al lado, para que cada uno la mezcle a su gusto."
   ],
-  nutricion: { kcal: 631, prot: 36, hc: 70, grasa: 23 },
+  nutricion: { kcal: 675, prot: 36, hc: 75, grasa: 24 },
   etiquetas: ["tradicional", "al wok", "sin lácteos", "para niños"],
   consejo: "En Camboya el lort cha se hace con fideos cortos de harina de arroz y tapioca (lort), que se encuentran a veces en tiendas asiáticas como «silver needle noodles»; los fideos de arroz cortados son el sustituto más fácil. La salsa de ostras y la de soja dulce suelen llevar trigo: si necesitas que sea sin gluten, busca versiones aptas.",
   tupper: false,
@@ -995,7 +995,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["wok", "batidora", "sartén", "cazuela"],
+  equipo: ["wok", "batidora", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de arroz", q: 160, u: "g", nota: "gruesos, tipo vermicelli de laksa" },
@@ -1020,12 +1020,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Remoja las guindillas sin semillas en agua caliente 10 minutos. Mientras, pon a hervir agua para los fideos y corta el tofu en dados de 2 cm y sécalo.",
     "Tritura las guindillas en la batidora con las chalotas, el ajo, el jengibre, la parte tierna de la hierba limón, la cúrcuma, los anacardos, la pasta de gambas y 2 cucharadas de agua hasta tener una pasta (rempah) fina.",
-    "Cuece los fideos en el agua hirviendo según el envase, quitándoles 1 minuto, escúrrelos y pásalos por agua fría. Mientras cuecen, dora el tofu en la sartén con 1 cucharada de aceite 6-8 minutos, hasta que esté crujiente. Pica la menta.",
-    "Calienta el resto del aceite en el wok a fuego medio y fríe la rempah 6-8 minutos, removiendo, hasta que se oscurezca, huela tostado y el aceite se separe de la pasta: es la clave del sabor, no la acortes.",
+    "Cuece los fideos en el agua hirviendo según el envase, quitándoles 1 minuto, escúrrelos y pásalos por agua fría. Mientras cuecen, dora el tofu en el wok con 1 cucharada de aceite 6-8 minutos, hasta que esté crujiente, y sácalo a un plato. Pica la menta.",
+    "Calienta el resto del aceite en el mismo wok a fuego medio y fríe la rempah 6-8 minutos, removiendo, hasta que se oscurezca, huela tostado y el aceite se separe de la pasta: es la clave del sabor, no la acortes.",
     "Sube el fuego, añade los langostinos y saltéalos 2 minutos, hasta que estén rosados. Vierte la leche de coco y deja que hierva 1-2 minutos, hasta que espese.",
     "Incorpora los fideos y los brotes de soja y saltea 2 minutos, hasta que la salsa los cubra y se absorba. Añade el tofu, prueba de sal y sirve con la menta y gajos de lima."
   ],
-  nutricion: { kcal: 824, prot: 36, hc: 80, grasa: 40 },
+  nutricion: { kcal: 870, prot: 37, hc: 86, grasa: 42 },
   etiquetas: ["creativa", "picante", "al wok", "sin gluten", "sin lácteos"],
   consejo: "El laksa goreng (laksa frito) se vende en algunos puestos de Singapur como alternativa al laksa de caldo. La rempah se puede hacer el triple y congelar en porciones: con ella tienes también la base para un laksa de sopa. Si no tienes pasta de gambas, añade 1 cucharadita de salsa de pescado al final.",
   tupper: true,
@@ -1160,14 +1160,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir agua para los fideos. Mientras, corta el pepino en bastoncitos finos y mézclalo con el vinagre de arroz y una pizca de sal y azúcar: será el encurtido rápido que sustituye a la mostaza china encurtida. Pica la chalota, la cebolleta y el cilantro, y ralla los tomates desechando la piel.",
-    "Lamina el ajo y fríelo en el aceite a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite de ajo.",
-    "En la sartén, con 1 cucharada de ese aceite, sofríe la chalota 3 minutos. Añade el pimentón y la cúrcuma, remueve 30 segundos e incorpora el tofu desmenuzado con las manos. Cocina 5 minutos a fuego medio-alto, hasta que empiece a dorarse.",
+    "Pon a hervir agua para los fideos. Mientras, corta el pepino en bastoncitos finos y mézclalo en un bol con el vinagre de arroz y una pizca de sal y azúcar: será el encurtido rápido que sustituye a la mostaza china encurtida. Pica la chalota, la cebolleta y el cilantro, ralla los tomates desechando la piel, lamina el ajo y desmenuza el tofu con las manos.",
+    "Tuesta los cacahuetes en la sartén en seco 3 minutos, sácalos y machácalos. En la misma sartén, fríe el ajo en el aceite a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite de ajo en una taza.",
+    "En la sartén, con 1 cucharada de ese aceite, sofríe la chalota 3 minutos. Añade el pimentón y la cúrcuma, remueve 30 segundos e incorpora el tofu. Cocina 5 minutos a fuego medio-alto, hasta que empiece a dorarse.",
     "Añade el tomate rallado con la salsa de soja y el azúcar. Cuece 8-10 minutos a fuego medio, hasta que la salsa espese y el aceite asome por los bordes.",
-    "Mientras, cuece los fideos según el envase, escúrrelos y mézclalos en caliente con el resto del aceite de ajo. Tuesta los cacahuetes en una sartén en seco 3 minutos y machácalos.",
+    "Mientras, cuece los fideos según el envase, escúrrelos y mézclalos en caliente con el resto del aceite de ajo.",
     "Reparte los fideos en boles, cúbrelos con la salsa de tofu y termina con los cacahuetes, el ajo frito, la cebolleta y el cilantro, la guindilla desmenuzada si te gusta el picante y el pepino encurtido al lado."
   ],
-  nutricion: { kcal: 647, prot: 26, hc: 75, grasa: 27 },
+  nutricion: { kcal: 700, prot: 29, hc: 81, grasa: 28 },
   etiquetas: ["creativa", "vegana", "sin lácteos", "económica", "batch cooking"],
   consejo: "Los fideos shan (shan khauk swè) se hacen normalmente con pollo o cerdo picado en salsa de tomate; el tofu desmenuzado da una textura parecida y deja el plato totalmente vegetal. Puedes tomarlos secos, como aquí, o con un cazo de caldo caliente por encima. La salsa aguanta 4 días en la nevera; guarda los fideos y los crujientes aparte.",
   tupper: true,
