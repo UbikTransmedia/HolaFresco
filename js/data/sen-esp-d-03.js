@@ -87,10 +87,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el arroz en una cazuela con los 330 ml de agua y sal. Cuando hierva, tapa y cuécelo a fuego suave 12 minutos; apaga y déjalo reposar tapado.",
     "Mientras, pica el perejil y la parte verde de la cebolleta y corta las gambas en dados pequeños. Seca los filetes de lenguado con papel de cocina, salpiméntalos y extiéndelos con la cara donde estaba la piel hacia arriba. Reparte encima las gambas y la mitad del perejil, enróllalos desde la parte ancha y sujétalos con un palillo.",
-    "Calienta el aceite de ajo en una sartén honda a fuego medio y rehoga la cebolleta 1 minuto. Añade la harina de arroz, remueve 30 segundos y vierte el caldo poco a poco, sin dejar de remover, hasta que hierva y espese ligeramente.",
-    "Coloca los rollitos en la salsa, tapa y cuécelos a fuego suave 8 minutos, dándoles la vuelta a mitad, hasta que estén blancos y opacos por fuera y el relleno se vea rosado.",
-    "Mientras se hacen, saltea las espinacas en otra sartén con el aceite de oliva a fuego fuerte 2 minutos, hasta que se reduzcan, y sálalas. Ralla la piel del limón y exprime la mitad.",
-    "Retira los palillos y añade a la salsa el resto del perejil, la ralladura y el zumo; mueve la sartén para que se mezcle. Suelta el arroz con un tenedor y sírvelo con los rollitos, la salsa por encima, las espinacas al lado y el otro medio limón en gajos."
+    "Calienta el aceite de oliva en una sartén honda a fuego fuerte y saltea las espinacas 2 minutos, hasta que se reduzcan; sálalas y sácalas a un plato.",
+    "En la misma sartén, a fuego medio, calienta el aceite de ajo y rehoga la cebolleta 1 minuto. Añade la harina de arroz, remueve 30 segundos y vierte el caldo poco a poco, sin dejar de remover, hasta que hierva y espese ligeramente.",
+    "Coloca los rollitos en la salsa, tapa y cuécelos a fuego suave 8 minutos, dándoles la vuelta a mitad, hasta que estén blancos y opacos por fuera y el relleno se vea rosado. Mientras se hacen, ralla la piel del limón y exprime la mitad.",
+    "Retira los palillos y añade a la salsa el resto del perejil, la ralladura y el zumo; pon las espinacas a un lado de la sartén 1 minuto para templarlas y mueve la sartén para que la salsa se mezcle. Suelta el arroz con un tenedor y sírvelo con los rollitos, la salsa por encima, las espinacas al lado y el otro medio limón en gajos."
   ],
   nutricion: { kcal: 605, prot: 51, hc: 68, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "sin lácteos", "alta en proteína"],
@@ -157,7 +157,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "plancha", "sartén"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "pechuga de pollo", q: 320, u: "g", nota: "2 filetes gruesos" },
@@ -178,8 +178,8 @@ window.RECETAS_SEED.push({
     "Pon a hervir agua con sal en una cazuela. Mientras se calienta, pela las patatas y córtalas en trozos de 3 cm; cuando hierva, échalas y cuécelas 15 minutos, hasta que estén tiernas.",
     "Mientras se cuecen, ralla el manchego, pica el cebollino y abre las pechugas en filetes de 1 cm; sécalas con papel de cocina y salpiméntalas.",
     "Prepara la salsa: en un cazo, disuelve la harina de arroz en la leche fría, añade la nuez moscada y calienta a fuego medio sin dejar de remover con unas varillas 3-4 minutos, hasta que espese y cubra el dorso de una cuchara. Fuera del fuego, añade el manchego y remueve hasta que se funda. Tápala para que no forme piel.",
-    "Calienta la plancha a fuego medio-alto con el aceite de oliva y haz los filetes de pollo 3 minutos por cada lado, hasta que estén dorados y sin rastro rosado en el centro.",
-    "Mientras se hace el pollo, saltea las espinacas en una sartén con el aceite de ajo a fuego fuerte 2 minutos, hasta que se reduzcan, y sálalas.",
+    "Calienta el aceite de ajo en una sartén a fuego fuerte y saltea las espinacas 2 minutos, hasta que se reduzcan; sálalas y sácalas a un plato.",
+    "En la misma sartén, a fuego medio-alto y con el aceite de oliva, haz los filetes de pollo a la plancha 3 minutos por cada lado, hasta que estén dorados y sin rastro rosado en el centro. Al sacarlos, devuelve las espinacas a la sartén 30 segundos para templarlas.",
     "Escurre las patatas. Sirve el pollo napado con la salsa caliente y espolvoreado con el cebollino, con las espinacas y las patatas al lado."
   ],
   nutricion: { kcal: 600, prot: 55, hc: 46, grasa: 20 },
@@ -505,7 +505,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén", "microondas"],
+  equipo: ["cazuela", "batidora", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "pulpo cocido", q: 260, u: "g", nota: "patas ya cocidas" },
@@ -525,8 +525,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el caldo a calentar en una cazuela con el laurel y el verde de la cebolleta en trozos. Mientras se calienta, pela las patatas y córtalas en trozos de 2 cm.",
     "Echa las patatas en el caldo cuando hierva, con una pizca de sal, y cuécelas a fuego medio 14-15 minutos, hasta que se deshagan al pincharlas.",
-    "Mientras se cuecen, saca el pulpo de la nevera para que pierda el frío, córtalo en rodajas de 1 cm y pica el cebollino. Calienta la leche sin lactosa 30 segundos en el microondas.",
-    "Retira el laurel. Añade la leche caliente y el aceite de ajo a la cazuela y tritura con la batidora solo hasta que la crema quede lisa: la patata batida en exceso se vuelve elástica. Si queda espesa, aligérala con un poco de agua caliente. Prueba de sal y mantenla tapada al fuego mínimo.",
+    "Mientras se cuecen, saca el pulpo de la nevera para que pierda el frío, córtalo en rodajas de 1 cm y pica el cebollino.",
+    "Retira el laurel. Añade la leche sin lactosa y el aceite de ajo a la cazuela, deja que vuelva a calentarse 1 minuto y tritura con la batidora solo hasta que la crema quede lisa: la patata batida en exceso se vuelve elástica. Si queda espesa, aligérala con un poco de agua caliente. Prueba de sal y mantenla tapada al fuego mínimo.",
     "Calienta el aceite de oliva en una sartén a fuego suave, añade el pulpo y dale vueltas 2 minutos, solo para templarlo. Apaga, espolvorea el pimentón fuera del fuego y mueve la sartén: el aceite se teñirá de rojo sin que el pimentón se queme.",
     "Sirve la crema en platos hondos y pon encima el pulpo con su aceite rojo, el cebollino y unas escamas de sal."
   ],

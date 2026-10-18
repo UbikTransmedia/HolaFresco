@@ -153,9 +153,9 @@ window.RECETAS_SEED.push({
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "pescado",
-  tiempo: 40,
+  tiempo: 35,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "plancha"],
+  equipo: ["cazuela", "plancha"],
   raciones: 2,
   ingredientes: [
     { n: "bonito fresco", q: 300, u: "g", nota: "2 rodajas de 2 cm" },
@@ -171,11 +171,11 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Lava los pimientos, sécalos, úntalos con 1 cucharadita de aceite de oliva y ásalos enteros en una bandeja 25-30 minutos, dándoles la vuelta a mitad, hasta que la piel se arrugue y tenga manchas tostadas.",
-    "Mientras se asan, pela las patatas, córtalas en trozos de 4 cm y cuécelas en una cazuela con agua fría, sal y el laurel 18-20 minutos desde que hierva. Pica el perejil y mézclalo con el aceite de ajo y una pizca de sal.",
-    "Saca los pimientos, tápalos con un plato 10 minutos para que suden y pélalos; quita el rabo y las semillas y ábrelos en tiras. Alíñalos con su jugo, el vinagre de Jerez y una pizca de sal.",
-    "Escurre las patatas y riégalas con la mitad del aceite de perejil.",
-    "Seca el bonito con papel de cocina y sálalo. Calienta la plancha a fuego fuerte con el resto del aceite de oliva y haz las rodajas 1,5-2 minutos por cada lado: deben quedar doradas por fuera y rosadas en el centro, porque el bonito muy hecho se seca.",
+    "Pela las patatas, córtalas en trozos de 4 cm y ponlas en una cazuela con agua fría, sal y el laurel; cuando hierva, cuécelas 18-20 minutos.",
+    "Mientras, lava los pimientos, sécalos y úntalos con 1 cucharadita de aceite de oliva. Calienta la plancha a fuego medio y ásalos enteros 15-18 minutos, girándolos cada pocos minutos, hasta que la piel se arrugue y tenga manchas tostadas.",
+    "Mientras se asan, pica el perejil y mézclalo con el aceite de ajo y una pizca de sal. Seca el bonito con papel de cocina y sálalo.",
+    "Pasa los pimientos a un plato, tápalos con otro plato 10 minutos para que suden y pélalos; quita el rabo y las semillas y ábrelos en tiras. Alíñalos con su jugo, el vinagre de Jerez y una pizca de sal. Escurre las patatas y riégalas con la mitad del aceite de perejil.",
+    "Limpia la plancha con papel de cocina, ponla a fuego fuerte con el resto del aceite de oliva y haz las rodajas de bonito 1,5-2 minutos por cada lado: deben quedar doradas por fuera y rosadas en el centro, porque el bonito muy hecho se seca.",
     "Sirve el bonito con el resto del aceite de perejil y unas gotas de limón, los pimientos y las patatas."
   ],
   nutricion: { kcal: 500, prot: 37, hc: 34, grasa: 24 },
@@ -285,9 +285,9 @@ window.RECETAS_SEED.push({
   cocina: "española",
   momentos: ["comida", "cena"],
   proteina: "mixto",
-  tiempo: 40,
+  tiempo: 35,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "plancha", "bol"],
+  equipo: ["cazuela", "plancha"],
   raciones: 2,
   ingredientes: [
     { n: "codornices", q: 4, u: "ud", nota: "abiertas en mariposa" },
@@ -306,12 +306,12 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Lava los pimientos, sécalos y ásalos enteros, sin aceite, en una bandeja 25 minutos, dándoles la vuelta a mitad, hasta que la piel se arrugue.",
-    "Mientras, pon las patatas lavadas y con piel en una cazuela con agua fría y sal; cuando hierva, cuécelas 20 minutos. Seca las codornices y úntalas con el aceite de ajo, el pimentón, las hojas del tomillo, la ralladura del limón, sal y pimienta.",
-    "Mientras se hace todo, pica el perejil y el cebollino y bate en un bol el vinagre con el aceite de oliva, el zumo de medio limón y sal: es la vinagreta. Corta el otro medio limón en gajos.",
-    "Saca los pimientos, tápalos con un plato 10 minutos para que suden, pélalos, quítales las semillas y córtalos en tiras. Escurre las patatas, pélalas y córtalas en rodajas gruesas.",
-    "Calienta la plancha a fuego medio-alto y haz las codornices con la piel hacia abajo 5 minutos, presionándolas con una espátula; dales la vuelta y cocina 4-5 minutos más, hasta que el jugo salga claro al pinchar el muslo.",
-    "Mezcla en templado las patatas y los pimientos con la vinagreta, el perejil y el cebollino y sirve las codornices encima con los gajos de limón."
+    "Pon las patatas lavadas y con piel en una cazuela con agua fría y sal; cuando hierva, cuécelas 20 minutos.",
+    "Mientras, lava los pimientos, sécalos y ásalos enteros, sin aceite, en la plancha a fuego medio 15-18 minutos, girándolos cada pocos minutos, hasta que la piel se arrugue y tenga manchas tostadas.",
+    "Mientras se asan, seca las codornices y úntalas con el aceite de ajo, el pimentón, las hojas del tomillo, la ralladura del limón, sal y pimienta. Pica el perejil y el cebollino y corta medio limón en gajos.",
+    "Pasa los pimientos a un plato y tápalos con otro 10 minutos para que suden. Mientras, bate en una fuente el vinagre con el aceite de oliva, el zumo del otro medio limón y sal: es la vinagreta. Pela los pimientos, quítales las semillas y córtalos en tiras. Escurre las patatas, pélalas y córtalas en rodajas gruesas.",
+    "Limpia la plancha con papel de cocina, ponla a fuego medio-alto y haz las codornices con la piel hacia abajo 5 minutos, presionándolas con una espátula; dales la vuelta y cocina 4-5 minutos más, hasta que el jugo salga claro al pinchar el muslo.",
+    "Mezcla en la fuente, en templado, las patatas y los pimientos con la vinagreta, el perejil y el cebollino y sirve las codornices encima con los gajos de limón."
   ],
   nutricion: { kcal: 500, prot: 35, hc: 33, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "sin lácteos", "a la plancha", "para invitados"],
@@ -643,7 +643,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "bol"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 600, u: "g", nota: "2 patatas grandes para asar" },
@@ -664,9 +664,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Lava las patatas, córtalas por la mitad a lo largo, haz unos cortes en cuadrícula en la carne, úntalas con 1 cucharadita de aceite de oliva y sal, y ásalas con el corte hacia arriba 40 minutos, hasta que estén tiernas.",
     "Mientras se asan, pica el pimiento en dados pequeños, lo verde de la cebolleta y el perejil, y ralla el manchego.",
     "Calienta el aceite de ajo y 1 cucharadita de aceite de oliva en una sartén a fuego medio y pocha el pimiento y la cebolleta 5 minutos. Añade la carne y cocínala 5 minutos, desmenuzándola, hasta que pierda el color rosado. Echa el pimentón y el orégano, remueve, añade el tomate y sal, y cocina 8 minutos, hasta que quede un picadillo jugoso pero sin caldo.",
-    "Saca las patatas y vacíalas con una cuchara dejando 1 cm de pared. Chafa la pulpa con un tenedor y mézclala con el picadillo y el perejil.",
+    "Saca las patatas y vacíalas con una cuchara dejando 1 cm de pared. Echa la pulpa en la sartén del picadillo, cháfala con un tenedor y mézclala con el picadillo y el perejil.",
     "Rellena las patatas, cúbrelas con el manchego y gratínalas 8-10 minutos, hasta que el queso esté dorado.",
-    "Mientras se gratinan, corta la lechuga en tiras y alíñala con el resto del aceite de oliva y sal. Sirve las patatas con la ensalada."
+    "Mientras se gratinan, corta la lechuga en tiras, repártela en los platos y alíñala con el resto del aceite de oliva y sal. Sirve las patatas con la ensalada."
   ],
   nutricion: { kcal: 540, prot: 28, hc: 52, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "para niños", "batch cooking"],
@@ -687,7 +687,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "espinacas frescas", q: 400, u: "g" },
@@ -704,10 +704,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en agua con sal 12-15 minutos, hasta que estén tiernas. Pon agua a calentar en un cazo ancho para los huevos.",
-    "Mientras, lava las espinacas y escáldalas en una cazuela con un dedo de agua hirviendo, tapadas, 2 minutos, hasta que se reduzcan. Escúrrelas apretando con una cuchara y pícalas por encima. Pica el perejil.",
-    "Corta el pan en dados y tuéstalo en una sartén con 1 cucharada de aceite de ajo a fuego medio 3 minutos, hasta que esté dorado. Tritúralo (o machácalo en el mortero) con el comino, el pimentón, 1 cucharada de vinagre y 4 cucharadas del agua de las patatas hasta tener una pasta espesa: es el majado.",
-    "Calienta el resto del aceite de ajo en la sartén a fuego medio, añade las espinacas y el majado y cocina 5 minutos, removiendo, hasta que el pan se deshaga y todo quede como un guiso espeso. Sala y añade un poco más de agua de las patatas si se seca.",
+    "Pela las patatas, córtalas en rodajas de 1 cm y cuécelas en una cazuela con agua y sal 12-15 minutos, hasta que estén tiernas. Pon agua a calentar en un cazo ancho para los huevos.",
+    "Mientras, lava las espinacas, escúrrelas un poco y pícalas por encima; pica el perejil. Corta el pan en dados y tuéstalo en una sartén con 1 cucharada de aceite de ajo a fuego medio 3 minutos, hasta que esté dorado.",
+    "Saca el pan a un plato y aplástalo con un tenedor hasta dejarlo en migas finas; mézclalo con el comino, el pimentón, 1 cucharada de vinagre y 4 cucharadas del agua de las patatas hasta tener una pasta espesa: es el majado.",
+    "Calienta el resto del aceite de ajo en la misma sartén a fuego medio, añade las espinacas, tapa y deja 2-3 minutos, hasta que se reduzcan. Destapa, añade el majado y cocina 5 minutos, removiendo, hasta que se evapore el líquido, el pan se deshaga y todo quede como un guiso espeso. Sala y añade un poco más de agua de las patatas si se seca.",
     "Cuando el agua del cazo apenas tiemble, añade el resto del vinagre, casca cada huevo en una taza y deslízalo dentro. Escálfalos 3 minutos y sácalos con una espumadera.",
     "Escurre las patatas y alíñalas con el aceite de oliva, el perejil y sal. Sirve las espinacas con un huevo poché encima de cada ración y las patatas al lado."
   ],
@@ -730,7 +730,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén", "bol"],
+  equipo: ["horno", "cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "pimiento verde", q: 4, u: "ud", nota: "de tipo italiano, grandes" },
@@ -752,9 +752,9 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18 minutos; a los 8 minutos añade los huevos para que se cuezan a la vez 10 minutos y pásalos a agua fría.",
     "Mientras, corta una tira a lo largo de la parte de arriba de cada pimiento para abrirlo como una barca y quítale las semillas, dejando el tallo. Ralla el manchego y pica el perejil y el cebollino.",
     "Calienta el aceite de ajo en una sartén, añade el tomate triturado, el orégano y sal y cocina 8 minutos a fuego medio, hasta que espese. Viértelo en una fuente de horno.",
-    "Escurre las patatas, pela y pica los huevos y aplasta la patata con un tenedor junto con el huevo, la mitad del manchego, el perejil, el cebollino, sal y pimienta.",
+    "Escurre las patatas y devuélvelas a la cazuela. Pela y pica los huevos y aplasta la patata en la misma cazuela con un tenedor, junto con el huevo, la mitad del manchego, el perejil, el cebollino, sal y pimienta.",
     "Rellena los pimientos con el puré, colócalos sobre la salsa, espolvorea el resto del manchego y hornea 20-25 minutos, hasta que los pimientos estén tiernos y el queso dorado.",
-    "Mientras se hornean, corta la lechuga en tiras y alíñala con el aceite de oliva y sal. Sirve dos pimientos por persona con su salsa y la lechuga."
+    "Mientras se hornean, corta la lechuga en tiras, repártela en los platos y alíñala con el aceite de oliva y sal. Sirve dos pimientos por persona con su salsa y la lechuga."
   ],
   nutricion: { kcal: 465, prot: 21, hc: 47, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "poco especiada", "sin gluten", "vegetariana", "al horno", "económica"],
@@ -1060,11 +1060,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" },
   ],
   pasos: [
-    "Pon el caldo a calentar con el azafrán y, en un cazo, agua para los huevos. Mientras se calientan, corta el pimiento en dados pequeños, ralla el tomate, pica el perejil y pela la patata y cáscala en trozos de 2 cm.",
-    "Cuando hierva el agua del cazo, cuece los huevos 10 minutos y pásalos a agua fría. Mientras, calienta el aceite de oliva en una cazuela a fuego medio y rehoga el pimiento 4 minutos.",
+    "Pon el caldo a calentar con el azafrán. Mientras se calienta, corta el pimiento en dados pequeños, ralla el tomate, pica el perejil y pela la patata y cáscala en trozos de 2 cm.",
+    "Calienta el aceite de oliva en una cazuela a fuego medio y rehoga el pimiento 4 minutos.",
     "Añade el calamar y el aceite de ajo y rehoga 3 minutos, hasta que suelte su agua. Echa el tomate y cocina 4 minutos. Aparta del fuego, añade el pimentón y remueve 10 segundos.",
     "Vierte el caldo caliente con el laurel, tapa y cuece a fuego suave 15 minutos para que el calamar se ablande.",
-    "Añade la patata, sala y cuece 15 minutos más, hasta que esté tierna y el caldo algo espeso. Mientras, pela los huevos y pícalos.",
+    "Añade la patata, sala y mete con cuidado los huevos lavados, con su cáscara. A los 10 minutos, saca los huevos a agua fría y deja la sopa 5 minutos más, hasta que la patata esté tierna y el caldo algo espeso. Mientras, pela los huevos y pícalos.",
     "Retira el laurel, prueba de sal y sirve la sopa con el huevo picado y el perejil por encima."
   ],
   nutricion: { kcal: 460, prot: 41, hc: 34, grasa: 17 },

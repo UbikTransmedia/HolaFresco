@@ -196,7 +196,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 55,
   dificultad: "fácil",
-  equipo: ["horno", "bol"],
+  equipo: ["horno"],
   raciones: 2,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y piel" },
@@ -215,11 +215,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Mientras se calienta, pela la patata y córtala en dados de 2 cm, y pela la cebolla y córtala en gajos finos.",
     "Mezcla en una fuente la patata y la cebolla con sal y 1 cucharada de aceite. Seca y salpimienta los contramuslos, colócalos encima con la piel hacia arriba y hornea 25 minutos.",
-    "Mientras, limpia las setas con papel de cocina húmedo y trocéalas grandes; lamina los ajos, corta el jamón en tiras y deshoja el tomillo. Mézclalo todo en un bol con la otra cucharada de aceite y una pizca de sal.",
-    "Saca la fuente, reparte las setas alrededor del pollo, vierte el oloroso por los lados y hornea 20 minutos más, hasta que las setas estén doradas y la piel del pollo crujiente. Mientras termina, pica el perejil.",
+    "Mientras, limpia las setas con papel de cocina húmedo y trocéalas grandes; lamina los ajos, corta el jamón en tiras y deshoja el tomillo.",
+    "Saca la fuente y reparte alrededor del pollo las setas, el ajo, el jamón y el tomillo; riégalos con la otra cucharada de aceite, sálalos un poco y mézclalos con las patatas sin tocar el pollo. Vierte el oloroso por los lados y hornea 20 minutos más, hasta que las setas estén doradas y la piel del pollo crujiente. Mientras termina, pica el perejil.",
     "Rasca el fondo de la fuente con una cuchara para mezclar los jugos tostados con el vino reducido, espolvorea el perejil y sirve."
   ],
-  nutricion: { kcal: 720, prot: 48, hc: 30, grasa: 44 },
+  nutricion: { kcal: 710, prot: 59, hc: 33, grasa: 35 },
   etiquetas: ["creativa", "al horno", "sin gluten", "alta en proteína", "otoño"],
   consejo: "El oloroso, el vino de Jerez seco y con notas de nuez, es el gran amigo de las setas; si no lo encuentras, un amontillado o un vino blanco con una cucharadita de coñac dan un resultado parecido. No laves las setas bajo el grifo: absorben el agua y luego cuecen en vez de tostarse. Recalentado al día siguiente está aún más sabroso.",
   tupper: true,
@@ -773,13 +773,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal en una olla y enciende el horno a 220 °C con gratinador. Mientras se calientan, quita las hojas a la coliflor y sepárala en ramilletes medianos, pela y pica el ajo muy fino y ralla el queso.",
-    "Cuece los ramilletes sin tapar 7-8 minutos, hasta que un cuchillo entre con poca resistencia: deben quedar tiernos pero enteros.",
-    "Mientras se cuece la coliflor, haz la bechamel en un cazo: derrite la mantequilla a fuego medio, rehoga el ajo 30 segundos, añade la harina y cocina 1 minuto removiendo. Vierte la leche fría poco a poco, batiendo con varillas, y cuece 5-6 minutos hasta que espese y nape la cuchara. Sala y añade la nuez moscada, pimienta y la mitad del queso.",
-    "Escurre muy bien la coliflor (si queda agua, la bechamel se afloja) y colócala en una fuente de horno untada con el aceite.",
-    "Cúbrela con la bechamel, mezcla el resto del queso con el pan rallado y espárcelo por encima.",
+    "Cuece los ramilletes sin tapar 7-8 minutos, hasta que un cuchillo entre con poca resistencia: deben quedar tiernos pero enteros. Escúrrelos muy bien (si queda agua, la bechamel se afloja) y colócalos en una fuente de horno untada con el aceite.",
+    "Seca la olla y haz en ella la bechamel: derrite la mantequilla a fuego medio, rehoga el ajo 30 segundos, añade la harina y cocina 1 minuto removiendo. Vierte la leche fría poco a poco, batiendo con varillas, y cuece 5-6 minutos hasta que espese y nape la cuchara. Sala y añade la nuez moscada, pimienta y la mitad del queso.",
+    "Cubre la coliflor con la bechamel, mezcla el resto del queso con el pan rallado y espárcelo por encima.",
     "Gratina 10-12 minutos a media altura, hasta que la superficie esté dorada y burbujee por los bordes. Deja reposar 3 minutos antes de servir."
   ],
-  nutricion: { kcal: 545, prot: 25, hc: 38, grasa: 32 },
+  nutricion: { kcal: 575, prot: 25, hc: 36, grasa: 36 },
   etiquetas: ["tradicional", "al horno", "para niños", "económica", "invierno", "poco especiada"],
   consejo: "Es una de las verduras gratinadas de toda la vida en las casas españolas. Cocer la coliflor sin tapa y sin pasarse de tiempo evita el olor fuerte y que se deshaga. Puedes dejarla montada en la fuente unas horas antes y gratinarla en el momento, con 10 minutos de horno a 200 °C antes del gratinador. Con un huevo duro picado por encima queda más completa.",
   tupper: true,
@@ -798,7 +797,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "alcachofas", q: 8, u: "ud", nota: "medianas, unos 1,2 kg" },
@@ -819,10 +818,10 @@ window.RECETAS_SEED.push({
     "Lava las patatas y, si son grandes, pártelas por la mitad. Cuécelas en el agua hirviendo 5 minutos, añade las alcachofas escurridas y cuece todo 12-15 minutos más, hasta que un cuchillo atraviese el corazón de la alcachofa sin resistencia.",
     "Mientras se cuecen, pela y pica la cebolla, lamina los ajos y pica el perejil.",
     "Reserva un vaso del agua de cocción y escurre las alcachofas y las patatas.",
-    "En una sartén amplia con el aceite, pocha la cebolla 5 minutos a fuego medio. Añade el ajo y el jamón y rehoga 2 minutos, hasta que el ajo empiece a dorarse. Espolvorea la harina, remueve 30 segundos y vierte el vino y medio vaso del agua de cocción reservada.",
-    "Incorpora las alcachofas y las patatas y saltéalas 3-4 minutos, moviendo la sartén, hasta que la salsa ligue y las envuelva. Prueba de sal (el jamón ya sala) y sirve con el perejil por encima."
+    "Seca la olla y, a fuego medio, pocha en ella la cebolla con el aceite 5 minutos. Añade el ajo y el jamón y rehoga 2 minutos, hasta que el ajo empiece a dorarse. Espolvorea la harina, remueve 30 segundos y vierte el vino y medio vaso del agua de cocción reservada.",
+    "Incorpora las alcachofas y las patatas y mézclalas 3-4 minutos, moviendo la olla en vaivén, hasta que la salsa ligue y las envuelva. Prueba de sal (el jamón ya sala) y sirve con el perejil por encima."
   ],
-  nutricion: { kcal: 500, prot: 20, hc: 42, grasa: 26 },
+  nutricion: { kcal: 590, prot: 28, hc: 49, grasa: 25 },
   etiquetas: ["tradicional", "invierno", "primavera"],
   consejo: "En Navarra se hacen con la alcachofa de Tudela, de noviembre a abril. Si no tienes tiempo de limpiarlas, usa 400 g de corazones de alcachofa congelados y cuécelos solo 6-8 minutos. Frótate las manos con limón mientras las limpias para que no se tiñan. Recalentadas al día siguiente están muy buenas.",
   tupper: true,
@@ -904,13 +903,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal para la pasta y enciende el horno a 220 °C con gratinador. Mientras se calientan, pica la cebolla y el ajo, lamina los champiñones y desmiga el pollo.",
-    "Pocha la cebolla en una sartén con el aceite 5 minutos a fuego medio; añade el ajo y los champiñones y saltea a fuego fuerte 5 minutos, hasta que se doren. Añade el pollo, mezcla y aparta del fuego.",
+    "Pocha la cebolla en una sartén con el aceite 5 minutos a fuego medio; añade el ajo y los champiñones y saltea a fuego fuerte 5 minutos, hasta que se doren. Añade el pollo, mezcla y pásalo todo a una fuente de horno.",
     "Cuando hierva el agua, cuece los macarrones 2 minutos menos de lo que indique el paquete: terminarán en el horno.",
-    "Mientras se cuece la pasta, haz la bechamel en un cazo: derrite la mantequilla, añade la harina y cocina 1 minuto removiendo; vierte la leche fría poco a poco, batiendo con varillas, y cuece 5 minutos a fuego medio hasta que espese. Sala y añade la nuez moscada.",
-    "Escurre la pasta y mézclala en una fuente de horno con el salteado y dos tercios de la bechamel. Cubre con el resto de la bechamel y el queso rallado.",
+    "Mientras se cuece la pasta, haz la bechamel en la misma sartén: derrite la mantequilla, añade la harina y cocina 1 minuto removiendo; vierte la leche fría poco a poco, batiendo con varillas, y cuece 5 minutos a fuego medio hasta que espese. Sala y añade la nuez moscada.",
+    "Escurre la pasta y mézclala en la fuente con el salteado y dos tercios de la bechamel. Cubre con el resto de la bechamel y el queso rallado.",
     "Gratina 8–10 minutos, hasta que la superficie burbujee y esté dorada. Deja reposar 3 minutos antes de servir."
   ],
-  nutricion: { kcal: 800, prot: 44, hc: 82, grasa: 32 },
+  nutricion: { kcal: 850, prot: 48, hc: 82, grasa: 36 },
   etiquetas: ["creativa", "al horno", "aprovechamiento", "para niños", "económica", "batch cooking"],
   consejo: "Echar la leche fría sobre la harina tostada evita los grumos sin esfuerzo. Puedes montar la fuente la víspera, guardarla tapada en la nevera y hornearla 20 minutos a 200 °C antes de gratinar. Con jamón cocido en lugar de pollo también funciona.",
   tupper: true,

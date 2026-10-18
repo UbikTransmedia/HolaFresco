@@ -236,7 +236,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "mero", q: 350, u: "g", nota: "en rodajas o lomos con piel; o cazón" },
@@ -254,13 +254,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y cáscalas en trozos de 2–3 cm. Pela los ajos, corta el pimiento verde en tiras y pica el perejil. Corta el mero en 4 trozos y sálalo.",
-    "Calienta el aceite en una cazuela ancha a fuego medio y fríe el pan y los ajos enteros 2–3 minutos, dándoles la vuelta, hasta que estén dorados. Sácalos al vaso de la batidora (o a un mortero).",
+    "Calienta el aceite en una cazuela ancha a fuego medio y fríe el pan y los ajos enteros 2–3 minutos, dándoles la vuelta, hasta que estén dorados. Sácalos a un plato hondo.",
     "En el mismo aceite, rehoga el pimiento verde 4 minutos. Aparta del fuego, añade el pimentón, remueve 20 segundos y vierte enseguida el caldo para que no se queme. Añade las patatas y el laurel y, cuando hierva, cuece tapado 12 minutos a fuego medio.",
-    "Mientras cuecen las patatas, tritura o machaca el pan y los ajos con el vinagre y 3 cucharadas del caldo de la cazuela hasta tener una pasta espesa.",
+    "Mientras cuecen las patatas, machaca en el plato el pan y los ajos con un tenedor, con el vinagre y 3 cucharadas del caldo de la cazuela, hasta tener una pasta espesa.",
     "Incorpora el majado a la cazuela, remueve y coloca encima los trozos de mero con la piel hacia abajo. Tapa y cuece 7–8 minutos a fuego suave, moviendo la cazuela en vaivén para que la gelatina del pescado ligue la salsa, hasta que la carne esté opaca y se separe en lascas.",
     "Prueba de sal, retira el laurel, espolvorea el perejil y deja reposar 2 minutos antes de servir en la misma cazuela."
   ],
-  nutricion: { kcal: 500, prot: 39, hc: 37, grasa: 22 },
+  nutricion: { kcal: 520, prot: 42, hc: 34, grasa: 23 },
   etiquetas: ["creativa", "de cuchara", "invierno", "alta en proteína"],
   consejo: "Inspirada en la raya en pimentón de los bares de Cádiz y Sanlúcar, que se hace igual: ajo y pan fritos, pimentón y un golpe de vinagre. El mero, de carne firme y gelatinosa, aguanta el guiso sin deshacerse; el cazón o la rosada son alternativas más económicas (6 minutos de cocción). El pimentón, siempre fuera del fuego y mojado enseguida: quemado amarga. Aguanta 2 días en la nevera.",
   tupper: true,
@@ -365,7 +365,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 90,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "ternera para guisar", q: 450, u: "g", nota: "aguja, morcillo o babilla en dados de 3 cm" },
@@ -384,17 +384,17 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Salpimienta la carne y pásala por la harina, sacudiendo el exceso. Pica la cebolla y los ajos, y pela las zanahorias y córtalas en rodajas de 1 cm.",
-    "Calienta 2 cucharadas de aceite en una cazuela a fuego fuerte y dora la carne en dos tandas, 4 minutos por tanda, hasta que tenga costra. Sácala a un plato.",
+    "Limpia los champiñones con papel y córtalos en cuartos. Salpimienta la carne y pásala por la harina, sacudiendo el exceso. Pica la cebolla y los ajos, y pela las zanahorias y córtalas en rodajas de 1 cm.",
+    "Calienta 1 cucharada de aceite en una cazuela a fuego fuerte y dora los champiñones 5 minutos, hasta que no quede agua y estén tostados; sálalos y sácalos a un plato.",
+    "Añade a la cazuela las 2 cucharadas de aceite restantes y dora la carne en dos tandas, 4 minutos por tanda, hasta que tenga costra. Sácala a otro plato.",
     "Baja el fuego a medio y pocha la cebolla y la zanahoria 8 minutos, raspando el fondo; añade el ajo y rehoga 1 minuto. Vierte el oloroso y deja que hierva 2 minutos.",
-    "Devuelve la carne con sus jugos y añade el laurel, el tomillo y 400 ml de agua. Tapa y cuece a fuego suave 45 minutos, removiendo de vez en cuando.",
-    "Mientras se guisa, limpia los champiñones con papel y córtalos en cuartos, y pela las patatas y cáscalas en trozos de 3 cm. Dora los champiñones en una sartén con la cucharada de aceite restante a fuego fuerte 5 minutos, hasta que no quede agua y estén tostados; sálalos.",
-    "Añade a la cazuela las patatas, los champiñones y el resto del agua, prueba de sal y cuece tapado 25 minutos más, hasta que la carne se deshaga con la cuchara y la patata esté tierna.",
+    "Devuelve la carne con sus jugos y añade el laurel, el tomillo y 400 ml de agua. Tapa y cuece a fuego suave 45 minutos, removiendo de vez en cuando. Mientras se guisa, pela las patatas y cáscalas en trozos de 3 cm.",
+    "Añade a la cazuela las patatas, los champiñones con su jugo y el resto del agua, prueba de sal y cuece tapado 25 minutos más, hasta que la carne se deshaga con la cuchara y la patata esté tierna.",
     "Retira el laurel y deja reposar 5 minutos antes de servir: la salsa espesa al templarse."
   ],
-  nutricion: { kcal: 740, prot: 54, hc: 46, grasa: 37 },
+  nutricion: { kcal: 740, prot: 54, hc: 39, grasa: 38 },
   etiquetas: ["creativa", "de cuchara", "invierno", "batch cooking", "alta en proteína"],
-  consejo: "El oloroso (o, en su defecto, un fino o un amontillado) da al estofado un fondo de nuez que ningún vino de mesa consigue: así guisan en Jerez la carne y las carrilleras. Aunque tarda hora y media, el trabajo activo es de unos 25 minutos. Dorar los champiñones aparte evita que suelten su agua en la salsa. Mejora de un día para otro, aguanta 4 días en la nevera y se congela bien.",
+  consejo: "El oloroso (o, en su defecto, un fino o un amontillado) da al estofado un fondo de nuez que ningún vino de mesa consigue: así guisan en Jerez la carne y las carrilleras. Aunque tarda hora y media, el trabajo activo es de unos 25 minutos. Dorar los champiñones al principio y sacarlos hasta el final evita que suelten su agua en la salsa. Mejora de un día para otro, aguanta 4 días en la nevera y se congela bien.",
   tupper: true,
   contundencia: "contundente",
   coste: "media"
@@ -780,13 +780,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel en una olla con el agua fría y sal y cuécelas 20 minutos desde que hierva; añade los huevos los últimos 10 minutos. Mientras, lamina los ajos y quita el rabo y las semillas a los pimientos secos, abriéndolos.",
-    "Seca el bacalao con papel y márcalo en una sartén con 1 cucharada del aceite a fuego medio, 3 minutos por cada lado, hasta que se separe en lascas. Desmígalo en un bol, quitando piel y espinas.",
+    "Seca el bacalao con papel y márcalo en una sartén con 1 cucharada del aceite a fuego medio, 3 minutos por cada lado, hasta que se separe en lascas. Desmígalo en la fuente de servir, quitando piel y espinas.",
     "Pon el resto del aceite en la misma sartén a fuego suave y fríe los pimientos 20-30 segundos por cada lado, solo hasta que cambien de color y huelan a tostado; si se queman, amargan. Sácalos y deja que se enfríen.",
     "En el mismo aceite, dora los ajos 1 minuto, hasta que estén dorados claros, y aparta la sartén del fuego. Trocea los pimientos con los dedos sobre el bacalao.",
     "Escurre las patatas y los huevos, pásalos por agua fría, pélalos y córtalos en trozos. Mientras, tuesta el pan y pica el perejil, si lo usas.",
-    "Mezcla en una fuente el bacalao, los pimientos, las aceitunas, las patatas y el huevo, riega con el aceite de los ajos aún templado y mezcla con cuidado. Deja reposar 10 minutos para que todo se empape, espolvorea el perejil y sirve con el pan tostado."
+    "Añade a la fuente las aceitunas, las patatas y el huevo, riega con el aceite de los ajos aún templado y mezcla con cuidado. Deja reposar 10 minutos para que todo se empape, espolvorea el perejil y sirve con el pan tostado."
   ],
-  nutricion: { kcal: 685, prot: 32, hc: 53, grasa: 38 },
+  nutricion: { kcal: 700, prot: 32, hc: 49, grasa: 41 },
   etiquetas: ["tradicional", "ideal para llevar", "invierno", "alta en proteína"],
   consejo: "En Alcoy y en la Foia de Castalla la pericana se hace con bacalao seco salado, sin desalar, asado sobre la brasa y desmigado: queda muy salado y se come con mucho pan como entrante. Aquí se usa bacalao desalado y se añaden patatas y huevo para que sea plato único. Mejora de un día para otro: guárdala en la nevera y sácala media hora antes.",
   tupper: true,
@@ -937,7 +937,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
@@ -954,15 +954,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la calabaza, quítale las semillas y córtala en dados de 1,5 cm. Pica la cebolla y el ajo. Quita la piel a la morcilla y córtala en rodajas de 2 cm. Pon el caldo a calentar en un cazo.",
-    "Tuesta los piñones en una sartén sin aceite a fuego medio 2 minutos, moviéndolos, hasta que estén dorados; sácalos. En la misma sartén, dora las rodajas de morcilla 1 minuto por cada lado, con cuidado al darles la vuelta, y resérvalas.",
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 5 minutos. Añade el ajo y la calabaza y rehoga 5 minutos. Añade el tomillo y el pimentón y remueve.",
+    "Tuesta los piñones en una cazuela sin aceite a fuego medio 2 minutos, moviéndolos, hasta que estén dorados; sácalos. En la misma cazuela, dora las rodajas de morcilla 1 minuto por cada lado, con cuidado al darles la vuelta, y resérvalas en un plato.",
+    "Calienta el aceite en la cazuela a fuego medio y pocha la cebolla 5 minutos. Añade el ajo y la calabaza y rehoga 5 minutos. Añade el tomillo y el pimentón y remueve.",
     "Incorpora el arroz y nacarado 1 minuto, removiendo. Añade la mitad del caldo caliente y cuece removiendo de vez en cuando; ve añadiendo el resto según lo absorba. En 18 minutos el arroz estará tierno y la calabaza se habrá deshecho en parte, dejando un meloso anaranjado.",
     "Prueba de sal, coloca la morcilla encima, tapa y deja 2 minutos con el fuego apagado. Sirve con los piñones por encima."
   ],
-  nutricion: { kcal: 770, prot: 17, hc: 87, grasa: 39 },
+  nutricion: { kcal: 790, prot: 24, hc: 79, grasa: 42 },
   etiquetas: ["creativa", "otoño", "invierno", "económica"],
   consejo: "La morcilla de Burgos lleva arroz y se deshace si se remueve: por eso se dora aparte y se añade al final. Si te gusta el contraste dulce, la morcilla de cebolla también funciona. Para una versión sin gluten, comprueba la etiqueta de la morcilla y del caldo. Es un arroz para comer al momento: recalentado se pasa.",
-  alternativa: "Los piñones encarecen mucho el plato: cámbialos por almendra laminada o pipas de calabaza (los mismos 20 g), tostadas igual en la sartén antes que la morcilla.",
+  alternativa: "Los piñones encarecen mucho el plato: cámbialos por almendra laminada o pipas de calabaza (los mismos 20 g), tostadas igual en la cazuela antes que la morcilla.",
   tupper: false,
   contundencia: "contundente",
   coste: "económica"
@@ -1024,7 +1024,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "1 bote, escurridos y enjuagados" },
@@ -1041,13 +1041,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla y el ajo, escurre los garbanzos, corta el chorizo en láminas muy finas y el pan en dados pequeños.",
-    "Pon el chorizo en una sartén sin aceite a fuego medio-bajo y tuéstalo 3 minutos, dándole la vuelta, hasta que esté crujiente. Sácalo sobre papel. En la grasa que ha soltado, dora los dados de pan 2 minutos y sácalos también.",
-    "Calienta el aceite en una cazuela a fuego medio y pocha la cebolla 6 minutos. Añade el ajo, el comino y el pimentón y remueve 30 segundos.",
+    "Pon el chorizo en una cazuela sin aceite a fuego medio-bajo y tuéstalo 3 minutos, dándole la vuelta, hasta que esté crujiente. Sácalo sobre papel. En la grasa que ha soltado, dora los dados de pan 2 minutos y sácalos también.",
+    "Añade el aceite a la misma cazuela, a fuego medio, y pocha la cebolla 6 minutos. Añade el ajo, el comino y el pimentón y remueve 30 segundos.",
     "Añade los garbanzos, los pimientos con su jugo y el caldo. Cuando hierva, cuece 8 minutos.",
     "Tritura con la batidora hasta que quede muy fina. Ajusta la textura con un poco de agua si está muy espesa y prueba de sal.",
     "Sirve la crema caliente con el chorizo crujiente y los picatostes por encima."
   ],
-  nutricion: { kcal: 510, prot: 21, hc: 52, grasa: 24 },
+  nutricion: { kcal: 515, prot: 23, hc: 55, grasa: 20 },
   etiquetas: ["creativa", "rápida", "económica", "batch cooking", "invierno"],
   consejo: "Es una forma de comer legumbre para los que no les gustan los garbanzos enteros. La crema sin los toppings aguanta 4 días en la nevera y se congela bien; tuesta el chorizo y el pan en el momento. Para una versión vegetariana, cambia el chorizo por almendras tostadas con pimentón.",
   tupper: true,

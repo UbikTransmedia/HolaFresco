@@ -480,13 +480,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos y ponlas en un cazo cubiertas de agua fría con sal. Lleva a ebullición y cuece 18-20 minutos, hasta que estén muy tiernas.",
-    "Mientras, pela las zanahorias, córtalas en bastones y ponlas en una sartén pequeña con los 100 ml de agua, 1 cucharadita del aceite de oliva, una pizca de sal y la mitad de la ralladura de la naranja. Tapa y cuece 8 minutos; destapa y deja que el agua se evapore hasta que queden brillantes, unos 4 minutos más.",
+    "Mientras, ralla la piel de la naranja. Pela las zanahorias, córtalas en bastones y ponlas en una sartén grande con los 100 ml de agua, 1 cucharadita del aceite de oliva, una pizca de sal y la mitad de la ralladura. Tapa y cuece 8 minutos; destapa y deja que el agua se evapore hasta que queden brillantes, unos 4 minutos más. Sácalas a un plato.",
     "Mientras se glasean, corta la pechuga en filetes finos y aplánalos un poco. Sálalos y pásalos por la harina de arroz, sacudiendo el exceso. Exprime la naranja y pica el cebollino.",
-    "Calienta el aceite de ajo en una sartén grande a fuego medio-alto y dora los escalopines con las hojas de salvia 2 minutos por cada lado. Retíralos a un plato.",
-    "Vierte en la sartén el zumo de naranja y el caldo, raspa el fondo y deja reducir 3 minutos, hasta que la salsa nape la cuchara. Devuelve los escalopines y calienta 1 minuto.",
+    "Limpia la sartén con papel, calienta el aceite de ajo a fuego medio-alto y dora los escalopines con las hojas de salvia 2 minutos por cada lado. Retíralos a un plato.",
+    "Vierte en la sartén el zumo de naranja y el caldo, raspa el fondo y deja reducir 3 minutos, hasta que la salsa nape la cuchara. Devuelve los escalopines y las zanahorias y calienta 1 minuto.",
     "Escurre las patatas reservando un poco del agua y cháfalas con el resto del aceite de oliva, sal y un chorrito del agua de cocción, hasta tener un puré suave. Espolvorea el cebollino y sirve con el pollo, la salsa y las zanahorias."
   ],
-  nutricion: { kcal: 565, prot: 43, hc: 58, grasa: 18 },
+  nutricion: { kcal: 585, prot: 36, hc: 48, grasa: 27 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "Pasar el pollo por un velo de harina de arroz y dorarlo con una cucharada de aceite no es freír: la harina solo sirve para que la salsa ligue. La naranja es una fruta baja en FODMAP y el puré con aceite de oliva en lugar de mantequilla y leche evita la lactosa. Si prefieres, cambia la pechuga de pollo por filetes de pavo.",
   tupper: false,
@@ -724,7 +724,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "horno", "bol"],
+  equipo: ["cazuela", "sartén", "horno"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 400, u: "g" },
@@ -746,11 +746,11 @@ window.RECETAS_SEED.push({
     "Pon agua con sal a hervir en una cazuela. Pela las patatas y la zanahoria, córtalas en trozos de 3 cm y cuécelas 18-20 minutos, hasta que estén muy tiernas.",
     "Mientras, pon las espinacas lavadas en una sartén con unas gotas de agua, tápalas 2 minutos hasta que se arruguen, escúrrelas, exprímelas muy bien y pícalas. Ralla el parmesano y pica el perejil y la parte verde de la cebolleta. Precalienta el horno a 200 °C.",
     "Prepara la salsa en la misma sartén: calienta 1 cucharada de aceite de ajo, rehoga la cebolleta 1 minuto, añade el tomate, el tomillo y sal y cuece 10 minutos a fuego suave.",
-    "Escurre bien las patatas y la zanahoria, déjalas humear 2 minutos para que pierdan agua y cháfalas con un tenedor. Mézclalas con las espinacas, el huevo, el pan rallado, tres cuartas partes del parmesano, el perejil, la nuez moscada y sal.",
+    "Escurre bien las patatas y la zanahoria, devuélvelas a la cazuela, déjalas humear 2 minutos para que pierdan agua y cháfalas con un tenedor. Mézclalas en la misma cazuela con las espinacas, el huevo, el pan rallado, tres cuartas partes del parmesano, el perejil, la nuez moscada y sal.",
     "Con las manos húmedas forma 12 bolas, colócalas en una bandeja con papel de horno, píntalas con el resto del aceite de ajo y hornea 20 minutos, hasta que estén doradas y firmes.",
     "Retira el tomillo de la salsa, caliéntala, repártela en una fuente, coloca las albóndigas encima y espolvorea el resto del parmesano."
   ],
-  nutricion: { kcal: 510, prot: 20, hc: 65, grasa: 19 },
+  nutricion: { kcal: 525, prot: 21, hc: 62, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "vegetariana", "al horno", "para niños", "batch cooking"],
   consejo: "Al horno y pintadas con una cucharada de aceite, estas albóndigas no necesitan freírse. Patata, zanahoria y espinacas son libres de FODMAP y, cocidas y chafadas, muy suaves para el intestino. Revisa que el pan rallado sin gluten no lleve inulina ni harinas de legumbres. Se congelan ya horneadas y se recalientan en la salsa.",
   tupper: true,
@@ -919,8 +919,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" },
   ],
   pasos: [
-    "Calienta el caldo con el azafrán desmenuzado en un cazo. Mientras, corta el pollo en dados de 1 cm, pela la zanahoria y córtala en daditos de medio centímetro, pica la parte verde de la cebolleta y ralla el parmesano.",
-    "Pon el arroz en una cazuela con el caldo caliente y una pizca de sal, llévalo a ebullición y cuécelo tapado a fuego suave 18 minutos, removiendo un par de veces, hasta que absorba todo el líquido y quede tierno y pegajoso.",
+    "Pon el caldo con el azafrán desmenuzado a calentar en una cazuela. Mientras, corta el pollo en dados de 1 cm, pela la zanahoria y córtala en daditos de medio centímetro, pica la parte verde de la cebolleta y ralla el parmesano.",
+    "Cuando el caldo hierva, echa el arroz con una pizca de sal y cuécelo tapado a fuego suave 18 minutos, removiendo un par de veces, hasta que absorba todo el líquido y quede tierno y pegajoso.",
     "Mientras se cuece el arroz, calienta el aceite de ajo en una sartén a fuego medio y dora el pollo 4 minutos. Añade la zanahoria y la cebolleta y rehoga 3 minutos. Incorpora 150 g del tomate, sala y cuece 10 minutos, removiendo, hasta que el relleno quede espeso y casi seco. Pásalo a un plato para que temple.",
     "Fuera del fuego, mezcla el arroz con el parmesano y extiéndelo en una bandeja grande en una capa fina para que se enfríe, unos 20 minutos. Mientras, precalienta el horno a 220 °C y cuece en la misma sartén el resto del tomate con una pizca de sal 10 minutos a fuego suave: será la salsa. Deshoja la albahaca.",
     "Bate el huevo y mézclalo con el arroz ya frío. Con las manos húmedas, coge una porción de arroz del tamaño de una mandarina, aplánala en la palma, pon en el centro una cucharada de relleno y ciérrala formando una bola. Haz 8 y pásalas por el pan rallado, apretando para que se adhiera.",
@@ -964,13 +964,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y ponlas enteras y con piel en una cazuela con agua fría y sal. Cuando hierva, cuécelas 25-30 minutos, hasta que un cuchillo entre sin resistencia.",
-    "Mientras, escalda las espinacas lavadas 1 minuto en un cazo con agua hirviendo, enfríalas bajo el grifo, exprímelas muy bien con las manos y pícalas lo más fino posible. Ralla el parmesano, corta los tomates cherry por la mitad y separa las hojas de salvia.",
+    "Mientras, pon las espinacas lavadas, con el agua que les quede, en una sartén amplia, tápalas y déjalas 2 minutos a fuego medio, hasta que se arruguen; enfríalas bajo el grifo, exprímelas muy bien con las manos y pícalas lo más fino posible. Ralla el parmesano, corta los tomates cherry por la mitad y separa las hojas de salvia.",
     "Escurre las patatas, pélalas aún calientes y pásalas por el pasapurés (o cháfalas muy bien) sobre la encimera. Deja que se templen 5 minutos y mézclalas con las espinacas, el huevo, la mitad del parmesano, la nuez moscada y sal. Añade la harina de arroz poco a poco, amasando con suavidad solo hasta tener una masa que no se pegue.",
     "Llena de nuevo la cazuela con agua abundante y sal y ponla a hervir. Mientras, divide la masa en 4, forma cilindros de 2 cm de grosor sobre la encimera enharinada y córtalos en trozos de 2 cm.",
     "Cuece los ñoquis por tandas: cuando suban a la superficie, espera 1 minuto y sácalos con una espumadera.",
-    "Mientras se cuece la última tanda, calienta el aceite en una sartén amplia a fuego suave con las hojas de salvia 1 minuto, añade los tomates cherry y saltéalos 2 minutos. Incorpora los ñoquis, mézclalos con cuidado y sirve con el resto del parmesano."
+    "Mientras se cuece la última tanda, calienta el aceite en la sartén a fuego suave con las hojas de salvia 1 minuto, añade los tomates cherry y saltéalos 2 minutos. Incorpora los ñoquis, mézclalos con cuidado y sirve con el resto del parmesano."
   ],
-  nutricion: { kcal: 625, prot: 22, hc: 92, grasa: 19 },
+  nutricion: { kcal: 635, prot: 23, hc: 88, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "vegetariana", "para niños"],
   consejo: "Los merda de can («caca de perro» en nizardo, por su forma) son los ñoquis verdes de Niza, hechos con acelgas o espinacas y servidos con salsa de daube o con salvia. Con harina de arroz son sin gluten; cocer las patatas con piel evita que absorban agua y así la masa necesita menos harina y queda más ligera. Las espinacas cocidas son libres de FODMAP y 75 g de tomate cherry por persona están dentro de su ración.",
   tupper: false,

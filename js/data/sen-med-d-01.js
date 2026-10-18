@@ -109,7 +109,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "gallo (filetes)", q: 320, u: "g" },
@@ -129,11 +129,11 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Lava el arroz en un colador bajo el grifo hasta que el agua salga casi clara.",
     "Pon el arroz en un cazo con los 260 ml de agua y sal. Cuando hierva, tapa y baja al mínimo 12 minutos; después déjalo reposar tapado fuera del fuego. Mientras se cuece, pela la zanahoria y córtala en bastoncitos finos de 3 mm, corta el calabacín igual, ralla la piel de la naranja y exprime la mitad. Deshoja el estragón y pica la parte verde de la cebolleta.",
     "Corta dos hojas de papel de horno de unos 40 cm. En el centro de cada una pon una cama de zanahoria y calabacín con sal y la mitad del aceite de ajo. Encima, los filetes de gallo salados, la ralladura de naranja, el estragón, 2 cucharadas de zumo y el resto del aceite de ajo.",
-    "Cierra cada papillote juntando los bordes y doblándolos varias veces en pliegues apretados, para que no se escape el vapor. Ponlos en una bandeja y hornea 12 minutos, hasta que el paquete se hinche.",
-    "Mientras, tuesta las almendras en una sartén sin aceite 2-3 minutos, removiendo, hasta que huelan, y pícalas groseramente. Desgrana el arroz con un tenedor y mézclalo con el aceite de oliva, la cebolleta y las almendras.",
+    "Cierra cada papillote juntando los bordes y doblándolos varias veces en pliegues apretados, para que no se escape el vapor. Ponlos en una bandeja y hornea 12 minutos, hasta que el paquete se hinche. En los últimos 4 minutos, pon las almendras en un rincón de la bandeja para que se tuesten.",
+    "Desgrana el arroz con un tenedor, pica groseramente las almendras y mézclalas con el arroz, el aceite de oliva y la cebolleta.",
     "Sirve cada papillote cerrado en un plato con el arroz al lado y ábrelo en la mesa con cuidado del vapor: el jugo de naranja y estragón es la salsa del arroz."
   ],
-  nutricion: { kcal: 550, prot: 34, hc: 66, grasa: 16 },
+  nutricion: { kcal: 575, prot: 36, hc: 71, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "al horno", "alta en proteína"],
   consejo: "El gallo es un pescado plano muy magro y de carne fina, de los que mejor se digieren; el papillote lo cuece al vapor sin añadir grasa y con todos sus jugos. El calabacín va en ración baja en FODMAP (60 g por persona) y el estragón aporta un punto anisado que recuerda al hinojo sin sus fructanos. Si no encuentras estragón fresco, usa tomillo o eneldo.",
   tupper: false,
@@ -366,7 +366,7 @@ window.RECETAS_SEED.push({
   proteina: "pavo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["horno", "sartén"],
+  equipo: ["horno"],
   raciones: 2,
   ingredientes: [
     { n: "pavo (pechuga)", q: 320, u: "g", nota: "en filetes gruesos de 1,5 cm" },
@@ -383,11 +383,10 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Quita las semillas a la calabaza, pélala y córtala en láminas de 3 mm; pela la patata y córtala igual de fina, para que se hagan al mismo tiempo que el pavo. Ralla la piel del limón y exprime la mitad. Pica el cebollino.",
     "Si la pechuga viene entera, ábrela en filetes de 1,5 cm. Sálalos.",
     "Corta dos hojas de papel de horno de 40 x 40 cm. En el centro de cada una alterna láminas de patata y de calabaza, sálalas y riégalas con la mitad del aceite de ajo. Pon encima el pavo, las hojas de salvia, la ralladura, el zumo de limón y el resto del aceite de ajo.",
-    "Cierra los paquetes doblando los bordes varias veces en pliegues apretados, colócalos en una bandeja y hornea 22 minutos.",
-    "Mientras, tuesta los piñones en una sartén sin aceite 2 minutos, removiendo, hasta que estén dorados.",
+    "Cierra los paquetes doblando los bordes varias veces en pliegues apretados, colócalos en una bandeja y hornea 22 minutos. En los últimos 3 minutos, reparte los piñones en un rincón de la bandeja para que se tuesten, vigilando que no se quemen.",
     "Abre los paquetes con cuidado del vapor, comprueba que el pavo está blanco en el centro y la patata tierna, y esparce los piñones y el cebollino por encima."
   ],
-  nutricion: { kcal: 420, prot: 40, hc: 35, grasa: 13 },
+  nutricion: { kcal: 440, prot: 43, hc: 33, grasa: 14 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "al horno", "alta en proteína", "ligera", "otoño"],
   consejo: "Usa calabaza japonesa (kabocha) o la de piel verde: es baja en FODMAP incluso en ración generosa, a diferencia de la calabaza violín, que hay que limitar a unos 45 g. El papillote cocina el pavo en su vapor y lo mantiene jugoso con muy poca grasa. Si la calabaza es de piel fina puedes dejarla sin pelar: se ablanda en el horno.",
   alternativa: "Si no encuentras calabaza japonesa, no la cambies sin más por cacahuete: pon solo 90 g de esta (45 g por persona) y completa con 310 g de zanahoria en láminas de 3 mm. Los piñones pueden ser 15 g de almendra laminada tostada.",
@@ -398,8 +397,8 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4749",
-  nombre: "Pechuga de pollo al vapor de laurel con salsa de tomate al azafrán, espinacas y arroz",
-  subtitulo: "pollo jugoso sin una gota de grasa en la cocción y una salsa dorada y suave",
+  nombre: "Pechuga de pollo en salsa de tomate al azafrán con espinacas y arroz",
+  subtitulo: "pollo jugoso cocido despacio dentro de una salsa de tomate dorada por el azafrán",
   origen: "inventada",
   categoria: "carnes",
   cocina: "mediterránea",
@@ -424,14 +423,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y ponlo en un cazo con 280 ml de agua y sal. Cuando hierva, tapa y baja al mínimo 12 minutos; luego déjalo reposar tapado 5 minutos.",
-    "Mientras, pon agua a hervir en una cazuela con vaporera. Abre las pechugas en 4 filetes de unos 2 cm y sálalos. Desmenuza el azafrán en 2 cucharadas de agua caliente. Pica la parte verde de la cebolleta y el perejil, y lava las espinacas.",
-    "Cubre el fondo del cestillo con las hojas de laurel, coloca el pollo encima, tapa y cuece 10-12 minutos, hasta que esté blanco por dentro y los jugos salgan claros. En los últimos 2 minutos añade las espinacas al cestillo, junto al pollo, para que se ablanden.",
-    "Mientras se hace el pollo, calienta el aceite de ajo en una sartén a fuego medio, rehoga la cebolleta 1 minuto, añade el tomate y el azafrán con su agua y sal, y cuece 8 minutos, hasta que la salsa espese.",
-    "Corta el pollo en lonchas gruesas. Sirve la salsa en el fondo del plato, el pollo encima, las espinacas y el arroz al lado y el perejil por encima."
+    "Mientras, abre las pechugas en 4 filetes de unos 2 cm y sálalos. Desmenuza el azafrán en 2 cucharadas de agua caliente. Pica la parte verde de la cebolleta y el perejil, y lava las espinacas.",
+    "Calienta el aceite de ajo en una sartén a fuego medio, rehoga la cebolleta 1 minuto, añade el tomate y el azafrán con su agua y sal, y cuece 5 minutos, hasta que empiece a espesar.",
+    "Coloca los filetes de pollo y las hojas de laurel dentro de la salsa, tapa y cuece a fuego suave 10-12 minutos, dándoles la vuelta a mitad, hasta que el pollo esté blanco por dentro y la salsa espesa; si se seca, añade un chorrito de agua.",
+    "Retira el laurel, reparte las espinacas alrededor del pollo, tapa y deja 2 minutos, hasta que se ablanden.",
+    "Corta el pollo en lonchas gruesas y sírvelo con su salsa y las espinacas, el arroz al lado y el perejil por encima."
   ],
-  nutricion: { kcal: 510, prot: 45, hc: 63, grasa: 9 },
+  nutricion: { kcal: 610, prot: 40, hc: 63, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
-  consejo: "El vapor es la cocción más amable para la pechuga: no la reseca y no necesita grasa. El laurel debajo la perfuma ligeramente. Si la pechuga es muy gruesa, ábrela en filetes de 2 cm para que se haga a la vez que el arroz y no pase de punto. El arroz blanco bien cocido es de los cereales mejor tolerados en caso de hinchazón.",
+  consejo: "Cocer la pechuga tapada y a fuego suave dentro de la salsa es de lo más amable: no la reseca y no necesita más grasa que la del sofrito. El laurel la perfuma ligeramente. Si la pechuga es muy gruesa, ábrela en filetes de 2 cm para que se haga a la vez que el arroz y no pase de punto. El arroz blanco bien cocido es de los cereales mejor tolerados en caso de hinchazón.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -547,13 +547,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon agua a calentar en una cazuela ancha con vaporera y, en un cazo, agua con sal. Pela las patatas, córtalas en trozos de 2 cm y cuécelas en el cazo 15-18 minutos, hasta que estén tiernas.",
-    "Mientras, corta la merluza en dados de 1 cm y pica el cebollino. Bate los huevos con la leche, el cebollino y sal. Unta 4 flaneras o cuencos pequeños con el aceite de oliva, reparte la merluza, vierte la mezcla y tapa cada uno con papel de aluminio.",
-    "Coloca los flanes en la vaporera, tapa y cuece a fuego medio, con el agua burbujeando suavemente, 15-18 minutos, hasta que estén cuajados y un cuchillo salga limpio.",
+    "Pon agua a calentar en una cazuela ancha con vaporera. Pela las patatas y córtalas en trozos de 2 cm.",
+    "Mientras se calienta, corta la merluza en dados de 1 cm y pica el cebollino. Bate los huevos con la leche, el cebollino y sal. Unta 4 flaneras o cuencos pequeños con el aceite de oliva, reparte la merluza, vierte la mezcla y tapa cada uno con papel de aluminio.",
+    "Coloca los flanes y las patatas en la vaporera, tapa y cuece a fuego medio, con el agua burbujeando suavemente, 15-18 minutos, hasta que los flanes estén cuajados, un cuchillo salga limpio y las patatas estén tiernas.",
     "Mientras, corta los tomates por la mitad y rállalos. Calienta el aceite de ajo en una sartén, añade el tomate y sal y cuece 8-10 minutos, hasta que espese. Tritúralo con la mitad de la albahaca.",
-    "Escurre las patatas. Desmolda los flanes pasando un cuchillo por el borde y sírvelos sobre el coulis, con las patatas y el resto de la albahaca en hojas."
+    "Sala las patatas. Desmolda los flanes pasando un cuchillo por el borde y sírvelos sobre el coulis, con las patatas y el resto de la albahaca en hojas."
   ],
-  nutricion: { kcal: 450, prot: 33, hc: 37, grasa: 19 },
+  nutricion: { kcal: 455, prot: 34, hc: 32, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "para niños"],
   consejo: "Un fuego suave es la clave: si el agua hierve a borbotones, los flanes se llenan de agujeros. Son una forma muy digestiva de comer pescado y huevo, ideal en días de estómago revuelto o para niños que no quieren pescado. Con leche sin lactosa (o bebida de almendra sin azúcar) son aptos para la dieta baja en FODMAP.",
   tupper: true,
@@ -677,17 +677,17 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pon agua a hervir en una cazuela con vaporera y, en un cazo, agua con sal. Pela la calabaza, quítale las semillas y córtala en dados de 2 cm.",
-    "Cuece la calabaza al vapor 12-15 minutos, hasta que esté tierna. A la vez, cuece el arroz en el cazo 12 minutos y escúrrelo.",
+    "Precalienta el horno a 190 °C y pon agua con sal a hervir en un cazo. Pela la calabaza, quítale las semillas y córtala en dados de 2 cm.",
+    "Cuando hierva, echa el arroz y la calabaza y cuécelos juntos 12-13 minutos, hasta que el arroz esté hecho y la calabaza tierna. Escúrrelos muy bien.",
     "Mientras se cuecen, pica la salvia, ralla el parmesano y bate los huevos con la leche, la nuez moscada y sal.",
-    "Chafa la calabaza con un tenedor hasta tener un puré rústico y mézclala con el arroz, los huevos, la salvia, dos tercios del parmesano y 1 cucharada de aceite de ajo.",
+    "Devuelve el arroz y la calabaza al cazo y chafa la calabaza con un tenedor hasta tener un puré rústico; mézclalo con los huevos, la salvia, dos tercios del parmesano y 1 cucharada de aceite de ajo.",
     "Unta una fuente de horno con unas gotas de aceite de ajo, vierte la mezcla y alísala. Espolvorea el pan rallado mezclado con el resto del parmesano y riega con el aceite de ajo restante. Hornea 30 minutos, hasta que esté cuajado y la superficie dorada.",
     "Mientras se hornea, lava la rúcula. Deja reposar el tian 5 minutos y sírvelo con la rúcula aliñada con el zumo del limón y sal."
   ],
-  nutricion: { kcal: 520, prot: 21, hc: 60, grasa: 22 },
+  nutricion: { kcal: 565, prot: 24, hc: 64, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "al horno", "otoño", "invierno", "para niños"],
   consejo: "El tian de courge es un clásico del interior de Provenza que toma el nombre de la fuente de barro en la que se hornea. Hazlo con calabaza japonesa o de piel verde, bajas en FODMAP en ración generosa; la calabaza violín (butternut) solo se tolera en poca cantidad. Aguanta 3 días en la nevera y se recalienta en porciones.",
-  alternativa: "Si no hay calabaza japonesa, cuece al vapor 90 g de calabaza cacahuete, 400 g de zanahoria en rodajas finas y 210 g de patata, 15-18 min: el tian sale algo más claro y menos dulce, pero sigue siendo bajo en FODMAP.",
+  alternativa: "Si no hay calabaza japonesa, cuece con el arroz 90 g de calabaza cacahuete, 400 g de zanahoria en rodajas finas y 210 g de patata en dados pequeños, 12-13 min: el tian sale algo más claro y menos dulce, pero sigue siendo bajo en FODMAP.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -704,7 +704,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "batidora"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "chirivía", q: 300, u: "g" },
@@ -723,12 +723,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Pela la chirivía y la zanahoria y córtalas en bastones de 1,5 cm de grosor (si la chirivía es gruesa, quítale el centro leñoso). Mézclalas en una bandeja con el aceite, el comino y sal, y hornea 25-30 minutos, dándoles la vuelta a mitad, hasta que estén tiernas y doradas en los bordes.",
     "Mientras, lava la quinoa en un colador fino, ponla en un cazo con los 300 ml de agua y sal y, cuando hierva, tapa y cuece 12 minutos a fuego suave. Déjala reposar tapada 5 minutos.",
-    "Mientras se cuecen, ralla la piel del limón y exprímelo. Tritura el feta con la ralladura, 1 cucharada de zumo y 2-3 cucharadas de agua hasta tener una crema untuosa. Pica las nueces y deshoja la menta.",
+    "Mientras se cuecen, ralla la piel del limón y exprímelo. Chafa el feta con un tenedor en un plato hondo con la ralladura, 1 cucharada de zumo y 2-3 cucharadas de agua, hasta tener una crema untuosa. Pica las nueces y deshoja la menta.",
     "Pon las nueces en una esquina de la bandeja los últimos 4 minutos de horno para tostarlas.",
     "Mezcla la quinoa caliente con las espinacas (se ablandarán con el calor), el resto del zumo de limón y sal.",
     "Extiende la crema de feta en la base del plato, pon encima la quinoa y las verduras asadas y termina con las nueces y la menta."
   ],
-  nutricion: { kcal: 570, prot: 19, hc: 77, grasa: 21 },
+  nutricion: { kcal: 565, prot: 18, hc: 70, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "superalimentos", "al horno", "otoño"],
   consejo: "El feta es un queso con muy poca lactosa y, en 25 g por persona, se tolera bien en una dieta baja en FODMAP; la chirivía, la zanahoria y las espinacas son libres. La quinoa aporta proteína completa: lávala siempre para quitar las saponinas, que amargan y pueden irritar. Si quieres más proteína, añade un huevo mollet.",
   alternativa: "Si no encuentras chirivía, usa 300 g más de zanahoria en los mismos bastones y con el mismo tiempo de horno: pierde el punto anisado, pero sigue siendo libre de FODMAP y combina igual con la crema de feta.",
@@ -1048,7 +1048,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "calabaza japonesa", q: 500, u: "g" },
@@ -1066,13 +1066,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la calabaza, la zanahoria y la patata y córtalas en dados de 2 cm. Pica la parte verde de la cebolleta.",
-    "Calienta 1 cucharadita de aceite en una cazuela, rehoga la cebolleta 1 minuto, añade las verduras, el tomillo, los 700 ml de agua y sal. Tapa y cuece 20 minutos a fuego suave, hasta que todo esté muy tierno.",
-    "Mientras, tritura la albahaca con el resto del aceite y una pizca de sal para hacer el aceite de albahaca. Tuesta las pipas en una sartén sin aceite 2 minutos. Enrolla los filetes de lenguado sobre sí mismos, sálalos y riégalos con unas gotas de limón.",
+    "Tuesta las pipas en una cazuela sin aceite a fuego medio 2 minutos, hasta que se inflen, y sácalas. En la misma cazuela, calienta 1 cucharadita de aceite, rehoga la cebolleta 1 minuto, añade las verduras, el tomillo, los 700 ml de agua y sal. Tapa y cuece 20 minutos a fuego suave, hasta que todo esté muy tierno.",
+    "Mientras, tritura la albahaca con el resto del aceite y una pizca de sal para hacer el aceite de albahaca. Enrolla los filetes de lenguado sobre sí mismos, sálalos y riégalos con unas gotas de limón.",
     "En los últimos 6-7 minutos de cocción, coloca un cestillo de vapor o un colador sobre la cazuela con los rollitos de lenguado, tapa y deja que se hagan con el vapor de la crema, hasta que estén opacos.",
     "Retira el lenguado y el tomillo y tritura la crema hasta que quede fina; ajusta el espesor con un poco de agua y la sal.",
     "Sirve la crema con los rollitos de lenguado encima, un hilo de aceite de albahaca y las pipas tostadas."
   ],
-  nutricion: { kcal: 420, prot: 27, hc: 40, grasa: 17 },
+  nutricion: { kcal: 450, prot: 28, hc: 40, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "de cuchara", "otoño", "invierno", "ligera"],
   consejo: "La calabaza japonesa y la zanahoria son de las verduras más seguras en una dieta baja en FODMAP y, trituradas, apenas exigen trabajo al intestino. El lenguado, casi sin grasa, se cuece en el vapor de la propia crema: un solo fuego y nada que fregar. Las pipas de calabaza aportan un punto crujiente (15 g para dos es una ración bien tolerada).",
   alternativa: "Para la crema sin calabaza japonesa: 90 g de cacahuete, 300 g más de zanahoria y 110 g más de patata, con los mismos 20 min. Queda un poco menos dulce, igual de fina y dentro de la ración tolerada.",
