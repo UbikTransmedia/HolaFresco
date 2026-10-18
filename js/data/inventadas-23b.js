@@ -267,7 +267,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 55,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "batidora"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "deshuesados y sin piel, unos 350 g" },
@@ -286,11 +286,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Lava bien las papas sin pelarlas y ponlas en una olla con agua justo para cubrirlas y la sal gruesa. Cuécelas 20-25 minutos, hasta que se pinchen con facilidad.",
     "Mientras, unta el pollo con 1 cucharada de aceite, sal y la mitad del comino y hornéalo 25 minutos, hasta que esté dorado y jugoso.",
-    "Para el mojo, tritura los ajos, la guindilla, el resto del comino, el pimentón, el pan, el vinagre, 3 cucharadas de aceite, una pizca de sal y 2 cucharadas de agua hasta tener una salsa espesa. Si queda muy densa, añade un poco más de agua.",
+    "Para el mojo, machaca en el mortero los ajos con la guindilla, el resto del comino y una pizca de sal hasta hacer una pasta. Añade el pimentón y el pan desmenuzado y sigue machacando mientras incorporas el vinagre, 3 cucharadas de aceite y 2 cucharadas de agua, hasta tener una salsa espesa. Si queda muy densa, añade un poco más de agua.",
     "Cuando las papas estén cocidas, tira el agua, devuélvelas a la olla y ponlas a fuego suave sin tapa 3-4 minutos, moviendo la olla, hasta que se sequen y la piel se arrugue cubierta de sal blanca.",
     "Sirve el pollo cortado en trozos con las papas arrugadas enteras y el mojo picón para mojar."
   ],
-  nutricion: { kcal: 540, prot: 40, hc: 45, grasa: 22 },
+  nutricion: { kcal: 755, prot: 44, hc: 45, grasa: 43 },
   etiquetas: ["tradicional", "fácil", "económica", "picante", "para invitados", "sin verduras", "bajo en colesterol"],
   consejo: "Las papas arrugadas se comen con piel; no te asustes por la sal: se queda en la superficie. El mojo picón aguanta una semana en un bote en la nevera y está mejor al día siguiente.",
   contundencia: "media",
@@ -323,13 +323,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el lomo en un bol con 2 ajos picados, el pimentón, sal y la mitad del vino. Mezcla y deja reposar mientras preparas el resto. Corta los pimientos verdes en tiras, lamina los otros 2 ajos y pica el perejil.",
-    "Pela las patatas, córtalas en bastones o en dados y fríelas en abundante aceite: 8 minutos a fuego medio y 3 minutos a fuego fuerte, hasta que estén doradas. Sala y reserva.",
-    "En una sartén con 2 cucharadas de aceite, fríe los pimientos a fuego medio 6-7 minutos, hasta que estén blandos. Sálalos y resérvalos.",
-    "En la misma sartén, a fuego fuerte, fríe los ajos laminados 30 segundos y añade el raxo escurrido. Saltéalo 5-6 minutos, hasta que esté dorado por fuera.",
+    "Pela las patatas, córtalas en bastones o en dados y fríelas en una sartén con abundante aceite: 8 minutos a fuego medio y 3 minutos a fuego fuerte, hasta que estén doradas. Sala y reserva.",
+    "En el mismo aceite, a fuego medio, fríe los pimientos 3-4 minutos, hasta que estén blandos. Sálalos y resérvalos.",
+    "Retira el aceite dejando unas 2 cucharadas en la sartén. A fuego fuerte, fríe los ajos laminados 30 segundos y añade el raxo escurrido. Saltéalo 5-6 minutos, hasta que esté dorado por fuera.",
     "Vierte el resto del vino y la marinada, deja que hierva 2 minutos hasta que quede un jugo corto, y añade el perejil picado.",
     "Sirve el raxo con su jugo, las patatas fritas y los pimientos, todo junto en la misma fuente como en las tabernas gallegas."
   ],
-  nutricion: { kcal: 580, prot: 38, hc: 40, grasa: 30 },
+  nutricion: { kcal: 630, prot: 38, hc: 29, grasa: 39 },
   etiquetas: ["tradicional", "fácil", "económica", "para compartir", "una sola sartén", "poco especiada"],
   consejo: "Con pan del país para mojar en el jugo es imprescindible. Si lo adobas desde la víspera, el raxo coge todo el sabor del ajo y el pimentón.",
   contundencia: "media",
@@ -361,15 +361,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en bastones o en rodajas, lávalas y sécalas. Fríelas en abundante aceite en dos tiempos (8 minutos a fuego medio y 3 minutos a fuerte) hasta que estén doradas. Sala y reserva.",
-    "Corta el solomillo en medallones de 2 cm y salpimiéntalos. Machaca los ajos con piel.",
-    "En una sartén con 4 cucharadas de aceite a fuego medio, dora los ajos 3-4 minutos, hasta que estén tiernos y dorados.",
+    "Pela las patatas, córtalas en bastones o en rodajas, lávalas y sécalas. Fríelas en una sartén con abundante aceite en dos tiempos (8 minutos a fuego medio y 3 minutos a fuerte) hasta que estén doradas; mientras, corta el solomillo en medallones de 2 cm, salpimiéntalos y machaca los ajos con piel. Sala las patatas y resérvalas.",
+    "Retira el aceite dejando 4 cucharadas en la sartén y, a fuego medio, dora los ajos 3-4 minutos, hasta que estén tiernos y dorados.",
     "Sube el fuego, aparta los ajos a un lado y dora los medallones 1,5-2 minutos por cada lado.",
     "Retira la sartén del fuego, añade el whisky (con cuidado, puede prender) y vuelve al fuego 1 minuto para que se evapore el alcohol. Añade el zumo del limón y el caldo.",
     "Deja que hierva 3-4 minutos moviendo la sartén, hasta que la salsa se reduzca a la mitad y quede ligeramente espesa.",
     "Sirve los medallones con los ajos y su salsa por encima y las patatas fritas al lado para mojar."
   ],
-  nutricion: { kcal: 565, prot: 38, hc: 40, grasa: 28 },
+  nutricion: { kcal: 615, prot: 38, hc: 26, grasa: 37 },
   etiquetas: ["tradicional", "rápida", "fácil", "para invitados", "una sola sartén", "sin verduras", "poco especiada"],
   consejo: "En Sevilla se toma de tapa con patatas fritas para mojar la salsa. El limón es imprescindible: equilibra el dulzor del whisky. Si no tienes whisky, el brandy también funciona.",
   contundencia: "media",
@@ -586,7 +585,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["sartén", "plancha"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "butifarra", q: 2, u: "ud", nota: "fresca, unos 250 g en total" },
@@ -599,15 +598,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pincha las butifarras con un tenedor en varios puntos para que no revienten.",
-    "Ásalas en la plancha o en una sartén a fuego medio con unas gotas de aceite 12-15 minutos, dándoles la vuelta, hasta que estén bien doradas por todos lados y hechas por dentro.",
-    "Mientras, lamina 2 ajos y pica el perejil. En otra sartén con 2 cucharadas de aceite, dora a fuego medio los ajos laminados.",
+    "Ásalas en una sartén a fuego medio con unas gotas de aceite 12-15 minutos, dándoles la vuelta, hasta que estén bien doradas por todos lados y hechas por dentro. Mientras, lamina 2 ajos y pica el perejil, y para el allioli rápido machaca el otro ajo en el mortero con una pizca de sal, añade la mayonesa y un hilo de aceite y mezcla.",
+    "Saca las butifarras y resérvalas al calor. En la misma sartén, con su grasa y 2 cucharadas de aceite, dora a fuego medio los ajos laminados.",
     "Añade las judías escurridas y saltéalas a fuego medio-alto 5-6 minutos, moviendo la sartén, hasta que algunas se tuesten y queden doraditas. Sala y añade el perejil picado.",
-    "Para el allioli rápido, machaca el otro ajo en el mortero con una pizca de sal, añade la mayonesa y un hilo de aceite y mezcla.",
     "Sirve la butifarra entera sobre las mongetes con el allioli al lado."
   ],
-  nutricion: { kcal: 590, prot: 32, hc: 30, grasa: 38 },
+  nutricion: { kcal: 685, prot: 29, hc: 25, grasa: 51 },
   etiquetas: ["tradicional", "rápida", "fácil", "invierno", "sin verduras", "poco especiada"],
-  consejo: "En Cataluña las mongetes se tuestan en la grasa que suelta la butifarra: si quieres, asa la butifarra primero y saltea las judías en esa misma sartén. Las judías del ganxet son las tradicionales.",
+  consejo: "En Cataluña las mongetes se tuestan en la grasa que suelta la butifarra, por eso se saltean en la misma sartén. Las judías del ganxet son las tradicionales.",
   contundencia: "media",
   coste: "media"
 });
@@ -718,8 +716,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon a hervir el caldo, añade los filetes de pechuga y cuécelos a fuego suave 8 minutos. Mientras, calienta la leche en otro cazo. Saca los filetes, sécalos con papel y deja que se enfríen. Guarda 100 ml del caldo.",
-    "Para la bechamel, derrite la mantequilla en un cazo, añade la harina y tuéstala 2 minutos. Ve añadiendo la leche y el caldo reservado, calientes, poco a poco y sin dejar de remover con varillas.",
+    "Pon a hervir el caldo en un cazo, añade los filetes de pechuga y cuécelos a fuego suave 8 minutos. Saca los filetes, sécalos con papel y deja que se enfríen. Guarda 100 ml del caldo en un vaso (el resto, para otra receta).",
+    "Para la bechamel, derrite la mantequilla en el mismo cazo, añade la harina y tuéstala 2 minutos. Ve añadiendo la leche fría y el caldo reservado poco a poco, sin dejar de remover con varillas.",
     "Cocina a fuego suave 10 minutos removiendo, hasta que esté muy espesa (que al pasar la cuchara se vea el fondo). Sazona con sal, pimienta y nuez moscada.",
     "Con un tenedor, baña cada filete en la bechamel caliente por los dos lados y colócalo en una bandeja con papel engrasado. Déjalos enfriar 1 hora en la nevera, hasta que la bechamel esté firme. Mientras, bate los huevos en un plato y corta el tomate en rodajas.",
     "Pasa cada filete con cuidado por el huevo batido y el pan rallado.",
@@ -826,7 +824,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 150,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "bol", "batidora"],
+  equipo: ["horno", "sartén", "bol"],
   raciones: 4,
   ingredientes: [
     { n: "pollo entero", q: 1, u: "ud", nota: "pequeño, unos 1,2 kg, abierto en dos mitades" },
@@ -845,7 +843,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Tritura los ajos con el comino, el pimentón, el orégano, la salsa de soja, la cerveza, el zumo de media lima, 2 cucharadas de aceite y una cucharadita de sal.",
+    "Machaca en el mortero los ajos con una cucharadita de sal, el comino, el pimentón y el orégano hasta hacer una pasta. Añade la salsa de soja, la cerveza, el zumo de media lima y 2 cucharadas de aceite y mezcla bien.",
     "Haz unos cortes en la carne del pollo, úntalo bien con el adobo (también bajo la piel) y déjalo marinar en la nevera al menos 1 hora, mejor toda la noche.",
     "Precalienta el horno a 200 °C. Coloca las mitades de pollo con la piel hacia arriba sobre una rejilla, con una bandeja debajo con un poco de agua para recoger el jugo.",
     "Asa 50-60 minutos, pintando con el adobo sobrante a mitad de cocción, hasta que la piel esté muy dorada y al pinchar el muslo salga jugo transparente. Los últimos 5 minutos, pon el grill para que la piel quede crujiente.",
@@ -932,10 +930,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, trocéalas y cuécelas en agua con sal 20 minutos, hasta que estén muy tiernas. Los últimos 3 minutos añade los guisantes al agua.",
-    "Mientras, corta las cebollas en juliana y pócha en una sartén con el aceite y la mitad de la mantequilla a fuego medio-bajo 15 minutos, hasta que estén doradas y dulces.",
-    "Añade la harina a la cebolla, remueve 1 minuto, vierte el caldo y la salsa worcestershire y cocina 5 minutos, hasta que espese ligeramente. Salpimienta.",
-    "En otra sartén con unas gotas de aceite, haz las salchichas a fuego medio 12-15 minutos, girándolas a menudo, hasta que estén bien doradas por todos lados.",
+    "Haz las salchichas en una sartén con el aceite a fuego medio 12-15 minutos, girándolas a menudo, hasta que estén bien doradas por todos lados. Mientras se hacen, pela y trocea las patatas y corta las cebollas en juliana. Saca las salchichas a un plato.",
+    "En la misma sartén, con la grasa que han soltado y la mitad de la mantequilla, pocha la cebolla a fuego medio-bajo 15 minutos, hasta que esté dorada y dulce. Mientras, cuece las patatas en agua con sal 20 minutos, hasta que estén muy tiernas; los últimos 3 minutos añade los guisantes al agua.",
+    "Añade la harina a la cebolla, remueve 1 minuto, vierte el caldo y la salsa worcestershire y cocina 5 minutos, hasta que espese ligeramente. Salpimienta y devuelve las salchichas a la sartén los últimos 2 minutos para que se calienten.",
     "Escurre los guisantes aparte. Aplasta las patatas con la leche caliente y el resto de la mantequilla hasta tener un puré cremoso. Salpimienta.",
     "Sirve una montaña de puré con las salchichas encima, la salsa de cebolla por encima y los guisantes al lado."
   ],

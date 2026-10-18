@@ -228,7 +228,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 180,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 120, u: "g", nota: "en remojo desde la víspera" },
@@ -248,11 +248,12 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "La víspera, pon en remojo los garbanzos y las alubias, por separado, en abundante agua. Al día siguiente, pon en la cazuela 2 litros de agua con la costilla y la panceta y lleva a ebullición; retira la espuma. Cuando hierva, añade los garbanzos y las alubias escurridos.",
-    "Baja a fuego suave y cuece tapado a medias 2 horas, asustando con agua fría si deja de hervir. Mientras, trocea las judías verdes y corta la calabaza en dados.",
+    "La víspera, pon en remojo los garbanzos y las alubias, por separado, en abundante agua.",
+    "Al día siguiente, fríe en la cazuela con el aceite los ajos pelados y la rebanada de pan hasta que estén dorados. Retíralos a un mortero, aparta la cazuela del fuego y añade el pimentón y el comino al aceite que queda; remueve 10 segundos y pásalo también al mortero.",
+    "En la misma cazuela, pon 2 litros de agua con la costilla y la panceta y lleva a ebullición; retira la espuma. Cuando hierva, añade los garbanzos y las alubias escurridos.",
+    "Baja a fuego suave y cuece tapado a medias 2 horas, asustando con agua fría si deja de hervir. Mientras, trocea las judías verdes y corta la calabaza en dados, y machaca en el mortero el pan, los ajos y las especias hasta hacer una pasta.",
     "Añade las judías verdes, la calabaza, el chorizo y la morcilla pinchada, y cuece 30 minutos más.",
-    "Mientras, fríe en la sartén con el aceite los ajos pelados y la rebanada de pan hasta que estén dorados. Retira del fuego y añade el pimentón y el comino.",
-    "Machaca ese frito en un mortero con un cazo de caldo hasta hacer una pasta (el majado) y viértelo en la cazuela. Cuece 10 minutos para que espese y sala al gusto.",
+    "Desata el majado con un cazo de caldo y viértelo en la cazuela. Cuece 10 minutos para que espese y sala al gusto.",
     "Sirve la berza con su caldo en plato hondo y las carnes troceadas aparte, como pringá."
   ],
   nutricion: { kcal: 695, prot: 31, hc: 40, grasa: 43 },
@@ -654,7 +655,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 55,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "judías blancas cocidas", q: 250, u: "g" },
@@ -673,14 +674,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon la costilla en la cazuela con 1,2 litros de agua, lleva a ebullición y retira la espuma. Corta la mazorca en 4 rodajas, añádela y cuece a fuego suave 20 minutos.",
-    "Mientras, lava bien los berros, desecha los tallos más duros y pícalos gruesos. Pela y casca las papas y corta la calabaza en dados.",
-    "Añade a la cazuela las papas, la calabaza y los berros. Cuece 15 minutos.",
-    "Mientras, pica la cebolla y sofríela en la sartén con el aceite 5 minutos. Machaca en el mortero los ajos con el comino, el azafrán y una pizca de sal, y añádelos a la sartén con el pimentón fuera del fuego.",
+    "Pica la cebolla y sofríela en la cazuela con el aceite 5 minutos. Aparta del fuego, añade el pimentón, remueve 10 segundos y vierte enseguida 1,2 litros de agua. Añade la costilla, lleva a ebullición y retira la espuma.",
+    "Corta la mazorca en 4 rodajas, añádela y cuece a fuego suave 20 minutos. Mientras, lava bien los berros, desecha los tallos más duros y pícalos gruesos. Pela y casca las papas y corta la calabaza en dados.",
+    "Añade a la cazuela las papas, la calabaza y los berros. Cuece 15 minutos. Mientras, machaca en el mortero los ajos con el comino, el azafrán y una pizca de sal.",
     "Incorpora este majado y las judías escurridas a la cazuela. Cuece 10 minutos más, hasta que la papa empiece a deshacerse y espese el potaje.",
     "Sala al gusto y sirve con la costilla y una rodaja de millo en cada plato. En Canarias se acompaña de gofio para espesar en el plato."
   ],
-  nutricion: { kcal: 562, prot: 30, hc: 70, grasa: 18 },
+  nutricion: { kcal: 570, prot: 26, hc: 67, grasa: 21 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "invierno", "batch cooking", "poco especiada"],
   consejo: "Si no encuentras berros, usa espinacas o acelgas: no es lo mismo, pero el potaje sigue siendo de abuela. Las papas cascadas (rotas, no cortadas) son las que espesan el caldo.",
   contundencia: "media",
@@ -800,16 +800,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las habas en una olla con agua hirviendo con sal y cuécelas 5 minutos (8 si son frescas y grandes). Mientras, pica la cebolleta y los ajos. Escúrrelas.",
-    "En la sartén con el aceite, pocha la cebolleta y los ajos picados a fuego medio-bajo 6 minutos, hasta que estén blandos.",
+    "Pica la cebolleta y los ajos. En la sartén con el aceite, póchalos a fuego medio-bajo 6 minutos, hasta que estén blandos.",
     "Sube el fuego, añade el jamón y saltea 1 minuto, solo hasta que la grasa se vuelva transparente.",
     "Incorpora las habas, riega con el vino blanco y deja que se evapore 2 minutos, removiendo.",
-    "Baja el fuego, tapa y deja 5 minutos para que las habas se impregnen; mientras, pica la hierbabuena. Prueba antes de salar: el jamón ya sala.",
+    "Añade 100 ml de agua, baja el fuego, tapa y cuece 10 minutos (12-15 si son frescas y grandes), hasta que las habas estén tiernas y casi sin líquido; mientras, pica la hierbabuena. Prueba antes de salar: el jamón ya sala.",
     "Sirve con la hierbabuena picada por encima. Si quieres un plato más completo, cuaja encima un huevo por persona tapando la sartén 3 minutos."
   ],
-  nutricion: { kcal: 406, prot: 32, hc: 38, grasa: 14 },
+  nutricion: { kcal: 435, prot: 30, hc: 23, grasa: 20 },
   etiquetas: ["tradicional", "fácil", "rápida", "verano", "poco especiada"],
-  consejo: "Si las habas son grandes, pélales la piel después de cocerlas (se quita apretando entre los dedos): quedan mucho más tiernas y dulces. El jamón nunca debe freírse mucho o se pone duro.",
+  consejo: "Si las habas son grandes, deja que se cuezan tapadas unos minutos más, hasta que estén bien tiernas, y añade un chorrito de agua si se quedan secas. El jamón nunca debe freírse mucho o se pone duro.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -825,7 +824,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g" },
@@ -842,13 +841,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las acelgas, separa las pencas de las hojas y corta las pencas en trocitos y las hojas en tiras. Pela la patata y cáscala en trozos.",
-    "Calienta el caldo en la cazuela, añade la patata y las pencas, y cuece a fuego medio 10 minutos.",
-    "Mientras, en la sartén con el aceite, fríe los ajos pelados y el pan hasta que estén dorados (2–3 minutos). Retira del fuego y añade el pimentón y el comino.",
-    "Machaca en el mortero el pan, los ajos y las especias con el vinagre y un cazo de caldo hasta hacer una pasta.",
+    "En la cazuela con el aceite, fríe los ajos pelados y el pan hasta que estén dorados (2–3 minutos) y pásalos a un mortero. Aparta la cazuela del fuego, añade el pimentón y el comino, remueve 10 segundos y vierte enseguida el caldo.",
+    "Añade la patata y las pencas y cuece a fuego medio 10 minutos. Mientras, machaca en el mortero el pan y los ajos con el vinagre y un cazo de caldo hasta hacer una pasta.",
     "Añade a la cazuela las hojas de acelga, los garbanzos escurridos y el majado. Cuece 10 minutos a fuego suave, hasta que la patata se deshaga en los bordes y el potaje espese.",
     "Sala al gusto y sirve caliente."
   ],
-  nutricion: { kcal: 430, prot: 18, hc: 58, grasa: 14 },
+  nutricion: { kcal: 470, prot: 18, hc: 55, grasa: 18 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "rápida", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Es el potaje de Cuaresma de toda la vida en Andalucía; si quieres hacerlo de vigilia completo, añade al final 150 g de bacalao desalado desmigado. El majado de pan es lo que le da cuerpo, no te lo saltes.",
   contundencia: "ligera",
@@ -949,7 +947,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 140, u: "g" },
@@ -965,13 +963,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Trocea la cebolla, la zanahoria y el puerro y pela el ajo. Ponlos en la cazuela con las lentejas lavadas, el laurel y 1 litro de agua fría.",
+    "Corta el pan en dados y dóralos en la cazuela con el aceite a fuego medio 3 minutos, removiendo, hasta que estén crujientes. Escúrrelos en papel.",
+    "Trocea la cebolla, la zanahoria y el puerro y pela el ajo. Ponlos en la misma cazuela con las lentejas lavadas, el laurel y 1 litro de agua fría.",
     "Lleva a ebullición, baja el fuego y cuece tapado a medias 35 minutos, hasta que las lentejas estén muy blandas.",
-    "Mientras, corta el pan en dados y dóralos en la sartén con el aceite a fuego medio 3 minutos, removiendo, hasta que estén crujientes. Escúrrelos en papel.",
     "Retira el laurel, añade el comino y la sal y tritura con la batidora hasta obtener un puré fino. Si queda espeso, añade agua caliente; si queda claro, hiérvelo destapado unos minutos.",
     "Sirve el puré bien caliente con los picatostes por encima y un hilo de aceite crudo."
   ],
-  nutricion: { kcal: 459, prot: 22, hc: 68, grasa: 11 },
+  nutricion: { kcal: 485, prot: 22, hc: 62, grasa: 16 },
   etiquetas: ["tradicional", "de cuchara", "fácil", "económica", "batch cooking", "para niños", "invierno", "verduras escondidas", "poco especiada", "bajo en colesterol"],
   consejo: "Es la forma de abuela de que los niños coman lentejas. Para un puré más fino, pásalo por el pasapurés después de triturar: quita los restos de piel.",
   contundencia: "ligera",

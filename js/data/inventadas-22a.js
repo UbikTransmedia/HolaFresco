@@ -865,13 +865,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la carne en una cazuela, cúbrela con agua fría y lleva a ebullición; mientras, corta la zanahoria en trozos grandes, limpia el puerro y pincha el clavo en la cebolla. Cuando suba la espuma, escurre y enjuaga la carne: así el caldo queda blanco y limpio.",
     "Vuelve a cubrirla con 1 litro de agua, añade la zanahoria, la cebolla con el clavo, el puerro, el laurel, el tomillo y sal. Cuece tapado a fuego muy suave 1 h 15 min, hasta que la carne esté tierna.",
-    "Mientras, cuece el arroz en agua con sal 12 minutos y escúrrelo. Corta los champiñones en cuartos y saltéalos con un poco de la mantequilla 5 minutos.",
+    "Mientras, cuece el arroz en agua con sal 12 minutos y escúrrelo. Corta los champiñones en cuartos.",
     "Cuela el caldo y reserva 400 ml. Deja la carne y la zanahoria a un lado.",
-    "En la cazuela, derrite el resto de la mantequilla, añade la harina y remueve 1 minuto a fuego suave. Vierte poco a poco el caldo caliente batiendo con varillas y cuece 5 minutos, hasta que espese como unas natillas.",
+    "En la cazuela, derrite la mantequilla y saltea los champiñones 5 minutos. Añade la harina y remueve 1 minuto a fuego suave. Vierte poco a poco el caldo caliente batiendo con varillas y cuece 5 minutos, hasta que espese como unas natillas.",
     "Bate la yema con la nata y el zumo de limón, añade un cazo de salsa caliente y viértelo en la cazuela fuera del fuego, removiendo. No debe volver a hervir.",
-    "Mete la carne, la zanahoria y los champiñones, calienta 2 minutos a fuego mínimo, ajusta de sal y pimienta blanca y sirve con el arroz."
+    "Mete la carne y la zanahoria, calienta 2 minutos a fuego mínimo, ajusta de sal y pimienta blanca y sirve con el arroz."
   ],
-  nutricion: { kcal: 690, prot: 42, hc: 56, grasa: 33 },
+  nutricion: { kcal: 765, prot: 47, hc: 71, grasa: 31 },
   etiquetas: ["tradicional", "de domingo", "para invitados", "invierno", "para niños", "poco especiada"],
   consejo: "Lo que sobre del caldo, guárdalo: es una base magnífica para una sopa. La salsa no debe hervir después de añadir la yema o se cortará.",
   contundencia: "contundente",
@@ -975,7 +975,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 210,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
     { n: "manitas de cerdo", q: 4, u: "ud", nota: "partidas por la mitad y limpias" },
@@ -998,8 +998,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Revisa las manitas y quema con la llama los pelillos que queden. Ponlas en una cazuela con agua fría, lleva a ebullición 5 minutos y tira el agua.",
     "Cúbrelas con agua limpia, añade media cebolla, la zanahoria, el puerro, 1 ajo, el laurel y sal. Cuece tapado a fuego suave 2 h 30 min, hasta que la carne se despegue del hueso con facilidad. Mientras, pica la cebolla restante y 2 ajos.",
-    "Saca las manitas con cuidado (son muy tiernas) y cuela y reserva 300 ml del caldo.",
-    "En una cazuela ancha, pocha la cebolla y los ajos picados en el aceite 10 minutos. Añade el jamón y la harina y remueve 1 minuto.",
+    "Saca las manitas con cuidado (son muy tiernas) y cuela y reserva 300 ml del caldo; desecha el resto con las verduras y enjuaga la cazuela.",
+    "En la misma cazuela, pocha la cebolla y los ajos picados en el aceite 10 minutos. Añade el jamón y la harina y remueve 1 minuto.",
     "Fuera del fuego, añade el pimentón y la guindilla. Vuelve al fuego, vierte el vino y el tomate y cocina 8 minutos, hasta que se reduzca.",
     "Añade el caldo reservado, coloca las manitas en una sola capa y cuece destapado a fuego suave 20 minutos, meneando la cazuela sin remover, hasta que la salsa espese y quede pegajosa.",
     "Deja reposar 10 minutos y sirve con pan para mojar."

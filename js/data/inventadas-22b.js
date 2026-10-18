@@ -12,7 +12,7 @@ window.RECETAS_SEED.push({
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "pollo",
-  tiempo: 60,
+  tiempo: 50,
   dificultad: "media",
   equipo: ["cazuela", "batidora"],
   raciones: 3,
@@ -35,16 +35,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece la pechuga en 500 ml de agua con sal a fuego suave 15 minutos, hasta que esté hecha; mientras, pica la cebolla y el ajo. Deja templar en el caldo, sácala y deshiláchala con dos tenedores. Guarda el caldo.",
-    "Remoja el pan en la leche. Cuece las patatas con piel y el huevo en otra cazuela (el huevo 10 minutos, las patatas 20) y el arroz en agua con sal 16-18 minutos.",
-    "Pocha la cebolla y el ajo en el aceite a fuego suave 10 minutos, hasta que estén muy blandos. Añade el ají amarillo y cocina 3 minutos.",
+    "Pon en la cazuela la pechuga y las patatas con piel, cúbrelas con agua con sal (unos 700 ml) y cuece a fuego suave. A los 10 minutos, añade el huevo. Mientras, pon a cocer el arroz en agua con sal 16-18 minutos y escúrrelo; pica la cebolla y el ajo y remoja el pan en la leche.",
+    "A los 15 minutos, saca la pechuga y déjala templar en un plato. A los 20, saca el huevo y las patatas, que deben pincharse sin resistencia. Pasa el caldo a una jarra y guárdalo.",
+    "En la misma cazuela, pocha la cebolla y el ajo en el aceite a fuego suave 10 minutos, hasta que estén muy blandos. Mientras, deshilacha la pechuga con dos tenedores y pela el huevo. Añade el ají amarillo y cocina 3 minutos.",
     "Tritura el pan con la leche y las nueces y añádelo a la cazuela. Cocina 5 minutos removiendo, añadiendo caldo poco a poco, hasta tener una crema espesa que cubra la cuchara.",
     "Incorpora el pollo deshilachado y el parmesano, remueve 3 minutos y ajusta de sal y pimienta. Debe quedar cremoso, ni seco ni caldoso.",
     "Sirve el ají sobre las patatas cortadas en rodajas, con el arroz al lado, el huevo en cuartos y las aceitunas."
   ],
   nutricion: { kcal: 625, prot: 33, hc: 56, grasa: 29 },
   etiquetas: ["tradicional", "saciante", "de domingo", "para niños"],
-  consejo: "Cocer la pechuga a fuego suave y dejarla enfriar en su caldo es lo que evita que quede seca. Si no tienes ají amarillo, mezcla pimiento amarillo asado triturado con una pizca de guindilla.",
+  consejo: "Cocer la pechuga a fuego suave, sin que el agua borbotee, es lo que evita que quede seca. Si no tienes ají amarillo, mezcla pimiento amarillo asado triturado con una pizca de guindilla.",
   contundencia: "media",
   coste: "media"
 });
@@ -511,14 +511,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla, la zanahoria y el ajo. Salpimienta la carne y dórala en la cazuela con 2 cucharadas de aceite a fuego fuerte 6 minutos. Sácala.",
-    "Pocha la cebolla, la zanahoria y el ajo a fuego medio 10 minutos. Fuera del fuego, añade el pimentón y remueve.",
+    "Pica la cebolla, la zanahoria y el ajo y trocea las setas. Salpimienta la carne y dórala en la cazuela con 2 cucharadas de aceite a fuego fuerte 6 minutos. Sácala.",
+    "Añade el resto del aceite y saltea las setas a fuego fuerte 4 minutos, hasta que se doren. Sácalas a un plato.",
+    "Baja a fuego medio y pocha la cebolla, la zanahoria y el ajo 10 minutos. Fuera del fuego, añade el pimentón y remueve.",
     "Mete la carne, vierte el vino y deja hervir 2 minutos. Añade el caldo y el laurel, tapa y cuece a fuego suave 50 minutos.",
-    "Mientras, trocea las setas y saltéalas en una sartén con el resto del aceite a fuego fuerte 4 minutos, hasta que se doren.",
     "Añade las setas y las castañas a la cazuela y cuece 20 minutos más, destapado, hasta que la carne esté tierna y algunas castañas se deshagan espesando la salsa.",
     "Prueba de sal y sirve."
   ],
-  nutricion: { kcal: 710, prot: 40, hc: 52, grasa: 38 },
+  nutricion: { kcal: 700, prot: 37, hc: 37, grasa: 43 },
   etiquetas: ["tradicional", "fácil", "saciante", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "Antes de que llegara la patata, en Galicia los guisos se hacían con castañas. Si las compras crudas, hazles un corte, ásalas 15 minutos y pélalas en caliente.",
   contundencia: "contundente",
@@ -713,7 +713,7 @@ window.RECETAS_SEED.push({
   cocina: "latinoamericana",
   momentos: ["comida", "cena"],
   proteina: "pollo",
-  tiempo: 45,
+  tiempo: 40,
   dificultad: "fácil",
   equipo: ["cazuela"],
   raciones: 2,
@@ -733,14 +733,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en rodajas gruesas y cuécelas en agua con sal 15 minutos. Escúrrelas.",
-    "Mientras, pica el ajo y el cilantro y corta la cebolla morada en gajos gruesos y el tomate en gajos. Rehoga en la cazuela con el aceite el ajo, el ají amarillo y el comino 1 minuto a fuego medio.",
-    "Coloca el pollo salpimentado y dóralo ligeramente 2 minutos por lado.",
-    "Cubre el pollo con la cebolla morada y el tomate, sala y vierte la cerveza.",
-    "Tapa bien y cuece a fuego suave 25 minutos sin destapar: el pollo se hace con el vapor y el jugo de las verduras.",
-    "Añade el cilantro, incorpora las patatas para que se empapen 2 minutos y sirve con todo su caldito."
+    "Pela las patatas y córtalas en rodajas gruesas. Pica el ajo y el cilantro y corta la cebolla morada en gajos gruesos y el tomate en gajos.",
+    "Rehoga en la cazuela con el aceite el ajo, el ají amarillo y el comino 1 minuto a fuego medio. Coloca el pollo salpimentado y dóralo ligeramente 2 minutos por lado.",
+    "Reparte las patatas alrededor del pollo, cubre con la cebolla morada y el tomate, sala y vierte la cerveza y un chorrito de agua.",
+    "Tapa bien y cuece a fuego suave 25 minutos sin destapar: el pollo y las patatas se hacen con el vapor y el jugo de las verduras. Comprueba que las patatas se pinchan sin resistencia.",
+    "Añade el cilantro y sirve con todo su caldito."
   ],
-  nutricion: { kcal: 455, prot: 38, hc: 34, grasa: 18 },
+  nutricion: { kcal: 435, prot: 31, hc: 36, grasa: 18 },
   etiquetas: ["tradicional", "fácil", "económica", "ligera", "una sola sartén", "bajo en colesterol"],
   consejo: "En Perú se hace con chicha de jora; la cerveza rubia es el sustituto casero más habitual. Acompañado de arroz blanco es un plato de los que llenan.",
   alternativa: "Si no encuentras pasta de ají amarillo, tritura medio pimiento amarillo asado (o de bote) con media guindilla sin semillas: da el mismo color dorado y un picor parecido.",
@@ -833,7 +832,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1105",
   nombre: "Bœuf carottes: ternera estofada con zanahorias a la francesa",
-  subtitulo: "morcillo a fuego lento en vino blanco con muchas zanahorias y patatas cocidas",
+  subtitulo: "morcillo a fuego lento en vino blanco con muchas zanahorias y patatas",
   origen: "inventada",
   categoria: "carnes",
   cocina: "europea",
@@ -864,11 +863,11 @@ window.RECETAS_SEED.push({
     "Corta la cebolla en gajos y pela los ajos. Salpimienta la carne y dórala en la cazuela con el aceite a fuego fuerte 6 minutos. Espolvorea la harina y remueve 1 minuto.",
     "Añade la cebolla y los ajos y rehoga 4 minutos. Vierte el vino y raspa el fondo.",
     "Agrega el caldo, el tomillo y el laurel. Tapa y cuece a fuego muy suave 1 h 30 min. Mientras, pela las zanahorias y córtalas en rodajas gruesas al bies.",
-    "Incorpora las zanahorias y cuece tapado 1 hora más, hasta que la carne se deshaga y las zanahorias estén muy tiernas y dulces.",
-    "A falta de 25 minutos, pela las patatas, cuécelas en agua con sal y escúrrelas, y pica el perejil.",
-    "Retira el tomillo y el laurel, prueba de sal y sirve con las patatas y el perejil."
+    "Incorpora las zanahorias y cuece tapado 30 minutos. Mientras, pela las patatas y córtalas en trozos grandes.",
+    "Añade las patatas (con un chorrito de agua si no quedan casi cubiertas) y cuece tapado 30 minutos más, hasta que la carne se deshaga y las zanahorias y las patatas estén muy tiernas. Mientras, pica el perejil.",
+    "Retira el tomillo y el laurel, prueba de sal y sirve con el perejil."
   ],
-  nutricion: { kcal: 590, prot: 44, hc: 40, grasa: 28 },
+  nutricion: { kcal: 625, prot: 41, hc: 48, grasa: 27 },
   etiquetas: ["tradicional", "fácil", "invierno", "batch cooking", "de cuchara", "poco especiada"],
   consejo: "El morcillo es la pieza ideal: su gelatina hace la salsa untuosa sin nata ni mantequilla. Las zanahorias, cuanto más cuezan, más dulces quedan.",
   contundencia: "media",
