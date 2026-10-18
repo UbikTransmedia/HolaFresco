@@ -639,7 +639,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1875",
   nombre: "Bol de quinoa de microondas con tofu al pesto de albahaca y nueces, calabacín y cherrys",
-  subtitulo: "pesto vegano triturado en un minuto y tofu al vapor que absorbe la salsa",
+  subtitulo: "pesto vegano picado a cuchillo y tofu al vapor que absorbe la salsa",
   origen: "inventada",
   categoria: "ensaladas",
   cocina: "mediterránea",
@@ -647,7 +647,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["microondas", "batidora"],
+  equipo: ["microondas"],
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
@@ -667,12 +667,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava la quinoa y ponla en un bol grande con 240 ml de agua y sal. Tapa entreabierto y cocina a 800 W 6 minutos y a 500 W 6 minutos más. Reposa tapada 5 minutos.",
-    "Mientras, tritura la albahaca con las nueces, el ajo, la levadura nutricional, el zumo del limón, el aceite, 2 cucharadas de agua y sal hasta tener un pesto fluido. Escurre el tofu, sécalo con papel apretando un poco y córtalo en dados de 2 cm; corta el calabacín en medias lunas.",
+    "Mientras, pica muy fino a cuchillo la albahaca con las nueces y el ajo y mézclalo en un vaso con la levadura nutricional, el zumo del limón, el aceite, 2 cucharadas de agua y sal hasta tener un pesto fluido. Escurre el tofu, sécalo con papel apretando un poco y córtalo en dados de 2 cm; corta el calabacín en medias lunas.",
     "Pon el tofu en una fuente apta con el calabacín y los cherrys, tapa y cocina a 800 W 4 minutos, hasta que el calabacín esté tierno.",
     "Escurre el líquido que haya soltado la verdura, añade la mitad del pesto y mezcla con cuidado para no romper el tofu.",
     "Reparte la quinoa en dos boles o tuppers, pon encima el tofu con las verduras y termina con el resto del pesto y pimienta."
   ],
-  nutricion: { kcal: 595, prot: 32, hc: 46, grasa: 31 },
+  nutricion: { kcal: 690, prot: 34, hc: 50, grasa: 40 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil", "superalimentos", "poco especiada"],
   consejo: "El pesto aguanta 4 días en un tarro cubierto con un hilo de aceite para que no se oscurezca. Si el tofu te parece soso, déjalo 10 minutos en tamari con limón antes de cocinarlo.",
   alternativa: "Si no tienes levadura nutricional, pon 15 g de parmesano rallado en el pesto; para mantenerlo vegetal, añade en su lugar 5 g más de nueces y una pizca extra de sal.",

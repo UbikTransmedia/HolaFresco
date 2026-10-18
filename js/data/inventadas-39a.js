@@ -105,7 +105,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "microondas"],
+  equipo: ["cazuela", "microondas"],
   coccion: ["una-olla", "microondas"],
   raciones: 2,
   ingredientes: [
@@ -124,12 +124,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla y el ajo. Pon las rodajas de patata y las judías verdes troceadas en un recipiente apto para microondas con 3 cucharadas de agua y una pizca de sal. Tapa y cocina 8 minutos a 800 W, hasta que la patata se deje pinchar sin resistencia.",
-    "Mientras, calienta el aceite en una cazuela a fuego medio y pocha la cebolla y el ajo 6 minutos, hasta que estén blandos.",
-    "Añade los pimientos asados, las almendras y el caldo; cuece 3 minutos y tritura con la batidora hasta obtener una salsa lisa.",
-    "Devuelve la salsa a la cazuela, sazona el rape e introdúcelo. Cuece tapado 5-6 minutos a fuego suave, hasta que el pescado esté opaco por dentro. Mientras, pica el perejil.",
+    "Mientras, calienta el aceite en una cazuela a fuego medio y pocha la cebolla y el ajo 6 minutos, hasta que estén blandos. Aprovecha para picar muy finos los pimientos asados y las almendras.",
+    "Añade los pimientos y las almendras picados y el caldo y cuece 5 minutos, aplastando los pimientos con la cuchara, hasta tener una salsa espesa.",
+    "Sazona el rape e introdúcelo en la salsa. Cuece tapado 5-6 minutos a fuego suave, hasta que el pescado esté opaco por dentro. Mientras, pica el perejil.",
     "Incorpora la patata y las judías a la cazuela, mueve con suavidad para que se impregnen y termina con el perejil."
   ],
-  nutricion: { kcal: 406, prot: 32, hc: 38, grasa: 14 },
+  nutricion: { kcal: 400, prot: 31, hc: 40, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "alta en proteína", "microondas", "fácil", "detox", "poco especiada", "bajo en colesterol"],
   consejo: "Monta el tupper con las patatas y judías abajo y el rape encima cubierto de salsa, así no se reseca. Aguanta 2-3 días en la nevera. Recalienta a potencia media (500-600 W) 2 minutos tapado, deja reposar 1 minuto y repite si hace falta: a potencia alta el rape se endurece. Con merluza o abadejo sale igual de bien y más barato.",
   tupper: true,
@@ -236,9 +236,9 @@ window.RECETAS_SEED.push({
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "pollo",
-  tiempo: 35,
+  tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -257,13 +257,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el farro en abundante agua con sal 25 minutos, hasta que esté tierno pero entero y con mordida. Escúrrelo y enfríalo bajo el grifo.",
-    "Mientras, salpimienta la pechuga, espolvoréala con el tomillo y hazla en una sartén con un hilo de aceite 5-6 minutos por cada lado a fuego medio, hasta que el centro deje de estar rosado. Déjala reposar 5 minutos y córtala en dados.",
-    "Mientras se hace el pollo, corta el apio en rodajas finas y bate en un tarro la mostaza, el vinagre, el resto del aceite, sal y pimienta hasta que emulsione.",
+    "Cuece el farro en abundante agua con sal 25 minutos, hasta que esté tierno pero entero y con mordida. Mientras empieza a cocer, corta el apio en rodajas finas y bate en un tarro la mostaza, el vinagre, el aceite, el tomillo, sal y pimienta hasta que emulsione.",
+    "A los 10 minutos de cocción, salpimienta la pechuga entera y métela en la olla con el farro. Cuécela los 15 minutos restantes a hervor suave, hasta que el centro deje de estar rosado.",
+    "Saca la pechuga, deja que repose 5 minutos y córtala en dados. Escurre el farro y enfríalo bajo el grifo.",
     "En un bol mezcla el farro, el pollo, el apio y las uvas. Aliña con dos tercios de la vinagreta.",
     "Reparte en los tuppers y pon encima los canónigos y las avellanas sin mezclar."
   ],
-  nutricion: { kcal: 564, prot: 38, hc: 58, grasa: 20 },
+  nutricion: { kcal: 665, prot: 35, hc: 55, grasa: 33 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "fácil", "batch cooking", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría: no necesita microondas. El farro aliñado aguanta 3 días sin ablandarse, pero guarda la vinagreta restante en un botecito aparte y los canónigos y avellanas encima sin mezclar, para que sigan frescos y crujientes. Cambia la uva por manzana o pera según temporada.",
   alternativa: "Si no hay farro, usa 120 g de trigo tierno para cocinar o cebada perlada: cuécelos 25-30 min y quedan igual de enteros y mordientes en la ensalada.",
@@ -326,7 +326,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "microondas", "bol"],
+  equipo: ["cazuela", "bol"],
   coccion: ["una-olla", "microondas"],
   raciones: 2,
   ingredientes: [
@@ -344,13 +344,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava la quinoa y cuécela con los huevos en la misma cazuela, en abundante agua con sal, 11 minutos. Saca los huevos a un bol con agua fría y escurre la quinoa.",
-    "Mientras se cuece, corta el brócoli en arbolitos y ponlo en un recipiente para microondas con 2 cucharadas de agua; tapa y cocina 3 minutos a 800 W, hasta que esté verde intenso y tierno pero firme.",
+    "Lava la quinoa y cuécela con los huevos en la misma cazuela, en abundante agua con sal, 11 minutos. Mientras, corta el brócoli en arbolitos y añádelo a la cazuela en los últimos 3 minutos, hasta que esté verde intenso y tierno pero firme.",
+    "Saca los huevos a un bol con agua fría y escurre la quinoa con el brócoli.",
     "Mezcla el yogur con el curry, el zumo del limón, una pizca de sal y 1 cucharada de agua hasta tener una salsa fluida.",
-    "Pela los huevos y pártelos en cuartos. En un bol combina la quinoa, las lentejas, la zanahoria rallada y el brócoli. Aliña con el aceite y una pizca de sal.",
+    "Pela los huevos y pártelos en cuartos. En un bol combina la quinoa con el brócoli, las lentejas y la zanahoria rallada. Aliña con el aceite y una pizca de sal.",
     "Reparte en los tuppers, coloca encima los huevos y espolvorea las semillas de calabaza."
   ],
-  nutricion: { kcal: 448, prot: 26, hc: 50, grasa: 16 },
+  nutricion: { kcal: 485, prot: 27, hc: 44, grasa: 22 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "ligera", "vegetariana", "fácil", "rápida", "superalimentos"],
   consejo: "Pensado para comer frío. Lleva la salsa de yogur al curry en un botecito aparte y añádela al final, así el bol no se empapa. Aguanta 3 días en la nevera; los huevos, mejor pelados el mismo día que los vayas a llevar.",
   tupper: true,
@@ -593,7 +593,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["horno", "cazuela", "batidora", "bol"],
+  equipo: ["horno", "cazuela", "bol"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -616,11 +616,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Ralla un ajo, pica el perejil y corta el calabacín en dados. En un bol mezcla el pollo con el huevo, el pan rallado, el ajo rallado, el perejil, sal y pimienta. Forma 14-16 albóndigas con las manos húmedas.",
     "Colócalas en una bandeja con papel junto al calabacín regado con 1 cucharada de aceite. Hornea 15 minutos, hasta que las albóndigas estén doradas.",
-    "Mientras, pica la cebolla y el otro ajo y pocha ambos en una cazuela con el resto del aceite 6 minutos. Añade el pimentón, los pimientos y el tomate y cuece 8 minutos. Tritura hasta que quede fina.",
+    "Mientras, pica la cebolla, el otro ajo y los pimientos asados muy finos. Pocha la cebolla y el ajo en una cazuela con el resto del aceite 6 minutos. Añade el pimentón, los pimientos y el tomate y cuece 8 minutos, aplastando los pimientos con la cuchara, hasta que la salsa espese.",
     "Pasa las albóndigas a la salsa y cuece todo junto 5 minutos a fuego suave para que se impregnen.",
-    "Mientras, pon el cuscús en un bol con 140 ml de agua hirviendo y sal, tapa 5 minutos, suéltalo con un tenedor y mézclalo con el calabacín asado."
+    "Mientras, pon el cuscús en el bol de las albóndigas con 140 ml de agua hirviendo y sal, tapa 5 minutos, suéltalo con un tenedor y mézclalo con el calabacín asado."
   ],
-  nutricion: { kcal: 670, prot: 44, hc: 74, grasa: 22 },
+  nutricion: { kcal: 730, prot: 45, hc: 66, grasa: 30 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "al horno", "alta en proteína", "batch cooking", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Monta el tupper con el cuscús a un lado y las albóndigas bien cubiertas de salsa al otro: la salsa las mantiene jugosas. Aguantan 3 días en la nevera y se congelan sin el cuscús. Recalienta tapado 2-3 minutos a 800 W; salpica el cuscús con una cucharada de agua para que no se seque.",
   tupper: true,
@@ -904,7 +904,7 @@ window.RECETAS_SEED.push({
   proteina: "heura",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -923,16 +923,16 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el arroz integral en abundante agua con sal 30 minutos. En los últimos 7 minutos añade las judías verdes. Escurre.",
-    "Mientras, corta las judías verdes en tramos, raspa la pulpa de la ñora hidratada y ralla el tomate o pártelo en trozos.",
-    "Tritura los pimientos asados, el tomate, las almendras, la pulpa de ñora, el ajo, el vinagre, el pimentón, 1 cucharada de aceite y sal hasta tener una salsa espesa y untuosa.",
+    "Cuece el arroz integral en abundante agua con sal 30 minutos. Mientras, corta las judías verdes en tramos, raspa la pulpa de la ñora hidratada, ralla el tomate y pica muy finos el ajo, las almendras y los pimientos asados.",
+    "Mezcla en un plato hondo los pimientos, el tomate, las almendras, la pulpa de ñora, el ajo, el vinagre, el pimentón, 1 cucharada de aceite y sal, aplastando con un tenedor hasta tener una salsa espesa y untuosa.",
+    "En los últimos 7 minutos del arroz añade las judías verdes. Escurre.",
     "Calienta el resto del aceite en una sartén a fuego medio-alto y dora la heura 5-6 minutos, hasta que tenga los bordes tostados.",
     "Reparte el arroz con las judías, coloca la heura encima y cubre con el romesco."
   ],
-  nutricion: { kcal: 558, prot: 32, hc: 58, grasa: 22 },
+  nutricion: { kcal: 580, prot: 30, hc: 55, grasa: 25 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "vegana", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "El romesco aguanta 5 días en la nevera, así que puedes hacer doble cantidad. El plato montado aguanta 3 días: pon el romesco encima o en un botecito aparte. Recalienta el arroz con la heura 2 minutos a 800 W tapado y añade el romesco al final, frío o templado; si lo calientas mucho se separa el aceite.",
-  alternativa: "Si en tu zona no venden ñora, pon 1 cdta de carne de pimiento choricero de tarro o 1 cdta de pimentón dulce en la batidora: el romesco queda casi igual.",
+  alternativa: "Si en tu zona no venden ñora, pon 1 cdta de carne de pimiento choricero de tarro o 1 cdta de pimentón dulce en el romesco: queda casi igual.",
   tupper: true,
   contundencia: "media",
   coste: "media"

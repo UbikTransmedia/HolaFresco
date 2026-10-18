@@ -881,7 +881,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["airfryer", "batidora", "bol"],
+  equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
@@ -898,13 +898,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Tritura la albahaca con los piñones, el parmesano, el ajo, 2 cucharadas de aceite, el zumo del medio limón, 2 cucharadas de agua y una pizca de sal hasta obtener un pesto fluido.",
+    "Pica muy fino a cuchillo la albahaca con los piñones y el ajo, hasta que parezca una pasta gruesa. Pásalo a un bol y mézclalo con el parmesano, 2 cucharadas de aceite, el zumo del medio limón, 2 cucharadas de agua y una pizca de sal hasta obtener un pesto fluido.",
     "Mezcla los gnocchi (directamente del paquete, sin cocer) con media cucharada de aceite y ponlos en la cesta.",
     "Cocina a 200 °C durante 8 minutos, agitando a mitad.",
     "Añade el brócoli mezclado con el resto del aceite y sal, y los guisantes congelados. Agita y cocina 8–10 minutos más, agitando una vez, hasta que los gnocchi estén dorados y crujientes por fuera y el brócoli tostado en las puntas.",
-    "Pásalo todo a un bol, mézclalo con el pesto y sirve enseguida."
+    "Pásalo todo al bol del pesto, mézclalo bien y sirve enseguida."
   ],
-  nutricion: { kcal: 675, prot: 20, hc: 75.5, grasa: 32.5 },
+  nutricion: { kcal: 705, prot: 21, hc: 78, grasa: 32 },
   etiquetas: ["saludable", "práctica", "airfryer", "vegetariana", "rápida", "fácil", "para niños", "poco especiada"],
   consejo: "En la airfryer los gnocchi quedan como pequeñas patatas crujientes por fuera y tiernas por dentro, sin necesidad de hervirlos. Para más proteína, añade 150 g de garbanzos cocidos o una lata de atún al mezclar con el pesto.",
   contundencia: "contundente",

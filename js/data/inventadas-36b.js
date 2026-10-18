@@ -636,7 +636,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela", "bol"],
+  equipo: ["sartén", "bol"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -657,11 +657,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ralla los calabacines con la parte gruesa del rallador, sálalos y déjalos 10 minutos en un colador. Mientras, ralla el queso, pica el cebollino y mezcla el yogur con la mitad del cebollino, la ralladura del limón y sal.",
     "Estruja el calabacín con las manos o en un paño hasta sacar todo el agua posible. Mézclalo con el maíz, la harina de maíz, 2 huevos, el queso, el resto del cebollino y pimienta. Debe quedar una masa espesa.",
-    "Calienta el aceite en una sartén a fuego medio y forma 6 tortitas con cucharadas de masa, aplastándolas a 1 cm. Fríelas 3 minutos por lado, hasta que estén doradas y firmes. Escúrrelas sobre papel. A la vez, pon a calentar un cazo de agua con el vinagre.",
-    "Cuando el agua hierva suave, crea un remolino y escalfa los otros 2 huevos de uno en uno, 3 minutos, hasta que la clara esté cuajada y la yema líquida.",
+    "Calienta el aceite en una sartén a fuego medio y forma 6 tortitas con cucharadas de masa, aplastándolas a 1 cm. Fríelas 3 minutos por lado, hasta que estén doradas y firmes. Escúrrelas sobre papel.",
+    "Limpia la sartén con papel, llénala con 4 dedos de agua y el vinagre y llévala a hervor suave. Casca los otros 2 huevos de uno en uno y escálfalos 3 minutos, rociando la clara con el agua caliente, hasta que esté cuajada y la yema siga líquida. Sácalos con una espumadera.",
     "Sirve 3 tortitas por persona con un huevo escalfado encima y la salsa de yogur."
   ],
-  nutricion: { kcal: 540, prot: 25, hc: 36, grasa: 33 },
+  nutricion: { kcal: 575, prot: 29, hc: 38, grasa: 34 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola sartén", "fácil", "verduras escondidas", "poco especiada"],
   consejo: "Escurrir bien el calabacín es la clave para que las tortitas no se rompan. Usa harina de maíz fina con sello sin gluten (no la confundas con la maicena, que es solo almidón).",
   contundencia: "media",
@@ -857,9 +857,9 @@ window.RECETAS_SEED.push({
   cocina: "sudeste-asiático",
   momentos: ["comida", "cena"],
   proteina: "marisco",
-  tiempo: 30,
+  tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "arroz basmati", q: 100, u: "g" },
@@ -878,14 +878,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el arroz en abundante agua con sal 10–11 minutos, como si fuera pasta.",
-    "Mientras, saltea las gambas en una sartén caliente con unas gotas de aceite 2 minutos, hasta que estén rosadas, y déjalas enfriar. En la misma sartén tuesta los cacahuetes 2 minutos y trocéalos.",
-    "Corta la piña, el pimiento y el pepino en dados pequeños y la parte verde de la cebolleta en aros. Pica el cilantro y la menta.",
-    "Escurre el arroz, pásalo por agua fría y déjalo escurrir bien. Prepara el aliño disolviendo el azúcar en el zumo de las limas con la salsa de pescado y el resto del aceite.",
-    "Mezcla el arroz con las verduras, la piña, las gambas y el aliño. Deja reposar 5 minutos para que el arroz se impregne.",
+    "Cuece el arroz en abundante agua con sal 10–11 minutos, como si fuera pasta. Mientras, corta la piña, el pimiento y el pepino en dados pequeños y la parte verde de la cebolleta en aros, pica el cilantro y la menta y trocea los cacahuetes.",
+    "Prepara el aliño disolviendo el azúcar en el zumo de las limas con la salsa de pescado y el aceite.",
+    "En el último minuto de cocción, añade las gambas a la olla del arroz y cuécelas hasta que estén rosadas. Escurre todo junto, pásalo por agua fría y déjalo escurrir bien.",
+    "Mezcla el arroz y las gambas con las verduras, la piña y el aliño. Deja reposar 5 minutos para que el arroz se impregne.",
     "Sirve con las hierbas y los cacahuetes por encima."
   ],
-  nutricion: { kcal: 440, prot: 27, hc: 55, grasa: 12 },
+  nutricion: { kcal: 500, prot: 32, hc: 61, grasa: 13 },
   etiquetas: ["sin gluten", "bajo en fodmap", "tupper", "ideal para llevar", "verano", "fácil", "poco especiada"],
   consejo: "Algunas salsas de pescado llevan trigo o proteína hidrolizada: busca una que sea solo pescado, sal y azúcar. En tupper, añade hierbas y cacahuetes justo antes de comer.",
   contundencia: "ligera",
@@ -993,7 +992,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["wok", "sartén"],
+  equipo: ["wok"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -1015,10 +1014,10 @@ window.RECETAS_SEED.push({
     "Mientras, mezcla el tamari, la salsa de pescado, el azúcar y 2 cucharadas de agua. Corta las judías verdes en trozos de 1 cm y el chile en aros. Escurre los fideos.",
     "Calienta el wok a fuego fuerte con el aceite de ajo y saltea el cerdo picado 5 minutos, deshaciéndolo con la espátula, hasta que esté dorado y algo crujiente.",
     "Añade las judías verdes y el chile y saltea 3 minutos más.",
-    "Incorpora los fideos y la salsa y saltea 2 minutos, hasta que se tiñan y estén calientes. Apaga y añade las hojas de albahaca, que se ablandarán con el calor.",
-    "En una sartén con el aceite de oliva muy caliente, fríe los huevos 1–2 minutos, hasta que los bordes estén crujientes y la yema líquida. Sirve un huevo sobre cada plato de fideos."
+    "Incorpora los fideos y la salsa y saltea 2 minutos, hasta que se tiñan y estén calientes. Apaga, añade las hojas de albahaca, que se ablandarán con el calor, y reparte los fideos en los platos.",
+    "Pasa un papel por el wok, calienta en él el aceite de oliva a fuego fuerte y fríe los huevos 1–2 minutos, hasta que los bordes estén crujientes y la yema líquida. Sirve un huevo sobre cada plato de fideos."
   ],
-  nutricion: { kcal: 735, prot: 40, hc: 63, grasa: 36 },
+  nutricion: { kcal: 825, prot: 42, hc: 63, grasa: 43 },
   etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "picante", "fácil"],
   consejo: "La receta tailandesa lleva mucho ajo y salsa de ostras (que suele contener trigo); aquí el aceite de ajo y el tamari los sustituyen. Ajusta el chile a tu gusto.",
   contundencia: "contundente",

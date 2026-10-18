@@ -294,9 +294,9 @@ window.RECETAS_SEED.push({
   coste: "económica",
   momentos: ["comida", "cena"],
   proteina: "pescado",
-  tiempo: 50,
+  tiempo: 45,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "bol"],
+  equipo: ["horno", "bol"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -309,19 +309,18 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 50, u: "ml" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "tomate", q: 2, u: "ud" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 0.5, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 180 °C. Ralla el calabacín, sálalo, déjalo 10 minutos en un colador y escúrrelo apretando con las manos. Mientras escurre, pica la cebolla y el pimiento.",
-    "Saltea la cebolla y el pimiento con media cucharada de aceite 6 minutos a fuego medio, hasta que estén blandos.",
-    "Bate los huevos con la leche, el orégano, sal y pimienta. Mezcla con el calabacín, el sofrito, el atún desmigado y la mitad del queso.",
+    "Precalienta el horno a 180 °C. Ralla el calabacín, sálalo, déjalo 10 minutos en un colador y escúrrelo apretando con las manos. Mientras escurre, pica muy finos la cebolla y el pimiento.",
+    "En un bol, bate los huevos con la leche, el orégano, sal y pimienta. Mezcla con el calabacín, la cebolla, el pimiento, el atún desmigado y la mitad del queso.",
     "Vierte en un molde de unos 20 x 15 cm forrado con papel y reparte el resto del queso por encima.",
-    "Hornea 30-35 minutos, hasta que esté dorado y un palillo salga limpio del centro.",
-    "Deja templar 10 minutos y corta en 4 porciones. Corta el tomate en gajos y alíñalo con el resto del aceite y sal al servir."
+    "Hornea 35 minutos, hasta que esté dorado, la verdura tierna y un palillo salga limpio del centro.",
+    "Deja templar 10 minutos y corta en 4 porciones. Corta el tomate en gajos y alíñalo con el aceite y sal al servir."
   ],
-  nutricion: { kcal: 450, prot: 41, hc: 17, grasa: 24 },
+  nutricion: { kcal: 435, prot: 42, hc: 18, grasa: 20 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "ligera", "alta en proteína", "sin gluten", "fácil", "económica", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "Aguanta 4 días en la nevera. Congela las porciones envueltas por separado hasta 2 meses y descongélalas en la nevera. Se come frío o con 1 minuto a 600 W. El tomate, alíñalo en el momento para que no suelte agua en el tupper.",
   tupper: true
@@ -384,7 +383,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "batidora"],
+  equipo: ["horno", "sartén"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -407,12 +406,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Pica muy finas las espinacas y el perejil y ralla un ajo. Mezcla la ternera con las espinacas, el huevo, el pan rallado, el ajo rallado, la mitad del perejil y sal. Forma 14 albóndigas.",
     "Colócalas en una bandeja con papel, pincélalas con un tercio del aceite y hornea 15 minutos, hasta que estén doradas.",
-    "Mientras, lamina los otros dos ajos y pica la cebolla. Dora en una sartén con el resto del aceite las almendras y los ajos 2 minutos y resérvalos. En el mismo aceite, pocha la cebolla 7 minutos, añade el pimentón y el vino y deja reducir 2 minutos.",
-    "Tritura la cebolla con las almendras, los ajos y el caldo hasta obtener una salsa fina y devuélvela a la sartén.",
+    "Mientras, lamina los otros dos ajos y pica muy fina la cebolla. Dora en una sartén con el resto del aceite las almendras y los ajos 2 minutos y sácalos a la tabla. En el mismo aceite, pocha la cebolla 7 minutos; mientras, pica muy finos las almendras y los ajos dorados.",
+    "Añade a la sartén el pimentón y el vino y deja reducir 2 minutos. Incorpora la picada de almendra y el caldo y cuece 5 minutos, hasta que la salsa espese un poco.",
     "Pasa las albóndigas a la salsa y cuece 8 minutos a fuego suave. Mientras, hierve 150 ml de agua con sal, apaga, añade el cuscús, tapa 5 minutos y desgrana con un tenedor.",
     "Termina las albóndigas con el resto del perejil y reparte con el cuscús en tuppers."
   ],
-  nutricion: { kcal: 760, prot: 47, hc: 67, grasa: 34 },
+  nutricion: { kcal: 840, prot: 51, hc: 72, grasa: 36 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "fácil", "para niños", "verduras escondidas", "poco especiada"],
   consejo: "Las albóndigas en su salsa aguantan 4 días en la nevera y 3 meses congeladas. Descongela en la nevera y recalienta tapado 3 minutos a 700 W; si la salsa ha espesado, añade un chorrito de agua. El cuscús revive con una cucharada de agua y 1 minuto de microondas.",
   tupper: true
@@ -576,7 +575,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 70,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén", "bol"],
+  equipo: ["horno", "cazuela", "bol"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -597,14 +596,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava las lentejas y cuécelas en 300 ml de agua 12 minutos a fuego suave, hasta que absorban el agua y queden como un puré espeso. Deja enfriar 10 minutos. Mientras, precalienta el horno a 190 °C y ralla la cebolla y la zanahoria.",
-    "Saltea la cebolla y la zanahoria en el aceite 6 minutos y añade las espinacas hasta que mermen.",
+    "Precalienta el horno a 190 °C y ralla la cebolla y la zanahoria. Calienta el aceite en una cazuela y saltea la cebolla y la zanahoria 6 minutos; añade las espinacas hasta que mermen y pásalo todo a un bol.",
+    "En la misma cazuela, cuece las lentejas lavadas en 300 ml de agua 12 minutos a fuego suave, hasta que absorban el agua y queden como un puré espeso. Pásalas al bol y deja que se templen 10 minutos.",
     "Mezcla las lentejas con las verduras, los huevos, la avena, el comino, el pimentón, sal y pimienta.",
     "Vierte en un molde alargado forrado con papel, alisa la superficie y píntala con el tomate concentrado diluido en una cucharada de agua.",
     "Hornea 40 minutos, hasta que esté firme y dorado. Mientras, mezcla el yogur con el zumo de limón y sal y guárdalo aparte para servir.",
     "Deja enfriar 15 minutos en el molde antes de desmoldar y cortar en 6 rebanadas."
   ],
-  nutricion: { kcal: 440, prot: 27, hc: 52, grasa: 13 },
+  nutricion: { kcal: 480, prot: 28, hc: 54, grasa: 14 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "vegetariana", "ligera", "alta en proteína", "sin gluten", "fácil", "económica", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera y 3 meses congelado en rebanadas separadas con papel. Descongela en la nevera y recalienta 1 minuto a 600 W o dóralo en la sartén. También está bueno frío con ensalada. La salsa de yogur, siempre fría.",
   tupper: true
@@ -1094,11 +1093,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30-35 minutos y escúrrelo.",
     "Mientras, precalienta el horno a 210 °C y corta los pimientos y la cebolla en trozos de 3 cm. Mézclalos en una bandeja con el pollo y la piña, el aceite y una pizca de sal. Hornea 15 minutos.",
-    "Mientras, ralla el jengibre y el ajo y mézclalos en un cazo con el tamari, el vinagre, el tomate concentrado, la miel, la maicena y 60 ml de agua. Calienta removiendo 2 minutos, hasta que espese.",
-    "Vierte la salsa sobre la bandeja, mezcla bien y hornea 5-7 minutos más, hasta que todo quede glaseado y brillante.",
+    "Mientras, ralla el jengibre y el ajo y mézclalos en un vaso con el tamari, el vinagre, el tomate concentrado, la miel, la maicena y 60 ml de agua, removiendo hasta que no queden grumos.",
+    "Vierte la salsa sobre la bandeja, mezcla bien y hornea 7-8 minutos más, removiendo a mitad, hasta que la salsa espese y todo quede glaseado y brillante.",
     "Espolvorea el sésamo y reparte con el arroz en tuppers."
   ],
-  nutricion: { kcal: 625, prot: 43, hc: 84, grasa: 13 },
+  nutricion: { kcal: 700, prot: 39, hc: 85, grasa: 22 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "al horno", "alta en proteína", "sin gluten", "fácil", "económica", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera. El pollo con su salsa se congela 3 meses; descongela en la nevera y recalienta 2-3 minutos a 800 W. Usar tamari en lugar de salsa de soja lo hace apto sin gluten.",
   tupper: true
@@ -1117,7 +1116,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -1140,12 +1139,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Hidrata la soja en el caldo caliente 10 minutos. Mientras, pica la cebolla y el ajo y pela y corta la patata y la zanahoria en dados de 1,5 cm. Escurre la soja apretando y reserva el caldo.",
     "Cuece el arroz con 200 ml de agua y sal: 14 minutos tapado a fuego mínimo y 5 de reposo.",
-    "Tritura el cilantro (hojas y tallos tiernos) y las espinacas con 100 ml del caldo reservado hasta obtener un puré verde.",
+    "Mientras, pica muy finos el cilantro (hojas y tallos tiernos) y las espinacas y mézclalos con 100 ml del caldo reservado.",
     "Pocha la cebolla en el aceite 7 minutos. Añade el ajo, la pasta de ají y el comino, remueve 1 minuto e incorpora la soja; dórala 5 minutos.",
-    "Vierte el puré verde y el resto del caldo, añade la patata y la zanahoria, tapa y cuece 15 minutos.",
+    "Vierte el picadillo verde y el resto del caldo, añade la patata y la zanahoria, tapa y cuece 15 minutos.",
     "Agrega los guisantes y cuece 5 minutos más. Prueba de sal y reparte con el arroz en tuppers."
   ],
-  nutricion: { kcal: 550, prot: 31, hc: 87, grasa: 9 },
+  nutricion: { kcal: 580, prot: 33, hc: 83, grasa: 9 },
   etiquetas: ["saludable", "práctica", "batch cooking", "tupper", "ideal para llevar", "vegana", "alta en proteína", "sin gluten", "fácil", "económica", "bajo en colesterol"],
   consejo: "Aguanta 4 días en la nevera; el verde se apaga un poco con los días, pero el sabor mejora. Se congela 3 meses. Descongela en la nevera y recalienta 3 minutos a 800 W tapado. Si no encuentras pasta de ají amarillo, usa media cucharadita de pimentón y un poco de guindilla.",
   tupper: true

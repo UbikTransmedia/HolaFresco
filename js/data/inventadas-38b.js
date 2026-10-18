@@ -46,7 +46,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1887",
   nombre: "Pulpo templado al microondas con boniato y mojo verde canario",
-  subtitulo: "pulpo cocido tibio, boniato meloso y mojo de cilantro triturado en un minuto",
+  subtitulo: "pulpo cocido tibio, boniato meloso y mojo de cilantro picado a cuchillo",
   origen: "inventada",
   categoria: "pescado",
   cocina: "española",
@@ -54,7 +54,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["microondas", "batidora"],
+  equipo: ["microondas"],
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
@@ -73,12 +73,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela el boniato, córtalo en rodajas de 1,5 cm y ponlo en una fuente apta con 2 cucharadas de agua y sal. Tapa y cocina a 800 W 6-7 minutos, hasta que esté tierno pero entero.",
-    "Mientras, tritura el cilantro, el perejil, el ajo, el pimiento verde, el comino, el vinagre, el aceite (reserva 1 cucharadita), 2 cucharadas de agua y sal hasta tener un mojo espeso.",
+    "Mientras, pica muy fino a cuchillo el cilantro, el perejil, el ajo y el pimiento verde y mézclalos en un bol con el comino, el vinagre, el aceite (reserva 1 cucharadita), 2 cucharadas de agua y sal hasta tener un mojo espeso.",
     "Corta el pulpo en rodajas de 1 cm y ponlo en un plato apto con su gelatina, si la trae. Tapa.",
     "Témplalo a 500 W 1,5-2 minutos: solo tiene que estar tibio, si se calienta de más se endurece.",
     "Coloca el boniato en los platos, el pulpo encima, espolvorea el pimentón, riega con la cucharadita de aceite reservada y sirve con el mojo verde."
   ],
-  nutricion: { kcal: 515, prot: 30, hc: 45, grasa: 24 },
+  nutricion: { kcal: 590, prot: 49, hc: 40, grasa: 23 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "alta en proteína", "rápida", "fácil", "poco especiada"],
   consejo: "El pulpo cocido envasado ya viene listo: solo hay que templarlo a baja potencia. El mojo verde aguanta 4 días en un tarro en la nevera y va genial con patatas o pescado. Para el tupper, lleva el mojo aparte y cómelo frío o apenas templado.",
   tupper: true,
@@ -285,7 +285,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["microondas", "batidora"],
+  equipo: ["microondas"],
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
@@ -308,11 +308,11 @@ window.RECETAS_SEED.push({
     "Lava el arroz y ponlo en un bol grande con 300 ml de agua, la mitad del comino y sal. Tapa entreabierto y cocina a 800 W 9 minutos y a 400 W 5 minutos. Reposa tapado 5 minutos.",
     "Mientras se cuece, corta la cebolla morada en pluma fina y mézclala con el zumo de media lima y una pizca de sal: en 15 minutos estará encurtida y rosa. Unta las pechugas con el resto del comino, el pimentón, el aceite y sal.",
     "Pon las pechugas en una fuente apta con la parte gruesa hacia el borde, tapa y cocina a 600 W 4 minutos; dales la vuelta y cocina 3-4 minutos más, hasta que el centro esté blanco. Reposa 3 minutos tapadas.",
-    "Mientras se hace el pollo, tritura el aguacate con el cilantro, el ajo, el chile, el zumo de una lima, 3-4 cucharadas de agua y sal hasta tener una salsa verde fluida.",
+    "Mientras se hace el pollo, pica muy fino el cilantro, el ajo y el chile. Aplasta el aguacate con un tenedor hasta dejarlo casi liso y mézclalo con lo picado, el zumo de una lima, 3-4 cucharadas de agua y sal hasta tener una salsa verde cremosa.",
     "Mientras reposa el pollo, calienta las alubias en un bol tapado con 2 cucharadas de agua y sal a 800 W 2 minutos.",
     "Corta el pollo en tiras y sírvelo con el arroz, las alubias, la cebolla encurtida, la salsa verde y gajos de la lima restante."
   ],
-  nutricion: { kcal: 715, prot: 49, hc: 80, grasa: 22 },
+  nutricion: { kcal: 805, prot: 45, hc: 79, grasa: 31 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "alta en proteína", "fácil", "superalimentos", "bajo en colesterol"],
   consejo: "Para el tupper, guarda la salsa verde en un tarro con film pegado a la superficie para que no se oxide y añádela al servir. El arroz, las alubias y el pollo se recalientan juntos a 600 W 2 minutos.",
   tupper: true,
@@ -877,7 +877,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1905",
   nombre: "Pasta sin gluten al microondas con salsa de pimiento asado y almendra, espinacas y ricotta",
-  subtitulo: "salsa tipo romesco ligera triturada en un minuto",
+  subtitulo: "salsa tipo romesco ligera picada a cuchillo",
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "mediterránea",
@@ -885,7 +885,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["microondas", "batidora"],
+  equipo: ["microondas"],
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
@@ -906,11 +906,11 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tuesta las almendras en un plato a 800 W 2 minutos, removiendo a mitad.",
     "Pon la pasta en un bol grande y alto apto, cúbrela con agua hasta 3 cm por encima y añade sal. Cocina sin tapar a 800 W el tiempo del paquete más 2 minutos, removiendo cada 3 minutos: la pasta sin gluten se pega más.",
-    "Cuando la pasta esté casi hecha, tritura los pimientos con el ajo, el pimentón, las almendras, el aceite, la mitad del parmesano, sal y 3 cucharadas del agua de cocción de la pasta hasta tener una salsa lisa.",
+    "Mientras se cuece la pasta, pica muy finos las almendras y el ajo, y luego los pimientos hasta dejarlos casi en puré. Mézclalo en un plato hondo con el pimentón, el aceite, la mitad del parmesano y sal, aplastando con un tenedor. Cuando la pasta esté casi hecha, aligera la salsa con 3 cucharadas del agua de cocción.",
     "Escurre la pasta, devuélvela al bol con las espinacas y la salsa, mezcla y calienta a 800 W 1,5 minutos, hasta que las espinacas se ablanden.",
     "Sirve con cucharadas de ricotta, el resto del parmesano, pimienta y albahaca."
   ],
-  nutricion: { kcal: 570, prot: 20, hc: 72, grasa: 23 },
+  nutricion: { kcal: 575, prot: 20, hc: 71, grasa: 23 },
   etiquetas: ["saludable", "práctica", "microondas", "sin gluten", "tupper", "ideal para llevar", "rápida", "fácil", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa de pimiento se congela en cubitera y es un comodín para pasta, arroz o pescado. La pasta sin gluten recalentada queda mejor con un chorrito de agua, tapada y a 600 W 2 minutos.",
   tupper: true,

@@ -55,9 +55,9 @@ window.RECETAS_SEED.push({
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
-  tiempo: 25,
+  tiempo: 20,
   dificultad: "fácil",
-  equipo: ["sartén", "microondas", "bol"],
+  equipo: ["microondas", "bol"],
   coccion: ["microondas"],
   raciones: 1,
   ingredientes: [
@@ -75,9 +75,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Calienta el aceite en una sartén a fuego medio-alto y saltea los champiñones 4 minutos, hasta que se doren y se evapore su agua. Añade el puerro con sal y cocina 5 minutos más, hasta que esté blando.",
-    "En un bol bate los huevos con el yogur, el tomillo, la nuez moscada, sal y pimienta.",
-    "Reparte las verduras en un molde de vidrio apto para microondas de unos 18 cm, vierte el huevo por encima y coloca las rodajas de queso de cabra.",
+    "Pon los champiñones y el puerro en un molde de vidrio apto para microondas de unos 18 cm con el aceite y sal. Tapa y cocina 5 minutos a 800 W, removiendo a mitad, hasta que el puerro esté blando. Escurre el agua que hayan soltado.",
+    "Mientras se cocinan, bate en un bol los huevos con el yogur, el tomillo, la nuez moscada, sal y pimienta.",
+    "Extiende las verduras en el molde, vierte el huevo por encima y coloca las rodajas de queso de cabra.",
     "Cocina 4 minutos a 600 W, deja reposar 1 minuto y cocina 2-3 minutos más, hasta que el centro esté cuajado y no tiemble.",
     "Deja reposar 5 minutos antes de cortar en porciones; acompaña con los canónigos."
   ],
@@ -675,7 +675,7 @@ window.RECETAS_SEED.push({
   proteina: "pavo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -695,13 +695,13 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece la pasta en abundante agua con sal según el paquete; añade los guisantes en los últimos 3 minutos. Escurre y enfría bajo el grifo.",
-    "Mientras, haz la pechuga de pavo salpimentada en una sartén con el aceite 4 minutos por cada lado a fuego medio, hasta que esté hecha. Deja reposar y córtala en dados.",
-    "Mientras se hace el pavo, pica la cebolleta y el cebollino y mezcla el yogur con la mostaza, el zumo del limón, sal y pimienta hasta tener una salsa cremosa.",
+    "Pon a hervir abundante agua con sal. Cuando hierva, mete la pechuga de pavo salpimentada y cuécela 4 minutos a hervor suave. Añade entonces la pasta y cuece el tiempo del paquete, con los guisantes en los últimos 3 minutos.",
+    "Mientras se cuece, pica la cebolleta y el cebollino y mezcla el yogur con la mostaza, el zumo del limón, el aceite, sal y pimienta hasta tener una salsa cremosa.",
+    "Saca el pavo (sin rastro rosado en el centro) y escurre la pasta con los guisantes; enfríalos bajo el grifo. Corta el pavo en dados.",
     "En un bol combina la pasta, los guisantes, el pavo, la zanahoria, los pepinillos y la cebolleta. Añade la salsa y mezcla bien.",
     "Reparte en los tuppers y espolvorea el cebollino picado."
   ],
-  nutricion: { kcal: 532, prot: 36, hc: 70, grasa: 12 },
+  nutricion: { kcal: 535, prot: 43, hc: 63, grasa: 11 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "alta en proteína", "para niños", "económica", "fácil", "rápida", "poco especiada", "bajo en colesterol"],
   consejo: "Se come fría y aguanta 3 días en la nevera. La pasta absorbe la salsa con el paso de las horas: si la preparas para varios días, guarda un tercio de la salsa de yogur aparte y añádela al comer. Mantén el tupper en la nevera de la oficina hasta la hora de comer.",
   tupper: true,
@@ -720,7 +720,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -740,12 +740,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece el arroz integral en abundante agua con sal 30 minutos, hasta que esté tierno. Escúrrelo.",
-    "Mientras, tritura las espinacas, la albahaca, los piñones, el parmesano, el ajo, el zumo del limón, 1 cucharada de aceite, sal y 2-3 cucharadas de agua fría hasta tener un pesto fluido. Parte los tomates cherry por la mitad.",
+    "Mientras, pica muy fino a cuchillo las espinacas, la albahaca, los piñones y el ajo, hasta que parezca una pasta gruesa. Mézclalo en un tarro con el parmesano, el zumo del limón, 1 cucharada de aceite, sal y 2-3 cucharadas de agua fría hasta tener un pesto fluido. Parte los tomates cherry por la mitad.",
     "Calienta el resto del aceite en una sartén a fuego medio-alto, salpimienta el pollo y saltéalo 6 minutos, hasta que esté dorado y hecho por dentro.",
     "Añade los tomates cherry y saltea 2 minutos, solo hasta que empiecen a ablandarse.",
     "Fuera del fuego, mezcla el arroz con el pollo, los tomates y el pesto."
   ],
-  nutricion: { kcal: 596, prot: 40, hc: 64, grasa: 20 },
+  nutricion: { kcal: 640, prot: 37, hc: 54, grasa: 30 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "alta en proteína", "fácil", "batch cooking", "verduras escondidas", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Mezcla el pesto siempre fuera del fuego: el limón y las espinacas lo mantienen verde 3 días en la nevera. Se come frío como ensalada de arroz o templado 1 minuto y medio a 600 W, tapado y sin pasarte para que el pesto no se oscurezca.",
   alternativa: "Para abaratar el pesto, cambia los piñones por 15 g de almendras o nueces: apenas varía el sabor.",
@@ -918,13 +918,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon las lentejas lavadas, la patata y el caldo en una cazuela. Lleva a ebullición y cuece 20 minutos a fuego suave.",
-    "Mientras, pica la cebolla y el ajo y separa las hojas de acelga de las pencas. Calienta el aceite en una sartén a fuego medio y sofríe la cebolla 8 minutos, hasta que esté dorada. Añade el ajo y el comino y remueve 1 minuto.",
-    "Agrega a la cazuela el sofrito y las pencas de acelga y cuece 8 minutos. Mientras, pica el cilantro.",
+    "Pica la cebolla y el ajo. Calienta el aceite en una cazuela a fuego medio y sofríe la cebolla 6 minutos, hasta que esté blanda y empiece a dorarse. Añade el ajo y el comino y remueve 1 minuto.",
+    "Incorpora las lentejas lavadas, la patata y el caldo. Lleva a ebullición y cuece 20 minutos a fuego suave. Mientras, separa las hojas de acelga de las pencas y pica el cilantro.",
+    "Agrega las pencas de acelga y cuece 8 minutos.",
     "Incorpora las hojas de acelga y la mitad del cilantro y cuece 4 minutos más, hasta que las lentejas estén tiernas.",
     "Apaga, añade el zumo del limón, salpimienta y termina con el resto del cilantro."
   ],
-  nutricion: { kcal: 388, prot: 20, hc: 50, grasa: 12 },
+  nutricion: { kcal: 460, prot: 22, hc: 62, grasa: 12 },
   etiquetas: ["saludable", "práctica", "tupper", "ideal para llevar", "sin gluten", "vegana", "de cuchara", "ligera", "batch cooking", "económica", "fácil", "detox", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Aguanta 3-4 días en la nevera y se congela bien. Recalienta tapada 3 minutos a 800 W. El limón pierde fuerza con los días: lleva un gajo aparte y exprímelo justo antes de comer. Si quieres más proteína, añade al tupper unos dados de tofu firme o un puñado de garbanzos tostados.",
   tupper: true,
