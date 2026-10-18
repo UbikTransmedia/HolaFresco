@@ -807,7 +807,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 130,
   dificultad: "media",
-  equipo: ["horno", "sartén", "cazuela"],
+  equipo: ["horno", "sartén"],
   raciones: 3,
   ingredientes: [
     { n: "costillas de cerdo", q: 600, u: "g", nota: "en tira, con hueso" },
@@ -829,9 +829,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 160 °C. Machaca el ajo y frota las costillas con sal, pimienta, el pimentón, el ajo y la alcaravea. Ponlas en una fuente con el hueso hacia arriba, vierte 150 ml de cerveza en el fondo y tapa con papel de aluminio.",
     "Hornéalas 90 minutos tapadas, hasta que la carne se retire del hueso al pincharla. Mientras, corta la cebolla en plumas y deja escurrir el chucrut en un colador.",
-    "Cuando falten 10 minutos, prepara el glaseado: pon en un cazo los 100 ml de cerveza restantes con la miel y la mostaza y redúcelo a fuego medio 5-6 minutos, hasta que cubra el dorso de una cuchara.",
+    "Cuando falten 10 minutos, prepara el glaseado en la sartén: pon los 100 ml de cerveza restantes con la miel y la mostaza y redúcelo a fuego medio 5-6 minutos, hasta que cubra el dorso de una cuchara. Pásalo a un cuenco.",
     "Destapa las costillas, dales la vuelta con la carne hacia arriba y píntalas con el glaseado. Sube el horno a 220 °C y hornéalas 15-20 minutos más, pintándolas cada 5 minutos, hasta que estén brillantes y caramelizadas por los bordes.",
-    "Mientras, rehoga la cebolla con el aceite en la sartén 5 minutos y, entretanto, corta la manzana en láminas. Añádela y cocina 3 minutos. Incorpora el chucrut escurrido y saltea 8 minutos a fuego medio, hasta que se dore en algunos puntos.",
+    "Mientras, en la misma sartén, sin lavarla, rehoga la cebolla con el aceite 5 minutos y, entretanto, corta la manzana en láminas. Añádela y cocina 3 minutos. Incorpora el chucrut escurrido y saltea 8 minutos a fuego medio, hasta que se dore en algunos puntos.",
     "Corta las costillas entre hueso y hueso y sírvelas con el chucrut, el pan de centeno y, si te gusta, un poco de rábano picante."
   ],
   nutricion: { kcal: 630, prot: 27, hc: 38, grasa: 39 },

@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: templa la leche (tibia al tacto, unos 37 °C) y disuelve en ella la levadura y el azúcar; espera 5 minutos a que haga espuma. Bate un huevo en un vaso. En un bol, mezcla la harina con una pizca de sal, la leche, la mitad del huevo batido y 20 g de mantequilla blanda, y amasa 8-10 minutos hasta que la masa esté lisa y elástica. Tapa y deja levar 1 hora en un sitio templado, hasta que doble su volumen.",
-    "Mientras, cuece el arroz en abundante agua con sal 11 minutos, escúrrelo y extiéndelo en un plato para que se enfríe y quede suelto. Cuece los otros 2 huevos 10 minutos, enfríalos en agua fría, pélalos y pícalos.",
+    "Mientras, cuece el arroz en abundante agua con sal 11 minutos y, al minuto de empezar, añade al mismo cazo los otros 2 huevos para que se cuezan 10 minutos. Saca los huevos a agua fría, pélalos y pícalos. Escurre el arroz y extiéndelo en un plato para que se enfríe y quede suelto.",
     "Pica la cebolla y lamina los champiñones. Rehoga la cebolla en 10 g de mantequilla a fuego medio 6 minutos, hasta que esté transparente; sube el fuego, añade los champiñones y saltéalos 6-8 minutos, hasta que suelten el agua, esta se evapore y empiecen a dorarse. Salpimienta y deja enfriar: un relleno caliente ablanda la masa.",
     "Pica el eneldo. Corta el salmón en láminas de 1 cm, salpimiéntalo y rocíalo con el zumo del medio limón. Mezcla el arroz con el huevo duro picado, la mitad del eneldo y una pizca de sal.",
     "Precalienta el horno a 200 °C con calor arriba y abajo. Estira la masa sobre papel de horno en un rectángulo de unos 30 x 25 cm y 4 mm de grosor.",
@@ -95,7 +95,7 @@ window.RECETAS_SEED.push({
     "Pliega los lados largos sobre el relleno pegándolos con un poco del huevo batido que reservaste y cierra los extremos como un paquete. Dale la vuelta para que la juntura quede debajo, haz 3 cortes en la superficie para que salga el vapor, pinta con el resto del huevo y deja reposar 15 minutos.",
     "Hornea 30-35 minutos, hasta que esté bien dorada y la base suene hueca al golpearla. Deja reposar 10 minutos antes de cortarla con un cuchillo de sierra, para que las capas no se desmoronen."
   ],
-  nutricion: { kcal: 840, prot: 44, hc: 82, grasa: 37 },
+  nutricion: { kcal: 875, prot: 47, hc: 82, grasa: 38 },
   etiquetas: ["tradicional", "al horno", "para invitados", "fin de semana", "invierno", "alta en proteína", "poco especiada"],
   consejo: "La kulebyaka era el pastel de las grandes ocasiones en la Rusia zarista, con capas separadas por finas tortitas; los cocineros franceses la llevaron a París como coulibiac. Puedes cambiar el arroz por trigo sarraceno cocido, que es igual de tradicional. Si tienes prisa, sustituye la masa por una lámina de hojaldre refrigerada, aunque quedará más grasa. Se come caliente con mantequilla derretida o smetana, y fría al día siguiente está aún mejor: aguanta 2 días en la nevera bien envuelta.",
   tupper: true,

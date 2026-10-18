@@ -71,7 +71,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 55,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "zanahoria", q: 300, u: "g" },
@@ -97,12 +97,11 @@ window.RECETAS_SEED.push({
     "Pela las zanahorias y las chirivías y córtalas en bastones gruesos de 6-7 cm (si la chirivía es gruesa, quítale el corazón leñoso); corta la patata en gajos. Ralla la piel de la naranja y exprime el zumo. Pica la parte verde de la cebolleta y ralla el jengibre.",
     "En un tajine con difusor o en una cazuela ancha y baja, calienta el aceite de ajo a fuego medio-bajo y rehoga la cebolleta y el jengibre 1 minuto. Añade la cúrcuma y la canela en rama y remueve 20 segundos.",
     "Coloca las verduras en pirámide, con la patata abajo y los bastones apoyados de pie alrededor. Vierte el caldo caliente y la mitad del zumo de naranja, sala y pimienta, tapa y cuece a fuego suave 30-35 minutos, hasta que todo se deje atravesar sin esfuerzo con la punta de un cuchillo.",
-    "Mientras, lava la quinoa frotándola en un colador fino y cuécela en 200 ml de agua con sal, tapada y a fuego suave, 12-15 minutos. Apaga y déjala reposar tapada.",
-    "Tuesta las almendras y el sésamo en una sartén seca a fuego medio 3 minutos, moviendo la sartén, hasta que el sésamo esté dorado. Pica las almendras gruesas y el cilantro.",
+    "Mientras, tuesta las almendras y el sésamo en seco en el cazo de la quinoa, a fuego medio, 3 minutos, moviéndolo, hasta que el sésamo esté dorado, y pásalos a un plato. Lava la quinoa frotándola en un colador fino y cuécela en el mismo cazo con 200 ml de agua con sal, tapada y a fuego suave, 12-15 minutos. Apaga y déjala reposar tapada. Pica las almendras gruesas y el cilantro.",
     "Destapa el tajine, añade el resto del zumo, la ralladura y el azúcar, y deja reducir 5-8 minutos a fuego medio, regando las verduras con la salsa, hasta que brillen y el jugo tenga textura de almíbar ligero. Retira la canela.",
     "Sirve las verduras sobre la quinoa con su glaseado, las almendras, el sésamo y el cilantro picado por encima."
   ],
-  nutricion: { kcal: 555, prot: 14, hc: 84, grasa: 17 },
+  nutricion: { kcal: 575, prot: 15, hc: 82, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "económica", "batch cooking"],
   consejo: "Los tajines dulces marroquíes llevan miel, pasas o ciruelas y mucha cebolla, todos ricos en fructosa, polioles o fructanos; aquí el dulzor lo ponen las propias raíces, la naranja reducida y una cucharadita de azúcar. Zanahoria, chirivía y patata son libres de FODMAP en ración normal y, muy cocidas, apenas fermentan. Ocho almendras por persona están dentro de la ración tolerada. Si usas un tajine de barro, ponlo siempre sobre difusor y a fuego bajo para que no se agriete.",
   alternativa: "Si no encuentras chirivía, sustitúyela por 150 g más de zanahoria y 100 g más de patata en trozos del mismo tamaño; el tajine pierde su punto anisado, pero se guisa en el mismo tiempo.",
@@ -360,7 +359,7 @@ window.RECETAS_SEED.push({
   proteina: "tempeh",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["plancha", "cazuela", "horno"],
+  equipo: ["plancha", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "tempeh", q: 200, u: "g" },
@@ -381,14 +380,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el tempeh en láminas finas de medio centímetro y cuécelas al vapor 10 minutos: pierde el amargor y queda más tierno y digestivo. Precalienta el horno a 200 °C.",
-    "Mientras, en un cazo pon 1 cucharadita de aceite de ajo y el tomate concentrado y remueve 1 minuto. Añade el tomate triturado, el azúcar, sal y 100 ml de agua y deja hervir suave 10 minutos, hasta tener una salsa ligera pero sabrosa.",
-    "Corta las pitas en dados de 2 cm y tuéstalas en el horno 8 minutos, hasta que estén doradas y crujientes. Mientras, pica el perejil.",
+    "Corta el tempeh en láminas finas de medio centímetro y cuécelas al vapor 10 minutos: pierde el amargor y queda más tierno y digestivo.",
+    "Mientras, en un cazo pon 1 cucharadita de aceite de ajo y el tomate concentrado y remueve 1 minuto. Añade el tomate triturado, el azúcar, sal y 100 ml de agua y deja hervir suave 10 minutos, hasta tener una salsa ligera pero sabrosa. Mientras hierve, corta las pitas en dados de 2 cm y pica el perejil.",
+    "Calienta la plancha y tuesta los dados de pita en seco 4-5 minutos, moviéndolos, hasta que estén dorados y crujientes. Resérvalos.",
     "Mezcla las láminas de tempeh escurridas con la otra cucharadita de aceite de ajo, 1 cucharadita de pimentón, el comino, el orégano y sal. Ásalas en la plancha caliente 2-3 minutos por cada lado, hasta que estén doradas. Asa a la vez los pimientos verdes enteros, 6-8 minutos, hasta que se ampollen.",
     "Calienta el aceite de oliva en un cazo pequeño sin que llegue a humear, apártalo del fuego y añade el resto del pimentón: debe teñirse de rojo sin quemarse.",
     "Monta cada plato: la pita en el fondo, unas cucharadas de salsa para empaparla, el tempeh encima y más salsa. Pon el yogur al lado, riega todo con el aceite de pimentón y termina con perejil picado y los pimientos asados."
   ],
-  nutricion: { kcal: 570, prot: 30, hc: 59, grasa: 24 },
+  nutricion: { kcal: 560, prot: 29, hc: 54, grasa: 26 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
   consejo: "El tempeh es una de las pocas formas de soja aptas en la dieta baja en FODMAP: la fermentación descompone buena parte de los GOS, y hasta 100 g por persona se toleran bien. Cocerlo al vapor antes de dorarlo lo hace más suave para el intestino. El iskender original lleva mantequilla tostada y pan de trigo; aquí el aceite de oliva con pimentón dulce da el mismo efecto chisporroteante sin pesadez. Monta el plato al momento: la pita empapada no aguanta el tupper.",
   alternativa: "Si no encuentras tempeh, usa 200 g de tofu firme prensado 10 min bajo peso y en lonchas finas; sáltate el vapor y dóralo directamente. Sin pita sin gluten, usa 3 rebanadas de pan sin gluten tostado.",
@@ -787,7 +786,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "mero", q: 320, u: "g", nota: "lomos en 4 trozos; o corvina" },
@@ -810,14 +809,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Unta el pescado con media cucharadita de cúrcuma, sal y el zumo de medio limón, y déjalo 10 minutos. Mientras, ralla 2 tomates desechando la piel y pica la parte verde de la cebolleta.",
-    "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto y marca el pescado 1-2 minutos por cada lado, solo hasta que se dore por fuera: terminará de hacerse sobre el arroz. Resérvalo.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta 1 minuto. Añade las vainas de cardamomo abiertas, la canela, el comino y el resto de la cúrcuma y remueve 30 segundos.",
+    "En la cazuela, calienta el aceite de oliva a fuego medio-alto y marca el pescado 1-2 minutos por cada lado, solo hasta que se dore por fuera: terminará de hacerse sobre el arroz. Resérvalo en un plato.",
+    "Baja el fuego a medio, añade a la misma cazuela el aceite de ajo y rehoga la cebolleta 1 minuto. Añade las vainas de cardamomo abiertas, la canela, el comino y el resto de la cúrcuma y remueve 30 segundos.",
     "Añade el tomate rallado con la lima seca pinchada 2-3 veces con un cuchillo y cocina 5 minutos, hasta que el tomate se oscurezca y reduzca.",
     "Vierte el caldo caliente, sala y, cuando hierva, incorpora el arroz escurrido. Tapa y cuece 10 minutos a fuego mínimo. Coloca el pescado encima, vuelve a tapar y cocina 8 minutos más, hasta que el arroz haya absorbido el caldo y el pescado se separe en lascas. Reposa 5 minutos y retira la lima seca y la canela.",
     "Mientras, prepara el daqqus: pica muy fino el tercer tomate y el cilantro, y mezcla el tomate con el zumo del otro medio limón, la mitad del cilantro y sal.",
     "Sirve el arroz con el pescado encima, el resto del cilantro y el daqqus aparte para ir añadiéndolo a cada bocado."
   ],
-  nutricion: { kcal: 510, prot: 38, hc: 60, grasa: 11 },
+  nutricion: { kcal: 565, prot: 42, hc: 69, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "bajo en colesterol"],
   consejo: "El machboos se perfuma con baharat del Golfo, que suele llevar pimienta abundante y chile, y se empieza con mucha cebolla frita; aquí se deja en cúrcuma, cardamomo, canela, comino y lima seca, que aporta la acidez ahumada tan característica. El daqqus original lleva ajo crudo y guindilla: el tomate con limón y cilantro da el mismo frescor sin irritar. Marcar el pescado solo por fuera y terminarlo al vapor sobre el arroz lo deja jugoso con muy poca grasa. Si no encuentras mero, usa corvina o dorada en lomos gruesos.",
   tupper: true,
@@ -930,7 +929,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "horno"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "tomate pera", q: 700, u: "g", nota: "muy maduro" },
@@ -948,14 +947,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Ralla los tomates por el lado grueso del rallador y desecha la piel.",
-    "En una cazuela, derrite la mantequilla con el aceite a fuego medio, añade la harina de arroz y remueve 2 minutos sin que tome color. Incorpora el tomate concentrado y remueve 1 minuto más.",
-    "Añade el tomate rallado y cocina 5 minutos, removiendo, hasta que suelte su aroma. Vierte el caldo caliente poco a poco batiendo con varillas, sala, añade el azúcar y deja hervir suave 12 minutos.",
-    "Mientras, corta el pan en dados y tuéstalo en el horno 8 minutos, hasta que esté dorado y crujiente.",
+    "Ralla los tomates por el lado grueso del rallador y desecha la piel. Corta el pan en dados.",
+    "En la cazuela, en seco y a fuego medio, tuesta los dados de pan 5-6 minutos, moviéndolos, hasta que estén dorados y crujientes. Resérvalos.",
+    "En la misma cazuela, derrite la mantequilla con el aceite a fuego medio, añade la harina de arroz y remueve 2 minutos sin que tome color. Incorpora el tomate concentrado y remueve 1 minuto más.",
+    "Añade el tomate rallado y cocina 5 minutos, removiendo, hasta que suelte su aroma. Vierte el caldo caliente poco a poco batiendo con varillas, sala, añade el azúcar y deja hervir suave 12 minutos. Mientras, pica el perejil.",
     "Tritura la sopa con la batidora hasta que quede fina. Añade la leche templada y calienta 2 minutos sin que llegue a hervir. Ajusta de sal y pimienta.",
-    "Sirve muy caliente con el queso rallado por encima, para que se funda en hilos, los picatostes y un poco de perejil picado."
+    "Sirve muy caliente con el queso rallado por encima, para que se funda en hilos, los picatostes y el perejil picado."
   ],
-  nutricion: { kcal: 405, prot: 13, hc: 43, grasa: 20 },
+  nutricion: { kcal: 440, prot: 15, hc: 45, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "para niños", "económica"],
   consejo: "En Turquía esta sopa se liga con harina de trigo y se sirve con kaşar rallado; la harina de arroz liga igual y el manchego curado, casi sin lactosa, se funde de la misma forma. El tomate cocinado y triturado es muy bien tolerado y no tiene la acidez agresiva del crudo. Si eres sensible a la acidez, la pizca de azúcar y la leche la suavizan. Guárdala sin los picatostes y recaliéntala sin que hierva.",
   tupper: true,
@@ -1017,7 +1016,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "horno", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "yogur sin lactosa", q: 300, u: "g", nota: "natural, semidesnatado y espeso" },
@@ -1034,15 +1033,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta el pan en dados y tuéstalo 8 minutos, hasta que esté crujiente. Tuesta las nueces en una sartén seca 2 minutos y májalas en el mortero dejando algo de textura; reserva 1 cucharada.",
-    "En un bol, bate el yogur con el parmesano y la harina de arroz hasta que quede liso: esta mezcla sustituye al kashk y la harina evita que se corte al calentarla. Pica la parte verde de la cebolleta.",
-    "En una cazuela, calienta 2 cucharaditas del aceite de ajo a fuego medio-bajo y rehoga la cebolleta 3 minutos. Añade la cúrcuma y remueve 20 segundos. Incorpora las nueces majadas y 1 cucharada de menta seca y remueve 1 minuto.",
+    "Corta el pan en dados y pica la parte verde de la cebolleta. En la cazuela, en seco y a fuego medio, tuesta los dados de pan 5-6 minutos, moviéndolos, hasta que estén crujientes, y resérvalos. Tuesta en ella las nueces 2 minutos y májalas en el mortero dejando algo de textura; reserva 1 cucharada.",
+    "En un bol, bate el yogur con el parmesano y la harina de arroz hasta que quede liso: esta mezcla sustituye al kashk y la harina evita que se corte al calentarla.",
+    "En la misma cazuela, calienta 2 cucharaditas del aceite de ajo a fuego medio-bajo y rehoga la cebolleta 3 minutos. Añade la cúrcuma y remueve 20 segundos. Incorpora las nueces majadas y 1 cucharada de menta seca y remueve 1 minuto.",
     "Vierte el agua, sala ligeramente y deja hervir suave 5 minutos.",
     "Templa el yogur añadiéndole 2 cucharones de caldo caliente sin dejar de batir. Baja el fuego al mínimo, viértelo en la cazuela y calienta 5 minutos removiendo siempre, sin que llegue a hervir, hasta que la sopa espese ligeramente.",
     "En un cazo pequeño, templa el resto del aceite de ajo, apártalo del fuego y añade el resto de la menta: 10 segundos bastan para que se oscurezca y huela.",
     "Reparte el pan en los cuencos, vierte la sopa encima y termina con el aceite de menta, las nueces reservadas y pimienta."
   ],
-  nutricion: { kcal: 410, prot: 14, hc: 35, grasa: 23 },
+  nutricion: { kcal: 465, prot: 16, hc: 41, grasa: 27 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica"],
   consejo: "El kaleh joosh se hace con kashk, un suero de leche fermentado y seco que se vende en tarros en tiendas iraníes; si lo encuentras y lo toleras, usa 4 cucharadas en lugar del yogur y el parmesano. La cebolla frita del original se sustituye por la parte verde de la cebolleta. No dejes que hierva tras añadir el yogur o se cortará. Las nueces, hasta 30 g por persona, son aptas en la dieta baja en FODMAP.",
   tupper: false,
@@ -1107,7 +1106,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "calabaza japonesa", q: 700, u: "g", nota: "kabocha" },
@@ -1129,12 +1128,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la calabaza, quítale las pepitas y córtala en dados de 3 cm. Pela la zanahoria y córtala en rodajas finas. Pela y ralla el jengibre y pica la parte verde de la cebolleta.",
-    "En una cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y el jengibre 2 minutos. Añade la cúrcuma y la canela y remueve 20 segundos.",
-    "Incorpora la calabaza, la zanahoria, el caldo caliente, el azafrán majado entre los dedos y sal. Lleva a ebullición, tapa y cocina 15-18 minutos, hasta que la calabaza se deshaga al presionarla. Mientras, en una sartén, calienta el aceite de oliva a fuego medio y tuesta las semillas 2-3 minutos, hasta que se hinchen y empiecen a saltar. Apaga, añade el comino y una pizca de sal y remueve.",
+    "En la cazuela, calienta el aceite de oliva a fuego medio y tuesta las semillas 2-3 minutos, hasta que se hinchen y empiecen a saltar. Apaga, añade el comino y una pizca de sal, remueve y pásalas a un plato.",
+    "En la misma cazuela, calienta el aceite de ajo a fuego medio y rehoga la cebolleta y el jengibre 2 minutos. Añade la cúrcuma y la canela y remueve 20 segundos.",
+    "Incorpora la calabaza, la zanahoria, el caldo caliente, el azafrán majado entre los dedos y sal. Lleva a ebullición, tapa y cocina 15-18 minutos, hasta que la calabaza se deshaga al presionarla.",
     "Tritura con la batidora hasta que esté muy fina y añade el zumo de naranja. Si la quieres más ligera, añade un poco de agua caliente.",
-        "Sirve la crema con una cucharada de yogur en el centro y las semillas al comino por encima."
+    "Sirve la crema con una cucharada de yogur en el centro y las semillas al comino por encima."
   ],
-  nutricion: { kcal: 370, prot: 12, hc: 42, grasa: 17 },
+  nutricion: { kcal: 425, prot: 14, hc: 49, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol"],
   consejo: "Usa calabaza japonesa (kabocha) y no violín: la kabocha es baja en FODMAP incluso en raciones grandes, mientras que la violín se limita a unos 45 g por persona. El jengibre fresco ayuda a la digestión y suaviza la sensación de pesadez. Las semillas de calabaza son aptas y aportan magnesio y algo de proteína; tuéstalas aparte para que conserven el crujiente. La crema se congela muy bien sin el yogur.",
   tupper: true,
