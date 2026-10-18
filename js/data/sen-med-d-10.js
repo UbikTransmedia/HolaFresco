@@ -288,7 +288,7 @@ window.RECETAS_SEED.push({
   proteina: "cordero",
   tiempo: 100,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "cordero (pierna deshuesada)", q: 280, u: "g" },
@@ -309,12 +309,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el cordero en dados de 4 cm y retira la grasa visible. Ponlo en una cazuela, cúbrelo con 1 litro de agua fría y llévalo a ebullición; retira la espuma durante 5 minutos.",
     "Añade el laurel, las vainas de cardamomo ligeramente aplastadas, la pimienta de Jamaica y sal. Tapa y cuece a fuego suave 70 minutos, hasta que la carne esté tierna.",
-    "Mientras se guisa, lava el arroz y déjalo escurrir, pica el perejil, tuesta las almendras y los piñones en una sartén sin aceite 3 minutos, hasta que estén dorados, y bate en un bol el yogur con la maicena hasta que quede liso: la maicena evita que el yogur se corte al calentarlo.",
-    "A los 55 minutos de cocción, calienta el aceite en un cazo, nacara el arroz con la cúrcuma 1 minuto y añade 280 ml del caldo del cordero, cogido con un cazo, y sal. Cuando hierva, tapa y cuece a fuego mínimo 12 minutos; apaga y déjalo reposar tapado.",
+    "Mientras se guisa, lava el arroz y déjalo escurrir, pica el perejil y bate en un bol el yogur con la maicena hasta que quede liso: la maicena evita que el yogur se corte al calentarlo.",
+    "A los 55 minutos de cocción, tuesta las almendras y los piñones en un cazo sin aceite 3 minutos, hasta que estén dorados, y sácalos. En el mismo cazo calienta el aceite, nacara el arroz con la cúrcuma 1 minuto y añade 280 ml del caldo del cordero, cogido con un cazo, y sal. Cuando hierva, tapa y cuece a fuego mínimo 12 minutos; apaga y déjalo reposar tapado.",
     "Saca la carne con una espumadera, cuela el caldo y vuelve 250 ml a la cazuela (el resto guárdalo para una sopa). Fuera del fuego añade el yogur poco a poco removiendo; vuelve a fuego suave y remueve siempre en el mismo sentido 5 minutos, hasta que espese sin llegar a hervir con fuerza. Incorpora la carne y calienta 5 minutos.",
     "Sirve el arroz en una fuente, coloca encima el cordero, riega con parte de la salsa y termina con las almendras, los piñones y el perejil. Lleva el resto de la salsa a la mesa en una jarra."
   ],
-  nutricion: { kcal: 625, prot: 39, hc: 66, grasa: 23 },
+  nutricion: { kcal: 750, prot: 36, hc: 66, grasa: 38 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "de cuchara", "invierno"],
   consejo: "El mansaf se hace con jameed, yogur de cabra seco y salado, y se sirve sobre pan fino; el yogur sin lactosa estabilizado con maicena da una salsa parecida y apta para el intestino irritable. Usa pierna y quita bien la grasa: el cordero graso es lo que hace pesado este plato. El trabajo activo es corto: el guiso se hace solo mientras preparas lo demás.",
   alternativa: "Con olla exprés: tras espumar y añadir los aromáticos, cuece el cordero 20 min a presión en lugar de 70 y haz el arroz con su caldo al abrir. Si no tienes pimienta de Jamaica, pon 4 granos de pimienta negra y 1 clavo.",
@@ -425,7 +425,7 @@ window.RECETAS_SEED.push({
   proteina: "pavo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["sartén", "plancha", "cazuela"],
+  equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes" },
@@ -444,12 +444,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y ponlo en un cazo con 240 ml de agua y sal. Cuando hierva, tapa y cuece a fuego mínimo 12 minutos; apaga y déjalo reposar tapado.",
     "Mientras, pela las zanahorias y córtalas al bies en rodajas de medio centímetro. Exprime la naranja y el limón por separado y pica el perejil.",
-    "Pon las zanahorias en una sartén con tapa con 1 cucharadita de aceite, el comino, el zumo de naranja, el resto del agua (50 ml) y sal. Tapa y cuece 8 minutos a fuego medio; destapa y deja reducir 3–4 minutos, hasta que queden tiernas y glaseadas.",
+    "Pon las zanahorias en una sartén con tapa con 1 cucharadita de aceite, el comino, el zumo de naranja, el resto del agua (50 ml) y sal. Tapa y cuece 8 minutos a fuego medio; destapa y deja reducir 3–4 minutos, hasta que queden tiernas y glaseadas. Pásalas a un plato y tápalas. Mientras, seca y sala los filetes de pavo.",
     "Prepara la salsa: bate el tahini con 2 cucharadas de zumo de limón y 3–4 cucharadas de agua fría. Primero se espesará y luego se aclarará: para cuando tenga la textura de una nata ligera. Sálala.",
-    "Seca y sala los filetes de pavo. Calienta la plancha con el resto del aceite y márcalos 2–3 minutos por cada lado, hasta que estén dorados y sin rastro rosado en el centro.",
+    "Limpia la sartén con papel, caliéntala a fuego medio-alto con el resto del aceite y marca el pavo 2–3 minutos por cada lado, hasta que esté dorado y sin rastro rosado en el centro.",
     "Sirve el pavo con la salsa de tahini por encima y una pizca de zumaque, las zanahorias al lado y el arroz con el perejil."
   ],
-  nutricion: { kcal: 565, prot: 42, hc: 68, grasa: 14 },
+  nutricion: { kcal: 595, prot: 44, hc: 68, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "bajo en colesterol"],
   consejo: "El tahini es bajo en FODMAP en la ración de una cucharada por persona; más cantidad puede sentar pesado por su grasa. En el Líbano esta salsa (tarator) lleva ajo machacado: si la quieres más aromática, añade una cucharadita de aceite de ajo. Las zanahorias cocidas son de las verduras mejor toleradas con hinchazón.",
   tupper: true,
@@ -616,14 +616,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y cuécelas en agua hirviendo con sal 10–12 minutos, hasta que estén tiernas pero enteras. Pon a hervir otro cazo con agua para los huevos.",
+    "Pela las patatas y córtalas en dados de 2 cm. Pon a hervir agua con sal en una cazuela y cuece las patatas 10–12 minutos, hasta que estén tiernas pero enteras.",
     "Mientras, pica el eneldo, el perejil y la parte verde de la cebolleta, exprime el limón, corta el pepino en medias lunas y los tomates cherry por la mitad.",
-    "Cuando hierva el agua, introduce los huevos (a temperatura ambiente) con una cuchara y cuécelos 6 minutos y medio. Pásalos a agua fría 2 minutos y pélalos con cuidado.",
+    "Cuando a las patatas les queden 6 minutos y medio, introduce los huevos (a temperatura ambiente) con una cuchara en la misma agua. Pasado ese tiempo, sácalos a agua fría 2 minutos y pélalos con cuidado.",
     "Escurre las patatas y alíñalas en caliente con el aceite, el zumo de limón, el zumaque, sal y pimienta: así absorben el aliño.",
     "Añade las hierbas, la cebolleta, el pepino, los tomates y las aceitunas y mezcla con suavidad.",
     "Sirve la ensalada templada con los huevos partidos por la mitad encima, con la yema aún líquida, y una pizca más de zumaque."
   ],
-  nutricion: { kcal: 455, prot: 18, hc: 47, grasa: 22 },
+  nutricion: { kcal: 475, prot: 20, hc: 44, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "rápida", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "La patates salatası turca se hace con cebolla tierna y guindilla en escamas; aquí se queda con el verde de la cebolleta y el zumaque, que dan el mismo frescor sin picante ni fructanos. Los tomates cherry se limitan a 75 g por persona, la ración apta en baja en FODMAP. La patata cocida y templada se digiere mejor que fría de nevera.",
   alternativa: "Sin zumaque, aliña las patatas con 1 cdta de ralladura de limón y ½ cdta de pimentón dulce, y termina con otra pizca de pimentón: el aliño conserva su color y su punto ácido.",
@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "bol"],
+  equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "pan de pita sin gluten", q: 2, u: "ud" },
@@ -754,12 +754,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Quita las semillas a la calabaza y córtala con piel en dados de 2 cm; pela la zanahoria y córtala en rodajas gruesas; corta el calabacín en dados de 2 cm y déjalo aparte.",
     "Mezcla la calabaza y la zanahoria en una bandeja con el aceite de oliva, el comino y sal y hornea 15 minutos. Añade el calabacín, remueve y hornea 12 minutos más, hasta que todo esté tierno y con bordes dorados.",
-    "Mientras, corta el pan de pita en trozos de 3 cm y extiéndelos en otra bandeja sin aceite. Mételos en el horno los últimos 8 minutos, hasta que estén crujientes.",
-    "Mientras tanto, prepara la salsa batiendo el yogur con el tahini, el zumo del medio limón, el aceite de ajo y sal; déjala a temperatura ambiente. Pica el perejil y tuesta los piñones en una sartén sin aceite 2 minutos.",
+    "Mientras, corta el pan de pita en trozos de 3 cm y extiéndelos en otra bandeja sin aceite. Mételos en el horno los últimos 8 minutos, hasta que estén crujientes; en los 3 últimos, reparte los piñones entre el pan para que se tuesten.",
+    "Mientras tanto, prepara la salsa batiendo el yogur con el tahini, el zumo del medio limón, el aceite de ajo y sal; déjala a temperatura ambiente. Pica el perejil.",
     "Monta en una fuente: el pan en el fondo, las verduras calientes encima y el yogur por encima de todo. Termina con los piñones, el perejil y el pimentón.",
     "Sírvelo enseguida, para que parte del pan siga crujiente y parte se empape."
   ],
-  nutricion: { kcal: 510, prot: 12, hc: 62, grasa: 24 },
+  nutricion: { kcal: 535, prot: 13, hc: 62, grasa: 25 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "sin lactosa", "poco especiada"],
   consejo: "El fatteh de Damasco y Beirut se hace con pan del día anterior frito, garbanzos y yogur al ajo; aquí el pan se tuesta sin aceite y los garbanzos se cambian por verdura asada apta. La calabaza japonesa (kabocha) puede ir en ración generosa, a diferencia de la violín; el calabacín se queda en 60 g por persona.",
   alternativa: "Si no encuentras pita sin gluten, tuesta en dados 4 rebanadas de pan de molde sin gluten, también 8 min. Sin calabaza japonesa, usa 90 g de calabaza cacahuete y 310 g más de zanahoria: la cacahuete solo es baja en FODMAP en poca cantidad.",
@@ -962,7 +962,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "arroz basmati", q: 150, u: "g" },
@@ -980,15 +980,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz en varias aguas y déjalo en remojo en agua tibia 15 minutos. Mientras, corta la berenjena en dados de 1,5 cm, sálala y déjala 10 minutos; ralla los tomates desechando la piel, y pica el pimiento verde, la parte verde de la cebolleta y el perejil.",
-    "Seca la berenjena con papel. Dórala en una sartén antiadherente con 1 cucharada de aceite a fuego medio 8 minutos, tapando a ratos y removiendo, hasta que esté dorada y tierna. Resérvala.",
-    "En una cazuela, calienta el resto del aceite y pocha el pimiento 4 minutos. Añade la cebolleta 30 segundos, el tomate rallado, la menta seca, la pimienta de Jamaica y sal, y cuece 5 minutos.",
+    "Seca la berenjena con papel. Dórala en una cazuela antiadherente con 1 cucharada de aceite a fuego medio 8 minutos, tapando a ratos y removiendo, hasta que esté dorada y tierna. Sácala a un plato.",
+    "En la misma cazuela, calienta el resto del aceite y pocha el pimiento 4 minutos. Añade la cebolleta 30 segundos, el tomate rallado, la menta seca, la pimienta de Jamaica y sal, y cuece 5 minutos.",
     "Escurre el arroz, añádelo y remueve 1 minuto. Vierte el agua caliente; cuando hierva, tapa y cuece a fuego mínimo 10 minutos.",
     "Reparte la berenjena por encima sin remover, tapa y cuece 3 minutos más. Apaga, pon un paño entre la cazuela y la tapa y deja reposar 10 minutos.",
     "Mezcla con un tenedor para soltar el grano, espolvorea el perejil y sirve con el yogur con una pizca de sal."
   ],
-  nutricion: { kcal: 495, prot: 11, hc: 75, grasa: 17 },
+  nutricion: { kcal: 505, prot: 13, hc: 74, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "verano"],
-  consejo: "En las casas turcas la berenjena se fríe en abundante aceite; dorada en sartén antiadherente y terminada al vapor del arroz absorbe mucha menos grasa. Salarla antes le quita agua y amargor. Es un plato de verdura y arroz: si quieres más proteína, acompáñalo de un huevo cocido o de pollo a la plancha.",
+  consejo: "En las casas turcas la berenjena se fríe en abundante aceite; dorada en una cazuela antiadherente y terminada al vapor del arroz absorbe mucha menos grasa. Salarla antes le quita agua y amargor. Es un plato de verdura y arroz: si quieres más proteína, acompáñalo de un huevo cocido o de pollo a la plancha.",
   tupper: true,
   contundencia: "media",
   coste: "económica"

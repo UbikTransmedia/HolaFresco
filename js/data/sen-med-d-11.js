@@ -68,7 +68,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["plancha", "sartén", "cazuela"],
+  equipo: ["sartén", "cazuela"],
   raciones: 1,
   ingredientes: [
     { n: "pescadilla", q: 400, u: "g", nota: "2 piezas de ración, limpias y abiertas en libro, sin espina (pídelo en la pescadería)" },
@@ -89,8 +89,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, córtalas en trozos de 3 cm y ponlas en un cazo cubiertas de agua fría con sal. Cuando hierva, cuécelas 15 minutos, hasta que estén tiernas.",
     "Mientras se cuecen, quita las semillas a los pimientos y córtalos en dados pequeños, corta los tomates en dados, pica el verde de la cebolleta y el perejil, y exprime medio limón; corta la otra mitad en gajos.",
-    "Calienta 2 cucharaditas del aceite de ajo en una sartén a fuego medio y rehoga el pimiento 6 minutos, hasta que esté blando. Añade la cebolleta, el comino y el pimentón, remueve unos segundos y agrega el tomate con sal; cocina 4 minutos, hasta que se forme una salsa suelta. Apártala y tápala.",
-    "Seca la pescadilla con papel de cocina y sálala. Calienta la plancha a fuego medio-fuerte con el aceite de oliva y hazla 3 minutos con la piel hacia abajo y 1–2 minutos por el otro lado, hasta que esté opaca y se separe en lascas.",
+    "Calienta 2 cucharaditas del aceite de ajo en una sartén a fuego medio y rehoga el pimiento 6 minutos, hasta que esté blando. Añade la cebolleta, el comino y el pimentón, remueve unos segundos y agrega el tomate con sal; cocina 4 minutos, hasta que se forme una salsa suelta. Pásala a un plato hondo y tápala. Mientras, seca la pescadilla con papel de cocina y sálala.",
+    "Limpia la sartén con papel, caliéntala a fuego medio-fuerte con el aceite de oliva y haz la pescadilla 3 minutos con la piel hacia abajo y 1–2 minutos por el otro lado, hasta que esté opaca y se separe en lascas.",
     "Escurre las patatas y alíñalas en caliente con el resto del aceite de ajo, el zumo de limón, la mitad del perejil y una pizca de sal.",
     "Sirve la pescadilla con la salsa tibia por encima, el resto del perejil, pimienta y los gajos de limón, y las patatas al lado."
   ],
@@ -383,7 +383,7 @@ window.RECETAS_SEED.push({
   proteina: "pavo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela", "batidora"],
+  equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes de 1 cm" },
@@ -404,7 +404,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir agua con sal en una cazuela y cuece el arroz 12 minutos. Mientras arranca, quita las puntas a las judías y córtalas en trozos de 4 cm; pela la zanahoria y córtala en bastones del mismo largo.",
     "A los 6 minutos de cocción del arroz, añade a la misma cazuela las judías y la zanahoria para que se cuezan juntos los 6 minutos restantes.",
-    "Mientras, tuesta en una sartén sin aceite las almendras y el pan, 3 minutos, hasta que estén dorados. Pásalos a la batidora con el perejil, la ralladura de medio limón y 4 cucharadas del caldo, y tritura hasta tener una pasta gruesa: es la picada.",
+    "Mientras, tuesta en una sartén sin aceite las almendras y el pan, 3 minutos, hasta que estén dorados. Pícalos muy finos a cuchillo con el perejil y mézclalos con la ralladura de medio limón y 4 cucharadas del caldo hasta tener una pasta gruesa: es la picada.",
     "Seca los filetes de pavo, salpimiéntalos y dóralos en la misma sartén con el aceite de oliva a fuego fuerte 2 minutos por cada lado. Sácalos a un plato.",
     "Baja el fuego, vierte el resto del caldo y raspa el fondo. Añade la picada, el aceite de ajo y el zumo de medio limón, y cuece 2 minutos, removiendo, hasta que la salsa espese. Devuelve el pavo con su jugo y cocina 2 minutos más, dándole la vuelta, hasta que esté hecho por dentro.",
     "Escurre el arroz con las verduras. Sirve el pavo con su salsa sobre el arroz y las judías con zanahoria al lado."
@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "zanahoria", q: 350, u: "g", nota: "gruesas" },
@@ -752,7 +752,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las patatas y cuécelas enteras con piel, cubiertas de agua con sal, 15–18 minutos desde que hierva, hasta que estén tiernas.",
-    "Mientras se cuecen, haz el pesto: tuesta las nueces en una sartén grande sin aceite 2 minutos y ralla el parmesano. Tritura las hojas de albahaca con las nueces, la mitad del parmesano, el aceite de ajo, el zumo del medio limón, 2 cucharadas de agua y sal hasta tener una pasta gruesa.",
+    "Mientras se cuecen, haz el pesto: tuesta las nueces en una sartén grande sin aceite 2 minutos y ralla el parmesano. Pica muy finas a cuchillo las hojas de albahaca y las nueces y mézclalas con la mitad del parmesano, el aceite de ajo, el zumo del medio limón, 1 cucharada de agua y sal hasta tener una pasta gruesa.",
     "Pela las zanahorias y, con el mismo pelador, sácales cintas largas girándolas hasta llegar al corazón; haz lo mismo con el calabacín sin pelar. Parte los tomates cherry por la mitad.",
     "Calienta el aceite de oliva en la sartén a fuego medio y saltea las cintas de zanahoria 3 minutos con una pizca de sal; añade las de calabacín y los tomates y saltea 2 minutos más, solo hasta que estén flexibles.",
     "Reserva medio vaso del agua de las patatas, escúrrelas, pártelas por la mitad y alíñalas con una cucharada del pesto.",
@@ -882,11 +882,11 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir medio litro de agua con sal en un cazo. Mientras, tuesta el trigo sarraceno en seco en una cazuela 2 minutos, moviéndolo, hasta que huela a pan tostado; vierte encima el agua hirviendo y cuécelo 10–12 minutos, hasta que esté tierno pero entero. Escúrrelo y pásalo por agua templada para que no se apelmace.",
-    "Mientras se cuece, pon las lonchas de jamón en una sartén antiadherente fría y caliéntala a fuego medio: en 3–4 minutos, dándoles la vuelta, quedarán crujientes sin aceite. Sácalas sobre papel y rómpelas en trozos.",
+    "Pon a hervir medio litro de agua con sal en una cazuela. Mientras, tuesta el trigo sarraceno en seco en una sartén antiadherente 2 minutos, moviéndolo, hasta que huela a pan tostado; échalo en el agua hirviendo y cuécelo 10–12 minutos, hasta que esté tierno pero entero.",
+    "Mientras se cuece, pon las lonchas de jamón en la misma sartén a fuego medio: en 3–4 minutos, dándoles la vuelta, quedarán crujientes sin aceite. Sácalas sobre papel y rómpelas en trozos.",
     "En la misma sartén tuesta las nueces 2 minutos y pícalas groseramente.",
     "Corta los tomates y el pepino en dados, pica el perejil y el cebollino. Haz la vinagreta con el zumo del limón, el aceite, sal y pimienta.",
-    "Mezcla el trigo sarraceno templado con la vinagreta, el tomate, el pepino y las hierbas.",
+    "Escurre el trigo sarraceno y pásalo por agua templada para que no se apelmace. Mézclalo templado con la vinagreta, el tomate, el pepino y las hierbas.",
     "Sirve sobre la rúcula y termina con el jamón crujiente y las nueces."
   ],
   nutricion: { kcal: 450, prot: 21, hc: 51, grasa: 20 },

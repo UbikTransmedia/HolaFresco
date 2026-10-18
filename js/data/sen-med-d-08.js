@@ -21,7 +21,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao fresco (lomos)", q: 300, u: "g" },
@@ -40,11 +40,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir dos dedos de agua en una cazuela con un cestillo de vapor. Mientras, pela las patatas y las zanahorias; corta las patatas en trozos de 3 cm y las zanahorias en rodajas de 1 cm.",
-    "Coloca las verduras en el cestillo, tapa y cuécelas al vapor 12 minutos. Mientras, ralla el parmesano y la piel del limón y exprime medio limón. Tritura la rúcula con la albahaca, las almendras, el parmesano, el aceite de ajo, el aceite de oliva, una cucharada del zumo, 2 cucharadas de agua y una pizca de sal, hasta obtener un pesto cremoso. Seca el bacalao con papel y sálalo.",
+    "Coloca las verduras en el cestillo, tapa y cuécelas al vapor 12 minutos. Mientras, ralla el parmesano y la piel del limón y exprime medio limón. Pica muy finas a cuchillo la rúcula, la albahaca y las almendras y mézclalas con el parmesano, el aceite de ajo, el aceite de oliva, una cucharada del zumo, 1 cucharada de agua y una pizca de sal, hasta obtener un pesto rústico. Seca el bacalao con papel y sálalo.",
     "Coloca los lomos de bacalao sobre las verduras, tapa y cuece 7–8 minutos más, hasta que el pescado esté opaco y se separe en lascas al presionarlo.",
     "Sirve las patatas y las zanahorias con el bacalao encima, el pesto a cucharadas, la ralladura de limón, pimienta y gajos del otro medio limón."
   ],
-  nutricion: { kcal: 500, prot: 37, hc: 43, grasa: 20 },
+  nutricion: { kcal: 485, prot: 36, hc: 38, grasa: 21 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína", "bajo en colesterol", "superalimentos"],
   consejo: "El vapor es la cocción más suave para el pescado y la que menos grasa necesita. El pesto lleva aceite de ajo en lugar de ajo crudo, y las almendras van en ración baja en FODMAP (no más de 10 unidades por persona); la rúcula y el parmesano curado son bien tolerados. Mastica bien las verduras y tómalas templadas, no muy calientes.",
   tupper: false,
@@ -279,7 +279,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela", "microondas"],
+  equipo: ["sartén", "microondas"],
   raciones: 2,
   ingredientes: [
     { n: "pollo picado", q: 300, u: "g", nota: "de pechuga, pídelo picado en la carnicería" },
@@ -296,13 +296,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal en un cazo. Lava las patatas y córtalas sin pelar en dados de 2 cm; ponlas en un recipiente apto para microondas con 2 cucharadas de agua y sal, tápalas y cuécelas 7 minutos a máxima potencia. Mientras, despunta las judías y córtalas en trozos de 4 cm, pica la salvia y ralla la piel del limón.",
+    "Lava las patatas y córtalas sin pelar en dados de 2 cm. Despunta las judías y córtalas en trozos de 4 cm. Ponlas con las patatas en un recipiente apto para microondas con 2 cucharadas de agua y sal, tápalas y cuécelas 7 minutos a máxima potencia. Mientras, pica la salvia y ralla la piel del limón.",
     "Mezcla el pollo con el parmesano, el pan rallado, la salvia, la ralladura de limón, sal y pimienta. Con las manos mojadas, forma 4 hamburguesas de 1,5 cm de grosor.",
-    "Cuece las judías en el agua hirviendo 8 minutos, hasta que estén tiernas pero verdes; escúrrelas y aliñalas con unas gotas de zumo de limón. Mientras, calienta 1 cucharada de aceite en una sartén grande a fuego medio-alto y dora las patatas escurridas con las hojas del romero 8 minutos, hasta que tengan los bordes dorados. Sácalas a un plato.",
+    "Saca las judías, que estarán tiernas, y alíñalas con unas gotas de zumo de limón; tápalas. Calienta 1 cucharada de aceite en una sartén grande a fuego medio-alto y dora las patatas escurridas con las hojas del romero 8 minutos, hasta que tengan los bordes dorados. Sácalas a un plato.",
     "En la misma sartén, con el resto del aceite a fuego medio, dora las hamburguesas 4 minutos por cada lado; tapa el último minuto para que se hagan bien por dentro, sin rastro rosado.",
     "Sirve las hamburguesas con las patatas al romero, las judías verdes y gajos de limón."
   ],
-  nutricion: { kcal: 487, prot: 45, hc: 43, grasa: 15 },
+  nutricion: { kcal: 540, prot: 35, hc: 42, grasa: 25 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína", "para niños"],
   consejo: "Las hamburguesas compradas suelen llevar cebolla, ajo en polvo o pan con trigo; hechas en casa con pechuga picada quedan magras y seguras. La salvia y la ralladura de limón dan todo el aroma sin irritar. Las judías verdes van en ración baja en FODMAP (75 g por persona) y, bien cocidas, se toleran mejor que al dente.",
   alternativa: "Sin salvia fresca, mezcla con la carne 1 cdta de salvia seca desmenuzada entre los dedos: picada dentro de la hamburguesa, la diferencia apenas se nota.",
@@ -516,13 +516,13 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal en una cazuela y, en un cazo aparte, agua para los huevos. Mientras, pela las patatas y córtalas en trozos de 3 cm; despunta las judías y córtalas en trozos de 4 cm.",
-    "Cuece las patatas 15 minutos y añade las judías a los 7 minutos, para que terminen a la vez. Cuando hierva el cazo, introduce los huevos con una cuchara y cuécelos 10 minutos.",
+    "Pon a hervir agua con sal en una cazuela. Mientras, pela las patatas y córtalas en trozos de 3 cm; despunta las judías y córtalas en trozos de 4 cm.",
+    "Cuece las patatas 15 minutos; a los 5 minutos introduce los huevos con una cuchara, para que cuezan 10, y a los 7 añade las judías, para que todo termine a la vez.",
     "Mientras, prepara la salsa: desmiga el pan y empápalo en el vinagre. Tritúralo con las hojas del perejil, las alcaparras, las anchoas, el aceite de ajo, el aceite de oliva y 2 cucharadas de agua, hasta que quede una salsa espesa y con algo de textura.",
-    "Pasa los huevos a un bol con agua fría, pélalos y pártelos por la mitad a lo largo.",
+    "Saca los huevos a un bol con agua fría, pélalos y pártelos por la mitad a lo largo.",
     "Escurre las patatas y las judías y sálalas. Sirve los huevos con la yema hacia arriba, cubiertos con la salsa verde, y las verduras templadas al lado."
   ],
-  nutricion: { kcal: 441, prot: 20, hc: 43, grasa: 21 },
+  nutricion: { kcal: 455, prot: 22, hc: 40, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "económica"],
   consejo: "La salsa verde emiliana lleva ajo crudo; aquí lo sustituye el aceite de ajo, que da el mismo aroma sin los fructanos. Las judías verdes van en ración baja en FODMAP (75 g por persona). El huevo duro bien cocido, sin freír, es de las formas más digestivas de tomarlo; si la yema te pesa, deja una mitad para el día siguiente.",
   tupper: true,
@@ -757,7 +757,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "batidora"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "tofu firme", q: 250, u: "g" },
@@ -778,12 +778,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Escurre el tofu, envuélvelo en papel de cocina y ponle un peso encima 10 minutos para que suelte el agua. Mientras, pela las zanahorias, córtalas en bastones y mézclalas en una bandeja de horno con el aceite de oliva, las hojas de romero y sal.",
     "Mete las zanahorias en el horno (necesitan 25 minutos en total). Pela las patatas, córtalas en trozos de 3 cm y cuécelas en una cazuela con agua fría y sal 15 minutos desde que hierva.",
-    "Mientras, pica finas las avellanas con la batidora o en un mortero y mézclalas con el parmesano, el pan rallado, la ralladura del limón y una pizca de sal.",
+    "Mientras, pica muy finas las avellanas con un cuchillo y mézclalas con el parmesano, el pan rallado, la ralladura del limón y una pizca de sal.",
     "Corta el tofu en 4 filetes, sálalos, pincélalos con el aceite de ajo y cúbrelos por ambas caras con la mezcla de avellana, presionando para que se adhiera. Colócalos en la bandeja junto a las zanahorias (a los 10 minutos de horno) y hornea 15 minutos, hasta que la costra esté dorada.",
     "Calienta la leche. Escurre las patatas y cháfalas con la leche caliente, sal y pimienta hasta obtener un puré fino.",
     "Sirve el tofu con las zanahorias y el puré, y gajos de limón para exprimir por encima."
   ],
-  nutricion: { kcal: 539, prot: 28, hc: 55, grasa: 23 },
+  nutricion: { kcal: 560, prot: 30, hc: 52, grasa: 26 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "sin lactosa", "poco especiada", "alta en proteína", "bajo en colesterol"],
   consejo: "El tofu firme es bajo en FODMAP porque al prensarlo pierde casi todo el suero donde están los galactanos; el tofu sedoso, en cambio, no lo es. Las avellanas van en ración tolerada (10 g por persona). Si te cuesta digerir los frutos secos, pícalos casi hasta polvo: la costra queda igual de crujiente.",
   tupper: true,
@@ -821,13 +821,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir el litro de agua con sal en una cazuela y, en un cazo, agua para los huevos. Echa el arroz en el agua hirviendo y cuécelo 11 minutos; cuece los huevos 10 minutos en el cazo.",
+    "Pon a hervir el litro de agua con sal en una cazuela. Echa el arroz y, con cuidado, los huevos, y cuécelo todo junto; saca los huevos a los 10 minutos y deja el arroz 1 minuto más.",
     "Mientras, pela la zanahoria y córtala en dados muy pequeños, como el pepino. Corta el jamón y el parmesano en dados de medio centímetro, los tomates en cuartos y las aceitunas en rodajas. Exprime el limón.",
     "Escurre el arroz, pásalo por agua fría y escúrrelo muy bien. Pasa los huevos a agua fría, pélalos y trocéalos.",
     "Bate el zumo de limón con el aceite, sal y pimienta.",
     "Mezcla en un bol el arroz con todos los ingredientes troceados, las hojas de albahaca y el aliño. Deja reposar 10 minutos en la nevera antes de servir para que se asienten los sabores."
   ],
-  nutricion: { kcal: 563, prot: 26, hc: 63, grasa: 23 },
+  nutricion: { kcal: 580, prot: 27, hc: 64, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "sin lactosa", "poco especiada", "ideal para llevar", "verano"],
   consejo: "La insalata di riso de bote lleva encurtidos con cebolla, coliflor y champiñón, todos ricos en FODMAP; esta versión los cambia por pepino, zanahoria y aceitunas, que se toleran bien. El tomate cherry va en ración baja en FODMAP (75 g por persona). Es perfecta para el táper: el arroz frío forma almidón resistente, que se digiere despacio; si te da gases, tómala templada.",
   tupper: true,
