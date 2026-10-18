@@ -1091,7 +1091,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["airfryer", "sartén", "cazuela"],
+  equipo: ["airfryer", "sartén"],
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
@@ -1110,15 +1110,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece el arroz en abundante agua con sal 12 minutos (quedará algo entero, terminará en el pimiento); mientras, pica la cebolla y el ajo. Escúrrelo.",
-    "En la sartén, pocha la cebolla y el ajo con 1 cucharada de aceite 5 minutos. Añade la carne, sube el fuego y dórala 5 minutos desmenuzándola.",
-    "Incorpora el pimentón, el tomate triturado, sal y pimienta y cocina 5 minutos hasta que espese. Mezcla con el arroz.",
-    "Corta los pimientos por la mitad a lo largo, quita semillas y nervios, úntalos con el aceite restante y sálalos por dentro.",
+    "Pica la cebolla y el ajo. En la sartén, pocha la cebolla y el ajo con 1 cucharada de aceite 5 minutos. Añade la carne, sube el fuego y dórala 5 minutos desmenuzándola.",
+    "Incorpora el pimentón, el tomate triturado, el arroz, 150 ml de agua, sal y pimienta. Cuece a fuego suave 12 minutos, removiendo de vez en cuando, hasta que el arroz haya absorbido casi todo el líquido (quedará algo entero, terminará en el pimiento).",
+    "Mientras, corta los pimientos por la mitad a lo largo, quita semillas y nervios, úntalos con el aceite restante y sálalos por dentro.",
     "Rellena las mitades con la mezcla, apretando un poco. Colócalas en la cesta y cocina a 180 °C 18 minutos, hasta que el pimiento esté tierno y algo arrugado. Mientras, trocea la lechuga.",
     "Cubre con el queso rallado y cocina 3-4 minutos más a 200 °C hasta que gratine y burbujee.",
     "Sirve con la lechuga aliñada con aceite y sal."
   ],
-  nutricion: { kcal: 664, prot: 32, hc: 62, grasa: 32 },
+  nutricion: { kcal: 645, prot: 31, hc: 51, grasa: 34 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "económica", "tupper", "batch cooking", "saciante", "poco especiada"],
   consejo: "Se pueden dejar rellenos el día antes y gratinarlos al momento. Para celíacos, compra la carne picada sin preparar (las mezclas de hamburguesa suelen llevar pan) y revisa el queso rallado, que a veces lleva almidón de trigo como antiapelmazante.",
   contundencia: "contundente",

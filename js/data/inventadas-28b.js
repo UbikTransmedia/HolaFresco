@@ -54,7 +54,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["olla-express", "sartén"],
+  equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
     { n: "repollo", q: 600, u: "g" },
@@ -70,12 +70,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Quita las hojas exteriores y el troncho del repollo y córtalo en tiras de 2 cm. Pela las patatas y córtalas en trozos de 3 cm.",
     "Pon en la olla el agua, el laurel y sal, las patatas al fondo y el repollo encima. Cierra; cuando alcance presión, baja a fuego medio y cuenta 4 minutos. Mientras, lamina los ajos y corta el chorizo en rodajas. Despresuriza de forma rápida.",
-    "Escurre bien la verdura y las patatas, guardando el caldo.",
-    "En una sartén grande, calienta el aceite a fuego medio y dora los ajos 1 minuto. Añade el chorizo y dale 2 minutos, hasta que suelte la grasa.",
-    "Aparta la sartén del fuego, añade el pimentón y remueve 20 segundos.",
+    "Escurre bien la verdura y las patatas, guardando el caldo, y retira el laurel.",
+    "En la misma olla, calienta el aceite a fuego medio y dora los ajos 1 minuto. Añade el chorizo y dale 2 minutos, hasta que suelte la grasa.",
+    "Aparta la olla del fuego, añade el pimentón y remueve 20 segundos.",
     "Vuelve a ponerla al fuego, incorpora el repollo y las patatas y rehoga 3 minutos, aplastando un poco las patatas, hasta que todo quede bien impregnado. Si se seca, añade un chorrito del caldo. Prueba de sal y sirve."
   ],
-  nutricion: { kcal: 596, prot: 22, hc: 46, grasa: 36 },
+  nutricion: { kcal: 595, prot: 22, hc: 41, grasa: 37 },
   etiquetas: ["tradicional", "fácil", "económica", "invierno", "poco especiada"],
   consejo: "El caldo de cocer el repollo, con un chorro de aceite y un poco de pan, da para una sopa de cena. Con morcilla en vez de chorizo también es de lo más tradicional.",
   contundencia: "media",
@@ -660,9 +660,9 @@ window.RECETAS_SEED.push({
   cocina: "latinoamericana",
   momentos: ["comida"],
   proteina: "ternera",
-  tiempo: 85,
+  tiempo: 80,
   dificultad: "fácil",
-  equipo: ["olla-express", "bol"],
+  equipo: ["olla-express"],
   raciones: 4,
   ingredientes: [
     { n: "costilla de ternera", q: 700, u: "g", nota: "en trozos de 5-6 cm" },
@@ -682,10 +682,10 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "En un bol, adoba la costilla con el zumo de la lima, 1 ajo machacado, sal y pimienta y deja 10 minutos. Mientras, pica la cebolla, el pimiento y los otros 2 ajos y trocea los tomates.",
-    "Escurre y seca la carne. Calienta el aceite en la olla a fuego fuerte y dórala en dos tandas, 4 minutos cada una, hasta que esté bien tostada. Resérvala.",
+    "Pica la cebolla, el pimiento y los 3 ajos y trocea los tomates. Exprime la lima y salpimienta la costilla.",
+    "Calienta el aceite en la olla a fuego fuerte y dora la carne en dos tandas, 4 minutos cada una, hasta que esté bien tostada. Resérvala.",
     "Baja a fuego medio y sofríe la cebolla, el pimiento y los ajos 6 minutos. Añade los tomates, el pimentón y el comino y cocina 4 minutos.",
-    "Devuelve la costilla y vierte el agua. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural. Mientras, corta la yuca en trozos de 4 cm (quítale la fibra central) y pica el cilantro y la cebolleta.",
+    "Devuelve la costilla, vierte el zumo de lima y el agua y rasca el fondo. Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 35 minutos. Deja que pierda la presión de forma natural. Mientras, corta la yuca en trozos de 4 cm (quítale la fibra central) y pica el cilantro y la cebolleta.",
     "Abre, retira con un cazo la grasa que flote y añade la yuca. Cierra y cuenta 8 minutos desde que alcance presión. Deja que pierda la presión de forma natural.",
     "Abre y remueve con energía: la yuca debe deshacerse en parte y dejar un guiso espeso y cremoso, como embarrado (atolado). Prueba de sal.",
     "Sirve con el cilantro y la cebolleta por encima."
@@ -750,7 +750,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["olla-express", "bol"],
+  equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
     { n: "pollo (contramuslos)", q: 700, u: "g", nota: "con hueso y sin piel" },
@@ -769,13 +769,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el pollo en la olla cubierto de agua, hierve 3 minutos y tira el agua: así el caldo queda limpio.",
-    "Mientras, en un bol mezcla el gochujang, la soja, el azúcar, el pimentón, los ajos y el jengibre rallados y el agua. Pela la patata y córtala en trozos grandes, trocea la zanahoria y corta la cebolla en gajos.",
-    "Vuelve a poner el pollo en la olla con la patata, la zanahoria y la cebolla. Vierte la salsa por encima y remueve.",
+    "Mientras, ralla los ajos y el jengibre, pela la patata y córtala en trozos grandes, trocea la zanahoria y corta la cebolla en gajos.",
+    "Vuelve a poner el pollo en la olla con la patata, la zanahoria y la cebolla. Añade el gochujang, la soja, el azúcar, el pimentón, el ajo y el jengibre rallados y el agua, y remueve bien hasta que el gochujang se disuelva.",
     "Cierra; cuando alcance presión, baja a fuego medio y cuenta 10 minutos. Deja que pierda la presión de forma natural. Mientras, corta la cebolleta en rodajas.",
     "Abre y deja hervir destapado 5 minutos a fuego medio, removiendo con cuidado, hasta que la salsa espese y se pegue a las patatas.",
     "Sirve con la cebolleta y el sésamo por encima."
   ],
-  nutricion: { kcal: 598, prot: 53, hc: 65, grasa: 14 },
+  nutricion: { kcal: 685, prot: 59, hc: 57, grasa: 23 },
   etiquetas: ["tradicional", "fácil", "económica", "picante", "alta en proteína", "bajo en colesterol"],
   consejo: "El primer hervor rápido del pollo es el truco coreano para un guiso sin espuma ni grasa. Si no te gusta el picante, reduce el gochujang a 1 cucharada y quita el pimentón picante.",
   alternativa: "Sin gochujang, mezcla 1 cda de sriracha con 1 cda de tomate concentrado y 1 cdta de azúcar: picante, rojo y algo dulce, muy parecido al original.",
@@ -980,7 +980,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["olla-express", "cazuela", "bol"],
+  equipo: ["olla-express", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "repollo", q: 1, u: "ud", nota: "pequeño, para sacar 8 hojas grandes" },
@@ -999,7 +999,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Quita el troncho del repollo con un cuchillo y escáldalo entero en una cazuela con agua hirviendo 5 minutos; ve separando las hojas exteriores a medida que se ablandan. Mientras, pica la cebolla y trocea el bacon. Saca 8 hojas grandes y recorta la vena central gruesa.",
+    "Quita el troncho del repollo con un cuchillo y escáldalo entero en la olla con agua hirviendo 5 minutos; ve separando las hojas exteriores a medida que se ablandan. Mientras, pica la cebolla y trocea el bacon. Saca 8 hojas grandes, recorta la vena central gruesa, escurre el resto del repollo y tira el agua.",
     "Sofríe la cebolla en la olla con el aceite 5 minutos. Pasa la mitad a un bol y mézclala con las carnes, el arroz lavado, el pimentón, sal y pimienta.",
     "Pon una cucharada grande de relleno en la base de cada hoja, dobla los laterales hacia dentro y enrolla apretando, como un paquetito.",
     "Pica el resto del repollo y extiéndelo en el fondo de la olla, sobre la cebolla que quedaba. Coloca encima los rollitos apretados, con el cierre hacia abajo, y reparte el bacon y el laurel.",
@@ -1007,7 +1007,7 @@ window.RECETAS_SEED.push({
     "Cierra; cuando alcance presión, baja a fuego medio-bajo y cuenta 20 minutos. Deja que pierda la presión de forma natural.",
     "Sirve 4 rollitos por persona con el repollo y su caldo, y una cucharada de yogur por encima."
   ],
-  nutricion: { kcal: 586, prot: 33, hc: 38, grasa: 34 },
+  nutricion: { kcal: 605, prot: 34, hc: 43, grasa: 32 },
   etiquetas: ["tradicional", "económica", "invierno", "batch cooking", "de domingo", "poco especiada"],
   consejo: "En los Balcanes se hacen con hojas de repollo fermentado; si encuentras chucrut, pon una capa en el fondo en lugar del repollo picado. Recalentados al día siguiente están todavía mejor.",
   contundencia: "media",

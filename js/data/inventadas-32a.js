@@ -866,7 +866,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["microondas", "batidora", "bol"],
+  equipo: ["microondas", "bol"],
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
@@ -887,13 +887,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la cebolla en juliana fina y lamina el ajo. Ponlos con el aceite en una fuente honda apta para microondas y cocina 4 minutos a 800 W, removiendo a mitad, hasta que la cebolla esté blanda.",
-    "Mientras, tritura el tomate con los chipotles, un poco de su adobo, el orégano y sal. Añádelo a la cebolla ya blanda.",
+    "Mientras, pica muy finos los chipotles y mézclalos con el tomate, un poco de su adobo, el orégano y sal. Añádelo a la cebolla ya blanda.",
     "Corta la pechuga en 4 trozos, sálala y sumérgela en la salsa. Tapa con rendija y cocina 5 minutos a 800 W; dale la vuelta a los trozos y cocina 4 minutos más, hasta que estén blancos por dentro. Mientras se hace, pica la cebolla morada y el cilantro, desmenuza el queso fresco y corta la lima en gajos.",
     "Saca el pollo, desmenúzalo con dos tenedores y devuélvelo a la salsa. Cocina destapado 2 minutos para que la tinga quede jugosa pero no caldosa.",
     "Apila las tortillas de maíz envueltas en un paño de cocina húmedo y caliéntalas 40-60 segundos a 800 W, hasta que estén flexibles y humeantes.",
     "Rellena las tortillas con la tinga y sirve con aguacate en láminas, la cebolla morada, el queso fresco, el cilantro y los gajos de lima."
   ],
-  nutricion: { kcal: 680, prot: 47, hc: 59, grasa: 28 },
+  nutricion: { kcal: 810, prot: 45, hc: 68, grasa: 39 },
   etiquetas: ["sin gluten", "microondas", "tupper", "picante", "para compartir"],
   consejo: "Compra tortillas 100 % maíz con sello: muchas «tortillas de maíz» de supermercado mezclan harina de trigo. La tinga aguanta 3 días en la nevera; las tortillas se calientan siempre al momento.",
   alternativa: "Para la tinga sin chipotle en adobo, añade al tomate 2 cdta de pimentón ahumado (mitad picante) y 1 cdta de vinagre de manzana: humo y picante casi idénticos.",
