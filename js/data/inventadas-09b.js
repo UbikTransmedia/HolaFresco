@@ -245,7 +245,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["wok", "sartén"],
+  equipo: ["wok"],
   raciones: 2,
   ingredientes: [
     { n: "arroz jazmín", q: 140, u: "g", nota: "cocido y frío, del día anterior" },
@@ -265,11 +265,11 @@ window.RECETAS_SEED.push({
     "Pica el kimchi en trozos de 1 cm reservando su jugo. Corta la cebolleta en rodajas separando lo blanco de lo verde y pica el ajo.",
     "Calienta el wok a fuego fuerte con media cucharada de aceite. Dora el cerdo picado 4 minutos deshaciendo los grumos hasta que esté tostado. Añade el ajo y lo blanco de la cebolleta y saltea 1 minuto.",
     "Agrega el kimchi y saltea 2 minutos para que pierda parte del agua y se caramelice un poco. Incorpora el gochujang, si lo usas, y remueve.",
-    "Añade el arroz frío desmenuzado, la soja y el jugo del kimchi. Saltea 3-4 minutos presionando el arroz contra el wok para que se tueste en algunos puntos. Apaga y mezcla con el aceite de sésamo y lo verde de la cebolleta.",
-    "Mientras, fríe los huevos en una sartén con el resto del aceite a fuego medio-alto, hasta que la clara esté crujiente en los bordes y la yema líquida.",
-    "Sirve el arroz con un huevo frito encima de cada ración y el sésamo espolvoreado. Al romper la yema se mezcla con el arroz."
+    "Añade el arroz frío desmenuzado, la soja y el jugo del kimchi. Saltea 3-4 minutos presionando el arroz contra el wok para que se tueste en algunos puntos. Apaga, mezcla con el aceite de sésamo y lo verde de la cebolleta y reparte en los platos.",
+    "Pasa un papel por el wok, calienta en él el resto del aceite a fuego medio-alto y fríe los huevos hasta que la clara esté crujiente en los bordes y la yema líquida.",
+    "Pon un huevo frito encima de cada ración y espolvorea el sésamo. Al romper la yema se mezcla con el arroz."
   ],
-  nutricion: { kcal: 610, prot: 30, hc: 63, grasa: 27 },
+  nutricion: { kcal: 670, prot: 32, hc: 65, grasa: 31 },
   etiquetas: ["rápida", "picante", "una sola sartén", "aprovechamiento", "económica"],
   consejo: "Cuanto más fermentado y ácido esté el kimchi, mejor queda este arroz: es la receta ideal para el fondo del bote.",
   contundencia: "media",
@@ -378,7 +378,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "horno", "batidora"],
+  equipo: ["cazuela", "horno", "batidora"],
   raciones: 3,
   ingredientes: [
     { n: "macarrones", q: 150, u: "g" },
@@ -398,10 +398,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir una cazuela grande con agua y sal. Cuece el boniato en ella 10 minutos hasta que esté blando; sácalo con una espumadera al vaso de la batidora. En la misma agua cuece los macarrones 2 minutos menos de lo que indique el paquete y escurre.",
-    "Mientras, precalienta el grill del horno a 220 °C y mezcla el pollo con 1 cucharadita de pimentón ahumado, sal y pimienta. Dóralo en una sartén con el aceite a fuego fuerte 5-6 minutos hasta que esté hecho. Añade el ajo picado y las espinacas y saltea 2 minutos hasta que se bajen.",
+    "Precalienta el grill del horno a 220 °C. Pica el ajo y mezcla el pollo con 1 cucharadita de pimentón ahumado, sal y pimienta. Dóralo en la cazuela con el aceite a fuego fuerte 5-6 minutos hasta que esté hecho. Añade el ajo y las espinacas y saltea 2 minutos hasta que se bajen. Pásalo todo a la fuente de horno.",
+    "Llena la misma cazuela con agua y sal y ponla a hervir. Cuece el boniato 10 minutos hasta que esté blando; sácalo con una espumadera al vaso de la batidora. En la misma agua cuece los macarrones 2 minutos menos de lo que indique el paquete y escurre. Mientras, templa la leche.",
     "Tritura el boniato con la leche caliente, la mostaza, el resto del pimentón, sal y pimienta hasta obtener un puré fino. Pásalo a la cazuela a fuego bajo e incorpora 60 g del queso removiendo hasta que se funda: es la salsa.",
-    "Mezcla los macarrones con la salsa, el pollo y las espinacas. Pasa a una fuente de horno.",
+    "Mezcla en la cazuela los macarrones con la salsa y vuélcalos en la fuente sobre el pollo y las espinacas, mezclando un poco.",
     "Mezcla el pan rallado con el resto del queso y la mantequilla fundida y repártelo por encima. Gratina 6-8 minutos hasta que la costra esté dorada y burbujee.",
     "Deja reposar 3 minutos y sirve."
   ],
@@ -768,15 +768,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Haz un risotto sencillo: calienta el caldo en un cazo y mantenlo a fuego mínimo. Pica la cebolla muy fina y póchala con media cucharada de aceite 4 minutos, añade el arroz, nacáralo 1 minuto y ve añadiendo el caldo caliente cazo a cazo removiendo 16-17 minutos. A los 12 minutos incorpora los guisantes. Debe quedar más seco de lo normal. Fuera del fuego, añade el parmesano, sal y pimienta.",
+    "Haz un risotto sencillo: calienta el caldo en un cazo y mantenlo a fuego mínimo. Pica la cebolla muy fina y póchala en una cazuela con media cucharada de aceite 4 minutos, añade el arroz, nacáralo 1 minuto y ve añadiendo el caldo caliente cazo a cazo removiendo 16-17 minutos. A los 12 minutos incorpora los guisantes. Debe quedar más seco de lo normal. Fuera del fuego, añade el parmesano, sal y pimienta.",
     "Extiende el risotto en una bandeja y deja que se enfríe del todo (20 minutos; en la nevera, 10). Frío es cuando se puede moldear.",
-    "Mientras enfría, precalienta el horno a 220 °C, lamina el ajo, bate el huevo en un plato hondo y haz la salsa: calienta media cucharada de aceite con el ajo a fuego bajo 2 minutos, añade el tomate triturado, sal y pimienta y cocina 15 minutos a fuego suave. Al final, trocea la albahaca y añádela.",
+    "Mientras enfría, precalienta el horno a 220 °C, lamina el ajo, bate el huevo en un plato hondo y haz la salsa en la misma cazuela del risotto: calienta media cucharada de aceite con el ajo a fuego bajo 2 minutos, añade el tomate triturado, sal y pimienta y cocina 15 minutos a fuego suave. Al final, trocea la albahaca y añádela.",
     "Con las manos húmedas, forma 6 bolas con el arroz frío; hunde un dado de mozzarella en el centro de cada una y ciérralas bien.",
     "Pasa cada bola por el huevo batido y luego por el pan rallado. Colócalas en una bandeja con papel de horno y riégalas con el resto del aceite.",
     "Hornea 20-25 minutos, girándolas a mitad, hasta que estén doradas y crujientes por fuera y el queso se haya fundido.",
     "Sirve 3 arancini por persona sobre la salsa de tomate caliente, con la rúcula aliñada con unas gotas de limón y pimienta."
   ],
-  nutricion: { kcal: 630, prot: 25, hc: 83, grasa: 22 },
+  nutricion: { kcal: 710, prot: 28, hc: 90, grasa: 24 },
   etiquetas: ["al horno", "vegetariana", "para niños", "aprovechamiento", "ideal para llevar", "poco especiada"],
   consejo: "Es la receta perfecta para un risotto sobrante: con 350-400 g de arroz ya cocido te saltas el primer paso y lo tienes en 35 minutos.",
   contundencia: "media",
@@ -894,7 +894,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "bulgur", q: 110, u: "g", nota: "fino" },
@@ -921,7 +921,7 @@ window.RECETAS_SEED.push({
     "Haz 3 huecos en las verduras con la cuchara, casca un huevo en cada uno, salpimienta, tapa y cuece a fuego medio-bajo 4-5 minutos hasta que la clara cuaje y la yema siga líquida.",
     "Sirve el bulgur en platos, encima las verduras con los huevos (uno y medio por persona), el feta desmenuzado, el eneldo y pimienta."
   ],
-  nutricion: { kcal: 465, prot: 25, hc: 52, grasa: 18 },
+  nutricion: { kcal: 520, prot: 26, hc: 52, grasa: 20 },
   etiquetas: ["rápida", "ligera", "vegetariana", "económica", "una sola sartén"],
   consejo: "El bulgur fino no se cuece, se hidrata: con agua hirviendo y 10 minutos tapado queda perfecto. Si solo tienes grueso, cuécelo 12 minutos en el doble de agua.",
   contundencia: "ligera",
@@ -939,7 +939,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 150,
   dificultad: "elaborada",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de arroz", q: 140, u: "g", nota: "planos, de 3-5 mm" },
@@ -964,14 +964,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Tuesta la cebolla y el jengibre en una sartén seca, con el corte hacia abajo, a fuego fuerte 5-6 minutos, hasta que estén bien chamuscados: es lo que da al caldo su color y aroma. Tuesta también 1 minuto las especias (anís, canela, clavo, cardamomo) en la misma sartén.",
-    "Pon la ternera en una cazuela grande con el caldo y el agua, lleva a ebullición y espuma bien los primeros 5 minutos. Añade la cebolla, el jengibre y las especias, baja a fuego mínimo (un hervor apenas perceptible) y cuece destapado 2 horas, hasta que la carne esté muy tierna. En los últimos 15 minutos, corta la cebolleta en rodajas finas y el chile en rodajas, deshoja la albahaca y el cilantro y corta la lima en gajos.",
+    "Tuesta la cebolla y el jengibre en la cazuela grande seca, con el corte hacia abajo, a fuego fuerte 5-6 minutos, hasta que estén bien chamuscados: es lo que da al caldo su color y aroma. Añade las especias (anís, canela, clavo, cardamomo) y tuéstalas 1 minuto más. Sácalo todo a un plato.",
+    "Pon la ternera en la misma cazuela con el caldo y el agua, lleva a ebullición y espuma bien los primeros 5 minutos. Añade la cebolla, el jengibre y las especias, baja a fuego mínimo (un hervor apenas perceptible) y cuece destapado 2 horas, hasta que la carne esté muy tierna. En los últimos 15 minutos, corta la cebolleta en rodajas finas y el chile en rodajas, deshoja la albahaca y el cilantro y corta la lima en gajos.",
     "Saca la carne y déjala templar 10 minutos. Cuela el caldo, desgrásalo si hace falta y sazónalo con la salsa de pescado, el azúcar y sal: debe quedar sabroso y limpio. Mantenlo muy caliente.",
     "Mientras, remoja o cuece los fideos de arroz según el paquete (unos 5 minutos en agua hirviendo), escúrrelos y repártelos en 2 boles grandes.",
     "Corta la carne en lonchas finas a contrafibra y colócala sobre los fideos con los brotes de soja y la cebolleta.",
     "Vierte el caldo hirviendo por encima (debe cubrir todo) y sirve con las hierbas, el chile, los gajos de lima y sriracha para que cada uno termine su bol."
   ],
-  nutricion: { kcal: 550, prot: 43, hc: 64, grasa: 14 },
+  nutricion: { kcal: 665, prot: 50, hc: 77, grasa: 16 },
   etiquetas: ["de cuchara", "fin de semana", "invierno", "sin gluten", "alta en proteína"],
   consejo: "El caldo mejora con reposo y se congela de maravilla: hazlo doble y la próxima vez tendrás un pho entre semana en 15 minutos.",
   contundencia: "media",
@@ -1102,8 +1102,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Seca y salpimienta las carrilladas. Dóralas en una cazuela con 1 cucharada de aceite a fuego fuerte 3-4 minutos por cada lado hasta que estén bien tostadas. Resérvalas. Mientras se doran, pica 1 cebolla, la zanahoria y 2 ajos.",
     "Baja el fuego, añade la cebolla y la zanahoria picadas y pocha 8 minutos. Agrega los 2 ajos y el tomate concentrado, remueve 1 minuto, vierte 150 ml de vino y deja reducir a la mitad.",
-    "Devuelve las carrilladas, añade 400 ml de caldo, el laurel y el romero. Tapa y cuece a fuego mínimo 2 horas, dándoles la vuelta a mitad, hasta que se deshagan al presionar con una cuchara. Sácalas, cuela el jugo y redúcelo 5 minutos a fuego fuerte hasta que nape. Mantén la carne caliente dentro de esa salsa.",
-    "Calienta el resto del caldo (500 ml) y mantenlo a fuego mínimo. En otra cazuela, pocha la otra cebolla picada muy fina con el resto del aceite 6 minutos. Añade el ajo restante picado y el arroz y nacáralo 2 minutos.",
+    "Devuelve las carrilladas, añade 400 ml de caldo, el laurel y el romero. Tapa y cuece a fuego mínimo 2 horas, dándoles la vuelta a mitad, hasta que se deshagan al presionar con una cuchara. En los últimos minutos, pica muy fina la otra cebolla y el ajo restante.",
+    "Saca las carrilladas a una fuente, cuela el jugo, devuélvelo a la cazuela y redúcelo 5 minutos a fuego fuerte hasta que nape. Vierte la salsa sobre la carne y tapa la fuente para que se mantenga caliente. Calienta el resto del caldo (500 ml) en un cazo y mantenlo a fuego mínimo.",
+    "Pasa un papel por la cazuela y pocha la cebolla con el resto del aceite 6 minutos. Añade el ajo y el arroz y nacáralo 2 minutos.",
     "Vierte los otros 150 ml de vino tinto y deja que se evaporen (el arroz tomará un color granate). Añade el caldo cazo a cazo removiendo, esperando a que se absorba, durante 17-18 minutos hasta que esté al dente y cremoso. Incorpora 3 cucharadas de la salsa de la carrillada en los últimos minutos.",
     "Fuera del fuego, manteca el risotto con la mantequilla y el parmesano removiendo con energía. Rectifica de sal y pimienta y tapa 2 minutos.",
     "Sirve el risotto en platos hondos con la carrillada entera o partida en dos encima, napada con el resto de su salsa reducida."

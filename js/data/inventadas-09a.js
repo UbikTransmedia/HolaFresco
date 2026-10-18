@@ -97,7 +97,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "macarrones", q: 140, u: "g" },
@@ -116,14 +116,14 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C con calor arriba y abajo. Pica la cebolla. Pon a hervir agua con sal y cuece los macarrones con los ramilletes de coliflor juntos durante 7 minutos (la pasta quedará al dente y la coliflor tierna pero entera). Escurre.",
-    "Mientras, dora el bacon en una sartén a fuego medio sin aceite 4-5 minutos hasta que esté crujiente. Sácalo a un plato y, en la misma grasa, pocha la cebolla 5 minutos hasta que esté transparente.",
-    "Prepara la bechamel: funde la mantequilla en una cazuela, añade la harina y cocina 1 minuto removiendo. Vierte la leche poco a poco sin dejar de batir y cocina 4-5 minutos a fuego medio hasta que espese y nape la cuchara. Sazona con sal, pimienta, nuez moscada y la mostaza.",
-    "Mezcla en una fuente de horno la pasta con la coliflor, la cebolla, el bacon, la bechamel y la mitad del queso. Alisa la superficie.",
+    "Precalienta el horno a 200 °C con calor arriba y abajo. Pica la cebolla. Pon a hervir agua con sal en la cazuela y cuece los macarrones con los ramilletes de coliflor juntos durante 7 minutos (la pasta quedará al dente y la coliflor tierna pero entera). Escurre.",
+    "En la misma cazuela, dora el bacon a fuego medio sin aceite 4-5 minutos hasta que esté crujiente. Añade la cebolla y pocha en su grasa 5 minutos hasta que esté transparente.",
+    "Haz ahí mismo la bechamel: añade la mantequilla y, cuando se funda, la harina, y cocina 1 minuto removiendo. Vierte la leche poco a poco sin dejar de remover y cocina 4-5 minutos a fuego medio hasta que espese y nape la cuchara. Sazona con sal, pimienta, nuez moscada y la mostaza.",
+    "Fuera del fuego, mezcla en la cazuela la pasta con la coliflor y la mitad del queso. Pásalo a una fuente de horno y alisa la superficie.",
     "Cubre con el resto del queso y el pan rallado. Hornea 15 minutos hasta que burbujee y la costra esté dorada. Si quieres más color, gratina 2 minutos vigilando.",
     "Deja reposar 5 minutos antes de servir para que la bechamel asiente y se pueda cortar en porciones."
   ],
-  nutricion: { kcal: 800, prot: 35, hc: 81, grasa: 37 },
+  nutricion: { kcal: 860, prot: 34, hc: 84, grasa: 42 },
   etiquetas: ["al horno", "para niños", "invierno", "batch cooking", "poco especiada"],
   consejo: "Cocer la coliflor con la pasta ahorra una cazuela y la deja con el punto justo; si la prefieres más dorada, ásala 15 minutos a 220 °C antes de mezclar.",
   contundencia: "contundente",
@@ -141,7 +141,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["horno", "sartén", "cazuela"],
+  equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
     { n: "lasaña (placas)", q: 8, u: "ud", nota: "precocidas" },
@@ -161,15 +161,15 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica la cebolla y los 2 ajos, trocea las setas y ralla el parmesano. Haz la salsa: sofríe la cebolla con 1 cucharada de aceite a fuego medio 6-7 minutos, añade 1 diente de ajo y, al minuto, el tomate triturado con el orégano, sal y una pizca de azúcar si lo ves ácido. Cocina 15 minutos a fuego suave hasta que espese.",
-    "Mientras cuece la salsa, saltea en una sartén grande a fuego alto las setas con el resto del aceite 6-8 minutos sin moverlas demasiado, hasta que doren y pierdan el agua. Salpimienta y añade el otro ajo en el último minuto.",
-    "Agrega las espinacas en tandas a la misma sartén y deja que se bajen 2-3 minutos. Escúrrelas bien apretándolas con una cuchara: cuanto menos agua, mejor cortará la lasaña. Precalienta el horno a 190 °C.",
-    "Mezcla en un bol la ricotta con las espinacas y setas, la nuez moscada, la mitad del parmesano, sal y pimienta.",
+    "Pica la cebolla y los 2 ajos, trocea las setas y ralla el parmesano.",
+    "Saltea en una sartén grande a fuego alto las setas con 1 cucharada de aceite 6-8 minutos sin moverlas demasiado, hasta que doren y pierdan el agua. Salpimienta y añade 1 diente de ajo en el último minuto.",
+    "Agrega las espinacas en tandas a la misma sartén y deja que se bajen 2-3 minutos. Pásalas con las setas a un bol, escurriendo bien el líquido con una cuchara: cuanto menos agua, mejor cortará la lasaña.",
+    "Haz la salsa en la misma sartén: sofríe la cebolla con el resto del aceite a fuego medio 6-7 minutos, añade el otro ajo y, al minuto, el tomate triturado con el orégano, sal y una pizca de azúcar si lo ves ácido. Cocina 15 minutos a fuego suave hasta que espese. Mientras, precalienta el horno a 190 °C y mezcla en el bol la ricotta con las espinacas y setas, la nuez moscada, la mitad del parmesano, sal y pimienta.",
     "En una fuente pequeña (unos 20 x 15 cm) pon una capa fina de salsa, 2 placas, un tercio del relleno, salsa; repite hasta terminar con placas cubiertas de salsa, la mozzarella y el parmesano restante.",
     "Tapa con papel de aluminio y hornea 25 minutos; destapa y hornea 10-15 minutos más hasta que la superficie esté dorada y los bordes burbujeen.",
     "Deja reposar 10 minutos fuera del horno antes de cortar: así las capas se asientan y las porciones salen enteras."
   ],
-  nutricion: { kcal: 790, prot: 47, hc: 65, grasa: 37 },
+  nutricion: { kcal: 895, prot: 47, hc: 80, grasa: 41 },
   etiquetas: ["al horno", "vegetariana", "batch cooking", "invierno", "alta en proteína", "poco especiada"],
   consejo: "Si tus placas no son precocidas, remójalas 10 minutos en agua caliente antes de montar y añade 100 ml de agua a la salsa.",
   alternativa: "Si no encuentras ricotta, usa requesón (los mismos 200 g) bien escurrido y aplastado con un tenedor; queda algo más firme, así que añádele 1-2 cda de leche al mezclarlo con las espinacas.",
@@ -339,15 +339,16 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 210 °C. Mezcla los dados de calabaza con media cucharada de aceite, sal y pimienta y ásalos en una bandeja 25 minutos, hasta que estén tiernos y con bordes dorados. Aplasta la mitad con un tenedor y deja la otra mitad en dados.",
-    "Mientras, calienta el caldo en un cazo y mantenlo a fuego mínimo. Tuesta las semillas de calabaza en una sartén seca 2 minutos hasta que crepiten y resérvalas. Pica muy fina la cebolla, pica el ajo y trocea 4 hojas de salvia.",
-    "En una cazuela ancha, pocha la cebolla con el resto del aceite a fuego medio 6-7 minutos, hasta que esté transparente. Añade el ajo y la salvia troceada y cocina 1 minuto.",
+    "Precalienta el horno a 210 °C. Mezcla los dados de calabaza con media cucharada de aceite, sal y pimienta y ásalos en una bandeja 25 minutos, hasta que estén tiernos y con bordes dorados.",
+    "Mientras, calienta el caldo en un cazo y mantenlo a fuego mínimo. Pica muy fina la cebolla, pica el ajo y trocea 4 hojas de salvia.",
+    "Tuesta las semillas de calabaza en la cazuela seca 2 minutos hasta que crepiten y resérvalas. Añade una cucharadita del aceite y fríe 20 segundos las 4 hojas de salvia enteras hasta que queden crujientes; resérvalas con las semillas.",
+    "En la misma cazuela, pocha la cebolla con el resto del aceite a fuego medio 6-7 minutos, hasta que esté transparente. Añade el ajo y la salvia troceada y cocina 1 minuto.",
     "Sube el fuego, echa el arroz y nacáralo 2 minutos removiendo hasta que los bordes se vean translúcidos. Vierte el vino y deja que se evapore por completo.",
-    "Añade el caldo caliente cazo a cazo, removiendo a menudo y esperando a que se absorba antes de añadir más. A los 12 minutos incorpora el puré de calabaza y sigue hasta que el arroz esté al dente y cremoso (17-18 minutos en total).",
+    "Añade el caldo caliente cazo a cazo, removiendo a menudo y esperando a que se absorba antes de añadir más. Mientras, saca la calabaza del horno y aplasta la mitad con un tenedor. A los 12 minutos incorpora el puré de calabaza y sigue hasta que el arroz esté al dente y cremoso (17-18 minutos en total).",
     "Fuera del fuego, añade el parmesano y la mitad del queso de cabra desmenuzado. Remueve con energía 30 segundos para que ligue (mantecar) y rectifica de sal y pimienta. Tapa 2 minutos.",
-    "Sirve con los dados de calabaza, el resto del queso de cabra, las semillas tostadas y las hojas de salvia restantes fritas 20 segundos en una cucharadita de aceite muy caliente hasta que queden crujientes."
+    "Sirve con los dados de calabaza, el resto del queso de cabra, las semillas tostadas y las hojas de salvia crujientes."
   ],
-  nutricion: { kcal: 610, prot: 22, hc: 79, grasa: 23 },
+  nutricion: { kcal: 665, prot: 23, hc: 83, grasa: 26 },
   etiquetas: ["vegetariana", "invierno", "otoño", "de cuchara", "poco especiada"],
   consejo: "No laves el arroz y no dejes de remover al final: el almidón que suelta es lo que da la cremosidad sin necesidad de nata.",
   alternativa: "¿Sin salvia fresca? Fríe en el aceite 1 cdta de salvia seca justo antes del arroz, o usa unas agujas de romero fresco muy picadas; el risotto conserva su perfume herbáceo.",
@@ -574,10 +575,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica muy finos la cebolla, la zanahoria y el ajo y póchalos con el aceite a fuego medio 8 minutos, hasta que estén blandos. Sube el fuego, añade el pavo picado y dóralo 5-6 minutos deshaciendo los grumos.",
-    "Agrega el tomate y el vino y cocina 5 minutos hasta que el líquido se evapore. Añade las espinacas en tandas y déjalas 2-3 minutos hasta que se bajen. Salpimienta, deja templar y pica el conjunto a cuchillo (o con unos pulsos de batidora) para que el relleno sea fino.",
-    "Precalienta el horno a 200 °C. Cuece las placas de canelones en agua hirviendo con sal según el paquete (si son precocidas, remójalas 10 minutos en agua caliente). Extiéndelas sobre un paño limpio sin que se toquen.",
-    "Haz la bechamel: funde la mantequilla, añade la harina y cocina 1 minuto. Vierte la leche poco a poco batiendo y cocina 5-6 minutos a fuego medio hasta que espese ligeramente (debe quedar fluida). Sazona con sal, pimienta y nuez moscada.",
+    "Pica muy finos la cebolla, la zanahoria y el ajo y póchalos en una sartén con el aceite a fuego medio 8 minutos, hasta que estén blandos. Mientras, pon a hervir agua con sal en la cazuela. Sube el fuego, añade el pavo picado y dóralo 5-6 minutos deshaciendo los grumos.",
+    "Agrega el tomate y el vino y cocina 5 minutos hasta que el líquido se evapore. Añade las espinacas en tandas y déjalas 2-3 minutos hasta que se bajen. Salpimienta, pásalo a la tabla, deja templar y pícalo a cuchillo para que el relleno sea fino.",
+    "Precalienta el horno a 200 °C. Cuece las placas de canelones en el agua hirviendo según el paquete (si son precocidas, remójalas 10 minutos en agua caliente). Extiéndelas sobre un paño limpio sin que se toquen.",
+    "Haz la bechamel en la misma sartén del relleno: funde la mantequilla, añade la harina y cocina 1 minuto. Vierte la leche poco a poco removiendo y cocina 5-6 minutos a fuego medio hasta que espese ligeramente (debe quedar fluida). Sazona con sal, pimienta y nuez moscada.",
     "Mezcla 3 cucharadas de bechamel con el relleno para que ligue. Reparte una tira de relleno a lo largo de cada placa y enróllalas.",
     "Pon una capa fina de bechamel en una fuente, coloca los canelones con el cierre hacia abajo, cúbrelos con el resto de la bechamel y espolvorea el queso.",
     "Hornea 20 minutos y gratina 2-3 minutos más hasta que estén dorados. Deja reposar 5 minutos antes de servir."
@@ -600,7 +601,7 @@ window.RECETAS_SEED.push({
   proteina: "cordero",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "bulgur", q: 140, u: "g", nota: "grueso" },
@@ -631,7 +632,7 @@ window.RECETAS_SEED.push({
     "Apaga el fuego y deja reposar tapado 5 minutos. Mientras, mezcla el yogur con el zumo del medio limón y una pizca de sal.",
     "Suelta el pilaf con un tenedor, añade la mitad de las hierbas picadas y los piñones. Sirve con el resto de las hierbas y el yogur por encima."
   ],
-  nutricion: { kcal: 770, prot: 36, hc: 73, grasa: 37 },
+  nutricion: { kcal: 860, prot: 39, hc: 72, grasa: 44 },
   etiquetas: ["una sola cazuela", "especiado", "invierno", "fin de semana"],
   consejo: "Si no encuentras cordero picado, pídelo en la carnicería a partir de pierna o paletilla; también funciona con ternera picada, aunque pierde parte de su carácter.",
   contundencia: "contundente",
@@ -919,7 +920,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 90,
   dificultad: "elaborada",
-  equipo: ["horno", "cazuela", "sartén", "bol"],
+  equipo: ["horno", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "arroz basmati", q: 160, u: "g" },
@@ -948,14 +949,14 @@ window.RECETAS_SEED.push({
   pasos: [
     "Ralla el ajo y el jengibre y pica el chile. Marina el pollo: mezcla 100 g de yogur con el ajo, el jengibre, el garam masala, la cúrcuma, el comino, el chile, el zumo de medio limón y 1 cucharadita de sal. Añade el pollo y deja al menos 30 minutos (o toda la noche en la nevera).",
     "Lava el arroz hasta que el agua salga clara y déjalo en remojo 20 minutos. Corta las cebollas en juliana fina.",
-    "Fríe la cebolla con el aceite en una sartén a fuego medio 15-18 minutos, removiendo de vez en cuando, hasta que esté dorada oscura y crujiente. Mientras, pica el cilantro y la menta y ralla el pepino y déjalo escurrir en un colador. Saca la mitad de la cebolla a papel absorbente y reserva.",
-    "En la misma sartén con la otra mitad de la cebolla, añade el pollo con su marinada y el tomate. Cocina a fuego medio 10 minutos, hasta que la salsa espese y el pollo esté casi hecho. Pasa todo a una cazuela que pueda ir al horno. Mientras se cocina, precalienta el horno a 180 °C y pon a hervir abundante agua con sal.",
+    "Fríe la cebolla con el aceite en una cazuela que pueda ir al horno, a fuego medio 15-18 minutos, removiendo de vez en cuando, hasta que esté dorada oscura y crujiente. Mientras, pica el cilantro y la menta y ralla el pepino y déjalo escurrir en un colador. Saca la mitad de la cebolla a papel absorbente y reserva.",
+    "En la misma cazuela con la otra mitad de la cebolla, añade el pollo con su marinada y el tomate. Cocina a fuego medio 10 minutos, hasta que la salsa espese y el pollo esté casi hecho. Mientras se cocina, precalienta el horno a 180 °C y pon a hervir abundante agua con sal en una olla.",
     "Cuece el arroz escurrido en el agua hirviendo con el laurel, el cardamomo y la canela durante 5 minutos exactos: debe quedar a medio hacer. Escúrrelo.",
     "Cubre el pollo con el arroz, reparte la mantequilla en trocitos, la mitad de la cebolla crujiente y la mitad del cilantro y la menta picados. Tapa con papel de aluminio y la tapa y hornea 25 minutos.",
     "Mientras, prepara la raita: aprieta el pepino para escurrirlo bien y mézclalo con el resto del yogur, el resto de la menta y una pizca de sal. Corta el otro medio limón en gajos.",
     "Deja reposar el biryani 5 minutos tapado, mezcla con suavidad desde el fondo y sirve con el resto de la cebolla crujiente, el cilantro, los gajos de limón y la raita."
   ],
-  nutricion: { kcal: 760, prot: 42, hc: 78, grasa: 31 },
+  nutricion: { kcal: 805, prot: 39, hc: 89, grasa: 32 },
   etiquetas: ["al horno", "especiado", "fin de semana", "batch cooking"],
   consejo: "El arroz debe quedar a medio cocer antes de ir al horno: termina de hacerse con el vapor de la salsa y así cada grano queda suelto y perfumado.",
   contundencia: "contundente",
@@ -973,7 +974,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 15,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "pasta corta", q: 130, u: "g", nota: "fusilli o farfalle" },
@@ -992,12 +993,12 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece la pasta en agua hirviendo con sal según el paquete, hasta que esté al dente. Reserva medio vaso del agua de cocción, escurre y refresca con agua fría.",
-    "Mientras, tritura el tomate seco con su cucharada de aceite, las almendras, el ajo, la mitad de la albahaca, el parmesano y 3-4 cucharadas del agua de cocción hasta tener un pesto espeso pero untuoso. Salpimienta.",
+    "Mientras, pica muy fino a cuchillo el tomate seco, las almendras, el ajo, la mitad de la albahaca y el parmesano, juntándolo y repasándolo hasta tener casi una pasta. Pásalo al bol y mézclalo con su cucharada de aceite y 3-4 cucharadas del agua de cocción hasta tener un pesto espeso pero untuoso. Salpimienta.",
     "Corta los cherry por la mitad y alíñalos con el vinagre balsámico y una pizca de sal.",
-    "Mezcla la pasta fría con el pesto rojo hasta que quede bien cubierta; si está seca, añade otra cucharada de agua de cocción.",
+    "Mezcla la pasta fría con el pesto rojo en el bol hasta que quede bien cubierta; si está seca, añade otra cucharada de agua de cocción.",
     "Trocea el resto de la albahaca e incorpórala con los cherry y la mozzarella. Añade la rúcula justo antes de servir y termina con pimienta."
   ],
-  nutricion: { kcal: 465, prot: 21, hc: 59, grasa: 16 },
+  nutricion: { kcal: 485, prot: 22, hc: 57, grasa: 18 },
   etiquetas: ["rápida", "ligera", "verano", "ideal para llevar", "vegetariana", "pasta fría", "económica", "poco especiada"],
   consejo: "El agua de cocción con almidón hace que el pesto se adhiera a la pasta sin tener que añadir más aceite: por eso esta ensalada queda ligera.",
   contundencia: "ligera",
@@ -1104,9 +1105,9 @@ window.RECETAS_SEED.push({
   cocina: "italiana",
   momentos: ["comida", "cena"],
   proteina: "marisco",
-  tiempo: 40,
+  tiempo: 35,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
     { n: "arroz arborio", q: 150, u: "g" },
@@ -1126,17 +1127,17 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Calienta el caldo y mantenlo a fuego mínimo. Cuece la mitad de los guisantes 3 minutos en un poco de caldo, tritúralos con 5-6 hojas de menta hasta obtener un puré verde y reserva. Pica la cebolleta (reserva lo verde aparte), lamina el ajo y corta en tiras finas el resto de la menta.",
-    "En una cazuela ancha, pocha lo blanco de la cebolleta con 1 cucharada de aceite a fuego medio 4 minutos. Añade el arroz y nacáralo 2 minutos removiendo.",
-    "Vierte el vino y deja que se evapore. Añade el caldo caliente cazo a cazo, removiendo a menudo y esperando a que se absorba antes de añadir más, durante unos 15 minutos.",
-    "Agrega el resto de los guisantes y el puré verde y sigue cociendo 3 minutos más hasta que el arroz esté al dente y cremoso.",
-    "Mientras termina el arroz, calienta el resto del aceite en una sartén con el ajo y la guindilla. Cuando el ajo empiece a dorarse, sube el fuego y saltea las gambas salpimentadas 2 minutos hasta que estén rosadas. Añade la ralladura del limón.",
+    "Calienta el caldo en un cazo y mantenlo a fuego mínimo. Pica la cebolleta (reserva lo verde aparte), lamina el ajo, pica 5-6 hojas de menta y corta en tiras finas el resto.",
+    "En una cazuela ancha, calienta media cucharada de aceite con el ajo y la guindilla. Cuando el ajo empiece a dorarse, sube el fuego y saltea las gambas salpimentadas 2 minutos hasta que estén rosadas. Añade la ralladura del limón y resérvalas con su aceite en un plato.",
+    "En la misma cazuela, pocha lo blanco de la cebolleta con el resto del aceite a fuego medio 4 minutos. Añade el arroz y nacáralo 2 minutos removiendo.",
+    "Vierte el vino y deja que se evapore. Añade el caldo caliente cazo a cazo, removiendo a menudo y esperando a que se absorba antes de añadir más. A los 10 minutos echa todos los guisantes.",
+    "A los 18 minutos, cuando el arroz esté al dente y cremoso, aplasta parte de los guisantes contra la pared con la menta picada para que tiñan de verde el arroz.",
     "Fuera del fuego, añade al risotto la mantequilla y el parmesano y remueve con energía 30 segundos. Rectifica de sal y pimienta.",
     "Sirve el risotto con las gambas y su aceite por encima, lo verde de la cebolleta, la menta en tiras y un chorrito de limón."
   ],
-  nutricion: { kcal: 630, prot: 40, hc: 74, grasa: 20 },
+  nutricion: { kcal: 735, prot: 42, hc: 83, grasa: 23 },
   etiquetas: ["marisco", "primavera", "alta en proteína", "de cuchara"],
-  consejo: "Las gambas se hacen aparte y al final para que no se pasen: en el risotto se cocerían de más y quedarían gomosas.",
+  consejo: "Las gambas se saltean al principio y vuelven solo al final para que no se pasen: si se cocieran en el risotto quedarían gomosas.",
   contundencia: "media",
   coste: "premium"
 });

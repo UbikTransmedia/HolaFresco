@@ -31,11 +31,11 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el puerro en rodajas, lamina el ajo, pela la patata y córtala en dados pequeños y trocea el tallo del brócoli. Calienta el aceite en la olla a fuego medio y sofríe el puerro y el ajo 3 min hasta que ablanden sin dorar.",
-    "Añade la patata, el tallo del brócoli y el caldo. Reserva 4 ramilletes pequeños de brócoli y echa el resto encima.",
+    "Corta el puerro en rodajas, lamina el ajo, pela la patata y córtala en dados pequeños, trocea el tallo del brócoli y aparta 4 ramilletes pequeños.",
+    "Tuesta las semillas de calabaza en la olla seca a fuego medio 2 min y sácalas. Añade una gota de aceite y pasa los 4 ramilletes reservados 2 min hasta que se tuesten un poco; resérvalos con las semillas.",
+    "Pon el resto del aceite en la olla y sofríe el puerro y el ajo 3 min hasta que ablanden sin dorar. Añade la patata, el tallo del brócoli, el caldo y el resto de los ramilletes por encima.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min. Despresuriza rápido enseguida: así el brócoli conserva el verde vivo.",
     "Tritura con la batidora hasta que quede muy fina; añade la nuez moscada, sal, pimienta y un chorrito de limón. Si está espesa, aclara con un poco de agua caliente.",
-    "Tuesta las semillas de calabaza en una sartén seca 2 min. Pasa los ramilletes reservados 2 min por la misma sartén con una gota de aceite.",
     "Sirve la crema con el queso de cabra desmenuzado por encima (se funde con el calor), los ramilletes tostados y las semillas."
   ],
   nutricion: { kcal: 665, prot: 30, hc: 59, grasa: 34 },
@@ -202,14 +202,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las judías en trozos de 4 cm y las patatas peladas en dados de 2-3 cm. Pon el agua con sal en la olla, el cestillo encima y dentro las patatas, las judías y los dos huevos enteros con cáscara.",
+    "Corta las judías en trozos de 4 cm, las patatas peladas en dados de 2-3 cm y lamina los ajos. Pon el agua con sal en la olla, el cestillo encima y dentro las patatas, las judías y los dos huevos enteros con cáscara.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min.",
     "Despresuriza rápido. Saca los huevos y mételos en agua fría 2 min; quedan duros con la yema justo cuajada. Comprueba las judías: tiernas pero con color. Si las prefieres más blandas, 1 min más.",
-    "Escurre las verduras y ponlas en una fuente. Pela los huevos y pártelos en cuartos.",
-    "Calienta el aceite en una sartén pequeña a fuego medio con los ajos laminados 2 min hasta que doren. Aparta del fuego, añade el pimentón y el vinagre y remueve 10 s (el vinagre frena el pimentón).",
+    "Pasa las verduras a una fuente, tira el agua y seca la olla. Pela los huevos y pártelos en cuartos.",
+    "Calienta el aceite en la misma olla a fuego medio con los ajos laminados 2 min hasta que doren. Aparta del fuego, añade el pimentón y el vinagre y remueve 10 s (el vinagre frena el pimentón).",
     "Vierte el refrito caliente sobre las judías y patatas, mezcla, pon el huevo encima, salpimienta y, si quieres más sustancia, desmenuza el atún por encima."
   ],
-  nutricion: { kcal: 400, prot: 18, hc: 40, grasa: 18 },
+  nutricion: { kcal: 435, prot: 14, hc: 35, grasa: 25 },
   etiquetas: ["rápida", "ligera", "cena", "económica", "para niños", "vegetariano", "poco especiada"],
   consejo: "Para que las judías sigan verdes al servir, échales el refrito cuando ya estén en el plato: el ácido del vinagre las apaga si hierven con él."
 });
@@ -297,9 +297,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Dora la panceta en la olla destapada a fuego fuerte 3 min por cada cara, sin aceite, hasta que suelte grasa y esté tostada. Retira el exceso de grasa.",
     "Añade el caldo, el jengibre, los ajos enteros aplastados, la parte verde de las cebolletas y 1 cda de soja. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 20 min.",
-    "Mientras, cuece los huevos en un cazo 6 min 30 s desde que hierva el agua, enfríalos en agua con hielo y pélalos: yema cremosa. Déjalos 10 min en un bol con la otra cda de soja. Corta la parte blanca de las cebolletas en rodajas finas y parte el pak choi a lo largo en cuartos.",
-    "Aparta la olla y deja despresurizar de forma natural 10 min; mientras, pon a hervir agua abundante para los fideos. Saca la panceta y córtala en lonchas gruesas. Cuela el caldo, devuélvelo a la olla y disuelve el miso en un cazo con un poco de caldo caliente antes de incorporarlo (nunca lo hiervas).",
-    "Pon el caldo a fuego medio, añade los champiñones y el pak choi y cuece 3 min. Cuece los fideos en el agua hirviendo según el paquete (2-4 min) y escúrrelos.",
+    "Mientras, pon a hervir una olla con agua abundante (luego servirá para los fideos) y cuece los huevos 6 min 30 s desde que hierva; enfríalos bajo el grifo y pélalos: yema cremosa. Déjalos 10 min en un bol con la otra cda de soja. Corta la parte blanca de las cebolletas en rodajas finas y parte el pak choi a lo largo en cuartos.",
+    "Aparta la olla exprés y deja despresurizar de forma natural 10 min. Saca la panceta y córtala en lonchas gruesas. Cuela el caldo y devuélvelo a la olla; disuelve el miso en un cucharón de caldo caliente antes de incorporarlo (nunca lo hiervas).",
+    "Pon el caldo a fuego medio, añade los champiñones y el pak choi y cuece 3 min. A la vez, cuece los fideos en el agua de los huevos según el paquete (2-4 min) y escúrrelos.",
     "Reparte los fideos en los boles grandes, vierte el caldo hirviendo con las verduras, coloca la panceta, el huevo partido por la mitad, la cebolleta, el sésamo y unas gotas de aceite de sésamo. Sriracha al gusto."
   ],
   nutricion: { kcal: 630, prot: 27, hc: 40, grasa: 39 },
@@ -713,13 +713,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pica la cebolla y el ajo, pela una manzana y córtala en dados, y pela las patatas en trozos grandes. Seca el cerdo, salpimiéntalo y enharínalo ligeramente. Calienta el aceite y la mitad de la mantequilla en la olla a fuego fuerte y dóralo por tandas 6 min en total. Resérvalo.",
-    "Baja a fuego medio y sofríe la cebolla 5 min. Añade el ajo y la manzana en dados y remueve 2 min.",
-    "Vierte la sidra, raspa el fondo y deja reducir 3 min. Añade el caldo, la mostaza, el tomillo, el laurel y la carne con sus jugos.",
-    "Pon las patatas en el cestillo sobre el guiso. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 20 min.",
-    "Aparta y deja despresurizar de forma natural 10 min. Saca las patatas y mantenlas calientes con un poco de mantequilla y sal.",
-    "Pon el guiso a fuego medio destapado, añade la nata y cocina 5 min hasta que la salsa espese y nape. Rectifica de sal y pimienta.",
-    "Mientras, dora la otra manzana en gajos con el resto de la mantequilla en una sartén 3 min por lado. Sirve el cerdo con su salsa, los gajos de manzana dorados y las patatas."
+    "Pica la cebolla y el ajo, pela una manzana y córtala en dados, corta la otra en gajos y pela las patatas en trozos grandes. Seca el cerdo, salpimiéntalo y enharínalo ligeramente.",
+    "Funde un poco de la mantequilla en la olla a fuego medio y dora los gajos de manzana 3 min por lado. Resérvalos. Añade el aceite y otro poco de mantequilla, sube el fuego y dora el cerdo por tandas 6 min en total. Resérvalo.",
+    "Baja a fuego medio y sofríe la cebolla 5 min. Añade el ajo y la manzana en dados y remueve 2 min. Vierte la sidra, raspa el fondo y deja reducir 3 min.",
+    "Añade el caldo, la mostaza, el tomillo, el laurel y la carne con sus jugos. Pon las patatas en el cestillo sobre el guiso. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 20 min.",
+    "Aparta y deja despresurizar de forma natural 10 min. Saca las patatas y mantenlas calientes con el resto de la mantequilla y sal.",
+    "Pon el guiso a fuego medio destapado, añade la nata y cocina 5 min hasta que la salsa espese y nape; pon los gajos de manzana encima el último minuto para que se calienten. Rectifica de sal y pimienta.",
+    "Sirve el cerdo con su salsa, los gajos de manzana dorados y las patatas."
   ],
   nutricion: { kcal: 700, prot: 36, hc: 46, grasa: 40 },
   etiquetas: ["guiso", "otoño", "contundente", "fin de semana", "batch cooking", "poco especiada"],
@@ -1142,7 +1142,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 150,
   dificultad: "elaborada",
-  equipo: ["olla-express", "batidora"],
+  equipo: ["olla-express"],
   raciones: 5,
   ingredientes: [
     { n: "lengua de ternera", q: 900, u: "g", nota: "una pieza, limpia" },
@@ -1166,9 +1166,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Primera cocción: pon la lengua en la olla con el agua, 1 cebolla en cuartos, la zanahoria, el puerro, 2 ajos, 1 hoja de laurel, la pimienta en grano y una cucharada de sal. Cierra a fuego fuerte y, cuando suba la válvula, baja al mínimo y cuenta 60 min.",
-    "Mientras, pica la otra cebolla, el pimiento rojo, 1 ajo y el perejil, y pela las patatas y córtalas en trozos de 3 cm.",
-    "Aparta y deja despresurizar de forma natural 20 min. Saca la lengua, deja que se temple 10 min y pélala en caliente: la piel blanca gruesa sale tirando con un cuchillo pequeño. Recorta la grasa de la base y córtala en lonchas de 1 cm. Cuela y reserva el caldo.",
-    "Haz la picada: tritura las almendras tostadas, el pan frito y el ajo restante con 100 ml del caldo hasta tener una pasta.",
+    "Mientras, pica la otra cebolla, el pimiento rojo, 1 ajo y el perejil, y pela las patatas y córtalas en trozos de 3 cm. Haz la picada: pica muy fino a cuchillo las almendras tostadas, el pan frito y el ajo restante hasta que parezca arena gruesa.",
+    "Aparta y deja despresurizar de forma natural 20 min. Saca la lengua, deja que se temple 10 min y pélala en caliente: la piel blanca gruesa sale tirando con un cuchillo pequeño. Recorta la grasa de la base y córtala en lonchas de 1 cm. Cuela y reserva el caldo, y deslíe la picada en 100 ml.",
     "Limpia la olla y calienta el aceite a fuego medio. Sofríe la cebolla y el pimiento 8 min. Añade el ajo picado y el tomate rallado y cocina 3 min. Aparta, añade el pimentón y remueve 20 s.",
     "Vierte el vino y hierve 1 min. Añade 400 ml de caldo, la picada, el otro laurel, las lonchas de lengua y las patatas. Prueba de sal.",
     "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja al mínimo y cuenta 10 min. Despresuriza rápido.",
