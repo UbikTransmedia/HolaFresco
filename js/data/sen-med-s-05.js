@@ -1033,7 +1033,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "acelgas", q: 500, u: "g" },
@@ -1057,10 +1057,10 @@ window.RECETAS_SEED.push({
     "Vierte el caldo caliente, añade el arroz y sal y cuece 12 minutos a fuego medio.",
     "Mientras, ralla el otro diente de ajo y mézclalo con el yogur y una pizca de sal, y exprime el limón.",
     "Añade las hojas de acelga a la cazuela y cuece 6 minutos más, hasta que el arroz esté tierno. Apaga, agrega el zumo de limón y prueba de sal y pimienta: debe quedar bien ácida.",
-    "Calienta el resto del aceite en una sartén pequeña, apártala del fuego y añade la menta seca y el pimentón: debe chisporrotear sin quemarse.",
+    "Seca el cazo del caldo y calienta en él el resto del aceite; apártalo del fuego y añade la menta seca y el pimentón: debe chisporrotear sin quemarse.",
     "Sirve la sopa con una cucharada de yogur al ajo, un hilo del aceite de menta y el pan."
   ],
-  nutricion: { kcal: 545, prot: 13, hc: 57, grasa: 28 },
+  nutricion: { kcal: 630, prot: 18, hc: 70, grasa: 30 },
   etiquetas: ["tradicional", "de cuchara", "económica", "invierno"],
   consejo: "En la costa egea se hace con acelgas o con las verduras silvestres de temporada; con espinacas también queda bien (añádelas solo 2 minutos). El limón va al final y en cantidad: es lo que le da el carácter. Guárdala sin el yogur ni el aceite hasta 3 días en la nevera; al recalentarla el arroz espesa, así que aclárala con un poco de agua.",
   tupper: true,

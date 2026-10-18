@@ -283,7 +283,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["sartén", "cazuela"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao fresco", q: 320, u: "g", nota: "2 lomos" },
@@ -300,13 +300,13 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla la piel de media naranja. Pela la otra a vivo con un cuchillo y saca los gajos sobre un bol para recoger el jugo; exprime la naranja rallada. Pela y lamina los ajos, pica el perejil y parte las aceitunas por la mitad. Lava las espinacas.",
-    "En una cazuela a fuego medio-alto, calienta 1 cucharada de aceite con la mitad del ajo 30 segundos y añade las espinacas a puñados, removiendo, 2-3 minutos, hasta que mermen. Sálalas, tápalas y apártalas del fuego.",
-    "Seca bien el bacalao, sálalo y ponlo en una sartén antiadherente con 1 cucharada de aceite a fuego medio-alto, con la piel hacia abajo (o la cara más bonita), 4 minutos, hasta que esté dorado. Dale la vuelta y cocina 2-3 minutos más, hasta que las lascas se separen al presionar. Resérvalo en un plato.",
+    "En una sartén antiadherente a fuego medio-alto, calienta 1 cucharada de aceite con la mitad del ajo 30 segundos y añade las espinacas a puñados, removiendo, 2-3 minutos, hasta que mermen. Sálalas, escúrrelas y repártelas en los platos; tápalos para que no se enfríen.",
+    "Pasa un papel por la sartén. Seca bien el bacalao, sálalo y ponlo en ella con 1 cucharada de aceite a fuego medio-alto, con la piel hacia abajo (o la cara más bonita), 4 minutos, hasta que esté dorado. Dale la vuelta y cocina 2-3 minutos más, hasta que las lascas se separen al presionar. Resérvalo en un plato.",
     "En la misma sartén, a fuego medio, pon el aceite restante y el resto del ajo 30 segundos. Añade el vino y deja evaporar 1 minuto, luego el zumo de naranja y la ralladura, y reduce 2-3 minutos hasta que la salsa esté brillante y algo espesa.",
     "Añade las aceitunas, las alcaparras y los gajos de naranja, devuelve el bacalao con su jugo y riégalo con la salsa 1 minuto. Espolvorea el perejil.",
-    "Sirve el bacalao sobre las espinacas escurridas, con la salsa por encima y pimienta recién molida."
+    "Sirve el bacalao sobre las espinacas, con la salsa por encima y pimienta recién molida."
   ],
-  nutricion: { kcal: 445, prot: 35, hc: 22, grasa: 23 },
+  nutricion: { kcal: 415, prot: 35, hc: 18, grasa: 22 },
   etiquetas: ["creativa", "rápida", "sin gluten", "ligera", "alta en proteína", "bajo en colesterol", "invierno", "poco especiada"],
   consejo: "Naranja, aceitunas negras y pescado blanco es una combinación clásica de Sicilia y de la costa levantina: lo dulce y lo salado se equilibran sin necesidad de mantequilla. Si el bacalao fresco es muy fino, quítale 1 minuto por cada lado. Para una cena más completa, añade pan o unas patatas cocidas en el microondas.",
   tupper: false,
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "judías verdes", q: 400, u: "g" },
@@ -689,15 +689,15 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal en una cazuela. Mientras, despunta las judías y córtalas en trozos de 5 cm (si son planas, en tiras al bies). Pela y lamina los ajos, parte los cherry por la mitad, pica las almendras en trozos gruesos, pica las hojas de menta y ralla la piel del limón.",
-    "Cuece las judías 5-6 minutos, hasta que estén tiernas pero aún crujientes, y escúrrelas. Mientras se cuecen, tuesta las almendras en una sartén en seco a fuego medio 2-3 minutos y resérvalas.",
-    "En la misma sartén, calienta 2 cucharadas de aceite a fuego medio-alto y saltea las judías escurridas 3 minutos, hasta que tengan puntos dorados. Añade el ajo y saltea 1 minuto más.",
+    "Despunta las judías y córtalas en trozos de 5 cm (si son planas, en tiras al bies). Pela y lamina los ajos, parte los cherry por la mitad, pica las almendras en trozos gruesos, pica las hojas de menta y ralla la piel del limón.",
+    "Tuesta las almendras en una sartén amplia en seco a fuego medio 2-3 minutos y resérvalas. Echa a la sartén las judías con 100 ml de agua y una pizca de sal, tapa y cuécelas 5-6 minutos, hasta que estén tiernas pero aún crujientes.",
+    "Destapa y deja que se evapore el agua que quede. Añade 2 cucharadas de aceite, sube a fuego medio-alto y saltea las judías 3 minutos, hasta que tengan puntos dorados. Añade el ajo y saltea 1 minuto más.",
     "Incorpora los cherry y el orégano y cocina 2 minutos, hasta que empiecen a soltar jugo. Sala con prudencia (la feta ya sala), añade la ralladura y el zumo del limón.",
     "Sirve con la feta desmigada por encima, las almendras, la menta picada y un hilo del aceite restante."
   ],
-  nutricion: { kcal: 450, prot: 15, hc: 15, grasa: 36 },
+  nutricion: { kcal: 490, prot: 15, hc: 18, grasa: 39 },
   etiquetas: ["creativa", "rápida", "sin gluten", "keto", "ligera", "verano", "ideal para llevar"],
-  consejo: "Cocer las judías antes y saltearlas después es el truco para que queden tiernas por dentro y tostadas por fuera sin pasar 20 minutos en la sartén. Frías al día siguiente son una buena ensalada para llevar (aguantan 2 días). Si quieres un plato más completo, añade un bote de garbanzos cocidos con los cherry.",
+  consejo: "Cocer las judías tapadas con un poco de agua y saltearlas después en la misma sartén es el truco para que queden tiernas por dentro y tostadas por fuera sin pasar 20 minutos al fuego. Frías al día siguiente son una buena ensalada para llevar (aguantan 2 días). Si quieres un plato más completo, añade un bote de garbanzos cocidos con los cherry.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -799,7 +799,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["plancha", "sartén", "bol"],
+  equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
     { n: "cogollo", q: 3, u: "ud" },
@@ -818,12 +818,12 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los cogollos en cuartos a lo largo sin quitarles el tronco, para que no se deshojen. Parte los cherry por la mitad y el pan en dados. Seca los langostinos con papel y sálalos.",
     "Prepara el aliño: pela el ajo y rállalo en un bol, añade las anchoas y aplástalas con un tenedor hasta hacer una pasta. Incorpora el zumo del limón, 2 cucharadas de aceite y pimienta, y bate.",
-    "Dora los dados de pan en una sartén con media cucharada de aceite a fuego medio 3 minutos, removiendo, hasta que estén crujientes. Resérvalos.",
-    "Calienta la plancha a fuego fuerte con el aceite restante y marca los langostinos 1 minuto por cada lado, hasta que estén rosados y curvados. Sácalos.",
+    "Calienta la plancha a fuego medio con media cucharada de aceite y dora los dados de pan 3 minutos, removiendo, hasta que estén crujientes. Resérvalos.",
+    "Sube el fuego al máximo, añade el aceite restante y marca los langostinos 1 minuto por cada lado, hasta que estén rosados y curvados. Sácalos.",
     "En la misma plancha, marca los cogollos por la cara cortada 1-2 minutos, hasta que estén tostados por fuera pero crujientes por dentro.",
     "Coloca los cogollos en los platos con los langostinos, los cherry, las aceitunas y los picatostes, riega con el aliño y termina con lascas de parmesano."
   ],
-  nutricion: { kcal: 485, prot: 36, hc: 23, grasa: 27 },
+  nutricion: { kcal: 465, prot: 34, hc: 17, grasa: 29 },
   etiquetas: ["creativa", "rápida", "alta en proteína", "verano"],
   consejo: "Marcar la lechuga parece raro, pero es la mejor forma de que una ensalada de cena sepa a plato caliente: el exterior se tuesta y se vuelve dulce mientras el corazón sigue crujiente. El aliño de anchoa y limón es la base del de la César, sin huevo ni mayonesa. Hazlo justo antes de comer: los cogollos marcados no esperan.",
   tupper: false,
@@ -1015,7 +1015,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "guisantes congelados", q: 400, u: "g" },
@@ -1031,14 +1031,14 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pela la patata y córtala en dados de 1 cm; pica la cebolleta. Calienta el caldo en el microondas o en un cazo.",
-    "En una cazuela, calienta 1 cucharada de aceite a fuego medio y rehoga la cebolleta 3 minutos. Añade la patata y el caldo caliente y cuece 8 minutos desde que hierva.",
-    "Mientras hierve, corta el pan en dados y dóralos en una sartén con media cucharada de aceite 3 minutos, removiendo. Tuesta los piñones en la misma sartén 1-2 minutos y saca lascas de parmesano con un pelador.",
+    "Corta el pan en dados. Calienta media cucharada de aceite en una cazuela a fuego medio y dora los dados 3 minutos, removiendo; añade los piñones el último minuto y sácalo todo a un plato. Mientras, calienta el caldo en el microondas.",
+    "Pela la patata y córtala en dados de 1 cm; pica la cebolleta.",
+    "En la misma cazuela, calienta 1 cucharada de aceite a fuego medio y rehoga la cebolleta 3 minutos. Añade la patata y el caldo caliente y cuece 8 minutos desde que hierva. Mientras, saca lascas de parmesano con un pelador.",
     "Echa los guisantes congelados a la cazuela y cuécelos 4-5 minutos desde que vuelva a hervir: así conservan el color verde vivo.",
     "Retira del fuego, añade casi toda la albahaca (reserva unas hojas) y tritura con la batidora hasta que la crema esté muy fina. Salpimienta y añade el aceite restante en crudo.",
     "Sirve con los picatostes, los piñones, las lascas de parmesano y las hojas de albahaca reservadas."
   ],
-  nutricion: { kcal: 575, prot: 23, hc: 56, grasa: 27 },
+  nutricion: { kcal: 515, prot: 22, hc: 45, grasa: 26 },
   etiquetas: ["creativa", "rápida", "primavera", "poco especiada", "económica", "para niños"],
   consejo: "Para que la crema de guisantes sea verde y no parda, cuécelos lo justo y tritura en cuanto los retires del fuego; la albahaca, siempre en crudo al final. La patata le da cuerpo sin necesidad de nata. Sin los picatostes, aguanta 3 días en la nevera y se congela bien.",
   tupper: true,

@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4569",
-  nombre: "Salmonetes al comino a la plancha con taktouka de pimientos y tomate",
+  nombre: "Salmonetes al comino a la sartén con taktouka de pimientos y tomate",
   subtitulo: "filetes de piel crujiente sobre el guiso marroquí de pimientos, ajo y comino, con pan para mojar",
   origen: "inventada",
   categoria: "pescado",
@@ -199,7 +199,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["sartén", "plancha"],
+  equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
     { n: "salmonete", q: 320, u: "g", nota: "en filetes, unos 4 salmonetes medianos (pídeselo al pescadero)" },
@@ -221,10 +221,10 @@ window.RECETAS_SEED.push({
     "Calienta 2 cucharadas de aceite en una sartén a fuego medio y rehoga los pimientos con una pizca de sal 10 minutos, tapados y removiendo de vez en cuando, hasta que estén blandos.",
     "Mientras, adoba el pescado: ralla el ajo restante y mézclalo con ½ cucharadita de comino, la ralladura de medio limón, 1 cucharadita de aceite y sal, y unta con ello la carne de los filetes. Corta el limón en gajos.",
     "Añade a los pimientos el ajo picado, el resto del comino y el pimentón, remueve 20 segundos y vierte el tomate rallado. Cuece 10 minutos destapado, aplastando con la cuchara, hasta que la taktouka esté espesa y el aceite brille. Sala y añade la mitad de las hierbas. Mientras, tuesta el pan.",
-    "Calienta la plancha o una sartén antiadherente a fuego fuerte con el resto del aceite. Pon los filetes con la piel hacia abajo 2 minutos, apretándolos un momento para que no se curven, hasta que la piel esté crujiente, y dales 30 segundos por el otro lado.",
-    "Reparte la taktouka en los platos, coloca encima los salmonetes y termina con el resto de las hierbas y un chorro de limón. Sirve con el pan."
+    "Reparte la taktouka en los platos y tápalos para que no se enfríe. Limpia la sartén con papel, caliéntala a fuego fuerte con el resto del aceite y pon los filetes con la piel hacia abajo 2 minutos, apretándolos un momento para que no se curven, hasta que la piel esté crujiente, y dales 30 segundos por el otro lado.",
+    "Coloca los salmonetes sobre la taktouka y termina con el resto de las hierbas y un chorro de limón. Sirve con el pan."
   ],
-  nutricion: { kcal: 535, prot: 38, hc: 44, grasa: 23 },
+  nutricion: { kcal: 555, prot: 27, hc: 51, grasa: 27 },
   etiquetas: ["creativa", "alta en proteína", "sin lactosa", "verano"],
   consejo: "La taktouka es una de las ensaladas cocinadas que abren cualquier comida en Marruecos; se suele hacer con pimientos asados y pelados, pero en la sartén y con los pimientos en dados queda igual de sabrosa en la mitad de tiempo. Puedes prepararla con un día de antelación: reposada está aún mejor. Si no encuentras salmonetes, usa filetes de dorada o de caballa.",
   tupper: false,
@@ -977,13 +977,13 @@ window.RECETAS_SEED.push({
   pasos: [
     "Antes de empezar (30 minutos, no cuentan en el tiempo): pon las almejas en agua fría con sal (1 cucharada por litro) para que suelten la arena. Escúrrelas y enjuágalas.",
     "Pon a hervir agua con sal para la pasta. Mientras, lamina los ajos, pica el perejil, corta los tomates cherry por la mitad y ralla la piel del limón.",
-    "Tuesta el pan rallado en una sartén pequeña con 1 cucharadita de aceite a fuego medio, 2 minutos, removiendo, hasta que esté dorado. Resérvalo.",
+    "Tuesta el pan rallado en una sartén grande con 1 cucharadita de aceite a fuego medio, 2 minutos, removiendo, hasta que esté dorado. Pásalo a un plato.",
     "Cuando hierva el agua, cuece los espaguetis 1 minuto menos de lo que indique el paquete.",
-    "Mientras, calienta el resto del aceite en una sartén grande a fuego medio, dora ligeramente los ajos 1 minuto, añade la harissa y los tomates y saltea 2 minutos. Echa las almejas, tapa y cocina 3-4 minutos, hasta que se abran (descarta las que sigan cerradas).",
+    "Mientras, calienta el resto del aceite en la misma sartén a fuego medio, dora ligeramente los ajos 1 minuto, añade la harissa y los tomates y saltea 2 minutos. Echa las almejas, tapa y cocina 3-4 minutos, hasta que se abran (descarta las que sigan cerradas).",
     "Pasa los espaguetis escurridos a la sartén con medio vaso de su agua de cocción y saltea 1-2 minutos, hasta que la salsa se ligue y brille. Añade el perejil, la ralladura y un chorro del zumo de limón.",
     "Sirve enseguida con el pan rallado tostado por encima."
   ],
-  nutricion: { kcal: 565, prot: 19, hc: 68, grasa: 24 },
+  nutricion: { kcal: 570, prot: 19, hc: 72, grasa: 22 },
   etiquetas: ["creativa", "rápida", "picante", "para invitados"],
   consejo: "En Túnez la pasta con marisco y harissa es tan habitual como en Italia la de almejas con guindilla. El pan rallado tostado era el «parmesano de los pobres» de toda la costa mediterránea: aporta un crujiente que va de maravilla con el marisco. Puedes usar berberechos o mejillones, con el mismo método.",
   alternativa: "Si no hay harissa en casa, saltea con el ajo 1 cdta de pimentón dulce y una guindilla seca desmenuzada: las almejas quedan con el mismo picor rojo.",
@@ -1049,7 +1049,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "calabacín", q: 2, u: "ud", nota: "unos 500 g" },
@@ -1066,14 +1066,14 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" },
   ],
   pasos: [
-    "Pica la cebolla y los ajos y corta los calabacines, sin pelar, en rodajas. Escurre los garbanzos y reserva 4 cucharadas aparte; sécalas con papel.",
-    "Calienta 1½ cucharadas de aceite en una cazuela a fuego medio y pocha la cebolla 5 minutos. Añade el ajo y el comino, remueve 30 segundos, y después el calabacín; rehoga 3 minutos.",
+    "Escurre los garbanzos y reserva 4 cucharadas aparte; sécalas con papel. Calienta ½ cucharada de aceite en una cazuela a fuego medio-fuerte y dora esos garbanzos 5 minutos, removiendo de vez en cuando, hasta que estén crujientes; sálalos y sácalos a un plato. Mientras se doran, pica la cebolla y los ajos y corta los calabacines, sin pelar, en rodajas.",
+    "En la misma cazuela, a fuego medio, calienta 1½ cucharadas de aceite y pocha la cebolla 5 minutos. Añade el ajo y el comino, remueve 30 segundos, y después el calabacín; rehoga 3 minutos.",
     "Añade el resto de los garbanzos y el caldo, sala, tapa y cuece 12 minutos, hasta que el calabacín esté muy tierno.",
-    "Mientras, dora los garbanzos reservados en una sartén con ½ cucharada de aceite a fuego medio-fuerte, 5 minutos, hasta que estén crujientes; sálalos. Mezcla la harissa con la cucharada de aceite restante. Pica la hierbabuena y mezcla el yogur con el zumo del medio limón y una pizca de sal.",
+    "Mientras, mezcla la harissa con la cucharada de aceite restante. Pica la hierbabuena y mezcla el yogur con el zumo del medio limón y una pizca de sal.",
     "Tritura la crema con la batidora hasta que quede fina y prueba de sal. Si está muy espesa, añade un poco de agua caliente.",
     "Sirve con una cucharada de yogur, un hilo del aceite de harissa, los garbanzos crujientes y la hierbabuena."
   ],
-  nutricion: { kcal: 420, prot: 15, hc: 34, grasa: 25 },
+  nutricion: { kcal: 465, prot: 16, hc: 39, grasa: 26 },
   etiquetas: ["creativa", "ligera", "batch cooking", "verano"],
   consejo: "Los garbanzos dan cuerpo y proteína sin necesidad de nata ni patata. En verano está muy buena fría: déjala enfriar en la nevera y sírvela con el yogur muy frío. La crema sola aguanta 3 días en la nevera; los garbanzos crujientes, mejor al momento.",
   alternativa: "Para el aceite de harissa sin harissa, templa fuera del fuego 1 cda de aceite con ½ cdta de pimentón dulce, una pizca de cayena y otra de comino: queda igual de rojo y aromático.",

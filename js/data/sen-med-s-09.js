@@ -282,7 +282,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["sartén", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "dorada (lomos)", q: 300, u: "g", nota: "con piel" },
@@ -299,13 +299,13 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir una cazuela con agua y sal. Mientras se calienta, despunta las judías verdes y córtalas en trozos de 4 cm; tuesta las almendras en una sartén seca 3 minutos, hasta que huelan, y pásalas a un plato.",
-    "Cuece las judías 6 o 7 minutos, hasta que estén tiernas pero aún firmes. Mientras, tritura en el vaso de la batidora los tomates cherry con las almendras, 1 diente de ajo, las hojas de albahaca (reserva unas pocas), el parmesano, 2 cucharadas de aceite y sal, hasta tener una salsa gruesa.",
-    "Escurre las judías. Lamina el otro ajo y saltéalo en la sartén de las almendras con 2 cucharaditas de aceite 30 segundos; añade las judías y saltéalas 2 minutos. Resérvalas.",
+    "Despunta las judías verdes y córtalas en trozos de 4 cm. Tuesta las almendras en una sartén amplia, sin aceite, 3 minutos, hasta que huelan, y pásalas a un plato.",
+    "Echa a la sartén las judías con 100 ml de agua y una pizca de sal, tapa y cuécelas 6 minutos a fuego medio, hasta que estén tiernas pero aún firmes. Mientras, tritura en el vaso de la batidora los tomates cherry con las almendras, 1 diente de ajo, las hojas de albahaca (reserva unas pocas), el parmesano, 2 cucharadas de aceite y sal, hasta tener una salsa gruesa. Lamina el otro ajo.",
+    "Destapa las judías y deja que se evapore el agua que quede. Añade 2 cucharaditas de aceite y el ajo laminado y saltea 2 minutos. Resérvalas.",
     "Seca bien los lomos de dorada, haz dos cortes superficiales en la piel y sálalos. Calienta el aceite restante en la misma sartén a fuego fuerte y pon el pescado con la piel hacia abajo, presionando 20 segundos con una espátula para que no se curve. Cocina 3 minutos, dale la vuelta y cocina 1 minuto más.",
     "Pon una cama de pesto en cada plato, la dorada encima con la piel hacia arriba y las judías al lado. Termina con unas gotas de limón y las hojas de albahaca reservadas."
   ],
-  nutricion: { kcal: 575, prot: 40, hc: 16, grasa: 39 },
+  nutricion: { kcal: 515, prot: 38, hc: 13, grasa: 34 },
   etiquetas: ["creativa", "rápida", "sin gluten", "alta en proteína", "keto", "verano", "poco especiada"],
   consejo: "El pesto alla trapanese nació en el puerto de Trápani, donde los marineros genoveses cambiaron los piñones por las almendras y añadieron tomate. Aquí se usa como salsa para pescado, no para pasta. El pesto aguanta 2 días en la nevera tapado con un hilo de aceite; el pescado, mejor recién hecho para que la piel siga crujiente.",
   tupper: false,

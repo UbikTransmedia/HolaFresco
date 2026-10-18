@@ -404,7 +404,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-4599",
   nombre: "Costelles de xai amb allioli de codony: chuletillas de cordero con alioli de membrillo, patatas y pimientos",
-  subtitulo: "la salsa catalana de otoño que mezcla membrillo cocido, ajo y aceite, con cordero a la plancha",
+  subtitulo: "la salsa catalana de otoño que mezcla membrillo cocido, ajo y aceite, con cordero dorado a fuego vivo",
   origen: "inventada",
   categoria: "carnes",
   cocina: "mediterránea",
@@ -412,7 +412,7 @@ window.RECETAS_SEED.push({
   proteina: "cordero",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén", "plancha"],
+  equipo: ["cazuela", "batidora", "sartén"],
   raciones: 3,
   ingredientes: [
     { n: "chuletillas de cordero", q: 500, u: "g" },
@@ -431,9 +431,9 @@ window.RECETAS_SEED.push({
     "Pela el membrillo, quítale el corazón y córtalo en trozos de 3 cm. Pela las patatas y córtalas también en trozos de 3 cm. Ponlo todo en un cazo, cúbrelo de agua con sal y cuécelo 20 minutos, hasta que el membrillo esté muy tierno al pincharlo.",
     "Mientras cuecen, saca las chuletillas de la nevera para que se atemperen, limpia los pimientos y pártelos a lo largo, corta las cebolletas en cuartos a lo largo y pela los ajos (lamina uno).",
     "Escurre y separa el membrillo de las patatas. Ponlo, todavía templado, en el vaso de la batidora con los 2 ajos enteros, sal y el zumo del medio limón. Tritura y ve añadiendo 60 ml de aceite en hilo fino, sin dejar de batir, hasta tener una crema espesa y brillante: es el allioli de codony.",
-    "En una sartén grande con 1 cucharada de aceite, saltea las patatas con el ajo laminado y el romero a fuego medio-alto 6–8 minutos, hasta que estén doradas. Mantenlas calientes.",
-    "Calienta la plancha a fuego fuerte y haz los pimientos y las cebolletas con unas gotas de aceite 6–8 minutos, dándoles la vuelta, hasta que estén tiernos y tostados. Sácalos.",
-    "Sala las chuletillas y hazlas en la plancha bien caliente 2 minutos por cada lado, hasta que estén doradas por fuera y rosadas por dentro. Sirve enseguida con las patatas, las verduras y el allioli."
+    "En una sartén grande con 1 cucharada de aceite, saltea las patatas con el ajo laminado y el romero a fuego medio-alto 6–8 minutos, hasta que estén doradas. Sácalas a una fuente y mantenlas calientes.",
+    "Sube el fuego al máximo y haz en la misma sartén los pimientos y las cebolletas con unas gotas de aceite 6–8 minutos, dándoles la vuelta, hasta que estén tiernos y tostados. Pásalos a la fuente.",
+    "Sala las chuletillas y hazlas en la sartén bien caliente 2 minutos por cada lado, hasta que estén doradas por fuera y rosadas por dentro. Sirve enseguida con las patatas, las verduras y el allioli."
   ],
   nutricion: { kcal: 660, prot: 23, hc: 28, grasa: 50 },
   etiquetas: ["tradicional", "sin gluten", "poco especiada", "otoño"],
