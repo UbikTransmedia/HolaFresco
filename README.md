@@ -52,6 +52,9 @@ desde la misma wifi, o copia la carpeta al móvil y ábrela con un navegador que
 - **Variedad de ingredientes:** además de no repetir recetas, proteínas ni cocinas en días seguidos, el generador
   penaliza los ingredientes que ya se repiten en la semana (patata, huevo, limón, perejil…). Es importante en los menús
   de fácil digestión, donde las restricciones dejan menos ingredientes posibles.
+- **Ingredientes con un solo nombre:** cada producto se llama igual en todas las recetas («pechuga de pollo», nunca
+  «pollo (pechuga)»), para que la lista de la compra lo sume en una sola línea. Las versiones sin gluten, sin lactosa o
+  veganas se mantienen como productos distintos. Las recetas bajas en FODMAP usan aceite de oliva (no «aceite de ajo»).
 - **Lista de la compra exacta:** cada ingrediente de cada receta entra con su cantidad (redondeada siempre hacia
   arriba). Solo se apartan, sin desaparecer, los básicos (sal, aceite de oliva, pimienta negra y agua, por nombre
   exacto) y lo que marcas como «Ya lo tengo», que sale en «Ya lo tienes en casa» con la cantidad que pide el menú.

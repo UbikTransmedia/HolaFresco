@@ -115,7 +115,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "deshuesados y sin piel" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 200, u: "g", nota: "en dados" },
+    { n: "paleta de cerdo", q: 200, u: "g", nota: "en dados" },
     { n: "salchicha ahumada", q: 120, u: "g", nota: "tipo kiełbasa" },
     { n: "bacon", q: 60, u: "g" },
     { n: "chucrut", q: 300, u: "g", nota: "escurrido" },
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 300, u: "g", nota: "2 filetes grandes de tapa o babilla" },
+    { n: "filetes finos de ternera", q: 300, u: "g", nota: "2 filetes grandes de tapa o babilla" },
     { n: "mostaza de Dijon", q: 2, u: "cda" },
     { n: "bacon", q: 4, u: "loncha" },
     { n: "pepinillos", q: 2, u: "ud" },
@@ -357,7 +357,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "falda de ternera", q: 250, u: "g" },
-    { n: "ternera (ossobuco)", q: 1, u: "ud", nota: "una rodaja con su tuétano, unos 250 g" },
+    { n: "ossobuco de ternera", q: 1, u: "ud", nota: "una rodaja con su tuétano, unos 250 g" },
     { n: "zanahoria", q: 3, u: "ud" },
     { n: "puerro", q: 2, u: "ud" },
     { n: "nabo", q: 1, u: "ud" },
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 300, u: "g", nota: "o tapa tierna" },
+    { n: "solomillo de ternera", q: 300, u: "g", nota: "o tapa tierna" },
     { n: "champiñones", q: 200, u: "g" },
     { n: "chalota", q: 2, u: "ud" },
     { n: "vino blanco", q: 100, u: "ml" },
@@ -493,7 +493,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 300, u: "g", nota: "en filetes finos" },
+    { n: "paleta de cerdo", q: 300, u: "g", nota: "en filetes finos" },
     { n: "orégano seco", q: 2, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
@@ -547,7 +547,7 @@ window.RECETAS_SEED.push({
     { n: "nata para cocinar", q: 150, u: "ml" },
     { n: "leche", q: 100, u: "ml" },
     { n: "queso gruyère", q: 50, u: "g", nota: "rallado" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "lechuga romana", q: 1, u: "ud", nota: "pequeña" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
@@ -630,7 +630,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso y piel, unos 500 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con hueso y piel, unos 500 g" },
     { n: "guindilla seca", q: 2, u: "ud", nota: "o chile fresco, al gusto" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "limón", q: 1, u: "ud" },
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -726,7 +726,7 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "harina de trigo", q: 20, u: "g" },
     { n: "nata para cocinar", q: 100, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "queso rallado", q: 30, u: "g" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -891,7 +891,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g" },
+    { n: "bacalao desalado", q: 320, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "anchoas en aceite", q: 3, u: "ud" },
     { n: "harina de trigo", q: 2, u: "cda" },
@@ -933,7 +933,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "harina de trigo", q: 60, u: "g" },
     { n: "cerveza", q: 80, u: "ml", nota: "muy fría" },
     { n: "patata", q: 350, u: "g" },

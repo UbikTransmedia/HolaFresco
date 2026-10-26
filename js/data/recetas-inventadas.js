@@ -147,7 +147,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pollo", q: 320, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "tomillo fresco", q: 4, u: "rama" },
     { n: "ajo", q: 2, u: "diente" },
@@ -245,7 +245,7 @@ window.RECETAS_SEED.push({
     { n: "limón", q: 0.5, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "comino molido", q: 0.5, u: "cdta" },
-    { n: "semillas de calabaza", q: 30, u: "g" },
+    { n: "pipas de calabaza", q: 30, u: "g" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },

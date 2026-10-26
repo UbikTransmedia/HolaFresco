@@ -16,9 +16,9 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["airfryer", "bol"],
   coccion: ["airfryer"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "2 filetes finos" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "2 filetes finos" },
     { n: "jamón serrano", q: 2, u: "loncha" },
     { n: "espárragos trigueros", q: 200, u: "g" },
     { n: "tomate", q: 2, u: "ud" },
@@ -37,10 +37,10 @@ window.RECETAS_SEED.push({
     "Mientras, corta los tomates en gajos y la cebolla en pluma muy fina. Aliña con el resto del aceite, el vinagre, el orégano restante y sal.",
     "Deja reposar los rollitos 3 minutos, quita los palillos, córtalos en medallones y sírvelos con los trigueros y la ensalada."
   ],
-  nutricion: { kcal: 355, prot: 44, hc: 10, grasa: 15.5 },
+  nutricion: { kcal: 700, prot: 85, hc: 20, grasa: 29 },
   etiquetas: ["saludable", "práctica", "airfryer", "sin gluten", "alta en proteína", "ligera", "fácil", "tupper", "ideal para llevar", "poco especiada"],
   consejo: "Para el tupper, guarda los rollitos enteros (se secan menos que cortados) y la ensalada aparte sin aliñar. Si los vas a recalentar, 3 minutos a 170 °C en la airfryer los deja como recién hechos.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: true
 });
@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 1,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en dados de 3 cm" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "limón", q: 1, u: "ud" },
@@ -315,7 +315,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "tamari", q: 2, u: "cda" },
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados y sin piel" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "ajo en polvo", q: 0.5, u: "cdta" },
@@ -448,7 +448,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 320, u: "g" },
+    { n: "abadejo", q: 320, u: "g" },
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer", "microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "picada" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "picada" },
     { n: "copos de avena sin gluten", q: 25, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud", nota: "rallada" },
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados y sin piel" },
     { n: "miso", q: 1, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "tamari", q: 1, u: "cda" },
@@ -756,7 +756,7 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
     { n: "canónigos", q: 50, u: "g" },
     { n: "arándanos secos", q: 20, u: "g" },
-    { n: "semillas de calabaza", q: 30, u: "g" },
+    { n: "pipas de calabaza", q: 30, u: "g" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "sirope de arce", q: 1, u: "cdta" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
@@ -837,7 +837,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g", nota: "con piel, sin espinas" },
+    { n: "caballa fresca", q: 300, u: "g", nota: "con piel, sin espinas" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "jengibre fresco", q: 10, u: "g" },
@@ -971,7 +971,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "picada" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "picada" },
     { n: "calabacín", q: 150, u: "g" },
     { n: "copos de avena", q: 30, u: "g" },
     { n: "ajo en polvo", q: 0.5, u: "cdta" },
@@ -1016,7 +1016,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pez espada (rodajas)", q: 320, u: "g", nota: "2 rodajas de 2 cm" },
+    { n: "pez espada", q: 320, u: "g", nota: "2 rodajas de 2 cm" },
     { n: "yogur natural", q: 125, u: "g" },
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "mostaza antigua", q: 1.5, u: "cda" },
     { n: "miel", q: 1, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },

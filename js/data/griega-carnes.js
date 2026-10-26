@@ -68,8 +68,8 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 150, u: "g" },
-    { n: "cerdo (paleta)", q: 150, u: "g" },
+    { n: "pierna de cordero deshuesada", q: 150, u: "g" },
+    { n: "paleta de cerdo", q: 150, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "vino blanco", q: 80, u: "ml", nota: "en Cefalonia, robola" },
@@ -79,7 +79,7 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 40, u: "g" },
     { n: "patata", q: 150, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
-    { n: "queso kefalotyri", q: 40, u: "g", nota: "rallado; o pecorino romano" },
+    { n: "kefalotyri", q: 40, u: "g", nota: "rallado; o pecorino romano" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "pasta filo", q: 125, u: "g", nota: "5 láminas" },
     { n: "aceite de oliva", q: 3, u: "cda" },
@@ -118,7 +118,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 450, u: "g", nota: "en dados grandes de 5 cm, con algo de grasa" },
+    { n: "paleta de cerdo", q: 450, u: "g", nota: "en dados grandes de 5 cm, con algo de grasa" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "vino blanco", q: 100, u: "ml" },
@@ -348,7 +348,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (pierna)", q: 650, u: "g", nota: "en 4 trozos, con hueso" },
+    { n: "pierna de cordero", q: 650, u: "g", nota: "en 4 trozos, con hueso" },
     { n: "vino tinto", q: 250, u: "ml" },
     { n: "eneldo fresco", q: 1, u: "manojo" },
     { n: "ajo", q: 4, u: "diente" },
@@ -389,7 +389,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 320, u: "g", nota: "de babilla o redondo, de 1 cm" },
+    { n: "filetes de ternera", q: 320, u: "g", nota: "de babilla o redondo, de 1 cm" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "ajo", q: 5, u: "diente" },
     { n: "vino blanco", q: 150, u: "ml" },
@@ -435,7 +435,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g", nota: "en dados de 3 cm" },
+    { n: "paleta de cerdo", q: 400, u: "g", nota: "en dados de 3 cm" },
     { n: "vino tinto", q: 300, u: "ml" },
     { n: "semillas de cilantro", q: 2, u: "cda" },
     { n: "laurel", q: 1, u: "hoja" },
@@ -477,7 +477,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pavo", q: 300, u: "g" },
     { n: "alcachofas en conserva", q: 240, u: "g", nota: "corazones escurridos; valen congeladas" },
     { n: "patata", q: 250, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -610,7 +610,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en un trozo o dos filetes de 2-3 cm" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en un trozo o dos filetes de 2-3 cm" },
     { n: "sésamo", q: 30, u: "g" },
     { n: "miel", q: 1, u: "cda" },
     { n: "orzo", q: 110, u: "g" },
@@ -754,7 +754,7 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "yogur griego natural", q: 150, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
-    { n: "queso kefalotyri", q: 30, u: "g", nota: "rallado; o pecorino romano" },
+    { n: "kefalotyri", q: 30, u: "g", nota: "rallado; o pecorino romano" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -790,7 +790,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g", nota: "2 medias pechugas gruesas, de unos 160 g cada una" },
+    { n: "pechuga de pollo", q: 320, u: "g", nota: "2 medias pechugas gruesas, de unos 160 g cada una" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "queso feta", q: 60, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },

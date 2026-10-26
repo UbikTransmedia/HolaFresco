@@ -23,7 +23,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 320, u: "g", nota: "2 lomos de unos 2 cm de grosor; vale lubina" },
+    { n: "corvina", q: 320, u: "g", nota: "2 lomos de unos 2 cm de grosor; vale lubina" },
     { n: "mantequilla", q: 30, u: "g" },
     { n: "pimentón dulce", q: 2, u: "cdta" },
     { n: "ajo en polvo", q: 1, u: "cdta" },
@@ -73,7 +73,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 300, u: "g", nota: "4 filetes con piel y sin espinas" },
+    { n: "filetes de trucha", q: 300, u: "g", nota: "4 filetes con piel y sin espinas" },
     { n: "polenta", q: 50, u: "g", nota: "fina; es la harina de maíz amarilla, no la maicena" },
     { n: "harina de trigo", q: 20, u: "g" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -215,7 +215,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pavo", q: 260, u: "g" },
     { n: "linguine", q: 150, u: "g" },
     { n: "champiñones", q: 200, u: "g" },
     { n: "cebolla", q: 80, u: "g" },
@@ -228,7 +228,7 @@ window.RECETAS_SEED.push({
     { n: "guisantes congelados", q: 80, u: "g" },
     { n: "parmesano", q: 30, u: "g" },
     { n: "panko", q: 15, u: "g" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" },
@@ -363,7 +363,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados y sin piel" },
     { n: "harina de trigo", q: 25, u: "g" },
     { n: "aceite de girasol", q: 25, u: "ml" },
     { n: "cebolla", q: 150, u: "g" },

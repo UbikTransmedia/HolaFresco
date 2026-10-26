@@ -372,7 +372,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g", nota: "limpios y sin barbas" },
+    { n: "mejillones", q: 1000, u: "g", nota: "limpios y sin barbas" },
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "pan rallado", q: 40, u: "g" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
@@ -745,7 +745,7 @@ window.RECETAS_SEED.push({
     "Pica muy finos el ajo y el perejil y mézclalos con 1 cucharada de aceite, la ralladura del limón y el resto del orégano.",
     "Calienta la plancha a fuego máximo con unas gotas de aceite y haz el calamar 1 o 2 minutos por lado, hasta que se enrosque y esté dorado. Sálalo al final.",
     "En la misma plancha tuesta la pita 1 minuto por lado y córtala en triángulos.",
-    "Corta el calamar en tiras, ponlo caliente sobre la ensalada, riégalo con el aceite de ajo y perejil y sirve con la pita y gajos de limón."
+    "Corta el calamar en tiras, ponlo caliente sobre la ensalada, riégalo con el aceite de oliva y perejil y sirve con la pita y gajos de limón."
   ],
   nutricion: { kcal: 452, prot: 36, hc: 32, grasa: 20 },
   etiquetas: ["mediterránea", "fácil", "rápida", "ligera", "aromática", "verano", "poco especiada"],

@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g", nota: "en filetes de 1,5 cm" },
+    { n: "pechuga de pollo", q: 280, u: "g", nota: "en filetes de 1,5 cm" },
     { n: "orzo", q: 140, u: "g" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "queso feta", q: 60, u: "g" },
@@ -99,7 +99,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 400, u: "g", nota: "en una pieza atada" },
+    { n: "pierna de cordero deshuesada", q: 400, u: "g", nota: "en una pieza atada" },
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "escurridas y enjuagadas" },
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "ajo", q: 6, u: "diente" },
@@ -230,7 +230,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 400, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 400, u: "g", nota: "sin piel" },
     { n: "cebolla morada", q: 3, u: "ud" },
     { n: "zumaque", q: 1.5, u: "cda" },
     { n: "comino molido", q: 1, u: "cdta" },
@@ -272,7 +272,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes finos" },
     { n: "calabacín", q: 2, u: "ud" },
     { n: "cuscús", q: 80, u: "g" },
     { n: "perejil fresco", q: 1, u: "manojo" },
@@ -312,7 +312,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados grandes" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados grandes" },
     { n: "tomate cherry", q: 300, u: "g" },
     { n: "aceitunas negras", q: 40, u: "g" },
     { n: "alcaparras", q: 1, u: "cda" },
@@ -442,7 +442,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados de 2,5 cm" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados de 2,5 cm" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "cilantro molido", q: 0.5, u: "cdta" },
@@ -485,7 +485,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y sin piel, unas 4 piezas" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y sin piel, unas 4 piezas" },
     { n: "sobrasada", q: 60, u: "g" },
     { n: "miel", q: 1, u: "cda" },
     { n: "patata", q: 400, u: "g", nota: "en rodajas de 0,5 cm" },
@@ -525,7 +525,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g", nota: "en trozos grandes" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g", nota: "en trozos grandes" },
     { n: "alcachofas en conserva", q: 240, u: "g", nota: "escurridas, en mitades" },
     { n: "habas congeladas", q: 200, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g", nota: "2 pechugas" },
+    { n: "pechuga de pollo", q: 320, u: "g", nota: "2 pechugas" },
     { n: "ricotta", q: 100, u: "g" },
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "tomate seco en aceite", q: 30, u: "g", nota: "escurrido y picado" },
@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 320, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 320, u: "g", nota: "sin piel" },
     { n: "hinojo", q: 1, u: "ud", nota: "grande, en gajos" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -695,7 +695,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en tiras" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en tiras" },
     { n: "calabacín", q: 2, u: "ud" },
     { n: "bulgur", q: 120, u: "g" },
     { n: "piñones", q: 25, u: "g" },
@@ -736,7 +736,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en filetes" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en filetes" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "ajo", q: 2, u: "diente" },
@@ -780,7 +780,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados de 3 cm" },
     { n: "yogur natural", q: 60, u: "g" },
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -826,7 +826,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en filetes" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en filetes" },
     { n: "judías verdes", q: 300, u: "g" },
     { n: "patata", q: 250, u: "g", nota: "nuevas, en dados" },
     { n: "almendras", q: 20, u: "g", nota: "laminadas" },
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 300, u: "g", nota: "en 4 medallones" },
+    { n: "solomillo de ternera", q: 300, u: "g", nota: "en 4 medallones" },
     { n: "patata", q: 400, u: "g", nota: "en gajos finos" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "limón", q: 1, u: "ud" },
@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g", nota: "sin piel" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "calabacín", q: 1, u: "ud" },
     { n: "tomate", q: 3, u: "ud", nota: "maduros" },
@@ -1033,7 +1033,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 320, u: "g", nota: "en dados de 3 cm" },
+    { n: "pierna de cordero deshuesada", q: 320, u: "g", nota: "en dados de 3 cm" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "limón", q: 1, u: "ud" },

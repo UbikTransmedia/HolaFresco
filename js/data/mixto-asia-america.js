@@ -64,7 +64,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "habas de soja secas", q: 100, u: "g", nota: "soja amarilla; en remojo 8–12 h (tiempo no incluido)" },
-    { n: "cerdo (paleta)", q: 120, u: "g", nota: "en tiras finas" },
+    { n: "paleta de cerdo", q: 120, u: "g", nota: "en tiras finas" },
     { n: "kimchi", q: 150, u: "g", nota: "bien fermentado, con 2 cda de su jugo" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -73,7 +73,7 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 2, u: "cdta", nota: "en Corea se usa gamba salada (saeujeot)" },
     { n: "agua", q: 660, u: "ml", nota: "300 ml para triturar la soja, 200 ml para el guiso y 160 ml para el arroz" },
     { n: "arroz redondo", q: 120, u: "g" },
-    { n: "chile coreano en copos", q: 1, u: "cdta", opcional: true, nota: "gochugaru; o pimentón picante" },
+    { n: "copos de chile coreano", q: 1, u: "cdta", opcional: true, nota: "gochugaru; o pimentón picante" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
@@ -157,7 +157,7 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 300, u: "ml" },
     { n: "fideos de trigo", q: 120, u: "g", nota: "finos, tipo ramen" },
     { n: "cerdo picado", q: 120, u: "g" },
-    { n: "pasta de judías picante", q: 1, u: "cda", nota: "doubanjiang, la pasta de habas y chile de Sichuan" },
+    { n: "pasta de judía picante", q: 1, u: "cda", nota: "doubanjiang, la pasta de habas y chile de Sichuan" },
     { n: "vino de Shaoxing", q: 1, u: "cda", nota: "o jerez seco" },
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "vinagre negro", q: 2, u: "cdta", nota: "o vinagre de arroz" },
@@ -248,7 +248,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 280, u: "g", nota: "o merluza; en trozos de 5 cm" },
+    { n: "corvina", q: 280, u: "g", nota: "o merluza; en trozos de 5 cm" },
     { n: "harina de trigo", q: 1.5, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -386,9 +386,9 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 240, u: "g", nota: "sin grasa visible" },
+    { n: "paleta de cerdo", q: 240, u: "g", nota: "sin grasa visible" },
     { n: "pimiento verde italiano", q: 4, u: "ud" },
-    { n: "jalapeño", q: 1, u: "ud" },
+    { n: "chile jalapeño", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "maíz dulce", q: 150, u: "g", nota: "escurrido, o desgranado de 2 mazorcas" },
     { n: "habas congeladas", q: 150, u: "g", nota: "habas baby; en el sur se usan judías de lima" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -479,7 +479,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 1,
   ingredientes: [
-    { n: "filete de ternera", q: 280, u: "g", nota: "2 filetes de babilla o cadera de 2 cm de grosor" },
+    { n: "filetes de ternera", q: 280, u: "g", nota: "2 filetes de babilla o cadera de 2 cm de grosor" },
     { n: "pimienta negra en grano", q: 1, u: "cdta" },
     { n: "semillas de cilantro", q: 1, u: "cdta" },
     { n: "sal gruesa", q: 1, u: "cdta" },
@@ -529,7 +529,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "lechuga romana", q: 1, u: "ud" },
-    { n: "pavo (pechuga)", q: 150, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 150, u: "g", nota: "en filetes" },
     { n: "jamón cocido", q: 60, u: "g", nota: "en loncha gruesa" },
     { n: "queso emmental", q: 40, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
     { n: "tortillas de maíz", q: 2, u: "ud", nota: "mejor si son del día anterior" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebolla", q: 0.5, u: "ud" },
-    { n: "jalapeño", q: 1, u: "ud" },
+    { n: "chile jalapeño", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "queso cheddar", q: 30, u: "g", nota: "rallado" },
     { n: "aguacate", q: 0.5, u: "ud" },
@@ -668,7 +668,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "setas portobello", q: 2, u: "ud", nota: "grandes, de unos 10 cm" },
     { n: "pan de hamburguesa integral", q: 2, u: "ud" },
-    { n: "queso provolone", q: 2, u: "loncha" },
+    { n: "provolone", q: 2, u: "loncha" },
     { n: "pimiento rojo asado", q: 80, u: "g" },
     { n: "rúcula", q: 1, u: "puñado" },
     { n: "tomate", q: 1, u: "ud" },

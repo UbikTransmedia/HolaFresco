@@ -608,7 +608,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "maíz dulce", q: 300, u: "g", nota: "escurrido" },
-    { n: "pollo (pechuga)", q: 200, u: "g" },
+    { n: "pechuga de pollo", q: 200, u: "g" },
     { n: "caldo de pollo", q: 900, u: "ml" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "jengibre fresco", q: 10, u: "g" },
@@ -693,7 +693,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 300, u: "g", nota: "en tiras muy finas" },
+    { n: "paleta de cerdo", q: 300, u: "g", nota: "en tiras muy finas" },
     { n: "gochujang", q: 1.5, u: "cda" },
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
@@ -933,7 +933,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel, en trozos de 4 cm" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados y sin piel, en trozos de 4 cm" },
     { n: "salsa de soja", q: 1.5, u: "cda" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -1117,7 +1117,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "carrillada de ternera", q: 400, u: "g", nota: "limpia, en 3-4 trozos" },
-    { n: "chile guajillo seco", q: 3, u: "ud" },
+    { n: "chile guajillo", q: 3, u: "ud" },
     { n: "chipotle en adobo", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },

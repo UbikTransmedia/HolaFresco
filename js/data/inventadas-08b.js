@@ -22,8 +22,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "caldo de verduras", q: 500, u: "ml" },
     { n: "queso de cabra", q: 60, u: "g", nota: "rulo" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
-    { n: "semillas de calabaza", q: 1, u: "cda" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
+    { n: "pipas de calabaza", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
@@ -230,7 +230,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (muslo deshuesado)", q: 400, u: "g", nota: "en tacos de 3 cm" },
+    { n: "muslo de pavo deshuesado", q: 400, u: "g", nota: "en tacos de 3 cm" },
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "escurridas" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -278,7 +278,7 @@ window.RECETAS_SEED.push({
   raciones: 4,
   ingredientes: [
     { n: "panceta", q: 350, u: "g", nota: "fresca, en un trozo" },
-    { n: "fideos ramen", q: 180, u: "g", nota: "o fideos de trigo finos" },
+    { n: "fideos de ramen", q: 180, u: "g", nota: "o fideos de trigo finos" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "caldo de pollo", q: 900, u: "ml" },
     { n: "miso", q: 2, u: "cda" },
@@ -334,7 +334,7 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 400, u: "ml" },
     { n: "parmesano", q: 40, u: "g", nota: "rallado" },
     { n: "mantequilla", q: 20, u: "g" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -422,7 +422,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso y piel, unos 550 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con hueso y piel, unos 550 g" },
     { n: "arroz redondo", q: 180, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -648,7 +648,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso y piel, unos 550 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con hueso y piel, unos 550 g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "champiñones", q: 200, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -695,7 +695,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 3,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 500, u: "g", nota: "en tacos de 4 cm" },
+    { n: "paleta de cerdo", q: 500, u: "g", nota: "en tacos de 4 cm" },
     { n: "manzana", q: 2, u: "ud", nota: "una ácida para la salsa y otra para dorar" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -939,7 +939,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 4,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 800, u: "g", nota: "en 3-4 trozos grandes, con su grasa" },
+    { n: "paleta de cerdo", q: 800, u: "g", nota: "en 3-4 trozos grandes, con su grasa" },
     { n: "pimentón ahumado", q: 2, u: "cdta" },
     { n: "azúcar moreno", q: 2, u: "cda" },
     { n: "comino molido", q: 1, u: "cdta" },
@@ -992,7 +992,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "ternera para guisar", q: 600, u: "g", nota: "morcillo o aguja, en trozos grandes" },
-    { n: "chile guajillo seco", q: 4, u: "ud", nota: "o ñora, sin semillas" },
+    { n: "chile guajillo", q: 4, u: "ud", nota: "o ñora, sin semillas" },
     { n: "chipotle en adobo", q: 2, u: "cdta" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1043,7 +1043,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 4,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 550, u: "g", nota: "en tacos de 3-4 cm" },
+    { n: "pierna de cordero deshuesada", q: 550, u: "g", nota: "en tacos de 3-4 cm" },
     { n: "yogur natural", q: 200, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -1104,7 +1104,7 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "laurel", q: 2, u: "hoja" },
-    { n: "semillas de alcaravea", q: 1, u: "cdta", nota: "o comino en grano" },
+    { n: "alcaravea", q: 1, u: "cdta", nota: "o comino en grano" },
     { n: "pimienta negra", q: 1, u: "cdta", nota: "en grano" },
     { n: "chucrut", q: 400, u: "g", nota: "escurrido" },
     { n: "manzana", q: 1, u: "ud", nota: "en dados" },

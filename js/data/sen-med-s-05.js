@@ -284,7 +284,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "plancha"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g" },
+    { n: "caballa fresca", q: 300, u: "g" },
     { n: "bulgur", q: 120, u: "g" },
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -373,7 +373,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 350, u: "g" },
+    { n: "pechuga de pollo", q: 350, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 2, u: "ud", nota: "de tipo italiano" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "batidora", "plancha"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en filetes" },
     { n: "patata", q: 400, u: "g" },
     { n: "pimientos asados en conserva", q: 200, u: "g" },
     { n: "nueces", q: 40, u: "g" },
@@ -902,7 +902,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados" },
     { n: "ternera picada", q: 120, u: "g" },
     { n: "arroz basmati", q: 150, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -990,7 +990,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "freekeh", q: 100, u: "g", nota: "trigo verde tostado partido; o bulgur grueso" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },

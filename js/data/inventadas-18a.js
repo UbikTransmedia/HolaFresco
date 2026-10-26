@@ -21,7 +21,7 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
-    { n: "zaatar", q: 1, u: "cda" },
+    { n: "za'atar", q: 1, u: "cda" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "tahini", q: 2, u: "cda" },
     { n: "limón", q: 1, u: "ud", nota: "zumo y ralladura" },
@@ -446,7 +446,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de fideuá", q: 160, u: "g" },
-    { n: "alcachofas", q: 4, u: "ud" },
+    { n: "alcachofa", q: 4, u: "ud" },
     { n: "ajos tiernos", q: 1, u: "manojo" },
     { n: "garbanzos cocidos", q: 200, u: "g", nota: "escurridos" },
     { n: "tomate", q: 1, u: "ud", nota: "rallado" },

@@ -241,7 +241,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 200, u: "g", nota: "o migas de bacalao desalado" },
+    { n: "bacalao desalado", q: 200, u: "g", nota: "o migas de bacalao desalado" },
     { n: "huevo", q: 4, u: "ud" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -283,7 +283,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 250, u: "g" },
+    { n: "bacalao desalado", q: 250, u: "g" },
     { n: "patata", q: 450, u: "g" },
     { n: "cebolla", q: 1, u: "ud", nota: "grande" },
     { n: "ajo", q: 2, u: "diente" },
@@ -551,7 +551,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 300, u: "g" },
+    { n: "abadejo", q: 300, u: "g" },
     { n: "leche de coco", q: 200, u: "ml" },
     { n: "pasta de tamarindo", q: 1, u: "cda" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -599,7 +599,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 300, u: "g" },
+    { n: "bonito fresco", q: 300, u: "g" },
     { n: "patata", q: 500, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1500, u: "g" },
+    { n: "mejillones", q: 1500, u: "g" },
     { n: "chalota", q: 2, u: "ud" },
     { n: "apio", q: 1, u: "rama" },
     { n: "ajo", q: 2, u: "diente" },
@@ -775,7 +775,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 320, u: "g" },
+    { n: "corvina", q: 320, u: "g" },
     { n: "tahini", q: 3, u: "cda" },
     { n: "limón", q: 1.5, u: "ud" },
     { n: "nueces", q: 20, u: "g" },
@@ -866,7 +866,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 300, u: "g" },
+    { n: "abadejo", q: 300, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "panko", q: 40, u: "g" },
     { n: "harina de trigo", q: 1, u: "cda" },
@@ -913,8 +913,8 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "batidora", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g", nota: "con piel" },
-    { n: "chile guajillo seco", q: 2, u: "ud" },
+    { n: "caballa fresca", q: 300, u: "g", nota: "con piel" },
+    { n: "chile guajillo", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
@@ -1099,7 +1099,7 @@ window.RECETAS_SEED.push({
     { n: "merluza (lomos)", q: 250, u: "g" },
     { n: "langostinos enteros", q: 6, u: "ud" },
     { n: "almejas", q: 200, u: "g", nota: "purgadas" },
-    { n: "mejillones frescos", q: 300, u: "g" },
+    { n: "mejillones", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },

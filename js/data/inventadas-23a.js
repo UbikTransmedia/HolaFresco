@@ -58,7 +58,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 4,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 4, u: "ud", nota: "unos 280 g en total, muy finos y grandes" },
+    { n: "filetes finos de ternera", q: 4, u: "ud", nota: "unos 280 g en total, muy finos y grandes" },
     { n: "jamón serrano", q: 4, u: "loncha" },
     { n: "queso en lonchas", q: 4, u: "loncha", nota: "tipo Afuega'l pitu, tierno o de fundir" },
     { n: "huevo", q: 2, u: "ud" },
@@ -141,7 +141,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en filetes finos" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -228,7 +228,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "plancha"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (chuletillas)", q: 400, u: "g", nota: "unas 8-10 chuletillas de lechal o recental" },
+    { n: "chuletillas de cordero", q: 400, u: "g", nota: "unas 8-10 chuletillas de lechal o recental" },
     { n: "patata", q: 450, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (redondo)", q: 500, u: "g", nota: "en una pieza; sobrará para el día siguiente" },
+    { n: "redondo de ternera", q: 500, u: "g", nota: "en una pieza; sobrará para el día siguiente" },
     { n: "jamón serrano", q: 40, u: "g", nota: "en un taco, cortado en tiras" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -482,7 +482,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso, unos 500 g; quítales la piel si quieres aligerar" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con hueso, unos 500 g; quítales la piel si quieres aligerar" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -639,9 +639,9 @@ window.RECETAS_SEED.push({
   tiempo: 20,
   dificultad: "fácil",
   equipo: ["plancha", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g", nota: "en filetes" },
+    { n: "pechuga de pollo", q: 320, u: "g", nota: "en filetes" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
@@ -660,10 +660,10 @@ window.RECETAS_SEED.push({
     "Pásalos al plato y, aún calientes, échales por encima el majado de ajo y perejil para que suelte el aroma.",
     "Sirve enseguida con la ensalada de tomate al lado."
   ],
-  nutricion: { kcal: 360, prot: 42, hc: 12, grasa: 16 },
+  nutricion: { kcal: 685, prot: 78, hc: 18, grasa: 32 },
   etiquetas: ["tradicional", "rápida", "fácil", "económica", "ligera", "verano", "alta en proteína", "poco especiada", "bajo en colesterol"],
   consejo: "Para que la pechuga no quede seca, no la pinches ni la aplastes en la plancha, y no la cocines de más: en cuanto el centro pierda el rosado, está lista. Dejarla 10 minutos antes en agua con sal (un litro y una cucharada) la hace más jugosa.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -681,7 +681,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 1,
   ingredientes: [
-    { n: "ternera (filetes)", q: 300, u: "g", nota: "de babilla o tapa, de 1 cm" },
+    { n: "filetes de ternera", q: 300, u: "g", nota: "de babilla o tapa, de 1 cm" },
     { n: "pimientos del piquillo", q: 6, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
@@ -801,13 +801,13 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 150, u: "g", nota: "o restos de pollo asado o del cocido" },
+    { n: "pechuga de pollo", q: 150, u: "g", nota: "o restos de pollo asado o del cocido" },
     { n: "jamón serrano", q: 50, u: "g", nota: "en taquitos" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "mantequilla", q: 30, u: "g" },
     { n: "harina de trigo", q: 70, u: "g" },
     { n: "leche", q: 450, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "pan rallado", q: 80, u: "g" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
@@ -886,7 +886,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 4,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 2, u: "ud", nota: "de lechazo, unos 600-700 g cada una" },
+    { n: "paletilla de cordero", q: 2, u: "ud", nota: "de lechazo, unos 600-700 g cada una" },
     { n: "patata", q: 400, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "manteca de cerdo", q: 20, u: "g" },
@@ -969,7 +969,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "sartén"],
   raciones: 1,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en filetes" },
     { n: "champiñones", q: 300, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "guindilla seca", q: 0.5, u: "ud", opcional: true },
@@ -1010,7 +1010,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 400, u: "g", nota: "en una pieza" },
+    { n: "pechuga de pavo", q: 400, u: "g", nota: "en una pieza" },
     { n: "zanahoria", q: 3, u: "ud" },
     { n: "cebollitas francesas", q: 8, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },

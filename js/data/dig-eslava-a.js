@@ -2,7 +2,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 
 /* Recetas INVENTADAS de FÁCIL DIGESTIÓN de cocina ESLAVA (bloque dig-eslava-a: inv-4240 a inv-4264).
    Pescados, carnes, huevos y proteína vegetal bajos en FODMAP para intestino irritable e hinchazón, de Rusia,
-   Ucrania, Polonia, Chequia, Lituania, Serbia, Bulgaria y Georgia: sin ajo ni cebolla (aceite de ajo, parte verde
+   Ucrania, Polonia, Chequia, Lituania, Serbia, Bulgaria y Georgia: sin ajo ni cebolla (aceite de oliva, parte verde
    de la cebolleta, cebollino, eneldo y perejil), sin trigo ni centeno (pan y pan rallado sin gluten, harina de
    arroz, alforfón, mijo, harina de maíz), sin lactosa (yogur, nata, leche y requesón sin lactosa; quesos curados en
    poca cantidad), sin setas, sin remolacha, sin manzana ni ciruela, sin picante, sin vodka, vino ni cerveza, sin
@@ -27,10 +27,9 @@ window.RECETAS_SEED.push({
     { n: "dorada (lomos)", q: 320, u: "g", nota: "4 lomos con piel, sin espinas" },
     { n: "patata", q: 350, u: "g" },
     { n: "harina de arroz", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 2, u: "cdta" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 1, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "vinagre de vino blanco", q: 2, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
@@ -39,7 +38,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas, córtalas en trozos de unos 4 cm y cuécelas 18-20 minutos en agua con sal, hasta que la punta de un cuchillo entre sin resistencia. Escúrrelas y déjalas tapadas.",
-    "Mientras, prepara el kindzmari: pica muy fino el cilantro con sus tallos tiernos y la parte verde de la cebolleta. Mézclalos en un cuenco con el aceite de ajo, el vinagre, 4 cucharadas de agua fría, una pizca de sal y el pimentón. Aplasta un poco con el dorso de una cuchara para que las hierbas suelten su jugo.",
+    "Mientras, prepara el kindzmari: pica muy fino el cilantro con sus tallos tiernos y la parte verde de la cebolleta. Mézclalos en un cuenco con el aceite de oliva, el vinagre, 4 cucharadas de agua fría, una pizca de sal y el pimentón. Aplasta un poco con el dorso de una cuchara para que las hierbas suelten su jugo.",
     "Seca bien los lomos de dorada con papel de cocina, sálalos y pasa solo el lado de la piel por la harina de arroz, sacudiendo el exceso.",
     "Calienta el aceite de oliva en una sartén antiadherente a fuego medio-alto. Pon los lomos con la piel hacia abajo y presiónalos 10 segundos con una espátula para que no se curven. Cocina 3-4 minutos, hasta que la piel esté dorada y la carne se vea blanca casi hasta arriba.",
     "Dales la vuelta, apaga el fuego y deja que se terminen 1 minuto con el calor residual: la carne debe separarse en lascas al presionarla.",
@@ -48,7 +47,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 455, prot: 36, hc: 35, grasa: 19 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "alta en proteína"],
-  consejo: "En Georgia el kindzmari lleva ajo machacado crudo y a veces guindilla; aquí el aceite de ajo da el aroma sin los fructanos, que no pasan a la grasa, y el pimentón dulce pone el color sin irritar. El vinagre se diluye en agua, como allí, para que la salsa sea fresca y no agresiva con un estómago sensible. También está muy rica fría al día siguiente, como la sirven en las supras.",
+  consejo: "En Georgia el kindzmari lleva ajo machacado crudo y a veces guindilla; aquí se prescinde del ajo para evitar los fructanos y el pimentón dulce pone el color sin irritar. El vinagre se diluye en agua, como allí, para que la salsa sea fresca y no agresiva con un estómago sensible. También está muy rica fría al día siguiente, como la sirven en las supras.",
   tupper: false,
   contundencia: "ligera",
   coste: "media"
@@ -246,11 +245,11 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "abadejo", q: 320, u: "g", nota: "en dos lomos" },
     { n: "mijo", q: 120, u: "g" },
-    { n: "calabaza kabocha", q: 300, u: "g", nota: "pelada" },
+    { n: "calabaza japonesa", q: 300, u: "g", nota: "pelada" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
-    { n: "semillas de calabaza", q: 1, u: "cda" },
+    { n: "pipas de calabaza", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -292,7 +291,7 @@ window.RECETAS_SEED.push({
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "patatas nuevas", q: 300, u: "g" },
+    { n: "patata nueva", q: 300, u: "g" },
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "granada", q: 60, u: "g", nota: "en granos" },
@@ -335,10 +334,10 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 300, u: "g" },
     { n: "vinagre de vino blanco", q: 1.5, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
-    { n: "patatas nuevas", q: 300, u: "g" },
+    { n: "patata nueva", q: 300, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -346,7 +345,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las zanahorias y córtalas en tiras muy finas y largas, con un rallador de juliana o un pelador. Mézclalas en un bol con media cucharadita de sal, el azúcar y el vinagre, y amasa un minuto con las manos para que empiecen a soltar jugo.",
-    "Calienta el aceite de ajo en un cazo pequeño con el cilantro molido a fuego medio, solo hasta que chisporrotee y huela (30 segundos). Retira del fuego, añade el pimentón, remueve y viértelo enseguida sobre la zanahoria. Mezcla y deja reposar al menos 15 minutos.",
+    "Calienta el aceite de oliva en un cazo pequeño con el cilantro molido a fuego medio, solo hasta que chisporrotee y huela (30 segundos). Retira del fuego, añade el pimentón, remueve y viértelo enseguida sobre la zanahoria. Mezcla y deja reposar al menos 15 minutos.",
     "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos y escúrrelas.",
     "Mientras, precalienta el horno a 220 °C con el grill. Seca los filetes de caballa, sálalos y colócalos con la piel hacia arriba sobre una bandeja con papel de horno.",
     "Ásalos 6-7 minutos a media altura, hasta que la piel se ampolle y se dore y la carne esté opaca.",
@@ -378,7 +377,7 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 1, u: "manojo" },
     { n: "laurel", q: 3, u: "hoja" },
     { n: "pimienta negra", q: 1, u: "cdta", nota: "en grano" },
-    { n: "patatas nuevas", q: 400, u: "g" },
+    { n: "patata nueva", q: 400, u: "g" },
     { n: "mantequilla", q: 25, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "pepino", q: 1, u: "ud" },
@@ -414,10 +413,9 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 320, u: "g", nota: "sin piel, en trozos grandes" },
+    { n: "muslos de pollo deshuesados", q: 320, u: "g", nota: "sin piel, en trozos grandes" },
     { n: "tomate pera", q: 4, u: "ud", nota: "maduros" },
     { n: "cebolleta (parte verde)", q: 40, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "fenogreco molido", q: 0.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -426,14 +424,14 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 6, u: "hoja" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "harina de maíz", q: 120, u: "g", nota: "fina, para el mchadi" },
-    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano. Corta en rodajas la parte verde de la cebolleta. Calienta una cazuela de fondo grueso a fuego medio-alto sin grasa. Sala el pollo y dóralo 6-8 minutos por todos los lados en su propia grasa, como se hace en Georgia, hasta que esté bien marcado.",
-    "Añade a la cazuela el aceite de ajo y la cebolleta, rehoga 1 minuto y agrega el tomate, el cilantro molido, el fenogreco, el pimentón y el laurel.",
+    "Añade a la cazuela el aceite de oliva y la cebolleta, rehoga 1 minuto y agrega el tomate, el cilantro molido, el fenogreco, el pimentón y el laurel.",
     "Tapa y cuece a fuego suave 25 minutos, removiendo de vez en cuando, hasta que el pollo esté tierno y el tomate se haya convertido en una salsa espesa. Si se seca, añade un chorrito de agua.",
     "Mientras, pica el cilantro, la albahaca y el eneldo, y prepara el mchadi: mezcla la harina de maíz con una pizca de sal y unos 150 ml de agua templada, añadiendo poco a poco, hasta lograr una masa blanda que no se pegue. Forma 4 tortitas ovaladas de 1 cm de grosor, mojándote las manos.",
     "Unta una sartén antiadherente con el aceite de oliva y cocina las tortitas a fuego medio-bajo 5-6 minutos por cada lado, hasta que tengan costra dorada y suenen huecas al golpearlas.",
@@ -442,7 +440,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 590, prot: 38, hc: 54, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "bajo en colesterol", "de cuchara"],
-  consejo: "El chakhokhbili original lleva mucha cebolla y ajo machacado al final; aquí la parte verde de la cebolleta y el aceite de ajo dan el perfil sin fructanos, y las hierbas frescas hacen el resto. El fenogreco (utskho suneli en Georgia) aporta su aroma tostado característico; si no lo encuentras, omítelo. El mchadi es solo maíz, agua y sal: un pan sin gluten muy fácil de digerir.",
+  consejo: "El chakhokhbili original lleva mucha cebolla y ajo machacado al final; aquí la parte verde de la cebolleta da el perfil sin fructanos, y las hierbas frescas hacen el resto. El fenogreco (utskho suneli en Georgia) aporta su aroma tostado característico; si no lo encuentras, omítelo. El mchadi es solo maíz, agua y sal: un pan sin gluten muy fácil de digerir.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -511,7 +509,7 @@ window.RECETAS_SEED.push({
     { n: "pimiento rojo", q: 150, u: "g" },
     { n: "tomate pera", q: 3, u: "ud" },
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
-    { n: "aceite de ajo", q: 1.5, u: "cda" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
@@ -524,7 +522,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el solomillo en dados de 3 cm, sálalo y márcalo en la cazuela muy caliente sin grasa, 1 minuto por cada lado, hasta que tenga zonas bien tostadas: ese sabor a brasa es la base de la mućkalica. Reserva.",
     "Quita las semillas a los pimientos y córtalos en tiras anchas. Ralla los tomates por la parte gruesa del rallador y desecha la piel. Corta en rodajas la parte verde de la cebolleta.",
-    "En la misma cazuela, calienta el aceite de ajo a fuego medio y rehoga los pimientos 10 minutos, raspando el fondo tostado, hasta que estén blandos y empiecen a dorarse por los bordes. Añade la cebolleta y rehoga 1 minuto más.",
+    "En la misma cazuela, calienta el aceite de oliva a fuego medio y rehoga los pimientos 10 minutos, raspando el fondo tostado, hasta que estén blandos y empiecen a dorarse por los bordes. Añade la cebolleta y rehoga 1 minuto más.",
     "Aparta del fuego, añade el pimentón y remueve 10 segundos; incorpora el tomate y el laurel, devuelve al fuego y cuece 8 minutos, hasta que el tomate se reduzca.",
     "Añade el cerdo con su jugo y 50 ml de agua, tapa y cuece a fuego suave 12 minutos, hasta que la carne esté tierna y la salsa haya ligado. Mientras, pica el perejil, desmiga el feta y tuesta el pan. Prueba de sal y pimienta.",
     "Sirve la mućkalica en la misma cazuela, con el perejil por encima, el queso feta al lado y el pan para mojar."
@@ -602,7 +600,7 @@ window.RECETAS_SEED.push({
     { n: "estragón fresco", q: 1, u: "manojo" },
     { n: "cilantro fresco", q: 1, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 60, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "uva blanca", q: 100, u: "g", nota: "lo más verde y ácida posible" },
     { n: "limón", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g" },
@@ -613,7 +611,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon el cordero en una cazuela con 300 ml de agua y sal. Lleva a ebullición, retira la espuma que suba y cuece tapado a fuego suave 35 minutos.",
     "Mientras, separa las hojas del estragón y del cilantro (guarda algunas enteras para el final) y pícalas groseramente con los tallos tiernos. Corta la parte verde de la cebolleta en rodajas.",
-    "Añade al cordero el aceite de ajo, la cebolleta y todas las hierbas picadas; parecerá muchísimo, pero se reducen enseguida. Remueve, tapa y cuece 15 minutos más. Mientras, pela las patatas, córtalas en trozos grandes y cuécelas 18-20 minutos en agua con sal; escúrrelas.",
+    "Añade al cordero el aceite de oliva, la cebolleta y todas las hierbas picadas; parecerá muchísimo, pero se reducen enseguida. Remueve, tapa y cuece 15 minutos más. Mientras, pela las patatas, córtalas en trozos grandes y cuécelas 18-20 minutos en agua con sal; escúrrelas.",
     "Parte las uvas por la mitad y añádelas con el zumo de medio limón. Cuece 10 minutos sin tapa, hasta que el cordero esté muy tierno y el caldo, verde y aromático, se haya reducido a la mitad. Prueba: debe quedar claramente ácido; ajusta con más limón y sal.",
     "Sirve el chakapuli en platos hondos con su caldo, las patatas al lado para mojar y las hojas de estragón y cilantro reservadas por encima, con una vuelta de pimienta."
   ],
@@ -640,7 +638,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 360, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 360, u: "g", nota: "sin piel" },
     { n: "ajedrea seca", q: 2, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "fenogreco molido", q: 0.5, u: "cdta" },
@@ -727,13 +725,13 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en 4 filetes" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en 4 filetes" },
     { n: "pepinillos", q: 80, u: "g", nota: "en salmuera, más 3 cdas de su líquido" },
     { n: "harina de arroz", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "nata sin lactosa", q: 60, u: "ml" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
-    { n: "patatas nuevas", q: 350, u: "g" },
+    { n: "patata nueva", q: 350, u: "g" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -816,7 +814,7 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 5, u: "ud", nota: "maduros" },
     { n: "pimiento verde", q: 1, u: "ud", nota: "pequeño" },
     { n: "nueces", q: 24, u: "g" },
-    { n: "aceite de ajo", q: 2, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
     { n: "cilantro molido", q: 0.5, u: "cdta" },
     { n: "fenogreco molido", q: 1, u: "pizca" },
@@ -829,7 +827,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Ralla los tomates por la parte gruesa del rallador hasta quedarte con la piel en la mano. Quita las semillas al pimiento y córtalo en daditos. Pica la parte verde de la cebolleta, el cilantro y la albahaca. Muele las nueces en el mortero hasta tener una pasta gruesa.",
-    "Calienta el aceite de ajo en una sartén mediana con tapa a fuego medio y rehoga el pimiento 4 minutos, hasta que esté blando. Añade la cebolleta y rehoga 30 segundos.",
+    "Calienta el aceite de oliva en una sartén mediana con tapa a fuego medio y rehoga el pimiento 4 minutos, hasta que esté blando. Añade la cebolleta y rehoga 30 segundos.",
     "Agrega el tomate, el cilantro molido, el fenogreco, el pimentón y sal. Cuece 8 minutos, hasta que la salsa espese y no quede agua suelta.",
     "Incorpora las nueces molidas y la mitad del cilantro y la albahaca; cuece 1 minuto. La salsa se volverá más cremosa y rosada.",
     "Haz 4 huecos con una cuchara, casca un huevo en cada uno, sálalos y tapa. Cocina a fuego suave 4-5 minutos, hasta que las claras estén cuajadas y las yemas aún blandas.",
@@ -837,7 +835,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 420, prot: 19, hc: 32, grasa: 24 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "rápida"],
-  consejo: "Las nueces molidas son la firma del chirbuli y el secreto de su textura cremosa; son aptas en la dieta baja en FODMAP hasta unos 30 g por persona, y aquí van 12 g. La receta de Adjaria se hace con mucha cebolla y ajo: la parte verde de la cebolleta y el aceite de ajo mantienen el aroma sin fructanos. El tomate bien cocinado sienta mejor que crudo a un estómago sensible.",
+  consejo: "Las nueces molidas son la firma del chirbuli y el secreto de su textura cremosa; son aptas en la dieta baja en FODMAP hasta unos 30 g por persona, y aquí van 12 g. La receta de Adjaria se hace con mucha cebolla y ajo: la parte verde de la cebolleta mantiene el aroma sin fructanos. El tomate bien cocinado sienta mejor que crudo a un estómago sensible.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -858,7 +856,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 5, u: "ud" },
-    { n: "patatas nuevas", q: 400, u: "g" },
+    { n: "patata nueva", q: 400, u: "g" },
     { n: "mantequilla", q: 10, u: "g" },
     { n: "harina de arroz", q: 1.5, u: "cda" },
     { n: "leche sin lactosa", q: 150, u: "ml" },
@@ -1034,7 +1032,7 @@ window.RECETAS_SEED.push({
     { n: "nueces", q: 30, u: "g" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "vinagre de vino blanco", q: 1, u: "cda" },
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "fenogreco molido", q: 1, u: "pizca" },
@@ -1047,14 +1045,14 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas, córtalas en trozos y cuécelas 18 minutos en agua con sal. Mientras, escurre el tofu, envuélvelo en papel de cocina y ponle un peso encima 10 minutos.",
     "En el último minuto de cocción de las patatas, sumerge las espinacas en la misma olla; sácalas con una espumadera, pásalas a agua fría y escúrrelas apretándolas con las manos hasta que no suelten ni una gota. Escurre las patatas.",
-    "Tritura las nueces con el cilantro, la parte verde de la cebolleta, el aceite de ajo, el vinagre, media cucharadita de cilantro molido, el fenogreco y sal, con 2-3 cucharadas de agua, hasta tener una pasta fina. Añade las espinacas y tritura a impulsos: el pkhali debe quedar espeso, con algo de textura.",
+    "Tritura las nueces con el cilantro, la parte verde de la cebolleta, el aceite de oliva, el vinagre, media cucharadita de cilantro molido, el fenogreco y sal, con 2-3 cucharadas de agua, hasta tener una pasta fina. Añade las espinacas y tritura a impulsos: el pkhali debe quedar espeso, con algo de textura.",
     "Corta el tofu en 4 filetes gruesos y espolvoréalos con el resto del cilantro molido, el pimentón y sal.",
     "Calienta una sartén antiadherente a fuego medio-alto, sin grasa, y dora el tofu 3-4 minutos por cada lado, hasta que tenga una costra tostada.",
     "Reparte el pkhali en los platos, coloca encima el tofu y las patatas al lado, y termina con los granos de granada por encima de todo."
   ],
   nutricion: { kcal: 470, prot: 32, hc: 30, grasa: 25 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "bajo en colesterol", "superalimentos"],
-  consejo: "El pkhali georgiano se hace con ajo y cebolla crudos; triturado con aceite de ajo y cebolleta verde conserva su sabor sin FODMAP. Las espinacas cocidas son libres y las nueces aptas hasta 30 g por persona (aquí van 15). El tofu firme es bajo en FODMAP porque el suero, donde están los galactanos de la soja, se elimina al prensarlo. El pkhali se conserva 3 días en la nevera.",
+  consejo: "El pkhali georgiano se hace con ajo y cebolla crudos; triturado con aceite de oliva y cebolleta verde conserva su sabor sin FODMAP. Las espinacas cocidas son libres y las nueces aptas hasta 30 g por persona (aquí van 15). El tofu firme es bajo en FODMAP porque el suero, donde están los galactanos de la soja, se elimina al prensarlo. El pkhali se conserva 3 días en la nevera.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1076,7 +1074,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "tempeh", q: 240, u: "g" },
     { n: "patata", q: 400, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "fenogreco molido", q: 1, u: "pizca" },
@@ -1090,8 +1088,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta el tempeh en dados de 2 cm y cuécelo al vapor (o en agua apenas hirviendo) 10 minutos: pierde el amargor y absorbe mejor el aliño.",
-    "Mientras, corta las patatas sin pelar en dados de 2 cm. Mézclalas en una bandeja con la mitad del aceite de ajo, la mitad del cilantro molido y del pimentón y sal. Hornéalas 20 minutos.",
-    "Mientras, escurre el tempeh y mézclalo con el resto del aceite de ajo, del cilantro molido y del pimentón, el fenogreco y sal.",
+    "Mientras, corta las patatas sin pelar en dados de 2 cm. Mézclalas en una bandeja con la mitad del aceite de oliva, la mitad del cilantro molido y del pimentón y sal. Hornéalas 20 minutos.",
+    "Mientras, escurre el tempeh y mézclalo con el resto del aceite de oliva, del cilantro molido y del pimentón, el fenogreco y sal.",
     "Saca la bandeja, remueve las patatas, añade el tempeh y hornea 15 minutos más, hasta que las patatas estén crujientes por fuera y el tempeh dorado.",
     "Mientras, corta los tomates en gajos y el pepino en medias lunas y alíñalos con el vinagre y sal. Corta en rodajas finas la parte verde de la cebolleta y pica el cilantro.",
     "Nada más salir del horno, mezcla en la bandeja la cebolleta y el cilantro, que se ablandarán con el calor. Sirve el ojakhuri con la ensalada."

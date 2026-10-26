@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "espárragos blancos frescos", q: 800, u: "g", nota: "gruesos y firmes, unos 12" },
+    { n: "espárragos blancos", q: 800, u: "g", nota: "gruesos y firmes, unos 12" },
     { n: "patata", q: 300, u: "g", nota: "nuevas y pequeñas" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "cebolleta", q: 0.5, u: "ud" },
@@ -153,7 +153,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g" },
+    { n: "caballa fresca", q: 300, u: "g" },
     { n: "harina de trigo", q: 20, u: "g" },
     { n: "zanahoria", q: 2, u: "ud", nota: "tiernas, finas" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -200,7 +200,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 300, u: "g", nota: "en dos tacos de 3 cm de grosor" },
+    { n: "bonito fresco", q: 300, u: "g", nota: "en dos tacos de 3 cm de grosor" },
     { n: "calabacín", q: 2, u: "ud", nota: "pequeños y tiernos, unos 400 g" },
     { n: "ajos tiernos", q: 1, u: "manojo" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -244,7 +244,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 4,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 1000, u: "g", nota: "2 paletillas de lechal, unos 500 g cada una" },
+    { n: "paletilla de cordero", q: 1000, u: "g", nota: "2 paletillas de lechal, unos 500 g cada una" },
     { n: "patata", q: 500, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -291,7 +291,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "guisantes frescos", q: 400, u: "g", nota: "desgranados" },
-    { n: "cogollo", q: 2, u: "ud" },
+    { n: "cogollos de lechuga", q: 2, u: "ud" },
     { n: "cebolleta", q: 4, u: "ud", nota: "pequeñas y tiernas" },
     { n: "mantequilla", q: 25, u: "g" },
     { n: "caldo de verduras", q: 150, u: "ml" },
@@ -381,8 +381,8 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados, con piel" },
-    { n: "cereza", q: 250, u: "g" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados, con piel" },
+    { n: "cerezas", q: 250, u: "g" },
     { n: "chalota", q: 2, u: "ud" },
     { n: "vino tinto", q: 80, u: "ml" },
     { n: "vinagre balsámico", q: 2, u: "cda" },
@@ -612,7 +612,7 @@ window.RECETAS_SEED.push({
     { n: "nata para cocinar", q: 100, u: "ml" },
     { n: "leche", q: 50, u: "ml" },
     { n: "cebolleta", q: 1, u: "ud" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "canónigos", q: 60, u: "g" },
     { n: "vinagre balsámico", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
@@ -872,7 +872,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g" },
+    { n: "caballa fresca", q: 300, u: "g" },
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "fresa", q: 150, u: "g" },
     { n: "rábano", q: 6, u: "ud" },
@@ -977,7 +977,7 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 30, u: "g" },
     { n: "harina de trigo", q: 30, u: "g" },
     { n: "leche", q: 500, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "parmesano", q: 40, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
@@ -1017,7 +1017,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "espárragos trigueros", q: 250, u: "g" },
     { n: "ajos tiernos", q: 1, u: "manojo" },
     { n: "jengibre fresco", q: 10, u: "g" },
@@ -1114,7 +1114,7 @@ window.RECETAS_SEED.push({
   equipo: ["batidora", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "cereza", q: 300, u: "g" },
+    { n: "cerezas", q: 300, u: "g" },
     { n: "tomate pera", q: 500, u: "g", nota: "muy maduros" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "pimiento verde", q: 0.5, u: "ud" },

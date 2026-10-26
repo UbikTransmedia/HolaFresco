@@ -197,7 +197,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos y enjuagados" },
     { n: "tomate triturado", q: 250, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -242,7 +242,7 @@ window.RECETAS_SEED.push({
     { n: "garbanzos secos", q: 50, u: "g" },
     { n: "alubias borlotti secas", q: 50, u: "g", nota: "o alubias pintas" },
     { n: "lentejas pardinas secas", q: 40, u: "g" },
-    { n: "costilla de cerdo", q: 200, u: "g", nota: "en trozos" },
+    { n: "costillas de cerdo", q: 200, u: "g", nota: "en trozos" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "apio", q: 1, u: "rama" },
@@ -334,8 +334,8 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "habas secas", q: 160, u: "g", nota: "mejor peladas" },
-    { n: "costilla de cerdo", q: 250, u: "g", nota: "en trozos pequeños" },
-    { n: "salchicha fresca", q: 100, u: "g", nota: "o longaniza" },
+    { n: "costillas de cerdo", q: 250, u: "g", nota: "en trozos pequeños" },
+    { n: "salchichas frescas", q: 100, u: "g", nota: "o longaniza" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "hinojo", q: 1, u: "ud", nota: "bulbo con sus hojas" },
@@ -423,10 +423,10 @@ window.RECETAS_SEED.push({
   tiempo: 120,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "alubias blancas secas", q: 160, u: "g", nota: "tipo cannellini o riñón" },
-    { n: "corteza de cerdo", q: 150, u: "g", nota: "fresca y en un trozo; pídela limpia en la carnicería" },
+    { n: "cortezas de cerdo", q: 150, u: "g", nota: "fresca y en un trozo; pídela limpia en la carnicería" },
     { n: "panceta", q: 30, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -449,11 +449,11 @@ window.RECETAS_SEED.push({
     "Pasa a la salsa las alubias y la corteza con una espumadera, junto con 300 ml de su caldo de cocción. Sala y guisa 20 minutos a fuego suave, removiendo con cuidado, hasta que la salsa trabe y quede melosa. Mientras, pica el resto del perejil y tuesta el pan.",
     "Retira el laurel, espolvorea el resto del perejil y la pimienta y sirve con el pan tostado."
   ],
-  nutricion: { kcal: 835, prot: 45, hc: 66, grasa: 40 },
+  nutricion: { kcal: 630, prot: 48, hc: 44, grasa: 27 },
   etiquetas: ["tradicional", "de cuchara", "invierno", "económica"],
   consejo: "Las cotiche son la piel del cerdo: en Roma y en las Marcas se guisan con alubias en invierno y, con la cocción larga, se vuelven gelatinosas y melosas. El doble blanqueado es el paso que no hay que saltarse. Si no te convence la corteza, haz la misma receta con 200 g de costilla de cerdo en trozos. Como todos los guisos de alubias, gana de un día para otro.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -472,7 +472,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "lentejas beluga", q: 140, u: "g", nota: "secas" },
-    { n: "alcachofas", q: 4, u: "ud", nota: "o 250 g de corazones de alcachofa congelados" },
+    { n: "alcachofa", q: 4, u: "ud", nota: "o 250 g de corazones de alcachofa congelados" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
@@ -692,7 +692,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 450, u: "g", nota: "4 piezas con piel y hueso" },
+    { n: "contramuslos de pollo", q: 450, u: "g", nota: "4 piezas con piel y hueso" },
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "escurridas y enjuagadas" },
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "limón", q: 1, u: "ud" },

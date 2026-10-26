@@ -157,7 +157,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "merluza (lomos)", q: 400, u: "g", nota: "o rape, gallo o gallineta" },
     { n: "patata", q: 450, u: "g" },
-    { n: "ñora", q: 2, u: "ud" },
+    { n: "ñoras", q: 2, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "tomate pera", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -197,7 +197,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 350, u: "g" },
+    { n: "bacalao desalado", q: 350, u: "g" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "tomate pera", q: 2, u: "ud" },
@@ -242,7 +242,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "lubina (lomos)", q: 300, u: "g", nota: "2 lomos con piel" },
     { n: "cebolleta", q: 4, u: "ud", nota: "grandes, o calçots en temporada" },
-    { n: "ñora", q: 2, u: "ud" },
+    { n: "ñoras", q: 2, u: "ud" },
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "almendras", q: 25, u: "g" },
@@ -287,7 +287,7 @@ window.RECETAS_SEED.push({
     { n: "cebolla", q: 3, u: "ud", nota: "unos 450 g" },
     { n: "tomate pera", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
-    { n: "ñora", q: 1, u: "ud" },
+    { n: "ñoras", q: 1, u: "ud" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "patata", q: 400, u: "g" },
@@ -368,7 +368,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "lomo de cerdo (filetes)", q: 300, u: "g", nota: "6 filetes finos" },
+    { n: "filetes de lomo de cerdo", q: 300, u: "g", nota: "6 filetes finos" },
     { n: "col rizada", q: 6, u: "hoja", nota: "hojas grandes" },
     { n: "sobrasada", q: 50, u: "g" },
     { n: "panceta", q: 40, u: "g", nota: "en lonchas finas" },
@@ -457,7 +457,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pavo", q: 300, u: "g" },
     { n: "alcachofa", q: 4, u: "ud" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "guisantes congelados", q: 100, u: "g" },
@@ -886,7 +886,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
-    { n: "costilla de cerdo", q: 250, u: "g", nota: "troceada pequeña" },
+    { n: "costillas de cerdo", q: 250, u: "g", nota: "troceada pequeña" },
     { n: "sepia", q: 250, u: "g", nota: "limpia" },
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },

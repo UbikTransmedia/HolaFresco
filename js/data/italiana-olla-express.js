@@ -22,7 +22,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso, unas 4 piezas; quita la piel si lo quieres más ligero" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso, unas 4 piezas; quita la piel si lo quieres más ligero" },
     { n: "langostinos enteros", q: 200, u: "g", nota: "unos 6, crudos" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "champiñones", q: 150, u: "g" },
@@ -70,7 +70,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz arborio", q: 160, u: "g", nota: "o carnaroli" },
-    { n: "salchicha fresca", q: 150, u: "g", nota: "luganega o salchicha fresca de cerdo sin pimentón" },
+    { n: "salchichas frescas", q: 150, u: "g", nota: "luganega o salchicha fresca de cerdo sin pimentón" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "mantequilla", q: 25, u: "g" },
     { n: "vino blanco", q: 80, u: "ml" },
@@ -159,7 +159,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g" },
+    { n: "bacalao desalado", q: 320, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -206,7 +206,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "morcillo de ternera", q: 250, u: "g", nota: "en un trozo" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "con hueso" },
     { n: "huesos de ternera", q: 300, u: "g", opcional: true, nota: "de caña o rodilla: dan cuerpo al caldo" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 600, u: "g", nota: "troceada, con hueso" },
+    { n: "paletilla de cordero", q: 600, u: "g", nota: "troceada, con hueso" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 2, u: "ud", nota: "pequeñas" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -713,7 +713,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 350, u: "g", nota: "sin piel, en trozos de 4 cm" },
+    { n: "contramuslos de pavo", q: 350, u: "g", nota: "sin piel, en trozos de 4 cm" },
     { n: "champiñones", q: 250, u: "g" },
     { n: "patata", q: 350, u: "g", nota: "nuevas o de carne firme" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -905,7 +905,7 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 3, u: "ud" },
     { n: "ricotta", q: 100, u: "g" },
     { n: "parmesano", q: 30, u: "g", nota: "rallado" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "mantequilla", q: 10, u: "g", nota: "para engrasar los moldes" },
     { n: "pan rallado", q: 2, u: "cda" },

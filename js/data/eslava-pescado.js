@@ -71,7 +71,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "harina de trigo", q: 150, u: "g" },
     { n: "leche", q: 80, u: "ml" },
-    { n: "levadura seca de panadero", q: 4, u: "g" },
+    { n: "levadura seca de panadería", q: 4, u: "g" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "mantequilla", q: 30, u: "g", nota: "20 g blanda para la masa y 10 g para las setas" },
     { n: "huevo", q: 3, u: "ud" },
@@ -340,7 +340,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 350, u: "g", nota: "en trozos grandes con piel; en Serbia se mezclan carpa, siluro y lucio" },
+    { n: "corvina", q: 350, u: "g", nota: "en trozos grandes con piel; en Serbia se mezclan carpa, siluro y lucio" },
     { n: "cebolla", q: 300, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimentón dulce", q: 1.5, u: "cda" },
@@ -429,7 +429,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 320, u: "g", nota: "4 filetes con piel" },
+    { n: "filetes de trucha", q: 320, u: "g", nota: "4 filetes con piel" },
     { n: "harina de trigo", q: 20, u: "g" },
     { n: "ajo", q: 4, u: "diente", nota: "3 para la miga y 1 para la blitva" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
@@ -833,7 +833,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 320, u: "g", nota: "o bacalao fresco o merluza" },
+    { n: "abadejo", q: 320, u: "g", nota: "o bacalao fresco o merluza" },
     { n: "chucrut", q: 300, u: "g", nota: "escurrido" },
     { n: "manzana", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },

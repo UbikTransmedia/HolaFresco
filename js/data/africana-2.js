@@ -24,7 +24,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 450, u: "g", nota: "con hueso y sin piel, unos 4" },
+    { n: "contramuslos de pollo", q: 450, u: "g", nota: "con hueso y sin piel, unos 4" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cebolla", q: 500, u: "g", nota: "unas 3, picadas muy finas" },
     { n: "mantequilla", q: 40, u: "g" },
@@ -114,7 +114,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 550, u: "g", nota: "con hueso y sin piel, unas 4 piezas" },
+    { n: "contramuslos de pollo", q: 550, u: "g", nota: "con hueso y sin piel, unas 4 piezas" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -124,7 +124,7 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "calabaza", q: 300, u: "g" },
     { n: "okra congelada", q: 200, u: "g", nota: "quimbombó; fresco si lo encuentras" },
-    { n: "harina de yuca", q: 120, u: "g", nota: "fina y sin tostar, para el funje; o 140 g de arroz" },
+    { n: "harina de mandioca", q: 120, u: "g", nota: "fina y sin tostar, para el funje; o 140 g de arroz" },
     { n: "agua", q: 700, u: "ml" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "deshuesados y sin piel" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
@@ -208,7 +208,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pavo", q: 300, u: "g" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "comino en grano", q: 1, u: "cdta" },
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "plátano macho", q: 2, u: "ud", nota: "verdes o recién amarillos" },
     { n: "huevo", q: 4, u: "ud" },
-    { n: "pipas de calabaza peladas", q: 60, u: "g", nota: "sustituyen a las semillas de egusi" },
+    { n: "pipas de calabaza", q: 60, u: "g", nota: "sustituyen a las semillas de egusi" },
     { n: "espinacas frescas", q: 400, u: "g", nota: "sustituyen a las hojas de taro" },
     { n: "aceite de palma", q: 2, u: "cda", nota: "o aceite de girasol con 1 cdta de pimentón dulce" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -469,7 +469,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "queso halloumi", q: 225, u: "g" },
+    { n: "halloumi", q: 225, u: "g" },
     { n: "boniato", q: 500, u: "g" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
@@ -940,7 +940,7 @@ window.RECETAS_SEED.push({
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "pipas de calabaza peladas", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [

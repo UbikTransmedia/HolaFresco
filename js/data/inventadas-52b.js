@@ -64,7 +64,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 300, u: "g", nota: "en 2 medallones de 4 cm, a temperatura ambiente" },
+    { n: "solomillo de ternera", q: 300, u: "g", nota: "en 2 medallones de 4 cm, a temperatura ambiente" },
     { n: "chalota", q: 4, u: "ud" },
     { n: "vino tinto", q: 150, u: "ml" },
     { n: "caldo de carne", q: 100, u: "ml" },
@@ -112,7 +112,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "magret de pato", q: 400, u: "g", nota: "1 pieza grande" },
     { n: "patata", q: 300, u: "g", nota: "pequeñas" },
-    { n: "endivia", q: 2, u: "ud" },
+    { n: "endibias", q: 2, u: "ud" },
     { n: "frutos rojos", q: 150, u: "g", nota: "frescos o congelados" },
     { n: "vinagre balsámico", q: 2, u: "cda" },
     { n: "miel", q: 1, u: "cda" },
@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g" },
+    { n: "mejillones", q: 1000, u: "g" },
     { n: "chalota", q: 2, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "vino blanco", q: 150, u: "ml", nota: "seco" },
@@ -461,7 +461,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "rigatoni", q: 150, u: "g" },
-    { n: "pez espada (rodajas)", q: 250, u: "g", nota: "sin piel, en dados de 2 cm" },
+    { n: "pez espada", q: 250, u: "g", nota: "sin piel, en dados de 2 cm" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "tomate cherry", q: 250, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -687,7 +687,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "microondas", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 350, u: "g", nota: "en dados de 3 cm" },
+    { n: "solomillo de ternera", q: 350, u: "g", nota: "en dados de 3 cm" },
     { n: "pasta de ají amarillo", q: 1, u: "cda" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "comino molido", q: 1, u: "cdta" },
@@ -778,7 +778,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "batidora"],
   raciones: 1,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g", nota: "2 lomos gruesos" },
+    { n: "bacalao desalado", q: 300, u: "g", nota: "2 lomos gruesos" },
     { n: "aceite de oliva", q: 250, u: "ml", nota: "para confitar; se reutiliza" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimientos del piquillo", q: 6, u: "ud" },
@@ -864,7 +864,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 320, u: "g", nota: "con piel" },
+    { n: "corvina", q: 320, u: "g", nota: "con piel" },
     { n: "tomate cherry", q: 300, u: "g" },
     { n: "aceitunas negras", q: 40, u: "g", nota: "tipo kalamata, sin hueso" },
     { n: "alcaparras", q: 1, u: "cda" },
@@ -905,7 +905,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g" },
     { n: "champiñones", q: 200, u: "g", nota: "laminados" },
     { n: "chalota", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -952,7 +952,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 260, u: "g", nota: "en tiras finas" },
+    { n: "pierna de cordero deshuesada", q: 260, u: "g", nota: "en tiras finas" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -960,7 +960,7 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 125, u: "g" },
     { n: "garam masala", q: 1.5, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
-    { n: "cardamomo (vainas)", q: 3, u: "ud" },
+    { n: "cardamomo en vaina", q: 3, u: "ud" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 1, u: "cda" },

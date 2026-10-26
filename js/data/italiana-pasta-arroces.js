@@ -66,7 +66,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "arroz carnaroli", q: 160, u: "g", nota: "o arborio" },
     { n: "sepia", q: 350, u: "g", nota: "limpia; si viene entera, con sus bolsas de tinta" },
-    { n: "tinta de sepia", q: 8, u: "g", nota: "2 sobres de 4 g si la sepia no trae sus bolsas" },
+    { n: "tinta de calamar", q: 8, u: "g", nota: "2 sobres de 4 g si la sepia no trae sus bolsas" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "vino blanco", q: 100, u: "ml" },
@@ -154,7 +154,7 @@ window.RECETAS_SEED.push({
   equipo: ["bol", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "jabalí (carne para guisar)", q: 300, u: "g", nota: "en temporada de caza; sustitúyelo por carrillada o paleta de cerdo" },
+    { n: "jabalí para guisar", q: 300, u: "g", nota: "en temporada de caza; sustitúyelo por carrillada o paleta de cerdo" },
     { n: "vino tinto", q: 300, u: "ml", nota: "un tinto toscano o un tempranillo joven" },
     { n: "bayas de enebro", q: 5, u: "ud" },
     { n: "laurel", q: 1, u: "hoja" },
@@ -206,7 +206,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "espaguetis alla chitarra", q: 160, u: "g", nota: "pasta al huevo de sección cuadrada; sirven tonnarelli o espaguetis gruesos" },
-    { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "o paletilla deshuesada" },
+    { n: "pierna de cordero deshuesada", q: 300, u: "g", nota: "o paletilla deshuesada" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -456,7 +456,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "mezze maniche", q: 140, u: "g", nota: "o rigatoni" },
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g", nota: "sin piel" },
     { n: "cebolla morada", q: 1, u: "ud", nota: "grande" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "romero fresco", q: 1, u: "rama" },
@@ -720,7 +720,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fusilli", q: 160, u: "g" },
-    { n: "ternera (filetes finos)", q: 250, u: "g", nota: "de cadera o babilla" },
+    { n: "filetes finos de ternera", q: 250, u: "g", nota: "de cadera o babilla" },
     { n: "tomate triturado", q: 300, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "orégano seco", q: 1, u: "cdta" },

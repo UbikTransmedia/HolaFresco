@@ -243,7 +243,7 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 200, u: "ml" },
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "laurel", q: 2, u: "hoja" },
-    { n: "patatas nuevas", q: 400, u: "g" },
+    { n: "patata nueva", q: 400, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "seitán", q: 300, u: "g", nota: "en 4 filetes de 1 cm" },
     { n: "pan rallado", q: 60, u: "g" },
-    { n: "pecorino", q: 30, u: "g", nota: "rallado; o caciocavallo o parmesano" },
+    { n: "queso pecorino", q: 30, u: "g", nota: "rallado; o caciocavallo o parmesano" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "orégano seco", q: 0.5, u: "cdta" },

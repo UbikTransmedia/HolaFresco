@@ -18,7 +18,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en dados de 3 cm" },
     { n: "calabacín", q: 1, u: "ud", nota: "mediano" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en tiras gruesas" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en tiras gruesas" },
     { n: "harissa", q: 1, u: "cda" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "zanahoria", q: 3, u: "ud" },
@@ -369,7 +369,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "picada por el carnicero" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "picada por el carnicero" },
     { n: "espinacas frescas", q: 60, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
@@ -413,7 +413,7 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "bacalao fresco", q: 320, u: "g", nota: "2 lomos" },
     { n: "patata", q: 250, u: "g" },
@@ -435,10 +435,10 @@ window.RECETAS_SEED.push({
     "Tapa y cocina a 800 W durante 4-5 minutos, hasta que el bacalao esté opaco y se separe en lascas. Deja reposar tapado 1 minuto.",
     "Mueve la fuente con suavidad en círculos para que la salsa ligue y espolvorea el resto del perejil antes de servir."
   ],
-  nutricion: { kcal: 370, prot: 34, hc: 32, grasa: 12 },
+  nutricion: { kcal: 755, prot: 71, hc: 58, grasa: 23 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "una sola fuente", "poco especiada", "bajo en colesterol"],
   consejo: "Los tiempos son para 800 W: si tu microondas es de 1000 W, resta un minuto en cada paso. Se conserva 2 días en la nevera; recalienta tapado a 500 W para que el pescado no se reseque. Para celíacos, usa caldo con sello sin gluten.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "media",
   tupper: true
 });
@@ -500,9 +500,9 @@ window.RECETAS_SEED.push({
   dificultad: "fácil",
   equipo: ["microondas", "bol"],
   coccion: ["microondas"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "pak choi", q: 2, u: "ud" },
     { n: "jengibre fresco", q: 20, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -521,11 +521,11 @@ window.RECETAS_SEED.push({
     "Añade a la salsa el tamari, el vinagre de arroz y el aceite de sésamo, y mezcla.",
     "Deja reposar el pollo 2 minutos tapado, córtalo en lonchas y sírvelo con el pak choi y la salsa por encima."
   ],
-  nutricion: { kcal: 319, prot: 38, hc: 8, grasa: 15 },
+  nutricion: { kcal: 640, prot: 78, hc: 13, grasa: 29 },
   etiquetas: ["saludable", "práctica", "rápida", "microondas", "ligera", "alta en proteína", "sin gluten", "fácil", "tupper", "económica", "poco especiada", "bajo en colesterol"],
   consejo: "La salsa de jengibre y cebolleta aguanta 5 días en un tarro en la nevera y sirve para pescado, tofu o arroz. Para tupper, guarda el pollo en lonchas con la salsa por encima: así no se seca al recalentar.",
   alternativa: "Si no encuentras pak choi, usa 250 g de acelgas tiernas o de col china en tiras: cocínalas el mismo tiempo, con las pencas debajo del pollo.",
-  contundencia: "ligera",
+  contundencia: "media",
   coste: "económica",
   tupper: true
 });
@@ -551,8 +551,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 400, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "requesón", q: 150, u: "g" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
@@ -631,7 +631,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 1,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g" },
+    { n: "mejillones", q: 1000, u: "g" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "curry en polvo", q: 1, u: "cdta" },
@@ -721,7 +721,7 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
     { n: "cacahuetes", q: 20, u: "g", nota: "tostados sin sal" },
-    { n: "cogollo", q: 2, u: "ud" },
+    { n: "cogollos de lechuga", q: 2, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "agua", u: "al gusto" },
   ],
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
     { n: "canónigos", q: 100, u: "g" },
     { n: "queso fresco", q: 120, u: "g" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "miel", q: 1, u: "cdta" },

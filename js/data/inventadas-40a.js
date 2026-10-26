@@ -21,7 +21,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 140, u: "g" },
-    { n: "pollo (pechuga)", q: 250, u: "g", nota: "en una pieza" },
+    { n: "pechuga de pollo", q: 250, u: "g", nota: "en una pieza" },
     { n: "calabaza", q: 250, u: "g", nota: "en dados de 2 cm" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "arroz integral", q: 140, u: "g" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -434,7 +434,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 350, u: "g", nota: "en dados de 3 cm" },
+    { n: "contramuslos de pavo", q: 350, u: "g", nota: "en dados de 3 cm" },
     { n: "calabaza", q: 300, u: "g", nota: "en dados de 2,5 cm" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -482,7 +482,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados de 2,5 cm" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados de 2,5 cm" },
     { n: "lentejas rojas", q: 100, u: "g" },
     { n: "calabaza", q: 250, u: "g", nota: "en dados pequeños" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -764,7 +764,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "trigo sarraceno", q: 120, u: "g" },
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en tiras" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en tiras" },
     { n: "brócoli", q: 300, u: "g", nota: "en ramilletes" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -772,7 +772,7 @@ window.RECETAS_SEED.push({
     { n: "yogur natural", q: 125, u: "g" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -982,7 +982,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "alubias rojas cocidas", q: 400, u: "g", nota: "escurridas y enjuagadas" },
-    { n: "pavo (pechuga)", q: 250, u: "g", nota: "en dados de 2,5 cm" },
+    { n: "pechuga de pavo", q: 250, u: "g", nota: "en dados de 2,5 cm" },
     { n: "calabaza", q: 250, u: "g", nota: "en dados de 2 cm" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -1072,7 +1072,7 @@ window.RECETAS_SEED.push({
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados de 3 cm" },
     { n: "piña", q: 200, u: "g", nota: "fresca o en su jugo, en dados" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },

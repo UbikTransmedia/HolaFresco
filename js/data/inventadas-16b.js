@@ -435,7 +435,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g", nota: "limpios de barbas" },
+    { n: "mejillones", q: 1000, u: "g", nota: "limpios de barbas" },
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "escurridas y enjuagadas" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -703,7 +703,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados" },
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos y enjuagados" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },

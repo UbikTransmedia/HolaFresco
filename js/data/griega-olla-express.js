@@ -22,7 +22,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g", nota: "en dados de 4 cm, con algo de grasa" },
+    { n: "paleta de cerdo", q: 400, u: "g", nota: "en dados de 4 cm, con algo de grasa" },
     { n: "apio", q: 350, u: "g", nota: "unas 5 ramas con sus hojas" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -117,7 +117,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "4 piezas con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "4 piezas con hueso y sin piel" },
     { n: "okra congelada", q: 400, u: "g", nota: "entera y pequeña; en tiendas de alimentación asiática, turca o africana" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -163,7 +163,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 350, u: "g", nota: "en dados de 4 cm" },
+    { n: "paleta de cerdo", q: 350, u: "g", nota: "en dados de 4 cm" },
     { n: "col blanca", q: 600, u: "g", nota: "media col pequeña" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 350, u: "g", nota: "deshuesada, en dados de 4 cm" },
+    { n: "paletilla de cordero", q: 350, u: "g", nota: "deshuesada, en dados de 4 cm" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -220,7 +220,7 @@ window.RECETAS_SEED.push({
     { n: "canela molida", q: 0.5, u: "cdta" },
     { n: "vino blanco", q: 80, u: "ml" },
     { n: "tomate triturado", q: 250, u: "g" },
-    { n: "arroz de grano largo", q: 120, u: "g" },
+    { n: "arroz largo", q: 120, u: "g" },
     { n: "caldo de pollo", q: 240, u: "ml" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
     { n: "vino tinto", q: 100, u: "ml" },
     { n: "tomate triturado", q: 300, u: "g" },
     { n: "canela en rama", q: 1, u: "ud" },
-    { n: "pimienta de jamaica", q: 4, u: "ud", nota: "en grano; o 2 clavos" },
+    { n: "pimienta de Jamaica", q: 4, u: "ud", nota: "en grano; o 2 clavos" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 4, u: "cda" },
@@ -351,9 +351,9 @@ window.RECETAS_SEED.push({
   tiempo: 80,
   dificultad: "fácil",
   equipo: ["olla-express"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 600, u: "g", nota: "troceada con hueso; en Naxos se hace también con cabrito" },
+    { n: "paletilla de cordero", q: 600, u: "g", nota: "troceada con hueso; en Naxos se hace también con cabrito" },
     { n: "patata", q: 500, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
     { n: "vino tinto", q: 120, u: "ml" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros, rallados" },
     { n: "canela en rama", q: 1, u: "ud" },
-    { n: "pimienta de jamaica", q: 4, u: "ud", nota: "en grano; o 2 clavos" },
+    { n: "pimienta de Jamaica", q: 4, u: "ud", nota: "en grano; o 2 clavos" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "agua", q: 200, u: "ml" },
@@ -377,12 +377,12 @@ window.RECETAS_SEED.push({
     "Abre la olla, hunde las patatas en la salsa, cierra de nuevo y, cuando suba la válvula, cuenta 6 min. Deja despresurizar de forma natural 5 min.",
     "Comprueba que la patata está tierna y la salsa espesa y brillante; si está líquida, hierve destapado 3-4 min moviendo la olla. Retira la canela y el laurel y sirve con pimienta recién molida."
   ],
-  nutricion: { kcal: 830, prot: 42, hc: 56, grasa: 46 },
+  nutricion: { kcal: 615, prot: 32, hc: 34, grasa: 38 },
   etiquetas: ["tradicional", "invierno", "sin gluten", "batch cooking", "sin verduras", "poco especiada"],
   consejo: "El nombre viene de patata: en Naxos y Amorgos es el guiso de domingo con cabrito o cordero y a veces se termina en el horno de leña. Si quieres las patatas doradas por arriba, pasa el guiso a una fuente y gratínalo 10 min a 220 °C. Aguanta 3 días en la nevera y está mejor al día siguiente.",
   alternativa: "Hazlo en cazuela si no tienes olla: el cordero va tapado 1 h 15 min a fuego suave con 150 ml más de agua, y las patatas, los últimos 25 min.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -728,7 +728,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "salchichas frescas de cerdo", q: 250, u: "g" },
+    { n: "salchichas frescas", q: 250, u: "g" },
     { n: "patata", q: 600, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -919,7 +919,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "4 piezas con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "4 piezas con hueso y sin piel" },
     { n: "castañas cocidas", q: 200, u: "g", nota: "peladas, envasadas al vacío" },
     { n: "cebollitas", q: 250, u: "g", nota: "cebollitas francesas o chalotas pequeñas" },
     { n: "ajo", q: 2, u: "diente" },
@@ -927,7 +927,7 @@ window.RECETAS_SEED.push({
     { n: "vino dulce", q: 100, u: "ml", nota: "Mavrodafni griego; o un oporto tinto" },
     { n: "caldo de pollo", q: 200, u: "ml" },
     { n: "canela en rama", q: 1, u: "ud" },
-    { n: "pimienta de jamaica", q: 4, u: "ud", nota: "en grano; o 2 clavos" },
+    { n: "pimienta de Jamaica", q: 4, u: "ud", nota: "en grano; o 2 clavos" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },

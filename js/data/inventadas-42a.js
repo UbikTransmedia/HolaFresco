@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "mijo", q: 120, u: "g" },
-    { n: "pollo (pechuga)", q: 280, u: "g", nota: "en filetes de 1,5 cm" },
+    { n: "pechuga de pollo", q: 280, u: "g", nota: "en filetes de 1,5 cm" },
     { n: "calabacín", q: 1, u: "ud", nota: "mediano" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "pistachos", q: 25, u: "g", nota: "pelados, sin sal" },
@@ -106,7 +106,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "alubias pintas cocidas", q: 400, u: "g", nota: "de bote, enjuagadas" },
-    { n: "pavo (pechuga)", q: 250, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 250, u: "g", nota: "en filetes" },
     { n: "maíz dulce", q: 140, u: "g", nota: "escurrido" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud", nota: "firmes" },
@@ -149,7 +149,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "arroz para sushi", q: 180, u: "g" },
+    { n: "arroz japonés", q: 180, u: "g" },
     { n: "salmón fresco (lomos)", q: 200, u: "g", nota: "sin piel" },
     { n: "alga nori", q: 2, u: "ud", nota: "hojas, cortadas en tiras" },
     { n: "sésamo", q: 1, u: "cda" },
@@ -194,7 +194,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "trigo sarraceno", q: 90, u: "g" },
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "remolacha cocida", q: 200, u: "g" },
     { n: "pepinillos", q: 4, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -282,7 +282,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "tortillas de trigo", q: 4, u: "ud", nota: "integrales, medianas" },
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en tiras" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en tiras" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "garbanzos cocidos", q: 120, u: "g" },
@@ -724,7 +724,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "brócoli", q: 400, u: "g" },
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "arándanos secos", q: 25, u: "g" },
     { n: "almendras", q: 25, u: "g", nota: "laminadas o picadas" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -869,7 +869,7 @@ window.RECETAS_SEED.push({
     { n: "aceitunas negras", q: 8, u: "ud" },
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "comino molido", q: 1, u: "cdta" },
-    { n: "semillas de alcaravea", q: 0.5, u: "cdta", opcional: true },
+    { n: "alcaravea", q: 0.5, u: "cdta", opcional: true },
     { n: "harissa", q: 1, u: "cdta", opcional: true },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 2, u: "cda" },
@@ -995,7 +995,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz integral", q: 160, u: "g" },
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados y sin piel, en dados" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados y sin piel, en dados" },
     { n: "tamari", q: 3, u: "cda" },
     { n: "miel", q: 1, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },

@@ -153,7 +153,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso, sin piel si prefieres más ligero" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con hueso, sin piel si prefieres más ligero" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "zanahoria", q: 2, u: "ud" },
@@ -199,7 +199,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 350, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pavo", q: 350, u: "g", nota: "en dados de 3 cm" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -307,8 +307,8 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "caldo de verduras", q: 500, u: "ml" },
     { n: "nata para cocinar", q: 100, u: "ml" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "bol", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 500, u: "g", nota: "en tacos de 5 cm" },
+    { n: "paleta de cerdo", q: 500, u: "g", nota: "en tacos de 5 cm" },
     { n: "pasta de achiote", q: 50, u: "g" },
     { n: "zumo de naranja", q: 150, u: "ml" },
     { n: "lima", q: 2, u: "ud" },
@@ -443,7 +443,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 500, u: "g", nota: "en tacos de 5 cm, con algo de grasa" },
+    { n: "paleta de cerdo", q: 500, u: "g", nota: "en tacos de 5 cm, con algo de grasa" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "naranja", q: 1, u: "ud" },
@@ -489,7 +489,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 400, u: "g" },
+    { n: "pechuga de pollo", q: 400, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "laurel", q: 1, u: "hoja" },

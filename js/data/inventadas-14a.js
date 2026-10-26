@@ -61,7 +61,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "col blanca", q: 250, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -154,8 +154,8 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "atún rojo (lomos)", q: 250, u: "g", nota: "apto para consumo en crudo (previamente congelado)" },
-    { n: "arroz para sushi", q: 150, u: "g" },
+    { n: "atún rojo", q: 250, u: "g", nota: "apto para consumo en crudo (previamente congelado)" },
+    { n: "arroz japonés", q: 150, u: "g" },
     { n: "vinagre de arroz", q: 3, u: "cda" },
     { n: "azúcar", q: 1, u: "cda" },
     { n: "alga wakame deshidratada", q: 5, u: "g" },
@@ -244,7 +244,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados y sin piel" },
     { n: "zumaque", q: 2, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "ajo", q: 1, u: "diente" },
@@ -390,7 +390,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "cebada perlada", q: 120, u: "g" },
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g", nota: "sin piel" },
     { n: "limón", q: 1.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "orégano seco", q: 1, u: "cdta" },
@@ -571,7 +571,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados, con piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados, con piel" },
     { n: "hierba limón", q: 2, u: "ud", nota: "tallos" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "chalota", q: 1, u: "ud" },
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (entrecot)", q: 320, u: "g", nota: "una pieza de 3 cm de grosor" },
+    { n: "entrecot de ternera", q: 320, u: "g", nota: "una pieza de 3 cm de grosor" },
     { n: "patata", q: 350, u: "g", nota: "pequeñas" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "tomate cherry", q: 200, u: "g" },
@@ -754,7 +754,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "panko", q: 60, u: "g" },
@@ -858,7 +858,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 240, u: "g", nota: "desmigado o en lomos" },
+    { n: "bacalao desalado", q: 240, u: "g", nota: "desmigado o en lomos" },
     { n: "naranja", q: 3, u: "ud" },
     { n: "patata", q: 150, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
@@ -904,7 +904,7 @@ window.RECETAS_SEED.push({
     { n: "col lombarda", q: 120, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "aguacate", q: 0.5, u: "ud" },
-    { n: "semillas de calabaza", q: 10, u: "g" },
+    { n: "pipas de calabaza", q: 10, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "miso", q: 1, u: "cda", nota: "blanco o claro" },
     { n: "naranja", q: 1, u: "ud" },
@@ -943,7 +943,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 280, u: "g", nota: "4 lomos limpios con piel" },
+    { n: "caballa fresca", q: 280, u: "g", nota: "4 lomos limpios con piel" },
     { n: "patata", q: 350, u: "g", nota: "nuevas o pequeñas" },
     { n: "remolacha cocida", q: 150, u: "g" },
     { n: "rábano", q: 5, u: "ud" },
@@ -990,7 +990,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "batidora", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 400, u: "g", nota: "con piel" },
+    { n: "muslos de pollo deshuesados", q: 400, u: "g", nota: "con piel" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -1135,7 +1135,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "yogur natural", q: 125, u: "g", nota: "la mitad para la marinada" },
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },

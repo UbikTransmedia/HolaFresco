@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (chuletillas)", q: 400, u: "g", nota: "8-10 piezas" },
+    { n: "chuletillas de cordero", q: 400, u: "g", nota: "8-10 piezas" },
     { n: "cuscús", q: 120, u: "g" },
     { n: "granada", q: 0.5, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
@@ -107,7 +107,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g", nota: "en 4 filetes muy finos" },
+    { n: "pechuga de pollo", q: 280, u: "g", nota: "en 4 filetes muy finos" },
     { n: "jamón serrano", q: 2, u: "loncha" },
     { n: "queso en lonchas", q: 2, u: "loncha" },
     { n: "huevo", q: 1, u: "ud" },
@@ -149,7 +149,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 260, u: "g" },
+    { n: "solomillo de ternera", q: 260, u: "g" },
     { n: "setas variadas", q: 250, u: "g" },
     { n: "chalota", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -193,7 +193,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "yogur natural", q: 3, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (entrecot)", q: 400, u: "g", nota: "2 piezas de 2 cm de grosor" },
+    { n: "entrecot de ternera", q: 400, u: "g", nota: "2 piezas de 2 cm de grosor" },
     { n: "patata", q: 400, u: "g" },
     { n: "pimienta verde en grano", q: 1, u: "cda", nota: "en salmuera, escurrida" },
     { n: "brandy", q: 30, u: "ml" },
@@ -467,7 +467,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 320, u: "g" },
+    { n: "abadejo", q: 320, u: "g" },
     { n: "tomate triturado", q: 250, u: "g" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -510,7 +510,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "gallo (filetes)", q: 320, u: "g" },
+    { n: "filetes de gallo", q: 320, u: "g" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "mantequilla", q: 25, u: "g" },
     { n: "limón", q: 1, u: "ud" },
@@ -562,7 +562,7 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 50, u: "ml" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "pimienta blanca", q: 1, u: "pizca" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "pan", q: 2, u: "rebanada" },
@@ -606,7 +606,7 @@ window.RECETAS_SEED.push({
     { n: "espinacas frescas", q: 300, u: "g" },
     { n: "nata para cocinar", q: 80, u: "ml" },
     { n: "ajo", q: 1, u: "diente" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
     { n: "mantequilla", q: 10, u: "g" },
     { n: "pan", q: 2, u: "rebanada", nota: "grandes" },
@@ -953,7 +953,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "tagliatelle", q: 160, u: "g", nota: "secos" },
-    { n: "pollo (pechuga)", q: 220, u: "g", nota: "en tiras" },
+    { n: "pechuga de pollo", q: 220, u: "g", nota: "en tiras" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud", nota: "firmes" },
     { n: "ajo", q: 2, u: "diente" },
@@ -1046,7 +1046,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 240, u: "g" },
+    { n: "pechuga de pollo", q: 240, u: "g" },
     { n: "nectarina", q: 2, u: "ud", nota: "maduras pero firmes" },
     { n: "rúcula", q: 80, u: "g" },
     { n: "mozzarella", q: 100, u: "g" },

@@ -18,7 +18,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -240,7 +240,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "macarrones", q: 180, u: "g", nota: "integrales" },
-    { n: "pavo (pechuga)", q: 280, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 280, u: "g", nota: "en filetes" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "pepinillos", q: 4, u: "ud" },
     { n: "apio", q: 2, u: "rama" },
@@ -415,7 +415,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "bulgur", q: 140, u: "g" },
-    { n: "ternera (filete)", q: 300, u: "g" },
+    { n: "filetes de ternera", q: 300, u: "g" },
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -508,7 +508,7 @@ window.RECETAS_SEED.push({
     { n: "col lombarda", q: 200, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "pera", q: 1, u: "ud" },
-    { n: "semillas de calabaza", q: 15, u: "g" },
+    { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "sirope de arce", q: 1, u: "cda" },
     { n: "pimentón ahumado", q: 0.5, u: "cdta" },
@@ -730,7 +730,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "tortillas de trigo", q: 4, u: "ud", nota: "integrales, medianas" },
-    { n: "pavo (pechuga)", q: 260, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 260, u: "g", nota: "en filetes finos" },
     { n: "queso fresco", q: 100, u: "g" },
     { n: "espinacas frescas", q: 2, u: "puñado" },
     { n: "tomate", q: 1, u: "ud" },
@@ -986,7 +986,7 @@ window.RECETAS_SEED.push({
   equipo: ["microondas", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "maíz dulce", q: 100, u: "g", nota: "escurrido" },
     { n: "tomate", q: 2, u: "ud" },
@@ -1086,7 +1086,7 @@ window.RECETAS_SEED.push({
     { n: "tahini", q: 1.5, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "semillas de calabaza", q: 15, u: "g" },
+    { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
   ],

@@ -135,7 +135,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-714",
   nombre: "Bacalao fresco a la plancha con tzatziki de eneldo, ensalada de pepino y rábano y pan de pita",
-  subtitulo: "con ralladura de limón y aceite de ajo",
+  subtitulo: "con ralladura de limón y aceite de oliva",
   origen: "inventada",
   categoria: "pescado",
   cocina: "mediterránea",
@@ -188,7 +188,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 280, u: "g" },
+    { n: "caballa fresca", q: 280, u: "g" },
     { n: "garbanzos cocidos", q: 240, u: "g", nota: "escurridos" },
     { n: "pimientos del piquillo", q: 4, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "merluza (lomos)", q: 320, u: "g" },
-    { n: "zaatar", q: 2, u: "cdta" },
+    { n: "za'atar", q: 2, u: "cdta" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -529,7 +529,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 280, u: "g" },
+    { n: "caballa fresca", q: 280, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento amarillo", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -574,7 +574,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "atún rojo (lomos)", q: 280, u: "g", nota: "en dos filetes de 2 cm" },
+    { n: "atún rojo", q: 280, u: "g", nota: "en dos filetes de 2 cm" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "apio", q: 1, u: "rama" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -931,7 +931,7 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
-    { n: "semillas de calabaza", q: 1, u: "cda" },
+    { n: "pipas de calabaza", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -1009,7 +1009,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 320, u: "g", nota: "en un trozo grueso" },
+    { n: "bonito fresco", q: 320, u: "g", nota: "en un trozo grueso" },
     { n: "aceite de oliva", q: 300, u: "ml", nota: "para confitar; se reutiliza" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "limón", q: 1, u: "ud" },
@@ -1052,7 +1052,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 280, u: "g" },
+    { n: "caballa fresca", q: 280, u: "g" },
     { n: "cilantro fresco", q: 1, u: "manojo" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "ajo", q: 2, u: "diente" },

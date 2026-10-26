@@ -119,7 +119,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "horno"],
   raciones: 4,
   ingredientes: [
-    { n: "codillo de cerdo fresco", q: 900, u: "g", nota: "1 codillo trasero crudo, sin ahumar" },
+    { n: "codillo de cerdo", q: 900, u: "g", nota: "1 codillo trasero crudo, sin ahumar" },
     { n: "cerveza", q: 330, u: "ml", nota: "rubia tipo lager" },
     { n: "agua", q: 500, u: "ml" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -212,7 +212,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "cazuela", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y sin piel, unas 4 piezas" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y sin piel, unas 4 piezas" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimentón dulce", q: 1.5, u: "cda" },
@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "ternera para guisar", q: 250, u: "g" },
-    { n: "cerdo (paleta)", q: 200, u: "g" },
+    { n: "paleta de cerdo", q: 200, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "patata", q: 400, u: "g" },
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla deshuesada)", q: 350, u: "g" },
+    { n: "paletilla de cordero deshuesada", q: 350, u: "g" },
     { n: "repollo", q: 250, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -639,7 +639,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "alubias rojas secas", q: 150, u: "g", nota: "remojadas 12 h" },
-    { n: "remolacha cruda", q: 200, u: "g", nota: "1 pieza mediana" },
+    { n: "remolacha", q: 200, u: "g", nota: "1 pieza mediana" },
     { n: "repollo", q: 200, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -690,12 +690,12 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "deshuesados y sin piel" },
     { n: "chucrut", q: 300, u: "g" },
     { n: "manzana", q: 1, u: "ud", nota: "ácida, tipo reineta o verde" },
     { n: "patata", q: 400, u: "g", nota: "nuevas y pequeñas" },
     { n: "cebolla", q: 1, u: "ud" },
-    { n: "semillas de alcaravea", q: 1, u: "cdta" },
+    { n: "alcaravea", q: 1, u: "cdta" },
     { n: "bayas de enebro", q: 4, u: "ud" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "vino blanco", q: 100, u: "ml" },

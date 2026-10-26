@@ -100,7 +100,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "pan rallado", q: 40, u: "g" },
@@ -269,7 +269,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 400, u: "g", nota: "lomos gruesos con piel" },
+    { n: "bacalao desalado", q: 400, u: "g", nota: "lomos gruesos con piel" },
     { n: "aceite de oliva", q: 150, u: "ml", nota: "virgen extra suave" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "guindilla seca", q: 1, u: "ud" },

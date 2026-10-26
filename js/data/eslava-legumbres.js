@@ -203,7 +203,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "alubias pintas secas", q: 100, u: "g", nota: "en remojo 12 horas; en Eslovenia se usa la alubia moteada" },
     { n: "cebada perlada", q: 80, u: "g" },
-    { n: "codillo ahumado", q: 400, u: "g", nota: "o costilla de cerdo ahumada o lacón" },
+    { n: "codillo de cerdo ahumado", q: 400, u: "g", nota: "o costilla de cerdo ahumada o lacón" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "apio", q: 1, u: "rama" },
@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
     { n: "vinagre de manzana", q: 2, u: "cda" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de pepitas de calabaza", q: 2, u: "cda", nota: "en herbolarios y tiendas de productos del este; si no, aceite de oliva virgen extra" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "huevo", q: 2, u: "ud", opcional: true, nota: "duro, para hacerla más completa" },
     { n: "sal", u: "al gusto" },
@@ -786,7 +786,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 300, u: "g", nota: "deshuesado, con piel" },
+    { n: "contramuslos de pavo", q: 300, u: "g", nota: "deshuesado, con piel" },
     { n: "judías blancas cocidas", q: 400, u: "g" },
     { n: "tortillas de trigo", q: 2, u: "ud", nota: "hacen las veces de los mlinci" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -830,7 +830,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g" },
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados y sin piel" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },

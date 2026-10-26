@@ -23,7 +23,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
     { n: "tomate pera", q: 400, u: "g" },
-    { n: "chile guajillo seco", q: 2, u: "ud", nota: "o 1 cda de pimentón dulce y una pizca de cayena" },
+    { n: "chile guajillo", q: 2, u: "ud", nota: "o 1 cda de pimentón dulce y una pizca de cayena" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "caldo de verduras", q: 300, u: "ml" },
@@ -201,7 +201,7 @@ window.RECETAS_SEED.push({
   raciones: 1,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
-    { n: "palmitos en conserva", q: 220, u: "g", nota: "escurridos" },
+    { n: "palmitos", q: 220, u: "g", nota: "escurridos" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -249,7 +249,7 @@ window.RECETAS_SEED.push({
     { n: "jamón cocido", q: 80, u: "g", nota: "en una loncha gruesa" },
     { n: "pimiento verde", q: 0.5, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
-    { n: "cheddar", q: 40, u: "g", nota: "rallado" },
+    { n: "queso cheddar", q: 40, u: "g", nota: "rallado" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "pan de molde", q: 2, u: "rebanada", nota: "tostado, para acompañar" },
     { n: "salsa picante", q: 1, u: "cdta", opcional: true, nota: "para servir" },
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "mazorca de maíz", q: 3, u: "ud", nota: "o 300 g de maíz dulce congelado" },
-    { n: "quimbombó congelado", q: 150, u: "g", nota: "u okra; o judías verdes finas" },
+    { n: "okra congelada", q: 150, u: "g", nota: "u okra; o judías verdes finas" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "apio", q: 1, u: "rama" },
@@ -577,7 +577,7 @@ window.RECETAS_SEED.push({
     { n: "nata para cocinar", q: 60, u: "ml" },
     { n: "cayena", q: 1, u: "pizca" },
     { n: "salsa picante", q: 1, u: "cdta", opcional: true, nota: "para servir" },
-    { n: "arroz de grano largo", q: 120, u: "g" },
+    { n: "arroz largo", q: 120, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" }
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "tomate", q: 600, u: "g", nota: "maduros y carnosos, mejor de varias variedades" },
     { n: "masa quebrada", q: 150, u: "g" },
-    { n: "cheddar", q: 80, u: "g", nota: "rallado" },
+    { n: "queso cheddar", q: 80, u: "g", nota: "rallado" },
     { n: "mayonesa", q: 3, u: "cda" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -662,7 +662,7 @@ window.RECETAS_SEED.push({
     { n: "salvia fresca", q: 8, u: "hoja" },
     { n: "sirope de arce", q: 1, u: "cda" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
-    { n: "copos de guindilla", q: 1, u: "pizca" },
+    { n: "copos de chile", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "agua", q: 160, u: "ml" },
     { n: "sal", u: "al gusto" },

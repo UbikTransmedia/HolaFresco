@@ -285,7 +285,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete)", q: 320, u: "g", nota: "cadera o babilla, en dados de 3 cm" },
+    { n: "filetes de ternera", q: 320, u: "g", nota: "cadera o babilla, en dados de 3 cm" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "orégano seco", q: 1, u: "cdta" },
@@ -459,7 +459,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 300, u: "g", nota: "2 medallones de 4 cm" },
+    { n: "solomillo de ternera", q: 300, u: "g", nota: "2 medallones de 4 cm" },
     { n: "boniato", q: 500, u: "g" },
     { n: "espárragos verdes", q: 200, u: "g" },
     { n: "romero fresco", q: 1, u: "rama" },
@@ -676,7 +676,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pollo", q: 320, u: "g", nota: "en dados de 3 cm" },
     { n: "limón", q: 1, u: "ud" },
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "ajo", q: 2, u: "diente" },
@@ -885,7 +885,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "gnocchi de patata", q: 400, u: "g" },
+    { n: "ñoquis de patata", q: 400, u: "g" },
     { n: "brócoli", q: 250, u: "g", nota: "en arbolitos pequeños" },
     { n: "guisantes congelados", q: 120, u: "g" },
     { n: "albahaca fresca", q: 1, u: "manojo" },
@@ -926,7 +926,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 280, u: "g", nota: "en filetes de 1,5 cm" },
+    { n: "pechuga de pavo", q: 280, u: "g", nota: "en filetes de 1,5 cm" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "ajo en polvo", q: 0.5, u: "cdta" },
@@ -935,7 +935,7 @@ window.RECETAS_SEED.push({
     { n: "naranja", q: 1, u: "ud" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g", nota: "en tiras de 2 cm" },
+    { n: "pechuga de pollo", q: 320, u: "g", nota: "en tiras de 2 cm" },
     { n: "panko", q: 50, u: "g" },
     { n: "sésamo", q: 15, u: "g" },
     { n: "huevo", q: 1, u: "ud" },

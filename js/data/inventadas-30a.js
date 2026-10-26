@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "batidora"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pasta de ají amarillo", q: 2, u: "cda" },
@@ -66,7 +66,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 300, u: "g", nota: "o lomo bajo, en tiras gruesas" },
+    { n: "solomillo de ternera", q: 300, u: "g", nota: "o lomo bajo, en tiras gruesas" },
     { n: "cebolla morada", q: 1, u: "ud", nota: "grande, en gajos gruesos" },
     { n: "tomate", q: 2, u: "ud", nota: "firmes, en gajos" },
     { n: "ajo", q: 2, u: "diente" },
@@ -209,7 +209,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "mejor con hueso" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "mejor con hueso" },
     { n: "patata", q: 600, u: "g", nota: "mezcla de harinosa y de carne firme" },
     { n: "mazorca de maíz", q: 2, u: "ud", nota: "en rodajas de 3 cm" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "alubias negras cocidas", q: 400, u: "g" },
-    { n: "cerdo (paleta)", q: 300, u: "g", nota: "en dados grandes" },
+    { n: "paleta de cerdo", q: 300, u: "g", nota: "en dados grandes" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomate", q: 2, u: "ud" },
@@ -526,7 +526,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "caldo de pollo", q: 1000, u: "ml" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -658,7 +658,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (ossobuco)", q: 500, u: "g", nota: "2 rodajas con su hueso" },
+    { n: "ossobuco de ternera", q: 500, u: "g", nota: "2 rodajas con su hueso" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "tomate", q: 1, u: "ud" },
@@ -750,7 +750,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 350, u: "g", nota: "o merluza, en 4 trozos" },
+    { n: "corvina", q: 350, u: "g", nota: "o merluza, en 4 trozos" },
     { n: "tomate", q: 2, u: "ud", nota: "en gajos" },
     { n: "cebolla morada", q: 1, u: "ud", nota: "en plumas gruesas" },
     { n: "ajo", q: 2, u: "diente" },
@@ -892,7 +892,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g", nota: "o contramuslos" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g", nota: "o contramuslos" },
     { n: "nueces", q: 100, u: "g" },
     { n: "melaza de granada", q: 3, u: "cda" },
     { n: "cebolla", q: 1, u: "ud" },

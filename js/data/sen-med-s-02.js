@@ -195,7 +195,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa (lomos)", q: 320, u: "g", nota: "4 lomos, de 2 caballas" },
+    { n: "caballa fresca", q: 320, u: "g", nota: "4 lomos, de 2 caballas" },
     { n: "vino blanco", q: 200, u: "ml", nota: "seco" },
     { n: "vinagre de vino", q: 3, u: "cda" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -243,7 +243,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "dorada (filetes)", q: 350, u: "g", nota: "2 doradas en filetes, con piel" },
+    { n: "dorada (lomos)", q: 350, u: "g", nota: "2 doradas en filetes, con piel" },
     { n: "berenjena", q: 2, u: "ud", nota: "unos 600 g" },
     { n: "patata", q: 350, u: "g", nota: "nuevas o pequeñas" },
     { n: "tomate cherry", q: 200, u: "g" },
@@ -286,7 +286,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 320, u: "g" },
+    { n: "bonito fresco", q: 320, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomate", q: 500, u: "g", nota: "maduro" },
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes finos" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 500, u: "g", nota: "deshuesada, en dados de 3 cm" },
+    { n: "paletilla de cordero", q: 500, u: "g", nota: "deshuesada, en dados de 3 cm" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -994,7 +994,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 350, u: "g", nota: "en trozos, con hueso" },
+    { n: "paletilla de cordero", q: 350, u: "g", nota: "en trozos, con hueso" },
     { n: "espelta en grano", q: 100, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "clavo", q: 2, u: "ud" },

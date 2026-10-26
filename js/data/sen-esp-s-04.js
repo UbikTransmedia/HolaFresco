@@ -157,7 +157,7 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "mayonesa", q: 3, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
-    { n: "sal gorda", u: "al gusto" },
+    { n: "sal gruesa", u: "al gusto" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "agua", u: "al gusto" },
     { n: "sal", u: "al gusto" },
@@ -319,7 +319,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 4,
   ingredientes: [
-    { n: "lomo de cerdo (filetes)", q: 240, u: "g", nota: "4 filetes finos" },
+    { n: "filetes de lomo de cerdo", q: 240, u: "g", nota: "4 filetes finos" },
     { n: "jamón serrano", q: 4, u: "loncha" },
     { n: "pimiento verde", q: 2, u: "ud", nota: "de tipo italiano, finos" },
     { n: "pan", q: 2, u: "ud", nota: "2 molletes o 2 trozos de barra de 20 cm" },
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "espárragos trigueros", q: 1, u: "manojo", nota: "unos 250 g" },
     { n: "almendras laminadas", q: 30, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
@@ -487,7 +487,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "lomo de cerdo (filetes)", q: 300, u: "g", nota: "en filetes gruesos o en una pieza" },
+    { n: "filetes de lomo de cerdo", q: 300, u: "g", nota: "en filetes gruesos o en una pieza" },
     { n: "calabacín", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 5, u: "ud" },
     { n: "gulas de surimi", q: 200, u: "g" },
     { n: "gambas peladas", q: 150, u: "g" },
-    { n: "ajo tierno", q: 1, u: "manojo", nota: "unos 6 tallos" },
+    { n: "ajos tiernos", q: 1, u: "manojo", nota: "unos 6 tallos" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pan", q: 4, u: "rebanada" },
@@ -781,7 +781,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "alcachofas en conserva", q: 240, u: "g", nota: "corazones, escurridos" },
-    { n: "cogollos", q: 3, u: "ud" },
+    { n: "cogollos de lechuga", q: 3, u: "ud" },
     { n: "jamón serrano", q: 60, u: "g", nota: "en lonchas" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -824,7 +824,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "macarrones", q: 160, u: "g" },
-    { n: "pollo (pechuga)", q: 250, u: "g" },
+    { n: "pechuga de pollo", q: 250, u: "g" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "guindilla seca", q: 1, u: "ud", opcional: true },
@@ -911,7 +911,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "arroz blanco cocido", q: 400, u: "g", nota: "frío, de la nevera" },
+    { n: "arroz cocido", q: 400, u: "g", nota: "frío, de la nevera" },
     { n: "huevo", q: 3, u: "ud" },
     { n: "jamón serrano", q: 70, u: "g" },
     { n: "guisantes congelados", q: 100, u: "g" },

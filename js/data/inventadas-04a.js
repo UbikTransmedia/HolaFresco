@@ -14,7 +14,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 320, u: "g", nota: "una pieza cilíndrica de unos 5 cm de grosor" },
+    { n: "solomillo de ternera", q: 320, u: "g", nota: "una pieza cilíndrica de unos 5 cm de grosor" },
     { n: "sésamo", q: 3, u: "cda" },
     { n: "salsa de soja", q: 3, u: "cda" },
     { n: "lima", q: 2, u: "ud" },
@@ -469,7 +469,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 600, u: "g", nota: "en dados de 4 cm" },
+    { n: "paleta de cerdo", q: 600, u: "g", nota: "en dados de 4 cm" },
     { n: "patata", q: 500, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -840,7 +840,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 350, u: "g", nota: "en dados de 3 cm" },
+    { n: "paleta de cerdo", q: 350, u: "g", nota: "en dados de 3 cm" },
     { n: "pimentón dulce", q: 1, u: "cda" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "cilantro molido", q: 1, u: "cdta" },
@@ -1027,7 +1027,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 600, u: "g", nota: "en dados de 4 cm" },
+    { n: "paleta de cerdo", q: 600, u: "g", nota: "en dados de 4 cm" },
     { n: "sidra", q: 330, u: "ml", nota: "natural o seca, no dulce" },
     { n: "mostaza antigua", q: 2, u: "cda" },
     { n: "puerro", q: 2, u: "ud" },
@@ -1121,7 +1121,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 300, u: "g", nota: "muy fresca, de confianza" },
+    { n: "solomillo de ternera", q: 300, u: "g", nota: "muy fresca, de confianza" },
     { n: "rúcula", q: 80, u: "g" },
     { n: "parmesano", q: 40, u: "g", nota: "en una pieza para hacer lascas" },
     { n: "alcaparras", q: 2, u: "cda" },

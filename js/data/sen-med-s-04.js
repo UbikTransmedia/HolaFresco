@@ -68,7 +68,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "alubias carillas cocidas", q: 400, u: "g", nota: "1 bote, escurridas" },
+    { n: "alubias carilla cocidas", q: 400, u: "g", nota: "1 bote, escurridas" },
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
@@ -113,7 +113,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g" },
-    { n: "salchichas frescas de cerdo", q: 200, u: "g" },
+    { n: "salchichas frescas", q: 200, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -383,7 +383,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g" },
+    { n: "paleta de cerdo", q: 400, u: "g" },
     { n: "puerro", q: 3, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "vino blanco", q: 100, u: "ml" },
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "orégano seco", q: 1, u: "cdta" },
@@ -991,7 +991,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "apio", q: 1, u: "rama" },

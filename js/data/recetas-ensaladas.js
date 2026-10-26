@@ -290,7 +290,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "lechuga romana", q: 1, u: "ud" },
     { n: "pan", q: 2, u: "rebanada", nota: "para los picatostes" },
     { n: "parmesano", q: 40, u: "g" },
@@ -331,7 +331,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "picada o muy picada a cuchillo" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "picada o muy picada a cuchillo" },
     { n: "arroz jazmín", q: 160, u: "g", nota: "140 g para acompañar y 20 g para tostar" },
     { n: "lima", q: 2, u: "ud" },
     { n: "salsa de pescado", q: 2, u: "cda" },

@@ -63,13 +63,13 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "caldo de pollo", q: 900, u: "ml" },
-    { n: "pollo (pechuga)", q: 200, u: "g" },
+    { n: "pechuga de pollo", q: 200, u: "g" },
     { n: "huevo", q: 3, u: "ud" },
     { n: "parmesano", q: 40, u: "g", nota: "rallado fino" },
     { n: "pan rallado", q: 2, u: "cda" },
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "pan", q: 2, u: "rebanada", opcional: true, nota: "tostado, para acompañar" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -106,7 +106,7 @@ window.RECETAS_SEED.push({
     { n: "fideos udon", q: 400, u: "g", nota: "frescos o precocidos" },
     { n: "tofu firme", q: 200, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
-    { n: "shiitake seco", q: 15, u: "g" },
+    { n: "setas shiitake secas", q: 15, u: "g" },
     { n: "agua", q: 900, u: "ml" },
     { n: "salsa de soja", q: 3, u: "cda" },
     { n: "mirin", q: 2, u: "cda" },
@@ -148,7 +148,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "sin piel" },
     { n: "garbanzos cocidos", q: 150, u: "g" },
     { n: "caldo de pollo", q: 900, u: "ml" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -195,7 +195,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "sin piel ni hueso" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "sin piel ni hueso" },
     { n: "salchicha ahumada", q: 120, u: "g" },
     { n: "harina de trigo", q: 30, u: "g" },
     { n: "aceite de oliva", q: 30, u: "ml", nota: "suave, para el roux" },
@@ -235,7 +235,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-616",
-  nombre: "Porrusalda con bacalao desalado y aceite de ajo",
+  nombre: "Porrusalda con bacalao desalado y aceite de oliva",
   subtitulo: "sopa vasca de puerro, patata y zanahoria con perejil",
   origen: "inventada",
   categoria: "sopas-cremas",
@@ -247,7 +247,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 200, u: "g" },
+    { n: "bacalao desalado", q: 200, u: "g" },
     { n: "puerro", q: 3, u: "ud" },
     { n: "patata", q: 300, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -562,7 +562,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "calamar", q: 200, u: "g", nota: "limpio" },
-    { n: "mejillones frescos", q: 400, u: "g" },
+    { n: "mejillones", q: 400, u: "g" },
     { n: "gambas peladas", q: 150, u: "g" },
     { n: "noodles de trigo", q: 160, u: "g" },
     { n: "col china", q: 150, u: "g" },
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
     { n: "arroz jazmín", q: 100, u: "g" },
     { n: "caldo de pollo", q: 600, u: "ml" },
     { n: "agua", q: 900, u: "ml" },
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g" },
     { n: "jengibre fresco", q: 30, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "salsa de soja", q: 3, u: "cda" },
@@ -843,7 +843,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "con hueso y sin piel" },
     { n: "mazorca de maíz", q: 1, u: "ud", nota: "cortada en 4 rodajas" },
     { n: "plátano macho", q: 1, u: "ud", nota: "verde" },
     { n: "patata", q: 250, u: "g" },
@@ -889,9 +889,9 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g", nota: "en trozos grandes" },
+    { n: "paleta de cerdo", q: 400, u: "g", nota: "en trozos grandes" },
     { n: "maíz pozolero cocido", q: 400, u: "g", nota: "escurrido y enjuagado" },
-    { n: "chile guajillo seco", q: 4, u: "ud" },
+    { n: "chile guajillo", q: 4, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "orégano seco", q: 1, u: "cdta" },
@@ -977,9 +977,9 @@ window.RECETAS_SEED.push({
   tiempo: 30,
   dificultad: "fácil",
   equipo: ["cazuela", "bol"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 250, u: "g", nota: "picada" },
+    { n: "pechuga de pollo", q: 250, u: "g", nota: "picada" },
     { n: "pan rallado", q: 2, u: "cda" },
     { n: "huevo", q: 1, u: "ud", nota: "solo la clara" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -1001,11 +1001,11 @@ window.RECETAS_SEED.push({
     "Aparta del fuego, disuelve el miso en un cazo de caldo y devuélvelo a la cazuela. Prueba de sal.",
     "Sirve en boles con la parte verde de la cebolleta en aros y unas gotas de aceite de sésamo."
   ],
-  nutricion: { kcal: 330, prot: 38, hc: 22, grasa: 10 },
+  nutricion: { kcal: 745, prot: 89, hc: 48, grasa: 20 },
   etiquetas: ["ligera", "alta en proteína", "batch cooking", "invierno", "superalimentos", "poco especiada", "bajo en colesterol"],
   consejo: "Las albóndigas crudas se congelan muy bien en bandeja: tenlas listas y la cena sale en 15 minutos.",
   alternativa: "Si no encuentras pak choi, usa un par de hojas de col china o acelga tierna en tiras; y las shiitake frescas pueden ser champiñones marrones laminados (100 g).",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica"
 });
 
@@ -1117,8 +1117,8 @@ window.RECETAS_SEED.push({
     { n: "caldo de pollo", q: 300, u: "ml" },
     { n: "queso cheddar", q: 80, u: "g", nota: "rallado" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
-    { n: "pollo (pechuga)", q: 200, u: "g" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
+    { n: "pechuga de pollo", q: 200, u: "g" },
     { n: "pan", q: 2, u: "rebanada" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },

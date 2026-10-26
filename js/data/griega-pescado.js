@@ -23,7 +23,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pez espada (rodajas)", q: 320, u: "g", nota: "2 rodajas de unos 2 cm" },
+    { n: "pez espada", q: 320, u: "g", nota: "2 rodajas de unos 2 cm" },
     { n: "tomate pera", q: 400, u: "g", nota: "bien maduros" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
@@ -111,7 +111,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 320, u: "g", nota: "4 filetes con piel" },
+    { n: "filetes de trucha", q: 320, u: "g", nota: "4 filetes con piel" },
     { n: "harina de trigo", q: 30, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "limón", q: 1, u: "ud" },
@@ -154,7 +154,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g" },
+    { n: "mejillones", q: 1000, u: "g" },
     { n: "arroz redondo", q: 150, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -241,7 +241,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g", nota: "4 lomos con piel" },
+    { n: "caballa fresca", q: 300, u: "g", nota: "4 lomos con piel" },
     { n: "acelgas", q: 500, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "limón", q: 1, u: "ud" },

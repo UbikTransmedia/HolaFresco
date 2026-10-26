@@ -108,7 +108,7 @@ window.RECETAS_SEED.push({
     { n: "alubias carilla secas", q: 160, u: "g", nota: "en remojo 4 horas o toda la noche" },
     { n: "aceite de palma", q: 4, u: "cda", nota: "o aceite de girasol con 1 cdta de pimentón dulce" },
     { n: "cebolla", q: 2, u: "ud" },
-    { n: "ñora", q: 3, u: "ud", nota: "sin semillas" },
+    { n: "ñoras", q: 3, u: "ud", nota: "sin semillas" },
     { n: "guindilla seca", q: 2, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "pan de bocadillo", q: 2, u: "ud" },
@@ -640,7 +640,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "tomate", q: 4, u: "ud", nota: "muy maduros, unos 500 g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -907,7 +907,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 550, u: "g", nota: "4 piezas con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 550, u: "g", nota: "4 piezas con hueso y sin piel" },
     { n: "cebolla", q: 3, u: "ud" },
     { n: "limón", q: 3, u: "ud" },
     { n: "mostaza de Dijon", q: 2, u: "cda" },
@@ -1048,7 +1048,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 350, u: "g", nota: "en 4 filetes de 1 cm" },
+    { n: "pechuga de pavo", q: 350, u: "g", nota: "en 4 filetes de 1 cm" },
     { n: "calabaza", q: 500, u: "g" },
     { n: "judías verdes", q: 200, u: "g" },
     { n: "mantequilla", q: 15, u: "g" },

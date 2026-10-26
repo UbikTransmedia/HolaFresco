@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["bol"],
   raciones: 2,
   ingredientes: [
-    { n: "atún rojo (lomos)", q: 280, u: "g", nota: "calidad sashimi, previamente congelado" },
+    { n: "atún rojo", q: 280, u: "g", nota: "calidad sashimi, previamente congelado" },
     { n: "aguacate", q: 1, u: "ud" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "cebolleta", q: 1, u: "ud" },
@@ -331,7 +331,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 320, u: "g", nota: "2 filetes con piel" },
+    { n: "filetes de trucha", q: 320, u: "g", nota: "2 filetes con piel" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "naranja", q: 1, u: "ud" },
@@ -376,7 +376,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "mejillones frescos", q: 1200, u: "g" },
+    { n: "mejillones", q: 1200, u: "g" },
     { n: "boniato", q: 500, u: "g" },
     { n: "leche de coco", q: 400, u: "ml" },
     { n: "pasta de curry rojo", q: 2, u: "cda" },
@@ -747,8 +747,8 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g", nota: "con piel" },
-    { n: "pulpa de pimiento choricero", q: 3, u: "cda" },
+    { n: "bacalao desalado", q: 320, u: "g", nota: "con piel" },
+    { n: "carne de pimiento choricero", q: 3, u: "cda" },
     { n: "cebolla", q: 3, u: "ud", nota: "grandes" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pan", q: 3, u: "rebanada", nota: "1 para la salsa, 2 para servir" },

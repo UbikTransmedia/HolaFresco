@@ -264,7 +264,7 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "aceitunas negras", q: 12, u: "ud", nota: "de Creta o kalamata" },
-    { n: "mizithra", q: 100, u: "g", nota: "o xinomizithra; sirve requesón escurrido con un poco de feta" },
+    { n: "queso mizithra", q: 100, u: "g", nota: "o xinomizithra; sirve requesón escurrido con un poco de feta" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
@@ -484,7 +484,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 300, u: "g", nota: "o cabezada de lomo" },
+    { n: "paleta de cerdo", q: 300, u: "g", nota: "o cabezada de lomo" },
     { n: "pimiento verde", q: 1, u: "ud", nota: "mejor italiano, largo y fino" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "vino blanco", q: 80, u: "ml" },
@@ -531,7 +531,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "o filetes de pierna" },
+    { n: "pierna de cordero deshuesada", q: 300, u: "g", nota: "o filetes de pierna" },
     { n: "berenjena", q: 2, u: "ud", nota: "unos 600 g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "limón", q: 1, u: "ud" },
@@ -578,7 +578,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 300, u: "g", nota: "de babilla, cadera o lomo, de 1,5 cm" },
+    { n: "filetes de ternera", q: 300, u: "g", nota: "de babilla, cadera o lomo, de 1,5 cm" },
     { n: "tomate cherry", q: 300, u: "g" },
     { n: "pimiento verde", q: 1, u: "ud", nota: "italiano" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -755,7 +755,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes" },
     { n: "lechuga romana", q: 1, u: "ud" },
     { n: "pan de pita", q: 1, u: "ud" },
     { n: "yogur griego natural", q: 100, u: "g" },
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "salchichas frescas de cerdo", q: 250, u: "g", nota: "o loukaniko griego si lo encuentras" },
+    { n: "salchichas frescas", q: 250, u: "g", nota: "o loukaniko griego si lo encuentras" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "semillas de hinojo", q: 0.5, u: "cdta" },
     { n: "vino tinto", q: 60, u: "ml" },

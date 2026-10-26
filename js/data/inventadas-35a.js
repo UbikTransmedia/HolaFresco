@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 160, u: "g" },
-    { n: "pavo (contramuslo)", q: 250, u: "g", nota: "en dados de 2 cm" },
+    { n: "contramuslos de pavo", q: 250, u: "g", nota: "en dados de 2 cm" },
     { n: "judías verdes", q: 150, u: "g" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "patata", q: 1, u: "ud", nota: "mediana" },
@@ -116,7 +116,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "judiones cocidos", q: 400, u: "g", nota: "escurridos y enjuagados" },
     { n: "gambas peladas", q: 200, u: "g" },
-    { n: "ñora", q: 2, u: "ud" },
+    { n: "ñoras", q: 2, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomate", q: 1, u: "ud", nota: "rallado" },
@@ -471,7 +471,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "deshuesados, unos 400 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "deshuesados, unos 400 g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -566,7 +566,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "picada o pídela picada" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "picada o pídela picada" },
     { n: "copos de avena sin gluten", q: 30, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
@@ -610,7 +610,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g", nota: "en trozos de 3 cm" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g", nota: "en trozos de 3 cm" },
     { n: "yogur natural", q: 125, u: "g" },
     { n: "almendras", q: 40, u: "g", nota: "crudas, molidas" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -657,7 +657,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 350, u: "g", nota: "en tacos de 3 cm" },
+    { n: "paleta de cerdo", q: 350, u: "g", nota: "en tacos de 3 cm" },
     { n: "tomate triturado", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 400, u: "ml" },
     { n: "maicena", q: 2, u: "cda" },
     { n: "mantequilla", q: 15, u: "g" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
@@ -964,7 +964,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "quinoa", q: 110, u: "g" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
@@ -1057,7 +1057,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz largo", q: 150, u: "g" },
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados, en trozos" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados, en trozos" },
     { n: "pasta de achiote", q: 1, u: "cda" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },

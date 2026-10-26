@@ -111,7 +111,7 @@ window.RECETAS_SEED.push({
     { n: "pan", q: 200, u: "g", nota: "una hogaza redonda pequeña con sésamo" },
     { n: "mortadela", q: 80, u: "g", nota: "en lonchas" },
     { n: "salami", q: 60, u: "g", nota: "en lonchas" },
-    { n: "queso provolone", q: 80, u: "g", nota: "en lonchas" },
+    { n: "provolone", q: 80, u: "g", nota: "en lonchas" },
     { n: "aceitunas verdes", q: 60, u: "g", nota: "deshuesadas" },
     { n: "aceitunas negras", q: 40, u: "g", nota: "deshuesadas" },
     { n: "pimientos asados en conserva", q: 80, u: "g" },
@@ -292,7 +292,7 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "rábano", q: 6, u: "ud" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "pimentón picante", q: 1, u: "pizca" },
     { n: "pan", q: 140, u: "g", nota: "de hogaza, 4 rebanadas" },
@@ -516,7 +516,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "2 medias pechugas" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "2 medias pechugas" },
     { n: "judías verdes", q: 300, u: "g" },
     { n: "patata", q: 200, u: "g" },
     { n: "caldo de pollo", q: 250, u: "ml" },
@@ -560,7 +560,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   coccion: ["olla-express"],
   tupper: false,
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "rodaballo", q: 320, u: "g", nota: "en lomos sin espinas" },
     { n: "espárragos trigueros", q: 250, u: "g" },
@@ -582,11 +582,11 @@ window.RECETAS_SEED.push({
     "Cierra y, en cuanto suba la válvula, cuenta 2 minutos a presión baja (o 1 minuto a presión alta). Apaga y despresuriza rápido de inmediato: el pescado se pasa en segundos con el calor residual.",
     "Comprueba que el centro del rodaballo está nacarado y se separa en láminas. Sirve con las patatas y los espárragos, la mantequilla de limón fundiéndose encima y un hilo de aceite."
   ],
-  nutricion: { kcal: 400, prot: 31, hc: 24, grasa: 20 },
+  nutricion: { kcal: 715, prot: 43, hc: 46, grasa: 37 },
   etiquetas: ["olla exprés", "al vapor", "ligera", "sin gluten", "primavera", "para invitados", "rápida", "poco especiada"],
   consejo: "Para pescado en olla exprés: cestillo siempre fuera del líquido, presión baja si tu olla la tiene y despresurización rápida. Calcula 1-2 minutos para lomos de 2-3 cm de grosor; si son más gruesos, añade 1 minuto. El líquido aromático (vino, limón) perfuma el vapor y por tanto el pescado.",
   alternativa: "Sin olla exprés: hierve las patatas 15 min en agua con el vino y el limón, pon encima una vaporera o colador tapado y cuece rodaballo y espárragos al vapor 6-7 min.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "premium"
 });
 
@@ -1016,7 +1016,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "4 filetes finos" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "4 filetes finos" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "queso feta", q: 50, u: "g" },
     { n: "ajo", q: 1, u: "diente" },
@@ -1070,7 +1070,7 @@ window.RECETAS_SEED.push({
     { n: "avellanas", q: 20, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta blanca", u: "al gusto" }
   ],

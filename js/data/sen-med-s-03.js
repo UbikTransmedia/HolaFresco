@@ -360,7 +360,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 600, u: "g", nota: "troceada, con hueso" },
+    { n: "paletilla de cordero", q: 600, u: "g", nota: "troceada, con hueso" },
     { n: "patata", q: 500, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "tomate cherry", q: 200, u: "g" },
@@ -406,7 +406,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 350, u: "g", nota: "2 filetes gruesos" },
+    { n: "pechuga de pollo", q: 350, u: "g", nota: "2 filetes gruesos" },
     { n: "mozzarella", q: 80, u: "g" },
     { n: "tomate seco en aceite", q: 30, u: "g" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 350, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 350, u: "g", nota: "en filetes finos" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "vino dulce", q: 80, u: "ml", nota: "Marsala, moscatel u oloroso dulce" },
     { n: "naranja", q: 1, u: "ud" },
@@ -972,7 +972,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "champiñones", q: 400, u: "g" },
-    { n: "setas deshidratadas", q: 10, u: "g", nota: "boletus" },
+    { n: "setas secas", q: 10, u: "g", nota: "boletus" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },

@@ -163,7 +163,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "alubias rojas cocidas", q: 400, u: "g", nota: "escurridas" },
-    { n: "cerdo (paleta)", q: 220, u: "g", nota: "en dados de 3 cm" },
+    { n: "paleta de cerdo", q: 220, u: "g", nota: "en dados de 3 cm" },
     { n: "leche de coco", q: 160, u: "ml" },
     { n: "cebolleta", q: 3, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -208,7 +208,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 450, u: "g", nota: "deshuesados y sin piel, en trozos" },
+    { n: "contramuslos de pollo", q: 450, u: "g", nota: "deshuesados y sin piel, en trozos" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -258,7 +258,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "en tiras finas" },
+    { n: "pierna de cordero deshuesada", q: 300, u: "g", nota: "en tiras finas" },
     { n: "maicena", q: 1, u: "cda" },
     { n: "azúcar", q: 0.5, u: "cdta" },
     { n: "comino en grano", q: 2, u: "cdta" },
@@ -306,7 +306,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "batidora"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y piel, 4 piezas" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con hueso y piel, 4 piezas" },
     { n: "patata", q: 400, u: "g" },
     { n: "limón", q: 2, u: "ud" },
     { n: "ajo", q: 7, u: "diente" },
@@ -402,7 +402,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 500, u: "g", nota: "troceada pequeña, con algo de hueso" },
+    { n: "paletilla de cordero", q: 500, u: "g", nota: "troceada pequeña, con algo de hueso" },
     { n: "ajo", q: 6, u: "diente" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -492,7 +492,7 @@ window.RECETAS_SEED.push({
   equipo: ["batidora", "cazuela", "sartén"],
   raciones: 3,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g", nota: "en dados de 4 cm, con algo de grasa" },
+    { n: "paleta de cerdo", q: 400, u: "g", nota: "en dados de 4 cm, con algo de grasa" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "lima", q: 2, u: "ud" },
     { n: "pimiento verde", q: 0.5, u: "ud" },
@@ -541,7 +541,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "lomo de cerdo en pieza", q: 400, u: "g", nota: "con su capa de grasa" },
+    { n: "lomo de cerdo", q: 400, u: "g", nota: "con su capa de grasa" },
     { n: "patata", q: 500, u: "g" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "romero fresco", q: 3, u: "rama" },
@@ -949,7 +949,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en tiras" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en tiras" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "lechuga romana", q: 1, u: "ud" },
@@ -1001,7 +1001,7 @@ window.RECETAS_SEED.push({
     { n: "granada", q: 1, u: "ud" },
     { n: "rúcula", q: 60, u: "g" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
-    { n: "semillas de calabaza", q: 30, u: "g" },
+    { n: "pipas de calabaza", q: 30, u: "g" },
     { n: "zumaque", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "limón", q: 1, u: "ud" },
@@ -1132,7 +1132,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y piel" },
     { n: "arroz jazmín", q: 150, u: "g" },
     { n: "cúrcuma molida", q: 1, u: "cdta" },
     { n: "jengibre fresco", q: 30, u: "g" },
@@ -1181,7 +1181,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (muslo deshuesado)", q: 350, u: "g", nota: "en dados" },
+    { n: "muslo de pavo deshuesado", q: 350, u: "g", nota: "en dados" },
     { n: "arroz redondo", q: 160, u: "g", nota: "bomba o senia" },
     { n: "níscalos", q: 250, u: "g", nota: "o setas variadas" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -1233,7 +1233,7 @@ window.RECETAS_SEED.push({
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "azúcar", q: 1, u: "pizca" },
-    { n: "semillas de calabaza", q: 30, u: "g" },
+    { n: "pipas de calabaza", q: 30, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pimienta negra", u: "al gusto" },
@@ -1270,7 +1270,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "costilla de cerdo", q: 500, u: "g", nota: "troceada en piezas de 4 cm" },
+    { n: "costillas de cerdo", q: 500, u: "g", nota: "troceada en piezas de 4 cm" },
     { n: "rábano daikon", q: 500, u: "g", nota: "o nabo blanco" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "jengibre fresco", q: 30, u: "g" },
@@ -1354,9 +1354,9 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 380, u: "g", nota: "en dados de 4 cm" },
-    { n: "chile guajillo seco", q: 4, u: "ud", nota: "o chile seco de Nuevo México" },
-    { n: "chile ancho seco", q: 2, u: "ud" },
+    { n: "paleta de cerdo", q: 380, u: "g", nota: "en dados de 4 cm" },
+    { n: "chile guajillo", q: 4, u: "ud", nota: "o chile seco de Nuevo México" },
+    { n: "chile ancho", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "comino molido", q: 1, u: "cdta" },

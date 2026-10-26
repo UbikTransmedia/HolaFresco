@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 320, u: "g", nota: "en tacos de 3 cm" },
+    { n: "paleta de cerdo", q: 320, u: "g", nota: "en tacos de 3 cm" },
     { n: "tomate triturado", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -111,7 +111,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 320, u: "g", nota: "de morcillo o redondo, en filetes muy finos" },
+    { n: "filetes finos de ternera", q: 320, u: "g", nota: "de morcillo o redondo, en filetes muy finos" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "setas variadas", q: 200, u: "g", nota: "idealmente moixernons o rebozuelos" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -354,7 +354,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en filetes gruesos o tacos" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en filetes gruesos o tacos" },
     { n: "arroz redondo", q: 120, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes" },
     { n: "champiñones", q: 250, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -530,7 +530,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "deshuesados y sin piel" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -575,7 +575,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (muslo deshuesado)", q: 320, u: "g", nota: "sin piel, en tacos" },
+    { n: "muslo de pavo deshuesado", q: 320, u: "g", nota: "sin piel, en tacos" },
     { n: "patata", q: 300, u: "g" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (redondo)", q: 450, u: "g", nota: "una pieza atada; sobrará para otro día" },
+    { n: "redondo de ternera", q: 450, u: "g", nota: "una pieza atada; sobrará para otro día" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 3, u: "ud" },
     { n: "puerro", q: 1, u: "ud" },
@@ -708,7 +708,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel, en trozos" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel, en trozos" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
@@ -892,7 +892,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla deshuesada)", q: 330, u: "g", nota: "en tacos de 4 cm" },
+    { n: "paletilla de cordero deshuesada", q: 330, u: "g", nota: "en tacos de 4 cm" },
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1026,7 +1026,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "picada (pídela picada en la carnicería)" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "picada (pídela picada en la carnicería)" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "pan rallado", q: 25, u: "g" },
     { n: "leche", q: 20, u: "ml" },

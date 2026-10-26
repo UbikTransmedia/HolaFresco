@@ -215,7 +215,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "paletilla de cordero", q: 350, u: "g", nota: "deshuesada y sin el exceso de grasa" },
-    { n: "membrillo fresco", q: 1, u: "ud", nota: "unos 300 g" },
+    { n: "membrillo", q: 1, u: "ud", nota: "unos 300 g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "guisantes partidos", q: 40, u: "g", nota: "amarillos" },
     { n: "ciruelas pasas", q: 50, u: "g" },
@@ -262,11 +262,11 @@ window.RECETAS_SEED.push({
   equipo: ["slow-cooker", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g" },
+    { n: "paleta de cerdo", q: 400, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "manzana", q: 2, u: "ud", nota: "reineta o golden" },
     { n: "cebolla", q: 1, u: "ud" },
-    { n: "sidra natural", q: 330, u: "ml", nota: "seca" },
+    { n: "sidra", q: 330, u: "ml", nota: "seca" },
     { n: "nata para cocinar", q: 100, u: "ml" },
     { n: "mostaza de Dijon", q: 1, u: "cda" },
     { n: "maicena", q: 1, u: "cdta" },
@@ -307,7 +307,7 @@ window.RECETAS_SEED.push({
   equipo: ["slow-cooker", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con hueso y sin piel" },
     { n: "patata", q: 350, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -408,7 +408,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "tomate triturado", q: 200, u: "g" },
-    { n: "orejones", q: 50, u: "g" },
+    { n: "orejones de albaricoque", q: 50, u: "g" },
     { n: "ras el hanout", q: 2, u: "cdta" },
     { n: "canela molida", q: 0.5, u: "cdta" },
     { n: "caldo de verduras", q: 600, u: "ml" },
@@ -597,7 +597,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "cebada perlada", q: 80, u: "g" },
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "champiñones", q: 150, u: "g" },
     { n: "boletus secos", q: 10, u: "g" },
     { n: "patata", q: 250, u: "g" },
@@ -870,7 +870,7 @@ window.RECETAS_SEED.push({
   equipo: ["bol", "tabla"],
   raciones: 2,
   ingredientes: [
-    { n: "alubias carillas cocidas", q: 400, u: "g" },
+    { n: "alubias carilla cocidas", q: 400, u: "g" },
     { n: "sardinas en conserva", q: 1, u: "lata", nota: "en aceite, unos 120 g" },
     { n: "aguacate", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
@@ -1267,7 +1267,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "tomate pera", q: 4, u: "ud" },
-    { n: "almendras crudas", q: 40, u: "g", nota: "peladas" },
+    { n: "almendras", q: 40, u: "g", nota: "peladas" },
     { n: "pan", q: 60, u: "g", nota: "del día anterior" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "vinagre de vino", q: 2, u: "cda", nota: "mejor de Jerez" },
@@ -1309,7 +1309,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pepino", q: 2, u: "ud" },
-    { n: "alga wakame", q: 8, u: "g", nota: "seca" },
+    { n: "alga wakame deshidratada", q: 8, u: "g", nota: "seca" },
     { n: "gambas cocidas", q: 250, u: "g", nota: "peladas" },
     { n: "tofu firme", q: 200, u: "g" },
     { n: "salsa de soja", q: 3, u: "cda" },

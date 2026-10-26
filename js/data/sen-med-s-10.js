@@ -30,7 +30,7 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceitunas negras", q: 40, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
-    { n: "vinagre de jerez", q: 1, u: "cda" },
+    { n: "vinagre de Jerez", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -328,7 +328,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 300, u: "g", nota: "filetes finos de babilla o tapa" },
+    { n: "filetes de ternera", q: 300, u: "g", nota: "filetes finos de babilla o tapa" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos deshuesados)", q: 400, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo deshuesados", q: 400, u: "g", nota: "sin piel" },
     { n: "apio", q: 2, u: "rama" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en filetes finos" },
     { n: "tomate seco en aceite", q: 50, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "piñones", q: 20, u: "g" },
@@ -802,7 +802,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cogollo", q: 3, u: "ud" },
+    { n: "cogollos de lechuga", q: 3, u: "ud" },
     { n: "langostinos pelados", q: 250, u: "g" },
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "aceitunas negras", q: 40, u: "g" },
@@ -846,7 +846,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "mezze maniche", q: 160, u: "g", nota: "o macarrones" },
-    { n: "salchicha fresca", q: 170, u: "g", nota: "2-3 salchichas de cerdo" },
+    { n: "salchichas frescas", q: 170, u: "g", nota: "2-3 salchichas de cerdo" },
     { n: "guisantes congelados", q: 200, u: "g" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "gnocchi de patata", q: 500, u: "g" },
+    { n: "ñoquis de patata", q: 500, u: "g" },
     { n: "rúcula", q: 80, u: "g" },
     { n: "almendras", q: 30, u: "g" },
     { n: "parmesano", q: 40, u: "g" },

@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "za'atar", q: 2, u: "cda" },
     { n: "bulgur", q: 80, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
@@ -64,7 +64,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "salmón fresco (lomos)", q: 280, u: "g", nota: "sin piel ni espinas, previamente congelado 48 h si va crudo" },
-    { n: "arroz para sushi", q: 140, u: "g" },
+    { n: "arroz japonés", q: 140, u: "g" },
     { n: "vinagre de arroz", q: 3, u: "cda" },
     { n: "azúcar", q: 1, u: "cda" },
     { n: "salsa de soja", q: 3, u: "cda" },
@@ -201,7 +201,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "chipotle en adobo", q: 1, u: "cda", nota: "picado, con su salsa" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
@@ -425,7 +425,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "col lombarda", q: 300, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -437,7 +437,7 @@ window.RECETAS_SEED.push({
     { n: "mayonesa", q: 1, u: "cda" },
     { n: "vinagre de manzana", q: 2, u: "cda" },
     { n: "miel", q: 1, u: "cdta" },
-    { n: "semillas de calabaza", q: 15, u: "g" },
+    { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -606,7 +606,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 300, u: "g", nota: "entrecot o cadera, de 2,5 cm de grosor" },
+    { n: "filetes de ternera", q: 300, u: "g", nota: "entrecot o cadera, de 2,5 cm de grosor" },
     { n: "salsa de pescado", q: 2, u: "cda" },
     { n: "lima", q: 2, u: "ud" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
@@ -928,7 +928,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g" },
     { n: "yogur natural", q: 250, u: "g" },
     { n: "garam masala", q: 2, u: "cdta" },
     { n: "cúrcuma molida", q: 1, u: "cdta" },
@@ -1025,7 +1025,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "judías blancas secas", q: 160, u: "g", nota: "en remojo desde la víspera (12 h)" },
     { n: "laurel", q: 1, u: "hoja" },
-    { n: "bacalao desalado (lomos)", q: 250, u: "g", nota: "en su punto de sal" },
+    { n: "bacalao desalado", q: 250, u: "g", nota: "en su punto de sal" },
     { n: "tomate", q: 3, u: "ud", nota: "maduros" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -1129,7 +1129,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "sirope de arce", q: 1, u: "cdta" },
-    { n: "semillas de calabaza", q: 15, u: "g" },
+    { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },

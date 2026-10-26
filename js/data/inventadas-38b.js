@@ -18,7 +18,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g", nota: "con piel" },
+    { n: "bacalao desalado", q: 300, u: "g", nota: "con piel" },
     { n: "patata", q: 400, u: "g", nota: "en rodajas de 5 mm" },
     { n: "pimientos de Padrón", q: 120, u: "g" },
     { n: "ajo", q: 4, u: "diente" },
@@ -153,7 +153,7 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 100, u: "ml" },
     { n: "tomate triturado", q: 100, u: "g" },
     { n: "tomate concentrado", q: 1, u: "cda" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "yogur natural", q: 125, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
@@ -289,7 +289,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "arroz largo", q: 140, u: "g" },
     { n: "alubias negras cocidas", q: 240, u: "g", nota: "escurridas" },
     { n: "aguacate", q: 1, u: "ud" },
@@ -336,7 +336,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 600, u: "g", nota: "2 grandes" },
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "tomate concentrado", q: 2, u: "cda" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "miel", q: 1, u: "cda" },
@@ -383,7 +383,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g", nota: "abierta en libro" },
+    { n: "pechuga de pollo", q: 280, u: "g", nota: "abierta en libro" },
     { n: "cuscús", q: 120, u: "g", nota: "integral" },
     { n: "caldo de pollo", q: 130, u: "ml" },
     { n: "berenjena", q: 1, u: "ud", nota: "unos 300 g" },
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "alcachofas", q: 6, u: "ud" },
+    { n: "alcachofa", q: 6, u: "ud" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ricotta", q: 200, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
@@ -536,7 +536,7 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1.5, u: "cda" },
     { n: "queso cheddar", q: 60, u: "g", nota: "rallado" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "cebollino fresco", q: 0.25, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
@@ -933,7 +933,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 240, u: "g" },
+    { n: "caballa fresca", q: 240, u: "g" },
     { n: "arroz redondo", q: 140, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "vinagre de arroz", q: 2, u: "cda" },

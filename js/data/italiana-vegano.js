@@ -365,7 +365,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fregola", q: 160, u: "g", nota: "o cuscús perlado si no la encuentras" },
-    { n: "alcachofas", q: 4, u: "ud", nota: "grandes y prietas" },
+    { n: "alcachofa", q: 4, u: "ud", nota: "grandes y prietas" },
     { n: "limón", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -497,7 +497,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "canelones (placas)", q: 10, u: "ud" },
+    { n: "placas de canelones", q: 10, u: "ud" },
     { n: "tofu firme", q: 300, u: "g" },
     { n: "espinacas congeladas", q: 300, u: "g" },
     { n: "levadura nutricional", q: 3, u: "cda" },

@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos secos", q: 150, u: "g", nota: "en remojo desde la víspera" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "con hueso" },
     { n: "ternera para guisar", q: 150, u: "g", nota: "morcillo" },
     { n: "panceta", q: 60, u: "g", nota: "o tocino" },
     { n: "huesos de ternera", q: 200, u: "g", nota: "de caña o rodilla" },
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "callos de ternera cocidos", q: 350, u: "g", nota: "limpios y precocidos, de la carnicería" },
+    { n: "callos de ternera", q: 350, u: "g", nota: "limpios y precocidos, de la carnicería" },
     { n: "garbanzos cocidos", q: 300, u: "g" },
     { n: "chorizo", q: 80, u: "g" },
     { n: "jamón serrano", q: 50, u: "g", nota: "en taquitos" },
@@ -702,7 +702,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g" },
-    { n: "cerdo (paleta)", q: 200, u: "g", nota: "en dados" },
+    { n: "paleta de cerdo", q: 200, u: "g", nota: "en dados" },
     { n: "chorizo", q: 60, u: "g" },
     { n: "patata", q: 2, u: "ud" },
     { n: "pasta", q: 60, u: "g", nota: "fideos gruesos" },
@@ -746,7 +746,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "deshuesados" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "deshuesados" },
     { n: "patata", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
@@ -869,7 +869,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "alubias pintas cocidas", q: 300, u: "g" },
     { n: "arroz redondo", q: 100, u: "g" },
-    { n: "bacalao desalado (lomos)", q: 200, u: "g", nota: "en migas o trozos" },
+    { n: "bacalao desalado", q: 200, u: "g", nota: "en migas o trozos" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },

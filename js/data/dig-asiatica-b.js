@@ -3,7 +3,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 /* Recetas INVENTADAS de FÁCIL DIGESTIÓN de cocina ASIÁTICA (bloque dig-asiatica-b: inv-3965 a inv-3989).
    Verduras, proteína vegetal, ensaladas, arroces y fideos, y sopas de China, Japón, Corea y Hong Kong, bajas en
    FODMAP para intestino irritable e hinchazón: tamari en lugar de salsa de soja con trigo, miso solo en poca cantidad,
-   dashi casero de kombu y bonito, sin ajo ni cebolla (aceite de ajo, parte verde de la cebolleta, cebollino, jengibre),
+   dashi casero de kombu y bonito, sin ajo ni cebolla (aceite de oliva, parte verde de la cebolleta, cebollino, jengibre),
    sin setas, sin legumbres salvo tofu firme y tempeh, fideos de arroz o soba 100 % trigo sarraceno, sin kimchi ni
    picante, sin sake ni mirin, sin fritos y con 25 g de grasa por ración como máximo. Algo más de la mitad son clásicos
    adaptados sin perder su alma (soboro-an de kabocha, cu liu bai cai, gamja jorim, niang doufu, shira-ae, rei-shabu,
@@ -24,7 +24,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "calabaza japonesa (kabocha)", q: 500, u: "g", nota: "limpia de semillas" },
+    { n: "calabaza japonesa", q: 500, u: "g", nota: "limpia de semillas" },
     { n: "pollo picado", q: 200, u: "g", nota: "mejor de muslo, sin piel" },
     { n: "alga kombu", q: 5, u: "g", nota: "un trozo de unos 10 cm" },
     { n: "copos de bonito seco", q: 10, u: "g" },
@@ -71,7 +71,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "col china", q: 600, u: "g" },
     { n: "jengibre fresco", q: 15, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "vinagre de arroz", q: 3, u: "cda" },
     { n: "tamari", q: 1.5, u: "cda" },
@@ -88,13 +88,13 @@ window.RECETAS_SEED.push({
     "Mientras se hace el arroz, separa las hojas de la col. Corta las pencas blancas al bies en láminas de 1 cm, con el cuchillo inclinado: así tienen más superficie y se hacen a la vez que las hojas. Trocea la parte verde de las hojas a mano en trozos de 5 cm y guárdalas aparte.",
     "Mezcla en un vaso el tamari, el azúcar, la maicena y 2 cucharadas de agua. Pela el jengibre y córtalo en bastoncitos finos, y corta la cebolleta en aros.",
     "Tuesta los cacahuetes en el wok seco a fuego medio 3-4 minutos, moviéndolos, hasta que huelan y tengan puntos dorados. Sácalos y pícalos groseramente.",
-    "Calienta el wok a fuego fuerte con el aceite de girasol y el aceite de ajo. Añade el jengibre, remueve 20 segundos y echa las pencas. Saltea 3 minutos, hasta que los bordes estén translúcidos.",
+    "Calienta el wok a fuego fuerte con el aceite de girasol y el aceite de oliva. Añade el jengibre, remueve 20 segundos y echa las pencas. Saltea 3 minutos, hasta que los bordes estén translúcidos.",
     "Incorpora las hojas y saltea 1 minuto. Vierte el vinagre por las paredes del wok, no por encima de la col: al tocar el metal caliente chisporrotea y suelta su aroma, y lo ácido se suaviza. Añade la mezcla de tamari y remueve 1-2 minutos, hasta que la salsa brille y envuelva las pencas, que deben quedar tiernas.",
     "Apaga, mezcla con la cebolleta y sirve enseguida sobre el arroz, con los cacahuetes por encima."
   ],
   nutricion: { kcal: 505, prot: 14, hc: 74, grasa: 17 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "rápida", "poco especiada", "bajo en colesterol", "económica"],
-  consejo: "En el norte de China se hace con vinagre añejo de Shanxi, que suele llevar trigo o cebada, y con ajo picado; el vinagre de arroz y el aceite de ajo mantienen el carácter del plato sin gluten ni fructanos. La col china, a diferencia del repollo, se tolera bien incluso en ración generosa en la dieta baja en FODMAP. Si notas que lo ácido te sienta mal, reduce el vinagre a 2 cucharadas y añade el resto al gusto en la mesa.",
+  consejo: "En el norte de China se hace con vinagre añejo de Shanxi, que suele llevar trigo o cebada, y con ajo picado; el vinagre de arroz mantiene el carácter del plato sin gluten ni fructanos. La col china, a diferencia del repollo, se tolera bien incluso en ración generosa en la dieta baja en FODMAP. Si notas que lo ácido te sienta mal, reduce el vinagre a 2 cucharadas y añade el resto al gusto en la mesa.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -121,7 +121,7 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 3, u: "cda" },
     { n: "azúcar moreno", q: 1.5, u: "cda" },
     { n: "aceite de girasol", q: 2, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "aceite de sésamo", q: 1.5, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "espinacas frescas", q: 300, u: "g" },
@@ -132,7 +132,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir una cazuela con agua y sal. Mientras, pela las patatas y córtalas en dados de 2 cm; déjalas 10 minutos en agua fría para quitarles el almidón de la superficie (así no se pegan ni se rompen al glasearlas). Corta la zanahoria en dados del mismo tamaño y el pimiento en cuadrados de 2 cm.",
     "Cuando hierva el agua, cuece los huevos 9 minutos desde que vuelva a hervir, sácalos a agua fría y pélalos. Aparta la cazuela con su agua: servirá para las espinacas.",
-    "Calienta el aceite de girasol y el aceite de ajo en una sartén honda a fuego medio y rehoga la patata escurrida y la zanahoria 4 minutos, hasta que los bordes de la patata se vean translúcidos.",
+    "Calienta el aceite de girasol y el aceite de oliva en una sartén honda a fuego medio y rehoga la patata escurrida y la zanahoria 4 minutos, hasta que los bordes de la patata se vean translúcidos.",
     "Añade los 300 ml de agua, el tamari y el azúcar moreno. Cuando hierva, baja a fuego medio-bajo y cuece sin tapar 15 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna y el líquido se haya reducido a un tercio. Mientras, vuelve a poner al fuego el agua de los huevos y pica la cebolleta.",
     "Añade el pimiento y los huevos pelados, sube el fuego y mueve la sartén 3-4 minutos, rodando los huevos, hasta que la salsa se convierta en un almíbar oscuro que lo lacee todo. Apaga y añade 1 cucharadita de aceite de sésamo y la mitad del sésamo.",
     "Para el namul, escalda las espinacas 30 segundos en el agua hirviendo, pásalas a agua fría y escúrrelas apretando con fuerza entre las manos. Córtalas en trozos de 5 cm y alíñalas con el resto del aceite de sésamo, la cebolleta, el resto del sésamo machacado entre los dedos y una pizca de sal.",
@@ -140,7 +140,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 540, prot: 26, hc: 54, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "ideal para llevar"],
-  consejo: "En Corea el gamja jorim se endulza con sirope de maíz o de arroz y el namul lleva ajo crudo; el azúcar moreno y el aceite de ajo los sustituyen sin fructanos. La patata, el pimiento verde y las espinacas son libres en la dieta baja en FODMAP, y escaldar las espinacas y escurrirlas bien las hace mucho más ligeras que crudas. Las patatas aguantan 3 días en la nevera y se comen frías o templadas, como en las fiambreras coreanas.",
+  consejo: "En Corea el gamja jorim se endulza con sirope de maíz o de arroz y el namul lleva ajo crudo; el azúcar moreno sustituye al sirope y el namul va sin ajo, sin fructanos. La patata, el pimiento verde y las espinacas son libres en la dieta baja en FODMAP, y escaldar las espinacas y escurrirlas bien las hace mucho más ligeras que crudas. Las patatas aguantan 3 días en la nevera y se comen frías o templadas, como en las fiambreras coreanas.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "tofu firme", q: 200, u: "g" },
     { n: "tempeh", q: 150, u: "g" },
-    { n: "nabo daikon", q: 150, u: "g" },
+    { n: "rábano daikon", q: 150, u: "g" },
     { n: "patata", q: 250, u: "g", nota: "pequeñas, de carne firme" },
     { n: "zanahoria", q: 150, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
@@ -434,7 +434,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "lomo de cerdo en lonchas finas", q: 250, u: "g", nota: "de 2 mm, sin grasa visible" },
+    { n: "filetes de lomo de cerdo", q: 250, u: "g", nota: "de 2 mm, sin grasa visible" },
     { n: "lechuga romana", q: 150, u: "g" },
     { n: "pepino", q: 200, u: "g" },
     { n: "tomate", q: 300, u: "g" },
@@ -490,8 +490,7 @@ window.RECETAS_SEED.push({
     { n: "azúcar", q: 1.5, u: "cdta" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "sésamo", q: 2, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
@@ -499,7 +498,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua. Hidrata la wakame en agua fría 5 minutos y escúrrela. Cuece los fideos en el agua hirviendo el tiempo del paquete (unos 3-4 minutos), pásalos por agua fría y escúrrelos bien.",
-    "Prepara el aliño: ralla el jengibre y mézclalo con el vinagre, el tamari, el azúcar, el aceite de sésamo y el aceite de ajo hasta que el azúcar se disuelva.",
+    "Prepara el aliño: ralla el jengibre y mézclalo con el vinagre, el tamari, el azúcar, el aceite de sésamo y el aceite de oliva hasta que el azúcar se disuelva.",
     "Corta el pepino y la zanahoria en bastones finos, el rábano en láminas y la lechuga en tiras. Corta la cebolleta en hebras.",
     "Abre los tubos del calamar, haz cortes cruzados en la cara interior sin llegar a atravesarlos y córtalos en piezas de 4 cm. Sécalos muy bien con papel de cocina.",
     "Calienta la plancha a fuego fuerte con el aceite de oliva. Marca el calamar y las patas 1 minuto por cada lado, con una pizca de sal, hasta que las piezas se enrosquen y estén blancas: si se pasa, se endurece.",
@@ -507,7 +506,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 510, prot: 38, hc: 61, grasa: 12 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "alta en proteína", "verano", "poco especiada"],
-  consejo: "El muchim coreano lleva guindilla en polvo, pasta de chile y ajo crudo; aquí el jengibre y el aceite de ajo aportan la chispa sin irritar. El calamar se tolera mejor cuanto más tierno: o muy poco tiempo a fuego fuerte, o mucho tiempo guisado; nunca en el punto intermedio, que lo vuelve gomoso. Pepino, rábano, zanahoria y lechuga son verduras libres en la dieta baja en FODMAP, pero si las crudas te hinchan, escalda la zanahoria 1 minuto.",
+  consejo: "El muchim coreano lleva guindilla en polvo, pasta de chile y ajo crudo; aquí el jengibre y el aceite de oliva aportan la chispa sin irritar. El calamar se tolera mejor cuanto más tierno: o muy poco tiempo a fuego fuerte, o mucho tiempo guisado; nunca en el punto intermedio, que lo vuelve gomoso. Pepino, rábano, zanahoria y lechuga son verduras libres en la dieta baja en FODMAP, pero si las crudas te hinchan, escalda la zanahoria 1 minuto.",
   tupper: false,
   contundencia: "media",
   coste: "media"
@@ -619,7 +618,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "arroz japonés", q: 160, u: "g" },
     { n: "alga nori", q: 4, u: "hoja" },
-    { n: "caballa (filetes)", q: 250, u: "g", nota: "sin espinas" },
+    { n: "caballa fresca", q: 250, u: "g", nota: "sin espinas" },
     { n: "tamari", q: 1.5, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "jengibre fresco", q: 10, u: "g" },
@@ -711,7 +710,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos soba de trigo sarraceno", q: 160, u: "g", nota: "100 % trigo sarraceno (juwari)" },
-    { n: "nabo daikon", q: 150, u: "g" },
+    { n: "rábano daikon", q: 150, u: "g" },
     { n: "alga kombu", q: 5, u: "g" },
     { n: "copos de bonito seco", q: 20, u: "g" },
     { n: "agua", q: 400, u: "ml", nota: "más la de cocer la soba" },
@@ -752,7 +751,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de arroz anchos", q: 180, u: "g", nota: "secos" },
-    { n: "ternera (babilla)", q: 220, u: "g" },
+    { n: "babilla de ternera", q: 220, u: "g" },
     { n: "bicarbonato", q: 1, u: "pizca" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "tamari", q: 3, u: "cda" },
@@ -796,7 +795,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz glutinoso", q: 160, u: "g", nota: "en remojo 4 horas o la noche anterior" },
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g", nota: "sin piel" },
     { n: "zanahoria", q: 100, u: "g" },
     { n: "tamari", q: 2.5, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
@@ -846,7 +845,7 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 3, u: "cda" },
     { n: "jengibre fresco", q: 5, u: "g" },
     { n: "aceite de sésamo", q: 2, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 15, u: "g" },
@@ -859,12 +858,12 @@ window.RECETAS_SEED.push({
     "Lava los brotes de soja y escúrrelos bien.",
     "En una cazuela de fondo grueso con buena tapa, pon el arroz con 170 ml de agua (menos de lo habitual, porque los brotes sueltan líquido). Reparte el cerdo desmenuzado por encima y cubre con los brotes.",
     "Tapa y lleva a ebullición a fuego medio-alto, unos 5 minutos; después baja al mínimo y cuece 15 minutos. No levantes la tapa en ningún momento: en Corea se dice que, si se destapa a medias, los brotes cogen un olor a crudo. Mientras, pica el cebollino y corta la cebolleta en aros finos.",
-    "Apaga y deja reposar tapado 10 minutos. Mientras, prepara la salsa: tuesta el sésamo en una sartén seca y machácalo un poco; mézclalo con el resto del tamari, el aceite de ajo, el resto del aceite de sésamo, el azúcar, 1 cucharada de agua, el cebollino y la cebolleta.",
+    "Apaga y deja reposar tapado 10 minutos. Mientras, prepara la salsa: tuesta el sésamo en una sartén seca y machácalo un poco; mézclalo con el resto del tamari, el aceite de oliva, el resto del aceite de sésamo, el azúcar, 1 cucharada de agua, el cebollino y la cebolleta.",
     "Destapa, mezcla con cuidado el arroz con los brotes y el cerdo, sirve en cuencos y que cada uno añada la salsa a su gusto."
   ],
   nutricion: { kcal: 540, prot: 24, hc: 75, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica"],
-  consejo: "En Corea se hace con brotes de soja amarilla (kongnamul); aquí se usan los brotes de judía mungo que se venden en cualquier supermercado, que son libres en la dieta baja en FODMAP y quedan igual de crujientes y jugosos. La salsa coreana lleva ajo crudo picado y guindilla en polvo: el aceite de ajo da el aroma sin fructanos. Es un plato de una sola olla, muy suave y saciante con poca grasa.",
+  consejo: "En Corea se hace con brotes de soja amarilla (kongnamul); aquí se usan los brotes de judía mungo que se venden en cualquier supermercado, que son libres en la dieta baja en FODMAP y quedan igual de crujientes y jugosos. La salsa coreana lleva ajo crudo picado y guindilla en polvo: aquí se prescinde del ajo para evitar los fructanos. Es un plato de una sola olla, muy suave y saciante con poca grasa.",
   tupper: false,
   contundencia: "media",
   coste: "económica"
@@ -926,7 +925,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pastel de arroz coreano (tteok)", q: 250, u: "g", nota: "en rodajas ovaladas, solo de arroz" },
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g", nota: "sin piel" },
     { n: "agua", q: 1000, u: "ml" },
     { n: "alga kombu", q: 5, u: "g" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -935,7 +934,7 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "alga nori", q: 1, u: "hoja" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 0.5, u: "cdta" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "sal", u: "al gusto" }
@@ -943,7 +942,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Si los pasteles de arroz están refrigerados o congelados, sepáralos y déjalos en remojo en agua fría 20 minutos para que se cuezan por igual.",
     "Pon el pollo en una cazuela con el litro de agua, el kombu, el jengibre en láminas y la mitad de la cebolleta en trozos. Calienta, retira el kombu antes del hervor, desespuma y cuece a fuego suave 25 minutos. Saca el pollo, cuela el caldo y desmenuza la carne con dos tenedores.",
-    "Aliña el pollo desmenuzado con el aceite de sésamo, el aceite de ajo, una pizca de sal y pimienta.",
+    "Aliña el pollo desmenuzado con el aceite de sésamo, el aceite de oliva, una pizca de sal y pimienta.",
     "Separa las claras de las yemas y bátelas por separado con una pizca de sal. Unta una sartén antiadherente con el aceite de girasol usando papel y cuaja, a fuego bajo, una lámina fina de yema y otra de clara, 1 minuto por cada lado y sin que tomen color. Córtalas en tiras o en rombos.",
     "Lleva el caldo a ebullición y sazónalo con el tamari y sal al gusto. Añade los pasteles de arroz escurridos y cuécelos 4-6 minutos, hasta que suban a la superficie y estén tiernos pero elásticos: si se pasan, se deshacen y espesan la sopa.",
     "Tuesta la nori unos segundos sobre el fuego y desmenúzala.",
@@ -972,7 +971,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "tofu firme", q: 250, u: "g" },
-    { n: "nabo daikon", q: 150, u: "g" },
+    { n: "rábano daikon", q: 150, u: "g" },
     { n: "zanahoria", q: 150, u: "g" },
     { n: "patata", q: 200, u: "g" },
     { n: "chirivía", q: 100, u: "g" },
@@ -1016,11 +1015,11 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 250, u: "g", nota: "o migas de bacalao desalado" },
-    { n: "nabo daikon", q: 150, u: "g" },
+    { n: "bacalao desalado", q: 250, u: "g", nota: "o migas de bacalao desalado" },
+    { n: "rábano daikon", q: 150, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "aceite de sésamo", q: 2, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "alga kombu", q: 5, u: "g" },
     { n: "agua", q: 900, u: "ml", nota: "más la del arroz" },
     { n: "tamari", q: 1, u: "cda" },
@@ -1032,7 +1031,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y cuécelo con 165 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Desmenuza el bacalao en lascas con los dedos, quitando espinas y piel, y sécalo con papel. Pela el daikon y córtalo en láminas finas de unos 3 cm de lado.",
-    "Calienta el aceite de sésamo y el aceite de ajo en una cazuela a fuego medio y rehoga el bacalao 2 minutos, removiendo, hasta que esté blanco y huela a tostado. Añade el daikon y rehoga 2 minutos más.",
+    "Calienta el aceite de sésamo y el aceite de oliva en una cazuela a fuego medio y rehoga el bacalao 2 minutos, removiendo, hasta que esté blanco y huela a tostado. Añade el daikon y rehoga 2 minutos más.",
     "Vierte los 900 ml de agua con el kombu y hierve a fuego fuerte 5 minutos: el hervor vivo es lo que vuelve el caldo blanco y lechoso. Retira el kombu y sigue 10 minutos a fuego medio, hasta que el daikon esté translúcido. Mientras, corta la cebolleta en aros.",
     "Sazona con el tamari y prueba antes de añadir sal: el bacalao ya aporta la suya.",
     "Bate los huevos y viértelos en un hilo fino dando vueltas por la superficie. Espera 20 segundos sin tocar y remueve una sola vez con suavidad, para que queden hebras grandes.",
@@ -1040,7 +1039,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 470, prot: 34, hc: 53, grasa: 13 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "ligera", "de cuchara", "invierno"],
-  consejo: "En Corea se prepara con bugeo, abadejo de Alaska secado al aire, un pescado de la familia del bacalao: el bacalao desalado da una textura y un sabor muy parecidos. La versión clásica lleva ajo picado, que aquí sustituye el aceite de ajo. Es una sopa muy suave y reconfortante, pensada para asentar el estómago, y el daikon cocido, en unos 75 g por persona, es de las verduras mejor toleradas en la dieta baja en FODMAP.",
+  consejo: "En Corea se prepara con bugeo, abadejo de Alaska secado al aire, un pescado de la familia del bacalao: el bacalao desalado da una textura y un sabor muy parecidos. La versión clásica lleva ajo picado, que aquí se omite. Es una sopa muy suave y reconfortante, pensada para asentar el estómago, y el daikon cocido, en unos 75 g por persona, es de las verduras mejor toleradas en la dieta baja en FODMAP.",
   alternativa: "Si no encuentras daikon, usa nabo blanco (los mismos 150 g): da al caldo el mismo dulzor suave.",
   tupper: true,
   contundencia: "ligera",
@@ -1108,7 +1107,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "ternera picada", q: 200, u: "g", nota: "magra" },
-    { n: "clara de huevo", q: 3, u: "ud" },
+    { n: "claras de huevo", q: 3, u: "ud" },
     { n: "maicena", q: 2, u: "cda" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "jengibre fresco", q: 15, u: "g" },

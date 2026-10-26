@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "garbanzos secos", q: 150, u: "g", nota: "en remojo desde la víspera" },
     { n: "ternera para guisar", q: 200, u: "g", nota: "mejor morcillo" },
-    { n: "pollo (contramuslos)", q: 200, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 200, u: "g", nota: "con hueso" },
     { n: "panceta", q: 60, u: "g", nota: "en un trozo" },
     { n: "huesos de ternera", q: 300, u: "g", nota: "de caña o de rodilla" },
     { n: "zanahoria", q: 2, u: "ud" },
@@ -66,7 +66,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "garbanzos secos", q: 100, u: "g", nota: "en remojo desde la víspera" },
     { n: "ternera para guisar", q: 200, u: "g", nota: "morcillo o falda" },
-    { n: "pollo (contramuslos)", q: 200, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 200, u: "g", nota: "con hueso" },
     { n: "huesos de ternera", q: 300, u: "g" },
     { n: "butifarra", q: 1, u: "ud", nota: "fresca" },
     { n: "cerdo picado", q: 100, u: "g" },
@@ -293,7 +293,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 160, u: "g" },
+    { n: "bacalao desalado", q: 160, u: "g" },
     { n: "pan", q: 3, u: "rebanada", nota: "del día anterior" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "naranja", q: 1, u: "ud" },
@@ -413,7 +413,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 220, u: "g" },
+    { n: "bacalao desalado", q: 220, u: "g" },
     { n: "pan", q: 4, u: "rebanada", nota: "asentado, de 2 días" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "carne de pimiento choricero", q: 2, u: "cda" },
@@ -499,7 +499,7 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 1, u: "ud", nota: "mediana" },
     { n: "leche", q: 200, u: "ml" },
     { n: "caldo de verduras", q: 400, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "vinagre de vino", q: 1, u: "cda", nota: "para escalfar" },
     { n: "pan", q: 2, u: "rebanada" },
@@ -579,7 +579,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "conejo troceado", q: 300, u: "g" },
-    { n: "pollo (contramuslos)", q: 200, u: "g", nota: "con hueso, troceados" },
+    { n: "contramuslos de pollo", q: 200, u: "g", nota: "con hueso, troceados" },
     { n: "torta cenceña", q: 100, u: "g", nota: "torta de gazpacho, sin levadura" },
     { n: "setas variadas", q: 100, u: "g", opcional: true, nota: "níscalos si es temporada" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -625,7 +625,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "harina de trigo", q: 150, u: "g" },
-    { n: "bacalao desalado (lomos)", q: 200, u: "g" },
+    { n: "bacalao desalado", q: 200, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
@@ -667,7 +667,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo desde la víspera" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "con hueso" },
     { n: "panceta", q: 60, u: "g", nota: "en un trozo" },
     { n: "huesos de ternera", q: 200, u: "g" },
     { n: "cerdo picado", q: 150, u: "g" },
@@ -801,7 +801,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 200, u: "g", nota: "en dados" },
+    { n: "paleta de cerdo", q: 200, u: "g", nota: "en dados" },
     { n: "garbanzos cocidos", q: 250, u: "g" },
     { n: "chorizo", q: 60, u: "g" },
     { n: "patata", q: 2, u: "ud" },
@@ -969,7 +969,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "con hueso" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -978,7 +978,7 @@ window.RECETAS_SEED.push({
     { n: "leche", q: 200, u: "ml" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "jamón serrano", q: 30, u: "g", nota: "en taquitos" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta blanca", u: "al gusto" },
     { n: "agua", u: "al gusto" },

@@ -63,7 +63,7 @@ window.RECETAS_SEED.push({
   coccion: ["sin-fuego"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 300, u: "g", nota: "muy fresca y congelada previamente" },
+    { n: "corvina", q: 300, u: "g", nota: "muy fresca y congelada previamente" },
     { n: "lima", q: 4, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud" },
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
   coccion: ["sin-fuego"],
   raciones: 1,
   ingredientes: [
-    { n: "cogollo", q: 3, u: "ud" },
+    { n: "cogollos de lechuga", q: 3, u: "ud" },
     { n: "ventresca de bonito", q: 2, u: "lata", nota: "de 110 g, en aceite de oliva" },
     { n: "pimientos asados en conserva", q: 150, u: "g" },
     { n: "tomate", q: 2, u: "ud", nota: "tipo rosa, maduros" },
@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
   coccion: ["sin-fuego"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 200, u: "g", nota: "congelado previamente" },
+    { n: "bacalao desalado", q: 200, u: "g", nota: "congelado previamente" },
     { n: "pimientos asados en conserva", q: 300, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "aceitunas negras", q: 12, u: "ud" },
@@ -955,7 +955,7 @@ window.RECETAS_SEED.push({
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "col lombarda", q: 100, u: "g" },
     { n: "aguacate", q: 0.5, u: "ud" },
-    { n: "semillas de calabaza", q: 25, u: "g" },
+    { n: "pipas de calabaza", q: 25, u: "g" },
     { n: "tahini", q: 2, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "sirope de arce", q: 1, u: "cdta" },

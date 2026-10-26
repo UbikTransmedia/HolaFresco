@@ -148,7 +148,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "judías blancas cocidas", q: 400, u: "g" },
-    { n: "salchicha fresca", q: 200, u: "g" },
+    { n: "salchichas frescas", q: 200, u: "g" },
     { n: "tomate triturado", q: 200, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "salvia fresca", q: 6, u: "hoja" },
@@ -518,7 +518,7 @@ window.RECETAS_SEED.push({
     { n: "maíz pozolero cocido", q: 250, u: "g", nota: "o maíz blanco remojado y cocido" },
     { n: "judías blancas cocidas", q: 200, u: "g" },
     { n: "calabaza", q: 300, u: "g" },
-    { n: "cerdo (paleta)", q: 200, u: "g", nota: "en dados" },
+    { n: "paleta de cerdo", q: 200, u: "g", nota: "en dados" },
     { n: "chorizo", q: 80, u: "g" },
     { n: "panceta", q: 50, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -675,7 +675,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 300, u: "g" },
-    { n: "pollo (contramuslos)", q: 150, u: "g" },
+    { n: "contramuslos de pollo", q: 150, u: "g" },
     { n: "cerdo picado", q: 120, u: "g" },
     { n: "pan rallado", q: 30, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
@@ -843,7 +843,7 @@ window.RECETAS_SEED.push({
   raciones: 1,
   ingredientes: [
     { n: "garbanzos cocidos", q: 200, u: "g" },
-    { n: "pollo (contramuslos)", q: 150, u: "g" },
+    { n: "contramuslos de pollo", q: 150, u: "g" },
     { n: "fideos finos", q: 40, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -926,7 +926,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "lentejas pardinas secas", q: 100, u: "g" },
     { n: "arroz basmati", q: 80, u: "g" },
-    { n: "ternera (filete fino)", q: 160, u: "g" },
+    { n: "filetes finos de ternera", q: 160, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomate", q: 1, u: "ud" },
@@ -1011,7 +1011,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "alubias negras secas", q: 180, u: "g", nota: "en remojo desde la víspera" },
-    { n: "cerdo (paleta)", q: 300, u: "g", nota: "en trozos grandes" },
+    { n: "paleta de cerdo", q: 300, u: "g", nota: "en trozos grandes" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "tomate", q: 2, u: "ud" },

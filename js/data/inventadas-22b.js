@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pasta de ají amarillo", q: 2, u: "cda" },
@@ -63,7 +63,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "con o sin hueso, sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "con o sin hueso, sin piel" },
     { n: "lima", q: 1, u: "ud" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "ajo", q: 3, u: "diente" },
@@ -108,7 +108,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (redondo)", q: 450, u: "g", nota: "una pieza; sobrará para otro día" },
+    { n: "redondo de ternera", q: 450, u: "g", nota: "una pieza; sobrará para otro día" },
     { n: "azúcar moreno", q: 2, u: "cda", nota: "o papelón rallado" },
     { n: "salsa worcestershire", q: 1, u: "cda" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -195,7 +195,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g", nota: "en tacos grandes" },
+    { n: "pechuga de pollo", q: 320, u: "g", nota: "en tacos grandes" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "harina de trigo", q: 1, u: "cda" },
@@ -235,7 +235,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en filetes" },
     { n: "pimientos del piquillo", q: 150, u: "g" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -320,7 +320,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 300, u: "g" },
+    { n: "filetes finos de ternera", q: 300, u: "g" },
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -363,7 +363,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en tacos" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en tacos" },
     { n: "calabacín", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
@@ -496,7 +496,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 320, u: "g", nota: "en tacos de 4 cm" },
+    { n: "paleta de cerdo", q: 320, u: "g", nota: "en tacos de 4 cm" },
     { n: "castañas cocidas", q: 150, u: "g", nota: "peladas, envasadas" },
     { n: "setas variadas", q: 200, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -582,7 +582,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 400, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pavo", q: 400, u: "g", nota: "sin piel" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -625,7 +625,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 300, u: "g", nota: "2 filetes grandes y finos de tapa" },
+    { n: "filetes finos de ternera", q: 300, u: "g", nota: "2 filetes grandes y finos de tapa" },
     { n: "mostaza de Dijon", q: 1, u: "cda" },
     { n: "bacon", q: 4, u: "loncha" },
     { n: "pepinillos", q: 2, u: "ud" },
@@ -718,7 +718,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "sin piel" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -761,7 +761,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "sin piel, en trozos" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "sin piel, en trozos" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "judías verdes", q: 120, u: "g" },
     { n: "guisantes congelados", q: 100, u: "g" },
@@ -888,7 +888,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "sin piel, en trozos" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "sin piel, en trozos" },
     { n: "aceitunas verdes", q: 15, u: "ud", nota: "sin hueso" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
@@ -931,7 +931,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en tacos grandes" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en tacos grandes" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "patata", q: 250, u: "g" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -971,13 +971,13 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 320, u: "g", nota: "en tacos de 3 cm" },
+    { n: "paleta de cerdo", q: 320, u: "g", nota: "en tacos de 3 cm" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimentón dulce", q: 1.5, u: "cda" },
-    { n: "semillas de alcaravea", q: 0.5, u: "cdta", opcional: true },
+    { n: "alcaravea", q: 0.5, u: "cdta", opcional: true },
     { n: "agua", q: 300, u: "ml" },
     { n: "pasta corta", q: 120, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },

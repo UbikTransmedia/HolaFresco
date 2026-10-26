@@ -63,7 +63,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "deshuesados y sin piel, en trozos grandes" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "deshuesados y sin piel, en trozos grandes" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros" },
     { n: "ajo", q: 4, u: "diente" },
@@ -343,7 +343,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "tofu sedoso", q: 400, u: "g", nota: "o tofu blando, en dados de 2 cm" },
     { n: "cerdo picado", q: 120, u: "g" },
-    { n: "pasta de judía picante (doubanjiang)", q: 1.5, u: "cda", nota: "o 1 cda de gochujang" },
+    { n: "pasta de judía picante", q: 1.5, u: "cda", nota: "o 1 cda de gochujang" },
     { n: "pimienta de Sichuan", q: 1, u: "cdta", nota: "tostada y molida" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "jengibre fresco", q: 10, u: "g" },
@@ -386,7 +386,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 130, u: "g", nota: "o arroz para sushi" },
-    { n: "pollo (contramuslos)", q: 200, u: "g", nota: "deshuesados y sin piel, en trozos" },
+    { n: "contramuslos de pollo", q: 200, u: "g", nota: "deshuesados y sin piel, en trozos" },
     { n: "huevo", q: 4, u: "ud" },
     { n: "cebolla", q: 1, u: "ud", nota: "en plumas finas" },
     { n: "caldo de pollo", q: 150, u: "ml", nota: "o dashi" },
@@ -426,7 +426,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 200, u: "g", nota: "en tiras" },
+    { n: "filetes finos de ternera", q: 200, u: "g", nota: "en tiras" },
     { n: "patata", q: 400, u: "g", nota: "de carne firme" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -471,7 +471,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de boniato", q: 120, u: "g", nota: "dangmyeon, en tiendas asiáticas" },
-    { n: "ternera (filete fino)", q: 150, u: "g", nota: "en tiras finas" },
+    { n: "filetes finos de ternera", q: 150, u: "g", nota: "en tiras finas" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "zanahoria", q: 1, u: "ud", nota: "en bastones finos" },
     { n: "cebolla", q: 0.5, u: "ud", nota: "en plumas" },
@@ -518,7 +518,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "costilla de cerdo", q: 350, u: "g", nota: "en trozos" },
+    { n: "costillas de cerdo", q: 350, u: "g", nota: "en trozos" },
     { n: "pasta de tamarindo", q: 3, u: "cda" },
     { n: "tomate", q: 2, u: "ud", nota: "en cuartos" },
     { n: "cebolla", q: 1, u: "ud", nota: "en cuartos" },
@@ -602,7 +602,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de huevo", q: 160, u: "g" },
-    { n: "pollo (pechuga)", q: 150, u: "g", nota: "en tiras finas" },
+    { n: "pechuga de pollo", q: 150, u: "g", nota: "en tiras finas" },
     { n: "gambas peladas", q: 100, u: "g" },
     { n: "col china", q: 200, u: "g", nota: "en tiras" },
     { n: "zanahoria", q: 1, u: "ud", nota: "en bastones finos" },
@@ -823,7 +823,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "o contramuslo, en dados de 1,5 cm" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "o contramuslo, en dados de 1,5 cm" },
     { n: "cacahuetes", q: 40, u: "g", nota: "crudos o tostados sin sal" },
     { n: "guindilla seca", q: 6, u: "ud", nota: "cortadas por la mitad, sin semillas" },
     { n: "pimienta de Sichuan", q: 1, u: "cdta" },
@@ -869,7 +869,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "leche", q: 200, u: "ml" },
     { n: "limón", q: 1, u: "ud" },
     { n: "harina de trigo", q: 60, u: "g" },

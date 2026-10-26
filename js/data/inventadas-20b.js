@@ -148,7 +148,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados grandes" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados grandes" },
     { n: "bulgur", q: 140, u: "g", nota: "grueso" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -451,7 +451,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 450, u: "g", nota: "deshuesados, sin piel" },
+    { n: "contramuslos de pollo", q: 450, u: "g", nota: "deshuesados, sin piel" },
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "escurridas" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -497,7 +497,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "alcachofas", q: 6, u: "ud" },
+    { n: "alcachofa", q: 6, u: "ud" },
     { n: "patata", q: 300, u: "g", nota: "nuevas, pequeñas" },
     { n: "huevo", q: 4, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -722,7 +722,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "farro", q: 140, u: "g", nota: "semiperlado" },
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados, en trozos" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados, en trozos" },
     { n: "setas variadas", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -769,7 +769,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "ternera para guisar", q: 300, u: "g", nota: "en dados de 3 cm" },
-    { n: "alcachofas", q: 4, u: "ud", nota: "limpias y en cuartos" },
+    { n: "alcachofa", q: 4, u: "ud", nota: "limpias y en cuartos" },
     { n: "guisantes congelados", q: 150, u: "g" },
     { n: "patata", q: 200, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -911,7 +911,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "judías blancas secas", q: 150, u: "g", nota: "en remojo 8-12 h" },
-    { n: "salchicha fresca", q: 250, u: "g" },
+    { n: "salchichas frescas", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "salvia fresca", q: 6, u: "hoja" },
@@ -999,7 +999,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 400, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 400, u: "g" },
     { n: "garbanzos cocidos", q: 200, u: "g", nota: "escurridos" },
     { n: "orejones de albaricoque", q: 50, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1093,7 +1093,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "cazuela"],
   raciones: 5,
   ingredientes: [
-    { n: "cordero (jarrete)", q: 2, u: "ud", nota: "unos 700 g en total" },
+    { n: "jarrete de cordero", q: 2, u: "ud", nota: "unos 700 g en total" },
     { n: "vino tinto", q: 200, u: "ml" },
     { n: "ajo", q: 5, u: "diente" },
     { n: "romero fresco", q: 2, u: "rama" },

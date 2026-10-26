@@ -2,7 +2,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 
 /* Recetas INVENTADAS de FÁCIL DIGESTIÓN de cocina ANGLOAMERICANA (bloque dig-americana-a: inv-4340 a inv-4364).
    Pescados, carnes, huevos y proteína vegetal de Estados Unidos y Canadá para personas con intestino irritable o
-   hinchazón: bajas en FODMAP (aceite de ajo en lugar de ajo, parte verde de la cebolleta y cebollino en lugar de
+   hinchazón: bajas en FODMAP (aceite de oliva en lugar de ajo, parte verde de la cebolleta y cebollino en lugar de
    cebolla, pan, pan rallado, galletas y harinas sin gluten, sin judías ni guisantes, leche y crema agria sin lactosa,
    quesos curados), sin cayena, chile ni salsa picante (el sabor lo ponen el pimentón dulce, la mostaza, el tomillo,
    el laurel, el eneldo y el sirope de arce), sin alcohol, sin miel ni ketchup, nada frito ni rebozado (todo a la
@@ -75,7 +75,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "rodaballo (lomos)", q: 300, u: "g", nota: "sin piel; en Alaska se hace con fletán (halibut)" },
-    { n: "crema agria sin lactosa", q: 60, u: "g" },
+    { n: "nata agria sin lactosa", q: 60, u: "g" },
     { n: "mayonesa", q: 1, u: "cda" },
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo los tallos verdes" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
     { n: "laurel", q: 1, u: "hoja" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "harina de arroz", q: 20, u: "g" },
-    { n: "cheddar", q: 50, u: "g", nota: "curado, rallado" },
+    { n: "queso cheddar", q: 50, u: "g", nota: "curado, rallado" },
     { n: "pan rallado sin gluten", q: 15, u: "g" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "patata", q: 300, u: "g" },
@@ -170,7 +170,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "gambas", q: 500, u: "g", nota: "crudas, enteras; o colas de cangrejo de río peladas" },
     { n: "mantequilla", q: 15, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "harina de arroz", q: 20, u: "g" },
     { n: "pimiento verde", q: 150, u: "g" },
     { n: "hinojo", q: 60, u: "g", nota: "bulbo, en lugar del apio" },
@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
     "Pela las gambas y guarda cabezas y cáscaras. Ponlas en un cazo con 500 ml de agua y el laurel, aplasta las cabezas con una cuchara, hierve 15 minutos a fuego suave y cuela apretando bien: tendrás unos 350 ml de caldo de marisco sin cebolla.",
     "Mientras, lava el arroz y cuécelo en una cazuela con 280 ml de agua y sal: 15 minutos tapado a fuego mínimo y 5 de reposo.",
     "Mientras se hacen el caldo y el arroz, pica en dados pequeños el pimiento verde y el hinojo, corta en aros la parte verde de la cebolleta, reservando un puñado para el final, y pica el perejil.",
-    "En una cazuela de fondo grueso calienta la mantequilla con el aceite de ajo a fuego medio-bajo, añade la harina de arroz y remueve sin parar 5-6 minutos, hasta que el roux tenga color de mantequilla de cacahuete y huela a galleta. No dejes que se oscurezca más.",
+    "En una cazuela de fondo grueso calienta la mantequilla con el aceite de oliva a fuego medio-bajo, añade la harina de arroz y remueve sin parar 5-6 minutos, hasta que el roux tenga color de mantequilla de cacahuete y huela a galleta. No dejes que se oscurezca más.",
     "Añade el pimiento, el hinojo y la cebolleta (la «santísima trinidad» adaptada): frenarán en seco la cocción del roux. Rehoga 6-8 minutos, hasta que estén blandos.",
     "Agrega el pimentón y el tomillo, remueve unos segundos y vierte el caldo caliente poco a poco, sin dejar de remover. Cuece 10 minutos a fuego suave, hasta tener una salsa como una crema ligera; sala y añade pimienta blanca.",
     "Incorpora las gambas peladas y cuécelas 3 minutos, solo hasta que se curven y se vuelvan rosadas. Termina con el zumo del limón, la cebolleta reservada y el perejil picado.",
@@ -262,8 +262,8 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "dorada (filetes)", q: 300, u: "g", nota: "con piel, sin espinas" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "dorada (lomos)", q: 300, u: "g", nota: "con piel, sin espinas" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
@@ -274,11 +274,11 @@ window.RECETAS_SEED.push({
     { n: "tomate pera", q: 150, u: "g" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
-    { n: "crema agria sin lactosa", q: 60, u: "g" },
+    { n: "nata agria sin lactosa", q: 60, u: "g" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Mezcla el aceite de ajo con el pimentón, el comino, el orégano, el zumo de media lima y una pizca de sal. Unta los filetes de dorada por el lado de la carne y déjalos 10 minutos.",
+    "Mezcla el aceite de oliva con el pimentón, el comino, el orégano, el zumo de media lima y una pizca de sal. Unta los filetes de dorada por el lado de la carne y déjalos 10 minutos.",
     "Mientras se impregna, corta la col en juliana muy fina (cuanto más fina, más digestiva) y ralla la zanahoria. Alíñalas con el zumo de media lima y sal, y masajéalas 1 minuto con las manos para que se ablanden.",
     "Prepara el pico de gallo: corta el tomate pera en dados pequeños sin semillas y la parte verde de la cebolleta en aros finos, pica todo el cilantro y mezcla el tomate y la cebolleta con la mitad del cilantro, zumo de lima y sal.",
     "Mezcla la crema agria con unas gotas de lima y una pizca de sal hasta que esté fluida: es la «salsa blanca» de los puestos de Baja California y San Diego.",
@@ -310,7 +310,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pez espada", q: 300, u: "g", nota: "2 rodajas de 2 cm" },
-    { n: "arándanos azules", q: 100, u: "g" },
+    { n: "arándanos", q: 100, u: "g" },
     { n: "maíz dulce", q: 70, u: "g", nota: "en grano, escurrido" },
     { n: "tomate cherry", q: 120, u: "g" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud" },
@@ -410,7 +410,7 @@ window.RECETAS_SEED.push({
     { n: "arroz basmati", q: 80, u: "g" },
     { n: "kale", q: 120, u: "g" },
     { n: "nueces pecanas", q: 12, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
     "Mientras, prepara el glaseado: pon en un cazo los arándanos rojos, el zumo de la naranja, la mitad de su ralladura, el sirope de arce, las hojas de una rama de tomillo y una pizca de sal. Cuece 8-10 minutos a fuego suave, aplastando algunos arándanos, hasta que espese como una mermelada fluida.",
     "Precalienta el horno a 200 °C. Coloca el salmón con la piel hacia abajo en una bandeja con papel, sálalo y píntalo con un tercio del glaseado.",
     "Hornea 10-12 minutos, hasta que el centro esté rosado y apenas opaco y las lascas empiecen a separarse; píntalo con otra cucharada de glaseado a mitad de cocción.",
-    "Mientras, tuesta las pecanas en una sartén seca 2-3 minutos y pícalas. En la misma sartén, calienta el aceite de ajo y saltea la kale sin los tallos duros, en tiras, con 2 cucharadas de agua, 3-4 minutos, hasta que esté tierna y verde brillante.",
+    "Mientras, tuesta las pecanas en una sartén seca 2-3 minutos y pícalas. En la misma sartén, calienta el aceite de oliva y saltea la kale sin los tallos duros, en tiras, con 2 cucharadas de agua, 3-4 minutos, hasta que esté tierna y verde brillante.",
     "Mezcla la kale con el arroz, el resto de la ralladura de naranja y pimienta. Sirve el salmón encima, con el glaseado restante, las pecanas y unas hojas de tomillo."
   ],
   nutricion: { kcal: 650, prot: 36, hc: 68, grasa: 25 },
@@ -446,7 +446,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 240, u: "g", nota: "en filetes de 1 cm" },
+    { n: "pechuga de pavo", q: 240, u: "g", nota: "en filetes de 1 cm" },
     { n: "pan sin gluten", q: 4, u: "rebanada" },
     { n: "leche sin lactosa", q: 250, u: "ml" },
     { n: "harina de arroz", q: 20, u: "g" },
@@ -588,12 +588,12 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos deshuesados)", q: 360, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo deshuesados", q: 360, u: "g", nota: "sin piel" },
     { n: "zumo de piña", q: 120, u: "ml", nota: "100 % piña, sin azúcar añadido" },
     { n: "tamari", q: 3, u: "cda" },
     { n: "azúcar moreno", q: 1.5, u: "cda" },
     { n: "jengibre fresco", q: 15, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "tomate concentrado", q: 1, u: "cdta" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "arroz jazmín", q: 140, u: "g" },
@@ -604,7 +604,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara la salsa: ralla el jengibre y mézclalo con el zumo de piña, el tamari, el azúcar moreno, el aceite de ajo, el tomate concentrado y el vinagre. Reserva un tercio para glasear.",
+    "Prepara la salsa: ralla el jengibre y mézclalo con el zumo de piña, el tamari, el azúcar moreno, el aceite de oliva, el tomate concentrado y el vinagre. Reserva un tercio para glasear.",
     "Pon los contramuslos en una bolsa o fiambrera con los otros dos tercios y marínalos al menos 30 minutos en la nevera (mejor toda la noche).",
     "Mientras se marina, lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Unos 15 minutos antes de terminar el marinado, precalienta el horno a 220 °C con el grill.",
     "Escurre el pollo (desecha esa marinada) y colócalo abierto sobre una rejilla con una bandeja debajo.",
@@ -635,10 +635,9 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "sin grasa visible, en dados de 3 cm" },
+    { n: "pierna de cordero deshuesada", q: 300, u: "g", nota: "sin grasa visible, en dados de 3 cm" },
     { n: "vinagre de vino tinto", q: 2, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "albahaca seca", q: 0.5, u: "cdta" },
     { n: "menta seca", q: 0.5, u: "cdta" },
@@ -647,12 +646,12 @@ window.RECETAS_SEED.push({
     { n: "lechuga romana", q: 6, u: "hoja" },
     { n: "tomate pera", q: 200, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
-    { n: "aceite de oliva", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Prepara la marinada: mezcla el vinagre, el zumo de medio limón, el aceite de ajo, el orégano, la albahaca, la menta, el tomillo, sal y pimienta.",
+    "Prepara la marinada: mezcla el vinagre, el zumo de medio limón, el aceite de oliva, el orégano, la albahaca, la menta, el tomillo, sal y pimienta.",
     "Mezcla el cordero con la marinada en una fiambrera, tapa y déjalo en la nevera al menos 2 horas (en Binghamton se marina hasta 3 días). Dale la vuelta a mitad.",
     "Un rato antes de que termine el marinado, prepara la ensalada: corta la lechuga en tiras, el tomate en gajos y el pepino en medias lunas, y guárdala en la nevera sin aliñar.",
     "Ensarta los dados en 4 brochetas sin apretarlos, para que se hagan por igual. Escurre bien la marinada y deséchala.",
@@ -661,7 +660,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 445, prot: 33, hc: 29, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "verano"],
-  consejo: "«Spiedo» significa asador en italiano; Binghamton celebra cada agosto un festival dedicado a estas brochetas. La marinada original lleva ajo picado: con aceite de ajo tienes el sabor sin fructanos, porque estos son solubles en agua y no pasan a la grasa. El vinagre y el limón ablandan la carne y la hacen más fácil de masticar y digerir. Si no comes cordero, se hacen igual con pollo o con lomo de cerdo.",
+  consejo: "«Spiedo» significa asador en italiano; Binghamton celebra cada agosto un festival dedicado a estas brochetas. La marinada original lleva ajo picado: aquí se prescinde de él para evitar los fructanos. El vinagre y el limón ablandan la carne y la hacen más fácil de masticar y digerir. Si no comes cordero, se hacen igual con pollo o con lomo de cerdo.",
   tupper: false,
   contundencia: "ligera",
   coste: "premium"
@@ -669,7 +668,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4354",
-  nombre: "Tri-tip al estilo de Santa María con salsa fresca de tomate, pan tostado al aceite de ajo y patatas nuevas asadas",
+  nombre: "Tri-tip al estilo de Santa María con salsa fresca de tomate, pan tostado al aceite de oliva y patatas nuevas asadas",
   subtitulo: "la barbacoa de los rancheros de la costa central de California, sellada a fuego vivo y cortada contra la fibra",
   origen: "inventada",
   categoria: "carnes",
@@ -685,7 +684,7 @@ window.RECETAS_SEED.push({
     { n: "sal gruesa", q: 1, u: "cdta" },
     { n: "pimienta negra", q: 0.5, u: "cdta" },
     { n: "perejil seco", q: 0.5, u: "cdta" },
-    { n: "aceite de ajo", q: 4, u: "cdta" },
+    { n: "aceite de oliva", q: 4, u: "cdta" },
     { n: "patata nueva", q: 300, u: "g" },
     { n: "tomate pera", q: 200, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
@@ -697,12 +696,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Saca la carne de la nevera 30 minutos antes. Mezcla la sal gruesa, la pimienta y el perejil seco, úntala con 1 cucharadita de aceite de ajo y frótala con la mezcla por todos lados.",
-    "Precalienta el horno a 200 °C. Parte las patatas por la mitad, mézclalas con 1 cucharadita de aceite de ajo y sal y ásalas en una bandeja 30-35 minutos, hasta que estén doradas.",
+    "Saca la carne de la nevera 30 minutos antes. Mezcla la sal gruesa, la pimienta y el perejil seco, úntala con 1 cucharadita de aceite de oliva y frótala con la mezcla por todos lados.",
+    "Precalienta el horno a 200 °C. Parte las patatas por la mitad, mézclalas con 1 cucharadita de aceite de oliva y sal y ásalas en una bandeja 30-35 minutos, hasta que estén doradas.",
     "Cuando a las patatas les falten 20 minutos, calienta una sartén apta para horno a fuego muy fuerte y sella la carne 2-3 minutos por cada cara, hasta que tenga una costra oscura.",
     "Pasa la sartén al horno y asa la carne 12-15 minutos, hasta que el centro alcance 55 °C (al punto menos). Déjala reposar tapada con papel de aluminio 10 minutos.",
     "Mientras la carne está en el horno, prepara la salsa de Santa María: corta el tomate y el pepino en dados pequeños y la parte verde de la cebolleta en aros, pica el cilantro y mézclalo todo con el vinagre, el orégano y sal.",
-    "Mientras la carne reposa, tuesta el pan, píntalo con el resto del aceite de ajo y córtalo en tiras.",
+    "Mientras la carne reposa, tuesta el pan, píntalo con el resto del aceite de oliva y córtalo en tiras.",
     "Corta la carne en lonchas finas contra la fibra (en el tri-tip la fibra cambia de dirección hacia la mitad de la pieza: gírala). Sirve con su jugo, la salsa, las patatas y el pan."
   ],
   nutricion: { kcal: 575, prot: 42, hc: 55, grasa: 21 },
@@ -728,7 +727,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos deshuesados)", q: 360, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo deshuesados", q: 360, u: "g", nota: "sin piel" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "mostaza amarilla", q: 3, u: "cda" },
     { n: "vinagre de manzana", q: 3, u: "cda" },
@@ -772,7 +771,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes de 1,5 cm" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes de 1,5 cm" },
     { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "yogur sin lactosa", q: 100, u: "g", nota: "natural" },
     { n: "mayonesa", q: 1, u: "cda" },
@@ -785,7 +784,7 @@ window.RECETAS_SEED.push({
     { n: "patata nueva", q: 350, u: "g" },
     { n: "lechuga romana", q: 2, u: "ud", nota: "cogollos" },
     { n: "pepino", q: 0.5, u: "ud" },
-    { n: "rábanos", q: 4, u: "ud" },
+    { n: "rábano", q: 4, u: "ud" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -821,7 +820,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "chuletas de lomo de cerdo", q: 2, u: "ud", nota: "de unos 180 g, con hueso y sin grasa exterior" },
+    { n: "chuletas de cerdo", q: 2, u: "ud", nota: "de unos 180 g, con hueso y sin grasa exterior" },
     { n: "col blanca", q: 140, u: "g" },
     { n: "pimiento verde", q: 100, u: "g" },
     { n: "pimiento rojo", q: 80, u: "g" },
@@ -870,7 +869,7 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "patata", q: 200, u: "g" },
     { n: "bacon", q: 2, u: "loncha" },
-    { n: "cheddar", q: 25, u: "g", nota: "curado, rallado" },
+    { n: "queso cheddar", q: 25, u: "g", nota: "curado, rallado" },
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "tomate pera", q: 250, u: "g" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud" },
@@ -959,7 +958,7 @@ window.RECETAS_SEED.push({
     { n: "ternera picada", q: 150, u: "g", nota: "magra" },
     { n: "espinacas frescas", q: 300, u: "g" },
     { n: "cebolleta (parte verde)", q: 4, u: "ud", nota: "solo los tallos verdes" },
-    { n: "aceite de ajo", q: 2, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
@@ -971,7 +970,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las espinacas, escúrrelas bien y pícalas grueso. Corta en aros los tallos verdes de la cebolleta y reserva un puñado para el final. Corta los tomates en rodajas con una pizca de sal.",
-    "Calienta el aceite de ajo en una sartén grande a fuego fuerte y extiende la ternera picada; déjala 2 minutos sin moverla para que se tueste y después sepárala con la espátula 2-3 minutos más, hasta que no quede rastro rosado y tenga zonas doradas.",
+    "Calienta el aceite de oliva en una sartén grande a fuego fuerte y extiende la ternera picada; déjala 2 minutos sin moverla para que se tueste y después sepárala con la espátula 2-3 minutos más, hasta que no quede rastro rosado y tenga zonas doradas.",
     "Añade la cebolleta, el orégano, la nuez moscada, sal y pimienta y remueve 1 minuto.",
     "Echa las espinacas a puñados, removiendo, y cocínalas 3-4 minutos, hasta que se hayan arrugado y no quede líquido en el fondo: si queda agua, el revuelto se aguará.",
     "Bate los huevos con la mitad del parmesano y una pizca de sal. Baja el fuego a medio-bajo, viértelos sobre la carne y las espinacas y remueve despacio con la espátula 2-3 minutos, formando pliegues grandes. Retíralo cuando aún brille: termina de cuajar con el calor de la sartén.",
@@ -980,7 +979,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 440, prot: 38, hc: 21, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "poco especiada", "sin gluten", "rápida", "alta en proteína", "económica"],
-  consejo: "Cuenta la leyenda que en los años veinte un músico llegó de madrugada a un restaurante de North Beach cuando ya no quedaba casi nada, y el cocinero salteó lo que tenía a mano: carne picada, espinacas, cebolla y huevos. Hoy sigue en las cartas de los asadores italoamericanos de San Francisco, con pan de masa madre. La cebolla, el ajo picado y los champiñones que suelen añadirse son ricos en fructanos y manitol: el aceite de ajo y la parte verde de la cebolleta dan el aroma sin ellos. Las espinacas son libres en la dieta baja en FODMAP y cocinadas pierden volumen y se digieren muy bien. Pide la carne picada magra: es la que más grasa aporta al plato.",
+  consejo: "Cuenta la leyenda que en los años veinte un músico llegó de madrugada a un restaurante de North Beach cuando ya no quedaba casi nada, y el cocinero salteó lo que tenía a mano: carne picada, espinacas, cebolla y huevos. Hoy sigue en las cartas de los asadores italoamericanos de San Francisco, con pan de masa madre. La cebolla, el ajo picado y los champiñones que suelen añadirse son ricos en fructanos y manitol: la parte verde de la cebolleta da el aroma sin ellos. Las espinacas son libres en la dieta baja en FODMAP y cocinadas pierden volumen y se digieren muy bien. Pide la carne picada magra: es la que más grasa aporta al plato.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -1007,7 +1006,7 @@ window.RECETAS_SEED.push({
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "salmón ahumado", q: 80, u: "g" },
-    { n: "crema agria sin lactosa", q: 50, u: "g" },
+    { n: "nata agria sin lactosa", q: 50, u: "g" },
     { n: "eneldo fresco", q: 3, u: "rama" },
     { n: "alcaparras", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
@@ -1037,7 +1036,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4362",
-  nombre: "Huevos escalfados sobre succotash de verano con maíz, calabacín, pimiento verde y tomate, con tosta al aceite de ajo",
+  nombre: "Huevos escalfados sobre succotash de verano con maíz, calabacín, pimiento verde y tomate, con tosta al aceite de oliva",
   subtitulo: "el salteado de las granjas del Sur, sin habas y con la yema como salsa",
   origen: "inventada",
   categoria: "huevos",
@@ -1060,7 +1059,7 @@ window.RECETAS_SEED.push({
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -1070,7 +1069,7 @@ window.RECETAS_SEED.push({
     "En una sartén amplia, derrite la mantequilla a fuego medio y saltea el pimiento 4 minutos. Añade el calabacín, el maíz y las hojas de tomillo y cocina 4-5 minutos más, hasta que todo esté tierno y el maíz empiece a tostarse.",
     "Agrega el tomate y la cebolleta, sala, pimienta y cocina 2 minutos, solo hasta que el tomate empiece a soltar jugo y forme una salsita. Apaga el fuego.",
     "Cuando el agua tenga un hervor muy suave (burbujas pequeñas en el fondo), casca cada huevo en un cuenco, crea un remolino con una cuchara y deslízalo en el centro. Escálfalo 3 minutos, hasta que la clara esté cuajada y la yema siga líquida. Sácalo con una espumadera sobre papel de cocina.",
-    "Tuesta el pan, píntalo con el aceite de ajo y corta la albahaca en tiras.",
+    "Tuesta el pan, píntalo con el aceite de oliva y corta la albahaca en tiras.",
     "Reparte el succotash en platos hondos, pon encima dos huevos escalfados, la albahaca en tiras y pimienta, y sirve con la tosta para mojar."
   ],
   nutricion: { kcal: 340, prot: 17, hc: 28, grasa: 18 },
@@ -1097,13 +1096,12 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "tofu firme", q: 300, u: "g" },
     { n: "maicena", q: 25, u: "g" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "naranja", q: 2, u: "ud" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cda" },
     { n: "jengibre fresco", q: 15, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "brócoli", q: 150, u: "g", nota: "solo los ramilletes" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo los tallos verdes" },
@@ -1115,7 +1113,7 @@ window.RECETAS_SEED.push({
     "Envuelve el tofu en un paño limpio, pon un peso encima y déjalo 15 minutos para que suelte el agua. Precalienta el horno a 220 °C.",
     "Corta el tofu en dados de 2,5 cm, mézclalos con 1 cucharadita de tamari y después con 20 g de maicena, moviendo el bol hasta que queden cubiertos por una capa fina y seca. Riégalos con el aceite, remueve y extiéndelos separados en una bandeja con papel. Hornéalos 25 minutos, dándoles la vuelta a mitad, hasta que estén dorados y con los bordes crujientes.",
     "Mientras, lava el arroz hasta que el agua salga clara y cuécelo con 210 ml de agua y una pizca de sal, 12 minutos tapado a fuego mínimo. Cuando falten 4 minutos, reparte los ramilletes de brócoli por encima del arroz y vuelve a tapar: se harán al vapor del propio arroz. Apaga y deja reposar todo tapado 5 minutos, hasta que el brócoli esté tierno pero verde intenso.",
-    "Para la salsa, ralla la piel de una naranja, exprime las dos (unos 150 ml de zumo) y ralla el jengibre. Ponlo todo en un cazo con el resto del tamari, el vinagre, el azúcar y el aceite de ajo y cuece 3 minutos a fuego medio. Mientras, corta en aros la parte verde de la cebolleta.",
+    "Para la salsa, ralla la piel de una naranja, exprime las dos (unos 150 ml de zumo) y ralla el jengibre. Ponlo todo en un cazo con el resto del tamari, el vinagre, el azúcar y el aceite de oliva y cuece 3 minutos a fuego medio. Mientras, corta en aros la parte verde de la cebolleta.",
     "Disuelve los 5 g de maicena restantes en 1 cucharada de agua fría, añádelos a la salsa y cuece 1 minuto removiendo, hasta que espese, brille y cubra la cuchara.",
     "Saca el tofu del horno, échalo en el cazo con la salsa fuera del fuego y mézclalo 30 segundos, solo para glasearlo sin que pierda el crujiente. Sírvelo sobre el arroz con el brócoli, la cebolleta y el sésamo."
   ],

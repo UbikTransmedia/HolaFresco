@@ -554,7 +554,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 260, u: "g" },
+    { n: "caballa fresca", q: 260, u: "g" },
     { n: "pimentón dulce", q: 2, u: "cdta" },
     { n: "cayena", q: 1, u: "pizca" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
@@ -1073,10 +1073,10 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["cazuela", "sartén", "batidora"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
     { n: "espaguetis", q: 160, u: "g" },
-    { n: "ternera (entrecot)", q: 300, u: "g", nota: "1 pieza de 2 cm o 2 filetes" },
+    { n: "entrecot de ternera", q: 300, u: "g", nota: "1 pieza de 2 cm o 2 filetes" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "albahaca fresca", q: 1, u: "manojo" },
     { n: "queso fresco", q: 80, u: "g" },
@@ -1099,11 +1099,11 @@ window.RECETAS_SEED.push({
     "Escurre la pasta, mézclala fuera del fuego con la salsa y un chorrito del agua de cocción hasta que quede cremosa. No la cocines con la salsa: el verde se apagaría.",
     "Sirve los tallarines con la carne cortada en tiras y pimienta recién molida."
   ],
-  nutricion: { kcal: 785, prot: 50, hc: 63, grasa: 37 },
+  nutricion: { kcal: 625, prot: 34, hc: 43, grasa: 35 },
   etiquetas: ["cocinas del mundo", "peruana", "pasta", "alta en proteína", "de domingo", "verduras escondidas", "poco especiada"],
   consejo: "Blanquear las hierbas unos segundos y enfriarlas en hielo es el truco profesional para salsas verdes que no se oxidan. Funciona con pesto, salsa verde o cremas de verduras de hoja. Este pesto peruano también va con pollo a la plancha o papa a la huancaína.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 

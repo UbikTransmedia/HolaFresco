@@ -72,7 +72,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz jazmín", q: 140, u: "g", nota: "en seco; cocido el día anterior y frío (unos 400 g cocido)" },
-    { n: "pollo (pechuga)", q: 250, u: "g" },
+    { n: "pechuga de pollo", q: 250, u: "g" },
     { n: "pasta de curry verde", q: 1.5, u: "cda" },
     { n: "judías verdes", q: 120, u: "g" },
     { n: "espinacas frescas", q: 80, u: "g" },
@@ -117,7 +117,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "con hueso y sin piel" },
     { n: "agua", q: 1200, u: "ml" },
     { n: "chalota", q: 4, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -264,7 +264,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "caldo de pollo", q: 900, u: "ml" },
-    { n: "nabo daikon", q: 100, u: "g" },
+    { n: "rábano daikon", q: 100, u: "g" },
     { n: "cerdo picado", q: 150, u: "g" },
     { n: "gambas peladas", q: 120, u: "g" },
     { n: "fideos de arroz", q: 120, u: "g" },
@@ -361,7 +361,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 450, u: "g", nota: "con hueso, sin piel, partidos en dos" },
+    { n: "contramuslos de pollo", q: 450, u: "g", nota: "con hueso, sin piel, partidos en dos" },
     { n: "jengibre fresco", q: 30, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -786,14 +786,14 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "batidora", "cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 350, u: "g", nota: "con algo de grasa, o mitad panceta; en dados de 4 cm" },
+    { n: "paleta de cerdo", q: 350, u: "g", nota: "con algo de grasa, o mitad panceta; en dados de 4 cm" },
     { n: "chalota", q: 6, u: "ud" },
     { n: "ajo", q: 5, u: "diente" },
     { n: "pasta de soja fermentada", q: 1.5, u: "cda", nota: "taucu, en tiendas asiáticas; o miso" },
     { n: "salsa de soja oscura", q: 1.5, u: "cda" },
     { n: "azúcar de palma", q: 1.5, u: "cda", nota: "o azúcar moreno" },
     { n: "canela en rama", q: 1, u: "ud" },
-    { n: "shiitake seco", q: 6, u: "ud" },
+    { n: "setas shiitake secas", q: 6, u: "ud" },
     { n: "patata", q: 300, u: "g" },
     { n: "agua", q: 400, u: "ml" },
     { n: "aceite de girasol", q: 1, u: "cda" },
@@ -832,7 +832,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "batidora", "cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (paleta)", q: 450, u: "g", nota: "en trozos con hueso" },
+    { n: "paletilla de cordero", q: 450, u: "g", nota: "en trozos con hueso" },
     { n: "chalota", q: 4, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "jengibre fresco", q: 20, u: "g" },
@@ -883,7 +883,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "batidora", "cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y sin piel" },
     { n: "chalota", q: 3, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -1021,7 +1021,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (muslo)", q: 600, u: "g", nota: "1 muslo pequeño con hueso y sin piel" },
+    { n: "muslo de pavo", q: 600, u: "g", nota: "1 muslo pequeño con hueso y sin piel" },
     { n: "chalota", q: 3, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "jengibre fresco", q: 20, u: "g" },
@@ -1069,7 +1069,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (alitas)", q: 600, u: "g", nota: "partidas por la articulación, sin la punta" },
+    { n: "alitas de pollo", q: 600, u: "g", nota: "partidas por la articulación, sin la punta" },
     { n: "agua", q: 250, u: "ml" },
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
@@ -1172,7 +1172,7 @@ window.RECETAS_SEED.push({
     { n: "salsa de pescado", q: 1.5, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "zanahoria", q: 2, u: "ud" },
-    { n: "hoja de lima kaffir", q: 4, u: "hoja", opcional: true },
+    { n: "hojas de lima kaffir", q: 4, u: "hoja", opcional: true },
     { n: "lima", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "arroz jazmín", q: 120, u: "g" },

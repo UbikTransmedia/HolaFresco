@@ -168,7 +168,7 @@ window.RECETAS_SEED.push({
     { n: "tofu sedoso", q: 300, u: "g" },
     { n: "fideos soba", q: 100, u: "g" },
     { n: "alga kombu", q: 10, u: "g", nota: "un trozo de 10 x 10 cm" },
-    { n: "shiitake seco", q: 10, u: "g" },
+    { n: "setas shiitake secas", q: 10, u: "g" },
     { n: "setas shiitake", q: 100, u: "g" },
     { n: "setas de cardo", q: 100, u: "g" },
     { n: "edamame congelado", q: 80, u: "g", nota: "pelado" },

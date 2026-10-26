@@ -21,7 +21,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "patata", q: 400, u: "g" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "ajo", q: 10, u: "diente" },
@@ -111,7 +111,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "calabaza", q: 500, u: "g", nota: "pelada" },
     { n: "castañas cocidas", q: 150, u: "g", nota: "peladas, envasadas al vacío" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -199,7 +199,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con hueso y piel" },
     { n: "setas variadas", q: 300, u: "g", nota: "champiñón, shiitake, ostra o níscalos en temporada" },
     { n: "jamón serrano", q: 50, u: "g", nota: "en un taco o lonchas gruesas" },
     { n: "patata", q: 300, u: "g" },
@@ -285,7 +285,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con hueso y piel" },
     { n: "chorizo", q: 80, u: "g", nota: "para cocinar, dulce" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -372,7 +372,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 300, u: "g", nota: "4 filetes de tapa o babilla" },
+    { n: "filetes finos de ternera", q: 300, u: "g", nota: "4 filetes de tapa o babilla" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "pan rallado", q: 80, u: "g" },
     { n: "harina de trigo", q: 30, u: "g" },
@@ -471,7 +471,7 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 1, u: "ud", nota: "a temperatura ambiente, para el alioli" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 100, u: "ml", nota: "para el alioli, suave" },
-    { n: "aceite de oliva virgen extra", q: 3, u: "cda" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
   ],
@@ -548,7 +548,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "1 bote, escurridos" },
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g", nota: "sin piel" },
     { n: "pimentón ahumado", q: 2, u: "cdta", nota: "de la Vera, dulce" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -589,7 +589,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "mejor fabes o alubia de La Granja en bote" },
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -800,7 +800,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "alcachofas", q: 8, u: "ud", nota: "medianas, unos 1,2 kg" },
+    { n: "alcachofa", q: 8, u: "ud", nota: "medianas, unos 1,2 kg" },
     { n: "limón", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g", nota: "pequeñas, nuevas" },
     { n: "jamón serrano", q: 70, u: "g", nota: "en taquitos" },
@@ -844,7 +844,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g" },
     { n: "setas variadas", q: 200, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },

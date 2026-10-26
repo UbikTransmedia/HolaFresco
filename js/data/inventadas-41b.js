@@ -18,7 +18,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 1,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 320, u: "g" },
+    { n: "abadejo", q: 320, u: "g" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "ajo en polvo", q: 0.5, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
@@ -113,7 +113,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 360, u: "g", nota: "sin piel, en trozos de 4 cm" },
+    { n: "muslos de pollo deshuesados", q: 360, u: "g", nota: "sin piel, en trozos de 4 cm" },
     { n: "patata", q: 300, u: "g", nota: "en dados de 1,5 cm" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "limón", q: 1, u: "ud" },
@@ -241,7 +241,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g", nota: "4 lomos limpios" },
+    { n: "caballa fresca", q: 300, u: "g", nota: "4 lomos limpios" },
     { n: "judías blancas cocidas", q: 250, u: "g", nota: "escurridas y enjuagadas" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "pimiento verde", q: 0.5, u: "ud" },
@@ -283,7 +283,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en tiras de 2 cm" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en tiras de 2 cm" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "sésamo", q: 40, u: "g" },
     { n: "tamari", q: 1.5, u: "cda" },
@@ -669,7 +669,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 1,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes de 1,5 cm" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes de 1,5 cm" },
     { n: "pimientos del piquillo", q: 150, u: "g", nota: "escurridos" },
     { n: "almendras", q: 20, u: "g", nota: "tostadas" },
     { n: "ajo", q: 1, u: "diente" },
@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g", nota: "con piel" },
+    { n: "bacalao desalado", q: 320, u: "g", nota: "con piel" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "guindilla seca", q: 1, u: "ud" },
@@ -923,7 +923,7 @@ window.RECETAS_SEED.push({
     { n: "gambas cocidas", q: 300, u: "g", nota: "peladas" },
     { n: "aguacate", q: 1, u: "ud" },
     { n: "manzana", q: 1, u: "ud", nota: "verde" },
-    { n: "cogollo", q: 2, u: "ud" },
+    { n: "cogollos de lechuga", q: 2, u: "ud" },
     { n: "yogur griego natural", q: 100, u: "g" },
     { n: "kétchup", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },

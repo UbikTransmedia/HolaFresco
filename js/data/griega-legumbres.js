@@ -25,7 +25,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos secos", q: 140, u: "g", nota: "en remojo 12 horas" },
-    { n: "cerdo (paleta)", q: 300, u: "g", nota: "en dados de 4 cm" },
+    { n: "paleta de cerdo", q: 300, u: "g", nota: "en dados de 4 cm" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "vino tinto", q: 100, u: "ml" },
@@ -214,7 +214,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla deshuesada)", q: 300, u: "g", nota: "en dados de 4 cm, sin el exceso de grasa" },
+    { n: "paletilla de cordero deshuesada", q: 300, u: "g", nota: "en dados de 4 cm, sin el exceso de grasa" },
     { n: "habas congeladas", q: 400, u: "g", nota: "o frescas desgranadas" },
     { n: "patata", q: 1, u: "ud", nota: "nueva, mediana" },
     { n: "cebolleta", q: 3, u: "ud" },
@@ -432,7 +432,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel, en trozos grandes" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados y sin piel, en trozos grandes" },
     { n: "garbanzos cocidos", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "lentejas cocidas", q: 400, u: "g" },
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "orégano seco", q: 2, u: "cdta" },
@@ -692,7 +692,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g" },
+    { n: "mejillones", q: 1000, u: "g" },
     { n: "judías blancas cocidas", q: 400, u: "g" },
     { n: "tomate triturado", q: 250, u: "g" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -872,7 +872,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 250, u: "g", nota: "en un taco de unos 4 cm de grosor; fuera de temporada, atún" },
+    { n: "bonito fresco", q: 250, u: "g", nota: "en un taco de unos 4 cm de grosor; fuera de temporada, atún" },
     { n: "alubias de ojo negro cocidas", q: 400, u: "g", nota: "o 150 g secas cocidas 30 minutos" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },

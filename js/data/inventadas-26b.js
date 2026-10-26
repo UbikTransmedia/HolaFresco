@@ -61,7 +61,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "con hueso y piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "con hueso y piel" },
     { n: "puerro", q: 3, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "arroz redondo", q: 40, u: "g" },
@@ -262,7 +262,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 1,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "con hueso" },
     { n: "arroz redondo", q: 70, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "con hueso" },
     { n: "arroz redondo", q: 110, u: "g" },
     { n: "cilantro fresco", q: 1, u: "manojo" },
     { n: "espinacas frescas", q: 50, u: "g" },
@@ -778,7 +778,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 200, u: "g" },
+    { n: "filetes finos de ternera", q: 200, u: "g" },
     { n: "fideos finos", q: 70, u: "g" },
     { n: "leche", q: 150, u: "ml", nota: "o leche evaporada" },
     { n: "huevo", q: 2, u: "ud" },
@@ -823,7 +823,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "con hueso" },
     { n: "patata", q: 500, u: "g", nota: "mezcla de harinosa, cerosa y patata amarilla" },
     { n: "mazorca de maíz", q: 1, u: "ud", nota: "en 4 rodajas" },
     { n: "cebolleta", q: 2, u: "ud" },

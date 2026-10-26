@@ -161,7 +161,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "corvina", q: 360, u: "g", nota: "2 lomos con piel" },
-    { n: "ñora", q: 2, u: "ud" },
+    { n: "ñoras", q: 2, u: "ud" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos deshuesados)", q: 500, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo deshuesados", q: 500, u: "g", nota: "sin piel" },
     { n: "alcachofa", q: 4, u: "ud" },
     { n: "patata nueva", q: 300, u: "g", nota: "pequeñas" },
     { n: "ajos tiernos", q: 1, u: "manojo" },
@@ -895,7 +895,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "macarrones", q: 160, u: "g" },
-    { n: "jurel (filetes)", q: 250, u: "g", nota: "sin espinas" },
+    { n: "jurel", q: 250, u: "g", nota: "sin espinas" },
     { n: "tomate triturado", q: 300, u: "g" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -937,7 +937,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
-    { n: "pescadilla (filetes)", q: 300, u: "g", nota: "sin piel ni espinas" },
+    { n: "filetes de pescadilla", q: 300, u: "g", nota: "sin piel ni espinas" },
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "ajos tiernos", q: 1, u: "manojo" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -1028,7 +1028,7 @@ window.RECETAS_SEED.push({
     { n: "gambas peladas", q: 150, u: "g" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },

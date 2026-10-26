@@ -20,7 +20,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "conejo troceado", q: 400, u: "g" },
     { n: "arroz bomba", q: 150, u: "g" },
-    { n: "alcachofas", q: 3, u: "ud" },
+    { n: "alcachofa", q: 3, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -107,7 +107,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "deshuesados, en dados pequeños" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "deshuesados, en dados pequeños" },
     { n: "chorizo", q: 50, u: "g", nota: "certificado sin gluten" },
     { n: "arroz largo", q: 140, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -521,7 +521,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados, con piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados, con piel" },
     { n: "quinoa", q: 120, u: "g" },
     { n: "pimientos del piquillo", q: 4, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -565,7 +565,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "con hueso y sin piel" },
     { n: "yuca", q: 200, u: "g", nota: "pelada, o congelada" },
     { n: "patata", q: 200, u: "g" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros" },
@@ -657,9 +657,9 @@ window.RECETAS_SEED.push({
   tupper: false,
   raciones: 2,
   ingredientes: [
-    { n: "costilla de cerdo", q: 300, u: "g", nota: "troceada pequeña" },
+    { n: "costillas de cerdo", q: 300, u: "g", nota: "troceada pequeña" },
     { n: "arroz bomba", q: 150, u: "g" },
-    { n: "alcachofas", q: 2, u: "ud" },
+    { n: "alcachofa", q: 2, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "judías verdes", q: 80, u: "g" },
     { n: "tomate", q: 1, u: "ud" },
@@ -831,7 +831,7 @@ window.RECETAS_SEED.push({
   tupper: false,
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g", nota: "con concha, limpios" },
+    { n: "mejillones", q: 1000, u: "g", nota: "con concha, limpios" },
     { n: "patata", q: 300, u: "g", nota: "pequeñas" },
     { n: "chalota", q: 2, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -873,7 +873,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete)", q: 250, u: "g", nota: "en tiras finas" },
+    { n: "filetes de ternera", q: 250, u: "g", nota: "en tiras finas" },
     { n: "arroz jazmín", q: 150, u: "g" },
     { n: "brócoli", q: 250, u: "g", nota: "en ramilletes pequeños" },
     { n: "ajo", q: 2, u: "diente" },
@@ -1011,7 +1011,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "champiñones", q: 200, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },

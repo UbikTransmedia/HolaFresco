@@ -181,7 +181,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pasta corta", q: 160, u: "g", nota: "fusilli" },
-    { n: "pollo (pechuga)", q: 220, u: "g" },
+    { n: "pechuga de pollo", q: 220, u: "g" },
     { n: "rúcula", q: 60, u: "g" },
     { n: "nueces", q: 40, u: "g" },
     { n: "parmesano", q: 30, u: "g" },
@@ -306,7 +306,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "orzo", q: 140, u: "g" },
-    { n: "pollo (pechuga)", q: 220, u: "g" },
+    { n: "pechuga de pollo", q: 220, u: "g" },
     { n: "judías verdes", q: 200, u: "g" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "gnocchi de patata", q: 400, u: "g", nota: "frescos, de los refrigerados" },
+    { n: "ñoquis de patata", q: 400, u: "g", nota: "frescos, de los refrigerados" },
     { n: "tomate cherry", q: 300, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -392,7 +392,7 @@ window.RECETAS_SEED.push({
     { n: "calabacín", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
-    { n: "zaatar", q: 2, u: "cdta" },
+    { n: "za'atar", q: 2, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "yogur natural", q: 125, u: "g" },
@@ -520,7 +520,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "linguine", q: 150, u: "g" },
-    { n: "mejillones frescos", q: 1000, u: "g", nota: "limpios y sin barbas" },
+    { n: "mejillones", q: 1000, u: "g", nota: "limpios y sin barbas" },
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "ajo", q: 3, u: "diente" },
@@ -685,7 +685,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "rigatoni", q: 170, u: "g" },
-    { n: "cerdo (paleta)", q: 250, u: "g", nota: "en dados muy pequeños o picada a cuchillo" },
+    { n: "paleta de cerdo", q: 250, u: "g", nota: "en dados muy pequeños o picada a cuchillo" },
     { n: "hinojo", q: 1, u: "ud", nota: "bulbo pequeño" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -775,7 +775,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de fideuá", q: 170, u: "g", nota: "del nº 2" },
-    { n: "salchicha fresca", q: 160, u: "g", nota: "butifarra fresca, sin piel" },
+    { n: "salchichas frescas", q: 160, u: "g", nota: "butifarra fresca, sin piel" },
     { n: "setas variadas", q: 250, u: "g" },
     { n: "tomate", q: 1, u: "ud", nota: "maduro, rallado" },
     { n: "ajo", q: 3, u: "diente" },
@@ -957,7 +957,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 3, u: "diente" },
     { n: "harissa", q: 1, u: "cda", nota: "ajusta al picante que te guste" },
     { n: "comino molido", q: 1, u: "cdta" },
-    { n: "semillas de alcaravea", q: 0.5, u: "cdta", opcional: true },
+    { n: "alcaravea", q: 0.5, u: "cdta", opcional: true },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo", nota: "o perejil" },
     { n: "limón", q: 0.5, u: "ud" },

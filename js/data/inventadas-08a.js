@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 250, u: "g" },
+    { n: "pechuga de pollo", q: 250, u: "g" },
     { n: "caldo de pollo", q: 900, u: "ml" },
     { n: "fideos de arroz", q: 120, u: "g" },
     { n: "jengibre fresco", q: 30, u: "g", nota: "en rodajas gruesas" },
@@ -286,7 +286,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con piel, unos 500 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con piel, unos 500 g" },
     { n: "puerro", q: 2, u: "ud" },
     { n: "patata", q: 400, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -426,7 +426,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos y enjuagados" },
-    { n: "bacalao desalado (lomos)", q: 250, u: "g", nota: "en tacos grandes" },
+    { n: "bacalao desalado", q: 250, u: "g", nota: "en tacos grandes" },
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -472,7 +472,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 3,
   ingredientes: [
-    { n: "costilla de cerdo", q: 500, u: "g", nota: "troceada en costillas sueltas" },
+    { n: "costillas de cerdo", q: 500, u: "g", nota: "troceada en costillas sueltas" },
     { n: "patata", q: 600, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -663,7 +663,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso y piel, unos 550 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con hueso y piel, unos 550 g" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 2, u: "ud", nota: "en juliana fina" },
     { n: "ajo", q: 3, u: "diente" },
@@ -899,7 +899,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 450, u: "g", nota: "en trozos de 4 cm" },
+    { n: "muslos de pollo deshuesados", q: 450, u: "g", nota: "en trozos de 4 cm" },
     { n: "arroz basmati", q: 150, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -1146,7 +1146,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 5,
   ingredientes: [
-    { n: "cordero (paletilla deshuesada)", q: 550, u: "g", nota: "en tacos de 4 cm" },
+    { n: "paletilla de cordero deshuesada", q: 550, u: "g", nota: "en tacos de 4 cm" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -1155,7 +1155,7 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca" },
-    { n: "ciruela pasa", q: 120, u: "g", nota: "sin hueso" },
+    { n: "ciruelas pasas", q: 120, u: "g", nota: "sin hueso" },
     { n: "miel", q: 1, u: "cda" },
     { n: "almendras", q: 40, u: "g", nota: "enteras peladas" },
     { n: "caldo de pollo", q: 300, u: "ml" },

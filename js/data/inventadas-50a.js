@@ -165,7 +165,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "judías carillas secas", q: 140, u: "g", nota: "en remojo 6 h" },
+    { n: "alubias carilla secas", q: 140, u: "g", nota: "en remojo 6 h" },
     { n: "arroz largo", q: 120, u: "g" },
     { n: "kale", q: 150, u: "g", nota: "sin el tallo duro" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "patata", q: 300, u: "g", nota: "harinosa" },
     { n: "ajo", q: 6, u: "diente", nota: "pelados" },
     { n: "aceite de oliva", q: 90, u: "ml" },
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
     { n: "tomate triturado", q: 500, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },

@@ -110,7 +110,7 @@ window.RECETAS_SEED.push({
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud", nota: "ralladura" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "pasta filo", q: 6, u: "ud", nota: "láminas" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "tomate", q: 2, u: "ud" },

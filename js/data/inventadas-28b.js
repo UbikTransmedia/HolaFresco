@@ -532,7 +532,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 350, u: "g", nota: "mejor con hueso" },
+    { n: "pechuga de pollo", q: 350, u: "g", nota: "mejor con hueso" },
     { n: "patata", q: 500, u: "g", nota: "mitad harinosas y mitad pequeñas amarillas" },
     { n: "mazorca de maíz", q: 1, u: "ud", nota: "en 4 trozos" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -575,7 +575,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (ossobuco)", q: 500, u: "g", nota: "2 piezas" },
+    { n: "ossobuco de ternera", q: 500, u: "g", nota: "2 piezas" },
     { n: "patata", q: 300, u: "g", nota: "2 medianas, enteras" },
     { n: "calabaza", q: 300, u: "g", nota: "en 2 trozos grandes" },
     { n: "mazorca de maíz", q: 1, u: "ud", nota: "en 2 trozos" },
@@ -712,7 +712,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 250, u: "g", nota: "en tiras muy finas" },
+    { n: "filetes finos de ternera", q: 250, u: "g", nota: "en tiras muy finas" },
     { n: "patata", q: 500, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -753,7 +753,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 700, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 700, u: "g", nota: "con hueso y sin piel" },
     { n: "patata", q: 400, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -939,7 +939,7 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y sin piel" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "apio", q: 2, u: "rama" },
@@ -1070,8 +1070,8 @@ window.RECETAS_SEED.push({
   equipo: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g" },
-    { n: "cerdo (paleta)", q: 100, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g" },
+    { n: "paleta de cerdo", q: 100, u: "g" },
     { n: "maíz dulce", q: 150, u: "g" },
     { n: "habas congeladas", q: 150, u: "g" },
     { n: "tomate triturado", q: 400, u: "g" },

@@ -112,7 +112,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados, en tiras" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados, en tiras" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -384,7 +384,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "bulgur", q: 120, u: "g" },
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes gruesos" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes gruesos" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "granada", q: 0.5, u: "ud" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -472,7 +472,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados, en trozos grandes" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados, en trozos grandes" },
     { n: "arroz integral", q: 150, u: "g" },
     { n: "zanahoria", q: 3, u: "ud", nota: "unos 300 g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -517,7 +517,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos soba", q: 140, u: "g" },
-    { n: "pollo (pechuga)", q: 250, u: "g" },
+    { n: "pechuga de pollo", q: 250, u: "g" },
     { n: "edamame congelado", q: 120, u: "g", nota: "pelado" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "col lombarda", q: 100, u: "g" },
@@ -564,7 +564,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz integral", q: 120, u: "g" },
-    { n: "pollo (pechuga)", q: 250, u: "g", nota: "en dados" },
+    { n: "pechuga de pollo", q: 250, u: "g", nota: "en dados" },
     { n: "brócoli", q: 300, u: "g", nota: "en ramilletes pequeños" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -609,7 +609,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados grandes" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados grandes" },
     { n: "pimientos del piquillo", q: 150, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -974,7 +974,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "judías blancas cocidas", q: 400, u: "g", nota: "escurridas y enjuagadas" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "deshuesados, en trozos" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "deshuesados, en trozos" },
     { n: "alcachofas en conserva", q: 240, u: "g", nota: "corazones, escurridos" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -1017,7 +1017,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en tiras" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en tiras" },
     { n: "champiñones", q: 250, u: "g", nota: "laminados" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -1065,7 +1065,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pasta", q: 150, u: "g", nota: "penne integrales" },
-    { n: "pavo (pechuga)", q: 250, u: "g", nota: "en dados" },
+    { n: "pechuga de pavo", q: 250, u: "g", nota: "en dados" },
     { n: "calabacín", q: 1, u: "ud", nota: "unos 300 g" },
     { n: "tomate pera", q: 500, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1110,7 +1110,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "quinoa", q: 70, u: "g" },
-    { n: "pollo (pechuga)", q: 250, u: "g", nota: "en una pieza" },
+    { n: "pechuga de pollo", q: 250, u: "g", nota: "en una pieza" },
     { n: "calabaza", q: 250, u: "g", nota: "en dados de 1,5 cm" },
     { n: "maíz dulce", q: 100, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },

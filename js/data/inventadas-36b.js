@@ -1,7 +1,7 @@
 window.RECETAS_SEED = window.RECETAS_SEED || [];
 
 /* Recetas INVENTADAS SIN GLUTEN y BAJAS EN FODMAP (bloque 36b: inv-1786 a inv-1810).
-   Sin ajo, cebolla, legumbres ni lactosa: el sabor llega con aceite de ajo, cebollino y parte verde de la cebolleta. */
+   Sin ajo, cebolla, legumbres ni lactosa: el sabor llega con aceite de oliva, cebollino y parte verde de la cebolleta. */
 
 window.RECETAS_SEED.push({
   id: "inv-1786",
@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["bol", "cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 320, u: "g", nota: "muy fresca y congelada previamente" },
+    { n: "corvina", q: 320, u: "g", nota: "muy fresca y congelada previamente" },
     { n: "lima", q: 4, u: "ud" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
@@ -51,7 +51,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-1787",
-  nombre: "Langostinos a la plancha con tallarines de calabacín al aceite de ajo y guindilla",
+  nombre: "Langostinos a la plancha con tallarines de calabacín al aceite de oliva y guindilla",
   subtitulo: "con tomate cherry, limón y pan sin gluten",
   origen: "inventada",
   categoria: "pescado",
@@ -67,8 +67,7 @@ window.RECETAS_SEED.push({
     { n: "langostinos pelados", q: 400, u: "g" },
     { n: "calabacín", q: 3, u: "ud" },
     { n: "tomate cherry", q: 150, u: "g" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -79,7 +78,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta el calabacín en tallarines con un espiralizador o con un pelador en tiras anchas. Sálalos ligeramente y déjalos en un colador 5 minutos para que suelten agua. Mientras, parte los tomates cherry por la mitad, corta la guindilla en aros, pica el perejil y tuesta el pan sin gluten.",
     "Calienta una sartén grande a fuego fuerte con el aceite de oliva y marca los langostinos salados 1 minuto por lado, hasta que estén rosados. Sácalos.",
-    "Baja a fuego medio, añade el aceite de ajo y la guindilla y, a los 20 segundos, los tomates cherry. Saltea 2 minutos.",
+    "Baja a fuego medio, añade el aceite de oliva y la guindilla y, a los 20 segundos, los tomates cherry. Saltea 2 minutos.",
     "Seca un poco los tallarines de calabacín con papel, añádelos y saltea 2 minutos, solo hasta que estén calientes y aún firmes.",
     "Devuelve los langostinos, añade la ralladura y un chorro de zumo de limón y el perejil y mezcla.",
     "Sirve enseguida con el pan tostado para mojar el jugo."
@@ -150,21 +149,20 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pez espada (rodajas)", q: 320, u: "g" },
+    { n: "pez espada", q: 320, u: "g" },
     { n: "vinagre de Jerez", q: 2, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
     { n: "arroz basmati", q: 160, u: "g" },
     { n: "tomate", q: 2, u: "ud" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara el adobo mezclando el vinagre, el pimentón, el comino, el orégano, el aceite de ajo, sal y 2 cucharadas de agua. Corta el pez espada en tacos grandes, cúbrelo con el adobo y déjalo en la nevera 30 minutos.",
+    "Prepara el adobo mezclando el vinagre, el pimentón, el comino, el orégano, el aceite de oliva, sal y 2 cucharadas de agua. Corta el pez espada en tacos grandes, cúbrelo con el adobo y déjalo en la nevera 30 minutos.",
     "Mientras marina, cuece el arroz lavado con 320 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
     "Corta los tomates en gajos, pica el perejil y alíña los tomates con el aceite de oliva, sal y el perejil.",
     "Escurre el pescado del adobo. Calienta una sartén o plancha a fuego fuerte y marca los tacos 1–2 minutos por cada cara, hasta que estén dorados por fuera y jugosos dentro.",
@@ -173,7 +171,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 665, prot: 39, hc: 68, grasa: 26 },
   etiquetas: ["sin gluten", "bajo en fodmap", "alta en proteína", "fácil", "poco especiada"],
-  consejo: "El adobo tradicional lleva ajo machacado; aquí el aceite de ajo da el mismo perfume. No lo dejes más de 1 hora en el adobo o el vinagre endurecerá el pescado.",
+  consejo: "El adobo tradicional lleva ajo machacado; aquí el aceite de oliva da el mismo perfume. No lo dejes más de 1 hora en el adobo o el vinagre endurecerá el pescado.",
   contundencia: "contundente",
   coste: "premium",
   tupper: false
@@ -194,7 +192,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 300, u: "g" },
+    { n: "filetes de trucha", q: 300, u: "g" },
     { n: "almendras", q: 30, u: "g", nota: "laminadas" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "patata", q: 200, u: "g" },
@@ -236,7 +234,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 400, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 400, u: "g" },
     { n: "yogur sin lactosa", q: 250, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
@@ -246,14 +244,13 @@ window.RECETAS_SEED.push({
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Ralla el jengibre y mézclalo con 100 g de yogur, el garam masala, el pimentón, el zumo del limón, el aceite de ajo y sal. Embadurna los muslos y déjalos marinar al menos 20 minutos (o toda la noche en la nevera).",
+    "Ralla el jengibre y mézclalo con 100 g de yogur, el garam masala, el pimentón, el zumo del limón, el aceite de oliva y sal. Embadurna los muslos y déjalos marinar al menos 20 minutos (o toda la noche en la nevera).",
     "Mientras marinan, corta las patatas en dados de 2 cm y mézclalas con el aceite de oliva, la cúrcuma, el comino y sal.",
     "Cocina las patatas en la airfryer a 200 °C 12 minutos, agitando a mitad. Mientras, ralla el pepino, apriétalo para quitarle el agua y mézclalo con el resto del yogur, la menta picada y una pizca de sal y comino; guarda la raita en la nevera.",
     "Aparta las patatas a los lados, coloca los muslos escurridos de marinada en el centro y cocina a 200 °C 14–16 minutos, dándoles la vuelta a mitad, hasta que estén tostados en los bordes y el jugo salga transparente.",
@@ -335,7 +332,7 @@ window.RECETAS_SEED.push({
     { n: "maicena", q: 1, u: "cda" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "laurel", q: 1, u: "hoja" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "patata", q: 500, u: "g" },
     { n: "leche sin lactosa", q: 100, u: "ml" },
     { n: "mantequilla", q: 20, u: "g" },
@@ -344,7 +341,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela la calabaza y las zanahorias y córtalas en trozos grandes. Seca la carne, sálala y dórala en una sartén muy caliente con el aceite de ajo, en tandas, 4–5 minutos, hasta que tenga costra oscura por todos los lados. Pásala a la slow cooker.",
+    "Pela la calabaza y las zanahorias y córtalas en trozos grandes. Seca la carne, sálala y dórala en una sartén muy caliente con el aceite de oliva, en tandas, 4–5 minutos, hasta que tenga costra oscura por todos los lados. Pásala a la slow cooker.",
     "Vierte el vino en la sartén caliente, raspa el fondo con una cuchara de madera para despegar lo tostado y deja hervir 2 minutos. Añádelo a la slow cooker.",
     "Incorpora la calabaza y las zanahorias, el tomate concentrado, el romero, el laurel y 150 ml de agua. Remueve, tapa y cocina 8 horas en LOW, hasta que la carne se deshaga con una cuchara.",
     "40 minutos antes de servir, disuelve la maicena en 2 cucharadas de agua fría, añádela al guiso y pon la slow cooker en HIGH destapada para que la salsa espese.",
@@ -382,14 +379,13 @@ window.RECETAS_SEED.push({
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "romero fresco", q: 2, u: "rama" },
-    { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
     "Precalienta el horno a 210 °C. Corta la calabaza y las patatas en dados de 2–3 cm y mézclalos en una bandeja con el aceite de oliva, las hojas de una rama de romero picadas y sal. Hornea 20 minutos.",
-    "Mientras, mezcla el zumo de una naranja con la mostaza, el azúcar moreno y el aceite de ajo. Corta la segunda naranja en rodajas.",
+    "Mientras, mezcla el zumo de una naranja con la mostaza, el azúcar moreno y el aceite de oliva. Corta la segunda naranja en rodajas.",
     "Salpimienta el solomillo y píntalo con parte del glaseado.",
     "Saca la bandeja, aparta las verduras, coloca el solomillo en el centro con la otra rama de romero y reparte las rodajas de naranja alrededor. Riega con el resto del glaseado.",
     "Hornea 18–20 minutos, hasta que el solomillo alcance 63 °C en el centro (rosado pálido y jugoso) y las verduras estén tiernas y caramelizadas.",
@@ -418,7 +414,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 350, u: "g" },
+    { n: "pechuga de pollo", q: 350, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "pimiento amarillo", q: 1, u: "ud" },
@@ -426,8 +422,7 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
@@ -436,7 +431,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Corta el pollo en tiras y mézclalo con el comino, el pimentón, el orégano, el aceite de ajo, el zumo de media lima y sal. Deja 10 minutos.",
+    "Corta el pollo en tiras y mézclalo con el comino, el pimentón, el orégano, el aceite de oliva, el zumo de media lima y sal. Deja 10 minutos.",
     "Mientras, prepara el pico de gallo: corta el tomate en dados pequeños, pica el cilantro y mézclalos con el zumo de la otra media lima y sal. Corta los pimientos en tiras finas.",
     "Saltea los pimientos en una sartén grande a fuego fuerte con el aceite de oliva 5 minutos, hasta que estén tiernos y con puntos tostados. Sácalos.",
     "En la misma sartén muy caliente, saltea el pollo 5–6 minutos, sin moverlo demasiado al principio para que se dore, hasta que esté hecho por dentro. Devuelve los pimientos y mezcla.",
@@ -466,14 +461,13 @@ window.RECETAS_SEED.push({
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (chuletillas)", q: 450, u: "g" },
+    { n: "chuletillas de cordero", q: 450, u: "g" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "zumaque", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 2, u: "cda" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "yogur sin lactosa", q: 100, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
@@ -481,7 +475,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Corta la berenjena en dados grandes y las patatas en gajos finos. Mézclalos en una bandeja con el aceite de oliva, el zumaque y sal y hornea 25 minutos, removiendo a mitad.",
-    "Mientras, frota las chuletillas con el comino, el aceite de ajo y sal y déjalas a temperatura ambiente.",
+    "Mientras, frota las chuletillas con el comino, el aceite de oliva y sal y déjalas a temperatura ambiente.",
     "Pica la menta y mezcla el yogur con la ralladura y el zumo del medio limón, sal y la mitad de la menta.",
     "Saca la bandeja, añade los tomates cherry y coloca las chuletillas encima de las verduras, sin amontonarlas.",
     "Pon el horno en función grill y hornea 5–6 minutos por cada lado, hasta que la grasa esté dorada y crujiente y la carne rosada por dentro.",
@@ -499,7 +493,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1797",
   nombre: "Gratinado de patata y calabacín al microondas con mozzarella y albahaca",
-  subtitulo: "con salsa de tomate al aceite de ajo y parmesano",
+  subtitulo: "con salsa de tomate al aceite de oliva y parmesano",
   origen: "inventada",
   categoria: "verduras",
   cocina: "mediterránea",
@@ -516,8 +510,7 @@ window.RECETAS_SEED.push({
     { n: "tomate triturado", q: 200, u: "g" },
     { n: "mozzarella", q: 125, u: "g" },
     { n: "parmesano", q: 20, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
@@ -526,7 +519,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en rodajas de 3 mm; corta el calabacín en rodajas algo más gruesas.",
     "Pon las patatas en una fuente apta para microondas con el aceite de oliva, sal y 2 cucharadas de agua. Tapa con film apto o una tapa con salida de vapor y cocina a máxima potencia 7 minutos, hasta que estén casi tiernas.",
-    "Mientras, mezcla el tomate triturado con el aceite de ajo, el orégano y sal. Trocea la mozzarella y ralla el parmesano.",
+    "Mientras, mezcla el tomate triturado con el aceite de oliva, el orégano y sal. Trocea la mozzarella y ralla el parmesano.",
     "Monta capas en la misma fuente: patata, calabacín, tomate y parte de la mozzarella. Repite y termina con mozzarella y el parmesano.",
     "Cocina tapado 6 minutos a máxima potencia, hasta que el calabacín esté tierno y el queso fundido. Si tu microondas tiene grill, gratina 4 minutos destapado para dorar.",
     "Deja reposar 3 minutos y sirve con hojas de albahaca."
@@ -542,7 +535,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1798",
   nombre: "Polenta cremosa al parmesano con espinacas salteadas, tomates asados y huevo frito",
-  subtitulo: "con leche sin lactosa y aceite de ajo",
+  subtitulo: "con leche sin lactosa y aceite de oliva",
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "italiana",
@@ -561,15 +554,14 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 2, u: "ud" },
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "tomate cherry", q: 200, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
     "Ralla el parmesano. Calienta la leche sin lactosa con el agua y sal en una cazuela. Cuando hierva, añade la polenta en forma de lluvia batiendo con unas varillas para que no se formen grumos.",
     "Cuece a fuego bajo 5–8 minutos (o lo que indique el paquete), removiendo con frecuencia, hasta que esté espesa y cremosa. Aparta y añade la mantequilla y el parmesano. Tapa.",
-    "En una sartén con el aceite de ajo, saltea los tomates cherry enteros a fuego fuerte 3 minutos, hasta que la piel se abra. Añade las espinacas y saltea 1 minuto más, hasta que mermen. Sala.",
+    "En una sartén con el aceite de oliva, saltea los tomates cherry enteros a fuego fuerte 3 minutos, hasta que la piel se abra. Añade las espinacas y saltea 1 minuto más, hasta que mermen. Sala.",
     "Limpia la sartén y fríe los huevos en el aceite de oliva a fuego medio-alto, rociando la clara con el aceite, hasta que tenga puntilla y la yema siga líquida.",
     "Reparte la polenta en platos hondos (si ha espesado, aflójala con un chorrito de agua caliente), coloca encima las verduras y el huevo y termina con pimienta."
   ],
@@ -691,8 +683,7 @@ window.RECETAS_SEED.push({
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "sal negra kala namak", q: 1, u: "pizca" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 0.5, u: "cda" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -701,7 +692,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta las patatas en dados de 1,5 cm y cuécelas 5 minutos en el microondas tapadas con un chorrito de agua, o 6 minutos en agua hirviendo, hasta que estén casi tiernas. Mientras, corta los tomates en dados y pica el cebollino. Escurre bien las patatas.",
     "Dóralas en una sartén grande con el aceite de oliva a fuego medio-alto 8 minutos, hasta que estén crujientes por fuera. Añade el pimentón y sal, remueve 20 segundos y sácalas a los platos.",
-    "En la misma sartén, calienta el aceite de ajo y añade los tomates. Cocina 2 minutos, hasta que se ablanden.",
+    "En la misma sartén, calienta el aceite de oliva y añade los tomates. Cocina 2 minutos, hasta que se ablanden.",
     "Desmenuza el tofu con las manos sobre la sartén, en trozos irregulares, y añade la cúrcuma, sal y pimienta. Saltea 4 minutos, hasta que esté caliente y bien amarillo.",
     "Incorpora las espinacas y remueve 1 minuto, hasta que mermen. Apaga y añade la sal negra.",
     "Sirve el revuelto sobre las patatas con el cebollino."
@@ -737,7 +728,7 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 3, u: "cda" },
     { n: "maicena", q: 1, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "parte verde de cebolleta", q: 2, u: "ud" },
@@ -747,7 +738,7 @@ window.RECETAS_SEED.push({
     "Cuece el arroz lavado con 210 ml de agua: 12 minutos tapado a fuego mínimo y 5 de reposo.",
     "Mientras, escurre el tofu, sécalo con papel, córtalo en dados de 2 cm y rebózalo en la maicena.",
     "Corta las judías verdes en trozos de 4 cm, la zanahoria en bastoncitos y la cebolleta en aros. Ralla el jengibre y mézclalo con el tamari, el azúcar y 3 cucharadas de agua.",
-    "Calienta el wok con el aceite de ajo a fuego fuerte y dora el tofu 6–7 minutos, girándolo, hasta que esté crujiente por todas las caras. Sácalo.",
+    "Calienta el wok con el aceite de oliva a fuego fuerte y dora el tofu 6–7 minutos, girándolo, hasta que esté crujiente por todas las caras. Sácalo.",
     "Saltea las judías y la zanahoria 4 minutos con 2 cucharadas de agua, hasta que estén tiernas pero crujientes.",
     "Devuelve el tofu, vierte la salsa y saltea 1 minuto, hasta que se espese y lo envuelva todo con brillo.",
     "Apaga, añade el aceite de sésamo, el sésamo y la cebolleta y sirve sobre el arroz."
@@ -824,7 +815,7 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "tamari", q: 1, u: "cda" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "maíz dulce", q: 50, u: "g" },
     { n: "lechuga romana", q: 4, u: "hoja" },
@@ -835,7 +826,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Seca bien el tofu con papel y desmenúzalo con un tenedor en trozos pequeños, como carne picada.",
-    "Calienta el aceite de ajo en una sartén a fuego medio-alto y dora el tofu 8 minutos, removiendo poco, hasta que esté tostado y algo crujiente. Mientras, prepara el pico de gallo: corta los tomates en dados, pica el chile y el cilantro y mézclalos con el maíz, el zumo de media lima y sal. Corta la lechuga en tiras y la otra media lima en gajos.",
+    "Calienta el aceite de oliva en una sartén a fuego medio-alto y dora el tofu 8 minutos, removiendo poco, hasta que esté tostado y algo crujiente. Mientras, prepara el pico de gallo: corta los tomates en dados, pica el chile y el cilantro y mézclalos con el maíz, el zumo de media lima y sal. Corta la lechuga en tiras y la otra media lima en gajos.",
     "Añade el pimentón, el comino y el orégano, remueve 30 segundos y riega con el tamari. Saltea 1 minuto más, hasta que se absorba.",
     "Calienta las tortillas en una sartén seca 30 segundos por lado.",
     "Rellena cada tortilla con la lechuga, el tofu y el pico de gallo, y sirve con los gajos de lima."
@@ -948,7 +939,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (entrecot)", q: 300, u: "g" },
+    { n: "entrecot de ternera", q: 300, u: "g" },
     { n: "fideos de arroz", q: 50, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -1005,21 +996,20 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 2, u: "cda" },
     { n: "salsa de pescado", q: 1, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
     "Hidrata los fideos de arroz en agua caliente 8–10 minutos, hasta que estén flexibles.",
     "Mientras, mezcla el tamari, la salsa de pescado, el azúcar y 2 cucharadas de agua. Corta las judías verdes en trozos de 1 cm y el chile en aros. Escurre los fideos.",
-    "Calienta el wok a fuego fuerte con el aceite de ajo y saltea el cerdo picado 5 minutos, deshaciéndolo con la espátula, hasta que esté dorado y algo crujiente.",
+    "Calienta el wok a fuego fuerte con el aceite de oliva y saltea el cerdo picado 5 minutos, deshaciéndolo con la espátula, hasta que esté dorado y algo crujiente.",
     "Añade las judías verdes y el chile y saltea 3 minutos más.",
     "Incorpora los fideos y la salsa y saltea 2 minutos, hasta que se tiñan y estén calientes. Apaga, añade las hojas de albahaca, que se ablandarán con el calor, y reparte los fideos en los platos.",
     "Pasa un papel por el wok, calienta en él el aceite de oliva a fuego fuerte y fríe los huevos 1–2 minutos, hasta que los bordes estén crujientes y la yema líquida. Sirve un huevo sobre cada plato de fideos."
   ],
   nutricion: { kcal: 825, prot: 42, hc: 63, grasa: 43 },
   etiquetas: ["sin gluten", "bajo en fodmap", "rápida", "una sola sartén", "picante", "fácil"],
-  consejo: "La receta tailandesa lleva mucho ajo y salsa de ostras (que suele contener trigo); aquí el aceite de ajo y el tamari los sustituyen. Ajusta el chile a tu gusto.",
+  consejo: "La receta tailandesa lleva mucho ajo y salsa de ostras (que suele contener trigo); aquí el aceite de oliva y el tamari los sustituyen. Ajusta el chile a tu gusto.",
   contundencia: "contundente",
   coste: "económica",
   tupper: false
@@ -1028,7 +1018,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1809",
   nombre: "Arroz caldoso de rape, gambas y pimiento rojo con azafrán",
-  subtitulo: "con sofrito de tomate al aceite de ajo y perejil",
+  subtitulo: "con sofrito de tomate al aceite de oliva y perejil",
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "española",
@@ -1048,8 +1038,7 @@ window.RECETAS_SEED.push({
     { n: "caldo de pescado", q: 1200, u: "ml", nota: "casero o sin cebolla ni ajo" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -1057,7 +1046,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Calienta el caldo con el azafrán. Corta el pimiento en tiras finas y ralla el tomate. Corta el rape en dados grandes y sálalo junto con las gambas.",
     "En una cazuela ancha con el aceite de oliva, marca el rape y las gambas 1 minuto a fuego fuerte, solo para sellarlos. Sácalos.",
-    "Añade el aceite de ajo y el pimiento y sofríe 6 minutos a fuego medio, hasta que esté blando. Agrega el tomate y cocina 8 minutos, hasta que se oscurezca y no quede agua.",
+    "Añade el aceite de oliva y el pimiento y sofríe 6 minutos a fuego medio, hasta que esté blando. Agrega el tomate y cocina 8 minutos, hasta que se oscurezca y no quede agua.",
     "Aparta del fuego, añade el pimentón, remueve unos segundos e incorpora el arroz. Nacara 1 minuto.",
     "Vierte el caldo caliente, sala y cuece a fuego medio 16 minutos removiendo de vez en cuando; el arroz debe quedar en un caldo abundante y algo espeso. Mientras, pica el perejil.",
     "Añade el rape y las gambas y cuece 2–3 minutos más, hasta que el arroz esté en su punto y el pescado hecho.",

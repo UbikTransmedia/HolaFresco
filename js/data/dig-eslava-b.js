@@ -3,7 +3,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 /* Recetas INVENTADAS de FÁCIL DIGESTIÓN de cocina ESLAVA (bloque dig-eslava-b: inv-4265 a inv-4289).
    Verduras, proteína vegetal, ensaladas, pastas, arroces, kashas y sopas de Polonia, Ucrania, Rusia, Chequia,
    Eslovaquia, Croacia, Bulgaria y Georgia para personas con intestino irritable o hinchazón: bajas en FODMAP
-   (aceite de ajo en lugar de ajo, parte verde de la cebolleta y cebollino en lugar de cebolla, masas, pasta y pan sin
+   (aceite de oliva en lugar de ajo, parte verde de la cebolleta y cebollino en lugar de cebolla, masas, pasta y pan sin
    gluten, alforfón y mijo, requesón, kéfir, yogur, leche y nata sin lactosa en lugar de tvarog y smetana, quesos
    curados o feta en poca cantidad, sin legumbres, sin setas, sin remolacha), sin picante, sin alcohol, sin fritos
    (los kotlety, los nabos rellenos y el tofu van al horno, la panceta se dora en seco y se escurre) y con ≤ 25 g de grasa
@@ -34,7 +34,7 @@ window.RECETAS_SEED.push({
     { n: "patata", q: 400, u: "g" },
     { n: "tomate pera", q: 500, u: "g", nota: "muy maduro" },
     { n: "cebolleta (parte verde)", q: 4, u: "ud", nota: "solo las hojas verdes" },
-    { n: "aceite de ajo", q: 1.5, u: "cda" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "cilantro molido", q: 0.5, u: "cdta" },
     { n: "fenogreco molido", q: 1, u: "pizca", nota: "sustituye al utskho suneli georgiano" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
@@ -47,7 +47,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la berenjena en dados de 2 cm, sálala y déjala en un colador 15 minutos. Mientras, corta la patata en dados de 2 cm y los pimientos en tiras, pica la parte verde de la cebolleta y ralla los tomates por la parte gruesa del rallador (la piel se queda en la mano). Enjuaga la berenjena y sécala bien con papel de cocina.",
-    "En una cazuela ancha con media cucharada del aceite de ajo dora la berenjena a fuego medio, tapada, 6 minutos, removiendo de vez en cuando, hasta que esté dorada y blanda. Resérvala.",
+    "En una cazuela ancha con media cucharada del aceite de oliva dora la berenjena a fuego medio, tapada, 6 minutos, removiendo de vez en cuando, hasta que esté dorada y blanda. Resérvala.",
     "Añade el resto del aceite y la patata y rehógala 5 minutos. Incorpora los pimientos y la parte verde de la cebolleta y cocina 5 minutos más.",
     "Añade la pulpa del tomate con el cilantro molido, el fenogreco, sal y pimienta.",
     "Devuelve la berenjena, tapa y cuece a fuego suave 25 minutos, sin remover apenas, hasta que la patata esté tierna y la salsa espesa.",
@@ -55,7 +55,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 500, prot: 12, hc: 73, grasa: 18 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "económica", "verano"],
-  consejo: "El ajapsandali lleva cebolla rehogada y mucho ajo; el aceite de ajo y la parte verde de la cebolleta mantienen su carácter sin fructanos. Por eso las cantidades están medidas: la berenjena se queda en 75 g por ración y el pimiento rojo en 60 g, por debajo de sus límites, y la patata y el tomate (libres) completan el guiso. Salar la berenjena y rallar el tomate quitan pieles y amargor, dos cosas que el intestino sensible agradece. Al día siguiente está aún mejor.",
+  consejo: "El ajapsandali lleva cebolla rehogada y mucho ajo; la parte verde de la cebolleta mantiene su carácter sin fructanos. Por eso las cantidades están medidas: la berenjena se queda en 75 g por ración y el pimiento rojo en 60 g, por debajo de sus límites, y la patata y el tomate (libres) completan el guiso. Salar la berenjena y rallar el tomate quitan pieles y amargor, dos cosas que el intestino sensible agradece. Al día siguiente está aún mejor.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -261,7 +261,7 @@ window.RECETAS_SEED.push({
     { n: "caldo de verduras", q: 250, u: "ml", nota: "casero, sin cebolla ni puerro" },
     { n: "zanahoria", q: 100, u: "g" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo las hojas verdes" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "queso feta", q: 60, u: "g" },
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el mijo en un colador con agua caliente hasta que salga clara. Tuéstalo en una cazuela en seco 3 minutos, removiendo, hasta que huela a pan; añade el caldo caliente y una pizca de sal, tapa y cuece a fuego mínimo 15 minutos. Déjalo reposar tapado 5 minutos.",
     "Mientras se cuece el mijo, precalienta el horno a 190 °C. Corta una tapa a los tomates y vacíalos con una cucharilla, dejando 1 cm de pared. Sala el interior y ponlos boca abajo sobre una rejilla 10 minutos para que suelten agua. Mientras escurren, pica la pulpa, ralla la zanahoria, pica la parte verde de la cebolleta, el eneldo y el perejil y desmiga el feta.",
-    "En una sartén con el aceite de ajo rehoga la zanahoria y la cebolleta 4 minutos; añade la pulpa del tomate y cuece 5 minutos, hasta que se evapore casi todo el líquido.",
+    "En una sartén con el aceite de oliva rehoga la zanahoria y la cebolleta 4 minutos; añade la pulpa del tomate y cuece 5 minutos, hasta que se evapore casi todo el líquido.",
     "Mezcla el mijo con el sofrito, el perejil, casi todo el eneldo, la mitad del feta, sal y pimienta. Rellena los tomates sin apretar y ponles la tapa.",
     "Hornéalos en una fuente 25-30 minutos, hasta que la piel se arrugue y estén tiernos. Los últimos 5 minutos quita las tapas y reparte el resto del feta por encima.",
     "Mientras, corta el pepino en medias lunas finas y alíñalo con el yogur, sal y el resto del eneldo. Sirve los tomates templados con la ensalada."
@@ -289,7 +289,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-4271",
-  nombre: "Tofu a la shkmeruli: tofu dorado al horno en salsa georgiana de leche, aceite de ajo y cilantro, con patatas nuevas",
+  nombre: "Tofu a la shkmeruli: tofu dorado al horno en salsa georgiana de leche, aceite de oliva y cilantro, con patatas nuevas",
   subtitulo: "la salsa blanca y perfumada de Racha, la que en Georgia baña al pollo asado, ligada sin nata y gratinada en una cazuelita",
   origen: "inventada",
   categoria: "proteina-vegetal",
@@ -302,9 +302,8 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "tofu firme", q: 260, u: "g" },
-    { n: "patatas nuevas", q: 400, u: "g" },
-    { n: "aceite de oliva", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "patata nueva", q: 400, u: "g" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "leche sin lactosa", q: 200, u: "ml" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "cilantro fresco", q: 0.5, u: "manojo" },
@@ -315,15 +314,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima y déjalo prensar 15 minutos. Mientras, precalienta el horno a 220 °C, parte las patatas por la mitad, mézclalas con el aceite de oliva y sal y ásalas 20 minutos. Pica fino el cilantro.",
-    "Corta el tofu en 6 lonchas gruesas y sálalo. Dóralo en una sartén antiadherente con 1 cucharadita del aceite de ajo a fuego medio-alto, 3-4 minutos por cada lado, hasta que tenga una costra tostada. Colócalo en una cazuelita o fuente pequeña de horno donde quepa justo.",
-    "Disuelve la maicena en la leche fría y añade el resto del aceite de ajo, sal, bastante pimienta y la mitad del cilantro. Viértelo en la misma sartén y calienta a fuego medio, removiendo y despegando el fondo, 2-3 minutos, hasta que espese un poco y nape la cuchara.",
+    "Corta el tofu en 6 lonchas gruesas y sálalo. Dóralo en una sartén antiadherente con 1 cucharadita del aceite de oliva a fuego medio-alto, 3-4 minutos por cada lado, hasta que tenga una costra tostada. Colócalo en una cazuelita o fuente pequeña de horno donde quepa justo.",
+    "Disuelve la maicena en la leche fría y añade el resto del aceite de oliva, sal, bastante pimienta y la mitad del cilantro. Viértelo en la misma sartén y calienta a fuego medio, removiendo y despegando el fondo, 2-3 minutos, hasta que espese un poco y nape la cuchara.",
     "Vierte la salsa sobre el tofu y mete la cazuelita en el horno junto a las patatas 10-12 minutos, hasta que la salsa burbujee y se dore en los bordes y las patatas estén tostadas.",
     "Mientras, corta el pepino en medias lunas y alíñalo con sal, unas gotas de limón y un poco de cilantro.",
     "Sirve el tofu en su cazuelita, con el resto del cilantro por encima, las patatas y el pepino al lado para mojar en la salsa."
   ],
   nutricion: { kcal: 485, prot: 28, hc: 43, grasa: 22 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "al horno", "sin gluten", "poco especiada", "bajo en colesterol", "económica"],
-  consejo: "El shkmeruli de la región de Racha es pollo asado bañado en leche o nata con muchísimo ajo machacado y terminado en una ketsi de barro. Aquí el aceite de ajo pone todo el perfume, porque los fructanos del ajo no pasan a la grasa, y la leche sin lactosa ligada con un poco de maicena no se corta en el horno. El tofu firme, prensado y dorado, absorbe la salsa como el pollo y es bajo en FODMAP; si lo prefieres con carne, usa contramuslo sin piel.",
+  consejo: "El shkmeruli de la región de Racha es pollo asado bañado en leche o nata con muchísimo ajo machacado y terminado en una ketsi de barro. Aquí se prescinde del ajo y la leche sin lactosa ligada con un poco de maicena no se corta en el horno. El tofu firme, prensado y dorado, absorbe la salsa como el pollo y es bajo en FODMAP; si lo prefieres con carne, usa contramuslo sin piel.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -344,14 +343,13 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "tofu firme", q: 250, u: "g" },
-    { n: "pepinillos en vinagre", q: 60, u: "g", nota: "y 4 cucharadas de su líquido" },
-    { n: "aceite de ajo", q: 2, u: "cdta" },
+    { n: "pepinillos", q: 60, u: "g", nota: "y 4 cucharadas de su líquido" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "patata nueva", q: 400, u: "g" },
     { n: "zanahoria", q: 300, u: "g" },
     { n: "alcaravea", q: 1, u: "cdta" },
-    { n: "aceite de oliva", q: 2, u: "cdta" },
+    { n: "aceite de oliva", q: 4, u: "cdta" },
     { n: "yogur sin lactosa", q: 120, u: "g" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
@@ -359,7 +357,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Envuelve el tofu en un paño, ponle un peso encima y déjalo prensar 15 minutos. Córtalo en 8 lonchas de 1 cm.",
-    "Pica muy finos los tallos del eneldo y mézclalos en una fuente con el líquido de los pepinillos, el aceite de ajo, el pimentón y pimienta. Coloca el tofu, dale la vuelta para que se impregne y déjalo marinar 20 minutos (o toda la noche en la nevera).",
+    "Pica muy finos los tallos del eneldo y mézclalos en una fuente con el líquido de los pepinillos, el aceite de oliva, el pimentón y pimienta. Coloca el tofu, dale la vuelta para que se impregne y déjalo marinar 20 minutos (o toda la noche en la nevera).",
     "Mientras se marina, precalienta el horno a 210 °C. Parte las patatas por la mitad, corta las zanahorias en bastones gruesos y maja la alcaravea. Mézclalas en una bandeja con el aceite de oliva, la alcaravea y sal, y hornéalas 15 minutos.",
     "Haz sitio en la bandeja, coloca las lonchas de tofu sobre un trozo de papel de horno y píntalas con la marinada. Hornea 20 minutos más, dando la vuelta al tofu a mitad de tiempo, hasta que tenga los bordes dorados y las verduras estén tiernas y caramelizadas.",
     "Mientras, pica los pepinillos en daditos y las hojas de eneldo y mézclalos con el yogur, la mostaza y una pizca de sal.",
@@ -390,7 +388,7 @@ window.RECETAS_SEED.push({
     { n: "tomate", q: 500, u: "g", nota: "maduros y carnosos" },
     { n: "pepino", q: 300, u: "g" },
     { n: "nueces", q: 40, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "vinagre de vino blanco", q: 1, u: "cda" },
     { n: "cilantro molido", q: 0.5, u: "cdta" },
     { n: "fenogreco molido", q: 1, u: "pizca" },
@@ -403,7 +401,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Tritura las nueces con el aceite de ajo, el vinagre, el cilantro molido, el fenogreco, media cucharadita de sal y unos 60 ml de agua fría hasta tener una salsa espesa como un yogur. Si queda muy densa, añade agua a cucharadas.",
+    "Tritura las nueces con el aceite de oliva, el vinagre, el cilantro molido, el fenogreco, media cucharadita de sal y unos 60 ml de agua fría hasta tener una salsa espesa como un yogur. Si queda muy densa, añade agua a cucharadas.",
     "Corta los tomates en gajos y el pepino en medias lunas gruesas (pélalo a tiras si la piel te sienta mal).",
     "Pica gruesas las hojas de cilantro y albahaca y la parte verde de la cebolleta.",
     "Tuesta el pan sin gluten en rebanadas hasta que esté dorado y crujiente.",
@@ -411,7 +409,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 405, prot: 11, hc: 40, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "rápida", "sin gluten", "poco especiada", "verano"],
-  consejo: "En Georgia la salsa lleva ajo machacado y la ensalada, cebolla morada: el aceite de ajo y la parte verde de la cebolleta mantienen el carácter sin fructanos. Las nueces son aptas hasta unos 30 g por persona; aquí van 20 g. El queso blanco georgiano (imeruli o sulguni) se sustituye bien por feta, que en 25 g por ración apenas aporta lactosa. Alíñala en el último momento: el tomate suelta agua y la salsa se diluye.",
+  consejo: "En Georgia la salsa lleva ajo machacado y la ensalada, cebolla morada: la parte verde de la cebolleta mantiene el carácter sin fructanos. Las nueces son aptas hasta unos 30 g por persona; aquí van 20 g. El queso blanco georgiano (imeruli o sulguni) se sustituye bien por feta, que en 25 g por ración apenas aporta lactosa. Alíñala en el último momento: el tomate suelta agua y la salsa se diluye.",
   tupper: false,
   contundencia: "ligera",
   coste: "económica"
@@ -431,7 +429,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 260, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 260, u: "g", nota: "en filetes" },
     { n: "arroz basmati", q: 100, u: "g" },
     { n: "piña", q: 200, u: "g", nota: "fresca, en dados" },
     { n: "maíz dulce", q: 70, u: "g", nota: "escurrido" },
@@ -486,8 +484,7 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo las hojas verdes" },
     { n: "queso feta", q: 60, u: "g" },
-    { n: "aceite de oliva", q: 1.5, u: "cda" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "vinagre de vino", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -497,7 +494,7 @@ window.RECETAS_SEED.push({
     "Pon el trigo sarraceno en una cazuela con 280 ml de agua y una pizca de sal, lleva a hervor, tapa y cuece a fuego mínimo 12-15 minutos, hasta que absorba el agua y el grano esté tierno pero entero. Déjalo reposar tapado 5 minutos y suéltalo con un tenedor.",
     "Mientras, corta los pimientos en tiras anchas sin semillas y ponlos con la piel hacia abajo en una sartén con media cucharada del aceite de oliva, a fuego medio, tapados, 10 minutos, hasta que la piel se ampolle y la carne esté blanda. Déjalos tapados 3 minutos y retira la piel con los dedos.",
     "Corta el tomate y el pepino en dados de 1 cm y pica el perejil y la parte verde de la cebolleta.",
-    "Bate el resto del aceite de oliva con el aceite de ajo, el vinagre, sal y pimienta.",
+    "Bate el resto del aceite de oliva con el vinagre, sal y pimienta.",
     "Mezcla el alforfón templado con los pimientos troceados, la vinagreta y las hierbas; añade el tomate y el pepino y remueve con suavidad.",
     "Sirve con el feta rallado por encima en una nube blanca, como se hace en Bulgaria con el sirene."
   ],
@@ -523,7 +520,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "lechuga romana", q: 200, u: "g" },
     { n: "pepino", q: 200, u: "g" },
     { n: "rábano", q: 100, u: "g" },
@@ -572,7 +569,7 @@ window.RECETAS_SEED.push({
     { n: "pasta sin gluten", q: 160, u: "g", nota: "corta y enrollada, tipo casarecce o fusilli" },
     { n: "zanahoria", q: 100, u: "g" },
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo las hojas verdes" },
-    { n: "aceite de ajo", q: 2, u: "cdta" },
+    { n: "aceite de oliva", q: 2, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "tomate triturado", q: 200, u: "g" },
@@ -585,7 +582,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pica muy fina la zanahoria y corta en aros la parte verde de la cebolleta. Seca el cordero con papel de cocina y sálalo. Calienta el aceite de ajo en una cazuela de fondo grueso a fuego fuerte y dora la carne por tandas, 5-6 minutos, hasta que esté bien tostada por todos los lados.",
+    "Pica muy fina la zanahoria y corta en aros la parte verde de la cebolleta. Seca el cordero con papel de cocina y sálalo. Calienta el aceite de oliva en una cazuela de fondo grueso a fuego fuerte y dora la carne por tandas, 5-6 minutos, hasta que esté bien tostada por todos los lados.",
     "Baja el fuego, añade la zanahoria y la cebolleta y rehoga 4 minutos. Aparta la cazuela del fuego, añade el pimentón, remueve 20 segundos y agrega el tomate concentrado; cocina 1 minuto más.",
     "Incorpora el tomate triturado, 400 ml de agua caliente, el laurel y el romero. Tapa y guisa a fuego muy suave 60 minutos, removiendo de vez en cuando, hasta que la carne se deshaga al apretarla contra la pared; si al final queda caldoso, destapa 10 minutos para que la salsa espese. Hacia el final, pon a hervir agua abundante con sal para la pasta.",
     "Retira el laurel y el romero y deshilacha un poco la carne con dos tenedores dentro de la salsa. Prueba de sal y pimienta.",
@@ -595,7 +592,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 620, prot: 36, hc: 72, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "alta en proteína", "invierno"],
-  consejo: "En Krk las šurlice se enrollan a mano alrededor de una varilla fina, de ahí su forma de tubito retorcido, y se sirven con gulaš de cordero de la isla o con cigalas; una pasta corta sin gluten de forma enrollada recoge la salsa igual de bien. El guiso original lleva cebolla, ajo y vino tinto: aquí la parte verde de la cebolleta, el aceite de ajo y un fondo de tomate dan la profundidad sin fructanos ni alcohol. Guisar despacio y quitar la grasa visible deja la carne tierna y la ración en 20 g de grasa. El gulaš se congela muy bien solo, sin la pasta.",
+  consejo: "En Krk las šurlice se enrollan a mano alrededor de una varilla fina, de ahí su forma de tubito retorcido, y se sirven con gulaš de cordero de la isla o con cigalas; una pasta corta sin gluten de forma enrollada recoge la salsa igual de bien. El guiso original lleva cebolla, ajo y vino tinto: aquí la parte verde de la cebolleta y un fondo de tomate dan la profundidad sin fructanos ni alcohol. Guisar despacio y quitar la grasa visible deja la carne tierna y la ración en 20 g de grasa. El gulaš se congela muy bien solo, sin la pasta.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -656,12 +653,12 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 250, u: "g", nota: "sin la grasa visible" },
+    { n: "pierna de cordero deshuesada", q: 250, u: "g", nota: "sin la grasa visible" },
     { n: "mijo", q: 140, u: "g" },
     { n: "zanahoria", q: 150, u: "g" },
     { n: "pimiento verde", q: 100, u: "g" },
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo las hojas verdes" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "caldo de pollo", q: 350, u: "ml", nota: "casero, sin cebolla ni ajo" },
     { n: "laurel", q: 1, u: "hoja" },
@@ -675,7 +672,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta el cordero en dados de 2 cm, sécalo con papel de cocina y sálalo. Corta la zanahoria en bastones y el pimiento en tiras, y pica la parte verde de la cebolleta. Lava el mijo en un colador con agua muy caliente hasta que salga clara.",
-    "En una cazuela con el aceite de ajo dora el cordero a fuego fuerte 5 minutos, por tandas si hace falta, hasta que esté bien tostado por todos los lados.",
+    "En una cazuela con el aceite de oliva dora el cordero a fuego fuerte 5 minutos, por tandas si hace falta, hasta que esté bien tostado por todos los lados.",
     "Baja el fuego, añade la zanahoria, el pimiento y la cebolleta y rehoga 5 minutos. Aparta del fuego, añade el pimentón y remueve 20 segundos.",
     "Vierte el caldo, añade el laurel, tapa y cuece a fuego suave 30 minutos, hasta que el cordero esté tierno.",
     "Añade el mijo y 200 ml de agua caliente, sala, remueve una vez, tapa y cuece a fuego mínimo 15 minutos, hasta que el grano haya absorbido el líquido. Deja reposar tapado 10 minutos y suéltalo con un tenedor.",
@@ -684,7 +681,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 630, prot: 37, hc: 66, grasa: 23 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "creativa", "sin gluten", "poco especiada", "alta en proteína"],
-  consejo: "El pilav bosnio lleva cebolla rehogada y arroz; la parte verde de la cebolleta y el aceite de ajo dan el aroma, y el mijo, sin gluten y bajo en FODMAP, absorbe el caldo de la carne como el arroz y aporta más fibra suave. Quitar la grasa visible del cordero y guisarlo despacio lo hace mucho más digestivo. El pimiento verde se tolera en mayor cantidad que el rojo. Si prefieres una carne más ligera, usa contramuslo de pollo sin piel.",
+  consejo: "El pilav bosnio lleva cebolla rehogada y arroz; la parte verde de la cebolleta y el aceite de oliva dan el aroma, y el mijo, sin gluten y bajo en FODMAP, absorbe el caldo de la carne como el arroz y aporta más fibra suave. Quitar la grasa visible del cordero y guisarlo despacio lo hace mucho más digestivo. El pimiento verde se tolera en mayor cantidad que el rojo. Si prefieres una carne más ligera, usa contramuslo de pollo sin piel.",
   tupper: true,
   contundencia: "media",
   coste: "premium"
@@ -796,12 +793,12 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 150, u: "g" },
-    { n: "trucha (lomos)", q: 250, u: "g", nota: "sin piel ni espinas" },
+    { n: "filetes de trucha", q: 250, u: "g", nota: "sin piel ni espinas" },
     { n: "caldo de pescado", q: 800, u: "ml", nota: "casero, sin cebolla ni puerro" },
-    { n: "pepinillos en vinagre", q: 80, u: "g", nota: "y 3 cucharadas de su líquido" },
+    { n: "pepinillos", q: 80, u: "g", nota: "y 3 cucharadas de su líquido" },
     { n: "zanahoria", q: 100, u: "g" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud", nota: "solo las hojas verdes" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "yogur sin lactosa", q: 30, u: "g" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
@@ -810,7 +807,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Calienta el caldo y mantenlo a punto de hervir. Corta la zanahoria en dados pequeños y los pepinillos en daditos, pica la parte verde de la cebolleta y el eneldo y ralla medio limón.",
-    "En una cazuela ancha con el aceite de ajo rehoga la zanahoria y la cebolleta 4 minutos a fuego medio. Añade el arroz y nacáralo 1 minuto, hasta que el grano se vuelva translúcido en los bordes.",
+    "En una cazuela ancha con el aceite de oliva rehoga la zanahoria y la cebolleta 4 minutos a fuego medio. Añade el arroz y nacáralo 1 minuto, hasta que el grano se vuelva translúcido en los bordes.",
     "Vierte un tercio del caldo y cuece removiendo a menudo; ve añadiendo caldo caliente a medida que el arroz lo absorba, durante unos 17-18 minutos.",
     "A los 12 minutos, añade los pepinillos y su líquido. Corta la trucha en dados grandes de 3 cm y sálala.",
     "A los 16 minutos, cuando el arroz esté casi hecho y aún caldoso, coloca la trucha encima, tapa y apaga el fuego. Déjalo 3 minutos: el pescado se hace con el vapor y queda jugoso y nacarado.",
@@ -842,9 +839,9 @@ window.RECETAS_SEED.push({
     { n: "arroz redondo", q: 130, u: "g" },
     { n: "zanahoria", q: 150, u: "g" },
     { n: "cebolleta (parte verde)", q: 3, u: "ud", nota: "solo las hojas verdes" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "laurel", q: 1, u: "hoja" },
-    { n: "semillas de alcaravea", q: 0.5, u: "cdta" },
+    { n: "alcaravea", q: 0.5, u: "cdta" },
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "fenogreco molido", q: 0.5, u: "cdta" },
     { n: "cúrcuma molida", q: 0.25, u: "cdta" },
@@ -857,14 +854,14 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon la ternera en una cazuela con 900 ml de agua fría y el laurel. Lleva a ebullición, retira con una espumadera la espuma gris que suba, tapa dejando una rendija y cuece a fuego suave 60-70 minutos, hasta que la carne esté tierna.",
     "Mientras, prepara la sal svana suave: maja en el mortero la alcaravea con 1 cucharadita de sal hasta romper los granos y mézclala con el cilantro molido, el fenogreco y la cúrcuma. Corta la zanahoria en juliana fina y la parte verde de la cebolleta en aros, y pica el cilantro fresco.",
-    "En una sartén con el aceite de ajo rehoga a fuego medio la zanahoria 6 minutos, hasta que esté tierna y empiece a dorarse. Añade la cebolleta 1 minuto y la mitad de la sal svana 20 segundos, sin que se queme.",
+    "En una sartén con el aceite de oliva rehoga a fuego medio la zanahoria 6 minutos, hasta que esté tierna y empiece a dorarse. Añade la cebolleta 1 minuto y la mitad de la sal svana 20 segundos, sin que se queme.",
     "Retira el laurel de la cazuela y mide el caldo: debe quedar unos 650 ml con la carne (si falta, completa con agua caliente). Añade el sofrito y el arroz lavado y cuece sin tapar a fuego suave 18-20 minutos, removiendo de vez en cuando para que no se pegue, hasta que el grano esté tierno y el conjunto quede espeso y caldoso, como unas gachas con grano.",
     "Apaga el fuego, prueba y ajusta con el resto de la sal svana, añade la mitad del cilantro fresco y deja reposar 3 minutos.",
     "Mezcla el yogur con una pizca de sal y el resto del cilantro. Sirve el shilaplavi en platos hondos con una cucharada de yogur encima y pimienta recién molida."
   ],
   nutricion: { kcal: 520, prot: 35, hc: 59, grasa: 16 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "de cuchara", "alta en proteína", "invierno"],
-  consejo: "En Svanetia el shilaplavi se cocina en las fiestas con ternera o cordero y se sazona con svanuri marili, la sal de la región, que lleva ajo, fenogreco azul (utskho suneli), cilantro, alcaravea, caléndula y guindilla. Esta versión prescinde del ajo crudo y de la guindilla: el aceite de ajo pone el aroma y la cúrcuma, el color de la caléndula. Hervir la carne aparte y desespumarla deja un caldo limpio y ligero, y el arroz redondo bien cocido en él es de lo más suave para un intestino delicado. Si encuentras utskho suneli, úsalo en lugar del fenogreco.",
+  consejo: "En Svanetia el shilaplavi se cocina en las fiestas con ternera o cordero y se sazona con svanuri marili, la sal de la región, que lleva ajo, fenogreco azul (utskho suneli), cilantro, alcaravea, caléndula y guindilla. Esta versión prescinde del ajo crudo y de la guindilla: la cúrcuma pone el color de la caléndula. Hervir la carne aparte y desespumarla deja un caldo limpio y ligero, y el arroz redondo bien cocido en él es de lo más suave para un intestino delicado. Si encuentras utskho suneli, úsalo en lugar del fenogreco.",
   tupper: true,
   contundencia: "media",
   coste: "media"
@@ -884,7 +881,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "sin piel" },
     { n: "zanahoria", q: 100, u: "g" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "pimienta negra en grano", q: 0.5, u: "cdta" },
@@ -977,7 +974,7 @@ window.RECETAS_SEED.push({
     { n: "pan rallado sin gluten", q: 40, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "mantequilla", q: 10, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "mejorana seca", q: 1, u: "cdta" },
     { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "caldo de pollo", q: 1000, u: "ml", nota: "casero, sin cebolla ni ajo" },
@@ -991,7 +988,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Limpia los hígados de nervios y de restos de grasa verdosa y pícalos muy finos con un cuchillo, o tritúralos unos segundos, hasta tener una pasta con algo de textura.",
-    "En un bol, mezcla el hígado con el huevo, la mantequilla derretida, el aceite de ajo, la mejorana frotada entre los dedos, la nuez moscada, media cucharadita de sal, pimienta y el pan rallado. Deja reposar la masa 15 minutos en la nevera: el pan se hidrata y se podrá formar. Si sigue muy blanda, añade una cucharada más de pan rallado.",
+    "En un bol, mezcla el hígado con el huevo, la mantequilla derretida, el aceite de oliva, la mejorana frotada entre los dedos, la nuez moscada, media cucharadita de sal, pimienta y el pan rallado. Deja reposar la masa 15 minutos en la nevera: el pan se hidrata y se podrá formar. Si sigue muy blanda, añade una cucharada más de pan rallado.",
     "Mientras, corta la zanahoria en rodajas finas y la chirivía en daditos, lleva el caldo a ebullición con ellas y cuécelas 10 minutos a fuego medio. Pica el perejil.",
     "Baja el fuego para que el caldo solo tiemble. Con dos cucharillas mojadas en agua fría, forma bolitas del tamaño de una avellana grande y échalas al caldo. Cuécelas 8-10 minutos, hasta que suban a la superficie y estén firmes; abre una para comprobar que no queda rastro rosado.",
     "Añade los fideos de arroz y cuécelos el tiempo que indique el paquete, normalmente 3-4 minutos.",
@@ -999,7 +996,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 445, prot: 27, hc: 47, grasa: 15 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "poco especiada", "de cuchara", "económica", "invierno"],
-  consejo: "En Chequia los knedlíčky se hacen con hígado de ternera o de pollo, panecillo del día anterior, mucha mejorana y ajo machacado; el aceite de ajo deja el aroma sin fructanos y el pan rallado sin gluten liga igual de bien. El hígado de pollo es una proteína muy tierna, rica en hierro y en vitamina B12, y escalfado en caldo no lleva más grasa que la de la masa. Si sobra sopa, guarda las albondiguillas y los fideos aparte del caldo para que no se ablanden.",
+  consejo: "En Chequia los knedlíčky se hacen con hígado de ternera o de pollo, panecillo del día anterior, mucha mejorana y ajo machacado, que aquí se omite; el pan rallado sin gluten liga igual de bien. El hígado de pollo es una proteína muy tierna, rica en hierro y en vitamina B12, y escalfado en caldo no lleva más grasa que la de la masa. Si sobra sopa, guarda las albondiguillas y los fideos aparte del caldo para que no se ablanden.",
   tupper: true,
   contundencia: "ligera",
   coste: "económica"
@@ -1065,7 +1062,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 250, u: "g", nota: "en un trozo" },
+    { n: "pechuga de pavo", q: 250, u: "g", nota: "en un trozo" },
     { n: "caldo de pollo", q: 1000, u: "ml", nota: "casero, sin cebolla ni ajo" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "zanahoria", q: 150, u: "g" },

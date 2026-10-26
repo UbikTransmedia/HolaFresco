@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pollo", q: 320, u: "g" },
     { n: "almendras", q: 30, u: "g" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -60,7 +60,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pollo", q: 320, u: "g" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "pimentón picante", q: 0.5, u: "cdta" },
     { n: "orégano seco", q: 1, u: "cdta" },
@@ -107,7 +107,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "arroz redondo", q: 160, u: "g" },
     { n: "azafrán", q: 1, u: "pizca", nota: "unas 10 hebras" },
     { n: "caldo de pollo", q: 900, u: "ml" },
@@ -152,7 +152,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pavo", q: 320, u: "g" },
     { n: "zumo de naranja", q: 150, u: "ml" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "salsa de soja", q: 1, u: "cda" },
@@ -197,7 +197,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 550, u: "g", nota: "con hueso, 4 unidades" },
+    { n: "contramuslos de pollo", q: 550, u: "g", nota: "con hueso, 4 unidades" },
     { n: "vino tinto", q: 300, u: "ml" },
     { n: "setas variadas", q: 250, u: "g" },
     { n: "bacon", q: 60, u: "g" },
@@ -249,7 +249,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en filetes finos" },
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "alcaparras", q: 1, u: "cda" },
@@ -294,7 +294,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "arroz basmati", q: 130, u: "g" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "tomate pera", q: 2, u: "ud" },
@@ -338,7 +338,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "lentejas cocidas", q: 250, u: "g" },
     { n: "espinacas frescas", q: 80, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -379,7 +379,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "alubias rojas cocidas", q: 200, u: "g" },
     { n: "queso rallado", q: 80, u: "g" },
     { n: "tortillas de trigo", q: 4, u: "ud" },
@@ -424,7 +424,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "calabacín", q: 2, u: "ud" },
     { n: "pistachos", q: 35, u: "g", nota: "pelados y sin sal" },
     { n: "albahaca fresca", q: 1, u: "manojo" },
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 340, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 340, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "arroz redondo", q: 140, u: "g" },
     { n: "salsa de soja", q: 3, u: "cda" },
@@ -509,7 +509,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "garbanzos cocidos", q: 200, u: "g" },
     { n: "dátiles", q: 4, u: "ud" },
     { n: "almendras", q: 25, u: "g" },
@@ -557,7 +557,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 340, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 340, u: "g" },
     { n: "yogur griego natural", q: 60, u: "g" },
     { n: "garam masala", q: 2, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
@@ -603,7 +603,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 0.5, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -648,7 +648,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "caldo de pollo", q: 1000, u: "ml" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "jengibre fresco", q: 30, u: "g" },
@@ -693,7 +693,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "4 filetes finos" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "4 filetes finos" },
     { n: "jamón serrano", q: 4, u: "loncha" },
     { n: "salvia fresca", q: 8, u: "hoja" },
     { n: "harina de trigo", q: 1, u: "cda" },
@@ -736,7 +736,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y sin piel, 4 unidades" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con hueso y sin piel, 4 unidades" },
     { n: "jamón ibérico", q: 50, u: "g", nota: "en taquitos" },
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -780,7 +780,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 320, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 320, u: "g" },
     { n: "arroz basmati", q: 150, u: "g" },
     { n: "yogur griego natural", q: 100, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
@@ -829,7 +829,7 @@ window.RECETAS_SEED.push({
   equipo: ["batidora", "plancha", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 360, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 360, u: "g" },
     { n: "cebolleta", q: 2, u: "ud" },
     { n: "chile fresco", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -878,7 +878,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pavo", q: 320, u: "g" },
     { n: "almendras", q: 30, u: "g" },
     { n: "azafrán", q: 1, u: "pizca" },
     { n: "huevo", q: 2, u: "ud" },
@@ -924,7 +924,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y sin piel, 4 unidades" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y sin piel, 4 unidades" },
     { n: "za'atar", q: 2, u: "cda" },
     { n: "calabaza", q: 400, u: "g" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -965,7 +965,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pavo", q: 300, u: "g" },
     { n: "setas variadas", q: 250, u: "g" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "mostaza antigua", q: 1, u: "cda" },
@@ -1007,7 +1007,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 450, u: "g", nota: "deshuesado y sin piel" },
+    { n: "contramuslos de pavo", q: 450, u: "g", nota: "deshuesado y sin piel" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomate triturado", q: 200, u: "g" },
@@ -1057,7 +1057,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y piel" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "jengibre fresco", q: 30, u: "g" },
@@ -1104,7 +1104,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso, sin piel, 4 unidades" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con hueso, sin piel, 4 unidades" },
     { n: "ajo", q: 20, u: "diente", nota: "sin pelar" },
     { n: "tomillo fresco", q: 4, u: "rama" },
     { n: "vino blanco", q: 100, u: "ml" },

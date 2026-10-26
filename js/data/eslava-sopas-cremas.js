@@ -24,7 +24,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "con hueso y sin piel" },
     { n: "agua", q: 1200, u: "ml" },
     { n: "laurel", q: 2, u: "hoja" },
     { n: "cebada perlada", q: 60, u: "g" },
@@ -212,7 +212,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "chucrut", q: 400, u: "g" },
-    { n: "boletus deshidratados", q: 15, u: "g", nota: "o una mezcla de setas secas" },
+    { n: "boletus secos", q: 15, u: "g", nota: "o una mezcla de setas secas" },
     { n: "agua", q: 1000, u: "ml", nota: "templada" },
     { n: "ciruelas pasas", q: 4, u: "ud", nota: "sin hueso" },
     { n: "laurel", q: 2, u: "hoja" },
@@ -299,7 +299,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cabezas y espinas de pescado blanco", q: 500, u: "g", nota: "pídelas en la pescadería, sin agallas" },
+    { n: "espinas y cabezas de pescado", q: 500, u: "g", nota: "pídelas en la pescadería, sin agallas" },
     { n: "agua", q: 1200, u: "ml" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "caldo de pollo", q: 1000, u: "ml" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -659,7 +659,7 @@ window.RECETAS_SEED.push({
   tiempo: 35,
   dificultad: "fácil",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "langostinos crudos", q: 400, u: "g", nota: "enteros, unos 14; valen congelados" },
     { n: "aceite de oliva", q: 1, u: "cda" },
@@ -683,11 +683,11 @@ window.RECETAS_SEED.push({
     "Echa los langostinos y cuécelos 2 minutos, solo hasta que se curven y se vuelvan rosados.",
     "Fuera del fuego, añade el vodka, el zumo del medio limón, el eneldo y las hojitas del hinojo. Pimienta negra y a la mesa enseguida."
   ],
-  nutricion: { kcal: 390, prot: 29, hc: 35, grasa: 15 },
+  nutricion: { kcal: 705, prot: 48, hc: 55, grasa: 29 },
   etiquetas: ["creativa", "ligera", "sin gluten", "alta en proteína", "para invitados", "poco especiada"],
   consejo: "Los pescadores del Volga terminaban la ukha con un vaso de vodka: limpia el regusto graso del caldo y realza el aroma del eneldo. Si cocinas para niños, añádelo con la patata para que se evapore el alcohol. No tires las cabezas: son la mitad del sabor de la sopa. Tómala recién hecha, porque los langostinos recalentados quedan duros.",
   tupper: false,
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "premium"
 });
 
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 220, u: "g" },
+    { n: "pechuga de pollo", q: 220, u: "g" },
     { n: "caldo de pollo", q: 900, u: "ml" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -751,7 +751,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 250, u: "g", nota: "babilla o cadera" },
+    { n: "filetes de ternera", q: 250, u: "g", nota: "babilla o cadera" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "mantequilla", q: 15, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -806,11 +806,11 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "caldo de verduras", q: 600, u: "ml" },
     { n: "eneldo fresco", q: 0.5, u: "manojo" },
-    { n: "rábanos", q: 6, u: "ud" },
+    { n: "rábano", q: 6, u: "ud" },
     { n: "vinagre de manzana", q: 3, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "pan de centeno", q: 2, u: "rebanada" },
-    { n: "semillas de girasol", q: 15, u: "g" },
+    { n: "pipas de girasol", q: 15, u: "g" },
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },

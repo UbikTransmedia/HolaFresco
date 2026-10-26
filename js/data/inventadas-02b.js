@@ -151,7 +151,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 1,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 280, u: "g", nota: "en un solo taco, previamente congelado" },
+    { n: "bonito fresco", q: 280, u: "g", nota: "en un solo taco, previamente congelado" },
     { n: "sésamo", q: 2, u: "cda" },
     { n: "alga wakame deshidratada", q: 5, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
@@ -240,7 +240,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pez espada (rodajas)", q: 300, u: "g", nota: "2 rodajas de 2 cm" },
+    { n: "pez espada", q: 300, u: "g", nota: "2 rodajas de 2 cm" },
     { n: "hinojo", q: 1, u: "ud" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "aceitunas negras", q: 20, u: "g" },
@@ -327,7 +327,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 250, u: "g" },
+    { n: "abadejo", q: 250, u: "g" },
     { n: "langostinos pelados", q: 120, u: "g" },
     { n: "boniato", q: 350, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -420,7 +420,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g", nota: "4 lomos con piel" },
+    { n: "caballa fresca", q: 300, u: "g", nota: "4 lomos con piel" },
     { n: "miso", q: 1, u: "cda" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "miel", q: 1, u: "cdta" },
@@ -765,7 +765,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-103",
   nombre: "Jurel a la espalda con ajada gallega y cachelos al pimentón",
-  subtitulo: "pescado azul a la plancha con aceite de ajo y pimentón",
+  subtitulo: "pescado azul a la plancha con aceite de oliva y pimentón",
   origen: "inventada",
   categoria: "pescado",
   cocina: "española",
@@ -819,7 +819,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 300, u: "g", nota: "en 4 trozos" },
+    { n: "corvina", q: 300, u: "g", nota: "en 4 trozos" },
     { n: "cilantro fresco", q: 1, u: "manojo" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "ajo", q: 3, u: "diente" },
@@ -967,7 +967,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },

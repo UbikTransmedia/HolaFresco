@@ -29,12 +29,12 @@ window.RECETAS_SEED.push({
     { n: "aceite de oliva", u: "al gusto", nota: "para freír y aliñar" }
   ],
   pasos: [
-    "Pica muy finos los ajos y el perejil y mézclalos con 3 cucharadas de aceite. Reserva este aceite de ajo.",
+    "Pica muy finos los ajos y el perejil y mézclalos con 3 cucharadas de aceite. Reserva este aceite de oliva.",
     "Pela las patatas, córtalas en bastones, lávalas y sécalas. Fríelas en abundante aceite 8 minutos a fuego medio y otros 3-4 a fuego fuerte, hasta que estén doradas. Sala.",
     "Prepara la ensalada de lechuga, tomate y cebolla y aliña al servir con aceite, vinagre y sal.",
     "Calienta la plancha o una sartén grande de hierro a fuego muy fuerte, sin aceite. Sala las tiras de costilla con sal gruesa.",
     "Ásalas en tandas sin amontonarlas 4-5 minutos por cada lado, hasta que la grasa esté tostada y crujiente y la carne bien hecha.",
-    "Sírvelas en una fuente, pintadas con el aceite de ajo y perejil, con las patatas y la ensalada."
+    "Sírvelas en una fuente, pintadas con el aceite de oliva y perejil, con las patatas y la ensalada."
   ],
   nutricion: { kcal: 750, prot: 26, hc: 22, grasa: 62 },
   etiquetas: ["tradicional", "saciante", "económica", "fácil", "verano", "poco especiada"],
@@ -102,7 +102,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 250, u: "g", nota: "de falda o babilla, en daditos muy pequeños" },
+    { n: "filetes de ternera", q: 250, u: "g", nota: "de falda o babilla, en daditos muy pequeños" },
     { n: "tapas de empanada", q: 8, u: "ud", nota: "obleas de unos 12 cm" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "cebolleta", q: 1, u: "ud" },
@@ -146,7 +146,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 2, u: "ud", nota: "grandes, unos 300 g en total" },
+    { n: "filetes finos de ternera", q: 2, u: "ud", nota: "grandes, unos 300 g en total" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -231,7 +231,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 320, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 320, u: "g", nota: "sin piel" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "romero fresco", q: 1, u: "rama" },
@@ -270,7 +270,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "deshuesados y sin piel, unos 350 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "deshuesados y sin piel, unos 350 g" },
     { n: "patata", q: 500, u: "g", nota: "pequeñas, del mismo tamaño" },
     { n: "sal gruesa", q: 70, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
@@ -389,7 +389,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "plancha"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (solomillo)", q: 300, u: "g", nota: "en dos medallones gruesos" },
+    { n: "solomillo de ternera", q: 300, u: "g", nota: "en dos medallones gruesos" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -426,9 +426,9 @@ window.RECETAS_SEED.push({
   tiempo: 40,
   dificultad: "media",
   equipo: ["sartén", "plancha"],
-  raciones: 2,
+  raciones: 4,
   ingredientes: [
-    { n: "ternera (chuletón)", q: 800, u: "g", nota: "una pieza con hueso de 4-5 cm de grosor" },
+    { n: "chuletón de ternera", q: 800, u: "g", nota: "una pieza con hueso de 4-5 cm de grosor" },
     { n: "pimientos del piquillo", q: 6, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "patata", q: 350, u: "g" },
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
     "Pásalo a una tabla, déjalo reposar 5 minutos y córtalo en tiras gruesas separándolo del hueso. Echa sal gruesa por encima.",
     "Sirve la carne en una fuente caliente con los piquillos y las patatas fritas."
   ],
-  nutricion: { kcal: 875, prot: 55, hc: 40, grasa: 55 },
+  nutricion: { kcal: 660, prot: 35, hc: 14, grasa: 51 },
   etiquetas: ["tradicional", "para invitados", "de domingo", "saciante", "para compartir", "poco especiada"],
   consejo: "La sal gruesa siempre al final, nunca antes. Si la cocina se llena de humo, abre la ventana: es buena señal. Si te queda poco hecho al cortarlo, pasa las tiras unos segundos por la sartén caliente.",
   contundencia: "contundente",
@@ -500,9 +500,9 @@ window.RECETAS_SEED.push({
   tiempo: 140,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
-    { n: "pavo (muslo)", q: 1, u: "ud", nota: "con hueso y piel, unos 800 g" },
+    { n: "muslo de pavo", q: 1, u: "ud", nota: "con hueso y piel, unos 800 g" },
     { n: "manzana", q: 2, u: "ud", nota: "reineta" },
     { n: "castañas cocidas", q: 120, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -522,10 +522,10 @@ window.RECETAS_SEED.push({
     "Hornea destapado 50-60 minutos más, regando cada 20 minutos, hasta que la piel esté dorada, la carne se separe del hueso con facilidad y las manzanas estén blandas.",
     "Deja reposar 10 minutos, separa la carne del hueso en trozos grandes y sírvela con las manzanas, las castañas, la cebolla y el jugo de la fuente."
   ],
-  nutricion: { kcal: 525, prot: 46, hc: 45, grasa: 18 },
+  nutricion: { kcal: 675, prot: 32, hc: 89, grasa: 18 },
   etiquetas: ["tradicional", "al horno", "fácil", "invierno", "para invitados", "de domingo", "sin verduras", "poco especiada", "bajo en colesterol"],
   consejo: "El muslo de pavo es barato y queda mucho más jugoso que la pechuga en asados largos: es la forma fácil de tener pavo de Navidad para dos. Si la salsa está líquida, redúcela en un cazo.",
-  contundencia: "media",
+  contundencia: "contundente",
   coste: "media"
 });
 
@@ -543,7 +543,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g", nota: "magro, en dados de 2 cm" },
+    { n: "paleta de cerdo", q: 400, u: "g", nota: "magro, en dados de 2 cm" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomate triturado", q: 400, u: "g" },
@@ -702,12 +702,12 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en 4 filetes" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en 4 filetes" },
     { n: "caldo de pollo", q: 500, u: "ml" },
     { n: "mantequilla", q: 25, u: "g" },
     { n: "harina de trigo", q: 40, u: "g" },
     { n: "leche", q: 250, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "pan rallado", q: 60, u: "g" },
     { n: "tomate", q: 2, u: "ud" },
@@ -745,7 +745,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "plancha"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "deshuesados y sin piel, unos 320 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "deshuesados y sin piel, unos 320 g" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -872,7 +872,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (redondo)", q: 450, u: "g", nota: "o lomo alto, en una pieza atada" },
+    { n: "redondo de ternera", q: 450, u: "g", nota: "o lomo alto, en una pieza atada" },
     { n: "mostaza de Dijon", q: 1, u: "cda" },
     { n: "patata", q: 400, u: "g" },
     { n: "romero fresco", q: 2, u: "rama" },
@@ -957,7 +957,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en dados de 3 cm" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
     { n: "pimiento verde", q: 0.5, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },

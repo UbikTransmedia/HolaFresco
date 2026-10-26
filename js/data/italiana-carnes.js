@@ -24,7 +24,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (morcillo)", q: 380, u: "g", nota: "en una pieza; también vale redondo o carrillada" },
+    { n: "morcillo de ternera", q: 380, u: "g", nota: "en una pieza; también vale redondo o carrillada" },
     { n: "vino tinto", q: 400, u: "ml", nota: "con cuerpo: Barolo o nebbiolo si lo encuentras; si no, un tinto joven de tempranillo o garnacha" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -32,7 +32,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "laurel", q: 2, u: "hoja" },
-    { n: "clavo de olor", q: 2, u: "ud" },
+    { n: "clavo", q: 2, u: "ud" },
     { n: "canela en rama", q: 0.5, u: "ud" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "polenta", q: 120, u: "g" },
@@ -75,9 +75,9 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "costilla de cerdo", q: 400, u: "g", nota: "cortada en trozos de dos huesos" },
+    { n: "costillas de cerdo", q: 400, u: "g", nota: "cortada en trozos de dos huesos" },
     { n: "salchichas frescas", q: 200, u: "g", nota: "de cerdo, unas 4" },
-    { n: "corteza de cerdo", q: 80, u: "g", opcional: true, nota: "la piel fresca del tocino; da gelatina y cuerpo a la salsa" },
+    { n: "cortezas de cerdo", q: 80, u: "g", opcional: true, nota: "la piel fresca del tocino; da gelatina y cuerpo a la salsa" },
     { n: "col rizada", q: 600, u: "g", nota: "col de Milán; si no la encuentras, repollo" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -251,7 +251,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 300, u: "g", nota: "de tapa o babilla" },
+    { n: "filetes finos de ternera", q: 300, u: "g", nota: "de tapa o babilla" },
     { n: "alcachofa", q: 4, u: "ud", nota: "grandes y prietas" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -295,7 +295,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 600, u: "g", nota: "lechal o recental, troceada en piezas de 4–5 cm" },
+    { n: "paletilla de cordero", q: 600, u: "g", nota: "lechal o recental, troceada en piezas de 4–5 cm" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "salvia fresca", q: 4, u: "hoja" },
@@ -341,7 +341,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "cabecero de lomo de cerdo", q: 300, u: "g", nota: "en 6 filetes finos; es el capocollo italiano" },
     { n: "panceta", q: 6, u: "loncha", nota: "finas" },
-    { n: "queso provolone", q: 60, u: "g", nota: "o caciocavallo" },
+    { n: "provolone", q: 60, u: "g", nota: "o caciocavallo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "calabacín", q: 1, u: "ud" },
@@ -381,7 +381,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 300, u: "g", nota: "6 filetes de babilla o tapa" },
+    { n: "filetes finos de ternera", q: 300, u: "g", nota: "6 filetes de babilla o tapa" },
     { n: "pan rallado", q: 50, u: "g" },
     { n: "queso pecorino", q: 25, u: "g", nota: "rallado; o parmesano" },
     { n: "pasas", q: 15, u: "g" },
@@ -427,7 +427,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 320, u: "g", nota: "con algo de grasa; en los Abruzos se usa carnero" },
+    { n: "pierna de cordero deshuesada", q: 320, u: "g", nota: "con algo de grasa; en los Abruzos se usa carnero" },
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "pan", q: 4, u: "rebanada", nota: "de hogaza" },
@@ -470,7 +470,7 @@ window.RECETAS_SEED.push({
   equipo: ["airfryer", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "pesto de albahaca", q: 3, u: "cda", nota: "casero o de bote" },
     { n: "limón", q: 1, u: "ud" },
     { n: "pan duro", q: 80, u: "g", nota: "del día anterior, mejor de hogaza" },
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes finos" },
     { n: "queso pecorino", q: 50, u: "g", nota: "romano, rallado muy fino; o mitad parmesano y mitad queso curado de oveja" },
     { n: "pimienta negra", q: 1, u: "cdta", nota: "recién molida, gruesa" },
     { n: "harina de trigo", q: 1, u: "cda" },
@@ -559,7 +559,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
     { n: "'nduja", q: 40, u: "g", nota: "o 40 g de sobrasada con media cucharadita de pimentón picante" },
     { n: "miel", q: 1, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
@@ -610,7 +610,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 1, u: "diente" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "espinacas frescas", q: 100, u: "g" },
-    { n: "queso provolone", q: 40, u: "g", nota: "en lonchas; o mozzarella" },
+    { n: "provolone", q: 40, u: "g", nota: "en lonchas; o mozzarella" },
     { n: "tomate triturado", q: 200, u: "g" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
@@ -781,7 +781,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "pistachos", q: 40, u: "g", nota: "pelados y sin sal" },
     { n: "pan rallado", q: 20, u: "g" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
@@ -870,7 +870,7 @@ window.RECETAS_SEED.push({
   equipo: ["slow-cooker", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (muslo deshuesado)", q: 400, u: "g", nota: "sin piel" },
+    { n: "muslo de pavo deshuesado", q: 400, u: "g", nota: "sin piel" },
     { n: "panceta", q: 40, u: "g", nota: "en un trozo" },
     { n: "castañas cocidas", q: 150, u: "g", nota: "peladas, envasadas al vacío" },
     { n: "cebolla", q: 1, u: "ud" },

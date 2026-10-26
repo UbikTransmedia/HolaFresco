@@ -24,7 +24,7 @@ window.RECETAS_SEED.push({
     { n: "kale", q: 100, u: "g" },
     { n: "queso feta", q: 100, u: "g" },
     { n: "granada", q: 0.5, u: "ud" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "miel", q: 1, u: "cdta" },
@@ -63,7 +63,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en filetes" },
     { n: "manzana", q: 1, u: "ud", nota: "roja, crujiente" },
     { n: "apio", q: 2, u: "rama" },
     { n: "uva", q: 100, u: "g", nota: "sin pepitas" },
@@ -149,7 +149,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 300, u: "g", nota: "muy finos, de aguja o cadera" },
+    { n: "filetes de ternera", q: 300, u: "g", nota: "muy finos, de aguja o cadera" },
     { n: "salsa de soja", q: 4, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cda" },
@@ -241,7 +241,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 320, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 320, u: "g" },
     { n: "salsa de soja", q: 3, u: "cda" },
     { n: "cúrcuma molida", q: 1, u: "cdta" },
     { n: "comino molido", q: 1, u: "cdta" },
@@ -292,7 +292,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "endivia", q: 3, u: "ud" },
+    { n: "endibias", q: 3, u: "ud" },
     { n: "pera", q: 2, u: "ud", nota: "conferencia, firmes" },
     { n: "queso azul", q: 80, u: "g", nota: "roquefort, cabrales o gorgonzola" },
     { n: "nueces", q: 25, u: "g" },
@@ -748,7 +748,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "limón", q: 2, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "orégano seco", q: 2, u: "cdta" },
@@ -796,7 +796,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "cebolleta", q: 3, u: "ud" },
     { n: "pepino", q: 2, u: "ud" },
@@ -1024,7 +1024,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "bacon", q: 4, u: "loncha" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "aguacate", q: 1, u: "ud" },
@@ -1113,7 +1113,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados y sin piel" },
     { n: "miso", q: 1, u: "cda", nota: "blanco" },
     { n: "yogur griego natural", q: 60, u: "g" },
     { n: "jengibre fresco", q: 10, u: "g" },

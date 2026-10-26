@@ -59,10 +59,10 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 250, u: "g" },
+    { n: "pechuga de pollo", q: 250, u: "g" },
     { n: "cuscús", q: 140, u: "g" },
     { n: "caldo de pollo", q: 170, u: "ml" },
-    { n: "zaatar", q: 2, u: "cdta" },
+    { n: "za'atar", q: 2, u: "cdta" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "yogur natural", q: 125, u: "g" },
@@ -193,7 +193,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g", nota: "limpios" },
+    { n: "mejillones", q: 1000, u: "g", nota: "limpios" },
     { n: "bulgur", q: 140, u: "g", nota: "grano medio" },
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "tomate", q: 2, u: "ud" },
@@ -457,7 +457,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de fideuá", q: 170, u: "g" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "deshuesados, en dados" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "deshuesados, en dados" },
     { n: "alcachofa", q: 3, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -544,7 +544,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g", nota: "en dados" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g", nota: "en dados" },
     { n: "arroz basmati", q: 160, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -719,7 +719,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz arborio", q: 170, u: "g" },
-    { n: "pollo (pechuga)", q: 250, u: "g", nota: "en dados" },
+    { n: "pechuga de pollo", q: 250, u: "g", nota: "en dados" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "champiñones", q: 200, u: "g" },
     { n: "ajo", q: 1, u: "diente" },
@@ -804,7 +804,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados, en trozos grandes" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados, en trozos grandes" },
     { n: "arroz redondo", q: 170, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -892,7 +892,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g", nota: "en tacos" },
+    { n: "bacalao desalado", q: 300, u: "g", nota: "en tacos" },
     { n: "arroz redondo", q: 140, u: "g" },
     { n: "pimientos del piquillo", q: 4, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud" },
@@ -979,7 +979,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "en dados de 2 cm" },
+    { n: "pierna de cordero deshuesada", q: 300, u: "g", nota: "en dados de 2 cm" },
     { n: "arroz basmati", q: 160, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -1026,7 +1026,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "arroz redondo", q: 170, u: "g" },
     { n: "ajo", q: 8, u: "diente", nota: "enteros, con piel" },
     { n: "tomate", q: 2, u: "ud" },

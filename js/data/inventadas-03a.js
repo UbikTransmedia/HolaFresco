@@ -17,7 +17,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pollo", q: 320, u: "g" },
     { n: "rúcula", q: 60, u: "g" },
     { n: "parmesano", q: 25, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -58,7 +58,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pavo", q: 300, u: "g" },
     { n: "fideos de arroz", q: 100, u: "g" },
     { n: "pak choi", q: 2, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -104,7 +104,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (alitas)", q: 700, u: "g" },
+    { n: "alitas de pollo", q: 700, u: "g" },
     { n: "levadura química", q: 1, u: "cdta" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "ajo", q: 2, u: "diente" },
@@ -196,7 +196,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "yogur griego natural", q: 200, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -244,7 +244,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pollo", q: 320, u: "g" },
     { n: "ajo", q: 6, u: "diente" },
     { n: "guindilla seca", q: 1, u: "ud" },
     { n: "vino blanco", q: 60, u: "ml" },
@@ -263,7 +263,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite en una sartén amplia a fuego medio y dora los ajos con la guindilla partida 1-2 minutos, hasta que empiecen a tomar color. Sácalos a un plato con una espumadera para que no se quemen.",
     "Sube el fuego y dora el pollo en el mismo aceite 5-6 minutos, moviéndolo solo de vez en cuando, hasta que esté dorado por fuera y hecho por dentro.",
     "Devuelve los ajos a la sartén, vierte el vino y deja que burbujee 1 minuto para que evapore el alcohol y se mezcle con el aceite.",
-    "Añade las patatas y las judías escurridas, remueve 1 minuto para que se impregnen del aceite de ajo, apaga y espolvorea el perejil. Rectifica de sal y sirve enseguida."
+    "Añade las patatas y las judías escurridas, remueve 1 minuto para que se impregnen del aceite de oliva, apaga y espolvorea el perejil. Rectifica de sal y sirve enseguida."
   ],
   nutricion: { kcal: 510, prot: 42, hc: 40, grasa: 20 },
   etiquetas: ["rápida", "alta en proteína", "económica", "una sola sartén", "bajo en colesterol"],
@@ -286,7 +286,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "garbanzos cocidos", q: 240, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
@@ -377,7 +377,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "pasta de achiote", q: 1, u: "cda" },
     { n: "zumo de naranja", q: 60, u: "ml" },
     { n: "lima", q: 2, u: "ud" },
@@ -423,7 +423,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pavo", q: 320, u: "g" },
     { n: "calabaza", q: 350, u: "g" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "leche de coco", q: 200, u: "ml" },
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con piel y hueso, 4 unidades" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con piel y hueso, 4 unidades" },
     { n: "mostaza antigua", q: 2, u: "cda" },
     { n: "mostaza de Dijon", q: 1, u: "cda" },
     { n: "miel", q: 1.5, u: "cda" },
@@ -478,7 +478,7 @@ window.RECETAS_SEED.push({
     { n: "coliflor", q: 300, u: "g" },
     { n: "mantequilla", q: 20, u: "g" },
     { n: "leche", q: 80, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 340, u: "g" },
+    { n: "pechuga de pollo", q: 340, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "orégano seco", q: 2, u: "cdta" },
     { n: "ajo", q: 3, u: "diente" },
@@ -557,7 +557,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "salsa de soja", q: 4, u: "cda" },
     { n: "miel", q: 2, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
@@ -601,7 +601,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 320, u: "g", nota: "en 4 filetes finos" },
+    { n: "pechuga de pavo", q: 320, u: "g", nota: "en 4 filetes finos" },
     { n: "panko", q: 40, u: "g" },
     { n: "parmesano", q: 20, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso, 4 unidades" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso, 4 unidades" },
     { n: "chipotle en adobo", q: 1, u: "cda" },
     { n: "chocolate negro", q: 25, u: "g" },
     { n: "tomate triturado", q: 200, u: "g" },
@@ -744,7 +744,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "yogur griego natural", q: 200, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -792,7 +792,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pollo", q: 320, u: "g" },
     { n: "champiñones", q: 250, u: "g" },
     { n: "pasta", q: 160, u: "g", nota: "tagliatelle" },
     { n: "nata para cocinar", q: 150, u: "ml" },
@@ -838,11 +838,11 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 340, u: "g", nota: "2 piezas gruesas" },
+    { n: "pechuga de pavo", q: 340, u: "g", nota: "2 piezas gruesas" },
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "queso de cabra", q: 60, u: "g" },
     { n: "ajo", q: 1, u: "diente" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "caldo de pollo", q: 100, u: "ml" },
@@ -884,7 +884,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g" },
+    { n: "pechuga de pollo", q: 320, u: "g" },
     { n: "maicena", q: 3, u: "cda" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "limón", q: 2, u: "ud" },
@@ -932,7 +932,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso, 4 unidades" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso, 4 unidades" },
     { n: "chorizo", q: 80, u: "g" },
     { n: "garbanzos cocidos", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -980,7 +980,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 340, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 340, u: "g" },
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "lima", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -1029,13 +1029,13 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "quinoa", q: 90, u: "g" },
     { n: "aguacate", q: 0.5, u: "ud" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "canónigos", q: 60, u: "g" },
     { n: "cebolla morada", q: 0.25, u: "ud" },
-    { n: "semillas de calabaza", q: 1, u: "cda" },
+    { n: "pipas de calabaza", q: 1, u: "cda" },
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "miel", q: 1, u: "cdta" },

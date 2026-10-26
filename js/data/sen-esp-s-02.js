@@ -111,7 +111,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 160, u: "g" },
-    { n: "pimientos asados", q: 150, u: "g", nota: "de bote o caseros, en tiras" },
+    { n: "pimiento rojo asado", q: 150, u: "g", nota: "de bote o caseros, en tiras" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -196,7 +196,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g", nota: "2 lomos gruesos" },
+    { n: "bacalao desalado", q: 300, u: "g", nota: "2 lomos gruesos" },
     { n: "coliflor", q: 400, u: "g" },
     { n: "patata", q: 400, u: "g", nota: "gallega si es posible" },
     { n: "huevo", q: 2, u: "ud" },
@@ -282,7 +282,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 300, u: "g" },
+    { n: "abadejo", q: 300, u: "g" },
     { n: "alcachofa", q: 4, u: "ud" },
     { n: "patata", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -414,7 +414,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslos)", q: 400, u: "g", nota: "deshuesado y sin piel" },
+    { n: "contramuslos de pavo", q: 400, u: "g", nota: "deshuesado y sin piel" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "zanahoria", q: 2, u: "ud" },
@@ -503,7 +503,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "deshuesados y sin piel" },
     { n: "berenjena", q: 1, u: "ud", nota: "grande, unos 350 g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -755,7 +755,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-5182",
   nombre: "Pericana alcoyana de pimientos secos, bacalao y aceitunas con patatas y huevo",
-  subtitulo: "el plato de Alcoy de pimiento seco frito y bacalao desmigado en aceite de ajo, con patatas cocidas para hacerlo plato único",
+  subtitulo: "el plato de Alcoy de pimiento seco frito y bacalao desmigado en aceite de oliva, con patatas cocidas para hacerlo plato único",
   origen: "inventada",
   categoria: "ensaladas",
   cocina: "española",
@@ -766,7 +766,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 200, u: "g" },
+    { n: "bacalao desalado", q: 200, u: "g" },
     { n: "pimiento choricero", q: 4, u: "ud", nota: "seco; en Alcoy, pimientos secos de bola o alargados" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "aceitunas negras", q: 60, u: "g" },
@@ -808,8 +808,8 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
-    { n: "cogollo de lechuga", q: 3, u: "ud" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
+    { n: "cogollos de lechuga", q: 3, u: "ud" },
     { n: "pimientos del piquillo", q: 4, u: "ud" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -983,9 +983,9 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
-    { n: "bacalao desalado (lomos)", q: 150, u: "g" },
+    { n: "bacalao desalado", q: 150, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
-    { n: "ñora", q: 2, u: "ud" },
+    { n: "ñoras", q: 2, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "comino molido", q: 1, u: "cdta" },
@@ -1028,7 +1028,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "1 bote, escurridos y enjuagados" },
-    { n: "pimientos asados", q: 200, u: "g", nota: "de bote, con su jugo" },
+    { n: "pimiento rojo asado", q: 200, u: "g", nota: "de bote, con su jugo" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "caldo de verduras", q: 500, u: "ml" },

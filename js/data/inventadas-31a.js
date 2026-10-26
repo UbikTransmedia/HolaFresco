@@ -18,7 +18,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel, en tiras gruesas" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel, en tiras gruesas" },
     { n: "patata", q: 400, u: "g", nota: "en gajos con piel" },
     { n: "harina de maíz", q: 60, u: "g", nota: "fina, certificada sin gluten" },
     { n: "maicena", q: 1, u: "cda" },
@@ -66,7 +66,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en dados de 3 cm" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en dados de 3 cm" },
     { n: "harina de almendra", q: 50, u: "g" },
     { n: "harina de maíz", q: 20, u: "g", nota: "certificada sin gluten" },
     { n: "parmesano", q: 20, u: "g", nota: "rallado" },
@@ -249,7 +249,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 220, u: "g" },
+    { n: "bacalao desalado", q: 220, u: "g" },
     { n: "patata", q: 400, u: "g", nota: "harinosa" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -607,7 +607,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en tiras" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en tiras" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -830,7 +830,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados y sin piel, en dados" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados y sin piel, en dados" },
     { n: "pimiento verde", q: 1, u: "ud", nota: "en trozos de 3 cm" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "tamari", q: 3, u: "cda" },
@@ -882,7 +882,7 @@ window.RECETAS_SEED.push({
     { n: "queso feta", q: 60, u: "g" },
     { n: "rúcula", q: 2, u: "puñado" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
-    { n: "semillas de calabaza", q: 15, u: "g" },
+    { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "mostaza de Dijon", q: 1, u: "cdta" },
     { n: "vinagre de Jerez", q: 1, u: "cda" },
@@ -967,7 +967,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (chuletillas)", q: 400, u: "g", nota: "de lechal o recental" },
+    { n: "chuletillas de cordero", q: 400, u: "g", nota: "de lechal o recental" },
     { n: "patata", q: 400, u: "g", nota: "en dados de 2 cm" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "tomillo fresco", q: 2, u: "rama" },
@@ -997,7 +997,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1533",
   nombre: "Bacalao fresco con costra de almendra y perejil en airfryer con judías verdes",
-  subtitulo: "con aceite de ajo y limón, apto bajo en FODMAP",
+  subtitulo: "con aceite de oliva y limón, apto bajo en FODMAP",
   origen: "inventada",
   categoria: "pescado",
   cocina: "europea",
@@ -1013,7 +1013,7 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 25, u: "g", nota: "molidas gruesas" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
-    { n: "aceite de ajo", q: 1.5, u: "cda" },
+    { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -1021,15 +1021,15 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con sal y cuece las judías verdes 6-7 minutos, hasta que estén tiernas pero aún crujientes; mientras, pica muy fino el perejil y ralla el limón. Escurre las judías.",
-    "Mezcla la almendra molida con el perejil, la ralladura del limón, 1 cucharada de aceite de ajo, sal y pimienta hasta tener una pasta húmeda.",
+    "Mezcla la almendra molida con el perejil, la ralladura del limón, 1 cucharada de aceite de oliva, sal y pimienta hasta tener una pasta húmeda.",
     "Seca los lomos de bacalao, sálalos ligeramente y cúbrelos por arriba con la costra, presionando con los dedos.",
     "Colócalos en la cesta de la airfryer sobre papel perforado y cocina a 190 °C 9-10 minutos, hasta que la costra esté dorada y el pescado se separe en lascas nacaradas.",
-    "Mientras, saltea las judías en la cazuela con el resto del aceite de ajo y un chorrito de limón 2 minutos.",
+    "Mientras, saltea las judías en la cazuela con el resto del aceite de oliva y un chorrito de limón 2 minutos.",
     "Sirve el bacalao sobre las judías verdes con gajos de limón."
   ],
   nutricion: { kcal: 665, prot: 67, hc: 17, grasa: 36 },
   etiquetas: ["sin gluten", "airfryer", "fácil", "rápida", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
-  consejo: "El aceite de ajo da todo el sabor del ajo sin sus FODMAP, porque estos no pasan a la grasa; mantén las almendras en la ración indicada para seguir dentro del bajo FODMAP. Es naturalmente sin gluten: la costra de almendra sustituye al pan rallado.",
+  consejo: "Va sin ajo, así que no aporta sus FODMAP; mantén las almendras en la ración indicada para seguir dentro del bajo FODMAP. Es naturalmente sin gluten: la costra de almendra sustituye al pan rallado.",
   contundencia: "contundente",
   coste: "media",
   tupper: false

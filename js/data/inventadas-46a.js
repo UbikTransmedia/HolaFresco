@@ -396,7 +396,7 @@ window.RECETAS_SEED.push({
   coccion: ["todo-al-horno"],
   raciones: 3,
   ingredientes: [
-    { n: "pato (muslos)", q: 2, u: "ud", nota: "unos 500 g" },
+    { n: "muslos de pato", q: 2, u: "ud", nota: "unos 500 g" },
     { n: "cinco especias chinas", q: 1, u: "cdta" },
     { n: "salsa de soja", q: 2, u: "cda" },
     { n: "miel", q: 1, u: "cda" },
@@ -441,7 +441,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pato (muslos)", q: 2, u: "ud", nota: "unos 500 g" },
+    { n: "muslos de pato", q: 2, u: "ud", nota: "unos 500 g" },
     { n: "arroz bomba", q: 150, u: "g" },
     { n: "setas variadas", q: 200, u: "g" },
     { n: "nabo", q: 1, u: "ud", nota: "unos 150 g" },
@@ -484,9 +484,9 @@ window.RECETAS_SEED.push({
   tiempo: 100,
   dificultad: "media",
   equipo: ["cazuela"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
-    { n: "pato (muslos)", q: 2, u: "ud", nota: "unos 500 g" },
+    { n: "muslos de pato", q: 2, u: "ud", nota: "unos 500 g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "dátiles", q: 6, u: "ud", nota: "sin hueso" },
     { n: "naranja", q: 1, u: "ud" },
@@ -511,12 +511,12 @@ window.RECETAS_SEED.push({
     "Mientras, pon el cuscús en un bol con una pizca de sal y 1 cucharada de la grasa de pato reservada. Cubre con el mismo volumen de agua hirviendo, tapa 5 minutos y suelta los granos con un tenedor.",
     "Sirve el pato sobre el cuscús con la salsa, los dátiles, las almendras y el cilantro."
   ],
-  nutricion: { kcal: 895, prot: 49, hc: 92, grasa: 34 },
+  nutricion: { kcal: 620, prot: 36, hc: 61, grasa: 24 },
   etiquetas: ["carne poco habitual", "pato", "tupper", "de domingo", "para invitados", "invierno"],
   consejo: "Para desgrasar cualquier guiso con facilidad, déjalo enfriar en la nevera: la grasa sube y se solidifica en una capa que se retira de una pieza. Por eso los guisos de carnes grasas (pato, rabo, carrillada) mejoran hechos la víspera.",
   alternativa: "Sin ras el hanout, prepara el tuyo con 1/2 cdta de comino, 1/2 de cilantro molido, 1/2 de pimentón dulce, 1/4 de cúrcuma y una pizca de jengibre y nuez moscada: suma las 2 cdta.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -995,7 +995,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 4, u: "ud", nota: "unos 360 g" },
+    { n: "filetes de trucha", q: 4, u: "ud", nota: "unos 360 g" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g" },
@@ -1130,7 +1130,7 @@ window.RECETAS_SEED.push({
     { n: "pulpo cocido", q: 300, u: "g", nota: "patas" },
     { n: "tortillas de maíz", q: 8, u: "ud", nota: "pequeñas" },
     { n: "piña", q: 150, u: "g" },
-    { n: "chile guajillo seco", q: 2, u: "ud" },
+    { n: "chile guajillo", q: 2, u: "ud" },
     { n: "pasta de achiote", q: 20, u: "g" },
     { n: "zumo de naranja", q: 60, u: "ml" },
     { n: "vinagre de manzana", q: 1, u: "cda" },

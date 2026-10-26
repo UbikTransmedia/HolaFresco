@@ -229,7 +229,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "zumaque", q: 2, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "tomate", q: 2, u: "ud" },
@@ -450,7 +450,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "bulgur", q: 100, u: "g", nota: "fino o medio" },
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "perejil fresco", q: 1, u: "manojo", nota: "grande" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "tomate", q: 2, u: "ud" },
@@ -538,7 +538,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pasta corta", q: 140, u: "g", nota: "fusilli o penne" },
-    { n: "pollo (pechuga)", q: 250, u: "g" },
+    { n: "pechuga de pollo", q: 250, u: "g" },
     { n: "rúcula", q: 80, u: "g", nota: "50 g para el pesto y 30 g para servir" },
     { n: "nueces", q: 30, u: "g" },
     { n: "parmesano", q: 30, u: "g", nota: "rallado" },
@@ -622,7 +622,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados y sin piel" },
     { n: "uva", q: 200, u: "g", nota: "negra o roja, sin pepitas" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "ajo", q: 2, u: "diente" },
@@ -705,7 +705,7 @@ window.RECETAS_SEED.push({
   equipo: ["bol"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 250, u: "g", nota: "desalado y bien escurrido" },
+    { n: "bacalao desalado", q: 250, u: "g", nota: "desalado y bien escurrido" },
     { n: "judías blancas cocidas", q: 240, u: "g", nota: "escurridas" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros" },
     { n: "pimiento verde", q: 0.5, u: "ud" },
@@ -832,7 +832,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "patata", q: 500, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -1008,7 +1008,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con hueso y piel, unos 600 g" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con hueso y piel, unos 600 g" },
     { n: "pan", q: 150, u: "g", nota: "de hogaza del día anterior" },
     { n: "rúcula", q: 80, u: "g" },
     { n: "piñones", q: 20, u: "g" },
@@ -1053,7 +1053,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla deshuesada)", q: 350, u: "g" },
+    { n: "paletilla de cordero deshuesada", q: 350, u: "g" },
     { n: "romero fresco", q: 2, u: "rama" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "vino blanco", q: 100, u: "ml" },

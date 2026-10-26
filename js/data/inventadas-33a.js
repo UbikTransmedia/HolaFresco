@@ -18,7 +18,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 400, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 400, u: "g", nota: "sin piel" },
     { n: "pasta de achiote", q: 30, u: "g", nota: "comprueba que sea sin gluten" },
     { n: "zumo de naranja", q: 100, u: "ml" },
     { n: "lima", q: 2, u: "ud" },
@@ -110,7 +110,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "espinacas congeladas", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
@@ -159,7 +159,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 350, u: "g", nota: "en tacos de 4 cm" },
+    { n: "paleta de cerdo", q: 350, u: "g", nota: "en tacos de 4 cm" },
     { n: "ciruelas pasas", q: 60, u: "g", nota: "sin hueso" },
     { n: "castañas cocidas", q: 100, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -215,7 +215,7 @@ window.RECETAS_SEED.push({
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "caldo de verduras", q: 700, u: "ml", nota: "sin gluten" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -251,7 +251,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "con hueso y sin piel" },
     { n: "ciruelas pasas", q: 50, u: "g", nota: "sin hueso" },
     { n: "aceitunas verdes", q: 40, u: "g", nota: "sin hueso" },
     { n: "alcaparras", q: 1, u: "cda" },
@@ -298,7 +298,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "judías blancas cocidas", q: 300, u: "g", nota: "escurridas" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -344,7 +344,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla deshuesada)", q: 400, u: "g", nota: "en trozos grandes" },
+    { n: "paletilla de cordero deshuesada", q: 400, u: "g", nota: "en trozos grandes" },
     { n: "garbanzos cocidos", q: 250, u: "g", nota: "escurridos" },
     { n: "dátiles", q: 4, u: "ud", nota: "sin hueso" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "patata", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
@@ -483,13 +483,13 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "sin piel" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "sin piel" },
     { n: "arroz redondo", q: 60, u: "g" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "calabacín", q: 0.5, u: "ud" },
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "cúrcuma molida", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebolleta (parte verde)", q: 2, u: "ud" },
     { n: "espinacas frescas", q: 60, u: "g" },
     { n: "limón", q: 0.5, u: "ud" },
@@ -499,7 +499,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las zanahorias y córtalas en rodajas finas. Pela el jengibre y córtalo en láminas.",
-    "Pon en la olla lenta los contramuslos enteros, la zanahoria, el jengibre, la cúrcuma, el aceite de ajo, 1 cucharadita de sal y el agua caliente.",
+    "Pon en la olla lenta los contramuslos enteros, la zanahoria, el jengibre, la cúrcuma, el aceite de oliva, 1 cucharadita de sal y el agua caliente.",
     "Tapa y cocina en LOW 4 horas (o HIGH 2 h 30 min), hasta que el pollo esté muy tierno y el caldo haya tomado un color dorado intenso. Hacia el final, corta el calabacín en dados pequeños.",
     "Saca el pollo, desmenúzalo y retira las láminas de jengibre si no te gusta encontrarlas.",
     "Lava el arroz, añádelo a la olla con el calabacín y el pollo desmenuzado. Cocina en HIGH 35-40 minutos, hasta que el arroz esté tierno. Mientras, corta en aros la parte verde de la cebolleta.",
@@ -507,7 +507,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 380, prot: 30, hc: 38, grasa: 12 },
   etiquetas: ["sin gluten", "bajo en fodmap", "olla lenta", "fácil", "tupper", "de cuchara", "ligera", "económica", "poco especiada", "bajo en colesterol"],
-  consejo: "Apta para dieta baja en FODMAP: el aceite de ajo aporta el sabor sin los fructanos, que no pasan al aceite. No uses caldo comercial, que suele llevar cebolla y a veces gluten. El arroz sigue absorbiendo caldo en la nevera: añade agua al recalentar.",
+  consejo: "Apta para dieta baja en FODMAP: no lleva ajo ni cebolla, así que no aporta fructanos. No uses caldo comercial, que suele llevar cebolla y a veces gluten. El arroz sigue absorbiendo caldo en la nevera: añade agua al recalentar.",
   cocina: "fusión",
   contundencia: "ligera",
   coste: "económica"
@@ -669,7 +669,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos secos", q: 150, u: "g", nota: "en remojo 12 h" },
-    { n: "costilla de cerdo", q: 300, u: "g", nota: "troceada" },
+    { n: "costillas de cerdo", q: 300, u: "g", nota: "troceada" },
     { n: "nabo", q: 1, u: "ud" },
     { n: "repollo", q: 200, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -714,7 +714,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 400, u: "g", nota: "en una pieza" },
+    { n: "paleta de cerdo", q: 400, u: "g", nota: "en una pieza" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "sal gruesa", q: 1, u: "cdta" },
     { n: "ajo", q: 2, u: "diente" },
@@ -757,7 +757,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "jengibre fresco", q: 20, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -810,7 +810,7 @@ window.RECETAS_SEED.push({
     { n: "leche de coco", q: 150, u: "ml" },
     { n: "caldo de verduras", q: 600, u: "ml", nota: "sin gluten" },
     { n: "lima", q: 1, u: "ud" },
-    { n: "semillas de calabaza", q: 15, u: "g" },
+    { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -941,7 +941,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pavo (muslo deshuesado)", q: 350, u: "g", nota: "en dados grandes" },
+    { n: "muslo de pavo deshuesado", q: 350, u: "g", nota: "en dados grandes" },
     { n: "crema de cacahuete", q: 40, u: "g", nota: "100 % cacahuete" },
     { n: "boniato", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1031,7 +1031,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 300, u: "g" },
+    { n: "bacalao desalado", q: 300, u: "g" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "calabacín", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },

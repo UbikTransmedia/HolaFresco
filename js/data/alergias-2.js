@@ -78,7 +78,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", q: 0.5, u: "cdta" },
     { n: "semillas de hinojo", q: 0.5, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
-    { n: "semillas de comino", q: 0.5, u: "cdta" },
+    { n: "comino en grano", q: 0.5, u: "cdta" },
     { n: "garam masala", q: 0.5, u: "cdta" },
     { n: "aceite de coco", q: 2, u: "cda" },
     { n: "arroz basmati", q: 120, u: "g" },
@@ -344,7 +344,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con piel y hueso, unos 4" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con piel y hueso, unos 4" },
     { n: "limón", q: 1, u: "ud" },
     { n: "guindilla seca", q: 1, u: "cdta", nota: "en copos" },
     { n: "pimienta negra", q: 1, u: "cdta", nota: "recién molida" },
@@ -386,7 +386,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 300, u: "g", nota: "en dados de 3 cm" },
+    { n: "paleta de cerdo", q: 300, u: "g", nota: "en dados de 3 cm" },
     { n: "guisantes congelados", q: 400, u: "g" },
     { n: "cebolleta", q: 3, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -522,7 +522,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (aguja)", q: 300, u: "g" },
+    { n: "aguja de cerdo", q: 300, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -567,7 +567,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 400, u: "g", nota: "en una pieza" },
+    { n: "pechuga de pavo", q: 400, u: "g", nota: "en una pieza" },
     { n: "boniato", q: 400, u: "g" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -612,7 +612,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 400, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 400, u: "g", nota: "sin piel" },
     { n: "jengibre fresco", q: 40, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "cebolleta", q: 3, u: "ud" },
@@ -666,7 +666,7 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "chile fresco", q: 1, u: "ud", opcional: true, nota: "si comen niños, sírvelo aparte" },
-    { n: "semillas de comino", q: 1, u: "cdta" },
+    { n: "comino en grano", q: 1, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "cilantro molido", q: 1.5, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -1062,7 +1062,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "arroz redondo", q: 160, u: "g" },
-    { n: "costilla de cerdo", q: 250, u: "g", nota: "troceada" },
+    { n: "costillas de cerdo", q: 250, u: "g", nota: "troceada" },
     { n: "garbanzos cocidos", q: 150, u: "g", nota: "escurridos" },
     { n: "patata", q: 200, u: "g" },
     { n: "tomate", q: 2, u: "ud" },
@@ -1104,7 +1104,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz basmati", q: 160, u: "g" },
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g" },
     { n: "judías verdes", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "tomate concentrado", q: 2, u: "cda" },

@@ -149,7 +149,7 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "limón", q: 1, u: "ud" },
     { n: "garbanzos cocidos", q: 240, u: "g", nota: "escurridos y secos" },
-    { n: "zaatar", q: 2, u: "cdta" },
+    { n: "za'atar", q: 2, u: "cdta" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -235,7 +235,7 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 1, u: "ud" },
     { n: "pan rallado", q: 40, u: "g" },
     { n: "limón", q: 1, u: "ud", nota: "solo la ralladura" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
@@ -540,7 +540,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g", nota: "contramuslos sin piel" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g", nota: "contramuslos sin piel" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "apio", q: 1, u: "rama" },
@@ -627,7 +627,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1200, u: "g", nota: "limpios y sin barbas" },
+    { n: "mejillones", q: 1200, u: "g", nota: "limpios y sin barbas" },
     { n: "tomate triturado", q: 400, u: "g" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "guindilla seca", q: 1, u: "ud" },
@@ -848,7 +848,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "con hueso y sin piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "con hueso y sin piel" },
     { n: "tomate", q: 3, u: "ud" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },

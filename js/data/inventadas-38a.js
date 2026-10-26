@@ -107,7 +107,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 1,
   ingredientes: [
-    { n: "abadejo (lomos)", q: 300, u: "g" },
+    { n: "abadejo", q: 300, u: "g" },
     { n: "coliflor", q: 400, u: "g", nota: "en ramilletes pequeños" },
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "leche", q: 150, u: "ml", nota: "semidesnatada" },
@@ -196,7 +196,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1000, u: "g" },
+    { n: "mejillones", q: 1000, u: "g" },
     { n: "quinoa", q: 120, u: "g" },
     { n: "hinojo", q: 1, u: "ud", nota: "en láminas finas" },
     { n: "tomate triturado", q: 200, u: "g" },
@@ -240,7 +240,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "bulgur", q: 120, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
@@ -286,7 +286,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 280, u: "g", nota: "en tiras finas" },
+    { n: "pechuga de pavo", q: 280, u: "g", nota: "en tiras finas" },
     { n: "quinoa", q: 100, u: "g" },
     { n: "brócoli", q: 200, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 340, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 340, u: "g", nota: "deshuesados y sin piel" },
     { n: "arroz jazmín", q: 180, u: "g" },
     { n: "caldo de pollo", q: 320, u: "ml", nota: "certificado sin gluten" },
     { n: "jengibre fresco", q: 30, u: "g" },
@@ -380,7 +380,7 @@ window.RECETAS_SEED.push({
     { n: "berenjena", q: 2, u: "ud", nota: "unos 500 g" },
     { n: "cerdo picado", q: 200, u: "g", nota: "magro" },
     { n: "arroz jazmín", q: 120, u: "g" },
-    { n: "pasta de judía picante (doubanjiang)", q: 1, u: "cda" },
+    { n: "pasta de judía picante", q: 1, u: "cda" },
     { n: "salsa de soja", q: 1, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
@@ -428,7 +428,7 @@ window.RECETAS_SEED.push({
     { n: "pan rallado", q: 30, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "cebolla", q: 0.5, u: "ud", nota: "rallada" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "patata", q: 500, u: "g" },
     { n: "pepino", q: 1, u: "ud" },
     { n: "vinagre de manzana", q: 2, u: "cda" },
@@ -929,7 +929,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 140, u: "g" },
-    { n: "pollo (pechuga)", q: 220, u: "g", nota: "en dados de 2 cm" },
+    { n: "pechuga de pollo", q: 220, u: "g", nota: "en dados de 2 cm" },
     { n: "champiñones", q: 250, u: "g", nota: "laminados" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -1024,7 +1024,7 @@ window.RECETAS_SEED.push({
     { n: "menta fresca", q: 0.25, u: "manojo" },
     { n: "requesón", q: 120, u: "g" },
     { n: "limón", q: 0.5, u: "ud", nota: "solo la ralladura" },
-    { n: "semillas de calabaza", q: 15, u: "g" },
+    { n: "pipas de calabaza", q: 15, u: "g" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -1105,7 +1105,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 260, u: "g" },
+    { n: "pechuga de pollo", q: 260, u: "g" },
     { n: "brócoli", q: 300, u: "g" },
     { n: "edamame congelado", q: 150, u: "g", nota: "pelado" },
     { n: "zanahoria", q: 1, u: "ud" },

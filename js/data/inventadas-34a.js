@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
     { n: "boniato", q: 400, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -332,7 +332,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 150, u: "g" },
-    { n: "pollo (muslos deshuesados)", q: 250, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 250, u: "g" },
     { n: "alcachofas en conserva", q: 200, u: "g", nota: "escurridas" },
     { n: "tomate", q: 1, u: "ud", nota: "maduro" },
     { n: "ajo", q: 4, u: "diente" },
@@ -425,7 +425,7 @@ window.RECETAS_SEED.push({
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "calabacín", q: 1, u: "ud" },
     { n: "tomate cherry", q: 250, u: "g" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
@@ -434,14 +434,14 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Ralla el parmesano y pica el perejil. En un bol mezcla el pavo, el huevo, el parmesano, la harina de arroz, el perejil, sal y pimienta, sin amasar en exceso para que queden tiernas.",
     "Con las manos húmedas forma unas 12 albóndigas del tamaño de una nuez grande.",
-    "Corta el calabacín en medias lunas de 1 cm y los tomates cherry por la mitad. Ponlos en una bandeja con 1 cucharada de aceite de ajo, el orégano y sal, y mezcla.",
-    "Coloca las albóndigas entre las verduras y píntalas con el resto del aceite de ajo.",
+    "Corta el calabacín en medias lunas de 1 cm y los tomates cherry por la mitad. Ponlos en una bandeja con 1 cucharada de aceite de oliva, el orégano y sal, y mezcla.",
+    "Coloca las albóndigas entre las verduras y píntalas con el resto del aceite de oliva.",
     "Hornea 20–22 minutos, girándolas a mitad, hasta que estén doradas y firmes, sin rastro rosado en el centro, y los tomates hayan reventado soltando su jugo. Mientras, pica el cebollino.",
     "Remueve las albóndigas con el jugo de tomate de la bandeja y sirve con el cebollino."
   ],
   nutricion: { kcal: 455, prot: 42, hc: 18, grasa: 24 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "tupper", "ligera", "bajo en fodmap", "alta en proteína", "para niños", "poco especiada"],
-  consejo: "Compra pavo picado solo de carne: los preparados tipo burger meat suelen llevar pan o harina de trigo. El aceite de ajo da sabor sin los fructanos del ajo, así que el plato sirve para la dieta baja en FODMAP; el parmesano curado apenas tiene lactosa.",
+  consejo: "Compra pavo picado solo de carne: los preparados tipo burger meat suelen llevar pan o harina de trigo. Al ir sin ajo, que aporta fructanos, el plato sirve para la dieta baja en FODMAP; el parmesano curado apenas tiene lactosa.",
   contundencia: "ligera",
   coste: "económica"
 });
@@ -683,7 +683,7 @@ window.RECETAS_SEED.push({
   tupper: false,
   raciones: 3,
   ingredientes: [
-    { n: "gnocchi sin gluten", q: 500, u: "g" },
+    { n: "ñoquis sin gluten", q: 500, u: "g" },
     { n: "salchicha fresca sin gluten", q: 200, u: "g" },
     { n: "brócoli", q: 250, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -813,7 +813,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
     { n: "patata", q: 400, u: "g" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "yogur natural", q: 125, u: "g" },
@@ -908,7 +908,7 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "zumaque", q: 1, u: "cdta", opcional: true },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "menta fresca", q: 0.5, u: "manojo" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "aceite de oliva", q: 3, u: "cda" },

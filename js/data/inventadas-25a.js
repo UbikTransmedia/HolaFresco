@@ -102,7 +102,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz bomba", q: 160, u: "g" },
-    { n: "pollo (contramuslos)", q: 200, u: "g", nota: "en dados" },
+    { n: "contramuslos de pollo", q: 200, u: "g", nota: "en dados" },
     { n: "calamar", q: 150, u: "g", nota: "limpio, en anillas" },
     { n: "gambas enteras", q: 8, u: "ud" },
     { n: "mejillones", q: 300, u: "g" },
@@ -190,7 +190,7 @@ window.RECETAS_SEED.push({
   raciones: 4,
   ingredientes: [
     { n: "arroz bomba", q: 160, u: "g" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso, troceados" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "con hueso, troceados" },
     { n: "costillas de cerdo", q: 200, u: "g" },
     { n: "butifarra", q: 120, u: "g" },
     { n: "morcilla", q: 100, u: "g" },
@@ -277,7 +277,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 150, u: "g" },
-    { n: "bacalao desalado (lomos)", q: 250, u: "g" },
+    { n: "bacalao desalado", q: 250, u: "g" },
     { n: "judías blancas cocidas", q: 200, u: "g", nota: "escurridas" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros, rallados" },
     { n: "ajo", q: 3, u: "diente" },
@@ -441,7 +441,7 @@ window.RECETAS_SEED.push({
     { n: "arroz bomba", q: 150, u: "g" },
     { n: "rape (lomos)", q: 250, u: "g", nota: "en tacos" },
     { n: "almejas", q: 250, u: "g", nota: "purgadas" },
-    { n: "ñora", q: 1, u: "ud" },
+    { n: "ñoras", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud", nota: "rallado" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "almendras", q: 15, u: "g", nota: "crudas, peladas" },
@@ -483,7 +483,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz bomba", q: 160, u: "g" },
-    { n: "cerdo (paleta)", q: 250, u: "g", nota: "magro, en dados" },
+    { n: "paleta de cerdo", q: 250, u: "g", nota: "magro, en dados" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud", nota: "rallado" },
@@ -695,7 +695,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "con hueso y piel" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "con hueso y piel" },
     { n: "arroz jazmín", q: 150, u: "g" },
     { n: "jengibre fresco", q: 40, u: "g" },
     { n: "ajo", q: 4, u: "diente" },
@@ -739,7 +739,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz jazmín", q: 150, u: "g", nota: "cocido y frío" },
-    { n: "pollo (contramuslos)", q: 200, u: "g", nota: "deshuesados, en tiras" },
+    { n: "contramuslos de pollo", q: 200, u: "g", nota: "deshuesados, en tiras" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "chalota", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -863,7 +863,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 140, u: "g", nota: "o de grano largo" },
-    { n: "pollo (pechuga)", q: 220, u: "g" },
+    { n: "pechuga de pollo", q: 220, u: "g" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros" },
     { n: "cebolla", q: 0.5, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -950,7 +950,7 @@ window.RECETAS_SEED.push({
     { n: "costillas de cerdo", q: 250, u: "g", nota: "en trozos pequeños" },
     { n: "judías verdes", q: 150, u: "g" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
-    { n: "ñora", q: 1, u: "ud" },
+    { n: "ñoras", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud", nota: "rallado" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -990,7 +990,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "arroz redondo", q: 150, u: "g" },
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "con hueso" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "con hueso" },
     { n: "costillas de cerdo", q: 150, u: "g" },
     { n: "cerdo picado", q: 150, u: "g" },
     { n: "pan rallado", q: 40, u: "g" },

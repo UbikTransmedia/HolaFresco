@@ -14,7 +14,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "queso griego", q: 120, u: "g" },
     { n: "yogur griego natural", q: 100, u: "g" },
     { n: "calabacín", q: 1, u: "ud" },
@@ -105,7 +105,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 320, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 320, u: "g" },
     { n: "salsa de soja", q: 3, u: "cda" },
     { n: "miel", q: 2, u: "cda" },
     { n: "ajo", q: 2, u: "diente" },
@@ -165,7 +165,7 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 20, u: "g" },
     { n: "harina de trigo", q: 20, u: "g" },
     { n: "leche", q: 300, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "queso rallado", q: 50, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
@@ -247,7 +247,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con piel y hueso" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con piel y hueso" },
     { n: "patata", q: 400, u: "g" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -291,7 +291,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 320, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 320, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "calabacín", q: 1, u: "ud" },
@@ -335,7 +335,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "brócoli", q: 300, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -426,7 +426,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 400, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 400, u: "g" },
     { n: "zanahoria", q: 3, u: "ud" },
     { n: "apio", q: 2, u: "rama" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -518,7 +518,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 4, u: "ud", nota: "con piel y hueso" },
+    { n: "contramuslos de pollo", q: 4, u: "ud", nota: "con piel y hueso" },
     { n: "naranja", q: 1, u: "ud" },
     { n: "zumo de naranja", q: 150, u: "ml" },
     { n: "cebolla", q: 2, u: "ud" },

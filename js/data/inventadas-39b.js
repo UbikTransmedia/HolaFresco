@@ -67,7 +67,7 @@ window.RECETAS_SEED.push({
     { n: "queso de cabra", q: 50, u: "g", nota: "rulo, en rodajas" },
     { n: "yogur natural", q: 125, u: "g" },
     { n: "tomillo seco", q: 0.5, u: "cdta" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "canónigos", q: 2, u: "puñado", nota: "para acompañar" },
     { n: "sal", u: "al gusto" },
@@ -204,7 +204,7 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "semillas de calabaza", q: 10, u: "g" },
+    { n: "pipas de calabaza", q: 10, u: "g" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
   ],
@@ -281,7 +281,7 @@ window.RECETAS_SEED.push({
   coccion: ["airfryer"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 320, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 320, u: "g", nota: "deshuesados y sin piel" },
     { n: "harissa", q: 1, u: "cda" },
     { n: "zanahoria", q: 2, u: "ud", nota: "en bastones" },
     { n: "cebolla morada", q: 0.5, u: "ud", nota: "en gajos" },
@@ -326,7 +326,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "quinoa", q: 100, u: "g" },
-    { n: "pavo (pechuga)", q: 260, u: "g", nota: "en filetes" },
+    { n: "pechuga de pavo", q: 260, u: "g", nota: "en filetes" },
     { n: "calabacín", q: 1, u: "ud" },
     { n: "tomate seco en aceite", q: 30, u: "g", nota: "escurrido y picado" },
     { n: "almendras", q: 20, u: "g", nota: "tostadas y troceadas" },
@@ -370,7 +370,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "noodles de trigo", q: 160, u: "g", nota: "secos" },
-    { n: "pollo (pechuga)", q: 280, u: "g", nota: "en tiras finas" },
+    { n: "pechuga de pollo", q: 280, u: "g", nota: "en tiras finas" },
     { n: "col blanca", q: 200, u: "g", nota: "en tiras" },
     { n: "zanahoria", q: 1, u: "ud", nota: "en bastones finos" },
     { n: "pimiento rojo", q: 1, u: "ud", nota: "en tiras" },
@@ -592,7 +592,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 120, u: "g" },
-    { n: "pollo (pechuga)", q: 220, u: "g", nota: "en dados" },
+    { n: "pechuga de pollo", q: 220, u: "g", nota: "en dados" },
     { n: "coliflor", q: 250, u: "g", nota: "en arbolitos pequeños" },
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -636,7 +636,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 280, u: "g", nota: "en tacos de 3 cm" },
+    { n: "bonito fresco", q: 280, u: "g", nota: "en tacos de 3 cm" },
     { n: "patata", q: 2, u: "ud", nota: "medianas, en rodajas de 1 cm" },
     { n: "judías verdes", q: 200, u: "g" },
     { n: "tomate cherry", q: 10, u: "ud" },
@@ -680,7 +680,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pasta corta", q: 140, u: "g", nota: "integral, tipo hélices o conchas" },
-    { n: "pavo (pechuga)", q: 240, u: "g" },
+    { n: "pechuga de pavo", q: 240, u: "g" },
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "zanahoria", q: 1, u: "ud", nota: "rallada gruesa" },
     { n: "pepinillos", q: 3, u: "ud", nota: "picados" },
@@ -725,7 +725,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz integral", q: 130, u: "g" },
-    { n: "pollo (pechuga)", q: 260, u: "g", nota: "en dados" },
+    { n: "pechuga de pollo", q: 260, u: "g", nota: "en dados" },
     { n: "espinacas frescas", q: 80, u: "g" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "piñones", q: 15, u: "g" },
@@ -1085,7 +1085,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "brócoli", q: 350, u: "g", nota: "en arbolitos muy pequeños" },
-    { n: "pollo (pechuga)", q: 280, u: "g" },
+    { n: "pechuga de pollo", q: 280, u: "g" },
     { n: "arándanos secos", q: 25, u: "g" },
     { n: "almendras", q: 25, u: "g", nota: "tostadas y laminadas" },
     { n: "cebolla morada", q: 0.25, u: "ud", nota: "picada fina" },

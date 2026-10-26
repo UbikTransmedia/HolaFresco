@@ -156,7 +156,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g" },
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "lima", q: 2, u: "ud" },
@@ -259,7 +259,7 @@ window.RECETAS_SEED.push({
     { n: "curry en polvo", q: 2, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "laurel", q: 2, u: "hoja" },
-    { n: "pimienta de jamaica en grano", q: 4, u: "ud" },
+    { n: "pimienta de Jamaica en grano", q: 4, u: "ud" },
     { n: "patata", q: 300, u: "g" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
     { n: "sal", u: "al gusto" },
@@ -472,7 +472,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "arroz vaporizado", q: 160, u: "g", nota: "de grano largo" },
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados" },
     { n: "tomate pera", q: 3, u: "ud" },
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "chile habanero", q: 0.5, u: "ud" },
@@ -840,7 +840,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados" },
     { n: "leche de coco", q: 300, u: "ml" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "chile fresco", q: 2, u: "ud", nota: "rojos" },
@@ -883,7 +883,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 280, u: "g" },
+    { n: "paletilla de cordero", q: 280, u: "g" },
     { n: "arroz basmati", q: 150, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -933,7 +933,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "merluza (rodajas)", q: 400, u: "g" },
+    { n: "rodajas de merluza", q: 400, u: "g" },
     { n: "yuca", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -943,7 +943,7 @@ window.RECETAS_SEED.push({
     { n: "pastilla de caldo", q: 1, u: "ud", nota: "de pescado o de verduras" },
     { n: "nuez moscada", q: 0.25, u: "cdta" },
     { n: "clavo", q: 2, u: "ud" },
-    { n: "pimienta de jamaica en grano", q: 4, u: "ud" },
+    { n: "pimienta de Jamaica en grano", q: 4, u: "ud" },
     { n: "albahaca fresca", q: 0.5, u: "manojo" },
     { n: "agua", q: 1000, u: "ml" },
     { n: "sal", u: "al gusto" }

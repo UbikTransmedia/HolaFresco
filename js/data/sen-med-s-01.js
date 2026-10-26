@@ -23,7 +23,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "patata", q: 300, u: "g" },
     { n: "brócoli", q: 300, u: "g", nota: "1 cabeza pequeña" },
     { n: "anchoas en aceite", q: 4, u: "ud", nota: "filetes" },
@@ -66,7 +66,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "coliflor", q: 500, u: "g" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -112,7 +112,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "patata", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "tomate seco en aceite", q: 50, u: "g" },
@@ -199,7 +199,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento amarillo", q: 1, u: "ud" },
     { n: "cebolla morada", q: 1, u: "ud" },
@@ -244,7 +244,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pollo entero troceado", q: 700, u: "g", nota: "medio pollo en 4 trozos" },
-    { n: "uvas blancas", q: 250, u: "g" },
+    { n: "uva blanca", q: 250, u: "g" },
     { n: "chalota", q: 4, u: "ud" },
     { n: "ajo", q: 3, u: "diente", nota: "enteros, con piel" },
     { n: "vino blanco", q: 150, u: "ml" },
@@ -287,7 +287,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "patata", q: 300, u: "g", nota: "nuevas y pequeñas" },
     { n: "espárragos trigueros", q: 250, u: "g", nota: "1 manojo" },
     { n: "guisantes congelados", q: 150, u: "g" },
@@ -330,7 +330,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "lentejas cocidas", q: 400, u: "g", nota: "pardinas de bote, escurridas" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -373,7 +373,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "vinagre balsámico", q: 3, u: "cda" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "romero fresco", q: 2, u: "rama" },
@@ -415,7 +415,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
+    { n: "contramuslos de pollo", q: 600, u: "g", nota: "4 piezas con hueso y piel" },
     { n: "pan de pueblo", q: 150, u: "g", nota: "mejor del día anterior" },
     { n: "tomate cherry", q: 300, u: "g" },
     { n: "ajo", q: 4, u: "diente", nota: "enteros, con piel" },
@@ -457,7 +457,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 350, u: "g", nota: "2 filetes gruesos" },
+    { n: "pechuga de pollo", q: 350, u: "g", nota: "2 filetes gruesos" },
     { n: "almendra molida", q: 30, u: "g" },
     { n: "parmesano", q: 25, u: "g" },
     { n: "pan rallado", q: 15, u: "g" },
@@ -587,7 +587,7 @@ window.RECETAS_SEED.push({
   ingredientes: [
     { n: "solomillo de cerdo", q: 400, u: "g", nota: "1 pieza" },
     { n: "patata", q: 350, u: "g" },
-    { n: "pimientos rojos asados", q: 200, u: "g", nota: "en conserva, con su jugo" },
+    { n: "pimiento rojo asado", q: 200, u: "g", nota: "en conserva, con su jugo" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomillo fresco", q: 3, u: "rama" },
     { n: "romero fresco", q: 1, u: "rama" },
@@ -767,7 +767,7 @@ window.RECETAS_SEED.push({
     { n: "hinojo", q: 2, u: "ud", nota: "medianos, con sus barbas" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
-    { n: "pecorino", q: 40, u: "g", nota: "o parmesano" },
+    { n: "queso pecorino", q: 40, u: "g", nota: "o parmesano" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "naranja", q: 2, u: "ud" },
     { n: "aceitunas negras", q: 40, u: "g" },

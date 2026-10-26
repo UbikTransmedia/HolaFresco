@@ -393,7 +393,7 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 2, u: "cda" },
     { n: "tomate", q: 2, u: "ud", nota: "maduros" },
     { n: "pepino", q: 1, u: "ud" },
-    { n: "pimiento asado", q: 100, u: "g", nota: "de bote o casero" },
+    { n: "pimiento rojo asado", q: 100, u: "g", nota: "de bote o casero" },
     { n: "cebolleta", q: 1, u: "ud" },
     { n: "jamón cocido", q: 100, u: "g", nota: "en taco o en lonchas gruesas" },
     { n: "vinagre de vino", q: 1, u: "cda" },
@@ -477,7 +477,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "cilantro molido", q: 0.5, u: "cdta" },
@@ -491,7 +491,7 @@ window.RECETAS_SEED.push({
     { n: "cebolla morada", q: 0.5, u: "ud" },
     { n: "yogur griego natural", q: 125, u: "g" },
     { n: "mayonesa", q: 1, u: "cda" },
-    { n: "ketchup", q: 2, u: "cda" },
+    { n: "kétchup", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
@@ -614,7 +614,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "remolacha cruda", q: 400, u: "g" },
+    { n: "remolacha", q: 400, u: "g" },
     { n: "trigo sarraceno", q: 100, u: "g", nota: "en grano; se vende en herbolarios y tiendas de alimentación del Este" },
     { n: "agua", q: 200, u: "ml" },
     { n: "judías blancas cocidas", q: 250, u: "g", nota: "de bote, enjuagadas" },
@@ -709,7 +709,7 @@ window.RECETAS_SEED.push({
   equipo: ["airfryer", "plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna deshuesada)", q: 300, u: "g", nota: "en filetes; vale paletilla deshuesada" },
+    { n: "pierna de cordero deshuesada", q: 300, u: "g", nota: "en filetes; vale paletilla deshuesada" },
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "berenjena", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud" },
@@ -758,7 +758,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g", nota: "en un filete grueso" },
+    { n: "pechuga de pavo", q: 300, u: "g", nota: "en un filete grueso" },
     { n: "patata", q: 350, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "aceite de oliva", q: 1, u: "cda" },
@@ -896,7 +896,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "filete de ternera", q: 300, u: "g", nota: "filetes finos de babilla, tapa o cadera" },
+    { n: "filetes de ternera", q: 300, u: "g", nota: "filetes finos de babilla, tapa o cadera" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "aceite de girasol", q: 2, u: "cda" },

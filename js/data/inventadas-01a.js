@@ -112,7 +112,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "garbanzos secos", q: 160, u: "g", nota: "en remojo 12 h con una pizca de bicarbonato" },
-    { n: "bacalao desalado (lomos)", q: 250, u: "g" },
+    { n: "bacalao desalado", q: 250, u: "g" },
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -348,13 +348,13 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados, con piel si es posible" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados, con piel si es posible" },
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos y secos" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "tomate cherry", q: 150, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
-    { n: "zaatar", q: 2, u: "cda" },
+    { n: "za'atar", q: 2, u: "cda" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "yogur griego natural", q: 150, u: "g" },
@@ -587,7 +587,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 180, u: "g", nota: "en remojo 12 h" },
-    { n: "costilla de cerdo", q: 350, u: "g", nota: "troceada en tacos" },
+    { n: "costillas de cerdo", q: 350, u: "g", nota: "troceada en tacos" },
     { n: "calabaza", q: 300, u: "g" },
     { n: "patata", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1149,7 +1149,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "garbanzos secos", q: 180, u: "g", nota: "en remojo 12 h" },
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g" },
     { n: "chorizo", q: 60, u: "g", nota: "un trozo entero" },
     { n: "repollo", q: 300, u: "g" },
     { n: "patata", q: 1, u: "ud", nota: "grande" },

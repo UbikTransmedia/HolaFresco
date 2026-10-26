@@ -19,11 +19,11 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g", nota: "en filetes finos de 1 cm" },
+    { n: "pechuga de pollo", q: 300, u: "g", nota: "en filetes finos de 1 cm" },
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "champiñones", q: 200, u: "g", nota: "laminados" },
     { n: "ajo", q: 2, u: "diente" },
-    { n: "vino fino de Jerez", q: 80, u: "ml" },
+    { n: "vino fino", q: 80, u: "ml" },
     { n: "caldo de pollo", q: 100, u: "ml" },
     { n: "cuscús", q: 130, u: "g" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
@@ -65,7 +65,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete fino)", q: 280, u: "g" },
+    { n: "filetes finos de ternera", q: 280, u: "g" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "salsa de soja", q: 3, u: "cda" },
     { n: "salsa de ostras", q: 1, u: "cda" },
@@ -243,7 +243,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 280, u: "g", nota: "en dados de 2 cm" },
+    { n: "pechuga de pavo", q: 280, u: "g", nota: "en dados de 2 cm" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "pimiento rojo", q: 0.5, u: "ud" },
@@ -559,7 +559,7 @@ window.RECETAS_SEED.push({
   coccion: ["olla-express"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 250, u: "g", nota: "deshuesados, en dados de 2 cm" },
+    { n: "contramuslos de pollo", q: 250, u: "g", nota: "deshuesados, en dados de 2 cm" },
     { n: "arroz basmati", q: 150, u: "g" },
     { n: "guisantes congelados", q: 100, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -703,7 +703,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "gnocchi de patata", q: 400, u: "g", nota: "frescos, de paquete" },
+    { n: "ñoquis de patata", q: 400, u: "g", nota: "frescos, de paquete" },
     { n: "champiñones", q: 250, u: "g", nota: "laminados" },
     { n: "espinacas frescas", q: 100, u: "g" },
     { n: "salvia fresca", q: 8, u: "hoja" },
@@ -975,7 +975,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de huevo", q: 180, u: "g", nota: "secos" },
-    { n: "pollo (pechuga)", q: 220, u: "g", nota: "en tiras finas" },
+    { n: "pechuga de pollo", q: 220, u: "g", nota: "en tiras finas" },
     { n: "col blanca", q: 150, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolleta", q: 2, u: "ud" },
@@ -1063,7 +1063,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 240, u: "g", nota: "en filetes finos" },
+    { n: "pechuga de pavo", q: 240, u: "g", nota: "en filetes finos" },
     { n: "judías blancas cocidas", q: 240, u: "g" },
     { n: "pimientos asados en conserva", q: 150, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -1103,11 +1103,11 @@ window.RECETAS_SEED.push({
   tiempo: 15,
   dificultad: "fácil",
   equipo: ["cazuela", "batidora"],
-  raciones: 2,
+  raciones: 1,
   ingredientes: [
     { n: "caldo de pollo", q: 800, u: "ml" },
     { n: "maíz dulce", q: 250, u: "g", nota: "de lata, escurrido" },
-    { n: "pollo (pechuga)", q: 150, u: "g" },
+    { n: "pechuga de pollo", q: 150, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "maicena", q: 2, u: "cda" },
     { n: "jengibre fresco", q: 10, u: "g" },
@@ -1127,10 +1127,10 @@ window.RECETAS_SEED.push({
     "Bate los huevos. Apaga el fuego, remueve la sopa en círculos y vierte el huevo en un hilo fino desde cierta altura, a través de un tenedor. Espera 10 segundos antes de remover: así cuaja en hebras largas y sedosas.",
     "Retira el jengibre, añade el resto de la soja, el aceite de sésamo, la pimienta blanca y la cebolleta, prueba de sal y sirve."
   ],
-  nutricion: { kcal: 355, prot: 30, hc: 34, grasa: 11 },
+  nutricion: { kcal: 745, prot: 67, hc: 68, grasa: 23 },
   etiquetas: ["rápida", "15 minutos", "ligera", "de cuchara", "para niños", "poco especiada", "bajo en colesterol"],
   consejo: "Para espesar con maicena (sopas, salteados, salsas), disuélvela siempre antes en un poco de líquido frío y añádela con el líquido caliente en movimiento; en un minuto de hervor alcanza su máximo espesor. El huevo hilado funciona en cualquier caldo: con el fuego apagado y sin remover los primeros segundos.",
-  contundencia: "ligera",
+  contundencia: "contundente",
   coste: "económica",
   tupper: false
 });

@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 3,
   ingredientes: [
-    { n: "jaca verde en lata", q: 400, u: "g", nota: "jaca joven en salmuera, escurrida (unas 2 latas); no la madura en almíbar" },
+    { n: "jaca verde en conserva", q: 400, u: "g", nota: "jaca joven en salmuera, escurrida (unas 2 latas); no la madura en almíbar" },
     { n: "leche de coco", q: 250, u: "ml" },
     { n: "azúcar de palma", q: 3, u: "cda", nota: "o azúcar moreno" },
     { n: "salsa de soja dulce", q: 1, u: "cda", nota: "kecap manis; da el color oscuro" },
@@ -353,7 +353,7 @@ window.RECETAS_SEED.push({
   equipo: ["bol", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "té verde en hoja", q: 15, u: "g", nota: "hoja entera tipo sencha" },
+    { n: "té verde en hojas", q: 15, u: "g", nota: "hoja entera tipo sencha" },
     { n: "col blanca", q: 200, u: "g" },
     { n: "tomate", q: 2, u: "ud" },
     { n: "cacahuetes", q: 40, u: "g" },
@@ -371,10 +371,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cubre las hojas de té con agua caliente (unos 80 °C) y déjalas 10 minutos. Escúrrelas y lávalas con 3 o 4 cambios de agua fría, apretándolas cada vez, para quitar el exceso de amargor.",
     "Mientras, lamina el ajo y fríelo en el aceite a fuego medio-bajo 3-4 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite, que ya sabe a ajo. Pica fino el chile.",
-    "Escurre bien el té, pícalo fino y aliña con 2 cucharadas del aceite de ajo, la mitad del zumo de lima, el chile y una pizca de sal. Deja que repose 10 minutos.",
+    "Escurre bien el té, pícalo fino y aliña con 2 cucharadas del aceite de oliva, la mitad del zumo de lima, el chile y una pizca de sal. Deja que repose 10 minutos.",
     "Mientras reposa, tuesta el sésamo en la sartén en seco 1 minuto, hasta que salte y huela. Si usas gambas secas, tuéstalas 2 minutos y pícalas.",
     "Corta también la col en tiras muy finas y el tomate en gajos pequeños.",
-    "En el momento de servir, mezcla la col, el tomate y el té aliñado con la salsa de pescado, el resto del zumo de lima y del aceite de ajo. Termina con los cacahuetes, las habas fritas, el sésamo, el ajo frito y las gambas."
+    "En el momento de servir, mezcla la col, el tomate y el té aliñado con la salsa de pescado, el resto del zumo de lima y del aceite de oliva. Termina con los cacahuetes, las habas fritas, el sésamo, el ajo frito y las gambas."
   ],
   nutricion: { kcal: 417, prot: 14, hc: 25, grasa: 29 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "ligera", "económica"],
@@ -497,7 +497,7 @@ window.RECETAS_SEED.push({
     { n: "chalota", q: 2, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "chile fresco", q: 1, u: "ud" },
-    { n: "hoja de lima kaffir", q: 2, u: "hoja", nota: "o la ralladura de una lima" },
+    { n: "hojas de lima kaffir", q: 2, u: "hoja", nota: "o la ralladura de una lima" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
@@ -534,7 +534,7 @@ window.RECETAS_SEED.push({
   equipo: ["bol"],
   raciones: 1,
   ingredientes: [
-    { n: "corvina (lomos)", q: 300, u: "g", nota: "sin piel ni espinas, previamente congelada" },
+    { n: "corvina", q: 300, u: "g", nota: "sin piel ni espinas, previamente congelada" },
     { n: "vinagre de coco", q: 120, u: "ml", nota: "o vinagre de manzana" },
     { n: "lima", q: 1, u: "ud", nota: "en lugar de calamansi" },
     { n: "jengibre fresco", q: 20, u: "g" },
@@ -577,7 +577,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa (lomos)", q: 300, u: "g", nota: "unos 4 filetes con piel" },
+    { n: "caballa fresca", q: 300, u: "g", nota: "unos 4 filetes con piel" },
     { n: "mango verde", q: 1, u: "ud", nota: "o un mango firme poco maduro" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -644,7 +644,7 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 10 minutos desde que el agua hierve.",
     "Mientras, lamina el ajo y fríelo en el aceite en la sartén a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y pasa el aceite a un bol para que temple. En la misma sartén, tuesta los cacahuetes en seco 3 minutos y machácalos en trozos gruesos.",
     "Enfría los huevos en agua con hielo para que se pelen bien y la yema no se ponga verde. Pélalos, separa las yemas y corta las claras en tiras.",
-    "Prepara el aliño: aplasta las yemas con un tenedor y ve añadiendo el aceite de ajo templado, el vinagre, el zumo de lima, la salsa de pescado y el azúcar, batiendo hasta que quede una salsa espesa y lisa como una mayonesa ligera. Si está muy densa, añade una cucharada de agua.",
+    "Prepara el aliño: aplasta las yemas con un tenedor y ve añadiendo el aceite de oliva templado, el vinagre, el zumo de lima, la salsa de pescado y el azúcar, batiendo hasta que quede una salsa espesa y lisa como una mayonesa ligera. Si está muy densa, añade una cucharada de agua.",
     "Lava y escurre muy bien los berros y la lechuga (trocea la lechuga con las manos). Corta los tomates por la mitad, el pepino en rodajas finas y la cebolleta en aros.",
     "Monta la ensalada en una fuente con las hojas, el tomate, el pepino, las claras, la cebolleta, la menta y el cilantro. Riega con el aliño justo antes de servir y termina con los cacahuetes y el ajo frito."
   ],
@@ -716,7 +716,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 120, u: "g", nota: "o arroz glutinoso, o mitad y mitad" },
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados y sin piel" },
     { n: "caldo de pollo", q: 900, u: "ml" },
     { n: "jengibre fresco", q: 40, u: "g" },
     { n: "ajo", q: 5, u: "diente" },
@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lamina el ajo, corta el pollo en trozos de bocado y el jengibre en bastoncitos finos, y pica la cebolla.",
     "Fríe el ajo en la cazuela con el aceite a fuego medio-bajo 3-4 minutos, hasta que esté dorado claro; sácalo con una espumadera a un papel, donde se volverá crujiente. Retira parte del aceite y deja unas 1,5 cucharadas en la cazuela.",
-    "Sofríe en el aceite de ajo la cebolla y el jengibre 4 minutos a fuego medio, añade el pollo y cocina 5 minutos más, hasta que pierda el color rosado.",
+    "Sofríe en el aceite de oliva la cebolla y el jengibre 4 minutos a fuego medio, añade el pollo y cocina 5 minutos más, hasta que pierda el color rosado.",
     "Agrega el arroz sin lavar y remueve 2 minutos para que se nacare. Riega con la salsa de pescado y luego con el caldo caliente.",
     "Cuece a fuego suave, con la cazuela entreabierta, 30 minutos, removiendo a menudo para que no se pegue, hasta que el grano se abra y el conjunto tenga textura de gachas. Si espesa demasiado, añade un poco de agua caliente. Mientras, cuece los huevos 10 minutos en agua hirviendo, enfríalos en agua fría y pélalos; pica la cebolleta y corta la lima en gajos.",
     "Prueba, ajusta de sal y pimienta y sirve en cuencos con medio huevo duro, el ajo frito, la cebolleta y un gajo de lima para exprimir en la mesa."
@@ -758,9 +758,9 @@ window.RECETAS_SEED.push({
   tiempo: 75,
   dificultad: "media",
   equipo: ["cazuela", "sartén", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
-    { n: "chuleta de cerdo", q: 2, u: "ud", nota: "finas, unos 350 g en total" },
+    { n: "chuletas de cerdo", q: 2, u: "ud", nota: "finas, unos 350 g en total" },
     { n: "hierba limón", q: 1, u: "ud" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "chalota", q: 1, u: "ud" },
@@ -787,11 +787,11 @@ window.RECETAS_SEED.push({
     "En la misma sartén, con el aceite restante, fríe los huevos con la yema líquida.",
     "Sirve en cada plato una cúpula de arroz con el aceite de cebolleta por encima, la chuleta, el huevo, el pepino y el tomate, y el nuoc cham para regar."
   ],
-  nutricion: { kcal: 736, prot: 41, hc: 71, grasa: 32 },
+  nutricion: { kcal: 610, prot: 29, hc: 55, grasa: 30 },
   etiquetas: ["tradicional", "sin gluten", "sin lácteos", "a la plancha"],
   consejo: "El arroz partido era el sobrante barato de los molinos y hoy es seña de identidad de Saigón; tiene una textura más suelta y ligeramente harinosa. En los puestos la chuleta se asa sobre brasas de carbón: si tienes barbacoa, úsala. Las chuletas marinadas aguantan 2 días crudas en la nevera.",
   tupper: false,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "económica"
 });
 
@@ -810,7 +810,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "fideos de arroz", q: 140, u: "g", nota: "de los gruesos" },
-    { n: "filete de ternera", q: 200, u: "g" },
+    { n: "filetes de ternera", q: 200, u: "g" },
     { n: "brotes de soja", q: 150, u: "g" },
     { n: "cebollino chino", q: 0.5, u: "manojo", nota: "o cebollino fresco" },
     { n: "ajo", q: 3, u: "diente" },
@@ -856,7 +856,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "fideos de huevo", q: 180, u: "g" },
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados y sin piel" },
     { n: "pasta de curry rojo", q: 1.5, u: "cda" },
     { n: "curry en polvo", q: 1, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
@@ -901,7 +901,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "arroz jazmín", q: 150, u: "g" },
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g" },
     { n: "leche de coco", q: 200, u: "ml" },
     { n: "caldo de pollo", q: 150, u: "ml" },
     { n: "hierba limón", q: 2, u: "ud" },
@@ -951,7 +951,7 @@ window.RECETAS_SEED.push({
   raciones: 3,
   ingredientes: [
     { n: "fideos de arroz", q: 160, u: "g", nota: "finos" },
-    { n: "caballa en aceite", q: 200, u: "g", nota: "en conserva, escurrida; unas 2 latas" },
+    { n: "caballa en conserva", q: 200, u: "g", nota: "en conserva, escurrida; unas 2 latas" },
     { n: "pasta de curry rojo", q: 2, u: "cda" },
     { n: "leche de coco", q: 200, u: "ml" },
     { n: "hierba limón", q: 1, u: "ud" },
@@ -959,7 +959,7 @@ window.RECETAS_SEED.push({
     { n: "chalota", q: 2, u: "ud" },
     { n: "salsa de pescado", q: 1, u: "cda" },
     { n: "azúcar de palma", q: 1, u: "cdta", nota: "o azúcar moreno" },
-    { n: "hoja de lima kaffir", q: 2, u: "hoja" },
+    { n: "hojas de lima kaffir", q: 2, u: "hoja" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "judías verdes", q: 100, u: "g" },
     { n: "brotes de soja", q: 100, u: "g" },
@@ -1057,12 +1057,12 @@ window.RECETAS_SEED.push({
     { n: "ajo", q: 2, u: "diente" },
     { n: "chile fresco", q: 2, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
-    { n: "hoja de lima kaffir", q: 2, u: "hoja" },
+    { n: "hojas de lima kaffir", q: 2, u: "hoja" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "pepino", q: 0.5, u: "ud" },
-    { n: "hoja de plátano", q: 2, u: "ud", opcional: true, nota: "o papel de horno" },
+    { n: "hojas de plátano", q: 2, u: "ud", opcional: true, nota: "o papel de horno" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
@@ -1161,10 +1161,10 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua para los fideos. Mientras, corta el pepino en bastoncitos finos y mézclalo en un bol con el vinagre de arroz y una pizca de sal y azúcar: será el encurtido rápido que sustituye a la mostaza china encurtida. Pica la chalota, la cebolleta y el cilantro, ralla los tomates desechando la piel, lamina el ajo y desmenuza el tofu con las manos.",
-    "Tuesta los cacahuetes en la sartén en seco 3 minutos, sácalos y machácalos. En la misma sartén, fríe el ajo en el aceite a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite de ajo en una taza.",
+    "Tuesta los cacahuetes en la sartén en seco 3 minutos, sácalos y machácalos. En la misma sartén, fríe el ajo en el aceite a fuego medio-bajo 3 minutos, hasta que esté dorado claro. Sácalo a un papel y reserva el aceite de oliva en una taza.",
     "En la sartén, con 1 cucharada de ese aceite, sofríe la chalota 3 minutos. Añade el pimentón y la cúrcuma, remueve 30 segundos e incorpora el tofu. Cocina 5 minutos a fuego medio-alto, hasta que empiece a dorarse.",
     "Añade el tomate rallado con la salsa de soja y el azúcar. Cuece 8-10 minutos a fuego medio, hasta que la salsa espese y el aceite asome por los bordes.",
-    "Mientras, cuece los fideos según el envase, escúrrelos y mézclalos en caliente con el resto del aceite de ajo.",
+    "Mientras, cuece los fideos según el envase, escúrrelos y mézclalos en caliente con el resto del aceite de oliva.",
     "Reparte los fideos en boles, cúbrelos con la salsa de tofu y termina con los cacahuetes, el ajo frito, la cebolleta y el cilantro, la guindilla desmenuzada si te gusta el picante y el pepino encurtido al lado."
   ],
   nutricion: { kcal: 700, prot: 29, hc: 81, grasa: 28 },

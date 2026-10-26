@@ -70,7 +70,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "horno", "cazuela", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 320, u: "g", nota: "2 medias pechugas enteras" },
+    { n: "pechuga de pollo", q: 320, u: "g", nota: "2 medias pechugas enteras" },
     { n: "mantequilla", q: 40, u: "g", nota: "30 g para el relleno y 10 g para el puré" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "eneldo fresco", q: 0.25, u: "manojo" },
@@ -163,7 +163,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 300, u: "g", nota: "4 filetes finos de tapa o redondo" },
+    { n: "filetes de ternera", q: 300, u: "g", nota: "4 filetes finos de tapa o redondo" },
     { n: "panceta ahumada", q: 40, u: "g" },
     { n: "pepinillos", q: 2, u: "ud", nota: "grandes; mejor fermentados en salmuera, al estilo polaco" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -265,8 +265,8 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pato (muslos)", q: 2, u: "ud", nota: "unos 250 g cada uno" },
-    { n: "semillas de alcaravea", q: 1, u: "cdta" },
+    { n: "muslos de pato", q: 2, u: "ud", nota: "unos 250 g cada uno" },
+    { n: "alcaravea", q: 1, u: "cdta" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "col lombarda", q: 400, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -310,7 +310,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "chirivía", q: 1, u: "ud", nota: "o raíz de perejil" },
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (redondo)", q: 350, u: "g", nota: "en una pieza" },
+    { n: "redondo de ternera", q: 350, u: "g", nota: "en una pieza" },
     { n: "panceta", q: 40, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "clavo", q: 3, u: "ud" },
@@ -370,10 +370,10 @@ window.RECETAS_SEED.push({
     { n: "tomate concentrado", q: 1, u: "cda" },
     { n: "ciruelas pasas", q: 6, u: "ud", nota: "sin hueso" },
     { n: "laurel", q: 2, u: "hoja" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "vino tinto", q: 200, u: "ml" },
     { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "ñoquis", q: 300, u: "g" },
+    { n: "ñoquis de patata", q: 300, u: "g" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
@@ -407,9 +407,9 @@ window.RECETAS_SEED.push({
   tiempo: 125,
   dificultad: "fácil",
   equipo: ["horno"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 600, u: "g", nota: "troceada, con hueso" },
+    { n: "paletilla de cordero", q: 600, u: "g", nota: "troceada, con hueso" },
     { n: "leche", q: 500, u: "ml", nota: "entera" },
     { n: "patata", q: 400, u: "g" },
     { n: "ajo", q: 4, u: "diente" },
@@ -429,11 +429,11 @@ window.RECETAS_SEED.push({
     "Destapa, gira los trozos de cordero con la parte de la grasa hacia arriba y sube el horno a 200 °C. Hornea 30-40 minutos más, hasta que la leche se haya reducido a una salsa cremosa con grumos dorados y la carne y las patatas estén tostadas. Que la leche forme grumos es normal y es parte del encanto del plato. Mientras, pica el perejil.",
     "Comprueba que la carne se separa del hueso con facilidad. Deja reposar 5 minutos, espolvorea el perejil picado y sirve con la salsa del fondo."
   ],
-  nutricion: { kcal: 790, prot: 44, hc: 51, grasa: 46 },
+  nutricion: { kcal: 620, prot: 36, hc: 30, grasa: 40 },
   etiquetas: ["tradicional", "al horno", "primavera", "sin gluten", "fin de semana", "sin verduras", "poco especiada"],
   consejo: "En Herzegovina y en el vecino Montenegro este cordero se hace en el sač, una campana de hierro cubierta de brasas; el horno tapado y luego destapado reproduce el efecto. La leche suaviza el sabor del cordero y deja una salsa que recuerda al dulce de leche salado. Con cordero lechal reduce la primera fase a 60 minutos. Aguanta bien 2 días: recaliéntalo tapado a 160 °C con un chorrito de leche.",
   tupper: true,
-  contundencia: "contundente",
+  contundencia: "media",
   coste: "premium"
 });
 
@@ -494,7 +494,7 @@ window.RECETAS_SEED.push({
   equipo: ["airfryer", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "tomate", q: 1, u: "ud" },
@@ -541,7 +541,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "microondas", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pavo", q: 300, u: "g" },
     { n: "kéfir", q: 100, u: "ml" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -635,7 +635,7 @@ window.RECETAS_SEED.push({
     { n: "col blanca", q: 300, u: "g" },
     { n: "manzana", q: 1, u: "ud", nota: "ácida" },
     { n: "cebolla morada", q: 1, u: "ud" },
-    { n: "semillas de alcaravea", q: 1, u: "cdta" },
+    { n: "alcaravea", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
     { n: "miel", q: 1, u: "cdta" },
@@ -674,7 +674,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete)", q: 280, u: "g", nota: "1 o 2 filetes gruesos de babilla o tapa, de 2 cm" },
+    { n: "filetes de ternera", q: 280, u: "g", nota: "1 o 2 filetes gruesos de babilla o tapa, de 2 cm" },
     { n: "col lombarda", q: 250, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "manzana", q: 1, u: "ud" },
@@ -765,7 +765,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (chuletillas)", q: 450, u: "g", nota: "unas 10-12 piezas" },
+    { n: "chuletillas de cordero", q: 450, u: "g", nota: "unas 10-12 piezas" },
     { n: "ajvar", q: 2, u: "cda" },
     { n: "mantequilla", q: 20, u: "g", nota: "blanda" },
     { n: "ajo", q: 1, u: "diente" },
@@ -816,7 +816,7 @@ window.RECETAS_SEED.push({
     { n: "mostaza antigua", q: 1, u: "cda" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
-    { n: "semillas de alcaravea", q: 1, u: "cdta" },
+    { n: "alcaravea", q: 1, u: "cdta" },
     { n: "chucrut", q: 300, u: "g" },
     { n: "manzana", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "slow-cooker", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -905,7 +905,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 300, u: "g", nota: "deshuesado" },
+    { n: "contramuslos de pavo", q: 300, u: "g", nota: "deshuesado" },
     { n: "trigo sarraceno", q: 120, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },

@@ -686,7 +686,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "gallo (filetes)", q: 300, u: "g", nota: "unos 8 filetes finos; o lenguado" },
+    { n: "filetes de gallo", q: 300, u: "g", nota: "unos 8 filetes finos; o lenguado" },
     { n: "patata", q: 400, u: "g" },
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "pan rallado", q: 40, u: "g" },
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 300, u: "g", nota: "unos 4 filetes con piel" },
+    { n: "filetes de trucha", q: 300, u: "g", nota: "unos 4 filetes con piel" },
     { n: "polenta", q: 40, u: "g", nota: "instantánea o harina de maíz gruesa" },
     { n: "parmesano", q: 20, u: "g" },
     { n: "huevo", q: 1, u: "ud" },

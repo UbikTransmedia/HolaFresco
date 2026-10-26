@@ -3,7 +3,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 /* Recetas INVENTADAS de FÁCIL DIGESTIÓN de cocina ASIÁTICA (bloque dig-asiatica-a: inv-3940 a inv-3964).
    Pescados, carnes, huevos y proteína vegetal de China, Japón, Corea y Taiwán, bajos en FODMAP para intestino
    irritable e hinchazón: tamari en lugar de salsa de soja con trigo, miso solo en poca cantidad, sin ajo ni cebolla
-   (aceite de ajo, parte verde de la cebolleta, jengibre), sin setas, sin legumbres salvo tofu firme y tempeh, fideos
+   (aceite de oliva, parte verde de la cebolleta, jengibre), sin setas, sin legumbres salvo tofu firme y tempeh, fideos
    de arroz o soba 100 % trigo sarraceno, sin picante, sin sake, mirin ni vino de Shaoxing (azúcar, cítricos y agua
    hacen su papel), sin fritos y con 25 g de grasa por ración como máximo. Algo más de la mitad son clásicos adaptados
    sin perder su alma (hongshao yu, longjing xiaren, xihu cuyu, yuan-yaki, saikyo-yaki, shōgayaki, tsukune, jjimdak,
@@ -33,7 +33,7 @@ window.RECETAS_SEED.push({
     { n: "vinagre de arroz", q: 1, u: "cda" },
     { n: "maicena", q: 1, u: "cdta" },
     { n: "aceite de girasol", q: 1, u: "cda" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pak choi", q: 150, u: "g" },
     { n: "agua", q: 150, u: "ml", nota: "más la del arroz" },
@@ -45,7 +45,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de girasol en una sartén antiadherente amplia a fuego medio-alto. Coloca la dorada con la piel hacia abajo y no la muevas en 3 minutos: la piel debe quedar dorada y despegarse sola. Dale la vuelta, cuenta 30 segundos y retírala a un plato; el centro seguirá crudo.",
     "En la misma sartén, a fuego medio, rehoga el jengibre, los trozos de cebolleta y el anís 1 minuto, hasta que huela. Añade el azúcar moreno y deja que se funda y burbujee 30 segundos, sin que llegue a oscurecer.",
     "Vierte el tamari, el vinagre de arroz y los 150 ml de agua, raspa el fondo y lleva a ebullición. Devuelve la dorada con la piel hacia arriba y coloca el pak choi alrededor. Tapa y cuece a fuego suave 5-6 minutos, regando el pescado con la salsa un par de veces, hasta que la carne esté opaca y se separe en lascas y las pencas estén tiernas pero aún firmes.",
-    "Pasa el pescado y el pak choi a los platos y aliña el pak choi con el aceite de ajo y una pizca de sal. Disuelve la maicena en 1 cucharada de agua fría, añádela a la salsa y deja hervir 30 segundos removiendo, hasta que quede brillante y napante. Retira el anís.",
+    "Pasa el pescado y el pak choi a los platos y aliña el pak choi con el aceite de oliva y una pizca de sal. Disuelve la maicena en 1 cucharada de agua fría, añádela a la salsa y deja hervir 30 segundos removiendo, hasta que quede brillante y napante. Retira el anís.",
     "Napa la dorada con la salsa, esparce los aros de cebolleta y sirve con el arroz."
   ],
   nutricion: { kcal: 530, prot: 37, hc: 66, grasa: 13 },
@@ -71,14 +71,14 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "gambas peladas", q: 320, u: "g", nota: "crudas; si son congeladas, descongeladas en la nevera" },
-    { n: "clara de huevo", q: 1, u: "ud" },
+    { n: "claras de huevo", q: 1, u: "ud" },
     { n: "maicena", q: 2, u: "cdta" },
     { n: "té verde en hojas", q: 2, u: "cdta", nota: "mejor longjing o un sencha de hoja entera" },
     { n: "agua", q: 100, u: "ml", nota: "a 80 °C, para el té" },
     { n: "aceite de girasol", q: 1, u: "cda" },
     { n: "jengibre fresco", q: 10, u: "g" },
     { n: "brotes de soja", q: 250, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "tamari", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "sal", u: "al gusto" },
@@ -89,7 +89,7 @@ window.RECETAS_SEED.push({
     "Infusiona el té: pon las hojas en una taza, cúbrelas con los 100 ml de agua a 80 °C (si hierve, amarga) y déjalas 2 minutos. Cuela y reserva por separado las hojas y el líquido.",
     "Seca las gambas con papel de cocina, sálalas y mézclalas con la clara batida y la maicena hasta que queden cubiertas por una película fina. Déjalas 10 minutos en la nevera: este «terciopelo» es lo que las mantiene jugosas. Mientras, pon a calentar una cazuela con agua y corta el jengibre en hilos finos.",
     "Cuando el agua hierva suavemente, echa las gambas, sepáralas con unos palillos y sácalas a los 40-50 segundos, en cuanto se vuelvan rosa pálido. Escúrrelas bien. En los restaurantes se pasan por aceite tibio; el agua da la misma textura sin grasa.",
-    "Calienta el aceite de ajo en el wok a fuego medio-alto y saltea los brotes de soja con el tamari 2 minutos, hasta que estén calientes pero todavía crujientes. Pásalos a los platos.",
+    "Calienta el aceite de oliva en el wok a fuego medio-alto y saltea los brotes de soja con el tamari 2 minutos, hasta que estén calientes pero todavía crujientes. Pásalos a los platos.",
     "Limpia el wok, pon el aceite de girasol con el jengibre 30 segundos, añade las gambas y las hojas de té y saltea 1 minuto. Riega con 3 cucharadas de la infusión, añade sal y una pizca de pimienta blanca y saltea 30 segundos más, hasta que el líquido se evapore y las gambas brillen.",
     "Sirve las gambas enseguida, con algunas hojas de té por encima, junto al arroz y los brotes."
   ],
@@ -115,7 +115,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pez espada (rodajas)", q: 320, u: "g", nota: "2 rodajas de 2 cm" },
+    { n: "pez espada", q: 320, u: "g", nota: "2 rodajas de 2 cm" },
     { n: "tamari", q: 2.5, u: "cda" },
     { n: "naranja", q: 0.5, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
@@ -293,8 +293,8 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "wok"],
   raciones: 2,
   ingredientes: [
-    { n: "sepia limpia", q: 300, u: "g" },
-    { n: "fideos soba 100 % trigo sarraceno", q: 140, u: "g" },
+    { n: "sepia", q: 300, u: "g" },
+    { n: "fideos soba de trigo sarraceno", q: 140, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "calabacín", q: 120, u: "g" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -338,7 +338,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "rape (cola)", q: 320, u: "g", nota: "limpio, sin piel ni espina" },
+    { n: "cola de rape", q: 320, u: "g", nota: "limpio, sin piel ni espina" },
     { n: "piña", q: 150, u: "g" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "tamari", q: 2, u: "cda" },
@@ -384,10 +384,10 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "lenguado (filetes)", q: 320, u: "g", nota: "4 filetes" },
+    { n: "filetes de lenguado", q: 320, u: "g", nota: "4 filetes" },
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "tahini", q: 1.5, u: "cda" },
     { n: "tamari", q: 1, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
@@ -401,7 +401,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 210 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Mientras, tuesta el sésamo en la cazuela seca 1-2 minutos, hasta que huela, y pásalo a un plato. Pon en la cazuela dos dedos de agua, coloca encima la cesta de vapor y lleva a ebullición. Cuece las espinacas en la cesta, tapadas, 1-2 minutos, hasta que se ablanden; escúrrelas apretando con las manos, pícalas y mézclalas con el aceite de ajo y una pizca de sal. Corta la zanahoria en bastones muy finos.",
+    "Mientras, tuesta el sésamo en la cazuela seca 1-2 minutos, hasta que huela, y pásalo a un plato. Pon en la cazuela dos dedos de agua, coloca encima la cesta de vapor y lleva a ebullición. Cuece las espinacas en la cesta, tapadas, 1-2 minutos, hasta que se ablanden; escúrrelas apretando con las manos, pícalas y mézclalas con el aceite de oliva y una pizca de sal. Corta la zanahoria en bastones muy finos.",
     "Seca los filetes de lenguado y sálalos. Extiéndelos con la cara donde estaba la piel hacia arriba, reparte encima las espinacas y unos bastones de zanahoria y enróllalos desde el extremo estrecho. Sujétalos con un palillo.",
     "Coloca los rollitos en un plato hondo que quepa en la cesta, con el resto de la zanahoria alrededor, y ponlo sobre el agua hirviendo. Tapa y cuece 8-9 minutos, hasta que el pescado esté blanco y opaco.",
     "Mientras, ralla el jengibre y bate el tahini con el tamari, el vinagre, el azúcar, el jengibre y 2-3 cucharadas de agua caliente hasta tener una salsa fluida, como nata líquida. Pica el cebollino.",
@@ -430,7 +430,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "lomo de cerdo en filetes finos", q: 300, u: "g" },
+    { n: "filetes de lomo de cerdo", q: 300, u: "g" },
     { n: "jengibre fresco", q: 25, u: "g" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "azúcar", q: 2, u: "cdta" },
@@ -564,14 +564,14 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "patata", q: 200, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "fideos de arroz anchos", q: 60, u: "g" },
     { n: "tamari", q: 3, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cda" },
     { n: "jengibre fresco", q: 15, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cebolleta (parte verde)", q: 30, u: "g" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cdta" },
@@ -581,7 +581,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Remoja los fideos de arroz en agua templada 20 minutos.",
     "Corta el pollo en trozos de 4 cm, la patata y la zanahoria en trozos grandes con los bordes redondeados (así no se deshacen) y el jengibre en láminas.",
-    "Calienta el aceite de ajo en una cazuela a fuego medio, añade el azúcar y remueve 1-2 minutos, hasta que se funda y tome color ámbar. Añade el pollo y dóralo 4 minutos en ese caramelo, hasta que coja color por todos lados.",
+    "Calienta el aceite de oliva en una cazuela a fuego medio, añade el azúcar y remueve 1-2 minutos, hasta que se funda y tome color ámbar. Añade el pollo y dóralo 4 minutos en ese caramelo, hasta que coja color por todos lados.",
     "Vierte el tamari, el agua y el jengibre y añade la patata y la zanahoria. Lleva a ebullición, tapa y cuece a fuego medio-bajo 20 minutos, hasta que la patata esté tierna.",
     "Destapa, sube un poco el fuego y deja reducir 5 minutos, hasta que la salsa esté brillante y algo espesa.",
     "Añade los fideos escurridos y la cebolleta en trozos de 4 cm, mezcla y cuece 3-4 minutos, hasta que los fideos estén tiernos y hayan absorbido parte de la salsa.",
@@ -589,7 +589,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 550, prot: 39, hc: 54, grasa: 20 },
   etiquetas: ["bajo en fodmap", "fácil digestión", "tradicional", "sin gluten", "alta en proteína", "poco especiada", "bajo en colesterol", "invierno", "para niños"],
-  consejo: "En Andong se hace con guindillas secas, mucho ajo, cebolla y fideos de boniato (dangmyeon); aquí el aceite de ajo y la parte verde de la cebolleta aromatizan sin fructanos y los fideos de arroz anchos absorben la salsa igual de bien (si encuentras dangmyeon, que son solo fécula de boniato, también son aptos: remójalos 30 minutos). La patata y la zanahoria, libres en la dieta baja en FODMAP, hacen del guiso un plato completo. Añade los fideos justo antes de servir: si reposan en la salsa, se ablandan demasiado.",
+  consejo: "En Andong se hace con guindillas secas, mucho ajo, cebolla y fideos de boniato (dangmyeon); aquí la parte verde de la cebolleta aromatiza sin fructanos y los fideos de arroz anchos absorben la salsa igual de bien (si encuentras dangmyeon, que son solo fécula de boniato, también son aptos: remójalos 30 minutos). La patata y la zanahoria, libres en la dieta baja en FODMAP, hacen del guiso un plato completo. Añade los fideos justo antes de servir: si reposan en la salsa, se ablandan demasiado.",
   tupper: true,
   contundencia: "media",
   coste: "económica"
@@ -618,7 +618,7 @@ window.RECETAS_SEED.push({
     { n: "naranja", q: 1, u: "ud" },
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "azúcar", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "arroz japonés", q: 120, u: "g" },
@@ -626,7 +626,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta el cordero en lonchas de medio centímetro, retirando la grasa visible. Ralla el jengibre y mézclalo con el tamari, el zumo de media naranja, el azúcar y el aceite de ajo. Marina la carne con la mitad de esta salsa 15 minutos y reserva la otra mitad para mojar.",
+    "Corta el cordero en lonchas de medio centímetro, retirando la grasa visible. Ralla el jengibre y mézclalo con el tamari, el zumo de media naranja, el azúcar y el aceite de oliva. Marina la carne con la mitad de esta salsa 15 minutos y reserva la otra mitad para mojar.",
     "Mientras se marina, lava el arroz japonés y cuécelo con 150 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
     "Corta la calabaza con piel en medias lunas de 5 mm, el pimiento en tiras y la col en cuadrados de 4 cm. Lava los brotes de soja. Tuesta el sésamo en una sartén seca 1-2 minutos.",
     "Calienta una plancha o sartén grande con el aceite de girasol a fuego medio. Pon la calabaza y cocínala 3 minutos por lado, tapada si hace falta, hasta que esté tierna.",
@@ -703,7 +703,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "pechuga de pavo en filetes finos", q: 320, u: "g" },
+    { n: "pechuga de pavo", q: 320, u: "g" },
     { n: "judías verdes", q: 140, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "maicena", q: 1, u: "cdta" },
@@ -747,7 +747,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "codornices", q: 4, u: "ud", nota: "pequeñas, de unos 120 g cada una" },
+    { n: "codorniz", q: 4, u: "ud", nota: "pequeñas, de unos 120 g cada una" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "sirope de arce", q: 1.5, u: "cda" },
     { n: "anís estrellado", q: 1, u: "ud" },
@@ -755,7 +755,7 @@ window.RECETAS_SEED.push({
     { n: "aceite de girasol", q: 1, u: "cdta" },
     { n: "arroz jazmín", q: 140, u: "g" },
     { n: "pak choi", q: 150, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cdta" },
+    { n: "aceite de oliva", q: 1, u: "cdta" },
     { n: "cebolleta (parte verde)", q: 20, u: "g" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -763,7 +763,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Abre las codornices en libro: con unas tijeras de cocina corta a lo largo de la columna, ábrelas y aplánalas con la palma de la mano. Sécalas muy bien y sálalas ligeramente.",
     "Corta todo el jengibre en láminas. En un cazo, calienta el tamari, el sirope, el anís y la mitad del jengibre 2 minutos a fuego suave para que se infusione. Deja templar, pinta las codornices por ambos lados y déjalas 15 minutos.",
-    "Mientras reposan, precalienta el horno a 220 °C. Lava el arroz y cuécelo con 210 ml de agua, el resto del jengibre y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Corta el pak choi en cuartos, úntalo con el aceite de ajo y sálalo.",
+    "Mientras reposan, precalienta el horno a 220 °C. Lava el arroz y cuécelo con 210 ml de agua, el resto del jengibre y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo. Corta el pak choi en cuartos, úntalo con el aceite de oliva y sálalo.",
     "Coloca las codornices con la piel hacia arriba en una bandeja con papel untado con el aceite. Ásalas 15-18 minutos, pintándolas con la laca cada 5 minutos, hasta que la piel esté caoba y brillante y al pinchar el muslo salga un jugo claro. En los últimos 6 minutos, pon el pak choi en la bandeja junto a las codornices, hasta que las pencas estén tiernas. Mientras, pica la cebolleta.",
     "Deja reposar las codornices 3 minutos. Sirve con el arroz (sin el jengibre), el pak choi, la cebolleta y el jugo de la bandeja por encima."
   ],
@@ -881,7 +881,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ostras frescas", q: 200, u: "g", nota: "peladas, unas 14" },
+    { n: "ostras", q: 200, u: "g", nota: "peladas, unas 14" },
     { n: "huevo", q: 4, u: "ud" },
     { n: "fécula de patata", q: 60, u: "g" },
     { n: "agua", q: 200, u: "ml" },
@@ -927,7 +927,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
-    { n: "lomo de cerdo en lonchas finas", q: 160, u: "g", nota: "de 2-3 mm" },
+    { n: "filetes de lomo de cerdo", q: 160, u: "g", nota: "de 2-3 mm" },
     { n: "col blanca", q: 140, u: "g" },
     { n: "brotes de soja", q: 100, u: "g" },
     { n: "cebolleta (parte verde)", q: 15, u: "g" },
@@ -979,12 +979,12 @@ window.RECETAS_SEED.push({
     { n: "huevo", q: 4, u: "ud" },
     { n: "tomate pera", q: 5, u: "ud" },
     { n: "alga kombu", q: 1, u: "ud", nota: "un trozo de 10 cm" },
-    { n: "copos de bonito", q: 8, u: "g" },
+    { n: "copos de bonito seco", q: 8, u: "g" },
     { n: "agua", q: 250, u: "ml", nota: "más la del arroz" },
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "tamari", q: 1, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "pak choi", q: 150, u: "g" },
     { n: "cebolleta (parte verde)", q: 15, u: "g" },
     { n: "arroz japonés", q: 140, u: "g" },
@@ -994,7 +994,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Haz un dashi rápido: pon el kombu en el agua fría 10 minutos (mientras, ralla el jengibre, pica la cebolleta y corta el pak choi en cuartos a lo largo), calienta y retíralo justo antes de que hierva. Añade el bonito, apaga el fuego, espera 2 minutos y cuela.",
     "Mientras, lava el arroz japonés y cuécelo con 170 ml de agua: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Ralla los tomates por el lado del corte y desecha la piel. Calienta el aceite de ajo en una sartén honda a fuego medio y rehoga el jengibre 30 segundos; añade el tomate y cocina 8 minutos, removiendo, hasta que se reduzca.",
+    "Ralla los tomates por el lado del corte y desecha la piel. Calienta el aceite de oliva en una sartén honda a fuego medio y rehoga el jengibre 30 segundos; añade el tomate y cocina 8 minutos, removiendo, hasta que se reduzca.",
     "Vierte 150 ml de dashi, el tamari y el azúcar y cuece 5 minutos más, hasta tener una salsa ligera. Añade el pak choi y cuece 3 minutos.",
     "Haz cuatro huecos en la salsa, casca un huevo en cada uno y sálalos ligeramente. Tapa y cuece a fuego suave 5-6 minutos, hasta que las claras estén cuajadas por completo y la yema a tu gusto.",
     "Esparce la cebolleta y sirve con el arroz espolvoreado con el sésamo tostado, para mojar en la salsa."

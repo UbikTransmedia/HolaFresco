@@ -58,7 +58,7 @@ window.RECETAS_SEED.push({
   raciones: 2,
   ingredientes: [
     { n: "pimientos del piquillo", q: 10, u: "ud", nota: "enteros, de bote" },
-    { n: "bacalao desalado (lomos)", q: 200, u: "g", nota: "vale desmigado" },
+    { n: "bacalao desalado", q: 200, u: "g", nota: "vale desmigado" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
     { n: "harina de trigo", q: 40, u: "g" },
@@ -186,7 +186,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 300, u: "g", nota: "sin piel ni espinas; valen recortes" },
+    { n: "bonito fresco", q: 300, u: "g", nota: "sin piel ni espinas; valen recortes" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "pan rallado", q: 40, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -397,7 +397,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g" },
+    { n: "bacalao desalado", q: 320, u: "g" },
     { n: "patata", q: 450, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "huevo", q: 1, u: "ud" },
@@ -435,7 +435,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "rape (cola)", q: 1, u: "ud", nota: "de unos 500 g, sin piel" },
+    { n: "cola de rape", q: 1, u: "ud", nota: "de unos 500 g, sin piel" },
     { n: "pimentón dulce", q: 2, u: "cdta" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -521,7 +521,7 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 30, u: "g" },
     { n: "harina de trigo", q: 60, u: "g" },
     { n: "leche", q: 350, u: "ml" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "pan rallado", q: 80, u: "g" },
     { n: "lechuga romana", q: 0.5, u: "ud" },
@@ -643,7 +643,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 320, u: "g" },
+    { n: "bonito fresco", q: 320, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -767,7 +767,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "batidora"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g", nota: "en Canarias se usa cherne salado" },
+    { n: "bacalao desalado", q: 320, u: "g", nota: "en Canarias se usa cherne salado" },
     { n: "patata", q: 450, u: "g", nota: "pequeñas" },
     { n: "boniato", q: 250, u: "g" },
     { n: "ajo", q: 4, u: "diente" },
@@ -929,7 +929,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "corvina (lomos)", q: 340, u: "g", nota: "gruesos, con piel" },
+    { n: "corvina", q: 340, u: "g", nota: "gruesos, con piel" },
     { n: "patata", q: 350, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },

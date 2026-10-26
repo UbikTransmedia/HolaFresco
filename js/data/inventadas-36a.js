@@ -1,7 +1,7 @@
 window.RECETAS_SEED = window.RECETAS_SEED || [];
 
 /* Recetas INVENTADAS SIN GLUTEN y BAJAS EN FODMAP (bloque 36a: inv-1761 a inv-1785).
-   Sin ajo, cebolla, legumbres ni lactosa: el sabor llega con aceite de ajo, cebollino y parte verde de la cebolleta. */
+   Sin ajo, cebolla, legumbres ni lactosa: el sabor llega con aceite de oliva, cebollino y parte verde de la cebolleta. */
 
 window.RECETAS_SEED.push({
   id: "inv-1761",
@@ -25,7 +25,7 @@ window.RECETAS_SEED.push({
     { n: "jengibre fresco", q: 15, u: "g" },
     { n: "azúcar moreno", q: 1, u: "cda" },
     { n: "vinagre de arroz", q: 1, u: "cda" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "sésamo", q: 1, u: "cda" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Tuesta el sésamo en una cazuela en seco 1 minuto, hasta que huela y tome color dorado, y resérvalo. Lava el arroz jazmín hasta que el agua salga casi clara y cuécelo en la misma cazuela con 180 ml de agua y una pizca de sal: lleva a ebullición, tapa, baja al mínimo 12 minutos y deja reposar 5 minutos más sin destapar.",
     "Mientras, ralla el jengibre y mézclalo en un bol con el tamari, el azúcar moreno y el vinagre de arroz. Reserva 1 cucharada de esta salsa para el pak choi. Pica el cebollino, corta la lima en gajos y parte el pak choi a lo largo en cuartos.",
-    "Seca bien los lomos de salmón con papel, píntalos con la mitad del glaseado y colócalos con la piel hacia abajo en la cesta de la airfryer forrada con papel perforado. Mezcla el pak choi con el aceite de ajo y la cucharada de salsa reservada.",
+    "Seca bien los lomos de salmón con papel, píntalos con la mitad del glaseado y colócalos con la piel hacia abajo en la cesta de la airfryer forrada con papel perforado. Mezcla el pak choi con el aceite de oliva y la cucharada de salsa reservada.",
     "Cocina el salmón a 190 °C durante 8 minutos. A los 3 minutos, píntalo con el resto del glaseado y reparte el pak choi alrededor en la cesta. Estará listo cuando la superficie del salmón brille caramelizada y las láminas se separen al presionar, todavía jugosas en el centro, y los tallos del pak choi estén tiernos pero crujientes.",
     "Sirve el arroz con el salmón y el pak choi, rocía con el aceite de sésamo y termina con el sésamo, el cebollino y un gajo de lima."
   ],
@@ -52,7 +52,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1762",
   nombre: "Merluza en papillote con calabacín, tomate cherry y aceitunas al orégano",
-  subtitulo: "sobre rodajas finas de patata y con aceite de ajo",
+  subtitulo: "sobre rodajas finas de patata y con aceite de oliva",
   origen: "inventada",
   categoria: "pescado",
   cocina: "mediterránea",
@@ -70,8 +70,7 @@ window.RECETAS_SEED.push({
     { n: "tomate cherry", q: 200, u: "g" },
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "orégano seco", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "limón", q: 0.5, u: "ud" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
@@ -81,7 +80,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C con calor arriba y abajo. Pela las patatas y córtalas en rodajas de 3 mm; mézclalas con el aceite de oliva y sal y hornéalas extendidas en una bandeja 15 minutos, hasta que empiecen a ablandarse.",
     "Mientras, corta el calabacín en medias lunas finas, parte los tomates cherry por la mitad y las aceitunas en rodajas, y pica el perejil.",
     "Recorta dos rectángulos grandes de papel de horno. En el centro de cada uno reparte la mitad de las patatas ya precocinadas, encima el calabacín y los tomates, y sobre ellos un lomo de merluza salpimentado.",
-    "Esparce las aceitunas y el orégano, riega con el aceite de ajo y unas gotas de limón. Cierra los paquetes doblando los bordes varias veces para que queden herméticos.",
+    "Esparce las aceitunas y el orégano, riega con el aceite de oliva y unas gotas de limón. Cierra los paquetes doblando los bordes varias veces para que queden herméticos.",
     "Hornea 12–14 minutos, hasta que el papel se hinche. La merluza está lista cuando su carne es blanca y se separa en lascas.",
     "Abre los paquetes en la mesa con cuidado con el vapor y termina con el perejil y un chorrito del jugo del fondo."
   ],
@@ -96,7 +95,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1763",
   nombre: "Bacalao fresco con patatas panaderas y pimientos, todo al horno",
-  subtitulo: "con vino blanco, pimentón y aceite de ajo",
+  subtitulo: "con vino blanco, pimentón y aceite de oliva",
   origen: "inventada",
   categoria: "pescado",
   cocina: "española",
@@ -114,16 +113,15 @@ window.RECETAS_SEED.push({
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "vino blanco", q: 50, u: "ml" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
-    { n: "aceite de oliva", q: 3, u: "cda" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
     "Precalienta el horno a 200 °C. Pela las patatas y córtalas en rodajas de medio centímetro; corta los pimientos en tiras.",
-    "Mezcla en una fuente patatas y pimientos con el aceite de oliva y sal. Hornea 30 minutos, dándoles la vuelta a mitad, hasta que las patatas estén tiernas y doradas por los bordes. Mientras, mezcla el aceite de ajo con el pimentón y pica el perejil.",
+    "Mezcla en una fuente patatas y pimientos con el aceite de oliva y sal. Hornea 30 minutos, dándoles la vuelta a mitad, hasta que las patatas estén tiernas y doradas por los bordes. Mientras, mezcla el aceite de oliva con el pimentón y pica el perejil.",
     "Saca la fuente, riega con el vino blanco y hornea 5 minutos más para que se evapore el alcohol.",
-    "Sala los lomos de bacalao, colócalos con la piel hacia abajo sobre la cama de patatas y píntalos con el aceite de ajo al pimentón.",
+    "Sala los lomos de bacalao, colócalos con la piel hacia abajo sobre la cama de patatas y píntalos con el aceite de oliva al pimentón.",
     "Hornea 10–12 minutos, hasta que el bacalao esté opaco y empiece a separarse en lascas al presionarlo.",
     "Espolvorea el perejil y sirve directamente de la fuente, con el jugo que haya quedado en el fondo."
   ],
@@ -161,7 +159,7 @@ window.RECETAS_SEED.push({
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "cilantro molido", q: 1, u: "cdta" },
     { n: "garam masala", q: 0.5, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "parte verde de cebolleta", q: 2, u: "ud" },
     { n: "lima", q: 1, u: "ud" },
     { n: "sal", u: "al gusto" },
@@ -170,7 +168,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el arroz basmati lavado en una cazuela con 250 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo. Reserva tapado.",
     "Mientras, pela la calabaza y córtala en dados de 2 cm. Ralla el jengibre y pica la parte verde de la cebolleta.",
-    "En otra cazuela, calienta el aceite de ajo a fuego medio y sofríe el jengibre y la cebolleta 1 minuto. Añade cúrcuma, comino y cilantro molido y remueve 30 segundos, hasta que huelan, sin que se quemen.",
+    "En otra cazuela, calienta el aceite de oliva a fuego medio y sofríe el jengibre y la cebolleta 1 minuto. Añade cúrcuma, comino y cilantro molido y remueve 30 segundos, hasta que huelan, sin que se quemen.",
     "Incorpora el tomate concentrado, la calabaza y 150 ml de agua. Tapa y cuece 12 minutos, hasta que la calabaza se deje atravesar con un cuchillo.",
     "Vierte la leche de coco, sala y cuece destapado 5 minutos para que la salsa espese ligeramente.",
     "Añade los langostinos y las espinacas y cocina 3 minutos, solo hasta que los langostinos se curven y se pongan rosados. Termina con el garam masala y el zumo de media lima.",
@@ -244,12 +242,11 @@ window.RECETAS_SEED.push({
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 350, u: "g" },
+    { n: "muslos de pollo deshuesados", q: 350, u: "g" },
     { n: "patata", q: 500, u: "g" },
     { n: "limón", q: 1, u: "ud" },
     { n: "orégano seco", q: 2, u: "cdta" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
-    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "aceite de oliva", q: 4, u: "cda" },
     { n: "aceitunas negras", q: 30, u: "g" },
     { n: "agua", q: 150, u: "ml" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -287,14 +284,14 @@ window.RECETAS_SEED.push({
   coccion: ["slow-cooker"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 400, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 400, u: "g", nota: "deshuesados y sin piel" },
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "tomate triturado", q: 200, u: "g" },
     { n: "vino blanco", q: 100, u: "ml" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
     { n: "comino molido", q: 0.5, u: "cdta" },
     { n: "tomillo seco", q: 0.5, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
@@ -303,7 +300,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta los pimientos en tiras anchas y ponlos en el fondo de la slow cooker.",
     "Sala los contramuslos y frótalos con el pimentón, el comino y el tomillo. Colócalos sobre los pimientos.",
-    "Mezcla el tomate triturado con el vino blanco y el aceite de ajo y viértelo por encima.",
+    "Mezcla el tomate triturado con el vino blanco y el aceite de oliva y viértelo por encima.",
     "Tapa y cocina 5 horas en LOW (o 3 horas en HIGH), hasta que el pollo se deshaga al presionarlo con un tenedor y los pimientos estén muy tiernos.",
     "Media hora antes de servir, cuece el arroz lavado en una cazuela con 280 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo. Mientras, pica el perejil.",
     "Si la salsa ha quedado muy líquida, destapa la slow cooker y deja en HIGH 20 minutos para que espese. Prueba de sal.",
@@ -333,22 +330,21 @@ window.RECETAS_SEED.push({
   coccion: ["slow-cooker"],
   raciones: 2,
   ingredientes: [
-    { n: "cerdo (paleta)", q: 350, u: "g", nota: "en 3 o 4 trozos" },
+    { n: "paleta de cerdo", q: 350, u: "g", nota: "en 3 o 4 trozos" },
     { n: "zumo de naranja", q: 200, u: "ml", nota: "recién exprimido" },
     { n: "lima", q: 1, u: "ud" },
     { n: "comino molido", q: 1, u: "cdta" },
     { n: "orégano seco", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
     { n: "arroz basmati", q: 120, u: "g" },
     { n: "plátano macho", q: 1, u: "ud", nota: "pequeño y maduro" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Prepara el mojo mezclando el zumo de naranja, el zumo de la lima, el comino, el orégano, el aceite de ajo, sal y pimienta.",
+    "Prepara el mojo mezclando el zumo de naranja, el zumo de la lima, el comino, el orégano, el aceite de oliva, sal y pimienta.",
     "Coloca los trozos de paleta en la slow cooker, riégalos con el mojo y dales la vuelta para que se impregnen.",
     "Tapa y cocina 6 horas en LOW, hasta que la carne se deshilache sin esfuerzo con dos tenedores.",
     "Cuando falten unos 20 minutos, cuece el arroz en una cazuela con 240 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo. Mientras, pela el plátano macho, córtalo en rodajas diagonales de 1 cm y pica el cilantro.",
@@ -358,7 +354,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 790, prot: 36, hc: 92, grasa: 31 },
   etiquetas: ["sin gluten", "bajo en fodmap", "slow cooker", "tupper", "batch cooking", "fácil", "sin verduras", "poco especiada"],
-  consejo: "El mojo cubano clásico lleva mucho ajo; aquí el aceite de ajo aporta el aroma sin los fructanos. La carne desmenuzada aguanta 3 días en la nevera y se congela muy bien con su jugo.",
+  consejo: "El mojo cubano clásico lleva mucho ajo; aquí se prescinde de él para evitar los fructanos. La carne desmenuzada aguanta 3 días en la nevera y se congela muy bien con su jugo.",
   alternativa: "Si no tienes slow cooker, cuece la paleta con el mojo en cazuela tapada a fuego muy suave unas 2 h 15 min, con 150 ml de agua y dándole la vuelta a mitad; o en olla exprés, 45 minutos desde que suba la válvula.",
   contundencia: "contundente",
   coste: "económica",
@@ -388,8 +384,7 @@ window.RECETAS_SEED.push({
     { n: "tomate triturado", q: 400, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "patata", q: 300, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "orégano seco", q: 0.5, u: "cdta" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" }
@@ -397,7 +392,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 200 °C. Corta las patatas en dados de 2 cm, mézclalas con el aceite de oliva y sal y ásalas en un extremo de una bandeja grande 15 minutos.",
     "Mientras, pica el perejil y mezcla en un bol el pavo, el pan rallado sin gluten, el huevo, el parmesano, el perejil y sal. Forma unas 12 albóndigas del tamaño de una nuez grande con las manos humedecidas.",
-    "Pica el pimiento en dados pequeños y mézclalo con el tomate triturado, el aceite de ajo, el orégano y sal.",
+    "Pica el pimiento en dados pequeños y mézclalo con el tomate triturado, el aceite de oliva, el orégano y sal.",
     "Saca la bandeja, aparta las patatas a un lado, vierte la salsa en el otro y coloca las albóndigas sobre ella.",
     "Hornea 20–25 minutos, hasta que las albóndigas estén doradas por arriba y firmes al tacto, la salsa burbujee y las patatas estén crujientes.",
     "Reparte albahaca fresca rota con los dedos y sirve las albóndigas con su salsa y las patatas al lado."
@@ -425,7 +420,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filete)", q: 300, u: "g" },
+    { n: "filetes de ternera", q: 300, u: "g" },
     { n: "fideos de arroz", q: 140, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -435,8 +430,7 @@ window.RECETAS_SEED.push({
     { n: "tamari", q: 3, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
     { n: "maicena", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "cacahuetes", q: 30, u: "g" },
     { n: "agua", u: "al gusto" },
@@ -446,7 +440,7 @@ window.RECETAS_SEED.push({
     "Mientras, corta la ternera en tiras finas a contrapelo y mézclala con la maicena y 1 cucharada de tamari. Corta los pimientos en tiras, la zanahoria en bastoncitos y la parte verde de la cebolleta en trozos de 3 cm.",
     "Ralla el jengibre y mézclalo en un vaso con el resto del tamari, el azúcar moreno y 3 cucharadas de agua. Pica los cacahuetes. Escurre los fideos y pásalos por agua fría.",
     "Calienta el wok a fuego máximo con el aceite de oliva hasta que humee y saltea la ternera 2 minutos, en una sola capa, hasta que se dore. Sácala.",
-    "Añade el aceite de ajo y saltea pimientos y zanahoria 3 minutos, removiendo sin parar; deben quedar crujientes.",
+    "Añade el aceite de oliva y saltea pimientos y zanahoria 3 minutos, removiendo sin parar; deben quedar crujientes.",
     "Devuelve la ternera, incorpora los fideos, la cebolleta y la salsa y saltea 1–2 minutos hasta que todo brille y los fideos se hayan teñido.",
     "Apaga, rocía con el aceite de sésamo y sirve con los cacahuetes por encima."
   ],
@@ -602,7 +596,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "judías verdes", q: 200, u: "g" },
     { n: "tomate cherry", q: 150, u: "g" },
@@ -632,7 +626,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-1775",
-  nombre: "Crema de calabacín y patata con queso manchego y aceite de ajo",
+  nombre: "Crema de calabacín y patata con queso manchego y aceite de oliva",
   subtitulo: "con semillas de calabaza tostadas y cebollino",
   origen: "inventada",
   categoria: "sopas-cremas",
@@ -650,9 +644,8 @@ window.RECETAS_SEED.push({
     { n: "queso manchego curado", q: 40, u: "g" },
     { n: "leche sin lactosa", q: 100, u: "ml" },
     { n: "agua", q: 500, u: "ml" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
@@ -662,7 +655,7 @@ window.RECETAS_SEED.push({
     "Tuesta las semillas de calabaza en una cazuela en seco 2 minutos, hasta que empiecen a saltar, y resérvalas. Calienta en ella el aceite de oliva y rehoga el calabacín y la patata con sal 5 minutos a fuego medio, removiendo, hasta que el calabacín empiece a sudar.",
     "Cubre con el agua, lleva a ebullición y cuece 15 minutos tapado, hasta que la patata se deshaga al pincharla. Mientras, trocea el queso y pica el cebollino.",
     "Añade el queso y la leche sin lactosa y tritura con la batidora hasta obtener una crema lisa. Ajusta de sal y pimienta; si está muy espesa, aligera con agua caliente.",
-    "Sirve la crema con un hilo de aceite de ajo, las semillas y el cebollino."
+    "Sirve la crema con un hilo de aceite de oliva, las semillas y el cebollino."
   ],
   nutricion: { kcal: 390, prot: 16, hc: 24, grasa: 26 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "tupper", "batch cooking", "ligera", "fácil", "poco especiada"],
@@ -675,7 +668,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1776",
   nombre: "Arroz al horno con costilla de cerdo, patata y tomate al pimentón",
-  subtitulo: "versión sin garbanzos ni morcilla, con azafrán y aceite de ajo",
+  subtitulo: "versión sin garbanzos ni morcilla, con azafrán y aceite de oliva",
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "española",
@@ -687,22 +680,21 @@ window.RECETAS_SEED.push({
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
-    { n: "costilla de cerdo", q: 300, u: "g", nota: "troceada en piezas pequeñas" },
+    { n: "costillas de cerdo", q: 300, u: "g", nota: "troceada en piezas pequeñas" },
     { n: "arroz redondo", q: 160, u: "g" },
     { n: "patata", q: 150, u: "g" },
     { n: "tomate", q: 1, u: "ud" },
     { n: "caldo de pollo", q: 450, u: "ml", nota: "casero o apto bajo en FODMAP, sin cebolla ni ajo" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "azafrán", q: 1, u: "pizca" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
     "Precalienta el horno a 220 °C con calor arriba y abajo y calienta el caldo con el azafrán y sal: debe quedar ligeramente salado. Corta la patata en rodajas de 1 cm y parte el tomate por la mitad.",
     "En una sartén grande con el aceite de oliva, dora la costilla salada a fuego medio-alto 8 minutos, hasta que esté bien tostada por todos los lados.",
     "Dora las rodajas de patata 3 minutos en la misma sartén. Retira patata y costilla.",
-    "Baja el fuego, añade el aceite de ajo y el arroz y nacáralo 1 minuto. Aparta del fuego, añade el pimentón y remueve 10 segundos.",
+    "Baja el fuego, añade el aceite de oliva y el arroz y nacáralo 1 minuto. Aparta del fuego, añade el pimentón y remueve 10 segundos.",
     "Pasa el arroz a una cazuela de barro o fuente de horno, reparte la costilla, coloca encima las rodajas de patata y el tomate, con el corte hacia arriba.",
     "Vierte el caldo hirviendo y hornea 18–20 minutos, hasta que el arroz haya absorbido el caldo, esté en su punto y la superficie se vea seca y tostada.",
     "Deja reposar 5 minutos fuera del horno antes de servir."
@@ -718,7 +710,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1777",
   nombre: "Pasta sin gluten en una sola olla con calabacín, limón, parmesano y nueces",
-  subtitulo: "cremosa sin nata, con aceite de ajo y albahaca",
+  subtitulo: "cremosa sin nata, con aceite de oliva y albahaca",
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "mediterránea",
@@ -734,7 +726,7 @@ window.RECETAS_SEED.push({
     { n: "calabacín", q: 2, u: "ud" },
     { n: "parmesano", q: 40, u: "g" },
     { n: "nueces", q: 30, u: "g" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "albahaca fresca", q: 0.25, u: "manojo" },
     { n: "agua", q: 550, u: "ml" },
@@ -744,10 +736,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Trocea las nueces, ralla grueso un calabacín y corta el otro en medias lunas finas. Ralla el parmesano y la piel del limón.",
     "Tuesta las nueces en una cazuela ancha en seco 2 minutos, hasta que huelan. Sácalas y resérvalas.",
-    "En la misma cazuela calienta 1 cucharada de aceite de ajo y saltea las medias lunas 3 minutos a fuego fuerte, hasta que se doren. Retíralas.",
+    "En la misma cazuela calienta 1 cucharada de aceite de oliva y saltea las medias lunas 3 minutos a fuego fuerte, hasta que se doren. Retíralas.",
     "Pon en la cazuela la pasta, el calabacín rallado, el agua y sal. Lleva a ebullición y cuece destapado removiendo a menudo, el tiempo del paquete más 1 minuto, hasta que la pasta esté al dente y quede solo un poco de líquido almidonado.",
     "Aparta del fuego, añade el parmesano, la ralladura del limón y un chorrito de su zumo y remueve con energía 30 segundos para que se forme una salsa cremosa. Si se espesa demasiado, añade un poco de agua caliente.",
-    "Incorpora el calabacín dorado, sirve enseguida con las nueces, la albahaca, el resto del aceite de ajo y pimienta."
+    "Incorpora el calabacín dorado, sirve enseguida con las nueces, la albahaca, el resto del aceite de oliva y pimienta."
   ],
   nutricion: { kcal: 615, prot: 17, hc: 69, grasa: 30 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "rápida", "fácil", "verduras escondidas", "poco especiada"],
@@ -760,7 +752,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1778",
   nombre: "Risotto de calabacín, limón y gambas con parmesano",
-  subtitulo: "sin cebolla, con aceite de ajo y cebollino",
+  subtitulo: "sin cebolla, con aceite de oliva y cebollino",
   origen: "inventada",
   categoria: "pasta-arroces",
   cocina: "italiana",
@@ -779,14 +771,14 @@ window.RECETAS_SEED.push({
     { n: "vino blanco", q: 80, u: "ml" },
     { n: "parmesano", q: 30, u: "g" },
     { n: "mantequilla", q: 20, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
     "Calienta el caldo y mantenlo al fuego mínimo. Corta el calabacín en dados pequeños, ralla el parmesano y la piel del limón y pica el cebollino.",
-    "En una cazuela ancha calienta el aceite de ajo a fuego fuerte y saltea las gambas saladas 1 minuto por lado, hasta que estén rosadas. Sácalas a un plato. Baja a fuego medio-alto y saltea el calabacín con sal 3 minutos. Aparta la mitad para el final.",
+    "En una cazuela ancha calienta el aceite de oliva a fuego fuerte y saltea las gambas saladas 1 minuto por lado, hasta que estén rosadas. Sácalas a un plato. Baja a fuego medio-alto y saltea el calabacín con sal 3 minutos. Aparta la mitad para el final.",
     "Añade el arroz y nacáralo 1 minuto, hasta que los granos se vean translúcidos por los bordes. Vierte el vino y remueve hasta que se evapore.",
     "Incorpora el caldo caliente de cucharón en cucharón, removiendo con frecuencia y esperando a que se absorba antes de añadir más, durante 16–18 minutos, hasta que el arroz esté cremoso y al dente.",
     "Aparta el risotto del fuego, añade la mantequilla fría, el parmesano, la ralladura del limón y el calabacín reservado y remueve enérgicamente 1 minuto para que quede brillante y suelto, como una ola.",
@@ -822,8 +814,7 @@ window.RECETAS_SEED.push({
     { n: "almendras", q: 20, u: "g", nota: "tostadas" },
     { n: "vinagre de Jerez", q: 1, u: "cdta" },
     { n: "pimentón ahumado", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
-    { n: "aceite de oliva", q: 2, u: "cda" },
+    { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -831,7 +822,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Envuelve el tofu en un paño, pon un peso encima y deja que suelte agua 10 minutos. Mientras, corta las patatas en gajos y mézclalas con 1 cucharada de aceite de oliva, la mitad del pimentón y sal.",
     "Cocina las patatas en la airfryer a 200 °C durante 20 minutos, agitando la cesta a mitad, hasta que estén doradas. Mientras, corta el tofu en dados de 2 cm, sálalo, mézclalo con el resto del aceite de oliva y rebózalo en la maicena con el resto del pimentón, sacudiendo el exceso.",
-    "Aprovecha también para triturar los piquillos con las almendras, el aceite de ajo, el vinagre, sal y 2 cucharadas de agua hasta obtener una salsa espesa y lisa, y pica el perejil.",
+    "Aprovecha también para triturar los piquillos con las almendras, el aceite de oliva, el vinagre, sal y 2 cucharadas de agua hasta obtener una salsa espesa y lisa, y pica el perejil.",
     "Saca las patatas y mantenlas calientes. Cocina el tofu a 200 °C 12–14 minutos, agitando dos veces, hasta que esté crujiente y dorado por todas las caras.",
     "Sirve el tofu y las patatas con la salsa de piquillos en la base y el perejil por encima."
   ],
@@ -868,7 +859,7 @@ window.RECETAS_SEED.push({
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "comino molido", q: 1, u: "cdta" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "cilantro fresco", q: 0.25, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "agua", u: "al gusto" },
@@ -876,7 +867,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Cuece el arroz lavado con 220 ml de agua y sal: 10 minutos tapado a fuego mínimo y 5 de reposo.",
     "Mientras, corta la berenjena y el tofu escurrido en dados de 2 cm. Ralla el jengibre.",
-    "Calienta el aceite de ajo en una cazuela y dora la berenjena con sal 6–7 minutos a fuego medio-alto, removiendo, hasta que esté tostada y empiece a ablandarse.",
+    "Calienta el aceite de oliva en una cazuela y dora la berenjena con sal 6–7 minutos a fuego medio-alto, removiendo, hasta que esté tostada y empiece a ablandarse.",
     "Añade el jengibre, el comino y la cúrcuma y remueve 30 segundos. Incorpora el tomate y cuece 5 minutos, hasta que espese.",
     "Vierte la leche de coco, añade el tofu y cuece a fuego suave 10 minutos tapado para que el tofu absorba la salsa. Mientras, pica el cilantro.",
     "Añade las espinacas y el garam masala y remueve hasta que las espinacas mermen, 1–2 minutos. Prueba de sal.",
@@ -947,14 +938,14 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 300, u: "g", nota: "deshuesados" },
+    { n: "contramuslos de pollo", q: 300, u: "g", nota: "deshuesados" },
     { n: "arroz redondo", q: 60, u: "g" },
     { n: "zanahoria", q: 2, u: "ud" },
     { n: "calabacín", q: 1, u: "ud" },
     { n: "agua", q: 1200, u: "ml" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "tomillo fresco", q: 2, u: "rama" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "cebollino fresco", q: 0.25, u: "manojo" },
     { n: "perejil fresco", q: 0.25, u: "manojo" },
@@ -967,7 +958,7 @@ window.RECETAS_SEED.push({
     "Saca el pollo, desmenúzalo y retira laurel, tomillo, tallos y la zanahoria entera (puedes picarla y devolverla).",
     "Lleva el caldo de nuevo a ebullición, añade el arroz y la zanahoria en rodajitas y cuece 12 minutos.",
     "Incorpora el calabacín y el pollo desmenuzado y cuece 4 minutos más, hasta que el arroz esté tierno.",
-    "Apaga, añade el zumo de medio limón y el aceite de ajo y ajusta de sal y pimienta. Sirve con el cebollino y el perejil."
+    "Apaga, añade el zumo de medio limón y el aceite de oliva y ajusta de sal y pimienta. Sirve con el cebollino y el perejil."
   ],
   nutricion: { kcal: 380, prot: 32, hc: 32, grasa: 14 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "batch cooking", "invierno", "fácil", "poco especiada", "bajo en colesterol"],
@@ -996,7 +987,7 @@ window.RECETAS_SEED.push({
     { n: "queso de cabra", q: 100, u: "g", nota: "rulo, en 4 rodajas" },
     { n: "quinoa", q: 60, u: "g" },
     { n: "pepino", q: 0.5, u: "ud" },
-    { n: "semillas de calabaza", q: 25, u: "g" },
+    { n: "pipas de calabaza", q: 25, u: "g" },
     { n: "vinagre balsámico", q: 1, u: "cda" },
     { n: "aceite de oliva", q: 1.5, u: "cda" },
     { n: "sal", u: "al gusto" },
@@ -1021,7 +1012,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1784",
   nombre: "Sopa de tomate y pimiento rojo con arroz, albahaca y huevo escalfado",
-  subtitulo: "con aceite de ajo y virutas de parmesano",
+  subtitulo: "con aceite de oliva y virutas de parmesano",
   origen: "inventada",
   categoria: "sopas-cremas",
   cocina: "mediterránea",
@@ -1037,7 +1028,7 @@ window.RECETAS_SEED.push({
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "arroz redondo", q: 60, u: "g" },
     { n: "huevo", q: 2, u: "ud" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "azúcar", q: 1, u: "cdta" },
     { n: "pimentón dulce", q: 0.5, u: "cdta" },
     { n: "agua", q: 500, u: "ml" },
@@ -1046,12 +1037,12 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Trocea los tomates y el pimiento. Rehógalos en una cazuela con 1 cucharada de aceite de ajo y sal 10 minutos a fuego medio, hasta que el tomate se deshaga.",
+    "Trocea los tomates y el pimiento. Rehógalos en una cazuela con 1 cucharada de aceite de oliva y sal 10 minutos a fuego medio, hasta que el tomate se deshaga.",
     "Añade el pimentón, el azúcar, el agua y los tallos de la albahaca y cuece 10 minutos.",
     "Retira los tallos y tritura hasta obtener una sopa fina. Si quieres más sedosa, pásala por un colador.",
     "Devuelve la sopa al fuego, añade el arroz y cuece 15 minutos a fuego suave, removiendo de vez en cuando para que no se pegue, hasta que el arroz esté tierno.",
     "Baja el fuego al mínimo, haz dos huecos en la superficie y casca un huevo en cada uno. Tapa y deja 4 minutos, hasta que la clara esté blanca y la yema siga líquida.",
-    "Sirve con cuidado, añade el resto del aceite de ajo, virutas de parmesano y hojas de albahaca."
+    "Sirve con cuidado, añade el resto del aceite de oliva, virutas de parmesano y hojas de albahaca."
   ],
   nutricion: { kcal: 420, prot: 15, hc: 40, grasa: 22 },
   etiquetas: ["sin gluten", "bajo en fodmap", "una sola olla", "de cuchara", "tupper", "fácil", "poco especiada"],

@@ -62,7 +62,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
+    { n: "contramuslos de pollo", q: 500, u: "g", nota: "4 piezas con piel y hueso" },
     { n: "plátano macho", q: 1, u: "ud", nota: "maduro, con la piel con manchas negras" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "pimiento amarillo", q: 1, u: "ud" },
@@ -209,7 +209,7 @@ window.RECETAS_SEED.push({
     { n: "mostaza antigua", q: 2, u: "cda" },
     { n: "miel", q: 1, u: "cda" },
     { n: "vinagre de manzana", q: 1, u: "cda" },
-    { n: "semillas de alcaravea", q: 0.5, u: "cdta", opcional: true },
+    { n: "alcaravea", q: 0.5, u: "cdta", opcional: true },
     { n: "tomillo fresco", q: 2, u: "rama" },
     { n: "aceite de oliva", q: 3, u: "cda" },
     { n: "sal", u: "al gusto" },
@@ -380,7 +380,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "tortillas de maíz", q: 6, u: "ud" },
     { n: "tomate triturado", q: 400, u: "g" },
@@ -468,7 +468,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pez espada (rodajas)", q: 350, u: "g" },
+    { n: "pez espada", q: 350, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "tomate cherry", q: 250, u: "g" },
     { n: "aceitunas negras", q: 30, u: "g" },
@@ -513,7 +513,7 @@ window.RECETAS_SEED.push({
   tupper: false,
   raciones: 3,
   ingredientes: [
-    { n: "cordero (chuletillas)", q: 400, u: "g" },
+    { n: "chuletillas de cordero", q: 400, u: "g" },
     { n: "boniato", q: 400, u: "g" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "ras el hanout", q: 2, u: "cdta" },
@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
   tupper: false,
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 250, u: "g" },
+    { n: "pechuga de pollo", q: 250, u: "g" },
     { n: "maíz dulce", q: 140, u: "g" },
     { n: "pimiento rojo", q: 1, u: "ud" },
     { n: "cebolla morada", q: 0.5, u: "ud" },
@@ -684,7 +684,7 @@ window.RECETAS_SEED.push({
 
 window.RECETAS_SEED.push({
   id: "inv-1701",
-  nombre: "Trucha al horno con almendras sobre patatas y judías verdes al aceite de ajo",
+  nombre: "Trucha al horno con almendras sobre patatas y judías verdes al aceite de oliva",
   subtitulo: "una trucha a la meunière de bandeja, con limón y perejil",
   origen: "inventada",
   categoria: "pescado",
@@ -698,26 +698,26 @@ window.RECETAS_SEED.push({
   tupper: false,
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 300, u: "g" },
+    { n: "filetes de trucha", q: 300, u: "g" },
     { n: "patata", q: 250, u: "g" },
     { n: "judías verdes", q: 150, u: "g" },
     { n: "almendras", q: 20, u: "g", nota: "laminadas" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "perejil fresco", q: 0.5, u: "manojo" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Corta las patatas en rodajas de 5 mm, extiéndelas en una bandeja con papel, riégalas con la mitad del aceite de ajo, sala y hornea 20 minutos, hasta que estén tiernas. Mientras, quita las puntas a las judías verdes, seca y salpimienta la trucha y pica el perejil.",
+    "Precalienta el horno a 200 °C. Corta las patatas en rodajas de 5 mm, extiéndelas en una bandeja con papel, riégalas con la mitad del aceite de oliva, sala y hornea 20 minutos, hasta que estén tiernas. Mientras, quita las puntas a las judías verdes, seca y salpimienta la trucha y pica el perejil.",
     "Saca la bandeja, aparta las patatas a un lado y coloca las judías verdes con una pizca de sal.",
-    "Pon los filetes de trucha sobre las patatas, con la piel hacia abajo. Reparte las almendras laminadas por encima del pescado y riega todo con el resto del aceite de ajo.",
+    "Pon los filetes de trucha sobre las patatas, con la piel hacia abajo. Reparte las almendras laminadas por encima del pescado y riega todo con el resto del aceite de oliva.",
     "Hornea 10–12 minutos, hasta que la trucha esté opaca y se separe en lascas y las almendras estén doradas.",
     "Exprime medio limón por encima, espolvorea el perejil y sirve con gajos del limón restante."
   ],
   nutricion: { kcal: 450, prot: 36, hc: 28, grasa: 21 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "ligera", "bajo en fodmap", "alta en proteína", "detox", "poco especiada", "bajo en colesterol"],
-  consejo: "La trucha a la meunière clásica se enharina con trigo; aquí las almendras aportan el crujiente sin harina. Es apta para la dieta baja en FODMAP: el aceite de ajo da sabor sin fructanos y las raciones de judías verdes y almendras están dentro de lo tolerado.",
+  consejo: "La trucha a la meunière clásica se enharina con trigo; aquí las almendras aportan el crujiente sin harina. Es apta para la dieta baja en FODMAP: no lleva ajo ni cebolla y las raciones de judías verdes y almendras están dentro de lo tolerado.",
   contundencia: "ligera",
   coste: "media"
 });
@@ -738,7 +738,7 @@ window.RECETAS_SEED.push({
   tupper: true,
   raciones: 2,
   ingredientes: [
-    { n: "pavo (contramuslo)", q: 400, u: "g", nota: "deshuesado" },
+    { n: "contramuslos de pavo", q: 400, u: "g", nota: "deshuesado" },
     { n: "calabaza", q: 400, u: "g" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "castañas cocidas", q: 100, u: "g" },
@@ -853,7 +853,7 @@ window.RECETAS_SEED.push({
 window.RECETAS_SEED.push({
   id: "inv-1705",
   nombre: "Secreto ibérico al horno con patatas al romero y pimientos de Padrón",
-  subtitulo: "con aceite de ajo y sal en escamas",
+  subtitulo: "con aceite de oliva y sal en escamas",
   origen: "inventada",
   categoria: "carnes",
   cocina: "española",
@@ -869,7 +869,7 @@ window.RECETAS_SEED.push({
     { n: "secreto ibérico", q: 350, u: "g" },
     { n: "patata", q: 400, u: "g" },
     { n: "pimientos de Padrón", q: 150, u: "g" },
-    { n: "aceite de ajo", q: 2, u: "cda" },
+    { n: "aceite de oliva", q: 2, u: "cda" },
     { n: "romero fresco", q: 1, u: "rama" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
     { n: "sal en escamas", q: 1, u: "pizca" },
@@ -877,14 +877,14 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca el secreto de la nevera para que se atempere. Precalienta el horno a 210 °C.",
-    "Corta las patatas en gajos, ponlas en una bandeja con 1 cucharada de aceite de ajo, las hojas de romero, el pimentón y sal, mezcla y hornea 30 minutos, hasta que estén doradas. Mientras, mezcla los pimientos de Padrón con el resto del aceite de ajo.",
+    "Corta las patatas en gajos, ponlas en una bandeja con 1 cucharada de aceite de oliva, las hojas de romero, el pimentón y sal, mezcla y hornea 30 minutos, hasta que estén doradas. Mientras, mezcla los pimientos de Padrón con el resto del aceite de oliva.",
     "Sala el secreto. Aparta las patatas a los lados, coloca el secreto en el centro y pon el horno en grill fuerte a 230 °C. Hornéalo en la parte alta 6–8 minutos por cada lado, hasta que la grasa esté dorada y crujiente y el interior jugoso y ligeramente rosado.",
     "Los últimos 5 minutos añade los pimientos de Padrón, hasta que tengan ampollas.",
     "Deja reposar el secreto 3 minutos, córtalo en tiras contra la fibra y sírvelo sobre las patatas con los pimientos y la sal en escamas."
   ],
   nutricion: { kcal: 850, prot: 36, hc: 36, grasa: 62 },
   etiquetas: ["sin gluten", "todo al horno", "al horno", "fácil", "bajo en fodmap", "poco especiada"],
-  consejo: "Compra el secreto al natural, nunca adobado: los adobos industriales pueden llevar harinas o especias contaminadas. El aceite de ajo hace este plato apto para la dieta baja en FODMAP.",
+  consejo: "Compra el secreto al natural, nunca adobado: los adobos industriales pueden llevar harinas o especias contaminadas. El aceite de oliva hace este plato apto para la dieta baja en FODMAP.",
   contundencia: "contundente",
   coste: "premium"
 });
@@ -958,7 +958,7 @@ window.RECETAS_SEED.push({
     { n: "cúrcuma molida", q: 0.5, u: "cdta" },
     { n: "garam masala", q: 1, u: "cdta" },
     { n: "canela en rama", q: 1, u: "ud" },
-    { n: "cardamomo (vainas)", q: 3, u: "ud" },
+    { n: "cardamomo en vaina", q: 3, u: "ud" },
     { n: "laurel", q: 1, u: "hoja" },
     { n: "anacardos", q: 20, u: "g" },
     { n: "pasas", q: 20, u: "g" },
@@ -1047,13 +1047,13 @@ window.RECETAS_SEED.push({
   tupper: false,
   raciones: 2,
   ingredientes: [
-    { n: "atún rojo (lomos)", q: 300, u: "g", nota: "en un taco grueso" },
+    { n: "atún rojo", q: 300, u: "g", nota: "en un taco grueso" },
     { n: "boniato", q: 150, u: "g" },
     { n: "pak choi", q: 2, u: "ud" },
     { n: "sésamo", q: 2, u: "cda" },
     { n: "tamari", q: 2, u: "cda" },
     { n: "jengibre fresco", q: 10, u: "g" },
-    { n: "aceite de ajo", q: 1, u: "cda" },
+    { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "aceite de sésamo", q: 1, u: "cdta" },
     { n: "vinagre de arroz", q: 1, u: "cdta" },
     { n: "lima", q: 1, u: "ud" },
@@ -1061,8 +1061,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Precalienta el horno a 220 °C. Corta el boniato en rodajas de 5 mm, mézclalo en una bandeja con la mitad del aceite de ajo y sal y hornea 15 minutos.",
-    "Mientras, corta los pak choi por la mitad a lo largo, lávalos bien entre las hojas, sécalos y alíñalos con el resto del aceite de ajo y 1 cucharada de tamari.",
+    "Precalienta el horno a 220 °C. Corta el boniato en rodajas de 5 mm, mézclalo en una bandeja con la mitad del aceite de oliva y sal y hornea 15 minutos.",
+    "Mientras, corta los pak choi por la mitad a lo largo, lávalos bien entre las hojas, sécalos y alíñalos con el resto del aceite de oliva y 1 cucharada de tamari.",
     "Ralla el jengibre. En un bol pinta el atún con la otra cucharada de tamari mezclada con el jengibre y rebózalo en el sésamo, apretando para que se adhiera por todas las caras. Mezcla el zumo de la lima con el vinagre de arroz y el aceite de sésamo, y pica el cebollino.",
     "Saca la bandeja, añade los pak choi con el corte hacia arriba y el atún en el centro. Pon el horno en grill fuerte a 230 °C y hornea en la parte alta 3 minutos; da la vuelta al atún y 2–3 minutos más, hasta que el sésamo esté dorado y el atún sellado por fuera pero rojo en el centro.",
     "Corta el atún en lonchas gruesas, colócalo sobre el boniato y el pak choi, riega con el aliño y termina con el cebollino."

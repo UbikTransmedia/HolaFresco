@@ -160,7 +160,7 @@ window.RECETAS_SEED.push({
     { n: "queso de cabra", q: 60, u: "g", nota: "en rulo" },
     { n: "nata para cocinar", q: 4, u: "cda" },
     { n: "mantequilla", q: 10, u: "g" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "cebollino fresco", q: 0.5, u: "manojo" },
     { n: "pan sin gluten", q: 2, u: "rebanada" },
     { n: "sal", u: "al gusto" },
@@ -240,7 +240,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (muslos deshuesados)", q: 300, u: "g", nota: "sin piel" },
+    { n: "muslos de pollo deshuesados", q: 300, u: "g", nota: "sin piel" },
     { n: "arroz basmati", q: 140, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
@@ -355,7 +355,7 @@ window.RECETAS_SEED.push({
   ],
   nutricion: { kcal: 405, prot: 30, hc: 21, grasa: 22 },
   etiquetas: ["sin gluten", "microondas", "ligera", "fácil", "sin lácteos", "alta en proteína", "bajo en colesterol"],
-  consejo: "Si compras merluza congelada, mira que sea al natural y no un «preparado de pescado» o rebozado, que llevan harina. Si sigues dieta baja en FODMAP, cambia el refrito por aceite de ajo templado con la guindilla.",
+  consejo: "Si compras merluza congelada, mira que sea al natural y no un «preparado de pescado» o rebozado, que llevan harina. Si sigues dieta baja en FODMAP, cambia el refrito por aceite de oliva templado con la guindilla.",
   contundencia: "ligera",
   coste: "media",
   tupper: false
@@ -551,7 +551,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "fideos de arroz", q: 150, u: "g" },
     { n: "zanahoria", q: 1, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
@@ -870,7 +870,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (pechuga)", q: 300, u: "g" },
+    { n: "pechuga de pollo", q: 300, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "tomate triturado", q: 250, u: "g" },
@@ -970,7 +970,7 @@ window.RECETAS_SEED.push({
     { n: "curry en polvo", q: 1, u: "cdta" },
     { n: "caldo de verduras", q: 600, u: "ml", nota: "caliente" },
     { n: "leche de coco", q: 100, u: "ml" },
-    { n: "semillas de calabaza", q: 20, u: "g" },
+    { n: "pipas de calabaza", q: 20, u: "g" },
     { n: "lima", q: 1, u: "ud" },
     { n: "cilantro fresco", q: 0.5, u: "manojo", opcional: true },
     { n: "sal", u: "al gusto" },
@@ -1091,7 +1091,7 @@ window.RECETAS_SEED.push({
   coccion: ["microondas"],
   raciones: 2,
   ingredientes: [
-    { n: "pollo (contramuslos)", q: 350, u: "g", nota: "deshuesados y sin piel" },
+    { n: "contramuslos de pollo", q: 350, u: "g", nota: "deshuesados y sin piel" },
     { n: "patata", q: 350, u: "g" },
     { n: "judías verdes", q: 150, u: "g" },
     { n: "limón", q: 1, u: "ud" },

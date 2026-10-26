@@ -12,9 +12,9 @@ window.RECETAS_SEED.push({
   tiempo: 45,
   dificultad: "fácil",
   equipo: ["plancha", "horno", "bol"],
-  raciones: 2,
+  raciones: 3,
   ingredientes: [
-    { n: "ternera (entrecot)", q: 500, u: "g", nota: "2 piezas de unos 2,5 cm de grosor" },
+    { n: "entrecot de ternera", q: 500, u: "g", nota: "2 piezas de unos 2,5 cm de grosor" },
     { n: "boniato", q: 500, u: "g" },
     { n: "perejil fresco", q: 1, u: "manojo" },
     { n: "orégano seco", q: 1, u: "cdta" },
@@ -36,7 +36,7 @@ window.RECETAS_SEED.push({
     "Pasa los entrecots a una tabla y déjalos reposar 5 min tapados sin apretar con papel de aluminio.",
     "Corta la carne en lonchas al bies contra la fibra, muele pimienta y sírvela con el chimichurri por encima, el boniato y la ensalada."
   ],
-  nutricion: { kcal: 790, prot: 52, hc: 52, grasa: 42 },
+  nutricion: { kcal: 720, prot: 36, hc: 31, grasa: 48 },
   etiquetas: ["a la plancha", "al horno", "para invitados", "contundente", "fin de semana"],
   consejo: "El chimichurri gana si lo haces por la mañana. Para saber el punto sin termómetro: la carne firme pero que cede al presionar está al punto; muy blanda, poco hecha.",
   contundencia: "contundente",
@@ -57,7 +57,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (chuletillas)", q: 450, u: "g", nota: "unas 8-10 chuletillas de palo" },
+    { n: "chuletillas de cordero", q: 450, u: "g", nota: "unas 8-10 chuletillas de palo" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "orégano seco", q: 1, u: "cdta" },
     { n: "limón", q: 1, u: "ud" },
@@ -100,7 +100,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 320, u: "g", nota: "4 filetes finos de tapa o babilla" },
+    { n: "filetes de ternera", q: 320, u: "g", nota: "4 filetes finos de tapa o babilla" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "limón", q: 1, u: "ud" },
     { n: "alcaparras", q: 1, u: "cda" },
@@ -193,7 +193,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 4,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 600, u: "g", nota: "deshuesada y en trozos de 4 cm" },
+    { n: "paletilla de cordero", q: 600, u: "g", nota: "deshuesada y en trozos de 4 cm" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "jengibre fresco", q: 15, u: "g" },
@@ -480,7 +480,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (pierna)", q: 600, u: "g", nota: "deshuesada y en trozos de 4 cm" },
+    { n: "pierna de cordero", q: 600, u: "g", nota: "deshuesada y en trozos de 4 cm" },
     { n: "pimiento rojo", q: 2, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -574,7 +574,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "horno"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 360, u: "g", nota: "4 filetes de tapa o contra" },
+    { n: "filetes de ternera", q: 360, u: "g", nota: "4 filetes de tapa o contra" },
     { n: "cebolla", q: 3, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "vino blanco", q: 120, u: "ml" },
@@ -616,7 +616,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "bol"],
   raciones: 3,
   ingredientes: [
-    { n: "cordero (pierna)", q: 550, u: "g", nota: "deshuesada y en dados de 3 cm" },
+    { n: "pierna de cordero", q: 550, u: "g", nota: "deshuesada y en dados de 3 cm" },
     { n: "yogur griego natural", q: 150, u: "g" },
     { n: "cebolla", q: 2, u: "ud" },
     { n: "ajo", q: 4, u: "diente" },
@@ -666,7 +666,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 350, u: "g", nota: "en tiras de 1 cm" },
+    { n: "filetes de ternera", q: 350, u: "g", nota: "en tiras de 1 cm" },
     { n: "champiñones", q: 250, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "ajo", q: 1, u: "diente" },
@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
     { n: "mantequilla", q: 25, u: "g" },
     { n: "leche", q: 80, u: "ml" },
     { n: "queso rallado", q: 40, u: "g" },
-    { n: "nuez moscada molida", q: 1, u: "pizca" },
+    { n: "nuez moscada", q: 1, u: "pizca" },
     { n: "aceite de oliva", q: 1, u: "cda" },
     { n: "sal", u: "al gusto" },
     { n: "pimienta negra", u: "al gusto" },
@@ -813,7 +813,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 320, u: "g", nota: "en tiras finas contra la fibra" },
+    { n: "filetes de ternera", q: 320, u: "g", nota: "en tiras finas contra la fibra" },
     { n: "brócoli", q: 400, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "jengibre fresco", q: 20, u: "g" },
@@ -858,7 +858,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 350, u: "g", nota: "gruesos, en dados de 3 cm" },
+    { n: "filetes de ternera", q: 350, u: "g", nota: "gruesos, en dados de 3 cm" },
     { n: "yogur griego natural", q: 3, u: "cda" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -904,7 +904,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno"],
   raciones: 4,
   ingredientes: [
-    { n: "cordero (paletilla)", q: 900, u: "g", nota: "una paletilla pequeña con hueso, partida en 2 trozos" },
+    { n: "paletilla de cordero", q: 900, u: "g", nota: "una paletilla pequeña con hueso, partida en 2 trozos" },
     { n: "patata", q: 500, u: "g" },
     { n: "ajo", q: 6, u: "diente" },
     { n: "limón", q: 2, u: "ud" },
@@ -948,7 +948,7 @@ window.RECETAS_SEED.push({
   equipo: ["plancha", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 320, u: "g", nota: "2 filetes gruesos de 2 cm" },
+    { n: "filetes de ternera", q: 320, u: "g", nota: "2 filetes gruesos de 2 cm" },
     { n: "lima", q: 2, u: "ud" },
     { n: "salsa de pescado", q: 2, u: "cda" },
     { n: "azúcar moreno", q: 1, u: "cdta" },
@@ -993,7 +993,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "horno"],
   raciones: 3,
   ingredientes: [
-    { n: "ternera (ossobuco)", q: 700, u: "g", nota: "2 rodajas de morcillo con hueso de 3-4 cm" },
+    { n: "ossobuco de ternera", q: 700, u: "g", nota: "2 rodajas de morcillo con hueso de 3-4 cm" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -1045,7 +1045,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "cordero (pierna)", q: 320, u: "g", nota: "deshuesada, en tiras finas" },
+    { n: "pierna de cordero", q: 320, u: "g", nota: "deshuesada, en tiras finas" },
     { n: "yogur griego natural", q: 150, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "comino molido", q: 1, u: "cdta" },
@@ -1093,7 +1093,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "ternera (filetes)", q: 340, u: "g", nota: "4 filetes finos y anchos" },
+    { n: "filetes de ternera", q: 340, u: "g", nota: "4 filetes finos y anchos" },
     { n: "jamón serrano", q: 4, u: "loncha" },
     { n: "espinacas frescas", q: 150, u: "g" },
     { n: "queso rallado", q: 40, u: "g" },

@@ -6,7 +6,7 @@ window.RECETAS_SEED = window.RECETAS_SEED || [];
 window.RECETAS_SEED.push({
   id: "inv-1161",
   nombre: "Merluza a la gallega con cachelos y ajada de pimentón",
-  subtitulo: "cocida con patata y cebolla y regada con aceite de ajo y pimentón",
+  subtitulo: "cocida con patata y cebolla y regada con aceite de oliva y pimentón",
   origen: "inventada",
   categoria: "pescado",
   cocina: "española",
@@ -59,7 +59,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g" },
+    { n: "bacalao desalado", q: 320, u: "g" },
     { n: "harina de trigo", q: 30, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -359,7 +359,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g", nota: "en tiras de 2 dedos" },
+    { n: "bacalao desalado", q: 320, u: "g", nota: "en tiras de 2 dedos" },
     { n: "harina de trigo", q: 100, u: "g" },
     { n: "cerveza", q: 120, u: "ml", nota: "bien fría" },
     { n: "levadura química", q: 0.5, u: "cdta" },
@@ -439,7 +439,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 320, u: "g" },
+    { n: "bacalao desalado", q: 320, u: "g" },
     { n: "harina de trigo", q: 1, u: "cda" },
     { n: "ajo", q: 4, u: "diente" },
     { n: "pimentón dulce", q: 1, u: "cdta" },
@@ -478,7 +478,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 200, u: "g", nota: "vale bacalao desmigado desalado" },
+    { n: "bacalao desalado", q: 200, u: "g", nota: "vale bacalao desmigado desalado" },
     { n: "patata", q: 500, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
     { n: "aceite de oliva", q: 70, u: "ml" },
@@ -518,7 +518,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bacalao desalado (lomos)", q: 250, u: "g", nota: "vale bacalao desmigado desalado" },
+    { n: "bacalao desalado", q: 250, u: "g", nota: "vale bacalao desmigado desalado" },
     { n: "patata", q: 600, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -559,7 +559,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 320, u: "g", nota: "sin piel ni espinas" },
+    { n: "bonito fresco", q: 320, u: "g", nota: "sin piel ni espinas" },
     { n: "tomate", q: 800, u: "g", nota: "muy maduros" },
     { n: "cebolla", q: 1, u: "ud" },
     { n: "pimiento verde", q: 1, u: "ud" },
@@ -600,7 +600,7 @@ window.RECETAS_SEED.push({
   equipo: ["cazuela", "sartén"],
   raciones: 2,
   ingredientes: [
-    { n: "bonito fresco (lomos)", q: 320, u: "g" },
+    { n: "bonito fresco", q: 320, u: "g" },
     { n: "cebolla", q: 3, u: "ud" },
     { n: "ajo", q: 2, u: "diente" },
     { n: "laurel", q: 2, u: "hoja" },
@@ -770,7 +770,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "horno"],
   raciones: 3,
   ingredientes: [
-    { n: "trucha (filetes)", q: 4, u: "ud", nota: "unos 320 g; o 2 truchas abiertas" },
+    { n: "filetes de trucha", q: 4, u: "ud", nota: "unos 320 g; o 2 truchas abiertas" },
     { n: "jamón serrano", q: 4, u: "loncha" },
     { n: "harina de trigo", q: 30, u: "g" },
     { n: "ajo", q: 2, u: "diente" },
@@ -851,7 +851,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "gallo (filetes)", q: 320, u: "g", nota: "o lenguado" },
+    { n: "filetes de gallo", q: 320, u: "g", nota: "o lenguado" },
     { n: "huevo", q: 2, u: "ud" },
     { n: "harina de trigo", q: 40, u: "g" },
     { n: "lechuga romana", q: 0.5, u: "ud" },

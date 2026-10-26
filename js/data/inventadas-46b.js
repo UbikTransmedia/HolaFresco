@@ -327,7 +327,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 350, u: "g" },
+    { n: "filetes de trucha", q: 350, u: "g" },
     { n: "huevo", q: 1, u: "ud" },
     { n: "pan", q: 1, u: "rebanada" },
     { n: "leche", q: 30, u: "ml" },
@@ -377,7 +377,7 @@ window.RECETAS_SEED.push({
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 4, u: "ud", nota: "unos 360 g" },
+    { n: "filetes de trucha", q: 4, u: "ud", nota: "unos 360 g" },
     { n: "pistachos", q: 40, u: "g", nota: "pelados, sin sal" },
     { n: "mostaza de Dijon", q: 1, u: "cda" },
     { n: "cuscús", q: 100, u: "g" },
@@ -422,7 +422,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 300, u: "g" },
+    { n: "filetes de trucha", q: 300, u: "g" },
     { n: "patata", q: 300, u: "g" },
     { n: "puerro", q: 1, u: "ud" },
     { n: "zanahoria", q: 1, u: "ud" },
@@ -465,7 +465,7 @@ window.RECETAS_SEED.push({
   equipo: ["sartén", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "trucha (filetes)", q: 4, u: "ud", nota: "unos 360 g" },
+    { n: "filetes de trucha", q: 4, u: "ud", nota: "unos 360 g" },
     { n: "harina de trigo", q: 2, u: "cda" },
     { n: "cebolla morada", q: 1, u: "ud" },
     { n: "tomate", q: 2, u: "ud", nota: "firmes" },
@@ -692,7 +692,7 @@ window.RECETAS_SEED.push({
   equipo: ["horno", "cazuela", "bol"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g" },
+    { n: "caballa fresca", q: 300, u: "g" },
     { n: "arroz redondo", q: 120, u: "g" },
     { n: "rábano", q: 6, u: "ud" },
     { n: "pepino", q: 0.5, u: "ud" },
@@ -735,7 +735,7 @@ window.RECETAS_SEED.push({
   coccion: ["sin-fuego"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g", nota: "congelada antes 5 días" },
+    { n: "caballa fresca", q: 300, u: "g", nota: "congelada antes 5 días" },
     { n: "sal gruesa", q: 3, u: "cda" },
     { n: "azúcar", q: 1, u: "cda" },
     { n: "naranja", q: 1, u: "ud" },
@@ -779,7 +779,7 @@ window.RECETAS_SEED.push({
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
-    { n: "caballa fresca (lomos)", q: 300, u: "g" },
+    { n: "caballa fresca", q: 300, u: "g" },
     { n: "garbanzos cocidos", q: 400, u: "g" },
     { n: "espinacas frescas", q: 200, u: "g" },
     { n: "cebolla", q: 1, u: "ud" },
@@ -1044,7 +1044,7 @@ window.RECETAS_SEED.push({
   equipo: ["wok", "cazuela"],
   raciones: 2,
   ingredientes: [
-    { n: "mejillones frescos", q: 1500, u: "g" },
+    { n: "mejillones", q: 1500, u: "g" },
     { n: "fideos de arroz", q: 120, u: "g" },
     { n: "jengibre fresco", q: 20, u: "g" },
     { n: "ajo", q: 3, u: "diente" },
