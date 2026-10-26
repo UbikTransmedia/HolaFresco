@@ -313,7 +313,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "pan", q: 240, u: "g", nota: "una barra de pan crujiente" },
@@ -332,7 +332,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela la patata, córtala en dados de 1,5 cm y ponla a cocer en agua con sal. A los 3 minutos añade los huevos con cuidado y cuece todo 10 minutos, hasta que la patata esté tierna y los huevos duros. Mientras, pica el perejil, corta el tomate en dados pequeños y las aceitunas en rodajas, y mezcla la harissa con 1 cucharada de aceite para aligerarla. Enfría los huevos en agua fría.",
+    "Pela la patata, córtala en dados de 1,5 cm y ponla a cocer en agua con sal. A los 3 minutos, pon a cocer los huevos en un cazo aparte con agua limpia hirviendo y cuece todo 10 minutos, hasta que la patata esté tierna y los huevos duros. Mientras, pica el perejil, corta el tomate en dados pequeños y las aceitunas en rodajas, y mezcla la harissa con 1 cucharada de aceite para aligerarla. Enfría los huevos en agua fría y tira su agua.",
     "Escurre la patata y aliña en caliente con el zumo de limón, el comino, el resto del aceite, sal y el perejil.",
     "Pela y lamina los huevos.",
     "Abre el pan a lo largo y úntalo por dentro con el aceite de harissa. Rellena con la patata aliñada, el atún en lascas, el huevo, el tomate, las aceitunas y las alcaparras.",

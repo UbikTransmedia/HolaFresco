@@ -410,7 +410,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["olla-express", "cazuela"],
+  equipo: ["olla-express", "cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "paleta de cerdo", q: 220, u: "g", nota: "en dados de 1 cm a cuchillo" },
@@ -430,8 +430,8 @@ window.RECETAS_SEED.push({
     "Pon a cocer el arroz lavado en una cazuela con 180 ml de agua: cuando hierva, tapa y deja a fuego mínimo 12 minutos y reposa tapado.",
     "Pica el ajo. Lamina las chalotas muy finas y fríelas en la olla destapada con el aceite a fuego medio 4-5 minutos, hasta que estén doradas. Retira la mitad para servir.",
     "Sube el fuego, añade el cerdo y el ajo y saltea 3 minutos hasta que se dore. Agrega el azúcar y deja que caramelice 30 segundos; incorpora el vino, la soja, las cinco especias y el agua, rascando el fondo.",
-    "Coloca los huevos enteros con cáscara encima del guiso, cierra y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 15 minutos. Deja bajar la presión de forma natural 5 minutos y libera el resto. Mientras, abre el pak choi por la mitad.",
-    "Saca los huevos, pásalos por agua fría, pélalos y devuélvelos a la salsa para que se tiñan mientras reduces el guiso destapado a fuego medio 4-5 minutos, hasta que brille y espese. En los 2 últimos minutos, coloca el pak choi encima, tapa y deja que se haga al vapor del guiso, hasta que el tallo esté tierno pero crujiente.",
+    "Cierra la olla y lleva a presión alta a fuego fuerte. Cuando suba, baja a fuego bajo y cuenta 15 minutos. Deja bajar la presión de forma natural 5 minutos y libera el resto. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia, pásalos por agua fría, tira esa agua y pélalos, y abre el pak choi por la mitad.",
+    "Mete los huevos pelados en la salsa para que se tiñan mientras reduces el guiso destapado a fuego medio 4-5 minutos, hasta que brille y espese. En los 2 últimos minutos, coloca el pak choi encima, tapa y deja que se haga al vapor del guiso, hasta que el tallo esté tierno pero crujiente.",
     "Sirve el arroz cubierto de cerdo con su salsa, el huevo partido por la mitad, el pak choi y la chalota crujiente."
   ],
   nutricion: { kcal: 645, prot: 35, hc: 64, grasa: 27 },

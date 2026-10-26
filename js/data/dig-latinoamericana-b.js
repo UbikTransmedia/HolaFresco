@@ -436,7 +436,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao desalado", q: 260, u: "g" },
@@ -456,8 +456,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la yuca, córtala en trozos de 5 cm, ábrelos a lo largo y quítales la hebra fibrosa del centro. Ponla a cocer en agua con sal y el laurel. Mientras, pela la patata y córtala en trozos.",
-    "A los 10 minutos, añade la patata a la misma cazuela, y 5 minutos después mete los huevos con cuidado. Cuece todo 10 minutos más, hasta que la yuca esté tierna y algo translúcida y la patata tierna. Saca los huevos, enfríalos en agua fría, pélalos y córtalos en cuartos; escurre la yuca y la patata.",
-    "Mientras se cuecen, pon el bacalao en un cazo con agua fría, llévalo a punto de hervor y apágalo en cuanto aparezcan las primeras burbujas; déjalo 5 minutos en el agua. Entretanto, corta el tomate en gajos sin semillas, la cebolleta en aros finos y las aceitunas en rodajas, y pica el cilantro. Escurre el bacalao, quítale piel y espinas y desmígalo en lascas grandes.",
+    "A los 10 minutos, añade la patata a la misma cazuela y cuece todo 15 minutos más, hasta que la yuca esté tierna y algo translúcida y la patata tierna. Cuando la patata lleve 5 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia. Saca los huevos, enfríalos en agua fría, tira su agua, pélalos y córtalos en cuartos; escurre la yuca y la patata.",
+    "Mientras se cuecen, pon el bacalao en otro cazo con agua fría, llévalo a punto de hervor y apágalo en cuanto aparezcan las primeras burbujas; déjalo 5 minutos en el agua. Entretanto, corta el tomate en gajos sin semillas, la cebolleta en aros finos y las aceitunas en rodajas, y pica el cilantro. Escurre el bacalao, quítale piel y espinas y desmígalo en lascas grandes.",
     "En un bol, bate el aceite con el vinagre, pimienta y una pizca de sal (el bacalao ya es salado). Añade el tomate y la cebolleta y deja que se maceren 5 minutos.",
     "Corta la yuca y la patata templadas en rodajas gruesas y repártelas en los platos. Coloca encima el bacalao, los huevos y las aceitunas.",
     "Vierte por encima el tomate con todo su aliño, termina con el cilantro y sirve templado o a temperatura ambiente."
@@ -528,7 +528,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["horno", "bol"],
+  equipo: ["horno", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "kale", q: 200, u: "g" },
@@ -549,7 +549,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Pela el boniato, córtalo en dados de 1,5 cm, mézclalo en una bandeja con el pimentón, una pizca de sal y 1 cucharadita del aceite, y ásalo 20 minutos, hasta que esté tierno y dorado por los bordes.",
     "Mientras, pon a hervir agua con sal para los huevos. Corta la cebolleta en aros y pica groseramente los cacahuetes. Quita el nervio central a las hojas de kale, enróllalas como un puro y córtalas en hebras muy finas, de 2-3 mm, como se hace en Brasil.",
     "Cuece los huevos 9 minutos. Cuando el boniato lleve 10 minutos en el horno, pon las rodajas de piña en la bandeja, a su lado, y ásalas los 10 minutos restantes, dándoles la vuelta a mitad, hasta que tengan zonas tostadas.",
-    "Saca los huevos con una espumadera (deja el agua al fuego), enfríalos en agua fría, pélalos y córtalos en cuartos. Escalda el kale 30 segundos en esa misma agua, pásalo a agua fría, escúrrelo y sécalo bien. Corta la piña en trozos.",
+    "Saca los huevos con una espumadera, enfríalos en agua fría, pélalos y córtalos en cuartos. Tira el agua, pon a hervir agua nueva en el cazo y escalda el kale 30 segundos; pásalo a agua fría, escúrrelo y sécalo bien. Corta la piña en trozos.",
     "Pela las naranjas a lo vivo con un cuchillo, quitando toda la piel blanca, y saca los gajos. Exprime sobre un bol el jugo que quede en las membranas, añade el zumo de la lima, el resto del aceite, sal y pimienta, y bate.",
     "Mezcla el kale con la mitad del aliño y masajéalo 1 minuto con las manos. Añade el boniato, la piña, los gajos de naranja y la cebolleta, y reparte en platos.",
     "Coloca encima los huevos, esparce los cacahuetes y riega con el resto del aliño."

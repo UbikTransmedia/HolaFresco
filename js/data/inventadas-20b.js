@@ -494,7 +494,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 35,
   dificultad: "media",
-  equipo: ["olla-express"],
+  equipo: ["olla-express", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "alcachofa", q: 6, u: "ud" },
@@ -514,9 +514,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica muy finos el ajo, la menta y el perejil; reserva un poco de menta para servir y mezcla el resto con 2 cucharadas de aceite, sal y pimienta.",
     "Limpia las alcachofas: quita las hojas exteriores duras hasta llegar a las tiernas y amarillentas, corta un tercio de la punta, pela el tallo dejando unos 4 cm y frótalas con limón. Ábrelas un poco con los dedos y rellena el centro con la mezcla de hierbas.",
-    "Coloca las alcachofas en la olla boca abajo, con el tallo hacia arriba, y rodéalas con las patatas enteras lavadas. Riega con el vino, el agua, el zumo de medio limón y las 2 cucharadas de aceite restantes. Coloca los huevos enteros (con cáscara) encima, entre las patatas.",
-    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Mientras, saca lascas al parmesano con un pelador. Despresuriza de forma rápida abriendo la válvula.",
-    "Pasa los huevos a un bol con agua fría 2 minutos, pélalos y pártelos por la mitad. Comprueba que las alcachofas se atraviesan fácilmente con un cuchillo por la base.",
+    "Coloca las alcachofas en la olla boca abajo, con el tallo hacia arriba, y rodéalas con las patatas enteras lavadas. Riega con el vino, el agua, el zumo de medio limón y las 2 cucharadas de aceite restantes.",
+    "Cierra la olla a fuego fuerte; cuando alcance presión, baja a fuego mínimo y cuenta 6 minutos. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia y saca lascas al parmesano con un pelador. Despresuriza de forma rápida abriendo la válvula.",
+    "Pasa los huevos a un bol con agua fría 2 minutos, tira el agua del cazo, pélalos y pártelos por la mitad. Comprueba que las alcachofas se atraviesan fácilmente con un cuchillo por la base.",
     "Sirve las alcachofas y las patatas aplastadas ligeramente, riega con el jugo de la olla, añade los huevos y termina con las lascas de parmesano y la menta picada reservada."
   ],
   nutricion: { kcal: 456, prot: 20, hc: 40, grasa: 24 },

@@ -66,7 +66,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 90,
   dificultad: "elaborada",
-  equipo: ["bol", "cazuela", "sartén", "horno"],
+  equipo: ["bol", "cazuela", "sartén", "horno", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "harina de trigo", q: 150, u: "g" },
@@ -87,7 +87,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara la masa: templa la leche (tibia al tacto, unos 37 °C) y disuelve en ella la levadura y el azúcar; espera 5 minutos a que haga espuma. Bate un huevo en un vaso. En un bol, mezcla la harina con una pizca de sal, la leche, la mitad del huevo batido y 20 g de mantequilla blanda, y amasa 8-10 minutos hasta que la masa esté lisa y elástica. Tapa y deja levar 1 hora en un sitio templado, hasta que doble su volumen.",
-    "Mientras, cuece el arroz en abundante agua con sal 11 minutos y, al minuto de empezar, añade al mismo cazo los otros 2 huevos para que se cuezan 10 minutos. Saca los huevos a agua fría, pélalos y pícalos. Escurre el arroz y extiéndelo en un plato para que se enfríe y quede suelto.",
+    "Mientras, cuece el arroz en abundante agua con sal 11 minutos. Al minuto de empezar, cuece los otros 2 huevos 10 minutos en un cazo aparte con agua limpia. Saca los huevos a agua fría, tira esa agua, pélalos y pícalos. Escurre el arroz y extiéndelo en un plato para que se enfríe y quede suelto.",
     "Pica la cebolla y lamina los champiñones. Rehoga la cebolla en 10 g de mantequilla a fuego medio 6 minutos, hasta que esté transparente; sube el fuego, añade los champiñones y saltéalos 6-8 minutos, hasta que suelten el agua, esta se evapore y empiecen a dorarse. Salpimienta y deja enfriar: un relleno caliente ablanda la masa.",
     "Pica el eneldo. Corta el salmón en láminas de 1 cm, salpimiéntalo y rocíalo con el zumo del medio limón. Mezcla el arroz con el huevo duro picado, la mitad del eneldo y una pizca de sal.",
     "Precalienta el horno a 200 °C con calor arriba y abajo. Estira la masa sobre papel de horno en un rectángulo de unos 30 x 25 cm y 4 mm de grosor.",
@@ -203,7 +203,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 3,
   ingredientes: [
     { n: "carpa (filetes)", q: 300, u: "g", nota: "con piel; si no la encuentras, lomos gruesos de merluza o de bacalao fresco" },
@@ -224,7 +224,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Empieza por la ensalada, mejor la víspera o al menos 1 hora antes. Pela la zanahoria y el apionabo y cuécelos enteros en agua con sal con las patatas con piel y un huevo: saca el huevo a los 10 minutos, la zanahoria y el apionabo a los 15 y las patatas a los 20-25, cuando un cuchillo entre sin resistencia. Mientras se cuecen, pica muy fino la cebolla y los pepinillos. Deja enfriar.",
+    "Empieza por la ensalada, mejor la víspera o al menos 1 hora antes. Pela la zanahoria y el apionabo y cuécelos enteros en agua con sal con las patatas con piel: saca la zanahoria y el apionabo a los 15 minutos y las patatas a los 20-25, cuando un cuchillo entre sin resistencia. Mientras, cuece un huevo 10 minutos en un cazo aparte con agua limpia, sácalo a agua fría y tira esa agua. Mientras se cuecen, pica muy fino la cebolla y los pepinillos. Deja enfriar.",
     "Pela las patatas y el huevo y corta todo en dados de 1 cm.",
     "Mezcla la mayonesa con la mostaza, 2 cucharadas del líquido de los pepinillos, sal y pimienta, y únelo con suavidad a las verduras, el huevo, la cebolla y los pepinillos. Tapa y guarda en la nevera.",
     "Corta la carpa en 4 trozos y hazle cortes finos en la piel cada 5 mm sin llegar a atravesar la carne: así se cortan las espinas finas y el pescado no se encoge al freír. Sálala y déjala 10 minutos; mientras, prepara tres platos: harina, el otro huevo batido con una pizca de sal y pan rallado. Seca la carpa con papel de cocina.",

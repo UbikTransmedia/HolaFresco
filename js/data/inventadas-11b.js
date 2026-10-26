@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 90,
   dificultad: "media",
-  equipo: ["horno", "sartén", "cazuela", "batidora"],
+  equipo: ["horno", "sartén", "cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas cocidas", q: 250, u: "g" },
@@ -1088,7 +1088,7 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 10 minutos en un cazo con agua hirviendo, enfríalos y pélalos. Mientras se cuecen, pica las cebollas y el ajo.",
     "Pocha las cebollas y el ajo en una sartén con el aceite a fuego medio-bajo 15 minutos, hasta que estén muy blandos y dorados.",
     "Añade el comino, el pimentón y el orégano, remueve 30 segundos e incorpora las lentejas escurridas y el caldo. Cocina 8-10 minutos, hasta que el líquido casi desaparezca y quede un pino jugoso. Sala.",
-    "Precalienta el horno a 200 °C. Tritura el maíz con la leche, la maicena y las hojas de albahaca, dejándolo algo rústico. Cuécelo en el cazo de los huevos con la mantequilla y una pizca de sal a fuego medio 8-10 minutos, removiendo sin parar, hasta que espese como un puré denso que se despega del fondo.",
+    "Precalienta el horno a 200 °C. Tritura el maíz con la leche, la maicena y las hojas de albahaca, dejándolo algo rústico. Cuécelo en el cazo de los huevos, ya vacío y sin su agua, con la mantequilla y una pizca de sal a fuego medio 8-10 minutos, removiendo sin parar, hasta que espese como un puré denso que se despega del fondo.",
     "Reparte el pino de lentejas en dos cazuelitas de barro o una fuente pequeña. Distribuye las pasas, las aceitunas y los huevos duros en cuartos.",
     "Cubre con la pasta de choclo, alisa con una espátula y espolvorea el azúcar por encima.",
     "Hornea 25-30 minutos y gratina los últimos 3 minutos, hasta que la superficie esté dorada y caramelizada en algunos puntos. Deja reposar 5 minutos antes de servir."

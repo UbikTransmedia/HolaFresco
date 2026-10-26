@@ -945,7 +945,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -963,8 +963,8 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir agua con sal en una cazuela y escalda los tomates 20 segundos; sácalos con una espumadera. Echa las patatas nuevas en esa misma agua y cuécelas con piel 15-18 minutos, hasta que el cuchillo entre sin resistencia.",
     "Mientras, prepara la salsa vierge: pela los tomates, quítales las semillas y córtalos en dados pequeños. Pica las aceitunas, corta la albahaca en tiras y ralla la piel del medio limón. Mézclalo todo en un bol con el zumo del limón, el aceite de oliva, sal y pimienta.",
-    "Cuando a las patatas les queden 6 minutos y medio, mete los huevos con cuidado en la cazuela. Pon encima el bol de la salsa 2 minutos, solo para templarla: no debe calentarse.",
-    "Saca los huevos, pásalos 1 minuto a agua fría y pélalos con cuidado: la clara estará cuajada y la yema cremosa.",
+    "Cuando a las patatas les queden 6 minutos y medio, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia. Pon encima de la cazuela de las patatas el bol de la salsa 2 minutos, solo para templarla: no debe calentarse.",
+    "Saca los huevos, pásalos 1 minuto a agua fría, tira su agua y pélalos con cuidado: la clara estará cuajada y la yema cremosa.",
     "Escurre las patatas y aplástalas con un tenedor con el aceite de oliva y una pizca de sal, dejando trozos.",
     "Sirve las patatas sobre la rúcula, coloca encima los huevos abiertos por la mitad y reparte la salsa vierge por encima."
   ],

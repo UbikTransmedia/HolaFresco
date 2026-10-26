@@ -826,7 +826,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -843,7 +843,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las patatas enteras con piel en agua con sal 20 minutos. Cuando les falten 10 minutos, añade los huevos a la misma cazuela; al terminar, sácalos a agua fría y pélalos.",
+    "Cuece las patatas enteras con piel en agua con sal 20 minutos. Cuando les falten 10 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia; al terminar, sácalos a agua fría, tira esa agua y pélalos.",
     "Mientras se cuecen, haz el tomate: calienta el aceite de oliva en una sartén a fuego medio, añade el tomate triturado y una pizca de sal y cocina 10 minutos, removiendo, hasta que esté espeso y brillante. Déjalo templar.",
     "Corta los huevos por la mitad a lo largo y saca las yemas. Cháfalas con un tenedor junto con el bonito desmigado, las aceitunas picadas muy finas, la mitad del cebollino picado y 3 cucharadas del tomate, hasta tener una pasta cremosa. Prueba de sal.",
     "Rellena las claras con la mezcla formando una cúpula, con ayuda de dos cucharillas.",

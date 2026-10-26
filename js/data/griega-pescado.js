@@ -543,7 +543,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
@@ -562,10 +562,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava las patatas y ponlas enteras, con piel, en una cazuela con agua fría y sal. Cuando hierva, cuenta 20-25 minutos, hasta que un cuchillo entre sin resistencia. Añade los huevos al agua los últimos 10 minutos.",
+    "Lava las patatas y ponlas enteras, con piel, en una cazuela con agua fría y sal. Cuando hierva, cuenta 20-25 minutos, hasta que un cuchillo entre sin resistencia. Los últimos 10 minutos, cuece los huevos en un cazo aparte con agua limpia.",
     "Mientras, corta la cebolla morada en juliana muy fina y déjala en un bol con el vinagre y una pizca de sal 10 minutos: perderá el picor y se volverá rosa. Pica el perejil.",
     "Prepara el aliño batiendo el aceite con el zumo del limón, el orégano, sal y pimienta.",
-    "Escurre patatas y huevos; enfría los huevos en agua fría y pélalos. Pela las patatas aún calientes, córtalas en trozos de 3 cm y alíñalas con la mitad del aliño: en caliente lo absorben mucho mejor.",
+    "Escurre las patatas; enfría los huevos en agua fría, tira su agua y pélalos. Pela las patatas aún calientes, córtalas en trozos de 3 cm y alíñalas con la mitad del aliño: en caliente lo absorben mucho mejor.",
     "Cuando estén templadas, añade la cebolla con su vinagre, las alcaparras, las aceitunas, el perejil picado y el bonito en lascas grandes. Mezcla con cuidado para no romper el pescado.",
     "Termina con los huevos en cuartos y el resto del aliño. Sirve templada o fría."
   ],

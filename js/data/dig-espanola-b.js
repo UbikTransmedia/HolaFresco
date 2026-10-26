@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g", nota: "mejor gallega, de carne amarilla" },
@@ -35,8 +35,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en cachos irregulares de unos 4 cm, «cachándolas»: mete la punta del cuchillo y rompe el último tramo con un giro. Los bordes rotos sueltan almidón y agarran mejor la ajada.",
-    "Ponlas en una cazuela con agua fría, sal y la hoja de laurel y lleva a ebullición. Cuando hierva, mete los huevos con una cuchara y cuece a fuego medio: los huevos, 10 minutos; las patatas, 18-20 minutos en total, hasta que la punta del cuchillo entre sin resistencia.",
-    "Mientras, corta el repollo en tiras de 1 cm, quitando el tronco duro. A los 10 minutos de hervor, saca los huevos a agua fría y añade el repollo a la cazuela: en 8-10 minutos estará tierno pero aún verde.",
+    "Ponlas en una cazuela con agua fría, sal y la hoja de laurel y lleva a ebullición. Cuando hierva, cuece a fuego medio 18-20 minutos en total, hasta que la punta del cuchillo entre sin resistencia. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
+    "Mientras, corta el repollo en tiras de 1 cm, quitando el tronco duro. A los 10 minutos de hervor, saca los huevos a agua fría, tira su agua y añade el repollo a la cazuela de las patatas: en 8-10 minutos estará tierno pero aún verde.",
     "Mientras termina la cocción, pela los huevos y córtalos en cuartos.",
     "Escurre bien las patatas y el repollo, retira el laurel y déjalos 1 minuto en el escurridor para que se evapore el agua de la superficie.",
     "Prepara la ajada en la misma cazuela, ya vacía: calienta el aceite de oliva a fuego bajo 1-2 minutos, solo hasta que esté tibio-caliente, sin que humee. Retíralo del fuego, espera 30 segundos y añade el pimentón y el vinagre removiendo. Si el aceite está demasiado caliente, el pimentón se quema y amarga.",
@@ -233,7 +233,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "judías verdes", q: 150, u: "g" },
@@ -249,8 +249,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita las puntas a las judías y córtalas en trozos de 4 cm. Pela la patata y la zanahoria y córtalas en rodajas de 1 cm.",
-    "Pon 600 ml de agua con sal a hervir en la cazuela. Echa la patata, la zanahoria y los huevos, estos con cuidado con una cuchara, y cuece 8 minutos; añade entonces las judías.",
-    "A los 2 minutos de añadir las judías (10 minutos en total), saca los huevos a agua fría y deja las verduras 6-8 minutos más, hasta que estén tiernas pero aún verdes. Mientras, pela los huevos, separa las yemas y pica las claras.",
+    "Pon 600 ml de agua con sal a hervir en la cazuela. Echa la patata y la zanahoria y cuece 8 minutos; añade entonces las judías. A la vez que las verduras, pon a cocer los huevos 10 minutos en un cazo aparte con agua limpia, introduciéndolos con cuidado con una cuchara.",
+    "A los 10 minutos, saca los huevos a agua fría y tira su agua; deja las verduras 6-8 minutos más, hasta que estén tiernas pero aún verdes. Mientras, pela los huevos, separa las yemas y pica las claras.",
     "Escurre las verduras reservando 250 ml del agua de cocción. En la misma cazuela, dora las almendras con el aceite de oliva a fuego bajo 3 minutos, removiendo, hasta que tomen color avellana.",
     "Tritura las almendras con su aceite, las yemas cocidas, el azafrán, unas hojas de perejil y el agua de cocción reservada hasta tener una salsa fina y amarilla.",
     "Vuelve a poner la salsa en la cazuela y caliéntala a fuego suave 3 minutos, hasta que espese ligeramente y nape la cuchara. Añade las verduras, remueve con cuidado y deja 2 minutos para que se impregnen.",

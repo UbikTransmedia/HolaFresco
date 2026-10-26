@@ -108,7 +108,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 120,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos secos", q: 160, u: "g", nota: "en remojo 12 h con una pizca de bicarbonato" },
@@ -129,7 +129,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "La víspera, pon los garbanzos en remojo en abundante agua fría con una pizca de bicarbonato. Al día siguiente, escúrrelos y ponlos en la cazuela con agua caliente que los cubra 3 dedos, el laurel y media cebolla. Cuece a fuego suave, tapados, 1 h 15 min a 1 h 30 min, hasta que estén tiernos (si el agua es dura, tardarán más). Añade siempre agua caliente si hace falta.",
-    "Mientras se cuecen, pica fina la otra media cebolla, lamina 1 ajo y ralla el tomate. Cuando a los garbanzos les falten unos 10 minutos, mete los huevos con cuidado en la misma cazuela; sácalos a los 10 minutos, pásalos por agua fría, pélalos y córtalos en cuartos.",
+    "Mientras se cuecen, pica fina la otra media cebolla, lamina 1 ajo y ralla el tomate. Cuando a los garbanzos les falten unos 10 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia; pásalos por agua fría, tira su agua, pélalos y córtalos en cuartos.",
     "En una sartén con el aceite, fríe la rebanada de pan y los otros 2 ajos, pelados y enteros, a fuego medio hasta que estén dorados (3-4 minutos). Pásalos al mortero con el comino, el azafrán y una pizca de sal y májalos con un chorrito del caldo de los garbanzos hasta obtener una pasta.",
     "En el mismo aceite, pocha la media cebolla picada y el ajo laminado 6 minutos. Añade el tomate rallado y cocina 5 minutos, hasta que espese. Fuera del fuego, incorpora el pimentón.",
     "Cuando los garbanzos estén tiernos, retira la cebolla y el laurel, añade el sofrito y el majado, y deja hervir suave 10 minutos para que el caldo tome cuerpo. Rectifica de sal con cuidado: el bacalao aportará la suya.",

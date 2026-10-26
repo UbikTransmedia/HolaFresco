@@ -131,11 +131,11 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una cazuela con agua y sal. Mientras, pela las patatas y córtalas en dados de 2 cm; déjalas 10 minutos en agua fría para quitarles el almidón de la superficie (así no se pegan ni se rompen al glasearlas). Corta la zanahoria en dados del mismo tamaño y el pimiento en cuadrados de 2 cm.",
-    "Cuando hierva el agua, cuece los huevos 9 minutos desde que vuelva a hervir, sácalos a agua fría y pélalos. Aparta la cazuela con su agua: servirá para las espinacas.",
+    "Cuando hierva el agua, cuece los huevos 9 minutos desde que vuelva a hervir, sácalos a agua fría y pélalos. Tira esa agua y lava la cazuela: las espinacas irán en agua nueva.",
     "Calienta el aceite de girasol y el aceite de oliva en una sartén honda a fuego medio y rehoga la patata escurrida y la zanahoria 4 minutos, hasta que los bordes de la patata se vean translúcidos.",
-    "Añade los 300 ml de agua, el tamari y el azúcar moreno. Cuando hierva, baja a fuego medio-bajo y cuece sin tapar 15 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna y el líquido se haya reducido a un tercio. Mientras, vuelve a poner al fuego el agua de los huevos y pica la cebolleta.",
+    "Añade los 300 ml de agua, el tamari y el azúcar moreno. Cuando hierva, baja a fuego medio-bajo y cuece sin tapar 15 minutos, removiendo con cuidado de vez en cuando, hasta que la patata esté tierna y el líquido se haya reducido a un tercio. Mientras, pon a hervir agua nueva en la cazuela y pica la cebolleta.",
     "Añade el pimiento y los huevos pelados, sube el fuego y mueve la sartén 3-4 minutos, rodando los huevos, hasta que la salsa se convierta en un almíbar oscuro que lo lacee todo. Apaga y añade 1 cucharadita de aceite de sésamo y la mitad del sésamo.",
-    "Para el namul, escalda las espinacas 30 segundos en el agua hirviendo, pásalas a agua fría y escúrrelas apretando con fuerza entre las manos. Córtalas en trozos de 5 cm y alíñalas con el resto del aceite de sésamo, la cebolleta, el resto del sésamo machacado entre los dedos y una pizca de sal.",
+    "Para el namul, escalda las espinacas 30 segundos en el agua nueva hirviendo, pásalas a agua fría y escúrrelas apretando con fuerza entre las manos. Córtalas en trozos de 5 cm y alíñalas con el resto del aceite de sésamo, la cebolleta, el resto del sésamo machacado entre los dedos y una pizca de sal.",
     "Sirve las patatas con su glaseado, los huevos lacados partidos por la mitad y el namul al lado."
   ],
   nutricion: { kcal: 540, prot: 26, hc: 54, grasa: 23 },
@@ -342,7 +342,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 80,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "tofu firme", q: 200, u: "g" },
@@ -362,7 +362,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el kombu en remojo en el litro de agua 30 minutos. Mientras, pon a hervir una olla con agua; pela el daikon con un grosor generoso (la capa exterior es fibrosa), córtalo en rodajas de 2,5 cm, bisela los bordes y haz una cruz poco profunda en una cara. Cuécelo 15 minutos en el agua hirviendo: así pierde el amargor y luego absorbe mejor el caldo.",
-    "Mientras se cuece el daikon, pela las patatas y déjalas enteras (o en mitades si son grandes), corta la zanahoria pelada en trozos gruesos, corta el tempeh en triángulos y prensa el tofu 10 minutos entre papel de cocina. Cuando al daikon le falten 9 minutos, añade los huevos a la misma olla, y 4 minutos después, el tempeh: escaldarlo 5 minutos suaviza su sabor y lo hace más digestivo. Escurre todo, enfría los huevos en agua fría y pélalos.",
+    "Mientras se cuece el daikon, pela las patatas y déjalas enteras (o en mitades si son grandes), corta la zanahoria pelada en trozos gruesos, corta el tempeh en triángulos y prensa el tofu 10 minutos entre papel de cocina. Cuando al daikon le falten 9 minutos, pon a cocer los huevos 9 minutos en un cazo aparte con agua limpia; 4 minutos después, añade el tempeh a la olla del daikon: escaldarlo 5 minutos suaviza su sabor y lo hace más digestivo. Escurre el daikon y el tempeh; enfría los huevos en agua fría, tira su agua y pélalos.",
     "Saca el kombu del remojo, córtalo en 4 tiras largas y haz un nudo con cada una. Calienta el agua del remojo, añade el bonito justo antes de que hierva, deja hervir 1 minuto, apaga, espera 3 minutos y cuela.",
     "Corta el tofu en 4 lonchas gruesas y dóralo en una sartén antiadherente con el aceite 2-3 minutos por cada lado.",
     "En una cazuela ancha, mezcla el dashi con el tamari, el azúcar y una pizca de sal. Añade el daikon, la patata, la zanahoria y los nudos de kombu y cuece a fuego muy suave, sin que llegue a borbotear, 30 minutos: si hierve fuerte, el caldo se enturbia.",
@@ -523,7 +523,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata nueva", q: 500, u: "g" },
@@ -543,9 +543,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava las patatas y cuécelas enteras, con piel, en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. Cuando les falten 6 minutos y medio, mete los huevos en la misma olla con una cuchara, y en los últimos 5 minutos añade las judías verdes en trozos de 4 cm.",
+    "Lava las patatas y cuécelas enteras, con piel, en agua con sal 15-18 minutos, hasta que un cuchillo entre sin resistencia. Cuando les falten 6 minutos y medio, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia, y en los últimos 5 minutos de las patatas añade las judías verdes en trozos de 4 cm.",
     "Mientras se cuecen, prepara el aliño: deslíe el miso en el vinagre y el zumo de la media naranja, añade el azúcar y emulsiona con el aceite batiendo con un tenedor. Corta el pepino en medias lunas finas y pica el cebollino.",
-    "Saca los huevos a agua fría 2 minutos y pélalos con cuidado: la yema debe quedar líquida. Escurre patatas y judías, corta las patatas por la mitad (si la piel se suelta, retírala) y mézclalas aún calientes con dos tercios del aliño: la patata caliente lo absorbe y se impregna por dentro.",
+    "Saca los huevos a agua fría 2 minutos, tira su agua y pélalos con cuidado: la yema debe quedar líquida. Escurre patatas y judías, corta las patatas por la mitad (si la piel se suelta, retírala) y mézclalas aún calientes con dos tercios del aliño: la patata caliente lo absorbe y se impregna por dentro.",
     "Pasa la hoja de nori unos segundos por cada lado sobre el fuego, hasta que se vuelva verde y crujiente, y desmenúzala.",
     "Reparte la rúcula y el pepino en los platos, añade la patata y las judías tibias, los huevos abiertos por la mitad y el resto del aliño. Termina con la nori, el bonito y el cebollino."
   ],
@@ -706,7 +706,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "fideos soba de trigo sarraceno", q: 160, u: "g", nota: "100 % trigo sarraceno (juwari)" },
@@ -722,8 +722,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Prepara el caldo: calienta el kombu en los 400 ml de agua y retíralo justo antes de que hierva. Añade 15 g de bonito, hierve 1 minuto, apaga y cuela a los 3 minutos. Añade el tamari y el azúcar, hierve 2 minutos y enfríalo rápido con el cazo dentro de un bol con agua y hielo.",
-    "Pon a hervir abundante agua para la soba y cuece en ella los huevos 6 minutos y medio desde que hierva. Mientras, pela el daikon, rállalo fino y déjalo escurrir en un colador sin apretar: debe conservar algo de jugo. Saca los huevos a agua con hielo y pélalos.",
-    "Cuece la soba en la misma agua hirviendo, sin sal, el tiempo que indique el paquete (4-5 minutos). Remueve con suavidad solo al principio, porque la soba sin trigo es frágil.",
+    "Pon a hervir agua limpia en un cazo y cuece en él los huevos 6 minutos y medio desde que hierva. Mientras, pela el daikon, rállalo fino y déjalo escurrir en un colador sin apretar: debe conservar algo de jugo. Saca los huevos a agua con hielo, pélalos y tira el agua de cocerlos.",
+    "Pon a hervir abundante agua nueva en la cazuela y cuece la soba, sin sal, el tiempo que indique el paquete (4-5 minutos). Remueve con suavidad solo al principio, porque la soba sin trigo es frágil.",
     "Escúrrela y lávala bajo el grifo de agua fría frotándola con las manos para quitarle el almidón; después pásala a agua con hielo 30 segundos y escúrrela muy bien.",
     "Reparte la soba en platos hondos, riega con el caldo frío, pon encima un buen montón de daikon, el huevo partido, el resto del bonito, la nori cortada en tiras y la cebolleta en aros finos."
   ],

@@ -809,7 +809,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "arroz basmati", q: 160, u: "g" },
@@ -834,8 +834,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz basmati hasta que el agua salga clara y déjalo en remojo 20 minutos. Deja el azafrán en remojo en 2 cucharadas de agua caliente.",
-    "Mientras, pon a hervir abundante agua con sal y cuece los huevos 9 minutos. Sácalos con una espumadera (deja el agua al fuego: servirá para el arroz), enfríalos bajo el grifo y pélalos. Hazles unos cortes poco profundos a lo largo para que el masala entre. Ralla el tomate y el jengibre, corta la cebolleta en aros y pica la menta y el cilantro.",
-    "Echa al agua de los huevos la canela y la mitad del cardamomo y del clavo, añade el arroz escurrido y cuécelo 6 minutos: debe quedar al 70 %, partido entre los dedos con un punto blanco en el centro. Escúrrelo.",
+    "Mientras, pon a hervir agua en un cazo y cuece los huevos 9 minutos. Sácalos con una espumadera, enfríalos bajo el grifo, pélalos y tira esa agua. Hazles unos cortes poco profundos a lo largo para que el masala entre. Ralla el tomate y el jengibre, corta la cebolleta en aros y pica la menta y el cilantro.",
+    "Pon a hervir abundante agua con sal en una olla, échale la canela y la mitad del cardamomo y del clavo, añade el arroz escurrido y cuécelo 6 minutos: debe quedar al 70 %, partido entre los dedos con un punto blanco en el centro. Escúrrelo.",
     "Mientras, calienta el aceite de oliva en una cazuela de fondo grueso a fuego medio, echa el anís y el resto del cardamomo y el clavo, y después la cebolleta en aros y el jengibre rallado. Remueve 1 minuto.",
     "Añade la cúrcuma, el pimentón y el tomate rallado y cuece 6-8 minutos, hasta que se separe el aceite. Retira del fuego, incorpora el yogur batido, la mitad de la menta y del cilantro picados y sal; vuelve al fuego suave 2 minutos. Mete los huevos y ruédalos en el masala hasta que se tiñan de rojo.",
     "Extiende los huevos con su masala en el fondo y cubre con el arroz escurrido sin apretar. Riega con el agua de azafrán, la mantequilla clarificada derretida y el resto de las hierbas.",
@@ -1051,7 +1051,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "arroz redondo", q: 120, u: "g", nota: "o arroz rojo de Kerala si lo encuentras" },
@@ -1070,7 +1070,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz y ponlo en una cazuela con 1,2 litros de agua. Lleva a ebullición y cuece a fuego suave, semitapado, 35-40 minutos, removiendo de vez en cuando, hasta que los granos estén muy tiernos y abiertos y el agua se haya vuelto blanca y algo espesa.",
     "Mientras, prepara el chammanthi: pela y trocea el jengibre, corta la cebolleta en trozos y májalos en el mortero (o tritúralos) con las hojas de curry, el coco, la pasta de tamarindo, el aceite de coco y sal hasta tener una pasta gruesa y húmeda que se pueda apretar con los dedos. Corta el pepino en dados pequeños y alíñalo con el zumo de media lima y sal.",
-    "Cuando el kanji lleve unos 25 minutos, mete los huevos enteros con cuidado, que queden cubiertos (si no, añade un poco de agua caliente), y cuécelos dentro 10 minutos. Sácalos, enfríalos bajo el grifo y pélalos. Sala el kanji.",
+    "Cuando el kanji lleve unos 25 minutos, cuece los huevos enteros 10 minutos en un cazo aparte con agua limpia. Sácalos, enfríalos bajo el grifo, tira esa agua y pélalos. Sala el kanji.",
     "Si el kanji ha espesado demasiado, añade agua caliente: debe quedar entre sopa y gacha, que se pueda beber del cuenco. Sírvelo en cuencos hondos con el huevo partido por la mitad, una bola de chammanthi y el pepino al lado, para ir mezclando a cada cucharada."
   ],
   nutricion: { kcal: 465, prot: 13, hc: 54, grasa: 21 },

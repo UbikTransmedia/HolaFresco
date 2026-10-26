@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon agua a hervir en una cazuela y cuece los huevos 10 minutos. Mientras, enjuaga las lentejas y escúrrelas bien, y prepara la vinagreta: machaca el ajo con una pizca de sal, añade la mostaza, el vinagre, el orégano, las alcaparras picadas gruesas y 2 cucharadas de aceite (puedes usar parte del aceite del tomate seco). Bate con un tenedor hasta que emulsione.",
-    "Pasa los huevos a agua fría. Echa las lentejas al agua caliente de la cazuela 30 segundos y escúrrelas bien: templadas absorben mucho mejor el aliño.",
+    "Pasa los huevos a agua fría y tira el agua de la cazuela. Pon agua nueva a hervir y echa en ella las lentejas 30 segundos; escúrrelas bien: templadas absorben mucho mejor el aliño.",
     "Mezcla las lentejas templadas con la mitad de la vinagreta y deja reposar 5 minutos. Mientras, pela los huevos y córtalos en cuartos, pica la cebolla morada fina, corta los cherry por la mitad y el tomate seco en tiras.",
     "Añade a las lentejas la cebolla, los cherry y el tomate seco junto con la rúcula.",
     "Reparte en platos, coloca los cuartos de huevo encima, riega con el resto de la vinagreta y termina con pimienta negra recién molida."

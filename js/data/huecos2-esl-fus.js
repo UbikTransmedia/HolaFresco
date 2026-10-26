@@ -189,7 +189,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 6, u: "ud" },
@@ -207,7 +207,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las patatas con piel a cocer en una cazuela con agua y sal. A los 10 minutos, mete los huevos con cuidado en la misma agua hirviendo y cuécelos 10 minutos exactos junto a las patatas; sácalos con una espumadera a agua fría 2 minutos: deben estar duros pero sin el anillo verde de la yema pasada. Las patatas estarán tiernas a la vez; escúrrelas. Mientras se cuecen, pica el eneldo y el cebollino.",
+    "Pon las patatas con piel a cocer en una cazuela con agua y sal. A los 10 minutos, cuece los huevos 10 minutos exactos en un cazo aparte con agua limpia hirviendo; sácalos con una espumadera a agua fría 2 minutos y tira esa agua: deben estar duros pero sin el anillo verde de la yema pasada. Las patatas estarán tiernas a la vez; escúrrelas. Mientras se cuecen, pica el eneldo y el cebollino.",
     "Corta cada huevo por la mitad a lo largo, con cáscara, con un cuchillo de sierra bien afilado y un movimiento firme y decidido. Vacía cada mitad con una cucharilla, raspando por dentro, sin romper la cáscara.",
     "Pica muy fino las claras y las yemas y mézclalas con 15 g de mantequilla blanda, 2 cucharadas de nata agria, la mitad del eneldo, el cebollino, sal y bastante pimienta.",
     "Rellena las cáscaras con la mezcla formando una cúpula ligeramente abombada y alísala. Moja la cara del relleno en el pan rallado, apretando para que se pegue.",
@@ -840,7 +840,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["horno", "cazuela", "batidora"],
+  equipo: ["horno", "cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "puerro", q: 4, u: "ud", nota: "gruesos" },
@@ -860,8 +860,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pon en una bandeja los tomates y el pimiento enteros y los ajos con piel, con unas gotas de aceite, y ásalos 35-40 minutos; en el último cuarto de hora, saca los ajos para que no se quemen.",
-    "Corta las raíces de los puerros y la parte verde oscura y dura. Ábrelos un poco por el extremo verde y lávalos bajo el grifo para quitar la tierra. Pon a hervir agua con sal en una cazuela y cuécelos enteros 5 minutos: así el centro quedará tierno cuando el exterior se tueste. Sácalos con unas pinzas y deja el agua al fuego.",
-    "Cuece los huevos en esa misma agua hirviendo 6 minutos y medio, pásalos a agua muy fría 2 minutos y pélalos con cuidado: la clara cuajada y la yema líquida.",
+    "Corta las raíces de los puerros y la parte verde oscura y dura. Ábrelos un poco por el extremo verde y lávalos bajo el grifo para quitar la tierra. Pon a hervir agua con sal en una cazuela y cuécelos enteros 5 minutos: así el centro quedará tierno cuando el exterior se tueste. Sácalos con unas pinzas.",
+    "Pon agua limpia a hervir en un cazo y cuece en él los huevos 6 minutos y medio; pásalos a agua muy fría 2 minutos, tira el agua del cazo y pélalos con cuidado: la clara cuajada y la yema líquida.",
     "Seca los puerros, úntalos con 2 cucharaditas de aceite y ásalos en la bandeja junto a las verduras 20-25 minutos, girándolos a mitad, hasta que la capa exterior esté muy tostada, casi negra, y el interior ceda al apretar.",
     "Mientras, extiende las almendras y el pan en trozos en una esquina de la bandeja y tuéstalos en el horno 6-8 minutos, hasta que estén dorados y huelan a tostado: así no absorben aceite.",
     "Pela los tomates, el pimiento (sin semillas) y los ajos asados y tritúralos con las almendras, el pan, el gochujang, el vinagre, el resto del aceite de oliva, el aceite de sésamo y sal. Deja algo de grano: un romesco no es un puré liso.",

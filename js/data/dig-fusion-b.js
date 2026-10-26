@@ -75,7 +75,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "rábano daikon", q: 600, u: "g", nota: "un trozo grueso" },
@@ -97,7 +97,7 @@ window.RECETAS_SEED.push({
     "Lava el arroz japonés frotándolo entre las manos y cambiando el agua hasta que salga casi clara. Cuécelo con 170 ml de agua y una pizca de sal: lleva a ebullición, tapa y deja 12 minutos a fuego mínimo y 10 de reposo sin destapar.",
     "Mientras se cuece el arroz, pela el daikon y córtalo en 4 rodajas de 3 cm. Bisela los bordes con el pelador y haz en una cara una cuadrícula de cortes de medio centímetro de profundidad: así no se deshace y la salsa penetra.",
     "Pon las rodajas en una cazuela con el kombu, cúbrelas de agua fría con una pizca de sal y cuécelas a fuego suave 20-25 minutos, hasta que una brocheta las atraviese sin esfuerzo y se vuelvan translúcidas. Mientras, corta el pan en dados de 1 cm, pela el limón a lo vivo, saca los gajos y córtalos en dados (reserva un chorrito de zumo) y pica el perejil.",
-    "En los últimos 7 minutos, sube el fuego a un hervor suave y mete los huevos con una cuchara en la misma cazuela. Sácalos a agua con hielo y pélalos. Escurre el daikon y sécalo muy bien con papel.",
+    "En los últimos 7 minutos del daikon, sube el fuego a un hervor suave y cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia. Sácalos a agua con hielo, tira esa agua y pélalos. Escurre el daikon y sécalo muy bien con papel.",
     "Calienta el aceite en una sartén amplia a fuego medio-alto y dora el daikon por la cara de la cuadrícula 4-5 minutos, hasta que tenga una costra color caramelo; dale la vuelta y dora 3 minutos más. Píntalo al final con la mitad del tamari y retíralo.",
     "En la misma sartén saltea las espinacas con una pizca de sal 1-2 minutos, solo hasta que se ablanden, y resérvalas. Limpia la sartén con papel.",
     "Pon la mantequilla a fuego medio y deja que espume 2-3 minutos, hasta que tome color avellana y huela a galleta. Añade los dados de pan y tuéstalos 1 minuto; fuera del fuego, incorpora las alcaparras, los dados de limón, el chorrito de zumo, el resto del tamari y el perejil.",
@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 350, u: "g" },
@@ -148,7 +148,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lava el arroz japonés hasta que el agua salga casi clara y cuécelo con 150 ml de agua: hervor, tapa, 12 minutos a fuego mínimo y 10 de reposo.",
     "Haz el encurtido rápido, que sustituye al fukujinzuke: corta el pepino en medias lunas finas, sálalo, espera 5 minutos, escúrrelo apretando y alíñalo con el vinagre de arroz, la mitad del azúcar y unas gotas de tamari.",
-    "Pela la patata y la zanahoria y córtalas en trozos de 3 cm, en corte oblicuo; el calabacín, en medias lunas gruesas. Cuece la patata y la zanahoria en el caldo, tapadas y a fuego suave, con los huevos dentro. A los 9 minutos, saca los huevos a agua fría y pélalos; a los 15, añade el calabacín y sigue 5 minutos más, hasta que todo esté tierno.",
+    "Pela la patata y la zanahoria y córtalas en trozos de 3 cm, en corte oblicuo; el calabacín, en medias lunas gruesas. Cuece la patata y la zanahoria en el caldo, tapadas y a fuego suave. A la vez, cuece los huevos 9 minutos en un cazo aparte con agua limpia; sácalos a agua fría, tira su agua y pélalos. A los 15 minutos de las verduras, añade el calabacín y sigue 5 minutos más, hasta que todo esté tierno.",
     "Mientras, haz el roux: funde la mantequilla en una sartén a fuego suave, añade la harina de arroz y remueve 3-4 minutos, hasta que huela a galleta y tome un color avellana claro. Añade la cúrcuma y el garam masala y remueve 30 segundos más, sin que se quemen. Apaga.",
     "Saca un cazo del caldo de las verduras y viértelo poco a poco sobre el roux, batiendo con unas varillas hasta tener una pasta lisa; pásala a la cazuela y remueve.",
     "Añade el tomate concentrado, el kiwi rallado, el resto del tamari y del azúcar y cuece 5-6 minutos a fuego suave, removiendo, hasta que la salsa espese y nape la cuchara. Incorpora las espinacas en los 2 últimos minutos y prueba de sal.",
@@ -173,7 +173,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "judías verdes", q: 150, u: "g" },
@@ -192,7 +192,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en trozos de 3 cm; pela la zanahoria y córtala en rodajas gruesas. Quita las puntas a las judías y córtalas en trozos de 4 cm.",
     "Tuesta el sésamo en la cazuela, en seco, a fuego medio 3 minutos, moviendo sin parar, hasta que esté dorado y empiece a saltar. Pásalo al mortero.",
-    "En la misma cazuela, cuece las patatas y la zanahoria en agua con sal; cuando hierva, mete los huevos con una cuchara. A los 10 minutos, saca los huevos a agua fría y añade las judías; sigue 7-8 minutos más, hasta que la patata esté tierna y las judías hayan perdido el punto crujiente. Escurre.",
+    "En la misma cazuela, cuece las patatas y la zanahoria en agua con sal. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia. A los 10 minutos, saca los huevos a agua fría, tira su agua y añade las judías a la cazuela; sigue 7-8 minutos más, hasta que la patata esté tierna y las judías hayan perdido el punto crujiente. Escurre.",
     "Mientras se cuecen, maja el sésamo hasta que suelte su aceite y quede una pasta arenosa. Añade al mortero el azúcar, el tamari y el agua y mezcla hasta tener una salsa espesa y brillante: es el goma-ae. Pela los huevos y pica el cebollino.",
     "Mezcla en un bol las verduras aún templadas con la salsa de sésamo, con cuidado de no romper la patata.",
     "Calienta el aceite de oliva en la cazuela vacía 1 minuto, retírala del fuego, espera 10 segundos y añade el pimentón; remueve y viértelo enseguida sobre las verduras. Si el pimentón se quema, amarga.",

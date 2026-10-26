@@ -462,7 +462,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece los huevos 10 minutos; mientras, corta las judías verdes en trozos. Enfría los huevos en agua fría y pélalos. En la misma agua hirviendo, cuece las judías 7-8 minutos, hasta que estén tiernas, y escúrrelas.",
+    "Cuece los huevos 10 minutos en una cazuela con agua; mientras, corta las judías verdes en trozos. Enfría los huevos en agua fría, pélalos y tira el agua de la cazuela. Cuece las judías 7-8 minutos en agua nueva hirviendo, hasta que estén tiernas, y escúrrelas.",
     "Abre la pechuga en dos filetes finos, sálalos y dóralos en una sartén con media cucharada de aceite 4 minutos por cada lado, hasta que estén hechos por dentro y dorados por fuera. Mientras se hacen, corta la lechuga en tiras, el pepino en medias lunas, las uvas por la mitad y los huevos en cuartos. Deja reposar el pollo 5 minutos (aprovecha para picar el estragón) y córtalo en tiras.",
     "Prepara la vinagreta: bate la mostaza con el vinagre, el zumo de medio limón, 1 cucharada de aceite, el estragón, sal y pimienta.",
     "Cubre una fuente grande con la lechuga y los canónigos. Coloca el pollo en el centro y, alrededor, en franjas o sectores, los huevos, el pepino, las judías y las uvas.",
@@ -488,7 +488,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 150,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "morcillo de ternera", q: 300, u: "g", nota: "en una pieza" },
@@ -511,7 +511,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la zanahoria. Pon el morcillo en una olla con 1,5 litros de agua fría, la zanahoria entera, las hojas de cebolleta, el laurel y la pimienta en grano. Lleva a ebullición, retira la espuma y cuece a fuego muy suave, con el agua apenas temblando, 2 horas, hasta que un tenedor entre sin resistencia. Sala a mitad de cocción. Déjalo templar dentro del caldo para que no se seque.",
-    "Mientras, cuece las patatas con piel en agua con sal 20 minutos y el huevo 10 minutos. Pela ambos.",
+    "Mientras, cuece las patatas con piel en agua con sal 20 minutos y, aparte, el huevo 10 minutos en un cazo con agua limpia; sácalo a agua fría y tira esa agua. Pela ambos.",
     "Tuesta las pipas de calabaza en la cazuela de las patatas, ya vacía y seca, 2-3 minutos, hasta que se hinchen y empiecen a saltar.",
     "Saca la carne y córtala contra la fibra en lonchas muy finas y luego en tiras. Corta las patatas en rodajas y la zanahoria del caldo en medias lunas.",
     "Bate el vinagre con 3 cucharadas del caldo templado, sal y pimienta. Riega con él la carne, la patata y la zanahoria y déjalas macerar 15 minutos: absorben el aliño mucho mejor en tibio. Mientras, lamina los rabanitos, corta los pepinillos en rodajas y el huevo en cuartos, y pica el cebollino.",

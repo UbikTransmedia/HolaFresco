@@ -572,7 +572,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "horno"],
+  equipo: ["cazuela", "sartén", "horno", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "acelgas", q: 700, u: "g", nota: "un manojo: pencas y hojas" },
@@ -591,7 +591,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa las pencas de las hojas de acelga. Quita las hebras de las pencas con un pelador y córtalas en trozos de 5 cm. Pela los tallos de brócoli (la capa exterior es fibrosa) y córtalos en bastones.",
-    "Cuece las pencas, los tallos y los huevos en agua con sal 10 minutos, hasta que las verduras estén tiernas; añade las hojas los 2 últimos minutos. Saca los huevos a agua fría, escurre muy bien la verdura y aprieta las hojas para quitarles el agua.",
+    "Cuece las pencas y los tallos en agua con sal 10 minutos, hasta que estén tiernos; añade las hojas los 2 últimos minutos. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia y sácalos a agua fría; tira esa agua. Escurre muy bien la verdura y aprieta las hojas para quitarles el agua.",
     "Precalienta el horno a 220 °C con el gratinador. Saltea las hojas de acelga con el ajo laminado y el aceite en una sartén 2 minutos y extiéndelas en el fondo de una fuente. Pela los huevos.",
     "Haz la bechamel en la misma sartén: funde la mantequilla, añade la harina y cocina 2 minutos removiendo. Vierte la leche poco a poco y cuece 8 minutos, hasta que espese. Sazona con sal, pimienta y nuez moscada y añade la mitad del queso.",
     "Coloca las pencas y los tallos sobre las hojas, reparte los huevos duros en cuartos y cubre con la bechamel. Espolvorea el resto del queso.",

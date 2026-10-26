@@ -370,7 +370,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 75,
   dificultad: "media",
-  equipo: ["horno", "cazuela"],
+  equipo: ["horno", "cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "merluza (lomos)", q: 250, u: "g" },
@@ -391,7 +391,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos; mete el huevo en la misma olla los primeros 10 minutos y sácalo a agua fría.",
+    "Pela las patatas, córtalas en trozos y cuécelas en agua con sal 20 minutos; mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia, sácalo a agua fría y tira el agua.",
     "Precalienta el horno a 200 °C. Mientras, calienta 250 ml de leche con el laurel y escalfa en ella la merluza 5 minutos a fuego suave; entretanto, pica el puerro y el eneldo. Saca el pescado y reserva la leche colada.",
     "En la cazuela, funde 15 g de mantequilla y rehoga el puerro 5 minutos. Añade la harina, tuéstala 1 minuto y vierte poco a poco la leche de escalfar, removiendo hasta tener una bechamel ligera. Añade la mostaza, el eneldo picado, sal y pimienta.",
     "Desmenuza la merluza en lascas grandes, trocea el salmón ahumado, pela y trocea el huevo, y repártelos con los guisantes en una fuente pequeña. Cubre con la bechamel.",

@@ -186,7 +186,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["olla-express"],
+  equipo: ["olla-express", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "judías verdes", q: 400, u: "g", nota: "planas, sin hebras" },
@@ -202,9 +202,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Corta las judías en trozos de 4 cm, las patatas peladas en dados de 2-3 cm y lamina los ajos. Pon el agua con sal en la olla, el cestillo encima y dentro las patatas, las judías y los dos huevos enteros con cáscara.",
-    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min.",
-    "Despresuriza rápido. Saca los huevos y mételos en agua fría 2 min; quedan duros con la yema justo cuajada. Comprueba las judías: tiernas pero con color. Si las prefieres más blandas, 1 min más.",
+    "Corta las judías en trozos de 4 cm, las patatas peladas en dados de 2-3 cm y lamina los ajos. Pon el agua con sal en la olla, el cestillo encima y dentro las patatas y las judías. Pon los dos huevos enteros con cáscara en un cazo aparte, cubiertos de agua limpia, y llévalos a ebullición.",
+    "Cierra la olla a fuego fuerte. Cuando suba la válvula, baja a fuego medio-bajo y cuenta 4 min. Cuece los huevos 10 min desde que hierva el cazo.",
+    "Despresuriza rápido. Saca los huevos y mételos en agua fría 2 min; tira el agua del cazo. Comprueba las judías: tiernas pero con color. Si las prefieres más blandas, 1 min más.",
     "Pasa las verduras a una fuente, tira el agua y seca la olla. Pela los huevos y pártelos en cuartos.",
     "Calienta el aceite en la misma olla a fuego medio con los ajos laminados 2 min hasta que doren. Aparta del fuego, añade el pimentón y el vinagre y remueve 10 s (el vinagre frena el pimentón).",
     "Vierte el refrito caliente sobre las judías y patatas, mezcla, pon el huevo encima, salpimienta y, si quieres más sustancia, desmenuza el atún por encima."
@@ -274,7 +274,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["olla-express"],
+  equipo: ["olla-express", "cazo"],
   raciones: 4,
   ingredientes: [
     { n: "panceta", q: 350, u: "g", nota: "fresca, en un trozo" },
@@ -297,9 +297,9 @@ window.RECETAS_SEED.push({
   pasos: [
     "Dora la panceta en la olla destapada a fuego fuerte 3 min por cada cara, sin aceite, hasta que suelte grasa y esté tostada. Retira el exceso de grasa.",
     "Añade el caldo, el jengibre, los ajos enteros aplastados, la parte verde de las cebolletas y 1 cda de soja. Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 20 min.",
-    "Mientras, pon a hervir una olla con agua abundante (luego servirá para los fideos) y cuece los huevos 6 min 30 s desde que hierva; enfríalos bajo el grifo y pélalos: yema cremosa. Déjalos 10 min en un bol con la otra cda de soja. Corta la parte blanca de las cebolletas en rodajas finas y parte el pak choi a lo largo en cuartos.",
+    "Mientras, pon a hervir agua en un cazo y cuece los huevos 6 min 30 s desde que hierva; enfríalos bajo el grifo, tira esa agua y pélalos: yema cremosa. Déjalos 10 min en un bol con la otra cda de soja. Corta la parte blanca de las cebolletas en rodajas finas y parte el pak choi a lo largo en cuartos.",
     "Aparta la olla exprés y deja despresurizar de forma natural 10 min. Saca la panceta y córtala en lonchas gruesas. Cuela el caldo y devuélvelo a la olla; disuelve el miso en un cucharón de caldo caliente antes de incorporarlo (nunca lo hiervas).",
-    "Pon el caldo a fuego medio, añade los champiñones y el pak choi y cuece 3 min. A la vez, cuece los fideos en el agua de los huevos según el paquete (2-4 min) y escúrrelos.",
+    "Pon el caldo a fuego medio, añade los champiñones y el pak choi y cuece 3 min. A la vez, pon a hervir agua nueva en el cazo, cuece en ella los fideos según el paquete (2-4 min) y escúrrelos.",
     "Reparte los fideos en los boles grandes, vierte el caldo hirviendo con las verduras, coloca la panceta, el huevo partido por la mitad, la cebolleta, el sésamo y unas gotas de aceite de sésamo. Sriracha al gusto."
   ],
   nutricion: { kcal: 630, prot: 27, hc: 40, grasa: 39 },

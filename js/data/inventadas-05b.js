@@ -874,7 +874,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de ramen", q: 160, u: "g", nota: "secos" },
@@ -894,10 +894,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua en un cazo y cuece los huevos 6 minutos y medio; pásalos a agua con hielo y guarda el agua del cazo para los fideos. Pela los huevos y déjalos en un vaso con la soja y 4 cucharadas de agua, girándolos de vez en cuando, mientras preparas el resto (mínimo 20 minutos).",
+    "Pon a hervir agua en un cazo y cuece los huevos 6 minutos y medio; pásalos a agua con hielo y tira el agua del cazo. Pela los huevos y déjalos en un vaso con la soja y 4 cucharadas de agua, girándolos de vez en cuando, mientras preparas el resto (mínimo 20 minutos).",
     "Mientras, lamina las setas, el ajo y el jengibre, corta los pak choi a lo largo en cuartos y separa la parte blanca de las cebolletas. Saltea las setas en una cazuela con la mitad del aceite de sésamo a fuego fuerte 4 minutos, hasta que doren; añade el pak choi 1 minuto más y resérvalo todo en un plato.",
     "Pon en la misma cazuela el caldo con el ajo, el jengibre y la parte blanca de las cebolletas. Lleva a ebullición y deja a fuego suave 15 minutos para que se aromatice; mientras, pica la parte verde de la cebolleta. Retira los aromáticos con una espumadera.",
-    "Vuelve a llevar a ebullición el agua del cazo. Disuelve el miso en un cucharón de caldo caliente y devuélvelo a la cazuela. Añade un chorrito de la marinada de los huevos; no dejes que vuelva a hervir para que el miso no pierda aroma.",
+    "Pon a hervir agua nueva en el cazo. Disuelve el miso en un cucharón de caldo caliente y devuélvelo a la cazuela. Añade un chorrito de la marinada de los huevos; no dejes que el caldo vuelva a hervir para que el miso no pierda aroma.",
     "Cuece los fideos en el agua hirviendo el tiempo del paquete (3-4 minutos), escúrrelos y repártelos en dos boles hondos.",
     "Vierte el caldo caliente, coloca encima las setas, el pak choi, el maíz y los huevos partidos por la mitad. Termina con la mantequilla, el resto del aceite de sésamo, el sésamo y la parte verde de la cebolleta picada."
   ],
@@ -1117,7 +1117,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Despunta las judías verdes y córtalas por la mitad. Corta la cebolla morada en juliana muy fina y déjala en agua fría para suavizarla.",
     "Cuece las judías 5-6 minutos, hasta que estén tiernas pero aún crujientes; mientras, pica las alcaparras y parte los cherry por la mitad. Saca las judías con una espumadera y pásalas por agua fría para fijar el color.",
-    "En la misma agua hirviendo cuece los huevos 6 minutos exactos, pásalos a agua fría 2 minutos y pélalos con cuidado: la yema debe quedar melosa.",
+    "Tira el agua de las judías y, en la misma cazuela, lleva agua nueva a ebullición; cuece en ella los huevos 6 minutos exactos, pásalos a agua fría 2 minutos y pélalos con cuidado: la yema debe quedar melosa.",
     "Mientras, corta el pan en dados y tuéstalos en una sartén con media cucharada de aceite a fuego medio 3-4 minutos, hasta que estén dorados.",
     "Bate el resto del aceite con el vinagre, la mostaza, las alcaparras picadas, sal y pimienta hasta emulsionar.",
     "Mezcla las judías templadas con los cherry, las aceitunas y la cebolla escurrida, y aliña con la vinagreta.",

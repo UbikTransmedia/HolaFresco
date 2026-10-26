@@ -24,7 +24,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "merluza (lomos)", q: 350, u: "g", nota: "sin piel; también sirve pescadilla o mero" },
@@ -46,8 +46,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel y la zanahoria entera en una cazuela grande, cúbrelas holgadamente con agua fría y añade sal, el laurel, unos granos de pimienta y dos rodajas de limón. Cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia.",
-    "Cuando falten 10 minutos, echa los huevos con cuidado en la misma cazuela, y los guisantes en los últimos 3 minutos. Mientras, pica los pepinillos, la mitad de las alcaparras y la mitad del perejil.",
-    "Saca con una espumadera las patatas, la zanahoria y los guisantes, y pasa los huevos a agua fría. Baja el fuego para que el agua apenas tiemble, añade la merluza y cuécela 6–8 minutos, hasta que se separe en lascas al presionarla. Mientras, pela los huevos.",
+    "Cuando falten 10 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia, y echa los guisantes en la cazuela en los últimos 3 minutos. Mientras, pica los pepinillos, la mitad de las alcaparras y la mitad del perejil.",
+    "Saca con una espumadera las patatas, la zanahoria y los guisantes, y pasa los huevos a agua fría; tira el agua del cazo. Baja el fuego para que el agua de la cazuela apenas tiemble, añade la merluza y cuécela 6–8 minutos, hasta que se separe en lascas al presionarla. Mientras, pela los huevos.",
     "Saca la merluza con la espumadera, déjala templar y desmígala con los dedos, quitando cualquier espina. Mientras templa, pela las patatas y la zanahoria y córtalas en dados de 1 cm.",
     "En un bol amplio mezcla con una espátula el pescado, las verduras, los guisantes, los pepinillos, las alcaparras picadas, el perejil picado, el zumo de medio limón, sal, pimienta y dos tercios de la mayonesa. Hazlo con suavidad, sin aplastar: deben verse las lascas de pescado.",
     "Forra un bol de unos 15 cm con film, rellénalo con la mezcla apretando bien con el dorso de una cuchara y alisa la superficie. Tápalo y déjalo en la nevera al menos 1 hora para que tome forma. Mientras reposa, corta los huevos en rodajas y el resto del limón en gajos.",
@@ -210,7 +210,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 300, u: "g" },
@@ -230,9 +230,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal. Mientras, pela las patatas y córtalas en trozos de 4 cm; despunta las judías y pártelas por la mitad; corta los calabacines en trozos de 5 cm.",
-    "Cuando el agua hierva, cuece las patatas 8 minutos. Añade las judías y los huevos, con cuidado, y 5 minutos después el calabacín; cuece 6–7 minutos más, hasta que todo esté tierno pero el calabacín conserve la forma y un verde brillante.",
+    "Cuando el agua hierva, cuece las patatas 8 minutos. Añade las judías, y 5 minutos después el calabacín; cuece 6–7 minutos más, hasta que todo esté tierno pero el calabacín conserve la forma y un verde brillante. A la vez que las judías, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras, pica el perejil y prepara el ladolemono: bate el zumo del limón con el aceite, el ajo rallado, el orégano, sal y pimienta hasta que quede turbio y algo espeso.",
-    "Pasa los huevos a agua fría. Escurre las verduras con cuidado y alíñalas en caliente con dos tercios del ladolemono, para que lo absorban. Deja templar 5 minutos y, mientras, pela los huevos y córtalos en cuartos.",
+    "Pasa los huevos a agua fría y tira su agua. Escurre las verduras con cuidado y alíñalas en caliente con dos tercios del ladolemono, para que lo absorban. Deja templar 5 minutos y, mientras, pela los huevos y córtalos en cuartos.",
     "Sirve con los huevos en cuartos, un taco de feta, las aceitunas, el perejil picado y el resto del aliño por encima."
   ],
   nutricion: { kcal: 620, prot: 24, hc: 38, grasa: 41 },
@@ -726,7 +726,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Mientras, parte los espárragos por donde se quiebren solos y desecha la parte leñosa. Cuécelos en el agua hirviendo 3–4 minutos, según el grosor, hasta que estén tiernos pero firmes; añade los guisantes en el último minuto. Sácalos con una espumadera a un bol con agua fría y escúrrelos.",
-    "En la misma agua, cuece 4 huevos recién sacados de la nevera exactamente 6 minutos y medio; pásalos a agua fría 2 minutos y pélalos con cuidado: la yema queda cremosa.",
+    "Tira el agua de los espárragos y, en la misma cazuela vacía, lleva agua nueva a ebullición; cuece en ella 4 huevos recién sacados de la nevera exactamente 6 minutos y medio; pásalos a agua fría 2 minutos y pélalos con cuidado: la yema queda cremosa.",
     "Para el avgolemono, vacía la cazuela y calienta en ella el caldo con la maicena disuelta, sin que llegue a hervir con fuerza, hasta que espese un poco, unos 2 minutos. Retíralo del fuego.",
     "Bate el huevo restante con el zumo del limón hasta que espume. Sin dejar de batir, añade el caldo caliente en un hilo (nunca al revés, o el huevo cuajaría). Vuelve a la cazuela y calienta a fuego muy suave 1–2 minutos, batiendo, hasta que nape la cuchara, sin que llegue a hervir.",
     "Corta la cebolleta en rodajas finas y pica el eneldo; añade la mitad del eneldo a la salsa con sal y pimienta.",

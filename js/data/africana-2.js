@@ -338,7 +338,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "plátano macho", q: 2, u: "ud", nota: "verdes o recién amarillos" },
@@ -354,7 +354,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Corta los extremos de los plátanos, haz un corte a lo largo de la piel y retírala. Trocéalos en 3 y cuécelos en agua con sal 20–25 minutos, hasta que una punta de cuchillo entre sin resistencia. Cuando falten 10 minutos, mete los huevos en la misma olla; al terminar, pásalos a agua fría y pélalos.",
+    "Corta los extremos de los plátanos, haz un corte a lo largo de la piel y retírala. Trocéalos en 3 y cuécelos en agua con sal 20–25 minutos, hasta que una punta de cuchillo entre sin resistencia. Cuando falten 10 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia; al terminar, pásalos a agua fría, tira esa agua y pélalos.",
     "Mientras, tritura las pipas de calabaza hasta obtener una harina y mézclala con 4 cucharadas de agua para formar una pasta. Pica la cebolla, el chile, los tomates y las espinacas y ralla el jengibre.",
     "Calienta el aceite de palma en una cazuela a fuego medio y sofríe la cebolla 5 minutos. Añade el jengibre y el chile y remueve 1 minuto. Incorpora los tomates y cocina 8 minutos, hasta tener una salsa espesa.",
     "Añade la pasta de pipas a cucharadas y no remuevas en 3 minutos: cuaja en grumos, como un huevo revuelto. Después remueve con suavidad.",

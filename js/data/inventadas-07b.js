@@ -103,7 +103,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g", nota: "de carne firme" },
@@ -122,9 +122,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava las patatas y cuécelas enteras con piel en agua con sal desde frío, 20-25 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. En los últimos 10 minutos añade los huevos a la misma cazuela.",
+    "Lava las patatas y cuécelas enteras con piel en agua con sal desde frío, 20-25 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. En los últimos 10 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras cuecen, corta el pimiento verde en daditos, el tomate en dados y la cebolleta en rodajas finas, y pica el perejil. Prepara el aliño: mezcla el aceite con el pimentón, pimienta y una pizca de sal.",
-    "Saca los huevos a agua fría, pélalos y córtalos en cuartos. Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en dados de 2 cm. Alíñalas aún templadas con el vinagre y una pizca de sal: así lo absorben.",
+    "Saca los huevos a agua fría, tira su agua, pélalos y córtalos en cuartos. Escurre las patatas, pélalas en cuanto puedas tocarlas y córtalas en dados de 2 cm. Alíñalas aún templadas con el vinagre y una pizca de sal: así lo absorben.",
     "Cuando la patata ya no queme (para que el pimentón no amargue), mézclala con el pimiento, el tomate, la cebolleta, las aceitunas y el aliño. Deja reposar 10 minutos en la nevera.",
     "Reparte en dos platos, pon encima el bonito escurrido en lascas grandes y los huevos, y termina con el perejil picado."
   ],

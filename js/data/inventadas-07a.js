@@ -107,7 +107,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["cazuela", "horno", "sartén"],
+  equipo: ["cazuela", "horno", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 160, u: "g" },
@@ -127,7 +127,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 220 °C. Pon los pimientos enteros en una bandeja y ásalos 35 minutos, dándoles la vuelta a mitad, hasta que la piel esté arrugada y con manchas negras. Mételos en un bol tapado 10 minutos, pélalos, quítales las semillas y córtalos en tiras; guarda el jugo que suelten.",
-    "Mientras, lava las lentejas y ponlas en una cazuela con agua fría que las cubra 3 dedos, el laurel y 1 diente de ajo entero. Lleva a ebullición, baja a fuego suave y cuece 25-30 minutos, hasta que estén tiernas pero enteras. Cuando les falten unos 7 minutos, sumerge con cuidado los huevos en la cazuela y cuécelos exactamente 6 minutos y medio; sácalos a agua con hielo y pélalos con cuidado: la yema debe quedar cremosa. Sala las lentejas al final y escúrrelas.",
+    "Mientras, lava las lentejas y ponlas en una cazuela con agua fría que las cubra 3 dedos, el laurel y 1 diente de ajo entero. Lleva a ebullición, baja a fuego suave y cuece 25-30 minutos, hasta que estén tiernas pero enteras. Cuando les falten unos 7 minutos, cuece los huevos exactamente 6 minutos y medio en un cazo aparte con agua limpia; sácalos a agua con hielo, tira su agua y pélalos con cuidado: la yema debe quedar cremosa. Sala las lentejas al final y escúrrelas.",
     "Mientras se cuecen las lentejas, corta el chorizo en rodajas y dóralo en una sartén sin aceite a fuego medio 4 minutos, hasta que suelte su grasa y esté crujiente por los bordes. Retíralo y aparta la grasa de la sartén.",
     "Prepara la vinagreta: machaca el otro ajo con sal, mézclalo con el vinagre, el pimentón, el aceite, 1 cucharada del jugo de los pimientos y 1 cucharada de la grasa del chorizo. Corta la cebolla morada en plumas finas y pica el perejil.",
     "Mezcla las lentejas templadas con la vinagreta, la cebolla morada y la mitad del perejil. Reparte en dos platos, pon encima las tiras de pimiento y el chorizo, abre el huevo mollet sobre cada ración y termina con el resto del perejil y pimienta."
@@ -248,7 +248,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 600, u: "g", nota: "pequeñas, de carne firme" },
@@ -269,10 +269,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava las patatas y cuécelas con piel en agua con sal desde frío: 18-20 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. Cuando les falten 9 minutos, añade los huevos con cuidado a la misma olla. Mientras, corta la cebolla en pluma fina y los pepinillos en rodajas, y pica el cebollino y el perejil.",
+    "Lava las patatas y cuécelas con piel en agua con sal desde frío: 18-20 minutos desde que hierva, hasta que un cuchillo entre sin resistencia. Cuando les falten 9 minutos, cuece los huevos 9 minutos en un cazo aparte con agua limpia. Mientras, corta la cebolla en pluma fina y los pepinillos en rodajas, y pica el cebollino y el perejil.",
     "Dora el bacon en una sartén a fuego medio 5 minutos sin aceite, hasta que esté crujiente. Sácalo a un papel absorbente y deja 1 cucharada de su grasa en la sartén.",
     "En esa grasa añade el aceite y la cebolla y póchala 6 minutos a fuego medio, hasta que esté transparente. Añade el vinagre, el caldo, el azúcar y las dos mostazas, lleva a ebullición y deja reducir 2 minutos: es la vinagreta caliente.",
-    "Escurre las patatas y los huevos. Enfría los huevos en agua fría, pélalos y córtalos en cuartos; pela las patatas en cuanto puedas tocarlas y córtalas en rodajas de 1 cm.",
+    "Escurre las patatas y los huevos. Enfría los huevos en agua fría, tira su agua, pélalos y córtalos en cuartos; pela las patatas en cuanto puedas tocarlas y córtalas en rodajas de 1 cm.",
     "Vierte la vinagreta sobre las patatas aún templadas en un bol grande, añade los pepinillos y salpimienta. Remueve con suavidad y deja que las patatas absorban el aliño 5 minutos.",
     "Sirve templada con los cuartos de huevo encima, el bacon crujiente y un buen puñado de cebollino y perejil."
   ],
@@ -559,7 +559,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 400, u: "g", nota: "nuevas, pequeñas" },
@@ -580,8 +580,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel en una cazuela con agua y sal y llévalas a ebullición. Mientras, corta la base leñosa de los espárragos (se rompe sola al doblarlos) y córtalos en trozos de 4 cm.",
-    "A los 9 minutos de hervor, añade con cuidado los huevos a la cazuela; 3 minutos y medio después, los espárragos, y cuece 3 minutos más, hasta que las patatas estén tiernas al pincharlas. Mientras, prepara el aliño: pica finas las alcaparras, los pepinillos, el eneldo y el cebollino y mézclalos con la mostaza, la ralladura y el zumo de medio limón, el aceite, sal y pimienta.",
-    "Escurre todo. Pasa los huevos 2 minutos a agua con hielo y pélalos con cuidado para que la yema quede líquida. Parte las patatas por la mitad.",
+    "A los 9 minutos de hervor de las patatas, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia hirviendo; 3 minutos y medio después, añade los espárragos a las patatas y cuece 3 minutos más, hasta que estén tiernas al pincharlas. Mientras, prepara el aliño: pica finas las alcaparras, los pepinillos, el eneldo y el cebollino y mézclalos con la mostaza, la ralladura y el zumo de medio limón, el aceite, sal y pimienta.",
+    "Escurre las patatas y los espárragos. Pasa los huevos 2 minutos a agua con hielo, tira el agua de cocerlos y pélalos con cuidado para que la yema quede líquida. Parte las patatas por la mitad.",
     "Lamina los rábanos muy finos. Mezcla en un bol las patatas templadas y los espárragos con dos tercios del aliño.",
     "Reparte los canónigos en dos platos, encima las patatas y espárragos, los rábanos y los huevos partidos por la mitad. Salpica las yemas con sal en escamas y riega con el resto del aliño."
   ],

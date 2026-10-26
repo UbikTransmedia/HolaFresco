@@ -240,7 +240,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao desalado", q: 320, u: "g", nota: "gruesos, bien desalados" },
@@ -257,9 +257,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una olla grande de agua con sal y el laurel. Pela las patatas, déjalas enteras si son medianas y parte las zanahorias por la mitad a lo largo y corta la col en dos gajos.",
-    "Echa las patatas y las zanahorias al agua hirviendo y cuécelas 12 minutos. Añade los huevos con cáscara y la col, y cuece 10 minutos más, hasta que las patatas estén tiernas y la col blanda pero verde.",
+    "Echa las patatas y las zanahorias al agua hirviendo y cuécelas 12 minutos. Añade la col y cuece 10 minutos más, hasta que las patatas estén tiernas y la col blanda pero verde. En esos 10 minutos, cuece los huevos con cáscara en un cazo aparte con agua limpia.",
     "Al mismo tiempo, pon el bacalao en una cazuela con agua fría sin sal, que lo cubra. Calienta a fuego medio y, en cuanto empiece a temblar, baja al mínimo y déjalo 8 minutos sin que llegue a hervir: si hierve, se pone gomoso.",
-    "Saca el bacalao con una espumadera: debe separarse en lascas nacaradas al presionarlo. Escurre las verduras y enfría los huevos bajo el grifo para pelarlos.",
+    "Saca el bacalao con una espumadera: debe separarse en lascas nacaradas al presionarlo. Escurre las verduras y los huevos (tira el agua de los huevos) y enfría estos bajo el grifo para pelarlos.",
     "Templa el aceite de oliva en un cazo a fuego muy suave 1 minuto, sin que llegue a humear.",
     "Sirve en una fuente grande el bacalao, las patatas, la col, las zanahorias y los huevos partidos por la mitad. Riega todo con el aceite de oliva templado, unas gotas de vinagre y una vuelta de pimienta."
   ],
@@ -416,7 +416,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 165,
   dificultad: "media",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "ternera (punta de cadera)", q: 400, u: "g", nota: "rabillo de cadera o tapilla en una pieza" },
@@ -440,7 +440,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Lleva el agua a ebullición en una olla alta y mete la carne: en Viena se pone en agua hirviendo para que quede más jugosa. Espuma con cuidado durante los primeros 10 minutos, hasta que el caldo quede limpio.",
     "Añade el laurel, la pimienta en grano, la pimienta de Jamaica y una cucharada de sal. Baja el fuego para que apenas borbotee y cuece 2 horas con la olla entreabierta.",
-    "Salsa de cebollino (mientras cuece la carne): mete el huevo en la olla 10 minutos y, entretanto, pica muy fino el cebollino y remoja el pan en la leche. Saca el huevo, enfríalo, pélalo y pica la clara. Escurre el pan y aplástalo en un bol con la yema, la mostaza, el vinagre y sal, y añade el aceite en hilo batiendo hasta que quede una crema. Incorpora el cebollino (guarda un poco para el caldo) y la clara.",
+    "Salsa de cebollino (mientras cuece la carne): cuece el huevo 10 minutos en un cazo aparte con agua limpia y, entretanto, pica muy fino el cebollino y remoja el pan en la leche. Saca el huevo, enfríalo en agua fría, pélalo y pica la clara; tira el agua del cazo. Escurre el pan y aplástalo en un bol con la yema, la mostaza, el vinagre y sal, y añade el aceite en hilo batiendo hasta que quede una crema. Incorpora el cebollino (guarda un poco para el caldo) y la clara.",
     "Pela la zanahoria, la chirivía y el nabo, córtalos en trozos grandes y añádelos para los últimos 40 minutos. Pela las patatas, pártelas por la mitad y añádelas para los últimos 25.",
     "Comprueba la carne: un tenedor debe entrar y salir sin resistencia en la parte más gruesa. Si no, dale 15 minutos más.",
     "Sirve primero una taza del caldo colado y desgrasado con un poco de cebollino. Después corta la carne en lonchas de medio centímetro a contrapelo, retira la grasa exterior y colócala en platos hondos con las verduras y las patatas, con un cucharón de caldo por encima para que no se seque. Acompaña con la salsa."
@@ -1094,7 +1094,7 @@ window.RECETAS_SEED.push({
   proteina: "tempeh",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "tempeh", q: 220, u: "g" },
@@ -1115,7 +1115,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas nuevas con piel en una cazuela con agua y sal y cuécelas 15-18 minutos. Mientras, corta el tempeh en lonchas de 1 cm.",
-    "Cuando el agua hierva, coloca el tempeh en un colador sobre la cazuela, tápalo y cuécelo al vapor 10 minutos: le quita el amargor y lo vuelve más tierno. A la vez, mete los huevos en el agua de las patatas 9 minutos; luego enfríalos en agua fría y pélalos.",
+    "Cuando el agua hierva, coloca el tempeh en un colador sobre la cazuela, tápalo y cuécelo al vapor 10 minutos: le quita el amargor y lo vuelve más tierno. A la vez, cuece los huevos 9 minutos en un cazo aparte con agua limpia; luego enfríalos en agua fría, tira esa agua y pélalos.",
     "Grüne Soße: lava y seca muy bien las hierbas y quita los tallos duros. Tritúralas con el yogur, la mostaza, el zumo del limón, sal y pimienta hasta tener una salsa verde intenso con motas.",
     "Seca las lonchas de tempeh, sálalas y dóralas en una sartén antiadherente con el aceite a fuego medio 3 minutos por cada lado, hasta que estén doradas.",
     "Escurre las patatas, pártelas en dos y parte los huevos por la mitad.",

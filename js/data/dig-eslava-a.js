@@ -104,7 +104,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 230,
   dificultad: "media",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "merluza (lomos)", q: 300, u: "g", nota: "en dos trozos" },
@@ -123,7 +123,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela la zanahoria y la chirivía. Ponlas enteras en una cazuela con 600 ml de agua, el laurel, los tallos del perejil, sal y unos granos de pimienta. Lleva a ebullición y cuece 15 minutos a fuego suave; a los 5 minutos, añade el huevo bien lavado y con cáscara, y sácalo a los 10 minutos a un cuenco con agua fría.",
+    "Pela la zanahoria y la chirivía. Ponlas enteras en una cazuela con 600 ml de agua, el laurel, los tallos del perejil, sal y unos granos de pimienta. Lleva a ebullición y cuece 15 minutos a fuego suave. Mientras, cuece el huevo, bien lavado y con cáscara, 10 minutos en un cazo aparte con agua limpia; sácalo a un cuenco con agua fría y tira el agua del cazo.",
     "Añade la merluza y escáldala 6-7 minutos a fuego muy suave, sin que el caldo llegue a borbotear, hasta que esté opaca. Sácala con una espumadera, quítale la piel y sepárala en trozos grandes. Saca también la zanahoria.",
     "Cuela el caldo por un colador forrado con un paño o papel de cocina para que quede limpio y transparente; necesitas 400 ml (si falta, completa con agua).",
     "Remoja las hojas de gelatina 5 minutos en agua fría. Escúrrelas y disuélvelas en el caldo caliente (sin que hierva), removiendo hasta que no quede ningún filamento. Prueba de sal y añade el zumo de medio limón: debe quedar algo salado, porque en frío se nota menos.",
@@ -197,7 +197,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["horno", "cazuela"],
+  equipo: ["horno", "cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "lucioperca", q: 300, u: "g", nota: "en lomos sin piel; o bacalao fresco" },
@@ -214,7 +214,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pon a hervir agua con sal en una cazuela y cuece los huevos 10 minutos. Mientras, pela las patatas y córtalas en rodajas de medio centímetro; a los 2 minutos de los huevos, añádelas a la misma cazuela y cuécelas 8 minutos, hasta que estén tiernas pero enteras. Pica el eneldo. Escurre, enfría los huevos y córtalos en rodajas.",
+    "Precalienta el horno a 200 °C. Pon a hervir agua en un cazo y cuece en él los huevos 10 minutos. Mientras, pela las patatas y córtalas en rodajas de medio centímetro; a los 2 minutos de los huevos, cuécelas 8 minutos en una cazuela aparte con agua con sal hirviendo, hasta que estén tiernas pero enteras. Pica el eneldo. Escurre las patatas; enfría los huevos, tira su agua y córtalos en rodajas.",
     "Corta el pescado en 4 trozos y sálalo.",
     "Mezcla la nata con el yogur, la harina de arroz, la mitad del eneldo, sal y pimienta. Debe quedar una salsa espesa como una nata agria; la harina la ayuda a ligar en el horno.",
     "Unta una fuente pequeña con el aceite, extiende las rodajas de patata solapadas y sálalas. Coloca encima el pescado y, alrededor y sobre él, las rodajas de huevo.",
@@ -852,7 +852,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 5, u: "ud" },
@@ -871,7 +871,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos. Cuando les falten 9 minutos, añade los huevos a la misma olla; sácalos a agua fría y pélalos: la yema quedará cuajada pero tierna, sin cerco verde. Mientras se cuecen, pica el eneldo.",
+    "Cuece las patatas nuevas con piel en agua con sal 15-18 minutos. Cuando les falten 9 minutos, cuece los huevos 9 minutos en un cazo aparte con agua limpia; sácalos a agua fría, tira esa agua y pélalos: la yema quedará cuajada pero tierna, sin cerco verde. Mientras se cuecen, pica el eneldo.",
     "Para la salsa, derrite la mantequilla en un cazo a fuego medio-bajo, añade la harina de arroz y remueve 1 minuto sin que tome color.",
     "Vierte poco a poco la leche y 150 ml de agua, batiendo con varillas, y cuece 4-5 minutos, hasta que la salsa espese como unas natillas ligeras.",
     "Fuera del fuego, añade las dos mostazas, unas gotas de limón, sal y pimienta. Prueba: debe ser cremosa, con un picor de mostaza suave y un punto ácido.",

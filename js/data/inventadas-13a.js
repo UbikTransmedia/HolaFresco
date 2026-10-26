@@ -100,7 +100,7 @@ window.RECETAS_SEED.push({
   proteina: "tofu",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 3,
   ingredientes: [
     { n: "fideos udon", q: 400, u: "g", nota: "frescos o precocidos" },
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon el agua a calentar con las setas shiitake secas y el jengibre en láminas. Mientras, hidrata el wakame en un bol con agua fría 5 minutos y escúrrelo, y corta la cebolleta en aros finos.",
-    "Cuando el caldo hierva, baja el fuego, mete los huevos con cuidado y deja infusionar tapado: a los 6 minutos y medio saca los huevos, enfríalos bajo el grifo y pélalos (tendrán la yema melosa); deja el caldo infusionando hasta completar 10 minutos.",
+    "Cuando el caldo hierva, baja el fuego, tápalo y déjalo infusionar 10 minutos. Mientras, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia, enfríalos bajo el grifo, tira esa agua y pélalos (tendrán la yema melosa).",
     "Mientras, seca bien el tofu con papel, córtalo en triángulos de 1 cm de grosor y dóralo en la sartén con el aceite de oliva a fuego medio-alto 3 minutos por lado, hasta que esté crujiente.",
     "Añade 1 cucharada de soja, el azúcar y 1 de mirin a la sartén caliente con el tofu: dale vueltas 30 segundos hasta que el glaseado brille y se pegue. Apaga.",
     "Saca las setas del caldo, córtalas en tiras y devuélvelas. Añade el resto de la soja y del mirin; prueba: debe quedar sabroso pero ligero. Echa los udon y cuécelos 2-3 minutos, solo hasta que se separen y estén calientes.",
@@ -329,7 +329,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "sartén"],
+  equipo: ["cazuela", "batidora", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "espárragos verdes", q: 400, u: "g" },
@@ -347,7 +347,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Parte los espárragos por donde se rompan solos al doblarlos y desecha la parte leñosa. Corta las 6 puntas más bonitas y resérvalas; trocea el resto. Limpia el puerro y córtalo en rodajas; pela la patata y córtala en dados pequeños.",
     "Rehoga el puerro con el aceite en una cazuela a fuego medio 5 minutos. Añade la patata, los espárragos troceados y el caldo. Cuece 15 minutos, hasta que la patata esté tierna.",
-    "Cuando el caldo hierva, mete los huevos con cuidado en la cazuela y cuécelos 6 minutos exactos; sácalos, enfríalos bajo el grifo de agua fría y pélalos con cuidado.",
+    "Mientras se hace la crema, cuece los huevos 6 minutos exactos en un cazo aparte con agua limpia hirviendo; sácalos, enfríalos bajo el grifo de agua fría, tira esa agua y pélalos con cuidado.",
     "Mientras se cuece la crema, coloca las lonchas de jamón en una sartén fría, enciende a fuego medio y dóralas 3-4 minutos, dándoles la vuelta, hasta que se ricen. Déjalas enfriar en papel: quedarán crujientes. En la misma sartén saltea las puntas reservadas 2 minutos.",
     "Tritura la crema con la nata hasta que esté muy fina y de un verde intenso. Ajusta de sal (con cuidado, el jamón sala) y pimienta.",
     "Sirve la crema con un huevo mollet en el centro de cada plato, las puntas salteadas y el jamón desmenuzado por encima. Rompe el huevo al comer para que la yema enriquezca la crema."
@@ -1062,7 +1062,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos cocidos", q: 400, u: "g", nota: "escurridos" },
@@ -1081,7 +1081,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "En una cazuela, calienta 1 cucharada de aceite y sofríe a fuego suave 2 dientes de ajo picados 1 minuto, sin que tomen color. Añade 1 cucharadita de comino y la harissa y remueve 30 segundos.",
-    "Incorpora los garbanzos y el caldo y lleva a ebullición. Mete los huevos con cuidado en la cazuela y cuece 8 minutos a fuego medio; saca los huevos a los 6 minutos y medio, enfríalos bajo el grifo y pélalos: la yema debe quedar líquida.",
+    "Incorpora los garbanzos y el caldo, lleva a ebullición y cuece 8 minutos a fuego medio. Mientras, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia; sácalos, enfríalos bajo el grifo, tira esa agua y pélalos: la yema debe quedar líquida.",
     "Mientras, machaca los otros 2 ajos con una pizca de sal y el resto del comino hasta hacer una pasta. Añádela al caldo en el último minuto y prueba de sal.",
     "Trocea el pan en dados y repártelo en el fondo de dos cuencos. Vierte encima los garbanzos con su caldo para que el pan se empape.",
     "Coloca en cada cuenco un huevo abierto por la mitad, el atún escurrido en lascas y las alcaparras. Termina con un hilo del aceite restante, una pizca de comino y un buen chorro de limón. Mezcla todo al comer para que la yema ligue el caldo."

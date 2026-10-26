@@ -24,7 +24,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "salmón en conserva", q: 200, u: "g", nota: "escurrido, al natural; en Rusia se usa saira o salmón rosado; vale atún o caballa en conserva" },
@@ -40,7 +40,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las patatas con piel y las zanahorias enteras en una cazuela con agua fría y sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia; en los últimos 10 minutos añade los huevos con cuidado. Saca los huevos a agua fría. Escurre las patatas y las zanahorias y deja que se enfríen del todo, unos 20 minutos: ralladas en caliente se convierten en puré.",
+    "Pon las patatas con piel y las zanahorias enteras en una cazuela con agua fría y sal y cuécelas 20–25 minutos desde que hierva, hasta que un cuchillo las atraviese sin resistencia. En los últimos 10 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia y sácalos a agua fría; tira esa agua. Escurre las patatas y las zanahorias y deja que se enfríen del todo, unos 20 minutos: ralladas en caliente se convierten en puré.",
     "Mientras se cuecen y se enfrían, pica la cebolla muy fina, ponla en un colador y vierte por encima agua hirviendo; escúrrela bien. Así pierde el picor y no domina las capas.",
     "Mezcla la mayonesa con la nata agria, una pizca de sal y pimienta. Escurre el salmón, quita la piel y las espinas grandes y desmenúzalo con un tenedor.",
     "Pela los huevos y separa las claras de las yemas. Pela las patatas y las zanahorias y rállalas con el rallador grueso, cada cosa en su plato; ralla también las claras.",
@@ -250,7 +250,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "diente de león", q: 120, u: "g", nota: "hojas tiernas; si no lo encuentras, mezcla escarola rizada y rúcula" },
@@ -267,9 +267,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el diente de león en varias aguas frías hasta que no quede tierra en el fondo, quita los tallos duros y sécalo bien en una centrifugadora o con un paño.",
-    "Pon a cocer las patatas con piel en agua con sal 20–25 minutos, hasta que estén tiernas. Cuando lleven 10–15 minutos, añade los huevos con cuidado para que se cuezan 10 minutos con ellas.",
+    "Pon a cocer las patatas con piel en agua con sal 20–25 minutos, hasta que estén tiernas. Cuando lleven 10–15 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras, pon la panceta en una sartén fría, sin aceite, y cocínala a fuego medio 8–10 minutos, hasta que esté crujiente y haya soltado su grasa. Machaca el ajo y corta la cebolleta en rodajas finas.",
-    "Escurre; enfría los huevos en agua fría y pélalos. Pela las patatas aún calientes, córtalas en rodajas gruesas y alíñalas en un bol con el vinagre, el ajo machacado y sal. En caliente absorben el aliño y quedan sabrosas por dentro.",
+    "Escurre las patatas; enfría los huevos en agua fría, tira su agua y pélalos. Pela las patatas aún calientes, córtalas en rodajas gruesas y alíñalas en un bol con el vinagre, el ajo machacado y sal. En caliente absorben el aliño y quedan sabrosas por dentro.",
     "En una ensaladera mezcla el diente de león, la cebolleta, las patatas tibias, el aceite de pepitas de calabaza y pimienta.",
     "Reparte los huevos en cuartos. Calienta de nuevo la panceta en su sartén 1 minuto y viértela por encima con una cucharada de su grasa bien caliente, para que las hojas se ablanden un poco. Sirve enseguida."
   ],
@@ -755,7 +755,7 @@ window.RECETAS_SEED.push({
   proteina: "pavo",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "bol"],
+  equipo: ["horno", "cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "pechuga de pavo", q: 300, u: "g", nota: "en un filete grueso" },
@@ -778,7 +778,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Precalienta el horno a 210 °C. Corta las patatas en dados de 2 cm y la zanahoria en dados de 1,5 cm, mézclalas en la bandeja con la mitad del aceite y sal, y hornéalas 15 minutos.",
     "Frota el pavo con el resto del aceite, el pimentón, sal y pimienta. Remueve las patatas, coloca el pavo en el centro de la bandeja y hornea 18–20 minutos más, hasta que la verdura esté dorada y el pavo suelte jugos claros al pincharlo. Déjalo reposar 5 minutos tapado con papel de aluminio.",
-    "Mientras, cuece los huevos 10 minutos y, en los 3 últimos, echa los guisantes al mismo cazo. Escurre, enfría los huevos en agua fría y pélalos. Mientras se cuecen, pica el eneldo, corta los pepinillos en dados y la cebolleta en rodajas finas.",
+    "Mientras, cuece los huevos 10 minutos en un cazo con agua; escúrrelos, enfríalos en agua fría y pélalos. Tira esa agua y cuece en el cazo, con agua nueva, los guisantes 3 minutos; escúrrelos. Mientras se cuecen, pica el eneldo, corta los pepinillos en dados y la cebolleta en rodajas finas.",
     "Prepara la salsa: mezcla la nata agria con la mayonesa, la mostaza, 1 cucharada del líquido de los pepinillos, la mitad del eneldo, sal y pimienta.",
     "Corta los huevos en cuartos y el pavo en lonchas.",
     "Mezcla en un bol las patatas y la zanahoria templadas con los guisantes, los pepinillos, la cebolleta y la mitad de la salsa. Reparte en platos, coloca encima el pavo y el huevo y termina con el resto de la salsa y del eneldo."
@@ -802,7 +802,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao fresco", q: 300, u: "g", nota: "en lomos; o merluza" },
@@ -820,8 +820,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lleva a ebullición una cazuela de agua con sal. Mientras, corta las judías verdes en trozos de 4 cm y la coliflor en ramilletes pequeños.",
-    "Echa los huevos con cuidado y, a los 4 minutos, añade las judías y la coliflor; cuece 5–6 minutos más: las verduras deben quedar tiernas pero firmes. Mientras, pica el eneldo y ralla la piel del limón. Escurre, pasa las verduras un instante por agua fría para fijar el color y enfría los huevos en agua fría; pélalos y pícalos fino.",
+    "Lleva a ebullición una cazuela de agua con sal y, en un cazo aparte, agua limpia para los huevos. Mientras, corta las judías verdes en trozos de 4 cm y la coliflor en ramilletes pequeños.",
+    "Echa los huevos con cuidado en el cazo con agua hirviendo y cuécelos 10 minutos. A los 4 minutos, añade las judías y la coliflor a la cazuela; cuece 5–6 minutos más: las verduras deben quedar tiernas pero firmes. Mientras, pica el eneldo y ralla la piel del limón. Escurre, pasa las verduras un instante por agua fría para fijar el color y enfría los huevos en agua fría; tira el agua del cazo, pélalos y pícalos fino.",
     "Seca el bacalao y sálalo. Calienta el aceite en una sartén a fuego medio-alto y dóralo 4 minutos por el lado de la piel y 2–3 por el otro, hasta que se separe en lascas nacaradas. Sácalo a un plato.",
     "Limpia la sartén y derrite la mantequilla a fuego medio hasta que haga espuma. Añade el pan rallado y tuéstalo 2–3 minutos, removiendo sin parar, hasta que tenga color avellana y huela a tostado. Fuera del fuego, mezcla con el huevo picado, la mitad del eneldo, la ralladura del limón y una pizca de sal.",
     "Lamina los rábanos y aliña las verduras templadas con el zumo de medio limón, sal y pimienta.",

@@ -735,7 +735,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de arroz anchos", q: 140, u: "g", nota: "o fideos de arroz gruesos redondos de tienda asiática" },
@@ -759,8 +759,8 @@ window.RECETAS_SEED.push({
     "Corta el pollo en dados de 1,5 cm y mézclalo con media cucharadita de cúrcuma, 1 cucharadita de salsa de pescado y una pizca de sal. Ralla el jengibre y el tomate, desechando la piel.",
     "Calienta el aceite de oliva en una cazuela a fuego medio-bajo y rehoga el jengibre 30 segundos. Retira del fuego, añade el resto de la cúrcuma y el pimentón, remueve 10 segundos y vuelve al fuego con el pollo: rehógalo 3 minutos, hasta que pierda el rosa.",
     "Añade el tomate y 150 ml de agua, tapa y cuece a fuego suave 20 minutos. Destapa los últimos 5 minutos, hasta que la salsa espese y el aceite anaranjado vuelva a la superficie: es la señal birmana de que el guiso está hecho.",
-    "Mientras, tuesta la harina de arroz en una sartén sin aceite a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que tenga color avellana y huela a galleta. Pon a hervir agua para los fideos y cuece en ella los huevos 9 minutos; sácalos a agua fría y pélalos. Pica el cilantro y la cebolleta y corta el pepino en bastones.",
-    "Cuece los fideos en esa misma agua hirviendo el tiempo del paquete, hasta que estén tiernos pero firmes; pásalos por agua fría y escúrrelos muy bien.",
+    "Mientras, tuesta la harina de arroz en una sartén sin aceite a fuego medio-bajo 4-5 minutos, removiendo sin parar, hasta que tenga color avellana y huela a galleta. Pon a hervir agua en un cazo y cuece en él los huevos 9 minutos; sácalos a agua fría, tira esa agua y pélalos. Pica el cilantro y la cebolleta y corta el pepino en bastones.",
+    "Cuece los fideos en una olla con abundante agua nueva hirviendo, el tiempo del paquete, hasta que estén tiernos pero firmes; pásalos por agua fría y escúrrelos muy bien.",
     "En cada plato, pon los fideos con dos cucharadas del jugo del guiso, la mitad de la harina tostada, el resto de la salsa de pescado, el zumo de media lima y parte del cilantro y la cebolleta picados, y mézclalo todo con unas pinzas (en Birmania, con la mano) hasta que los fideos queden dorados y untados.",
     "Reparte el pollo por encima, con los huevos en cuartos, el resto de las hierbas y el pepino en bastones al lado. Se come templado."
   ],

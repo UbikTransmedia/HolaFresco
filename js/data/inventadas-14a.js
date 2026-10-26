@@ -855,7 +855,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao desalado", q: 240, u: "g", nota: "desmigado o en lomos" },
@@ -870,7 +870,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon la patata pelada y cortada en dados de 2 cm y los huevos en un cazo con agua fría. Cuando rompa a hervir, retira los huevos a los 10 minutos y pásalos a agua fría; la patata estará lista a los 10–12 minutos, cuando se deje pinchar. Escúrrela y deja templar.",
+    "Pon la patata pelada y cortada en dados de 2 cm en una cazuela con agua fría y los huevos en un cazo aparte con agua limpia fría. Cuando rompa a hervir el agua de los huevos, retíralos a los 10 minutos y pásalos a agua fría (tira el agua del cazo); la patata estará lista a los 10–12 minutos de hervor, cuando se deje pinchar. Escúrrela y deja templar.",
     "Mientras, desmiga el bacalao en lascas con los dedos, retirando cualquier piel o espina, y escúrrelo bien apretándolo con las manos.",
     "Pela las naranjas a lo vivo con un cuchillo, retirando toda la piel blanca. Córtalas en rodajas o dados sobre un plato para recoger el zumo.",
     "Corta la cebolleta en aros finos y pela y cuartea los huevos duros.",

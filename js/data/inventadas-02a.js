@@ -744,7 +744,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao desalado", q: 320, u: "g", nota: "con piel" },
@@ -764,7 +764,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta las cebollas en juliana fina y póchalas en una cazuela con 3 cucharadas de aceite y una pizca de sal a fuego muy bajo 30 minutos, removiendo de vez en cuando, hasta que estén caramelizadas y color miel.",
-    "Mientras, pela las patatas, córtalas en trozos grandes y cuécelas al vapor 20 minutos hasta que estén tiernas; pon los huevos en la misma vaporera los primeros 12 minutos, pásalos a agua fría y pélalos. Pica el ajo y el perejil y trocea una rebanada de pan.",
+    "Mientras, pela las patatas, córtalas en trozos grandes y cuécelas al vapor 20 minutos hasta que estén tiernas; a la vez, cuece los huevos 12 minutos en un cazo aparte con agua limpia, pásalos a agua fría, tira su agua y pélalos. Pica el ajo y el perejil y trocea una rebanada de pan.",
     "Añade a la cebolla el ajo picado y la rebanada de pan troceada; dora 2 minutos. Incorpora la pulpa de choricero, el caldo y la pizca de azúcar, y cuece 10 minutos.",
     "Tritura la salsa con la batidora hasta que quede fina y brillante. Rectifica de sal. Tuesta las otras 2 rebanadas de pan.",
     "Seca el bacalao, enharínalo ligeramente y márcalo en una sartén con 2 cucharadas de aceite caliente 2 minutos por el lado de la piel y 1 por el otro.",
@@ -833,7 +833,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "caballa en conserva", q: 2, u: "lata", nota: "en aceite de oliva, unos 180 g escurridos" },
@@ -854,9 +854,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas con piel en una cazuela con agua fría y sal y cuécelas 15 minutos desde que hiervan, hasta que estén tiernas. Mientras, despunta las judías verdes y córtalas en dos, pica muy fina la cebolla morada y pica el perejil y el cebollino.",
-    "A los 8 minutos añade a la misma cazuela las judías verdes y, con cuidado, los huevos: las judías quedarán verdes y al dente en 6-7 minutos, y los huevos, que sacarás a los 6 minutos y medio, con la yema cremosa.",
+    "A los 8 minutos añade a la misma cazuela las judías verdes, que quedarán verdes y al dente en 6-7 minutos. A la vez, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia, para que la yema quede cremosa.",
     "Mientras, prepara la vinagreta mezclando la mostaza, el vinagre, el zumo de limón, sal y pimienta; añade el aceite batiendo y luego la cebolla morada picada y las alcaparras. Puedes usar también 1 cucharada del aceite de la lata.",
-    "Pasa los huevos a agua fría y pélalos con cuidado. Escurre las patatas y las judías, corta las patatas en mitades y mézclalas en caliente con la mitad de la vinagreta.",
+    "Pasa los huevos a agua fría, tira su agua y pélalos con cuidado. Escurre las patatas y las judías, corta las patatas en mitades y mézclalas en caliente con la mitad de la vinagreta.",
     "Reparte en platos las patatas y las judías, la caballa en trozos grandes, el huevo partido por la mitad y el resto de la vinagreta. Acaba con perejil y cebollino picados."
   ],
   nutricion: { kcal: 580, prot: 32, hc: 35, grasa: 33 },

@@ -119,7 +119,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 65,
   dificultad: "media",
-  equipo: ["cazuela", "horno", "bol"],
+  equipo: ["cazuela", "horno", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "nabo", q: 4, u: "ud", nota: "medianos y redondos, unos 900 g en total" },
@@ -138,7 +138,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela los nabos y corta una tapa fina por arriba y otra por la base para que se sostengan de pie. Cuécelos en una cazuela grande con agua y sal. A los 2 minutos, añade a la misma cazuela el arroz y los huevos; a los 10 minutos saca los huevos a agua fría, y 2 minutos después escurre los nabos y el arroz juntos: los nabos deben dejar entrar la punta de un cuchillo con algo de resistencia (así pierden el punto picante) y el arroz quedar al dente. Mientras se cuece todo, ralla la zanahoria y pica la parte verde de la cebolleta y el eneldo.",
+    "Pela los nabos y corta una tapa fina por arriba y otra por la base para que se sostengan de pie. Cuécelos en una cazuela grande con agua y sal. A los 2 minutos, añade a la misma cazuela el arroz y, a la vez, pon los huevos a cocer 10 minutos en un cazo aparte con agua limpia; a los 10 minutos saca los huevos a agua fría y tira su agua, y 2 minutos después escurre los nabos y el arroz juntos: los nabos deben dejar entrar la punta de un cuchillo con algo de resistencia (así pierden el punto picante) y el arroz quedar al dente. Mientras se cuece todo, ralla la zanahoria y pica la parte verde de la cebolleta y el eneldo.",
     "Precalienta el horno a 190 °C. Pela y pica los huevos. Vacía los nabos templados con una cucharilla o un sacabolas, dejando paredes de 1 cm, y pica la pulpa que saques.",
     "En la misma cazuela, con la mitad de la mantequilla, rehoga a fuego medio la zanahoria, la pulpa de nabo y la cebolleta 6 minutos, hasta que estén tiernas y se haya evaporado el agua. Fuera del fuego, mezcla en la cazuela con el arroz, los huevos, dos tercios del eneldo, sal y pimienta.",
     "Rellena los nabos haciendo un pequeño montículo y colócalos en una fuente donde quepan justos; reparte el relleno sobrante alrededor. Vierte el caldo en el fondo, pon encima el resto de la mantequilla en trocitos, tapa con papel de aluminio y hornea 25 minutos. Mientras, pica el perejil.",
@@ -924,7 +924,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "caldo de verduras", q: 1000, u: "ml", nota: "casero, sin cebolla ni puerro" },
@@ -942,7 +942,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Separa las hojas del eneldo de los tallos y ata los tallos con hilo de cocina.",
-    "Pela y corta en dados la patata, la zanahoria y la chirivía. Ponlas en una cazuela con el caldo y el manojo de tallos de eneldo, lleva a hervor y cuece a fuego medio 18 minutos, hasta que la patata esté tierna. Nada más hervir, añade los huevos bien lavados y sácalos a los 10 minutos a agua fría.",
+    "Pela y corta en dados la patata, la zanahoria y la chirivía. Ponlas en una cazuela con el caldo y el manojo de tallos de eneldo, lleva a hervor y cuece a fuego medio 18 minutos, hasta que la patata esté tierna. Nada más hervir, cuece los huevos, bien lavados, 10 minutos en un cazo aparte con agua limpia y sácalos a agua fría; tira esa agua.",
     "Mientras, pela los huevos y pártelos por la mitad. Pica las hojas de eneldo.",
     "Bate el yogur con la harina de arroz y añade poco a poco un cazo de caldo caliente, batiendo, para templarlo.",
     "Retira los tallos de eneldo, vierte la mezcla de yogur en la cazuela y cuece a fuego suave 2 minutos removiendo, hasta que la sopa espese ligeramente.",

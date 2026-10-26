@@ -427,7 +427,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 400, u: "g" },
@@ -443,7 +443,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela la patata y córtala en dados de 2 cm. Ponla en una cazuela con agua fría, sal y los huevos. Cuando hierva, cuenta 10 minutos, saca los huevos a un bol con agua fría y deja la patata 2 minutos más, hasta que esté tierna sin deshacerse. Escúrrela, deja que se temple y pela los huevos.",
+    "Pela la patata y córtala en dados de 2 cm. Ponla en una cazuela con agua fría y sal y, a la vez, pon los huevos en un cazo aparte con agua limpia fría. Cuando hierva la cazuela, cuenta 12 minutos, hasta que la patata esté tierna sin deshacerse; cuando hierva el cazo, cuenta 10 minutos, saca los huevos a un bol con agua fría y tira el agua del cazo. Escurre la patata, deja que se temple y pela los huevos.",
     "Mientras se cuece, corta la remolacha en dados del mismo tamaño que la patata y guárdala aparte para que no tiña todo hasta el final.",
     "Corta la cebolla en plumas finas y el chile en tiras finas. Bate el zumo del limón con el aceite, el ajo rallado, sal y pimienta.",
     "Mezcla la patata templada con la cebolla, el chile y la mitad del aliño y deja reposar 10 minutos para que se impregne.",
@@ -1021,7 +1021,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 3,
   ingredientes: [
     { n: "patata", q: 300, u: "g" },
@@ -1042,7 +1042,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y ponlas en una cazuela con agua fría, sal y los huevos. Cuando hierva, cuenta 10 minutos, saca los huevos a un bol con agua fría y deja las patatas 2-3 minutos más, hasta que estén tiernas. Escúrrelas y pela los huevos.",
+    "Pela las patatas, córtalas en dados de 2 cm y ponlas en una cazuela con agua fría y sal. A la vez, pon los huevos en un cazo aparte con agua limpia fría. Cuando hierva la cazuela, cuenta 12-13 minutos, hasta que las patatas estén tiernas; cuando hierva el cazo, cuenta 10 minutos, saca los huevos a un bol con agua fría y tira el agua del cazo. Escurre las patatas y pela los huevos.",
     "Mientras, pela el mango y corta la pulpa en dados pequeños. Machaca en el mortero el ajo, el jengibre y un chile con una pizca de sal. En otra cazuela, lleva a ebullición 800 ml de agua con el majado, la cúrcuma, el mango y el tamarindo y cuece 10 minutos, hasta que el mango se ablande. Mientras cuece, corta la cebolla en juliana muy fina y pica el otro chile y el cilantro.",
     "Deslíe 20 g de la harina de garbanzo en el resto del agua fría y viértela en la cazuela batiendo con unas varillas. Cuece 5 minutos a fuego suave, removiendo, hasta que la sopa espese como unas natillas ligeras y tome un amarillo intenso. Añade el zumo de una lima y sal: tiene que quedar claramente ácida y picante.",
     "Para las bhajias, mezcla el resto de la harina de garbanzo con la cebolla, el chile, la mitad del cilantro, sal y 4-5 cucharadas de agua, hasta tener una masa espesa que envuelva la cebolla.",
@@ -1069,7 +1069,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "solomillo de cerdo", q: 200, u: "g" },
@@ -1089,9 +1089,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir el caldo con el jengibre en láminas, el ajo machacado y la parte blanca de las cebolletas. Deja que hierva suave 10 minutos para que se perfume.",
-    "Mientras, pon a hervir agua en otra cazuela y cuece en ella los huevos 7 minutos; sácalos a agua fría y pélalos: la yema quedará melosa. Deja esa agua al fuego para los fideos. Corta la zanahoria en juliana, trocea el pak choi y pica la parte verde de la cebolleta.",
+    "Mientras, pon a hervir agua en un cazo y cuece en él los huevos 7 minutos; sácalos a agua fría y pélalos: la yema quedará melosa. Tira esa agua y lava el cazo. Corta la zanahoria en juliana, trocea el pak choi y pica la parte verde de la cebolleta.",
     "Corta el cerdo en láminas finas, mézclalo con 1 cucharada de salsa de soja y pimienta y saltéalo en la sartén con el aceite a fuego fuerte 2 minutos, hasta que se dore.",
-    "Cuece los fideos en el agua de los huevos el tiempo que indique el paquete (3-4 minutos), escúrrelos y repártelos en dos cuencos grandes.",
+    "Pon a hervir agua nueva en el cazo y cuece los fideos el tiempo que indique el paquete (3-4 minutos), escúrrelos y repártelos en dos cuencos grandes.",
     "Añade al caldo la zanahoria y el pak choi y cuece 3 minutos. Agrega el resto de la salsa de soja y prueba de sal.",
     "Pon el cerdo sobre los fideos, vierte el caldo hirviendo con las verduras y termina con medio huevo por cuenco, la parte verde de la cebolleta y pimienta."
   ],

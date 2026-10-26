@@ -117,7 +117,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "langostinos pelados", q: 250, u: "g", nota: "crudos; si son cocidos, sáltate su cocción" },
@@ -138,8 +138,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon agua con sal a hervir en una cazuela. Cuando hierva, cuece los huevos 10 minutos. Mientras, pica muy fina la cebolleta y prepara la salsa Louie en un bol: mezcla la mayonesa, el kétchup, el rábano picante, la salsa worcestershire, el zumo de medio limón y la cebolleta. Salpimienta. Debe quedar rosada, cremosa y con un punto picante; si está muy espesa, aligérala con una cucharada de agua fría.",
-    "Saca los huevos con una espumadera a un bol con agua fría y pélalos cuando estén fríos. En la misma agua, cuece los espárragos sin la parte dura del tallo 2-3 minutos, hasta que estén tiernos pero de un verde brillante, y pásalos a un bol con agua y hielo. Después echa los langostinos y cuécelos 1-2 minutos, justo hasta que se pongan rosados y se curven en forma de C; escúrrelos y enfríalos igual.",
+    "Pon agua a hervir en un cazo. Cuando hierva, cuece en él los huevos 10 minutos. Mientras, pica muy fina la cebolleta y prepara la salsa Louie en un bol: mezcla la mayonesa, el kétchup, el rábano picante, la salsa worcestershire, el zumo de medio limón y la cebolleta. Salpimienta. Debe quedar rosada, cremosa y con un punto picante; si está muy espesa, aligérala con una cucharada de agua fría.",
+    "Saca los huevos con una espumadera a un bol con agua fría y pélalos cuando estén fríos; tira el agua del cazo. Mientras, pon agua con sal a hervir en la cazuela y cuece en ella los espárragos sin la parte dura del tallo 2-3 minutos, hasta que estén tiernos pero de un verde brillante, y pásalos a un bol con agua y hielo. Después echa los langostinos y cuécelos 1-2 minutos, justo hasta que se pongan rosados y se curven en forma de C; escúrrelos y enfríalos igual.",
     "Corta la lechuga iceberg en tiras finas y repártela en dos platos hondos como base. Corta los tomates en gajos, los huevos en cuartos y el aguacate en láminas, y rocía el aguacate con el zumo del resto del limón.",
     "Encima, coloca por grupos los tomates, los espárragos, el aguacate, los huevos y las aceitunas. Corona el centro con los langostinos.",
     "Sirve la salsa por encima justo antes de comer, o aparte para que cada uno se sirva la que quiera."

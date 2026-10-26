@@ -992,7 +992,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -1013,8 +1013,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava el arroz y cuécelo con 150 ml de agua y una pizca de sal: 12 minutos tapado a fuego mínimo y 10 de reposo.",
-    "Pela la patata y córtala en dados de 2 cm, la zanahoria en rodajas al bies y las judías en trozos de 4 cm. Cuece la patata en agua con sal 6 minutos; añade la zanahoria, las judías y los huevos, con cuidado, y cuece 6 minutos y medio más. Mientras, pela y pica el tomate y corta la cebolleta en aros.",
-    "Saca los huevos a agua muy fría y pélalos con cuidado: la clara debe estar cuajada y la yema, cremosa. Escurre las verduras, que estarán tiernas.",
+    "Pela la patata y córtala en dados de 2 cm, la zanahoria en rodajas al bies y las judías en trozos de 4 cm. Cuece la patata en agua con sal 6 minutos; añade la zanahoria y las judías y cuece 6 minutos y medio más. A la vez, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia. Mientras, pela y pica el tomate y corta la cebolleta en aros.",
+    "Saca los huevos a agua muy fría, tira su agua y pélalos con cuidado: la clara debe estar cuajada y la yema, cremosa. Escurre las verduras, que estarán tiernas.",
     "Haz la salsa bistik: calienta el aceite de oliva en una sartén a fuego medio y rehoga el tomate pelado y picado 4 minutos, aplastándolo, hasta que se deshaga. Añade el tamari, el azúcar de palma, la nuez moscada, pimienta y 150 ml de agua y hierve 3 minutos.",
     "Disuelve la maicena en 1 cucharada de agua fría, añádela y cuece 1 minuto, removiendo, hasta que la salsa brille y nape la cuchara.",
     "Pasa las verduras a la salsa y mézclalas 1 minuto para que se impregnen. Añade los huevos enteros y báñalos con la salsa 1 minuto, sin dejar que hierva fuerte.",

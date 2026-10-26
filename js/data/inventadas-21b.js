@@ -797,7 +797,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 130, u: "g" },
@@ -815,8 +815,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla y los ajos y lava las lentejas. En la cazuela con el aceite, pocha la cebolla y los ajos a fuego medio 7 minutos. Aparta del fuego y añade el pimentón y el comino.",
-    "Añade las lentejas, el laurel y 1 litro de agua. Lleva a ebullición, mete los huevos bien lavados, con su cáscara, y cuece tapado a medias 20 minutos. Mientras, pela la calabaza y córtala en dados.",
-    "A los 10 minutos, saca los huevos, enfríalos en agua fría y pélalos.",
+    "Añade las lentejas, el laurel y 1 litro de agua. Lleva a ebullición y cuece tapado a medias 20 minutos. Mientras, cuece los huevos, bien lavados, 10 minutos en un cazo aparte con agua limpia, y pela la calabaza y córtala en dados.",
+    "Saca los huevos del cazo, enfríalos en agua fría, tira el agua y pélalos.",
     "Incorpora la calabaza y cuece 12 minutos más, hasta que lentejas y calabaza estén tiernas.",
     "Añade las espinacas y deja 2 minutos, hasta que se ablanden. Sala al gusto.",
     "Sirve en plato hondo con el huevo duro picado o en cuartos por encima."
@@ -839,7 +839,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 1,
   ingredientes: [
     { n: "garbanzos cocidos", q: 200, u: "g" },
@@ -856,7 +856,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en la cazuela el caldo con el pollo, la zanahoria, el apio y el puerro enteros. Lleva a ebullición y cuece a fuego suave 20 minutos, retirando la espuma.",
-    "A los 10 minutos, mete el huevo bien lavado, con su cáscara, en el caldo. Cuando termine la cocción, sácalo, enfríalo en agua fría, pélalo y pícalo.",
+    "A los 10 minutos, cuece el huevo, bien lavado, 10 minutos en un cazo aparte con agua limpia. Sácalo, enfríalo en agua fría, tira el agua del cazo, pélalo y pícalo.",
     "Saca el pollo y las verduras. Desmenuza el pollo y corta la zanahoria en daditos.",
     "Añade al caldo los fideos y cuece 4 minutos. Incorpora los garbanzos escurridos, el pollo y la zanahoria y calienta 2 minutos más. Sala al gusto.",
     "Sirve en plato hondo con el huevo picado y la hierbabuena por encima, y unas gotas de limón si te gusta."
@@ -966,7 +966,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "judías blancas cocidas", q: 400, u: "g" },
@@ -984,8 +984,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pica la cebolla, lamina 2 ajos y pela y casca la patata. En la cazuela con el aceite, pocha la cebolla 5 minutos. Añade los ajos laminados y dóralos 1 minuto. Aparta del fuego y agrega el pimentón.",
-    "Vierte el caldo con el laurel, añade la patata y los huevos bien lavados, con su cáscara, y cuece 12 minutos. Mientras, machaca en el mortero el ajo restante con el comino y un poco de sal.",
-    "Saca los huevos y enfríalos en agua fría. Añade el majado a la cazuela con las alubias escurridas y cuece 6 minutos; mientras, pela los huevos.",
+    "Vierte el caldo con el laurel, añade la patata y cuece 12 minutos. A la vez, cuece los huevos, bien lavados, 12 minutos en un cazo aparte con agua limpia. Mientras, machaca en el mortero el ajo restante con el comino y un poco de sal.",
+    "Saca los huevos del cazo y enfríalos en agua fría; tira su agua. Añade el majado a la cazuela con las alubias escurridas y cuece 6 minutos; mientras, pela los huevos.",
     "Incorpora las espinacas y deja 2 minutos, hasta que estén tiernas. Aplasta unos trozos de patata para espesar y sala.",
     "Sirve con los huevos duros en cuartos sobre cada plato."
   ],

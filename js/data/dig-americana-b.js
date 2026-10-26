@@ -407,7 +407,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 70,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 600, u: "g", nota: "de carne firme" },
@@ -427,9 +427,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon las patatas con piel en una cazuela con agua fría y sal, lleva a hervor y cuécelas 20-25 minutos, hasta que un cuchillo entre con una ligera resistencia: si se pasan, se deshacen al mezclar. Cuando les falten 10 minutos, mete los huevos en la misma cazuela con ayuda de una cuchara.",
+    "Pon las patatas con piel en una cazuela con agua fría y sal, lleva a hervor y cuécelas 20-25 minutos, hasta que un cuchillo entre con una ligera resistencia: si se pasan, se deshacen al mezclar. Cuando les falten 10 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras se cuecen, bate la mayonesa con el yogur, la mostaza, la cucharada de líquido de los pepinillos, el azúcar y pimienta, y pica finos los pepinillos, el pimiento verde y los tallos verdes de la cebolleta.",
-    "Saca los huevos a agua fría y pélalos. Escurre las patatas, pélalas aún templadas, córtalas en dados de 2 cm y rocíalas en un bol con el vinagre y una pizca de sal. Déjalas 10 minutos: en caliente absorben el aliño y quedan sabrosas por dentro. Mientras, pica dos huevos y corta el tercero en rodajas.",
+    "Saca los huevos a agua fría, tira su agua y pélalos. Escurre las patatas, pélalas aún templadas, córtalas en dados de 2 cm y rocíalas en un bol con el vinagre y una pizca de sal. Déjalas 10 minutos: en caliente absorben el aliño y quedan sabrosas por dentro. Mientras, pica dos huevos y corta el tercero en rodajas.",
     "Mezcla con una espátula las patatas, el aliño, el huevo picado y las verduras picadas, sin romper los dados. Tapa y deja en la nevera al menos 30 minutos.",
     "Corta los tomates en rodajas, sálalos y colócalos en la base de los platos. Pon encima la ensalada, el huevo en rodajas y espolvorea el pimentón."
   ],
@@ -921,7 +921,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "muslos de pollo deshuesados", q: 250, u: "g", nota: "sin piel" },
@@ -937,7 +937,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el pollo en una cazuela con el caldo y uno de los huevos, bien lavado y con cáscara, y llévalo a un hervor suave. A los 10 minutos, saca el huevo a un cuenco con agua fría. Sigue cociendo el pollo hasta completar 25 minutos con la tapa entreabierta, desespumando, hasta que esté muy tierno. Sácalo y desmenúzalo con dos tenedores.",
+    "Pon el pollo en una cazuela con el caldo y llévalo a un hervor suave. Mientras, cuece uno de los huevos, bien lavado, 10 minutos en un cazo aparte con agua limpia, pásalo a agua fría y tira esa agua. Sigue cociendo el pollo hasta completar 25 minutos con la tapa entreabierta, desespumando, hasta que esté muy tierno. Sácalo y desmenúzalo con dos tenedores.",
     "Mientras se cuece el pollo, pela y pica el huevo duro, corta la zanahoria en dados pequeños, pica el perejil y corta en aros los tallos verdes de la cebolleta.",
     "Para los rivels, pon la harina con una pizca de sal en un bol, añade el otro huevo batido y frota la mezcla entre las yemas de los dedos hasta tener grumitos irregulares del tamaño de un grano de arroz grande.",
     "Añade al caldo la zanahoria y el azafrán y cuece 8 minutos.",
