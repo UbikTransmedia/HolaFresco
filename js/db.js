@@ -45,7 +45,7 @@
   const uid = (prefijo = "id") => prefijo + "-" + Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 7);
 
   const exportarTodo = () => {
-    const claves = ["personas", "menus", "recetasPropias", "recetasOverrides", "recetasBorradas", "ajustes", "borradorWizard", "favoritos", "listaNegra", "filtrosRecetas"];
+    const claves = ["personas", "menus", "recetasPropias", "recetasOverrides", "recetasBorradas", "ajustes", "borradorWizard", "preferenciasMenu", "favoritos", "listaNegra", "filtrosRecetas"];
     const datos = { app: "HolaFresco", version: 1, fecha: new Date().toISOString() };
     for (const k of claves) datos[k] = leer(k, null);
     return datos;

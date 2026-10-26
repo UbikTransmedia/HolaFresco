@@ -426,7 +426,7 @@
   };
 
   /* Ingredientes «notables» de una receta para medir la variedad de la semana: [clave, peso]. No cuentan la sal, el agua,
-     la pimienta ni los aceites (el aceite de ajo es la base de todo lo bajo en FODMAP); las especias y hierbas pesan menos
+     la pimienta ni los aceites (están en casi todas las recetas); las especias y hierbas pesan menos
      que los ingredientes principales (patata, huevo, pollo…), y el limón y el perejil, lo justo para que no salgan en todo. */
   const cacheNotables = new Map();
   const notables = (r) => {

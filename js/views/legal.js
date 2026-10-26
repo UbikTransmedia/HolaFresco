@@ -107,6 +107,7 @@
             ["recetador.personas", "Personas del hogar, sus datos y sus intolerancias"],
             ["recetador.menus", "Menús guardados y casillas marcadas de la lista de la compra"],
             ["recetador.borradorWizard", "Borrador del asistente de menú"],
+            ["recetador.preferenciasMenu", "Últimas preferencias elegidas en el asistente de menú"],
             ["recetador.favoritos · listaNegra", "Recetas favoritas y excluidas de los menús"],
             ["recetador.recetasPropias · recetasOverrides · recetasBorradas", "Recetas creadas, modificadas u ocultadas por ti"],
             ["recetador.filtrosRecetas", "Últimos filtros usados en el buscador"],

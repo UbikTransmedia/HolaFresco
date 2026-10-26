@@ -15,14 +15,39 @@
   ];
   const PASO_RESULTADO = PASOS.length - 1;
 
+  /* Preferencias permanentes del asistente (clave «preferenciasMenu»): lo último que el usuario ha configurado.
+     Se reutilizan como punto de partida de cada menú nuevo. Lo que es propio de UNA semana concreta no se arrastra:
+       - obligatorias (recetas fijas por día), ingredientesObligatorios («ingredientes que quieres usar») y nombre del menú;
+       - semilla (aleatoriedad de una generación concreta).
+     Todo lo demás sí: personasIds, slots (días y comidas), frecuencias, cocinas, dieta, necesidades, vetos, equipo,
+     cocciones, tupper, tiempo, contundencia, presupuesto, evitarRepetidasSemanas y permitirRepetir. */
+  const CAMPOS_DE_SEMANA = ["nombre", "obligatorias", "ingredientesObligatorios", "semilla"];
+  const soloPreferencias = (cfg) => {
+    const c = JSON.parse(JSON.stringify(cfg));
+    for (const k of CAMPOS_DE_SEMANA) delete c[k];
+    return c;
+  };
+  /* Configuración de un menú nuevo: preferencias guardadas (normalizadas, por si son de una versión antigua) o valores de fábrica.
+     Las personas que ya no existen se ignoran. */
+  const configNueva = () => {
+    const cfg = Planificador.normalizarConfig(soloPreferencias(DB.leer("preferenciasMenu", null) || {}));
+    for (const k of CAMPOS_DE_SEMANA) cfg[k] = Planificador.configPorDefecto()[k];
+    cfg.personasIds = [...new Set(Array.isArray(cfg.personasIds) ? cfg.personasIds : [])].filter((id) => Personas.porId(id));
+    return cfg;
+  };
+  const guardarPreferencias = () => DB.guardar("preferenciasMenu", soloPreferencias(st.cfg));
+
   const cargarBorrador = () => {
     const b = DB.leer("borradorWizard", null);
-    const cfg = Planificador.normalizarConfig(b && b.cfg ? b.cfg : {});
-    return { paso: b && typeof b.paso === "number" ? Math.min(b.paso, PASO_RESULTADO) : 0, cfg, resultado: b && b.resultado ? b.resultado : null };
+    if (!b) return { paso: 0, cfg: configNueva(), resultado: null };
+    const cfg = Planificador.normalizarConfig(b.cfg ? b.cfg : {});
+    return { paso: typeof b.paso === "number" ? Math.min(b.paso, PASO_RESULTADO) : 0, cfg, resultado: b.resultado ? b.resultado : null };
   };
   let st = cargarBorrador();
-  const guardarBorrador = () => DB.guardar("borradorWizard", { paso: st.paso, cfg: st.cfg, resultado: st.resultado });
-  const reiniciar = () => { st = { paso: 0, cfg: Planificador.configPorDefecto(), resultado: null }; guardarBorrador(); };
+  const guardarDatosBorrador = () => DB.guardar("borradorWizard", { paso: st.paso, cfg: st.cfg, resultado: st.resultado });
+  /* Cada cambio del usuario guarda el borrador y, además, las preferencias */
+  const guardarBorrador = () => { guardarDatosBorrador(); guardarPreferencias(); };
+  const reiniciar = () => { st = { paso: 0, cfg: configNueva(), resultado: null }; guardarDatosBorrador(); };
 
   const personasSeleccionadas = () => [...new Set(st.cfg.personasIds)].map((id) => Personas.porId(id)).filter(Boolean);
   const seleccionar = (id) => { if (!st.cfg.personasIds.includes(id)) st.cfg.personasIds.push(id); };
@@ -31,7 +56,7 @@
   const intolHogar = () => Planificador.intoleranciasGrupo(personasSeleccionadas());
 
   /* Cargar una configuración previa (desde un menú guardado) */
-  const cargarConfig = (cfg) => { st = { paso: PASO_RESULTADO, cfg: Planificador.normalizarConfig({ ...cfg, semilla: null }), resultado: null }; guardarBorrador(); };
+  const cargarConfig = (cfg) => { st = { paso: PASO_RESULTADO, cfg: Planificador.normalizarConfig({ ...cfg, semilla: null }), resultado: null }; guardarDatosBorrador(); };
 
   const chipsCheck = ({ opciones, seleccion, alCambiar, aria, deshabilitadas = [] }) => h("div.chips-check", { role: "group", "aria-label": aria }, opciones.map((o) => h("label.chip.chip-check", { class: deshabilitadas.includes(o.id) ? "deshabilitada" : "", title: o.desc || "" }, h("input", { type: "checkbox", "aria-label": o.nombre, checked: seleccion.includes(o.id), disabled: deshabilitadas.includes(o.id), onChange: (e) => alCambiar(o.id, e.target.checked) }), o.icono ? o.icono + " " : "", o.nombre)));
 
@@ -429,7 +454,7 @@
       const ok = puedeAvanzar();
       UI.append(nav,
         h("button.btn", { type: "button", disabled: st.paso === 0, onClick: () => irA(st.paso - 1) }, "← Atrás"),
-        h("button.btn.btn-suave.btn-reiniciar", { type: "button", title: "Empezar de nuevo", "aria-label": "Empezar de nuevo", onClick: async () => { if (await UI.confirmar({ titulo: "Empezar de nuevo", mensaje: "Se borrará lo que has configurado en este asistente (las personas del hogar se conservan)." })) { reiniciar(); refrescar(); } } }, h("span.reiniciar-icono", { "aria-hidden": "true" }, "↺"), h("span.reiniciar-texto", " Empezar de nuevo")),
+        h("button.btn.btn-suave.btn-reiniciar", { type: "button", title: "Empezar de nuevo", "aria-label": "Empezar de nuevo", onClick: async () => { if (await UI.confirmar({ titulo: "Empezar de nuevo", mensaje: "Se descartará el menú en curso y empezarás uno nuevo con tus preferencias guardadas (sin recetas fijas ni ingredientes a aprovechar). Las personas del hogar se conservan." })) { reiniciar(); refrescar(); } } }, h("span.reiniciar-icono", { "aria-hidden": "true" }, "↺"), h("span.reiniciar-texto", " Empezar de nuevo")),
         h("div.espaciador"),
         st.paso === PASO_RESULTADO ? h("button.btn.btn-primario", { type: "button", onClick: () => acciones.guardar && acciones.guardar() }, "💾 Guardar menú") : null,
         st.paso < PASO_RESULTADO ? h("button.btn.btn-primario", { type: "button", disabled: !ok, title: ok ? "" : motivoBloqueo(), onClick: () => { if (!ok) return UI.toast(motivoBloqueo(), "info"); if (st.paso === PASO_RESULTADO - 1) st.resultado = null; irA(st.paso + 1); } }, st.paso === PASO_RESULTADO - 1 ? "✨ Generar menú" : "Siguiente →") : null
