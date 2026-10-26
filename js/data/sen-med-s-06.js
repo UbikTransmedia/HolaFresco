@@ -779,7 +779,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "zanahoria", q: 500, u: "g" },
@@ -798,7 +798,7 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" },
   ],
   pasos: [
-    "Pela las zanahorias y córtalas en rodajas de 1 cm. Ponlas en una cazuela con agua fría y sal, y cuando hierva, añade los huevos con cuidado. Saca los huevos a los 10 minutos y pásalos a agua fría; deja la zanahoria 5 minutos más, hasta que esté muy tierna.",
+    "Pela las zanahorias y córtalas en rodajas de 1 cm. Ponlas en una cazuela con agua fría y sal, y cuando hierva, cuécelas 15 minutos, hasta que estén muy tiernas. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia y pásalos a agua fría; tira esa agua.",
     "Mientras, machaca en el mortero el ajo con la alcaravea, el cilantro molido y una pizca de sal hasta tener una pasta. Mézclala con la harissa, el zumo del limón y el aceite. Pica el perejil.",
     "Escurre la zanahoria y deja que suelte el vapor 2 minutos en el colador. Aplástala con un tenedor hasta tener un puré rústico, con trocitos, y mézclala con el aliño. Prueba de sal.",
     "Pela los huevos y córtalos en cuartos. Escurre y desmiga el atún.",

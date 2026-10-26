@@ -552,7 +552,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -570,9 +570,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto", nota: "unos granos" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 3 cm y ponlas en una cazuela con agua fría y sal. Cuando hierva, cuécelas 5 minutos, añade los huevos con cuidado y cuece todo 10 minutos más, hasta que las patatas estén tiernas pero enteras.",
+    "Pela las patatas, córtalas en dados de 3 cm y ponlas en una cazuela con agua fría y sal. Cuando hierva, cuécelas 15 minutos, hasta que estén tiernas pero enteras. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras se cuecen, pela la zanahoria y córtala en rodajas finas, pica el verde de la cebolleta y pica también el perejil para el final.",
-    "Pasa los huevos a agua fría y pélalos. Escurre las patatas y colócalas en un tupper o fuente con los huevos enteros.",
+    "Pasa los huevos a agua fría, tira el agua del cazo y pélalos. Escurre las patatas y colócalas en un tupper o fuente con los huevos enteros.",
     "En la misma cazuela, calienta los dos aceites a fuego suave y pocha la zanahoria y la cebolleta 8 minutos, sin que tomen color, hasta que la zanahoria esté tierna.",
     "Añade el laurel, el tomillo y unos granos de pimienta; aparta del fuego, incorpora el pimentón y, enseguida, el vinagre, 100 ml de agua y sal. Vuelve al fuego y hierve 3 minutos. Vierte el escabeche caliente sobre las patatas y los huevos, que los cubra lo más posible.",
     "Deja templar, tapa y refrigera al menos 2 horas (mejor de un día para otro), dándoles la vuelta una vez. Sirve los huevos partidos por la mitad, con las patatas, la zanahoria y el perejil."

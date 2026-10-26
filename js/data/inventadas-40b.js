@@ -424,7 +424,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   coccion: ["una-olla"],
   raciones: 2,
   ingredientes: [
@@ -444,7 +444,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir abundante agua con sal en una cazuela grande. Mientras se calienta, corta las judías verdes en tramos de 3 cm.",
-    "Cuando hierva, introduce los huevos con cuidado y añade la pasta; seis minutos antes del final de la pasta, incorpora las judías verdes. A los 10 minutos saca los huevos con una espumadera y enfríalos en agua fría. Mientras cuece todo, parte los tomates cherry, corta la cebolla morada en juliana fina y bate el vinagre con la mostaza, el orégano, el aceite y sal.",
+    "Cuando hierva, añade la pasta. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia; seis minutos antes del final de la pasta, incorpora las judías verdes. Pasa los huevos a agua fría y tira el agua del cazo. Mientras cuece todo, parte los tomates cherry, corta la cebolla morada en juliana fina y bate el vinagre con la mostaza, el orégano, el aceite y sal.",
     "Escurre la pasta y las judías y refréscalas con agua fría. Pela los huevos y córtalos en cuartos.",
     "Mezcla la pasta y las judías con el atún, los tomates cherry, las aceitunas, la cebolla morada y el aliño.",
     "Reparte en tuppers y coloca el huevo encima."

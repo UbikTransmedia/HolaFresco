@@ -853,7 +853,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 45,
   dificultad: "media",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de huevo", q: 180, u: "g" },
@@ -878,7 +878,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las guindillas en remojo en agua caliente. Pela el boniato, córtalo en dados y cuécelo en el caldo 15 minutos, hasta que se deshaga. Tritúralo con el caldo hasta obtener un puré fluido.",
-    "Mientras, tritura las chalotas, el ajo, el jengibre y las guindillas escurridas con 2 cucharadas de agua hasta tener una pasta (rempah). Cuece los huevos 9 minutos, enfríalos y pélalos.",
+    "Mientras, tritura las chalotas, el ajo, el jengibre y las guindillas escurridas con 2 cucharadas de agua hasta tener una pasta (rempah). Cuece los huevos 9 minutos en un cazo aparte con agua limpia, enfríalos, tira esa agua y pélalos.",
     "Corta el tofu en dados de 2 cm, sécalo y dóralo en una cazuela con 1 cucharada de aceite 6-8 minutos, hasta que esté crujiente. Resérvalo.",
     "En la misma cazuela, con el resto del aceite, sofríe la rempah a fuego medio 6 minutos, removiendo, hasta que oscurezca y el aceite se separe. Añade el curry en polvo y el miso y remueve 1 minuto.",
     "Vierte el puré de boniato y el azúcar, mezcla bien y cuece a fuego suave 8 minutos, removiendo para que no se pegue: debe quedar una salsa espesa como unas natillas ligeras. Ajusta de sal y aclara con agua si hace falta. Mientras, pon a hervir agua para los fideos, corta el chile verde en rodajas y la lima en cuñas.",

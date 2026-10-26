@@ -715,7 +715,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "sartén"],
+  equipo: ["horno", "cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "pimiento verde", q: 4, u: "ud", nota: "de tipo italiano, grandes" },
@@ -733,7 +733,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18 minutos; a los 8 minutos añade los huevos para que se cuezan a la vez 10 minutos y pásalos a agua fría.",
+    "Precalienta el horno a 200 °C. Pela las patatas, córtalas en trozos y cuécelas en agua con sal 18 minutos; a los 8 minutos, cuece los huevos 10 minutos en un cazo aparte con agua limpia y pásalos a agua fría (tira esa agua).",
     "Mientras, corta una tira a lo largo de la parte de arriba de cada pimiento para abrirlo como una barca y quítale las semillas, dejando el tallo. Ralla el manchego y pica el perejil y el cebollino.",
     "Calienta el aceite de oliva en una sartén, añade el tomate triturado, el orégano y sal y cocina 8 minutos a fuego medio, hasta que espese. Viértelo en una fuente de horno.",
     "Escurre las patatas y devuélvelas a la cazuela. Pela y pica los huevos y aplasta la patata en la misma cazuela con un tenedor, junto con el huevo, la mitad del manchego, el perejil, el cebollino, sal y pimienta.",
@@ -804,7 +804,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "lechuga romana", q: 1, u: "ud" },
@@ -822,7 +822,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en dados de 2 cm y ponlas en una cazuela con agua fría y sal. Cuando hierva, añade los huevos con cuidado y cuécelo todo 10-11 minutos; pasa los huevos a agua fría.",
+    "Pela las patatas, córtalas en dados de 2 cm y ponlas en una cazuela con agua fría y sal. Cuando hierva, cuécelas 10-11 minutos. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia desde que hierva; pásalos a agua fría y tira esa agua.",
     "Mientras se cuecen, lava la lechuga y córtala en tiras, corta el tomate en gajos y el pepino en medias lunas, y pela y ralla la zanahoria. Escurre el atún y el maíz.",
     "Bate en un bol el aceite con el vinagre y una pizca de sal: es la vinagreta.",
     "Escurre las patatas y alíñalas en templado con una cucharada de la vinagreta. Pela los huevos y córtalos en cuartos.",
@@ -1021,7 +1021,7 @@ window.RECETAS_SEED.push({
   proteina: "marisco",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "calamar", q: 300, u: "g", nota: "limpio, en anillas" },
@@ -1042,7 +1042,7 @@ window.RECETAS_SEED.push({
     "Calienta el aceite de oliva en una cazuela a fuego medio y rehoga el pimiento 4 minutos.",
     "Añade el calamar y el aceite de oliva y rehoga 3 minutos, hasta que suelte su agua. Echa el tomate y cocina 4 minutos. Aparta del fuego, añade el pimentón y remueve 10 segundos.",
     "Vierte el caldo caliente con el laurel, tapa y cuece a fuego suave 15 minutos para que el calamar se ablande.",
-    "Añade la patata, sala y mete con cuidado los huevos lavados, con su cáscara. A los 10 minutos, saca los huevos a agua fría y deja la sopa 5 minutos más, hasta que la patata esté tierna y el caldo algo espeso. Mientras, pela los huevos y pícalos.",
+    "Añade la patata, sala y cuece 15 minutos más, hasta que la patata esté tierna y el caldo algo espeso. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia, pásalos a agua fría, tira esa agua, pélalos y pícalos.",
     "Retira el laurel, prueba de sal y sirve la sopa con el huevo picado y el perejil por encima."
   ],
   nutricion: { kcal: 460, prot: 41, hc: 34, grasa: 17 },

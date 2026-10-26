@@ -856,7 +856,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "horno", "bol"],
+  equipo: ["cazuela", "horno", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "pechuga de pollo", q: 260, u: "g" },
@@ -876,7 +876,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en una cazuela el pollo con el laurel, una tira de piel de limón, sal y agua fría hasta cubrirlo. Cuando empiece a hervir, baja al mínimo y cuece 12 minutos sin que llegue a borbotear; apaga y déjalo 5 minutos en el agua.",
-    "A la vez, cuece los huevos 10 minutos en agua hirviendo y pásalos a agua fría. Precalienta el horno a 200 °C, corta el pan en dados, riégalos con media cucharada de aceite y tuéstalos en una bandeja 8 minutos, hasta que estén dorados.",
+    "A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia y pásalos a agua fría; tira esa agua. Precalienta el horno a 200 °C, corta el pan en dados, riégalos con media cucharada de aceite y tuéstalos en una bandeja 8 minutos, hasta que estén dorados.",
     "Mientras, lava la lechuga, sécala bien y córtala en juliana fina. Pica la parte verde de la cebolleta y el eneldo y corta el pepino en medias lunas.",
     "Exprime el limón y bátelo con el resto del aceite, sal y pimienta. En una fuente mezcla la lechuga con la cebolleta, el eneldo y el pepino y alíñala con la mitad del aliño.",
     "Desmenuza el pollo en tiras, pela los huevos y córtalos en cuartos, y reparte todo sobre la lechuga. Riega con el resto del aliño, añade los picatostes y el queso en lascas finas con un pelador y sirve."

@@ -14,7 +14,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "lentejas pardinas secas", q: 160, u: "g" },
@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "En una cazuela, pocha la cebolla, el pimiento y el ajo con el aceite a fuego medio 8 minutos, hasta que estén blandos. Añade el tomate rallado y cocina 4 minutos.",
     "Aparta del fuego, añade el pimentón, remueve 10 segundos y agrega las lentejas, la zanahoria y el laurel. Cubre con 1 litro de agua fría.",
     "Lleva a ebullición, baja a fuego suave y cuece tapado 25 minutos. Mientras, pela la patata y cáscala en trozos pequeños.",
-    "Añade la patata, sal y los huevos con cáscara (bien lavados), y cuece 15-20 minutos más, hasta que lentejas y patata estén tiernas y el caldo haya espesado. Saca los huevos a los 10 minutos, enfríalos bajo el grifo y pélalos. Si las lentejas se quedan secas, añade un chorrito de agua caliente.",
+    "Añade la patata y sal, y cuece 15-20 minutos más, hasta que lentejas y patata estén tiernas y el caldo haya espesado. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia, enfríalos bajo el grifo, tira esa agua y pélalos. Si las lentejas se quedan secas, añade un chorrito de agua caliente.",
     "Sirve las lentejas con un huevo duro en cuartos por plato y, si te gusta, unas gotas de vinagre."
   ],
   nutricion: { kcal: 630, prot: 30, hc: 64, grasa: 26 },
@@ -58,7 +58,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 150,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "garbanzos secos", q: 160, u: "g", nota: "en remojo desde la víspera" },
@@ -81,7 +81,7 @@ window.RECETAS_SEED.push({
     "Mientras, lava las acelgas y trocea pencas y hojas. Pica la otra media cebolla y el ajo restante, ralla el tomate y pela la patata y cáscala en trozos.",
     "En una sartén, fríe la rebanada de pan y 2 ajos con 2 cucharadas de aceite hasta que estén dorados. Májalos en el mortero o tritúralos con un poco de caldo de los garbanzos.",
     "En la misma sartén, con el resto del aceite, pocha la media cebolla y el ajo picados 8 minutos; añade el tomate rallado y cocina 5 minutos. Aparta y añade el pimentón y el comino.",
-    "Cuando los garbanzos estén casi tiernos, añade el sofrito, la patata, las pencas de acelga y los huevos con cáscara (bien lavados). Cuece 10 minutos, saca los huevos, enfríalos bajo el grifo, pélalos y pícalos. Cuece 5 minutos más, añade las hojas y la picada de pan y cuece 10 minutos, hasta que la patata esté tierna y el caldo trabado. Sala al final.",
+    "Cuando los garbanzos estén casi tiernos, añade el sofrito, la patata y las pencas de acelga. Cuece 10 minutos; mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia, enfríalos bajo el grifo, tira esa agua, pélalos y pícalos. Cuece el guiso 5 minutos más, añade las hojas y la picada de pan y cuece 10 minutos, hasta que la patata esté tierna y el caldo trabado. Sala al final.",
     "Retira el laurel y la media cebolla y sirve en plato hondo con el huevo duro picado por encima."
   ],
   nutricion: { kcal: 790, prot: 30, hc: 76, grasa: 37 },
@@ -183,7 +183,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 400, u: "g" },
@@ -198,8 +198,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y córtalas en trozos grandes; pela la cebolla y córtala en cuartos; pela la zanahoria y córtala en tres trozos. Quita las puntas a las judías y trocéalas.",
-    "Pon todo en una cazuela, cubre con agua fría con sal y lleva a ebullición. Añade los huevos con cáscara (lávalos antes) con cuidado.",
-    "Cuece a fuego medio. A los 10 minutos saca los huevos y pásalos a agua fría.",
+    "Pon todo en una cazuela, cubre con agua fría con sal y lleva a ebullición.",
+    "Cuece a fuego medio. Mientras, lava los huevos y cuécelos 10 minutos en un cazo aparte con agua limpia; pásalos a agua fría y tira esa agua.",
     "Sigue cociendo las verduras 10-12 minutos más, hasta que la patata se deje atravesar fácilmente con un cuchillo.",
     "Escurre las verduras (guarda el caldo para una sopa) y sírvelas en plato hondo con los huevos pelados en mitades. Aliña en la mesa con el aceite crudo, sal y unas gotas de vinagre al gusto, aplastando un poco la patata."
   ],
@@ -319,7 +319,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Cuece los huevos 10 minutos en una cazuela grande con agua. Mientras, lava las espinacas y pica muy fino el ajo. Saca los huevos, enfríalos en agua fría, pélalos y córtalos por la mitad.",
-    "Tira el agua de la cazuela dejando solo un dedo y escalda en ella las espinacas 2 minutos, hasta que se ablanden. Escúrrelas apretando bien y pícalas.",
+    "Tira el agua de los huevos, pon en la cazuela un dedo de agua nueva y escalda en ella las espinacas 2 minutos, hasta que se ablanden. Escúrrelas apretando bien y pícalas.",
     "Precalienta el grill del horno. En la misma cazuela, funde la mantequilla con el ajo picado 1 minuto a fuego medio. Añade la harina y tuéstala 1 minuto.",
     "Vierte la leche poco a poco removiendo con varillas y cuece 5 minutos, hasta que espese. Sazona con sal, pimienta y nuez moscada e incorpora las espinacas. Cocina 2 minutos.",
     "Pon las espinacas a la crema en una fuente, coloca encima los huevos con la yema hacia arriba y espolvorea el queso.",
@@ -751,7 +751,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
@@ -766,8 +766,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava las patatas y cuécelas enteras con piel en agua con sal, junto con las zanahorias peladas, 25 minutos, hasta que un cuchillo las atraviese sin esfuerzo. Añade los huevos los últimos 10 minutos y los guisantes los últimos 3.",
-    "Escurre todo y pasa los huevos a agua fría. Deja templar las verduras 10 minutos.",
+    "Lava las patatas y cuécelas enteras con piel en agua con sal, junto con las zanahorias peladas, 25 minutos, hasta que un cuchillo las atraviese sin esfuerzo. Añade los guisantes los últimos 3 minutos. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
+    "Escurre todo; pasa los huevos a agua fría y tira el agua del cazo. Deja templar las verduras 10 minutos.",
     "Pela las patatas y córtalas en dados pequeños; corta la zanahoria en dados más pequeños aún. Pela los huevos y pica dos de ellos.",
     "En un bol, mezcla las patatas, la zanahoria, los guisantes y el huevo picado con la sal y el vinagre. Añade la mayonesa y mezcla con cuidado, chafando un poco la patata para que quede cremosa.",
     "Pasa a una fuente, alisa y decora con tiras de piquillo, las aceitunas y el último huevo en rodajas. Refrigera al menos 15 minutos antes de servir."

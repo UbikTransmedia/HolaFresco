@@ -548,9 +548,9 @@ window.RECETAS_SEED.push({
   cocina: "europea",
   momentos: ["comida", "cena"],
   proteina: "huevo",
-  tiempo: 15,
+  tiempo: 20,
   dificultad: "fácil",
-  equipo: ["olla-express", "batidora", "sartén"],
+  equipo: ["olla-express", "batidora", "sartén", "cazo"],
   coccion: ["olla-express"],
   raciones: 2,
   ingredientes: [
@@ -573,9 +573,9 @@ window.RECETAS_SEED.push({
     "Corta el puerro (la parte blanca y la verde clara) en rodajas y lávalo en un bol con agua, porque guarda arena entre las capas. Pela el nabo y la patata y córtalos en dados de 2 cm: así bastan 5 minutos de presión.",
     "Calienta la mantequilla y el aceite en la olla destapada a fuego medio y rehoga el puerro 2 minutos, sin que tome color.",
     "Añade el nabo y la patata, remueve 1 minuto y cubre justo con el caldo. Sala.",
-    "Lava los huevos y colócalos enteros con cuidado sobre las verduras: se cocerán a la vez que la crema.",
+    "Aparte, pon los huevos en un cazo con agua limpia fría y cuécelos 10 minutos desde que hierva, a la vez que la crema.",
     "Cierra la olla a fuego fuerte; cuando suba la válvula, baja al mínimo y cuenta 5 minutos. Mientras, tuesta el pan en dados en una sartén seca para hacer picatostes y pica el cebollino.",
-    "Libera la presión bajo el grifo de agua fría, abre y pasa los huevos a un bol con agua fría: se pelarán con facilidad.",
+    "Libera la presión bajo el grifo de agua fría y abre la olla. Pasa los huevos a un bol con agua fría y tira el agua del cazo: se pelarán con facilidad.",
     "Añade la leche, la nuez moscada y la pimienta blanca y tritura hasta que la crema quede muy fina; si está espesa, aclara con un poco de caldo o agua.",
     "Pela los huevos, pícalos y sirve la crema con el huevo duro, el cebollino y los picatostes por encima."
   ],

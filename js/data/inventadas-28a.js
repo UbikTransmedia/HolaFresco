@@ -1064,7 +1064,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["olla-express", "bol"],
+  equipo: ["olla-express", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "puerro", q: 5, u: "ud", nota: "medianos" },
@@ -1081,8 +1081,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Corta la raíz y la parte verde dura de los puerros, haz un corte a lo largo sin llegar al final y lávalos bien bajo el grifo abriendo las capas para quitar la tierra.",
-    "Pon el agua en la olla, coloca el cestillo y dentro los puerros, la patata pelada en rodajas de 1 cm y los huevos enteros con cáscara bien lavados.",
-    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida y pasa los huevos a un bol con agua fría.",
+    "Pon el agua en la olla, coloca el cestillo y dentro los puerros y la patata pelada en rodajas de 1 cm. Aparte, pon los huevos en un cazo con agua limpia fría y cuécelos 10 minutos desde que hierva.",
+    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida. Pasa los huevos a un bol con agua fría y tira el agua del cazo.",
     "Mientras se enfrían, prepara la vinagreta: pica muy menudos los pimientos y la cebolleta y mézclalos en un bol con el vinagre, el aceite, el perejil picado y sal.",
     "Pela los huevos y pícalos o córtalos en cuartos.",
     "Coloca los puerros partidos por la mitad y las patatas en una fuente, reparte el huevo y riega con la vinagreta. Sirve tibio o frío."

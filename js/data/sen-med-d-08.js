@@ -493,7 +493,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -510,9 +510,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua con sal en una cazuela. Mientras, pela las patatas y córtalas en trozos de 3 cm; despunta las judías y córtalas en trozos de 4 cm.",
-    "Cuece las patatas 15 minutos; a los 5 minutos introduce los huevos con una cuchara, para que cuezan 10, y a los 7 añade las judías, para que todo termine a la vez.",
+    "Cuece las patatas 15 minutos; a los 5 minutos pon los huevos a cocer 10 minutos en un cazo aparte con agua limpia, y a los 7 añade las judías a las patatas, para que todo termine a la vez.",
     "Mientras, prepara la salsa: desmiga el pan y empápalo en el vinagre. Tritúralo con las hojas del perejil, las alcaparras, las anchoas, el aceite de oliva y 2 cucharadas de agua, hasta que quede una salsa espesa y con algo de textura.",
-    "Saca los huevos a un bol con agua fría, pélalos y pártelos por la mitad a lo largo.",
+    "Pasa los huevos a un bol con agua fría, tira el agua del cazo, pélalos y pártelos por la mitad a lo largo.",
     "Escurre las patatas y las judías y sálalas. Sirve los huevos con la yema hacia arriba, cubiertos con la salsa verde, y las verduras templadas al lado."
   ],
   nutricion: { kcal: 455, prot: 22, hc: 40, grasa: 22 },
@@ -792,7 +792,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "arroz basmati", q: 140, u: "g" },
@@ -811,9 +811,9 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir el litro de agua con sal en una cazuela. Echa el arroz y, con cuidado, los huevos, y cuécelo todo junto; saca los huevos a los 10 minutos y deja el arroz 1 minuto más.",
+    "Pon a hervir el litro de agua con sal en una cazuela. Echa el arroz y cuécelo 11 minutos. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras, pela la zanahoria y córtala en dados muy pequeños, como el pepino. Corta el jamón y el parmesano en dados de medio centímetro, los tomates en cuartos y las aceitunas en rodajas. Exprime el limón.",
-    "Escurre el arroz, pásalo por agua fría y escúrrelo muy bien. Pasa los huevos a agua fría, pélalos y trocéalos.",
+    "Escurre el arroz, pásalo por agua fría y escúrrelo muy bien. Pasa los huevos a agua fría, tira el agua del cazo, pélalos y trocéalos.",
     "Bate el zumo de limón con el aceite, sal y pimienta.",
     "Mezcla en un bol el arroz con todos los ingredientes troceados, las hojas de albahaca y el aliño. Deja reposar 10 minutos en la nevera antes de servir para que se asienten los sabores."
   ],

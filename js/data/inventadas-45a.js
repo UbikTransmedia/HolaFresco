@@ -16,7 +16,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "espárragos blancos", q: 800, u: "g", nota: "gruesos y firmes, unos 12" },
@@ -35,9 +35,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela los espárragos con un pelador desde justo debajo de la yema hacia la base, apretando cada vez más: la piel del espárrago blanco es fibrosa y, si queda, no hay cocción que la ablande. Corta 2 cm de la base y átalos en un manojo con hilo de cocina para que no se golpeen al hervir.",
-    "Pon a hervir una cazuela alta con agua, sal y una pizca de azúcar (compensa el leve amargor). Pon las patatas nuevas con piel en otro cazo con agua fría y sal y cuécelas 15-20 minutos, hasta que un cuchillo entre sin resistencia; en cuanto el agua de las patatas hierva, mete también los huevos con cuidado y cuécelos 10 minutos con ellas.",
+    "Pon a hervir una cazuela alta con agua, sal y una pizca de azúcar (compensa el leve amargor). Pon las patatas nuevas con piel en otro cazo con agua fría y sal y cuécelas 15-20 minutos, hasta que un cuchillo entre sin resistencia; a la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Cuece el manojo de espárragos 12-15 minutos según grosor, hasta que la punta de un cuchillo atraviese la base sin esfuerzo. Apaga el fuego y déjalos templar dentro de su agua: así no se secan ni se arrugan. Mientras se cuecen, pica muy fino la cebolleta, los pepinillos y el perejil.",
-    "Saca los huevos a los 10 minutos y pásalos a agua fría para que se pelen bien y la yema no se ponga verdosa. Pélalos y pícalos muy finos. Escurre las patatas cuando estén tiernas.",
+    "Cuando lleven 10 minutos, pasa los huevos a agua fría (y tira el agua del cazo) para que se pelen bien y la yema no se ponga verdosa. Pélalos y pícalos muy finos. Escurre las patatas cuando estén tiernas.",
     "En un bol, bate el vinagre con la mostaza y una pizca de sal; añade el aceite en hilo sin dejar de batir para que emulsione. Incorpora el picadillo y 2 cucharadas del agua caliente de los espárragos: templa la vinagreta y le da sabor.",
     "Escurre los espárragos, desátalos y sírvelos con las patatas abiertas por la mitad, la vinagreta tibia por encima y pimienta recién molida."
   ],

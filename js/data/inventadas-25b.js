@@ -225,7 +225,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 75,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "horno"],
+  equipo: ["cazuela", "sartén", "horno", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "placas de canelones", q: 8, u: "ud" },
@@ -243,9 +243,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir abundante agua con sal en una cazuela. Mientras se calienta, pica la cebolla fina.",
-    "Cuando hierva, cuece los huevos 10 minutos. Mientras, en una sartén con el aceite, pocha la cebolla a fuego medio-bajo 10 minutos, hasta que esté dorada y dulce.",
-    "Saca los huevos (deja el agua al fuego), enfríalos bajo el grifo, pélalos y pícalos. Cuece las placas de canelón en la misma agua según el paquete y extiéndelas sobre un paño. Precalienta el horno a 200 °C.",
+    "Pon a hervir agua en un cazo para los huevos y abundante agua con sal en una cazuela para los canelones. Mientras se calientan, pica la cebolla fina.",
+    "Cuando hierva el cazo, cuece los huevos 10 minutos. Mientras, en una sartén con el aceite, pocha la cebolla a fuego medio-bajo 10 minutos, hasta que esté dorada y dulce.",
+    "Saca los huevos, enfríalos bajo el grifo, pélalos y pícalos; tira el agua del cazo. Cuece las placas de canelón en la cazuela de agua hirviendo según el paquete y extiéndelas sobre un paño. Precalienta el horno a 200 °C.",
     "Añade a la cebolla el atún desmigado, el huevo picado y 100 g del tomate frito. Mezcla 2 minutos a fuego suave y prueba de sal: el relleno debe quedar jugoso.",
     "Para la bechamel, vacía y seca la cazuela, derrite en ella la mantequilla, añade la harina y tuéstala 2 minutos. Vierte la leche poco a poco sin dejar de remover con varillas y cuece 8 minutos, hasta que espese. Sala y añade la nuez moscada.",
     "Rellena cada placa con una cucharada de relleno, enróllala y colócala en una fuente con el resto del tomate frito en el fondo.",
@@ -876,7 +876,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 120,
   dificultad: "elaborada",
-  equipo: ["cazuela", "horno", "bol"],
+  equipo: ["cazuela", "horno", "bol", "cazo"],
   raciones: 4,
   ingredientes: [
     { n: "rigatoni", q: 170, u: "g" },
@@ -899,7 +899,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pica la cebolla y el ajo. Mezcla la ternera con el pan rallado, 1 huevo, la mitad del parmesano, sal y pimienta. Forma albondiguitas del tamaño de una avellana y dóralas en una cazuela con 2 cucharadas de aceite 4 minutos. Resérvalas.",
     "En la misma cazuela, con el resto del aceite, pocha la cebolla y el ajo 6 minutos. Vierte el vino, deja evaporar y añade el tomate y unas hojas de albahaca. Cuece 30 minutos a fuego suave. Añade las albondiguitas los últimos 10 minutos.",
-    "Mientras cuece la salsa, cuece los otros 2 huevos 10 minutos, pélalos y córtalos en rodajas. Corta la mozzarella en dados, pon a hervir agua con sal para la pasta y precalienta el horno a 190 °C.",
+    "Mientras cuece la salsa, cuece los otros 2 huevos 10 minutos en un cazo aparte con agua limpia, pélalos y córtalos en rodajas. Corta la mozzarella en dados, pon a hervir agua con sal para la pasta y precalienta el horno a 190 °C.",
     "Cuece los rigatoni la mitad del tiempo del paquete, escúrrelos y mézclalos con dos tercios de la salsa. Mezcla la ricotta con 2 cucharadas de salsa.",
     "En una fuente, pon la mitad de la pasta; reparte encima la ricotta a cucharadas, el huevo, la mitad de la mozzarella y las albondiguitas. Cubre con el resto de la pasta, el resto de la salsa, la mozzarella y el parmesano.",
     "Hornea 25 minutos, hasta que los bordes estén crujientes y el queso dorado. Deja reposar 10 minutos antes de cortar para que se asiente."

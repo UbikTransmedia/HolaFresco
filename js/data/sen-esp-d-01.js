@@ -62,7 +62,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "mero", q: 320, u: "g", nota: "2 lomos" },
@@ -77,7 +77,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua en una cazuela con cestillo de vapor. Pela las patatas, córtalas en trozos de 4 cm y cuécelas en el cestillo, tapadas, 20 minutos. Echa el huevo al agua de debajo y sácalo a los 10 minutos a un bol con agua fría.",
+    "Pon a hervir agua en una cazuela con cestillo de vapor. Pela las patatas, córtalas en trozos de 4 cm y cuécelas en el cestillo, tapadas, 20 minutos. Mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia y pásalo a un bol con agua fría; tira esa agua.",
     "Mientras, quita las semillas a los pimientos y córtalos en tiras. Ponlos en una sartén con 1 cucharadita de aceite de oliva, una pizca de sal y 3 cucharadas de agua, tapa y deja que se hagan a fuego medio-bajo 15 minutos, removiendo a ratos, hasta que estén muy blandos.",
     "Durante esa espera, pica el perejil y el cebollino, exprime el limón, seca los lomos de mero con papel y sálalos.",
     "Tritura los pimientos con el aceite de oliva, el perejil, el zumo de limón y 3–4 cucharadas de agua caliente hasta tener una crema lisa (pásala por un colador si quieres quitar los restos de piel). Prueba de sal y mantenla caliente en la sartén a fuego mínimo.",
@@ -103,7 +103,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "merluza (lomos)", q: 320, u: "g" },
@@ -120,7 +120,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua en una cazuela con cestillo de vapor. Pela las patatas, córtalas en rodajas de 1,5 cm y ponlas en el cestillo, tapadas, 18-20 minutos. Cuece a la vez el huevo en el agua de debajo 10 minutos y pásalo a agua fría.",
+    "Pon a hervir agua en una cazuela con cestillo de vapor. Pela las patatas, córtalas en rodajas de 1,5 cm y ponlas en el cestillo, tapadas, 18-20 minutos. Cuece a la vez el huevo 10 minutos en un cazo aparte con agua limpia y pásalo a agua fría; tira esa agua.",
     "Mientras, quita las semillas a los pimientos y córtalos en dados de 1 cm. Pica el cebollino, el perejil y las alcaparras.",
     "Calienta el aceite de oliva en una sartén a fuego medio y saltea los dados de pimiento con una pizca de sal 10-12 minutos, tapando a ratos, hasta que estén tiernos y con algún borde tostado.",
     "Cuando a las patatas les queden 6 minutos, sala los lomos de merluza y colócalos en el cestillo sobre las patatas. Tápalo y cuécelos 6 minutos, hasta que estén opacos y se separen en lascas.",
@@ -706,7 +706,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "plancha", "sartén"],
+  equipo: ["cazuela", "plancha", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "cogollos de lechuga", q: 4, u: "ud" },
@@ -721,9 +721,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos de 3 cm y cuécelas en agua con sal 18 minutos. A los 8 minutos, añade los huevos a la misma cazuela para que se cuezan 10 minutos.",
+    "Pela las patatas, córtalas en trozos de 3 cm y cuécelas en agua con sal 18 minutos. A los 8 minutos, pon los huevos a cocer 10 minutos en un cazo aparte con agua limpia.",
     "Mientras, quita las hojas exteriores feas de los cogollos, córtalos por la mitad a lo largo, lávalos y sécalos muy bien con papel o un paño. Corta el jamón en tiras finas y las anchoas en trozos.",
-    "Escurre las patatas y pasa los huevos a agua fría; pélalos y córtalos en cuartos.",
+    "Escurre las patatas y pasa los huevos a agua fría y tira el agua del cazo; pélalos y córtalos en cuartos.",
     "Calienta la plancha o una sartén grande a fuego fuerte, pinta el corte de los cogollos con un poco del aceite de oliva y ponlos con el corte hacia abajo. Déjalos 3-4 minutos sin moverlos, hasta que estén dorados por el corte y tibios por dentro. Sálalos poco.",
     "En una sartén pequeña, calienta el resto del aceite de oliva a fuego suave y echa el jamón 30 segundos. Aparta del fuego, añade el pimentón y el vinagre y remueve: el refrito debe quedar rojo y perfumado, sin que el pimentón se queme.",
     "Coloca los cogollos con el corte hacia arriba, las patatas y los huevos alrededor, las anchoas por encima y riega todo con el refrito caliente."
@@ -835,7 +835,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
@@ -851,7 +851,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Lava las patatas y ponlas enteras, con piel, en una cazuela con agua fría y sal. Cuando hierva, cuécelas 20–25 minutos, hasta que un cuchillo entre sin resistencia. A los 10 minutos de hervor, añade los huevos para que se cuezan 10 minutos y sácalos a agua fría.",
+    "Lava las patatas y ponlas enteras, con piel, en una cazuela con agua fría y sal. Cuando hierva, cuécelas 20–25 minutos, hasta que un cuchillo entre sin resistencia. A los 10 minutos de hervor, pon los huevos a cocer 10 minutos en un cazo aparte con agua limpia, pásalos a agua fría y tira esa agua.",
     "Mientras, pon el bacalao en un cazo cubierto de agua fría y caliéntalo a fuego suave; justo cuando vaya a hervir, apaga y déjalo 5 minutos en el agua. Escúrrelo, quítale piel y espinas y sepáralo en lascas.",
     "Durante la cocción de las patatas, pela las naranjas a lo vivo sobre un bol para recoger el zumo y córtalas en gajos. Corta lo verde de la cebolleta en aros finos y pica el perejil.",
     "Bate el zumo de naranja recogido con el vinagre, el aceite y una pizca de sal (poca: el bacalao ya sala).",

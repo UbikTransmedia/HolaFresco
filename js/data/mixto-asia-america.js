@@ -19,7 +19,7 @@ window.RECETAS_SEED.push({
   proteina: "legumbre",
   tiempo: 55,
   dificultad: "media",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "habas de soja secas", q: 120, u: "g", nota: "soja amarilla; en remojo 8–12 h (tiempo no incluido)" },
@@ -37,7 +37,7 @@ window.RECETAS_SEED.push({
     "Escúrrela, cúbrela con agua nueva en una cazuela y cuécela sin tapa a fuego medio 12–15 minutos desde que hierva, retirando la espuma. Prueba un grano: debe estar cocido pero aún firme y sin sabor a crudo. Si se queda corta sabe a judía verde cruda; si se pasa, el caldo sale pesado y con olor a soja fermentada.",
     "Escúrrela y enfríala bajo el grifo. Frota los granos entre las manos dentro de un bol con agua: las pieles suben a la superficie y las retiras volcando el agua con cuidado. No hace falta quitarlas todas, pero cuantas menos queden, más fino será el caldo.",
     "Tritura la soja con el sésamo, los piñones si los usas y los 600 ml de agua fría durante 2–3 minutos, hasta tener una crema lisa del espesor de una leche entera. Si quieres un acabado de restaurante, cuélala por un colador fino. Guárdala en la nevera al menos 30 minutos: debe servirse helada.",
-    "Mientras se enfría, pon a calentar una olla grande de agua para los fideos. Cuece el huevo 10 minutos, enfríalo en agua, pélalo y pártelo por la mitad. Corta el pepino en juliana fina y el tomate en gajos.",
+    "Mientras se enfría, pon a calentar una olla grande de agua para los fideos. Cuece el huevo 10 minutos en un cazo aparte con agua limpia, enfríalo en agua, tira esa agua, pélalo y pártelo por la mitad. Corta el pepino en juliana fina y el tomate en gajos.",
     "Cuando hierva el agua, cuece los somen el tiempo del paquete, unos 2–3 minutos. Escúrrelos y lávalos frotándolos bajo agua muy fría para quitarles el almidón: así quedan tersos y no espesan el caldo.",
     "Reparte los fideos en cuencos hondos, vierte el caldo de soja helado por encima y corona con el pepino, el tomate, medio huevo y una pizca de sésamo. En Corea la sal se pone en la mesa: cada uno sala su cuenco al gusto."
   ],

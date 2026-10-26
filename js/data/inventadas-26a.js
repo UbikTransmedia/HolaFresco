@@ -966,7 +966,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 70,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "contramuslos de pollo", q: 350, u: "g", nota: "con hueso" },
@@ -984,7 +984,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon el pollo en una cazuela con el puerro, la zanahoria, la cebolla y 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 40 minutos, hasta que la carne se separe del hueso. En los últimos 10 minutos, mete el huevo en el caldo; sácalo, enfríalo bajo el grifo, pélalo y pícalo.",
+    "Pon el pollo en una cazuela con el puerro, la zanahoria, la cebolla y 1,2 litros de agua fría. Lleva a ebullición, desespuma y cuece a fuego suave 40 minutos, hasta que la carne se separe del hueso. Mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia; enfríalo bajo el grifo, tira esa agua, pélalo y pícalo.",
     "Cuela el caldo (debe quedar unos 700 ml). Desmenuza el pollo sin piel ni huesos y reserva la mitad en tiras para la guarnición.",
     "En la cazuela limpia, derrite la mantequilla a fuego medio, añade la harina y remueve 2 minutos sin que se dore. Añade la leche poco a poco batiendo con varillas y después el caldo caliente, sin dejar de batir para que no se formen grumos.",
     "Añade la otra mitad del pollo y la zanahoria cocida, tritura con la batidora hasta que quede fino y cuece 5 minutos a fuego suave. Sazona con sal, pimienta blanca y nuez moscada.",

@@ -113,7 +113,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "media",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
@@ -131,7 +131,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Saca de la nevera el huevo de la mayonesa 30 minutos antes: con todos los ingredientes a la misma temperatura la emulsión se forma antes y se corta menos.",
-    "Cuece las patatas con piel en agua fría con sal; desde que hierva, 20-25 minutos, hasta que el cuchillo entre sin resistencia. En los últimos 10 minutos añade los 2 huevos para que cuezan a la vez y enfríalos luego en agua fría para que se pelen bien.",
+    "Cuece las patatas con piel en agua fría con sal; desde que hierva, 20-25 minutos, hasta que el cuchillo entre sin resistencia. Mientras, cuece los 2 huevos 10 minutos en un cazo aparte con agua limpia y enfríalos luego en agua fría (y tira esa agua) para que se pelen bien.",
     "Mientras se cuecen las patatas, prepara la mayonesa: pon en un bol la yema, la mostaza, una pizca de sal y una cucharadita de zumo de limón. Apoya el bol sobre un paño húmedo enrollado para que no baile.",
     "Bate con varillas y añade el aceite gota a gota al principio: la yema solo puede envolver un poco de aceite cada vez y, si echas demasiado, se corta. Cuando espese y brille (tras unos 30 ml), ya puedes verterlo en un hilo fino.",
     "Cuando esté espesa, aclárala con el resto del zumo de limón y ajusta de sal. Si se corta (se ve líquida y granulosa), pon otra yema en un bol limpio y añade la mayonesa cortada poco a poco, batiendo: se recupera. Pica fina la cebolleta y el perejil y corta los piquillos en tiras.",
@@ -581,7 +581,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 120,
   dificultad: "media",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 1,
   ingredientes: [
     { n: "carcasa de pollo", q: 2, u: "ud" },
@@ -603,7 +603,7 @@ window.RECETAS_SEED.push({
     "Calienta a fuego medio sin tapar. Al acercarse al hervor sube una espuma gris (proteínas que coagulan): retírala con una espumadera durante 5-10 minutos. Empezar en frío hace que se suelten poco a poco y se puedan quitar.",
     "Añade una zanahoria, el puerro, el apio, la cebolla partida y la pimienta en grano. Baja el fuego hasta que el caldo apenas tiemble (unos 90 °C) y cuece 1 h 30 min sin remover. Un hervor fuerte emulsiona la grasa y el caldo queda turbio.",
     "A los 30 minutos, saca el contramuslo, desmígalo y reserva la carne.",
-    "Mientras, cuece el huevo 10 minutos, enfríalo y pícalo. Corta la otra zanahoria en dados pequeños.",
+    "Mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia, enfríalo, tira esa agua y pícalo. Corta la otra zanahoria en dados pequeños.",
     "Cuela el caldo por un colador fino forrado con papel de cocina, sin apretar las verduras. Desgrásalo con un cucharón o apoyando un segundo una hoja de papel absorbente en la superficie. Ahora sí, sala al gusto.",
     "Lleva a ebullición 1 litro de caldo con la zanahoria en dados 5 minutos, añade los fideos y cuécelos el tiempo del paquete (2-4 minutos).",
     "Sirve con el pollo desmigado, el huevo picado y perejil fresco."

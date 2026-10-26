@@ -544,8 +544,8 @@ window.RECETAS_SEED.push({
     "Calienta a fuego medio-bajo y retira el kombu justo antes de que hierva, cuando aparezcan burbujas pequeñas en el fondo (unos 10 minutos). Mientras, pon a hervir agua en un cazo para los huevos y pica el cebollino.",
     "Lleva el agua a ebullición, apaga y añade los copos de bonito de golpe. Déjalos 3 minutos, hasta que se hundan, sin remover. Cuela por un colador con papel de cocina sin apretar: si lo estrujas, el dashi se enturbia y amarga.",
     "Ya tienes el dashi: el kombu aporta glutamato y el bonito inosinato, y juntos multiplican el umami. Añade la soja y el mirin, prueba y ajusta con sal.",
-    "Para el huevo mollet, cuece los huevos 6 minutos y medio en agua hirviendo, pásalos a agua con hielo 3 minutos y pélalos con cuidado: clara cuajada y yema líquida y espesa.",
-    "Hidrata los fideos de arroz en agua hirviendo fuera del fuego 5 minutos y escúrrelos.",
+    "Para el huevo mollet, cuece los huevos 6 minutos y medio en el cazo de agua hirviendo, pásalos a agua con hielo 3 minutos, tira el agua del cazo y pélalos con cuidado: clara cuajada y yema líquida y espesa.",
+    "Hidrata los fideos de arroz en agua nueva recién hervida, fuera del fuego, 5 minutos y escúrrelos.",
     "Lleva el dashi a un hervor suave, añade las almejas escurridas y tapa 2-3 minutos, hasta que se abran (descarta las que sigan cerradas). Añade las espinacas el último minuto.",
     "Reparte los fideos en los cuencos, vierte encima el caldo con las almejas y las espinacas y termina con el huevo partido, el cebollino y el sésamo."
   ],

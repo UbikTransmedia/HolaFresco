@@ -967,7 +967,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "salchicha polaca", q: 250, u: "g", nota: "biała kiełbasa (salchicha blanca) o salchicha fresca de cerdo" },
@@ -988,7 +988,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon en una cazuela 1 litro de agua con la cebolla en mitad, la zanahoria y el apio en trozos grandes, el laurel y la pimienta de Jamaica. Lleva a hervor y añade las salchichas enteras.",
-    "Cuece a fuego suave, sin que hierva fuerte, 20 minutos: las salchichas se hacen y dan sabor al caldo. Mientras, cuece los huevos 10 minutos, enfríalos y pélalos, y pica el cebollino.",
+    "Cuece a fuego suave, sin que hierva fuerte, 20 minutos: las salchichas se hacen y dan sabor al caldo. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia, enfríalos, tira esa agua y pélalos, y pica el cebollino.",
     "Saca las salchichas y córtalas en rodajas gruesas. Retira y desecha las verduras, el laurel y la pimienta: solo han servido para aromatizar.",
     "Machaca el ajo con una pizca de sal y añádelo al caldo junto con la mejorana. Cuece 3 minutos.",
     "En un bol, mezcla la nata agria con el rábano picante y unos cazos de caldo caliente para atemperarla. Viértela en la cazuela, removiendo, y calienta a fuego bajo 3-4 minutos sin que llegue a hervir, o la nata se cortará y el rábano perderá su picor.",

@@ -114,7 +114,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "contramuslos de pollo", q: 400, u: "g", nota: "con hueso y sin piel" },
@@ -139,8 +139,8 @@ window.RECETAS_SEED.push({
     "Tritura 3 chalotas con el ajo, el jengibre, la cúrcuma, el cilantro molido y 2 cucharadas de agua hasta tener una pasta fina. Corta la chalota restante en láminas finas.",
     "Fríe la chalota en láminas en la cazuela con el aceite a fuego medio 5 o 6 minutos, hasta que esté dorada. Sácala sobre papel de cocina, dejando el aceite en la cazuela.",
     "Sofríe la pasta en ese aceite a fuego medio 5 minutos, removiendo, hasta que pierda el olor a crudo y se oscurezca un poco.",
-    "Añade el pollo, la hierba limón chafada y anudada y el agua. Lleva a ebullición, espuma y cuece a fuego suave 35 minutos, hasta que la carne se separe del hueso. Lava los huevos y, cuando falten 10 minutos, mételos con cuidado en el caldo para que se cuezan con él. Mientras, corta la col en juliana fina, la cebolleta en aros y la lima en cuñas.",
-    "Saca los huevos a un cuenco con agua fría y pélalos. Saca el pollo, desmígalo descartando los huesos y devuélvelo al caldo. Retira la hierba limón y sazona con sal y pimienta blanca.",
+    "Añade el pollo, la hierba limón chafada y anudada y el agua. Lleva a ebullición, espuma y cuece a fuego suave 35 minutos, hasta que la carne se separe del hueso. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia. Mientras, corta la col en juliana fina, la cebolleta en aros y la lima en cuñas.",
+    "Pasa los huevos a un cuenco con agua fría, tira el agua del cazo y pélalos. Saca el pollo, desmígalo descartando los huesos y devuélvelo al caldo. Retira la hierba limón y sazona con sal y pimienta blanca.",
     "Pon los fideos en un bol, cúbrelos con un par de cucharones del caldo hirviendo y déjalos 4-5 minutos (o lo que indique el paquete), hasta que estén tiernos; escúrrelos devolviendo el caldo a la cazuela.",
     "Reparte en cuencos los fideos, la col y los brotes de soja y vierte encima el caldo hirviendo con el pollo: el calor los deja tiernos pero crujientes.",
     "Termina con medio huevo por cuenco, la cebolleta, la chalota frita y las cuñas de lima."
@@ -309,7 +309,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao fresco", q: 300, u: "g", nota: "o caballa, más parecida al pez gato original" },
@@ -331,8 +331,8 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Pon el agua en una cazuela con 1 tallo de hierba limón chafado y media cucharadita de cúrcuma y llévala a ebullición. Mientras se calienta, tritura la cebolla, el ajo, el jengibre y la parte tierna del otro tallo de hierba limón con 2 cucharadas de agua hasta tener una pasta, y lava los huevos.",
-    "Cuando hierva, mete los huevos con cuidado; a los 2 minutos añade el pescado y escálfalo a fuego suave 8 minutos. Saca los huevos a un cuenco con agua fría y el pescado a un plato; desmiga el pescado sin piel ni espinas y reserva el caldo.",
+    "Pon el agua en una cazuela con 1 tallo de hierba limón chafado y media cucharadita de cúrcuma y llévala a ebullición. Mientras se calienta, tritura la cebolla, el ajo, el jengibre y la parte tierna del otro tallo de hierba limón con 2 cucharadas de agua hasta tener una pasta. Pon también los huevos en un cazo con agua limpia fría y llévalos a ebullición.",
+    "Cuando hierva la cazuela, añade el pescado y escálfalo a fuego suave 8 minutos; cuando hierva el cazo, cuece los huevos 10 minutos. Pasa los huevos a un cuenco con agua fría, tira el agua del cazo y saca el pescado a un plato; desmiga el pescado sin piel ni espinas y reserva el caldo.",
     "Tuesta las dos harinas en una sartén sin aceite a fuego medio-bajo 4 o 5 minutos, removiendo sin parar, hasta que tomen color beige y huelan a fruto seco. Pásalas a un cuenco y disuélvelas con un cucharón de caldo frío o templado, sin grumos.",
     "En la cazuela vacía, sofríe la pasta con el aceite a fuego medio 8 minutos, hasta que se dore y el aceite se separe. Añade el resto de la cúrcuma, el pimentón y el pescado desmigado y remueve 1 minuto.",
     "Vierte el caldo colado y la mezcla de harinas, removiendo. Sazona con la salsa de pescado y pimienta y cuece a fuego suave 15 minutos, removiendo de vez en cuando, hasta que espese como una crema ligera.",

@@ -320,7 +320,7 @@ window.RECETAS_SEED.push({
   proteina: "cerdo",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "plancha", "bol"],
+  equipo: ["cazuela", "plancha", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "lomo de cerdo", q: 320, u: "g", nota: "en 4 filetes de 1,5 cm" },
@@ -340,9 +340,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon agua a hervir en una cazuela con cestillo de vapor. Mientras se calienta, pela las patatas y córtalas en trozos de 3 cm; pela las zanahorias y córtalas en bastones.",
-    "Cuece las patatas al vapor, tapadas, 18-20 minutos; a los 6 minutos pon los huevos enteros en el cestillo y a los 8, las zanahorias.",
+    "Cuece las patatas al vapor, tapadas, 18-20 minutos; a los 8 minutos añade las zanahorias. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras se cuecen, pica muy finos el perejil, el cebollino y las alcaparras, ralla la piel del limón, exprime la mitad y corta el otro medio limón en gajos. Sala los filetes de lomo.",
-    "Saca los huevos, enfríalos bajo el grifo, pélalos y pícalos con un cuchillo. Mézclalos en un bol con las hierbas, las alcaparras, la mostaza, el zumo y la ralladura, 2 cucharaditas de aceite, sal y una pizca de pimienta. Debe quedar gruesa; si está seca, añade una cucharada de agua.",
+    "Enfría los huevos bajo el grifo, tira el agua del cazo, pélalos y pícalos con un cuchillo. Mézclalos en un bol con las hierbas, las alcaparras, la mostaza, el zumo y la ralladura, 2 cucharaditas de aceite, sal y una pizca de pimienta. Debe quedar gruesa; si está seca, añade una cucharada de agua.",
     "Calienta la plancha a fuego medio-alto con unas gotas de aceite y cocina el lomo 2-3 minutos por cada lado, hasta que esté dorado y apenas rosado en el centro. Mientras reposa 2 minutos, escurre las verduras y alíñalas con el aceite restante, las hojas de tomillo y sal.",
     "Sirve el lomo con la salsa de huevo por encima, las patatas y las zanahorias y los gajos de limón."
   ],
@@ -839,7 +839,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "plancha", "bol"],
+  equipo: ["cazuela", "plancha", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "pechuga de pollo", q: 280, u: "g" },
@@ -857,7 +857,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua con sal en una cazuela. Mientras, corta con piel en dados de 2 cm las patatas bien lavadas. Cuécelas 12 minutos, hasta que estén tiernas, y sácalas con una espumadera; en la misma agua, cuece los huevos 6 minutos y medio, pásalos a agua fría y pélalos.",
+    "Pon a hervir agua con sal en una cazuela. Mientras, corta con piel en dados de 2 cm las patatas bien lavadas. Cuécelas 12 minutos, hasta que estén tiernas, y sácalas con una espumadera. Aparte, en un cazo con agua limpia, cuece los huevos 6 minutos y medio, pásalos a agua fría, tira esa agua y pélalos.",
     "Mientras se cuecen las patatas, corta la pechuga en filetes de 1 cm, ralla la piel de medio limón y mezcla el pollo en un bol con el aceite de oliva, la ralladura, las hojas de tomillo, sal y pimienta.",
     "Pela la naranja a lo vivo sobre un bol para recoger el zumo y separa los gajos. Bate ese zumo con el zumo de medio limón, el aceite de oliva, sal y pimienta. Lava y escurre los canónigos y la lechuga, trocea la lechuga y trocea las nueces.",
     "Calienta la plancha a fuego medio-alto y asa el pollo 3 minutos por cada lado, hasta que esté dorado y jugoso. Córtalo en tiras.",

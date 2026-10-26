@@ -967,7 +967,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "bol"],
+  equipo: ["cazuela", "batidora", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 450, u: "g" },
@@ -983,9 +983,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las patatas enteras con piel y la zanahoria pelada en agua con sal 25 minutos, hasta que estén tiernas. Añade 2 huevos los últimos 10 minutos y los guisantes los últimos 3.",
+    "Cuece las patatas enteras con piel y la zanahoria pelada en agua con sal 25 minutos, hasta que estén tiernas. Añade los guisantes los últimos 3 minutos. Mientras, cuece los 2 huevos 10 minutos en un cazo aparte con agua limpia.",
     "Mientras cuecen, haz la mayonesa con la batidora: el huevo crudo, unas gotas de limón, sal y el aceite, batiendo desde el fondo sin mover hasta que emulsione.",
-    "Escurre y enfría todo en agua fría. Pela las patatas y los huevos.",
+    "Escurre y enfría todo en agua fría; tira el agua de cocción de los huevos. Pela las patatas y los huevos.",
     "Corta las patatas y la zanahoria en dados pequeños y pica uno de los huevos duros.",
     "Mezcla en un bol las patatas, la zanahoria, los guisantes, el huevo picado y el bonito desmigado con dos tercios de la mayonesa. Prueba de sal.",
     "Alisa la ensaladilla en una fuente, cúbrela con el resto de la mayonesa y decora con el otro huevo en rodajas, las aceitunas y tiras de piquillo.",

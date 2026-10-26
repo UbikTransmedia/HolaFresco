@@ -54,7 +54,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 70,
   dificultad: "fácil",
-  equipo: ["horno", "sartén", "cazuela"],
+  equipo: ["horno", "sartén", "cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "ternera picada", q: 250, u: "g" },
@@ -74,7 +74,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos. En el mismo cazo, los últimos 10 minutos, cuece el huevo.",
+    "Pela y trocea las patatas y cuécelas en agua con sal 20 minutos. Mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia, enfríalo en agua fría y tira esa agua.",
     "Mientras, pica la cebolla y el pimiento y póchalos en una sartén con el aceite a fuego medio 10 minutos, hasta que estén blandos. Precalienta el horno a 200 °C con grill.",
     "Sube el fuego, añade la carne con sal y pimienta y deshazla con la cuchara 6-8 minutos, hasta que pierda el color rosado. Añade el pimentón y el comino y cocina 1 minuto más.",
     "Escurre las patatas, pela el huevo y aplasta las patatas con la leche caliente y la mantequilla hasta tener un puré firme. Pica el huevo duro y corta las aceitunas en rodajas.",

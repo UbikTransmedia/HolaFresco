@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "zanahoria", q: 500, u: "g" },
@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua abundante con sal en una cazuela. Mientras, pela las zanahorias y córtalas en rodajas de 1 cm, y pela las patatas y córtalas en trozos de 3 cm.",
-    "Echa en el agua hirviendo las zanahorias, las patatas y los huevos. A los 10 minutos saca los huevos a un bol con agua fría y deja las verduras 3-5 minutos más, hasta que estén tiernas pero enteras.",
+    "Echa en el agua hirviendo las zanahorias y las patatas y cuécelas 13-15 minutos, hasta que estén tiernas pero enteras. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia y pásalos a un bol con agua fría; tira esa agua.",
     "Mientras se cuecen, prepara el aliño en un bol grande: mezcla el aceite de oliva, el vinagre, el comino, el orégano, el pimentón, sal y 3 cucharadas del agua de cocción. Pica el perejil.",
     "Escurre las zanahorias y las patatas y mézclalas en caliente con el aliño, que así lo absorben mejor. Déjalas reposar al menos 15 minutos (si puedes, una hora o de un día para otro en la nevera).",
     "Mientras reposan, pela los huevos y córtalos en cuartos.",

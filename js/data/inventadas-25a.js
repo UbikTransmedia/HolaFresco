@@ -777,7 +777,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "arroz basmati", q: 140, u: "g" },
@@ -796,7 +796,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon la merluza en una sartén con la leche, el laurel y 200 ml de agua. Calienta hasta que empiece a temblar y escalfa 5 minutos a fuego suave, hasta que se separe en lascas. Saca el pescado y guarda el líquido colado.",
-    "Cuece los huevos 8 minutos. Mientras, pica fina la cebolla y el perejil y lava el arroz. Enfría los huevos, pélalos y córtalos en cuartos.",
+    "Cuece los huevos 8 minutos en un cazo con agua limpia. Mientras, pica fina la cebolla y el perejil y lava el arroz. Enfría los huevos, tira el agua, pélalos y córtalos en cuartos.",
     "En una cazuela, derrite la mantequilla y pocha la cebolla a fuego medio-bajo 8 minutos, hasta que esté dorada y blanda. Añade el curry y remueve 1 minuto.",
     "Incorpora el arroz y remueve para que se impregne. Vierte 300 ml del líquido de escalfar (completa con agua si falta), sala y cuece tapado a fuego suave 12 minutos. Mientras, desmenuza la merluza en lascas grandes. Deja reposar el arroz 5 minutos.",
     "Mezcla la merluza con el arroz con un tenedor, con suavidad. Añade el perejil picado, pimienta y el zumo de medio limón.",

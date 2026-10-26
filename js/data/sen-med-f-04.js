@@ -674,7 +674,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 400, u: "g" },
@@ -694,7 +694,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir dos dedos de agua en una cazuela con una vaporera encima. Mientras se calienta, pela las patatas y córtalas en rodajas de 1,5 cm; pela las zanahorias y córtalas en bastones; quita las puntas a las judías verdes y pártelas por la mitad.",
-    "Pon en la vaporera las patatas, las zanahorias y los huevos enteros, tapa y cuece 15 minutos; a los 7 minutos añade las judías. A los 12 minutos, saca los huevos y pásalos a agua fría.",
+    "Pon en la vaporera las patatas y las zanahorias, tapa y cuece 15 minutos; a los 7 minutos añade las judías. Mientras, cuece los huevos 12 minutos en un cazo aparte con agua limpia, pásalos a agua fría y tira esa agua.",
     "Mientras, tuesta las almendras en una sartén en seco 2 minutos y resérvalas. Pica el eneldo y el cebollino y mezcla en un bol el yogur con el eneldo, el zumo del medio limón, sal y pimienta: es la salsa.",
     "Pela los huevos y córtalos en cuartos.",
     "Calienta el aceite de oliva en la sartén a fuego bajo 30 segundos, apártala del fuego, añade el pimentón y remueve 10 segundos.",

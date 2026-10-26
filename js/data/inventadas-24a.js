@@ -475,7 +475,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao desalado", q: 200, u: "g", nota: "vale bacalao desmigado desalado" },
@@ -490,8 +490,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas y córtalas en trozos. Ponlas en una cazuela con agua fría y el laurel y lleva a ebullición. Cuando hierva, añade los huevos y cuece todo 20 minutos a fuego medio. Mientras, machaca los ajos con una pizca de sal en un mortero hasta hacer una pasta.",
-    "A los 10 minutos, saca los huevos, enfríalos en agua fría y pélalos.",
+    "Pela las patatas y córtalas en trozos. Ponlas en una cazuela con agua fría y el laurel y lleva a ebullición. Cuando hierva, cuece todo 20 minutos a fuego medio. A la vez, pon los huevos en un cazo aparte con agua limpia y cuécelos 10 minutos desde que hierva. Mientras, machaca los ajos con una pizca de sal en un mortero hasta hacer una pasta.",
+    "A los 10 minutos, pasa los huevos a agua fría, tira el agua del cazo y pélalos.",
     "Añade el bacalao al agua de las patatas y cuece 5 minutos más, hasta que las patatas estén muy tiernas y el bacalao se deshaga en láminas.",
     "Escurre reservando un vaso del agua de cocción. Quita la piel y las espinas al bacalao.",
     "En la misma cazuela, maja las patatas, el bacalao y el ajo con un tenedor o mano de mortero, añadiendo el aceite en hilo y un poco del agua de cocción, hasta lograr una pasta cremosa y algo rústica. Prueba de sal.",

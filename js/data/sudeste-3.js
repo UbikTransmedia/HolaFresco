@@ -947,7 +947,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 3,
   ingredientes: [
     { n: "fideos de arroz", q: 160, u: "g", nota: "finos" },
@@ -968,10 +968,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" }
   ],
   pasos: [
-    "Pon a calentar abundante agua para los huevos, las judías y los fideos. Mientras, tritura la parte tierna de la hierba limón, el jengibre, las chalotas y la mitad de la caballa con 4 cucharadas de la leche de coco hasta tener una pasta fina.",
+    "Pon a calentar agua en un cazo para los huevos y abundante agua en otra cazuela para las judías y los fideos. Mientras, tritura la parte tierna de la hierba limón, el jengibre, las chalotas y la mitad de la caballa con 4 cucharadas de la leche de coco hasta tener una pasta fina.",
     "Calienta en la cazuela 4 cucharadas de la parte más espesa de la leche de coco a fuego medio hasta que burbujee y suelte su grasa, unos 2 minutos. Añade la pasta de curry y fríela 2 minutos, removiendo, hasta que huela intensamente.",
     "Incorpora la pasta de pescado y remueve 2 minutos. Vierte el resto de la leche de coco, 150 ml de agua, las hojas de lima rasgadas, la salsa de pescado y el azúcar, y cuece a fuego suave 10 minutos, removiendo a menudo, hasta que la salsa espese y asome una grasa rojiza en la superficie.",
-    "Mientras cuece la salsa, cuece los huevos 9 minutos en el agua hirviendo, enfríalos y pártelos por la mitad. Corta las judías en trozos de 3 cm y escáldalas 2 minutos en esa misma agua; en ella cuece después los fideos 3-4 minutos (o según el envase), escúrrelos y enjuágalos con agua fría. Corta el pepino en rodajas.",
+    "Mientras cuece la salsa, cuece los huevos 9 minutos en el cazo, enfríalos, tira esa agua y pártelos por la mitad. Corta las judías en trozos de 3 cm y escáldalas 2 minutos en el agua hirviendo de la otra cazuela; en ella cuece después los fideos 3-4 minutos (o según el envase), escúrrelos y enjuágalos con agua fría. Corta el pepino en rodajas.",
     "Añade a la salsa el resto de la caballa en lascas grandes y calienta 2 minutos sin remover mucho, para que no se deshaga. Prueba: debe ser salada, especiada y algo dulce.",
     "Forma nidos de fideos en cada plato, vierte la salsa caliente por encima y acompaña con el huevo, las judías, los brotes de soja crudos, el pepino y las hojas de albahaca, que se mezclan con cada bocado."
   ],

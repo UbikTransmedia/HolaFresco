@@ -14,7 +14,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 50,
   dificultad: "media",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 3,
   ingredientes: [
     { n: "pechuga de pollo", q: 300, u: "g" },
@@ -35,8 +35,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon en la cazuela la pechuga y las patatas con piel, cúbrelas con agua con sal (unos 700 ml) y cuece a fuego suave. A los 10 minutos, añade el huevo. Mientras, pon a cocer el arroz en agua con sal 16-18 minutos y escúrrelo; pica la cebolla y el ajo y remoja el pan en la leche.",
-    "A los 15 minutos, saca la pechuga y déjala templar en un plato. A los 20, saca el huevo y las patatas, que deben pincharse sin resistencia. Pasa el caldo a una jarra y guárdalo.",
+    "Pon en la cazuela la pechuga y las patatas con piel, cúbrelas con agua con sal (unos 700 ml) y cuece a fuego suave. Mientras, pon a cocer el arroz en agua con sal 16-18 minutos y escúrrelo; cuece también el huevo 10 minutos en un cazo aparte con agua limpia, enfríalo en agua fría, tira esa agua; pica la cebolla y el ajo y remoja el pan en la leche.",
+    "A los 15 minutos, saca la pechuga y déjala templar en un plato. A los 20, saca las patatas, que deben pincharse sin resistencia. Pasa el caldo a una jarra y guárdalo.",
     "En la misma cazuela, pocha la cebolla y el ajo en el aceite a fuego suave 10 minutos, hasta que estén muy blandos. Mientras, deshilacha la pechuga con dos tenedores y pela el huevo. Añade el ají amarillo y cocina 3 minutos.",
     "Tritura el pan con la leche y las nueces y añádelo a la cazuela. Cocina 5 minutos removiendo, añadiendo caldo poco a poco, hasta tener una crema espesa que cubra la cuchara.",
     "Incorpora el pollo deshilachado y el parmesano, remueve 3 minutos y ajusta de sal y pimienta. Debe quedar cremoso, ni seco ni caldoso.",

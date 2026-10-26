@@ -551,7 +551,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -569,7 +569,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir agua en una cazuela con cestillo de vapor. Pela las patatas y córtalas en rodajas de 1 cm.",
     "Pon las patatas en el cestillo, tapa y cuécelas 8 minutos. Mientras, despunta las judías verdes y córtalas en trozos de 4 cm, y pela la zanahoria y córtala en bastones.",
-    "Añade al cestillo las judías, la zanahoria y los huevos enteros, tapa y cuece 6 minutos y medio; saca los huevos y pásalos a agua fría. Deja las verduras 3-4 minutos más, tapadas, hasta que todo esté tierno.",
+    "Añade al cestillo las judías y la zanahoria, tapa y cuece 6 minutos y medio. A la vez, cuece los huevos 6 minutos y medio en un cazo aparte con agua limpia, pásalos a agua fría y tira esa agua. Deja las verduras 3-4 minutos más, tapadas, hasta que todo esté tierno.",
     "Mientras se cuecen, prepara la salsa verde: pica muy fino el perejil, las alcaparras y las anchoas y mézclalo en un bol con el aceite de oliva, el zumo de limón y una pizca de pimienta.",
     "Pela los huevos con cuidado bajo el grifo y córtalos por la mitad: la yema debe estar líquida y la clara cuajada.",
     "Reparte las verduras al vapor en los platos, sala ligeramente, coloca los huevos encima y riega todo con la salsa verde."

@@ -464,7 +464,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["olla-express"],
+  equipo: ["olla-express", "cazo"],
   coccion: ["olla-express"],
   tupper: true,
   raciones: 2,
@@ -486,10 +486,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Corta la zanahoria, el puerro, el apio, las judías y el repollo en juliana: tiras finas de unos 5 cm y 2-3 mm de grosor. Que todas tengan el mismo tamaño es lo que hace que se cuezan a la vez y la sopa quede elegante. Pela la patata y córtala en dados pequeños.",
     "Calienta el aceite en la olla abierta a fuego medio y rehoga el puerro y la zanahoria 3 minutos, sin que tomen color, para que suelten su dulzor.",
-    "Añade el resto de verduras, la patata, el caldo y sal. Coloca el cestillo o la rejilla encima y pon los huevos crudos dentro.",
+    "Añade el resto de verduras, la patata, el caldo y sal. Aparte, pon los huevos en un cazo con agua limpia fría y cuécelos 10 minutos desde que hierva.",
     "Cierra la olla y, cuando suba la válvula, cuenta 4 minutos a presión alta con el fuego bajo, solo lo justo para mantener la presión.",
-    "Apaga y despresuriza de forma rápida (abriendo la válvula o enfriando la tapa bajo el grifo): si dejas que baje sola, las verduras se pasan y los huevos tendrán un aro verde en la yema.",
-    "Pasa los huevos a un bol con agua fría para cortar la cocción. Con la olla abierta, lleva la sopa a ebullición, añade los fideos y cuécelos 3 minutos. Mientras, pica el perejil.",
+    "Apaga y despresuriza de forma rápida (abriendo la válvula o enfriando la tapa bajo el grifo): si dejas que baje sola, las verduras se pasan.",
+    "Pasa los huevos a un bol con agua fría para cortar la cocción y tira el agua del cazo. Con la olla abierta, lleva la sopa a ebullición, añade los fideos y cuécelos 3 minutos. Mientras, pica el perejil.",
     "Pela los huevos, pícalos y sirve la sopa con el huevo y el perejil por encima."
   ],
   nutricion: { kcal: 427, prot: 14, hc: 50, grasa: 19 },

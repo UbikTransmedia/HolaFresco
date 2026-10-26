@@ -1061,7 +1061,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "acelgas", q: 500, u: "g" },
@@ -1079,8 +1079,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava las acelgas y separa las pencas de las hojas. Quita los hilos a las pencas y córtalas en trozos de 2 cm; trocea las hojas. Pela la patata y córtala en dados de 2 cm, corta el puerro en rodajas y lamina el ajo. Lava bien los huevos.",
-    "Calienta 1 cucharada de aceite en una olla a fuego medio y pocha el puerro, el ajo y las pencas 6 minutos, hasta que estén blandos. Añade la patata y el caldo, sala y, cuando hierva, mete los huevos enteros con cuidado. Cuece 15 minutos.",
-    "Mientras, tuesta las almendras en una sartén sin aceite 2 minutos y apártalas. A los 10 minutos de cocción, saca los huevos con una espumadera, pásalos a agua fría, pélalos y pícalos.",
+    "Calienta 1 cucharada de aceite en una olla a fuego medio y pocha el puerro, el ajo y las pencas 6 minutos, hasta que estén blandos. Añade la patata y el caldo, sala y, cuando hierva, cuece 15 minutos. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
+    "Mientras, tuesta las almendras en una sartén sin aceite 2 minutos y apártalas. A los 10 minutos, pasa los huevos a agua fría, tira el agua del cazo, pélalos y pícalos.",
     "Añade las hojas de acelga a la olla y cuece 4 minutos más. Tritura con el zumo del medio limón y 1 cucharada de aceite hasta tener una crema fina. Ajusta de sal, pimienta y espesor con un poco de agua si hace falta.",
     "En la misma sartén, ya fuera del fuego, templa la cucharada de aceite restante, añade el pimentón y remueve 10 segundos.",
     "Sirve la crema con el huevo picado, las almendras y unas gotas del aceite de pimentón."

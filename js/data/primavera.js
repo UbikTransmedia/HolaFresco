@@ -672,7 +672,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 20,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 1,
   ingredientes: [
     { n: "rabanitos", q: 200, u: "g" },
@@ -687,7 +687,7 @@ window.RECETAS_SEED.push({
     { n: "pimienta negra", u: "al gusto" }
   ],
   pasos: [
-    "Cuece las patatas nuevas con piel en agua con sal 15 a 18 minutos, hasta que estén tiernas. A los 6 minutos, mete los huevos con cuidado en la misma cazuela y cuécelos 10 minutos; sácalos con una espumadera y enfríalos en agua fría.",
+    "Cuece las patatas nuevas con piel en agua con sal 15 a 18 minutos, hasta que estén tiernas. A los 6 minutos, pon a cocer los huevos 10 minutos en un cazo aparte con agua limpia; enfríalos en agua fría y tira esa agua.",
     "Mientras, corta los rabanitos en rodajas finas, el pepino en medias lunas y la cebolleta en aros finos, también la parte verde. Pica el eneldo.",
     "Pela los huevos y pícalos en trozos grandes.",
     "Mezcla en un bol los rabanitos, el pepino, la cebolleta, los huevos y casi todo el eneldo.",

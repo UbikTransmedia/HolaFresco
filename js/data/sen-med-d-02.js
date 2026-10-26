@@ -671,7 +671,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "bol"],
+  equipo: ["cazuela", "sartén", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "cogollos de lechuga", q: 4, u: "ud" },
@@ -691,7 +691,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon agua con sal a hervir en un cazo. Lava las patatas, pártelas por la mitad y cuécelas 15-18 minutos, hasta que estén tiernas. Mientras empiezan a cocer, pela la zanahoria y córtala en rodajas finas, y corta los cogollos por la mitad a lo largo; lávalos sin que se separen las hojas y escúrrelos bien.",
     "Calienta el aceite de oliva en una sartén amplia con tapa a fuego medio y dora los cogollos por el lado del corte 3 minutos. Dales la vuelta, añade la zanahoria, el tomillo, los 150 ml de agua y sal, tapa y brasea a fuego suave 10-12 minutos, hasta que los cogollos estén tiernos y la zanahoria hecha.",
-    "Cuando a las patatas les falten 6 minutos, mete los huevos en el cazo con cuidado y cuécelos 6 minutos exactos; pásalos a agua fría y pélalos.",
+    "Cuando a las patatas les falten 6 minutos, cuece los huevos 6 minutos exactos en otro cazo con agua limpia ya hirviendo; pásalos a agua fría, tira esa agua y pélalos.",
     "Mientras, pica las alcaparras, el perejil y el cebollino, ralla el parmesano y mezcla las hierbas y las alcaparras con el zumo del medio limón y el aceite de oliva.",
     "Escurre las patatas. Sirve los cogollos con la zanahoria y su jugo, las patatas, el huevo abierto por la mitad, el aliño por encima y el parmesano."
   ],

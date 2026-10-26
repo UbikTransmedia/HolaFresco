@@ -130,7 +130,7 @@ window.RECETAS_SEED.push({
     "Cuece los huevos 10 minutos desde que hierva el agua, enfríalos en agua fría y pártelos en cuartos.",
     "Mientras se cuecen, prepara la salsa golf mezclando la mayonesa, el kétchup, el zumo de naranja y unas gotas de lima. Es una salsa inventada en Mar del Plata en los años 20: el cítrico la aligera y evita que resulte empalagosa.",
     "Corta los palmitos en rodajas gruesas al bies y los cherrys por la mitad. Corta la lechuga en tiras.",
-    "Si los langostinos están crudos, cuécelos 2 minutos en agua hirviendo con sal y enfríalos. Sécalos bien para que la salsa se adhiera.",
+    "Si los langostinos están crudos, cuécelos 2 minutos en agua nueva hirviendo con sal y enfríalos. Sécalos bien para que la salsa se adhiera.",
     "Corta el aguacate en dados y rocíalo con zumo de lima para que no se oscurezca.",
     "Monta en los platos una cama de lechuga, reparte los palmitos, los cherrys, el aguacate, los huevos y los langostinos, y sirve la salsa golf por encima o aparte."
   ],
@@ -1021,7 +1021,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "fideos de ramen", q: 160, u: "g" },
@@ -1039,8 +1039,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir agua abundante en una cazuela: te servirá para los huevos y luego para los fideos. Mientras se calienta, pica la cebolla y el ajo.",
-    "Huevos de ramen: cuando hierva, hiérvelos exactamente 6 minutos y medio y pásalos a agua con hielo; deja el agua al fuego mínimo para los fideos. Mientras se cuecen, sofríe en otra cazuela la cebolla y el ajo en el aceite 5 minutos, hasta que estén blandos. Pela los huevos con cuidado: tendrán la clara cuajada y la yema líquida y espesa.",
+    "Pon a hervir agua abundante en una cazuela para los fideos y, en un cazo aparte, agua limpia para los huevos. Mientras se calienta, pica la cebolla y el ajo.",
+    "Huevos de ramen: cuando hierva el cazo, hiérvelos exactamente 6 minutos y medio y pásalos a agua con hielo; tira esa agua y deja la cazuela grande al fuego mínimo para los fideos. Mientras se cuecen, sofríe en otra cazuela la cebolla y el ajo en el aceite 5 minutos, hasta que estén blandos. Pela los huevos con cuidado: tendrán la clara cuajada y la yema líquida y espesa.",
     "Añade el tomate al sofrito y cocina 5 minutos, hasta que se oscurezca un poco. Vierte el caldo y la soja y cuece 8 minutos; mientras, ralla el parmesano. La soja aporta el umami del caldo de ramen y se entiende de maravilla con el tomate.",
     "Aparta del fuego y añade el parmesano removiendo hasta que se funda: espesa y redondea el caldo como el tare en un ramen japonés. Prueba de sal.",
     "Sube el fuego del agua y cuece en ella los fideos de ramen, sin sal, 3 minutos (o lo que diga el paquete). Cuécelos aparte para que el almidón no enturbie y espese el caldo.",

@@ -854,7 +854,7 @@ window.RECETAS_SEED.push({
   proteina: "mixto",
   tiempo: 45,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "conejo troceado", q: 500, u: "g" },
@@ -872,10 +872,10 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos de 3 cm y cuécelas en una cazuela con agua y sal 18 minutos. Cuando lleven 8 minutos, añade los huevos con una cuchara para que se cuezan 10 minutos en la misma agua.",
+    "Pela las patatas, córtalas en trozos de 3 cm y cuécelas en una cazuela con agua y sal 18 minutos. Cuando lleven 8 minutos, pon los huevos a cocer 10 minutos en un cazo aparte con agua limpia.",
     "Mientras tanto, seca el conejo y salpimiéntalo. Calienta 2 cucharadas de aceite de oliva en una sartén con tapa a fuego medio-alto, añade el romero y dora el conejo 5 minutos. Baja el fuego, tapa y cocínalo 15 minutos, dándole la vuelta de vez en cuando, hasta que esté hecho y dorado.",
     "Mientras se hace el conejo, corta el tomate en gajos y la lechuga en tiras, y escurre las alcaparras.",
-    "Pasa los huevos a agua fría, pélalos y córtalos en cuartos. Escurre las patatas.",
+    "Pasa los huevos a agua fría, tira el agua del cazo, pélalos y córtalos en cuartos. Escurre las patatas.",
     "Saca el conejo y, cuando se pueda tocar, desmenuza la carne en tiras retirando los huesos. Pon la sartén a fuego medio, echa el vinagre y 2 cucharadas de agua, raspa el fondo y añade la otra cucharada de aceite de oliva: es una vinagreta tibia con el sabor del romero.",
     "Monta la ensalada con la lechuga, las patatas, el tomate, las aceitunas, las alcaparras y el conejo, y riégala con la vinagreta tibia. Termina con los huevos y pimienta."
   ],

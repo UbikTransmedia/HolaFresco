@@ -14,7 +14,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén", "batidora"],
+  equipo: ["cazuela", "sartén", "batidora", "cazo"],
   raciones: 3,
   ingredientes: [
     { n: "pechuga de pollo", q: 300, u: "g" },
@@ -37,8 +37,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon la pechuga y la patata con piel en una cazuela con 600 ml de agua, sal y media cebolla. Cuece a fuego suave 20-25 minutos; a los 10 minutos añade el huevo. Mientras se cuece todo, remoja el pan desmigado en la leche y pica muy finos la otra media cebolla y el ajo.",
-    "Saca el huevo cuando lleve 10 minutos, el pollo cuando esté hecho por dentro (a los 20 minutos) y la patata cuando un cuchillo entre sin resistencia. Deja templar el pollo y deshiláchalo con dos tenedores. Guarda el caldo.",
+    "Pon la pechuga y la patata con piel en una cazuela con 600 ml de agua, sal y media cebolla. Cuece a fuego suave 20-25 minutos. Mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia; enfríalo en agua fría, tira esa agua y pélalo. Remoja el pan desmigado en la leche y pica muy finos la otra media cebolla y el ajo.",
+    "Saca el pollo cuando esté hecho por dentro (a los 20 minutos) y la patata cuando un cuchillo entre sin resistencia. Deja templar el pollo y deshiláchalo con dos tenedores. Guarda el caldo.",
     "Tritura el pan remojado y la leche con las nueces hasta tener una crema espesa y lisa.",
     "Lava el arroz y ponlo a cocer en 200 ml de agua con sal y una gota de aceite, tapado, 12 minutos a fuego mínimo; luego deja reposar 5 minutos. Mientras, en la sartén, sofríe con el aceite la cebolla y el ajo picados a fuego medio-bajo 10 minutos, hasta que estén dorados y blanditos. Añade la pasta de ají, la cúrcuma y el comino y rehoga 2 minutos.",
     "Vierte la crema de pan y nueces y cocina removiendo 5 minutos a fuego bajo; aligera con unos 150 ml del caldo del pollo hasta que quede como una bechamel ligera.",
@@ -249,7 +249,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g", nota: "amarilla y harinosa" },
@@ -268,7 +268,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las patatas enteras con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. A la vez, cuece el huevo 10 minutos y enfríalo en agua. Mientras se cuecen las patatas, exprime las limas, pica la cebolla morada muy fina y mézclala con el atún desmigado, la mayonesa y unas gotas de lima.",
+    "Cuece las patatas enteras con piel en agua con sal 25-30 minutos, hasta que un cuchillo entre sin resistencia. A la vez, cuece el huevo 10 minutos en un cazo aparte con agua limpia y enfríalo en agua fría; tira esa agua. Mientras se cuecen las patatas, exprime las limas, pica la cebolla morada muy fina y mézclala con el atún desmigado, la mayonesa y unas gotas de lima.",
     "Pela las patatas aún calientes y pásalas por el pasapurés o aplástalas con un tenedor hasta que no quede ningún grumo. Deja templar.",
     "Amasa el puré con el aceite, la pasta de ají, el zumo de 1 lima y media, sal y pimienta. Debe quedar una masa lisa, amarilla, que no se pegue a las manos; prueba: tiene que estar bien sabrosa y ácida.",
     "Lamina el aguacate y rocíalo con lima para que no se oscurezca.",
@@ -438,7 +438,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 450, u: "g", nota: "amarilla" },
@@ -455,9 +455,9 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Cuece las patatas con piel en agua con sal 25 minutos, hasta que estén tiernas pero enteras. En el mismo cazo, cuece el huevo los últimos 10 minutos y el ajo pelado los últimos 3, para quitarle el punto crudo.",
+    "Cuece las patatas con piel en agua con sal 25 minutos, hasta que estén tiernas pero enteras. Añade el ajo pelado a las patatas los últimos 3 minutos, para quitarle el punto crudo. Mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia.",
     "Pon en el vaso de la batidora el queso, el ají amarillo, el ajo, el aceite, las galletas y la mitad de la leche. Tritura 1 minuto y ve añadiendo leche hasta lograr una crema espesa que nape la cuchara. Prueba de sal.",
-    "Pela las patatas y córtalas en rodajas gruesas. Enfría el huevo, pélalo y córtalo en cuartos.",
+    "Pela las patatas y córtalas en rodajas gruesas. Enfría el huevo, tira el agua del cazo, pélalo y córtalo en cuartos.",
     "Pon las hojas de lechuga en el plato, encima las patatas templadas y cúbrelas generosamente con la salsa huancaína. Termina con el huevo y las aceitunas."
   ],
   nutricion: { kcal: 485, prot: 17, hc: 49, grasa: 23 },

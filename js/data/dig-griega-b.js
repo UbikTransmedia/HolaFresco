@@ -979,7 +979,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "cazo", "batidora"],
   raciones: 2,
   ingredientes: [
     { n: "lechuga romana", q: 400, u: "g" },
@@ -998,7 +998,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela la patata y córtala en rodajas finas. Lava la lechuga y córtala en tiras gruesas. Pica la parte verde de la cebolleta.",
-    "En una cazuela, calienta el aceite de oliva a fuego medio y rehoga la cebolleta 1 minuto. Añade la patata y el caldo caliente y sala; cuando hierva, mete los huevos con una cuchara y cuece 15 minutos, hasta que la patata esté tierna. Saca los huevos a los 10 minutos, enfríalos en agua fría y pélalos.",
+    "En una cazuela, calienta el aceite de oliva a fuego medio y rehoga la cebolleta 1 minuto. Añade la patata y el caldo caliente y sala; cuando hierva, cuece 15 minutos, hasta que la patata esté tierna. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia; enfríalos en agua fría, pélalos y tira esa agua.",
     "Mientras, prepara el aceite de menta: tritura las hojas de menta con el aceite de oliva y una pizca de sal hasta que esté verde intenso. Ralla los huevos.",
     "Añade la lechuga y cuece solo 3 minutos más, hasta que se ablande pero siga verde. Apaga, incorpora el eneldo y tritura hasta que esté muy fina. Termina con el zumo del limón y pimienta.",
     "Sirve la crema con una cucharada de yogur, los huevos por encima y unas gotas de aceite de menta."

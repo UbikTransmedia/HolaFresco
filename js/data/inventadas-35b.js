@@ -506,7 +506,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["horno", "cazuela"],
+  equipo: ["horno", "cazuela", "cazo"],
   coccion: ["todo-al-horno"],
   raciones: 2,
   ingredientes: [
@@ -524,8 +524,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Precalienta el horno a 190 °C. Pon los huevos en una cazuela con agua y sal y llévala a ebullición. A los 2 minutos de hervir, añade las rodajas de patata; a los 6 minutos, el brócoli, y cuece 2 minutos más (los huevos habrán hervido 10 minutos). Escurre todo bien.",
-    "Enfría los huevos bajo el grifo, pélalos y córtalos en rodajas.",
+    "Precalienta el horno a 190 °C. Pon los huevos en un cazo con agua fría y cuécelos 10 minutos desde que hierva. Aparte, lleva a ebullición agua con sal en una cazuela, añade las rodajas de patata y, a los 4 minutos, el brócoli, y cuece 2 minutos más. Escurre todo bien.",
+    "Enfría los huevos bajo el grifo, tira el agua del cazo, pélalos y córtalos en rodajas.",
     "Para la bechamel, en la misma cazuela ya vacía, disuelve la maicena en 100 ml de leche fría. Calienta el resto con la mantequilla, la nuez moscada, sal y pimienta y, cuando hierva, añade la maicena y remueve con varillas 2 minutos, hasta que espese. Fuera del fuego, añade la mostaza y la mitad del cheddar.",
     "Coloca en una fuente la patata, el brócoli y el huevo, cubre con la bechamel y reparte el resto del cheddar.",
     "Hornea 20-25 minutos, hasta que burbujee y esté dorado. Deja reposar 5 minutos."

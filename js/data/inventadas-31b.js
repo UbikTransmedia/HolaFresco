@@ -572,7 +572,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir agua en la cazuela y, mientras, corta las patatas en dados y pica la salvia. Cuece 4 huevos en el agua hirviendo exactamente 6 minutos y pásalos a agua con hielo. Pélalos con cuidado: la yema debe quedar cremosa.",
-    "Sala el agua y cuece las patatas 12 minutos, hasta que estén tiernas. Escúrrelas. Mientras se cuecen, pica los pepinillos y el cebollino.",
+    "Tira el agua de los huevos, pon agua nueva con sal en la cazuela y cuece las patatas 12 minutos, hasta que estén tiernas. Escúrrelas. Mientras se cuecen, pica los pepinillos y el cebollino.",
     "Mezcla la carne con la salvia picada, la nuez moscada, sal y pimienta. Divide en 4 porciones, aplana cada una en la palma de la mano y envuelve un huevo, sellando bien sin dejar huecos.",
     "Bate el huevo restante, pasa cada bola por él y luego por el pan rallado sin gluten. Pincélalas con 1 cucharada de aceite.",
     "Cocínalas en la airfryer a 190 °C 12-14 minutos, girándolas a mitad, hasta que la carne esté hecha y el empanado dorado.",

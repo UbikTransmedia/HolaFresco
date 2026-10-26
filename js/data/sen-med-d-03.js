@@ -720,7 +720,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 50,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela"],
+  equipo: ["horno", "cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
@@ -736,8 +736,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Precalienta el horno a 200 °C y pon a hervir agua con sal en una olla. Mientras, pela las patatas y córtalas en rodajas de medio centímetro, y lava las espinacas.",
-    "Cuando hierva, escalda las espinacas 1 minuto, sácalas con una espumadera a un colador, apriétalas con una cuchara para escurrirlas y alíñalas con el aceite de oliva. Echa en la misma agua las patatas y los huevos y cuece 10 minutos, hasta que las patatas estén tiernas pero enteras.",
-    "Saca los huevos a agua fría y escurre las patatas. En la misma olla, a fuego medio, calienta el aceite de oliva, añade la harina de arroz y remueve 1 minuto. Vierte la leche fría poco a poco batiendo con unas varillas y cuece 5 minutos, hasta que espese. Sazona con sal y nuez moscada.",
+    "Cuando hierva, escalda las espinacas 1 minuto, sácalas con una espumadera a un colador, apriétalas con una cuchara para escurrirlas y alíñalas con el aceite de oliva. Echa en la misma agua las patatas y cuece 10 minutos, hasta que estén tiernas pero enteras. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
+    "Pasa los huevos a agua fría, tira el agua del cazo y escurre las patatas. En la misma olla, a fuego medio, calienta el aceite de oliva, añade la harina de arroz y remueve 1 minuto. Vierte la leche fría poco a poco batiendo con unas varillas y cuece 5 minutos, hasta que espese. Sazona con sal y nuez moscada.",
     "Pela los huevos y córtalos en cuartos. En una fuente de horno, coloca la mitad de las patatas, las espinacas, los huevos y el resto de las patatas, y cubre con la bechamel y el parmesano.",
     "Hornea 15-20 minutos, hasta que la superficie esté dorada y burbujee por los bordes. Deja reposar 5 minutos antes de servir."
   ],
@@ -1067,7 +1067,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora"],
+  equipo: ["cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "judías verdes", q: 150, u: "g" },
@@ -1086,7 +1086,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela la patata y córtala en dados de 2 cm, despunta las judías y trocéalas, corta el calabacín en dados, pica la parte verde de la cebolleta y corta el pan en dados.",
     "Tuesta los dados de pan en una cazuela sin aceite a fuego medio 4-5 minutos, moviéndolos, hasta que estén dorados y crujientes, y sácalos.",
-    "En la misma cazuela, calienta el aceite de oliva y rehoga la cebolleta 1 minuto. Añade la patata, las judías y el calabacín, remueve 2 minutos y cubre con el caldo. Mete con cuidado los huevos lavados, con su cáscara, sala y cuece tapado 18 minutos, hasta que la patata se deshaga; a los 10 minutos, saca los huevos a agua fría.",
+    "En la misma cazuela, calienta el aceite de oliva y rehoga la cebolleta 1 minuto. Añade la patata, las judías y el calabacín, remueve 2 minutos y cubre con el caldo. Sala y cuece tapado 18 minutos, hasta que la patata se deshaga. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia y pásalos a agua fría; tira esa agua.",
     "Mientras termina la crema, pela los huevos. Aparta la crema del fuego, añade las hojas de la mitad de la menta y unas gotas de limón, y tritúrala con la batidora hasta que quede muy fina. Si está espesa, aclárala con un poco de agua caliente.",
     "Pica los huevos y la menta restante. Sirve la crema con el huevo, la menta, los picatostes y un hilo de aceite de oliva."
   ],

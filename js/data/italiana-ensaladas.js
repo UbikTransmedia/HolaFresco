@@ -155,7 +155,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 100,
   dificultad: "elaborada",
-  equipo: ["cazuela", "batidora", "bol"],
+  equipo: ["cazuela", "batidora", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "merluza (lomos)", q: 250, u: "g" },
@@ -179,7 +179,7 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a hervir una cazuela grande de agua con sal. Mientras se calienta, pela la patata y córtala en rodajas de 1 cm, corta la zanahoria en bastones y la coliflor en ramilletes pequeños, y despunta las judías verdes. Cuece los huevos 10 minutos y pásalos a agua fría. En la misma agua cuece las verduras por tandas, sacándolas con una espumadera cuando estén tiernas pero firmes: la patata (12 minutos), la zanahoria y la coliflor (6-7 minutos) y las judías verdes (6 minutos). Extiéndelas en una bandeja para que se enfríen sin pasarse.",
+    "Pon a hervir una cazuela grande de agua con sal. Mientras se calienta, pela la patata y córtala en rodajas de 1 cm, corta la zanahoria en bastones y la coliflor en ramilletes pequeños, y despunta las judías verdes. Cuece aparte los huevos 10 minutos en un cazo con agua limpia, pásalos a agua fría y tira esa agua. En la cazuela grande cuece las verduras por tandas, sacándolas con una espumadera cuando estén tiernas pero firmes: la patata (12 minutos), la zanahoria y la coliflor (6-7 minutos) y las judías verdes (6 minutos). Extiéndelas en una bandeja para que se enfríen sin pasarse.",
     "Baja el fuego al mínimo, sin borbotones, y escalfa la merluza 5-6 minutos, hasta que se separe en lascas. Sácala. Sube el fuego y cuece los langostinos 2 minutos, hasta que estén rosados y curvados; enfríalos en agua con hielo y pela las colas. Pela los huevos y corta la remolacha en dados.",
     "Aliña cada verdura por separado con unas gotas de vinagre, un hilo de aceite y sal. Es el secreto del plato: cada capa tiene que estar sazonada por sí misma.",
     "Prepara la salsa verde: en el vaso de la batidora pon las hojas de perejil, los piñones, las alcaparras, 2 anchoas, el ajo sin germen, la yema de un huevo duro, 2 regañas remojadas en 1 cucharada de vinagre, otras 2 cucharadas de vinagre y el resto del aceite. Tritura hasta una pasta densa y verde intensa; si queda demasiado espesa, añade una cucharada de agua.",
@@ -429,7 +429,7 @@ window.RECETAS_SEED.push({
   proteina: "ternera",
   tiempo: 180,
   dificultad: "media",
-  equipo: ["cazuela", "batidora", "bol"],
+  equipo: ["cazuela", "batidora", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "morcillo de ternera", q: 400, u: "g", nota: "en una pieza; o falda" },
@@ -454,7 +454,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir 2 litros de agua con una rama de apio, la cebolla partida, el laurel y sal. Cuando hierva, mete el morcillo entero: así se hace en el Piamonte cuando lo que importa es la carne, y no el caldo. Baja a fuego muy suave, con apenas un temblor, y cuécelo 2 horas y 30 minutos con la tapa entreabierta, retirando la espuma de vez en cuando, hasta que un tenedor entre sin resistencia. Añade la zanahoria entera en los últimos 25 minutos, para que quede tierna pero no se deshaga.",
-    "Mientras, cuece los huevos 10 minutos y enfríalos en agua fría. Desmiga el pan en un cuenco y rocíalo con el vinagre. Corta en rodajas finas la otra rama de apio y los pepinillos, la cebolla morada en juliana, y despunta las judías verdes.",
+    "Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia, enfríalos en agua fría y tira esa agua. Desmiga el pan en un cuenco y rocíalo con el vinagre. Corta en rodajas finas la otra rama de apio y los pepinillos, la cebolla morada en juliana, y despunta las judías verdes.",
     "Haz el bagnet vert: tritura las hojas de perejil, las anchoas, las alcaparras, el ajo sin germen, la miga escurrida (guarda el vinagre) y la yema de un huevo duro, añadiendo el aceite en hilo hasta tener una salsa densa. Ajusta la acidez con el vinagre reservado y deja reposar al menos 30 minutos para que se asienten los sabores.",
     "En los últimos 7 minutos de cocción de la carne, añade las judías verdes al caldo. Sácalas cuando estén tiernas pero aún verdes brillantes.",
     "Saca la carne y la zanahoria y deja reposar la carne 10 minutos tapada sobre una tabla. Córtala en lonchas de 1 cm a contrapelo y después en tiras; corta la zanahoria en rodajas. Cuela el caldo y guárdalo.",
@@ -654,7 +654,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "bol"],
+  equipo: ["cazuela", "batidora", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 400, u: "g", nota: "pequeñas o nuevas" },
@@ -674,9 +674,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon las patatas en una cazuela con agua fría y sal y cuécelas 15-20 minutos desde que hierva, según su tamaño. Mientras, despunta las judías verdes y trocéalas, parte los cherry por la mitad y pica el perejil.",
-    "Cuando falten 9 minutos para que estén las patatas, mete los huevos con cuidado en la misma cazuela, para que la yema quede justo cuajada. Tres minutos después, añade las judías verdes: deben quedar tiernas pero verde brillante.",
-    "Mientras, prepara la salsa tonnata: tritura el atún escurrido, las anchoas, 1 cucharada de alcaparras, la mayonesa, el yogur y el zumo del limón hasta tener una crema lisa. Si queda espesa, aligérala con 1-2 cucharadas del agua de cocción. Prueba antes de salar: las anchoas ya aportan sal.",
-    "Saca los huevos a un bol con agua fría y escurre las patatas y las judías. Corta las patatas por la mitad aún templadas, pela los huevos y córtalos en cuartos.",
+    "Cuando falten 9 minutos para que estén las patatas, cuece aparte los huevos 9 minutos en un cazo con agua limpia, para que la yema quede justo cuajada. Cuando falten 6 minutos, añade las judías verdes a las patatas: deben quedar tiernas pero verde brillante.",
+    "Mientras, prepara la salsa tonnata: tritura el atún escurrido, las anchoas, 1 cucharada de alcaparras, la mayonesa, el yogur y el zumo del limón hasta tener una crema lisa. Si queda espesa, aligérala con 1-2 cucharadas del agua de cocción de las patatas. Prueba antes de salar: las anchoas ya aportan sal.",
+    "Pasa los huevos a un bol con agua fría, tira el agua del cazo y escurre las patatas y las judías. Corta las patatas por la mitad aún templadas, pela los huevos y córtalos en cuartos.",
     "Extiende una capa de salsa en el fondo de los platos y coloca encima la patata, las judías, los cherry y el huevo. Termina con más salsa, el resto de las alcaparras, el perejil y pimienta negra. Sirve tibia."
   ],
   nutricion: { kcal: 470, prot: 31, hc: 41, grasa: 19 },

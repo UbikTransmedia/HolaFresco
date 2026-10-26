@@ -193,7 +193,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao desalado", q: 300, u: "g", nota: "2 lomos gruesos" },
@@ -212,10 +212,10 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pon a hervir el agua en una olla grande con el laurel y poca sal (el bacalao aporta la suya). Mientras se calienta, pela las patatas y córtalas en trozos grandes, separa la coliflor en ramilletes medianos y lamina los ajos.",
     "Cuando hierva, añade las patatas y cuece 10 minutos.",
-    "Incorpora la coliflor y los huevos con cuidado y cuece 10 minutos más, hasta que la patata se deje atravesar con un cuchillo y la coliflor esté tierna pero entera.",
+    "Incorpora la coliflor y cuece 10 minutos más, hasta que la patata se deje atravesar con un cuchillo y la coliflor esté tierna pero entera. A la vez, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
     "Baja el fuego al mínimo para que el agua tiemble sin hervir y mete los lomos de bacalao. Déjalos 5-6 minutos, hasta que la carne se separe en lascas al presionarla.",
     "Mientras se hace el bacalao, prepara la ajada: calienta el aceite en una sartén pequeña a fuego suave y dora los ajos 2-3 minutos, hasta que estén de color dorado claro. Aparta la sartén del fuego, espera 30 segundos y añade los pimentones y el vinagre; remueve. Si te gusta más ligera, añade 2 cucharadas del agua de cocción (cuidado, salpica).",
-    "Escurre todo, pela los huevos y pártelos por la mitad. Sirve el bacalao con las patatas, la coliflor y el huevo, y riega con la ajada caliente."
+    "Escurre todo; enfría los huevos en agua fría, tira el agua del cazo, pélalos y pártelos por la mitad. Sirve el bacalao con las patatas, la coliflor y el huevo, y riega con la ajada caliente."
   ],
   nutricion: { kcal: 560, prot: 41, hc: 41, grasa: 26 },
   etiquetas: ["tradicional", "invierno", "navidad", "alta en proteína", "sin gluten", "poco especiada"],
@@ -763,7 +763,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "bacalao desalado", q: 200, u: "g" },
@@ -779,11 +779,11 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" },
   ],
   pasos: [
-    "Pon las patatas con piel en una olla con el agua fría y sal y cuécelas 20 minutos desde que hierva; añade los huevos los últimos 10 minutos. Mientras, lamina los ajos y quita el rabo y las semillas a los pimientos secos, abriéndolos.",
+    "Pon las patatas con piel en una olla con el agua fría y sal y cuécelas 20 minutos desde que hierva. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia. Mientras, lamina los ajos y quita el rabo y las semillas a los pimientos secos, abriéndolos.",
     "Seca el bacalao con papel y márcalo en una sartén con 1 cucharada del aceite a fuego medio, 3 minutos por cada lado, hasta que se separe en lascas. Desmígalo en la fuente de servir, quitando piel y espinas.",
     "Pon el resto del aceite en la misma sartén a fuego suave y fríe los pimientos 20-30 segundos por cada lado, solo hasta que cambien de color y huelan a tostado; si se queman, amargan. Sácalos y deja que se enfríen.",
     "En el mismo aceite, dora los ajos 1 minuto, hasta que estén dorados claros, y aparta la sartén del fuego. Trocea los pimientos con los dedos sobre el bacalao.",
-    "Escurre las patatas y los huevos, pásalos por agua fría, pélalos y córtalos en trozos. Mientras, tuesta el pan y pica el perejil, si lo usas.",
+    "Escurre las patatas y los huevos (tira el agua de ambos), pásalos por agua fría, pélalos y córtalos en trozos. Mientras, tuesta el pan y pica el perejil, si lo usas.",
     "Añade a la fuente las aceitunas, las patatas y el huevo, riega con el aceite de los ajos aún templado y mezcla con cuidado. Deja reposar 10 minutos para que todo se empape, espolvorea el perejil y sirve con el pan tostado."
   ],
   nutricion: { kcal: 700, prot: 32, hc: 49, grasa: 41 },

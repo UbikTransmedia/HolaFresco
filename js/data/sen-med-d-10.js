@@ -594,7 +594,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -615,7 +615,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela las patatas y córtalas en dados de 2 cm. Pon a hervir agua con sal en una cazuela y cuece las patatas 10–12 minutos, hasta que estén tiernas pero enteras.",
     "Mientras, pica el eneldo, el perejil y la parte verde de la cebolleta, exprime el limón, corta el pepino en medias lunas y los tomates cherry por la mitad.",
-    "Cuando a las patatas les queden 6 minutos y medio, introduce los huevos (a temperatura ambiente) con una cuchara en la misma agua. Pasado ese tiempo, sácalos a agua fría 2 minutos y pélalos con cuidado.",
+    "Cuando a las patatas les queden 6 minutos y medio, cuece los huevos (a temperatura ambiente) 6 minutos y medio en un cazo aparte con agua limpia ya hirviendo. Pasado ese tiempo, pásalos a agua fría 2 minutos, tira esa agua y pélalos con cuidado.",
     "Escurre las patatas y alíñalas en caliente con el aceite, el zumo de limón, el zumaque, sal y pimienta: así absorben el aliño.",
     "Añade las hierbas, la cebolleta, el pepino, los tomates y las aceitunas y mezcla con suavidad.",
     "Sirve la ensalada templada con los huevos partidos por la mitad encima, con la yema aún líquida, y una pizca más de zumaque."

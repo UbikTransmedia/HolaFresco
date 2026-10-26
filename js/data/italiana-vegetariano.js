@@ -105,7 +105,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "espárragos blancos", q: 600, u: "g", nota: "unos 12 gruesos" },
@@ -122,7 +122,7 @@ window.RECETAS_SEED.push({
   pasos: [
     "Pela los espárragos con un pelador desde debajo de la yema hasta la base y corta el último centímetro, que es leñoso. Átalos en un manojo con hilo de cocina.",
     "Pon a hervir agua con sal y el azúcar en una cazuela alta. Cuece los espárragos de pie, con las yemas fuera del agua, 12–15 minutos, hasta que la base se deje atravesar sin resistencia.",
-    "A la vez, cuece las patatas nuevas con piel en otra cazuela con agua y sal, 15–18 minutos. Los últimos 10 minutos, añade los huevos a esa agua; luego enfríalos en agua fría y pélalos.",
+    "A la vez, cuece las patatas nuevas con piel en otra cazuela con agua y sal, 15–18 minutos. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia; luego enfríalos en agua fría, tira esa agua y pélalos.",
     "Separa las yemas de las claras. En un bol, aplasta las yemas con un tenedor, sal y pimienta, y añade el aceite en hilo sin dejar de batir; termina con el vinagre. Debe quedar una salsa espesa y brillante, como una mayonesa rústica.",
     "Pica finas las claras y el perejil y mézclalos con la salsa.",
     "Escurre los espárragos sobre un paño limpio y sírvelos templados con las patatas partidas por la mitad y la salsa por encima."

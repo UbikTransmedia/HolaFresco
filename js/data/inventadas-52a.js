@@ -506,7 +506,7 @@ window.RECETAS_SEED.push({
   proteina: "pollo",
   tiempo: 60,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   coccion: ["una-olla"],
   raciones: 1,
   ingredientes: [
@@ -526,7 +526,7 @@ window.RECETAS_SEED.push({
     "Corta en trozos grandes la zanahoria, el puerro y el apio. Trocea la carcasa con las manos o unas tijeras y ponla en una cazuela con el agua fría, la zanahoria, el puerro y el apio y el laurel. Empezar en frío extrae mejor el sabor de los huesos.",
     "Lleva a ebullición y retira la espuma con una cuchara: son proteínas que enturbian el caldo.",
     "Baja a fuego suave, que apenas borbotee, y cuece 40 minutos destapado. Si hierve fuerte, la grasa se emulsiona y el caldo queda turbio. Mientras, pica el perejil.",
-    "Cuando falten 12 minutos, mete el huevo lavado en el caldo para que se cueza a la vez. Sácalo, enfríalo en agua fría, pélalo y pícalo.",
+    "Mientras, cuece el huevo 10 minutos en un cazo aparte con agua limpia; enfríalo en agua fría, tira esa agua, pélalo y pícalo.",
     "Cuela el caldo, sálalo y prueba: deberías tener cerca de 1 litro. Reserva la zanahoria cocida y córtala en rodajas.",
     "Vuelve a llevar el caldo a ebullición, añade los fideos y cuece el tiempo del paquete, unos 4 minutos.",
     "Incorpora el pollo desmigado y la zanahoria en el último minuto, solo para calentar.",
@@ -742,8 +742,8 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pon a cocer el huevo 10 minutos. Mientras, pica la cebolleta, los pimientos y el tomate (sin semillas, para que no agüe) en dados muy pequeños, todos del mismo tamaño: es lo que hace elegante un salpicón. Pica también el perejil.",
-    "Saca el huevo y enfríalo en agua fría. En el mismo cazo con agua hirviendo y sal, cuece los langostinos 1 minuto, hasta que se curven y se pongan rosados, y pásalos a agua con hielo para cortar la cocción y que queden tersos.",
+    "Pon a cocer el huevo 10 minutos en un cazo con agua limpia. Mientras, pica la cebolleta, los pimientos y el tomate (sin semillas, para que no agüe) en dados muy pequeños, todos del mismo tamaño: es lo que hace elegante un salpicón. Pica también el perejil.",
+    "Saca el huevo, enfríalo en agua fría y tira el agua. En el mismo cazo, con agua nueva hirviendo y sal, cuece los langostinos 1 minuto, hasta que se curven y se pongan rosados, y pásalos a agua con hielo para cortar la cocción y que queden tersos.",
     "Pela el huevo, separa la yema y aplástala en un bol con el vinagre y una pizca de sal hasta hacer una pasta. Añade el aceite en hilo batiendo con un tenedor: la yema emulsiona la vinagreta y la hace más cremosa.",
     "Pica la clara e incorpórala a la vinagreta con el perejil.",
     "Desmiga la merluza en lascas grandes, sin aplastarla, y trocea los langostinos.",

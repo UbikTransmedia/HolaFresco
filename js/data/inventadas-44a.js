@@ -16,7 +16,7 @@ window.RECETAS_SEED.push({
   proteina: "queso",
   tiempo: 40,
   dificultad: "fácil",
-  equipo: ["cazuela", "batidora", "plancha"],
+  equipo: ["cazuela", "batidora", "plancha", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 600, u: "g", nota: "pequeñas y de piel fina, enteras" },
@@ -34,7 +34,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Lava bien las papas sin pelarlas y colócalas en una sola capa en una cazuela ancha. Cúbrelas justo con agua (alrededor de 1 litro) y añade la sal gruesa: una salmuera así de concentrada es la que después arruga la piel y la cubre de sal blanca.",
-    "Lleva a ebullición y cuece a fuego medio, con la tapa entreabierta, 20-25 minutos, hasta que la punta de un cuchillo entre sin resistencia. Mientras, quita las semillas a las ñoras y remójalas 10 minutos en agua muy caliente. Cuando falten 10 minutos, mete los huevos con cuidado en la misma cazuela, entre las papas; al terminar, sácalos a agua fría: el choque térmico separa la membrana y se pelan sin romperse.",
+    "Lleva a ebullición y cuece a fuego medio, con la tapa entreabierta, 20-25 minutos, hasta que la punta de un cuchillo entre sin resistencia. Mientras, quita las semillas a las ñoras y remójalas 10 minutos en agua muy caliente. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia y, al terminar, pásalos a agua fría y tira esa agua: el choque térmico separa la membrana y se pelan sin romperse.",
     "Para el mojo rojo, raspa la carne de las ñoras con una cucharilla y tritúrala con el pimentón, media cucharadita de comino, la guindilla, 1 cucharada de vinagre, sal y el aceite de oliva hasta tener una salsa espesa.",
     "Para el mojo verde, tritura el cilantro (con los tallos tiernos, que tienen mucho sabor) con el resto del comino y del vinagre, sal y el aceite de oliva. Si queda muy espeso, añade una cucharada de agua.",
     "Tira casi toda el agua, deja solo un dedo y vuelve la cazuela al fuego bajo sin tapa 5 minutos, meneándola de vez en cuando: el agua salada que queda se evapora y la sal se pega a la piel, que se arruga.",
@@ -874,7 +874,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 35,
   dificultad: "fácil",
-  equipo: ["cazuela", "sartén"],
+  equipo: ["cazuela", "sartén", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "huevo", q: 4, u: "ud" },
@@ -894,11 +894,11 @@ window.RECETAS_SEED.push({
     { n: "agua", u: "al gusto" },
   ],
   pasos: [
-    "Pela las patatas, córtalas en trozos medianos iguales y cuécelas en agua con sal 18-20 minutos, hasta que estén tiernas. Cuando falten 9 minutos, mete los huevos con cuidado en la misma cazuela: así la yema queda cuajada pero todavía cremosa. Mientras, pica el cebollino.",
+    "Pela las patatas, córtalas en trozos medianos iguales y cuécelas en agua con sal 18-20 minutos, hasta que estén tiernas. Cuando falten 9 minutos, cuece aparte los huevos en un cazo con agua limpia ya hirviendo: así la yema queda cuajada pero todavía cremosa. Mientras, pica el cebollino.",
     "Prepara el roux: funde la mantequilla en una sartén a fuego medio, añade la harina de arroz y remueve 1 minuto, para que pierda el sabor a crudo sin llegar a tostarse.",
     "Vierte la leche fría poco a poco, batiendo con varillas. Si el roux está caliente y el líquido frío, la harina se dispersa sin hacer grumos. Añade el caldo y cuece 5 minutos a fuego suave, hasta que la salsa cubra una cuchara.",
     "Fuera del fuego, incorpora las dos mostazas, unas gotas de limón, la nuez moscada, sal y pimienta blanca. La mostaza se añade al final porque, si hierve, amarga y pierde su punto picante.",
-    "Cuando estén las patatas, saca los huevos a agua fría. Echa las espinacas a la cazuela de las patatas, espera 1 minuto a que se encojan y escurre todo bien. Pela los huevos.",
+    "Cuando estén las patatas, pasa los huevos a agua fría y tira el agua del cazo. Echa las espinacas a la cazuela de las patatas, espera 1 minuto a que se encojan y escurre todo bien. Pela los huevos.",
     "Parte los huevos por la mitad, caliéntalos 2 minutos en la salsa y sirve con las patatas, las espinacas y el cebollino picado."
   ],
   nutricion: { kcal: 470, prot: 25, hc: 44, grasa: 21 },

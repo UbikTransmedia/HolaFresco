@@ -222,7 +222,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 30,
   dificultad: "fácil",
-  equipo: ["olla-express", "bol"],
+  equipo: ["olla-express", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g" },
@@ -237,9 +237,9 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pela las patatas y la zanahoria y córtalas en dados de 1,5 cm, la zanahoria algo más pequeña.",
-    "Pon el agua en la olla y coloca el cestillo. Mete dentro las patatas, la zanahoria, los guisantes y los huevos enteros bien lavados. Sala las verduras.",
+    "Pon el agua en la olla y coloca el cestillo. Mete dentro las patatas, la zanahoria y los guisantes. Sala las verduras. Aparte, pon los huevos en un cazo con agua limpia fría y cuécelos 10 minutos desde que hierva.",
     "Cierra; cuando alcance presión, baja a fuego medio y cuenta 4 minutos. Despresuriza de forma rápida.",
-    "Pasa los huevos a agua fría. Extiende las verduras en una bandeja y deja que se enfríen 10 minutos: si las mezclas calientes, la mayonesa se corta.",
+    "Pasa los huevos a agua fría y tira el agua del cazo. Extiende las verduras en una bandeja y deja que se enfríen 10 minutos: si las mezclas calientes, la mayonesa se corta.",
     "Pela los huevos; reserva media yema para decorar y pica el resto. Desmiga el atún y corta las aceitunas en rodajas.",
     "En un bol mezcla las verduras, el huevo, el atún y la mitad de las aceitunas con casi toda la mayonesa, aplastando ligeramente algunas patatas para que quede cremosa. Prueba de sal.",
     "Cubre con la mayonesa restante, decora con las aceitunas y la yema rallada y sirve fresca."
@@ -262,7 +262,7 @@ window.RECETAS_SEED.push({
   proteina: "pescado",
   tiempo: 25,
   dificultad: "fácil",
-  equipo: ["olla-express", "bol"],
+  equipo: ["olla-express", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "patata", q: 500, u: "g", nota: "de carne firme" },
@@ -276,8 +276,8 @@ window.RECETAS_SEED.push({
     { n: "sal", u: "al gusto" }
   ],
   pasos: [
-    "Lava bien las patatas y córtalas con piel en rodajas de 1,5 cm. Ponlas en el cestillo de la olla con los huevos enteros y el agua en el fondo.",
-    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida y pasa los huevos a agua fría.",
+    "Lava bien las patatas y córtalas con piel en rodajas de 1,5 cm. Ponlas en el cestillo de la olla con el agua en el fondo. Aparte, pon los huevos en un cazo con agua limpia fría y cuécelos 10 minutos desde que hierva.",
+    "Cierra; cuando alcance presión, baja a fuego medio y cuenta 5 minutos. Despresuriza de forma rápida. Pasa los huevos a agua fría y tira el agua del cazo.",
     "Mientras, pica la cebolleta en juliana muy fina y el perejil.",
     "Pela las patatas todavía calientes (salen solas) y ponlas en una fuente. Sálalas y riégalas enseguida con el vinagre: en caliente lo absorben mejor.",
     "Añade la cebolleta, el perejil y el aceite, y mezcla con cuidado para no romperlas. Deja que reposen 5 minutos.",

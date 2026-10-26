@@ -711,7 +711,7 @@ window.RECETAS_SEED.push({
   proteina: "verdura",
   tiempo: 75,
   dificultad: "fácil",
-  equipo: ["horno", "cazuela", "batidora"],
+  equipo: ["horno", "cazuela", "batidora", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "remolacha", q: 700, u: "g", nota: "4 medianas, mejor si vienen con sus hojas" },
@@ -731,7 +731,7 @@ window.RECETAS_SEED.push({
     "Precalienta el horno a 200 °C. Mientras se calienta, frota las remolachas bajo el grifo sin pelarlas; si traen hojas, córtalas dejando 2 cm de tallo y guárdalas, y no cortes la raíz, para que no sangren. Envuélvelas de dos en dos en papel de aluminio con unas gotas de aceite y sal y ásalas 55-60 minutos, hasta que un cuchillo entre sin resistencia.",
     "Mientras se asan, pela las patatas, córtalas en trozos y ponlas en una cazuela con agua fría y sal; cuando hierva, cuécelas 20 minutos, hasta que se deshagan al pincharlas. Mientras se cuecen, lava las acelgas (o las hojas de remolacha), separa las pencas de las hojas y corta las pencas en trozos de 3 cm.",
     "En esa misma espera, tuesta las almendras en una sartén sin aceite 3 minutos, removiendo, y tritúralas muy finas con la batidora junto con los ajos pelados y una pizca de sal.",
-    "Echa los huevos a la cazuela de las patatas cuando les falten 10 minutos, las pencas cuando falten 4 y las hojas cuando falten 2. Saca las acelgas con una espumadera y los huevos a un bol con agua fría. Escurre las patatas reservando 150 ml del agua.",
+    "Cuando a las patatas les falten 10 minutos, pon los huevos a cocer en un cazo aparte con agua limpia; echa las pencas a la cazuela de las patatas cuando falten 4 y las hojas cuando falten 2. Saca las acelgas con una espumadera y pasa los huevos a un bol con agua fría; tira el agua del cazo. Escurre las patatas reservando 150 ml del agua.",
     "Aplasta las patatas calientes con un tenedor o un pasapurés (con la batidora quedan chiclosas), mezcla con la pasta de almendra y ajo y 2 cucharadas de vinagre, y añade 2 cucharadas de aceite en hilo alternando con el agua de cocción tibia, batiendo con energía, hasta tener una crema espesa y lisa: es la skordalia. Prueba de sal.",
     "Cuando las remolachas estén asadas, ábrelas y deja que templen 5 minutos; pélalas frotando la piel con papel de cocina (con guantes, si no quieres teñirte) y córtalas en gajos. Alíñalas con el vinagre restante, 1 cucharada de aceite y sal, y las acelgas con el resto del aceite y sal. Pica el perejil y pela los huevos y córtalos en cuartos.",
     "Sirve la remolacha y las acelgas templadas con una buena cucharada de skordalia al lado, los huevos y el perejil por encima y pimienta recién molida."

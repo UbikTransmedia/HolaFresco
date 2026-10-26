@@ -218,7 +218,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 60,
   dificultad: "media",
-  equipo: ["cazuela", "bol"],
+  equipo: ["cazuela", "bol", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "alcachofa", q: 4, u: "ud" },
@@ -239,7 +239,7 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Pon a hervir una cazuela grande con agua y sal. Mientras se calienta, limpia las alcachofas quitando las hojas duras hasta llegar a las tiernas, corta las puntas y pártelas en cuartos; frótalas con limón para que no se oscurezcan. Corta la zanahoria en rodajas, trocea las judías verdes, corta los espárragos en trozos de 4 cm y pica la cebolla y el ajo.",
-    "Cuece en esa agua por separado (con espumadera, en tandas) las verduras: zanahoria y judías verdes 8 minutos, alcachofas 10 minutos, espárragos 3 minutos y guisantes 2 minutos. Con la primera tanda mete también 2 huevos y sácalos a los 10 minutos; enfríalos en agua fría, pélalos y córtalos en cuartos. Guarda 1 vaso del agua de cocción, vacía la cazuela y sécala.",
+    "Cuece en esa agua por separado (con espumadera, en tandas) las verduras: zanahoria y judías verdes 8 minutos, alcachofas 10 minutos, espárragos 3 minutos y guisantes 2 minutos. Mientras, cuece los 2 huevos 10 minutos en un cazo aparte con agua limpia; enfríalos en agua fría, tira esa agua, pélalos y córtalos en cuartos. Guarda 1 vaso del agua de cocción, vacía la cazuela y sécala.",
     "Seca bien las alcachofas, pásalas por 1 cucharada de harina y por el huevo restante batido y dóralas en la cazuela con 2 cucharadas de aceite a fuego medio 1 minuto por lado. Reserva.",
     "En la misma cazuela, pocha la cebolla y el ajo con 2 cucharadas de aceite 8 minutos a fuego medio-bajo, hasta que estén transparentes. Añade la otra cucharada de harina y tuéstala 1 minuto removiendo.",
     "Vierte el vino, deja evaporar 1 minuto y añade el caldo y medio vaso del agua de cocción poco a poco, removiendo, hasta tener una salsa ligera. Cuece 3 minutos.",
@@ -798,7 +798,7 @@ window.RECETAS_SEED.push({
   proteina: "huevo",
   tiempo: 130,
   dificultad: "fácil",
-  equipo: ["cazuela"],
+  equipo: ["cazuela", "cazo"],
   raciones: 2,
   ingredientes: [
     { n: "cardo", q: 800, u: "g", nota: "pencas limpias" },
@@ -815,8 +815,8 @@ window.RECETAS_SEED.push({
   ],
   pasos: [
     "Quita a las pencas de cardo los hilos y la piel exterior con un pelador, córtalas en trozos de 4 cm y échalas en un bol con agua y el zumo de medio limón para que no se oscurezcan.",
-    "En una cazuela grande, disuelve 1 cucharada de harina en 2 litros de agua fría con el resto del limón exprimido y sal (así el cardo queda blanco). Lleva a ebullición, añade el cardo escurrido y cuece a fuego medio 1 h 15 min-1 h 30 min, hasta que esté muy tierno. Mientras, lamina los ajos y pica el perejil. En los últimos 10 minutos, mete los huevos en la cazuela.",
-    "Escurre el cardo; saca los huevos, enfríalos bajo el grifo y pélalos.",
+    "En una cazuela grande, disuelve 1 cucharada de harina en 2 litros de agua fría con el resto del limón exprimido y sal (así el cardo queda blanco). Lleva a ebullición, añade el cardo escurrido y cuece a fuego medio 1 h 15 min-1 h 30 min, hasta que esté muy tierno. Mientras, lamina los ajos y pica el perejil. Mientras, cuece los huevos 10 minutos en un cazo aparte con agua limpia.",
+    "Escurre el cardo; enfría los huevos bajo el grifo, tira el agua del cazo y pélalos.",
     "Seca la cazuela y dora en ella las almendras y los ajos con el aceite a fuego medio-bajo 3 minutos, hasta que estén dorados. Sácalos y májalos en el mortero con un poco de caldo.",
     "En el mismo aceite, tuesta la otra cucharada de harina 1 minuto. Añade el caldo poco a poco removiendo y luego el majado de almendras. Cuece 5 minutos, hasta que la salsa espese ligeramente.",
     "Incorpora el cardo, mezcla con cuidado y cocina 5 minutos a fuego suave para que tome sabor. Rectifica de sal.",
