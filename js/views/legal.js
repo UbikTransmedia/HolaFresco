@@ -150,6 +150,8 @@
 
   /* Enlaces del pie de página, visibles en todas las pantallas */
   const enlacesPie = () => h("nav.pie-legal", { "aria-label": "Información legal" },
+    h("a", { href: "/sobre.html" }, "Sobre HolaFresco"), " · ",
+    h("a", { href: "/guias/" }, "Guías"), " · ",
     h("a", { href: "#/legal/aviso-legal" }, "Aviso legal"), " · ",
     h("a", { href: "#/legal/privacidad" }, "Privacidad"), " · ",
     h("a", { href: "#/legal/cookies" }, "Cookies"), " · ",

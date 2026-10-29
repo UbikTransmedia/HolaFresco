@@ -16,9 +16,13 @@ const V = require("crypto").createHash("sha1").update(fs.readFileSync(path.join(
 const esc = (s) => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 // Mismo cálculo que Recetas.paginaEstatica (js/recipes.js), que enlaza cada receta con su página
 const slug = (r) => `${Catalogo.normalizar(r.nombre.split(":")[0]).replace(/ñ/g, "n").split(" ").filter(Boolean).slice(0, 8).join("-")}-${r.id}`;
+const miles = (n) => String(n).replace(/\B(?=(\d{3})+(?!\d))/g, ".");
 const fmtNum = (n) => String(n).replace(".", ",");
 const minutos = (t) => (t >= 60 ? `${Math.floor(t / 60)} h${t % 60 ? ` ${t % 60} min` : ""}` : `${t} min`);
 
+// Plataforma de consentimiento de Google (la que se configura en AdSense → Privacidad y mensajes), sin cargar anuncios
+const CMP = `<script async src="https://fundingchoicesmessages.google.com/i/pub-${CLIENTE.replace("ca-pub-", "")}?ers=1"></script>
+<script>(function(){function s(){if(!window.frames["googlefcPresent"]){if(document.body){var i=document.createElement("iframe");i.style="width:0;height:0;border:none;z-index:-1000;left:-1000px;top:-1000px;";i.style.display="none";i.name="googlefcPresent";document.body.appendChild(i);}else{setTimeout(s,0);}}}s();})();</script>`;
 const cabeza = ({ titulo, descripcion, canonica, extra = "", anuncios = false }) => `<!doctype html>
 <html lang="es">
 <head>
@@ -43,14 +47,15 @@ gtag('config', '${GA}');
 </script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=${GA}"></script>
 <meta name="google-adsense-account" content="${CLIENTE}">
+${CMP}
 ${anuncios ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${CLIENTE}" crossorigin="anonymous"></script>\n` : ""}${extra}</head>
 <body>
-<header class="cab"><a class="marca" href="/">🥘 HolaFresco</a><nav><a href="/recetas/">Recetas</a><a href="/#/wizard">Crear menú semanal</a></nav></header>
+<header class="cab"><a class="marca" href="/">🥘 HolaFresco</a><nav><a href="/recetas/">Recetas</a><a href="/guias/">Guías</a><a href="/#/wizard">Crear menú semanal</a></nav></header>
 <main class="pagina">
 `;
 const pie = (anuncios) => `</main>
 <footer class="pie"><p>HolaFresco: recetario, menú semanal y lista de la compra. Los valores nutricionales son orientativos y se calculan a partir de los ingredientes.</p>
-<p><a href="/#/legal">Aviso legal, privacidad y cookies</a> · <a href="/recetas/">Todas las recetas</a> · <a href="/">Crear tu menú</a></p></footer>
+<p><a href="/sobre.html">Sobre HolaFresco</a> · <a href="/guias/">Guías</a> · <a href="/recetas/">Todas las recetas</a> · <a href="/">Crear tu menú</a> · <a href="/#/legal">Aviso legal, privacidad y cookies</a></p></footer>
 ${anuncios ? `<script>document.querySelectorAll("ins.adsbygoogle").forEach(function(){try{(window.adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}});</script>\n` : ""}</body>
 </html>
 `;
@@ -115,9 +120,9 @@ ${relacionadas.map((x) => `<li><a href="/recetas/${slugs.get(x.id)}.html">${esc(
 ` : ""}` + pie(true);
 };
 
-const paginaIndice = () => cabeza({ titulo: "Recetas · HolaFresco", descripcion: `${R.length.toLocaleString("es-ES")} recetas caseras con ingredientes, pasos, consejos y valores nutricionales por ración: legumbres, pescado, carnes, verduras, arroces y más.`, canonica: `${DOMINIO}/recetas/` }) +
+const paginaIndice = () => cabeza({ titulo: "Recetas · HolaFresco", descripcion: `${miles(R.length)} recetas caseras con ingredientes, pasos, consejos y valores nutricionales por ración: legumbres, pescado, carnes, verduras, arroces y más.`, canonica: `${DOMINIO}/recetas/` }) +
 `<h1>Recetas</h1>
-<p>${R.length.toLocaleString("es-ES")} recetas caseras, cada una con sus ingredientes, los pasos en orden, un consejo de cocinero y la energía y los macronutrientes por ración calculados a partir de los ingredientes. Elige un tipo de plato:</p>
+<p>${miles(R.length)} recetas caseras, cada una con sus ingredientes, los pasos en orden, un consejo de cocinero y la energía y los macronutrientes por ración calculados a partir de los ingredientes. Elige un tipo de plato:</p>
 <ul class="categorias">
 ${Recetas.CATEGORIAS.map((c) => { const k = R.filter((r) => r.categoria === c.id).length; return k ? `<li><a href="/recetas/${c.id}.html">${esc(c.icono)} ${esc(c.nombre)}</a> <span class="nota">${k} recetas · ${esc(c.desc || "")}</span></li>` : ""; }).join("\n")}
 </ul>
@@ -146,8 +151,58 @@ for (const r of R) fs.writeFileSync(path.join(SALIDA, slugs.get(r.id) + ".html")
 fs.writeFileSync(path.join(SALIDA, "index.html"), paginaIndice());
 const cats = Recetas.CATEGORIAS.filter((c) => R.some((r) => r.categoria === c.id));
 for (const c of cats) fs.writeFileSync(path.join(SALIDA, c.id + ".html"), paginaCategoria(c));
+// Contenido editorial propio (Sobre y guías)
+const CONTENIDO = require("./contenido.js")({ totalRecetas: R.length, categorias: cats.length });
+for (const pg of CONTENIDO) {
+  const destino = path.join(RAIZ, pg.ruta);
+  fs.mkdirSync(path.dirname(destino), { recursive: true });
+  fs.writeFileSync(destino, cabeza({ titulo: `${pg.titulo} · HolaFresco`, descripcion: pg.descripcion, canonica: `${DOMINIO}/${pg.ruta}` }) + pg.cuerpo + pie(false));
+}
+const guias = CONTENIDO.filter((pg) => pg.ruta.startsWith("guias/"));
+fs.writeFileSync(path.join(RAIZ, "guias/index.html"), cabeza({ titulo: "Guías · HolaFresco", descripcion: "Guías prácticas de HolaFresco: raciones y calorías, cocina baja en FODMAP, higiene en la cocina y organización del menú semanal.", canonica: `${DOMINIO}/guias/` }) +
+  `<h1>Guías</h1>\n<p>Explicaciones prácticas sobre cómo cocinamos y planificamos en HolaFresco.</p>\n<ul class="categorias">\n${guias.map((g) => `<li><a href="/${g.ruta}">${esc(g.titulo)}</a> <span class="nota">${esc(g.descripcion)}</span></li>`).join("\n")}\n</ul>\n` + pie(false));
+
+// Portada estática dentro de index.html: lo que ve quien entra sin JavaScript (buscadores, AdSense). La app la sustituye
+// al arrancar por la misma información, interactiva.
+const destacadas = (() => { const pool = R.filter((r) => r.origen === "inventada" && r.tiempo <= 45); const out = []; for (let i = 0; out.length < 24 && i < pool.length; i += Math.floor(pool.length / 24)) out.push(pool[i]); return out; })();
+const portada = `<!-- PORTADA:INICIO (generada por tools/paginas.js) -->
+<div id="portada-estatica" class="portada-estatica">
+<header><p class="pe-marca">🥘 HolaFresco</p><nav><a href="/recetas/">Recetas</a> · <a href="/guias/">Guías</a> · <a href="/sobre.html">Sobre HolaFresco</a></nav></header>
+<main>
+<h1>Planea tu menú semanal sin complicaciones</h1>
+<p>HolaFresco es un recetario de ${miles(R.length)} recetas caseras y un asistente que prepara el menú de comidas y cenas de tu semana: le dices quién come en casa, qué días cocinas, qué os gusta y qué no podéis comer, y te propone los platos con la lista de la compra ya sumada y ordenada por pasillos. Gratis, sin registro y con tus datos guardados solo en tu navegador.</p>
+<h2>Cómo funciona</h2>
+<ol>
+<li><strong>Elige lo que te gusta.</strong> Personas de la casa (con sus necesidades, alergias e intolerancias), días, tipos de plato, cocinas, tiempo y presupuesto.</li>
+<li><strong>Obtén tu menú semanal.</strong> Platos variados, adaptados a tus gustos, con las cantidades de cada persona. Cambia cualquier plato con un clic.</li>
+<li><strong>Compra sin complicaciones.</strong> La lista suma los ingredientes de todas las recetas y la puedes copiar en el móvil o exportar en PDF.</li>
+</ol>
+<h2>El recetario</h2>
+<ul>
+${cats.map((c) => `<li><a href="/recetas/${c.id}.html">${esc(c.icono)} ${esc(c.nombre)}</a> (${R.filter((r) => r.categoria === c.id).length} recetas)</li>`).join("\n")}
+</ul>
+<h2>Algunas recetas</h2>
+<ul>
+${destacadas.map((r) => `<li><a href="/recetas/${slugs.get(r.id)}.html">${esc(r.nombre)}</a></li>`).join("\n")}
+</ul>
+<h2>Guías</h2>
+<ul>
+${guias.map((g) => `<li><a href="/${g.ruta}">${esc(g.titulo)}</a></li>`).join("\n")}
+</ul>
+<p><a href="/sobre.html">Sobre HolaFresco</a> · <a href="/#/legal">Aviso legal, privacidad y cookies</a></p>
+</main>
+</div>
+<!-- PORTADA:FIN -->`;
+{
+  const fi = path.join(RAIZ, "index.html");
+  let html = fs.readFileSync(fi, "utf8");
+  if (html.includes("<!-- PORTADA:INICIO")) html = html.replace(/<!-- PORTADA:INICIO[\s\S]*?<!-- PORTADA:FIN -->/, portada);
+  else html = html.replace("<body>\n", "<body>\n" + portada + "\n");
+  fs.writeFileSync(fi, html);
+}
+
 const hoy = new Date().toISOString().slice(0, 10);
-const urls = [`${DOMINIO}/`, `${DOMINIO}/recetas/`, ...cats.map((c) => `${DOMINIO}/recetas/${c.id}.html`), ...R.map((r) => `${DOMINIO}/recetas/${slugs.get(r.id)}.html`)];
+const urls = [`${DOMINIO}/`, `${DOMINIO}/sobre.html`, `${DOMINIO}/guias/`, ...CONTENIDO.filter((pg) => pg.ruta.startsWith("guias/")).map((pg) => `${DOMINIO}/${pg.ruta}`), `${DOMINIO}/recetas/`, ...cats.map((c) => `${DOMINIO}/recetas/${c.id}.html`), ...R.map((r) => `${DOMINIO}/recetas/${slugs.get(r.id)}.html`)];
 fs.writeFileSync(path.join(RAIZ, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `<url><loc>${u}</loc><lastmod>${hoy}</lastmod></url>`).join("\n")}\n</urlset>\n`);
 fs.writeFileSync(path.join(RAIZ, "robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: ${DOMINIO}/sitemap.xml\n`);
 console.log(`${R.length} páginas de recetas, ${cats.length} índices, sitemap con ${urls.length} URL`);

@@ -757,3 +757,12 @@ body.fondo-inicio .pie-legal a, body.fondo-inicio .pie-legal .enlace-boton { col
 .recetario-enlaces { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .4rem; }
 .recetario-enlaces a { display: inline-block; padding: .3rem .8rem; border: 1px solid var(--btn-borde); border-radius: 999px; background: var(--btn-fondo); color: var(--texto); text-decoration: none; font-size: .95rem; }
 .recetario-enlaces a:hover { border-color: var(--primario); }
+
+.recetario-guias { margin: .8rem 0 0 !important; font-size: .92rem; }
+/* Portada estática de index.html (sin JavaScript); la app la quita al arrancar */
+.portada-estatica { max-width: 780px; margin: 0 auto; padding: 1rem 16px 2rem; color: var(--texto); background: var(--fondo); }
+.portada-estatica header { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .5rem; align-items: center; }
+.portada-estatica .pe-marca { font-weight: 800; font-size: 1.3rem; margin: 0; }
+.portada-estatica a { color: var(--primario-oscuro); }
+.portada-estatica h1 { font-size: 1.7rem; margin: 1rem 0 .5rem; }
+.portada-estatica li { margin: .25rem 0; }

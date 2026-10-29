@@ -46,7 +46,8 @@
       h("section.recetario-inicio", { "aria-label": "Recetario" },
         h("h2", "Explora el recetario"),
         h("p", `${Recetas.todas().filter((r) => r.origen !== "propia").length.toLocaleString("es-ES")} recetas caseras con sus ingredientes, los pasos en orden, un consejo de cocinero y la energía por ración calculada a partir de los ingredientes.`),
-        h("ul.recetario-enlaces", Recetas.CATEGORIAS.map((c) => h("li", h("a", { href: `/recetas/${c.id}.html` }, c.icono, " ", c.nombre))), h("li", h("a", { href: "/recetas/" }, "📚 Todas las recetas")))
+        h("ul.recetario-enlaces", Recetas.CATEGORIAS.map((c) => h("li", h("a", { href: `/recetas/${c.id}.html` }, c.icono, " ", c.nombre))), h("li", h("a", { href: "/recetas/" }, "📚 Todas las recetas"))),
+        h("p.recetario-guias", "Guías: ", h("a", { href: "/guias/calorias-y-raciones.html" }, "raciones y calorías"), " · ", h("a", { href: "/guias/cocina-baja-en-fodmap.html" }, "cocina baja en FODMAP"), " · ", h("a", { href: "/guias/higiene-en-la-cocina.html" }, "higiene en la cocina"), " · ", h("a", { href: "/guias/menu-semanal-y-compra.html" }, "menú semanal y compra"), " · ", h("a", { href: "/sobre.html" }, "sobre HolaFresco"))
       ),
       h("p.nota-inicio", "Todo se guarda en este navegador, sin cuentas ni servidor. Desde ⚙️ Ajustes puedes exportar una copia de seguridad."),
       h("p.firma-inicio", "Un proyecto de ", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "G. Carbonell"), " (", h("a", { href: "https://gcarbonell.com", target: "_blank", rel: "noopener" }, "gcarbonell.com"), ") y ", h("strong", "J. Ramírez")),
@@ -130,6 +131,9 @@
   };
 
   const arrancar = () => {
+    // La portada estática de index.html (para quien entra sin JavaScript) la sustituye la app
+    const estatica = document.getElementById("portada-estatica");
+    if (estatica) estatica.remove();
     UI.append(document.body, 
       h("a.saltar", { href: "#contenido" }, "Saltar al contenido"),
       h("header.cabecera", h("a.logo", { href: "#/" }, h("span.logo-icono", "🥘"), h("span.logo-texto", "HolaFresco")), nav),
