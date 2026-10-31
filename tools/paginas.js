@@ -10,7 +10,7 @@ require(path.join(RAIZ, "js/data-nutri.js"));
 for (const f of ["catalog", "db", "calorias", "recipes", "nutrition", "shopping"]) require(path.join(RAIZ, "js", f + ".js"));
 const { Recetas, Compra, Catalogo } = window;
 
-const CLIENTE = "ca-pub-9953696711191519", BLOQUE = "5666459835", GA = "G-35Y5H4Y32X";
+const CLIENTE = "ca-pub-9953696711191519", BLOQUE = "5666459835", BLOQUE_ADAPTABLE = "" /* id de un bloque adaptable para móvil, si se crea */, GA = "G-35Y5H4Y32X";
 // Versión de la hoja de estilos según su contenido: si no cambia, las páginas generadas tampoco
 const V = require("crypto").createHash("sha1").update(fs.readFileSync(path.join(RAIZ, "css/pagina.css"))).digest("hex").slice(0, 8);
 const esc = (s) => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -48,7 +48,7 @@ gtag('config', '${GA}');
 <script async src="https://www.googletagmanager.com/gtag/js?id=${GA}"></script>
 <meta name="google-adsense-account" content="${CLIENTE}">
 ${CMP}
-${anuncios ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${CLIENTE}" crossorigin="anonymous"></script>\n` : ""}${extra}</head>
+${extra}</head>
 <body>
 <header class="cab"><a class="marca" href="/">🥘 HolaFresco</a><nav><a href="/recetas/">Recetas</a><a href="/guias/">Guías</a><a href="/#/wizard">Crear menú semanal</a></nav></header>
 <main class="pagina">
@@ -56,11 +56,21 @@ ${anuncios ? `<script async src="https://pagead2.googlesyndication.com/pagead/js
 const pie = (anuncios) => `</main>
 <footer class="pie"><p>HolaFresco: recetario, menú semanal y lista de la compra. Los valores nutricionales son orientativos y se calculan a partir de los ingredientes.</p>
 <p><a href="/sobre.html">Sobre HolaFresco</a> · <a href="/guias/">Guías</a> · <a href="/recetas/">Todas las recetas</a> · <a href="/">Crear tu menú</a> · <a href="/#/legal">Aviso legal, privacidad y cookies</a></p></footer>
-${anuncios ? `<script>document.querySelectorAll("ins.adsbygoogle").forEach(function(){try{(window.adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}});</script>\n` : ""}</body>
+${anuncios ? `<script>
+/* Anuncios: el bloque «Primero» es fijo (728 × 90) y solo se pone donde cabe; en pantallas estrechas se usa el bloque
+   adaptable si existe o no se pone ninguno. El script de AdSense solo se carga si hay algún anuncio. */
+(function(){var C="${CLIENTE}",F={s:"${BLOQUE}",w:728,h:90},A="${BLOQUE_ADAPTABLE}",n=0;
+document.querySelectorAll("aside.anuncio").forEach(function(a){var i=document.createElement("ins");i.className="adsbygoogle";i.setAttribute("data-ad-client",C);
+if(a.clientWidth>=F.w){i.style.cssText="display:inline-block;width:"+F.w+"px;height:"+F.h+"px";i.setAttribute("data-ad-slot",F.s);}
+else if(A){i.style.display="block";i.setAttribute("data-ad-slot",A);i.setAttribute("data-ad-format","auto");i.setAttribute("data-full-width-responsive","true");}
+else{a.remove();return;}a.appendChild(i);n++;});
+if(!n)return;var s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="+C;document.head.appendChild(s);
+for(var k=0;k<n;k++){try{(window.adsbygoogle=window.adsbygoogle||[]).push({});}catch(e){}}})();
+</script>\n` : ""}</body>
 </html>
 `;
 // Bloque de anuncio dentro del contenido de una receta (nunca en índices ni en pantallas sin contenido)
-const anuncio = () => `<aside class="anuncio" aria-label="Publicidad"><span class="anuncio-etiqueta">Publicidad</span><ins class="adsbygoogle" style="display:block" data-ad-client="${CLIENTE}" data-ad-slot="${BLOQUE}" data-ad-format="auto" data-full-width-responsive="true"></ins></aside>\n`;
+const anuncio = () => `<aside class="anuncio" aria-label="Publicidad"><span class="anuncio-etiqueta">Publicidad</span></aside>\n`;
 
 const R = Recetas.todas().filter((r) => r.origen !== "propia");
 const porId = new Map(R.map((r) => [r.id, r]));
