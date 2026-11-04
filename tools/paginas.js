@@ -7,6 +7,7 @@ const RAIZ = path.resolve(__dirname, ".."), SALIDA = path.join(RAIZ, "recetas"),
 global.window = {}; global.document = { addEventListener() {}, dispatchEvent() {}, createElement() { return {}; } }; global.localStorage = undefined;
 for (const f of fs.readdirSync(path.join(RAIZ, "js/data")).filter((f) => f.endsWith(".js")).sort()) require(path.join(RAIZ, "js/data", f));
 require(path.join(RAIZ, "js/data-nutri.js"));
+require(path.join(RAIZ, "js/data-conservacion.js"));
 for (const f of ["catalog", "db", "calorias", "recipes", "nutrition", "shopping"]) require(path.join(RAIZ, "js", f + ".js"));
 const { Recetas, Compra, Catalogo } = window;
 

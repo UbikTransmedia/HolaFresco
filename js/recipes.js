@@ -78,6 +78,8 @@
     { id: "superalimentos", etiqueta: "superalimentos", nombre: "Superalimentos", icono: "💪", desc: "Protagonizan al menos dos alimentos de alta densidad nutricional: pescado azul, legumbres, hoja verde, frutos rojos, semillas, cereales integrales…" },
     { id: "poco-especiada", etiqueta: "poco especiada", nombre: "Poco especiada", icono: "🧂", desc: "Sabor suave, sin picante ni mezclas de especias intensas" },
     { id: "facil-digestion", etiqueta: "fácil digestión", nombre: "Fácil digestión", icono: "🫶", desc: "Para intestino irritable o hinchazón: baja en FODMAP, sin picante, alcohol ni fritos, grasa moderada y cocción suave" },
+    { id: "de-despensa", etiqueta: "de despensa", calculada: true, nombre: "De despensa", icono: "🥫", desc: "Para neveras pequeñas: como mucho 100 g por ración de ingredientes que necesitan frío; el resto son conservas, secos o productos que aguantan fuera de la nevera (se calcula con los ingredientes)" },
+    { id: "bajo-acido-urico", etiqueta: "bajo en ácido úrico", calculada: true, nombre: "Bajo en ácido úrico", icono: "🦶", desc: "Baja en purinas, para el ácido úrico alto o la gota: sin vísceras, caza, marisco, pescado azul pequeño, extractos de carne ni cerveza, y con 150 g de carne o pescado por ración como mucho (se calcula con los ingredientes)" },
     { id: "bajo-colesterol", etiqueta: "bajo en colesterol", nombre: "Bajo en colesterol", icono: "❤️", desc: "Sin yema en cantidad, mantequilla, nata, quesos grasos, embutidos, carne roja ni marisco rico en colesterol" },
   ];
 
@@ -142,6 +144,36 @@
   const toggleListaNegra = (id) => marcar("listaNegra", id);
 
   /* Deriva etiquetas de dieta a partir de los ingredientes (coherente con los vetos) y completa atributos */
+  /* Baja en purinas: ningún ingrediente obligatorio rico en purinas (vísceras, caza, marisco, pescado azul pequeño,
+     extractos, cerveza) y, como mucho, 150 g de carne o pescado (parte comestible) por ración */
+  const bajoEnAcidoUrico = (r) => {
+    const ings = (r.ingredientes || []).filter((i) => !i.opcional);
+    if (ings.some((i) => Catalogo.altoEnPurinas(i.n))) return false;
+    if (!window.Calorias) return true;
+    let carne = 0;
+    for (const i of ings) {
+      const g = Catalogo.gruposDe(i.n);
+      if (!(g.includes("carne") || g.includes("pescado")) || /^caldo\b/.test(Catalogo.normalizar(i.n))) continue;
+      carne += window.Calorias.gramosNetos(i) || 0;
+    }
+    return carne / (r.raciones || 2) <= 150;
+  };
+
+  /* Gramos por ración de ingredientes obligatorios que necesitan nevera (tabla js/data-conservacion.js; si un
+     ingrediente no está en la tabla, se deduce por su pasillo) */
+  const PASILLOS_FRIO = ["carniceria", "pescaderia", "lacteos-huevos", "frutas-verduras"];
+  const conservacionDe = (n) => {
+    const k = Catalogo.normalizar(n), t = window.CONSERVACION || {};
+    if (t[k]) return t[k];
+    return PASILLOS_FRIO.includes(Catalogo.pasilloDe(n)) ? "nevera" : Catalogo.pasilloDe(n) === "congelados" ? "congelador" : "despensa";
+  };
+  const gramosNevera = (r) => {
+    if (!window.Calorias) return 0;
+    let g = 0;
+    for (const i of r.ingredientes || []) if (!i.opcional && conservacionDe(i.n) === "nevera") g += window.Calorias.gramosNetos(i) || 0;
+    return Math.round(g / (r.raciones || 2));
+  };
+
   const enriquecer = (r, favs, negra) => {
     const grupos = new Set(), gruposFijos = new Set(); // gruposFijos: solo ingredientes no opcionales
     for (const ing of r.ingredientes || []) {
@@ -155,7 +187,10 @@
     if (etiq.includes("keto")) dieta.push("keto");
     if (etiq.includes("detox")) dieta.push("detox");
     r.dieta = dieta;
-    r.necesidades = NECESIDADES.filter((n) => etiq.includes(Catalogo.normalizar(n.etiqueta))).map((n) => n.id);
+    r.necesidades = NECESIDADES.filter((n) => !n.calculada && etiq.includes(Catalogo.normalizar(n.etiqueta))).map((n) => n.id);
+    if (bajoEnAcidoUrico(r)) r.necesidades.push("bajo-acido-urico");
+    r.gramosNevera = gramosNevera(r);
+    if (r.gramosNevera <= 100) r.necesidades.push("de-despensa");
     r.grupos = [...grupos];
     // Alérgenos e intolerancias: los de ingredientes obligatorios y, aparte, los que solo aparecen en opcionales
     r.alergenos = Catalogo.INTOLERANCIAS.filter((t) => t.grupos.some((g) => gruposFijos.has(g))).map((t) => t.id);
@@ -212,7 +247,7 @@
 
   const guardar = (receta) => {
     const limpia = { ...receta };
-    for (const k of ["dieta", "grupos", "textoBusqueda", "_modificada", "favorita", "enListaNegra"]) delete limpia[k];
+    for (const k of ["dieta", "grupos", "textoBusqueda", "_modificada", "favorita", "enListaNegra", "gramosNevera"]) delete limpia[k];
     if (limpia.nutricionDeclarada) { if (limpia.nutricion && limpia.nutricion.calculada) limpia.nutricion = limpia.nutricionDeclarada; delete limpia.nutricionDeclarada; }
     if (limpia.nutricion) delete limpia.nutricion.calculada;
     if (!limpia._coccionManual) delete limpia.coccion; delete limpia._coccionManual;
@@ -424,6 +459,6 @@
     CATEGORIAS, categoria, COCINAS, cocina, COCCIONES, coccion, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, dietaInfo, NECESIDADES, MOMENTOS, DIFICULTADES, PROTEINAS,
     todas, porId, esSemilla, guardar, borrar, restaurar, restaurarTodas, ocultas, duplicar,
     esFavorita, enListaNegra, toggleFavorita, toggleListaNegra, usadasRecientemente, aMarkdown, copiarMarkdown,
-    paginaEstatica, indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,
+    paginaEstatica, conservacionDe, indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,
   };
 })();

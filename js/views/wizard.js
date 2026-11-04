@@ -20,7 +20,7 @@
        - obligatorias (recetas fijas por día), ingredientesObligatorios («ingredientes que quieres usar») y nombre del menú;
        - semilla (aleatoriedad de una generación concreta).
      Todo lo demás sí: personasIds, slots (días y comidas), frecuencias, cocinas, dieta, necesidades, vetos, equipo,
-     cocciones, tupper, tiempo, contundencia, presupuesto, evitarRepetidasSemanas y permitirRepetir. */
+     cocciones, tupper, tiempo, contundencia, presupuesto, nevera, evitarRepetidasSemanas y permitirRepetir. */
   const CAMPOS_DE_SEMANA = ["nombre", "obligatorias", "ingredientesObligatorios", "semilla"];
   const soloPreferencias = (cfg) => {
     const c = JSON.parse(JSON.stringify(cfg));
@@ -174,6 +174,9 @@
       h("section.bloque", h("h3", "💶 Presupuesto"),
         UI.segmentado({ opciones: Planificador.PRESUPUESTOS, valor: st.cfg.presupuesto, ariaLabel: "Presupuesto", alCambiar: (v) => { st.cfg.presupuesto = v; guardarBorrador(); } }),
         h("p.campo-ayuda", "Económico deja fuera las recetas premium (salmón, marisco, solomillo…) y favorece las baratas. Medio limita las premium. Premium las prioriza.")),
+      h("section.bloque", h("h3", "🧊 Nevera"),
+        UI.segmentado({ opciones: Planificador.NEVERAS, valor: st.cfg.nevera, ariaLabel: "Nevera", alCambiar: (v) => { st.cfg.nevera = v; guardarBorrador(); } }),
+        h("p.campo-ayuda", "Si tienes poca nevera, el menú favorece recetas con conservas, legumbres de bote, pasta, arroz y verduras que aguantan fuera (patata, cebolla, tomate…). Para usar solo recetas de despensa, marca la necesidad «De despensa» en el paso de gustos.")),
       h("section.bloque", h("h3", "🔁 Repeticiones"),
         h("div.bloque-grid",
           h("div.campo", h("span.campo-etiqueta", "No repetir recetas de menús anteriores"), h("select.input", { "aria-label": "No repetir recetas recientes", onChange: (e) => { st.cfg.evitarRepetidasSemanas = Number(e.target.value); guardarBorrador(); refrescar(); } }, Planificador.SEMANAS_SIN_REPETIR.map(([v, txt]) => h("option", { value: v, selected: st.cfg.evitarRepetidasSemanas === v }, v ? `Que no hayan salido en ${txt}` : txt))), h("span.campo-ayuda", st.cfg.evitarRepetidasSemanas ? `${recientes.size} ${UI.plural(recientes.size, "receta usada", "recetas usadas")} en tus menús de ese periodo quedarán fuera.` : "Mira tus menús guardados para no repetir lo que ya comiste.")),

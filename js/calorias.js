@@ -126,5 +126,13 @@
   /* kcal de un plato para una persona: ración estándar × su factor (el factor ya escala las cantidades del menú) */
   const kcalPersona = (kcalRacion, factor) => Math.round(((kcalRacion || 0) * (factor || 1)) / 10) * 10;
 
-  window.Calorias = { calcular, buscar, kcalPersona, hayTabla: () => Object.keys(TABLA).length > 0 };
+  /* Gramos comestibles de un ingrediente tal como viene en la receta (sin hueso, concha ni piel); null si no se sabe */
+  const gramosNetos = (ing) => {
+    const dato = info(ing.n).dato;
+    const gr = gramos(ing, dato);
+    return gr == null ? null : gr * (dato ? comestibleDe(ing, dato) : 1);
+  };
+
+  const HAY_TABLA = Object.keys(TABLA).length > 0;
+  window.Calorias = { calcular, buscar, gramosNetos, kcalPersona, hayTabla: () => HAY_TABLA };
 })();

@@ -21,6 +21,13 @@
     { id: "mucho", nombre: "Mucho", peso: 2 },
   ];
 
+  /* Nevera: cuánto se prioriza que las recetas usen ingredientes de despensa (conservas, secos) o de fuera de la nevera */
+  const NEVERAS = [
+    { id: "indiferente", nombre: "Da igual", icono: "🤷" },
+    { id: "pequena", nombre: "Pocos ingredientes de nevera", icono: "🥫", desc: "Favorece recetas con conservas, secos y verdura que aguanta fuera de la nevera" },
+    { id: "minima", nombre: "Lo mínimo", icono: "🥫🥫", desc: "Prioriza mucho las recetas de despensa; la nevera, casi solo para huevos o un poco de queso" },
+  ];
+
   const PRESUPUESTOS = [
     { id: "indiferente", nombre: "Da igual", icono: "🤷" },
     { id: "economico", nombre: "Económico", icono: "€", desc: "Sin recetas premium; prioriza las económicas" },
@@ -78,6 +85,7 @@
     tiempo: { laborables: 0, finde: 0, estricto: true },   // minutos; 0 = sin límite
     contundencia: { comida: "auto", cena: "auto" },
     presupuesto: "indiferente",
+    nevera: "indiferente", // ids de NEVERAS
     evitarRepetidasSemanas: 0,
     permitirRepetir: false, // repetir una receta dentro del mismo menú (sobras)
     ingredientesObligatorios: [], // { nombre, enCasa } — ingredientes que deben salir en el menú
@@ -106,6 +114,7 @@
     c.cocinasEvitar = c.cocinasEvitar || [];
     c.cocinasPreferidas = (c.cocinasPreferidas || []).filter((x) => !c.cocinasEvitar.includes(x));
     c.presupuesto = PRESUPUESTOS.some((p) => p.id === c.presupuesto) ? c.presupuesto : "indiferente";
+    c.nevera = NEVERAS.some((n) => n.id === c.nevera) ? c.nevera : "indiferente";
     c.evitarRepetidasSemanas = Number(c.evitarRepetidasSemanas) || 0;
     if (!Array.isArray(cfg.equipo)) c.equipo = cfg.tieneOllaExpress === false ? ["horno", "microondas"] : ["horno", "microondas", "olla-express"];
     c.tieneOllaExpress = c.equipo.includes("olla-express");
@@ -350,6 +359,8 @@
           p += dif === 0 ? 2 : dif === 1 ? -0.6 : -2.6;
         } else if (slot.momento === "comida" && r.categoria === "ensaladas" && r.contundencia === "ligera") p -= 0.6;
         if (prefs.menosLegumbreNoche && slot.momento === "cena" && r.proteina === "legumbre") p -= prefs.menosLegumbreNoche * 2;
+        // nevera pequeña: resta según los gramos por ración de ingredientes que necesitan frío
+        if (cfg.nevera !== "indiferente") p -= Math.min(6, ((r.gramosNevera || 0) / 100) * (cfg.nevera === "minima" ? 2.2 : 0.45));
         // presupuesto
         if (cfg.presupuesto === "economico") p += r.coste === "económica" ? 1.2 : 0;
         else if (cfg.presupuesto === "medio") p += r.coste === "premium" ? -1.2 : 0;
@@ -466,5 +477,5 @@
     return JSON.stringify(resto);
   };
 
-  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, APARATOS, TUPPER, necesitaTupper, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, cumpleDieta, intoleranciasGrupo, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
+  window.Planificador = { DIAS, dia, FRECUENCIAS, PRESUPUESTOS, NEVERAS, APARATOS, TUPPER, necesitaTupper, CONTUNDENCIA_OPCIONES, TIEMPOS, SEMANAS_SIN_REPETIR, configPorDefecto, normalizarConfig, generar, regenerarSlot, alternativas, elegible, cumpleDieta, intoleranciasGrupo, resumenNutricional, racionesTotales, huella, contundenciaDeseada };
 })();

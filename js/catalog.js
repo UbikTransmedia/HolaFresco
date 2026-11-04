@@ -343,5 +343,24 @@
     "al gusto": { nombre: "al gusto", plural: "al gusto", decimales: 0 },
   };
 
-  window.Catalogo = { normalizar, tokens, palabrasIguales, contieneFrase, coincideAlguna, PASILLOS, pasilloDe, GRUPOS, gruposDe, ingredienteVetado, ingredienteUsa, esBasico, costeDe, UNIDADES, INTOLERANCIAS, intolerancia, intoleranciasEn };
+  /* ---------- Ácido úrico (dieta baja en purinas) ----------
+     Alimentos que se evitan con el ácido úrico alto o la gota: vísceras, caza, marisco, pescado azul pequeño, extractos
+     de carne y levaduras, y la cerveza. Las purinas de legumbres y
+     verduras no se asocian a más gota, así que no cuentan. */
+  const PURINAS_ALTAS = ["higado*", "higadillo*", "riñon*", "riñones", "molleja*", "seso*", "callos*", "corazon de pollo", "corazones de pollo", "corazon de ternera", "lengua de*", "manitas*", "morro*", "oreja*", "sangre*", "morcilla*",
+    "perdiz*", "codorniz*", "jabali*", "venado*", "ciervo*", "pichon*", "faisan*", "liebre*",
+    "anchoa*", "boqueron*", "sardina*", "arenque*", "caballa*", "jurel*", "espadin*", "chicharro*", "huevas*",
+    "mejillon*", "almeja*", "berberecho*", "chirla*", "navaja*", "zamburiña*", "vieira*", "ostra*", "gamba*", "langostino*", "cigala*", "carabinero*", "bogavante*", "langosta*", "cangrejo*", "buey de mar", "nécora*", "centolla*", "percebe*", "calamar*", "chipiron*", "sepia*", "pulpo*", "chocos", "puntillita*",
+    "pastilla de caldo", "pastillas de caldo", "caldo concentrado", "extracto de carne", "levadura de cerveza", "levadura nutricional", "salsa de pescado", "pasta de gambas", "gambas secas", "bonito seco*", "copos de bonito*", "dashi"];
+  // La cerveza aporta purinas además de alcohol; el vino y los licores de cocinar pierden casi todo el alcohol al cocerse
+  const ALCOHOL = ["cerveza*"];
+  const EXCLUIR_URICO = ["vinagre*", "pimiento choricero", "carne de pimiento*", "setas de ostra", "huevo de codorniz", "huevos de codorniz"];
+  const cachePurinas = new Map();
+  const altoEnPurinas = (nombre) => {
+    const k = normalizar(nombre);
+    if (!cachePurinas.has(k)) cachePurinas.set(k, !coincideAlguna(nombre, EXCLUIR_URICO) && (coincideAlguna(nombre, PURINAS_ALTAS) || coincideAlguna(nombre, ALCOHOL)));
+    return cachePurinas.get(k);
+  };
+
+  window.Catalogo = { altoEnPurinas, normalizar, tokens, palabrasIguales, contieneFrase, coincideAlguna, PASILLOS, pasilloDe, GRUPOS, gruposDe, ingredienteVetado, ingredienteUsa, esBasico, costeDe, UNIDADES, INTOLERANCIAS, intolerancia, intoleranciasEn };
 })();
