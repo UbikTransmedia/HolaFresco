@@ -181,6 +181,8 @@ const portada = `<!-- PORTADA:INICIO (generada por tools/paginas.js) -->
 <header><p class="pe-marca">🥘 HolaFresco</p><nav><a href="/recetas/">Recetas</a> · <a href="/guias/">Guías</a> · <a href="/sobre.html">Sobre HolaFresco</a></nav></header>
 <main>
 <h1>Planea tu menú semanal sin complicaciones</h1>
+<p class="pe-acciones"><a class="pe-boton" href="/#/wizard">🪄 Crear menú semanal</a> <a class="pe-boton pe-secundario" href="/recetas/">🍳 Ver recetas</a></p>
+<p class="pe-cargando" role="status"><span class="pe-spinner" aria-hidden="true"></span> Cargando HolaFresco… En unos segundos tendrás el asistente y tus menús.</p>
 <p>HolaFresco es un recetario de ${miles(R.length)} recetas caseras y un asistente que prepara el menú de comidas y cenas de tu semana: le dices quién come en casa, qué días cocinas, qué os gusta y qué no podéis comer, y te propone los platos con la lista de la compra ya sumada y ordenada por pasillos. Gratis, sin registro y con tus datos guardados solo en tu navegador.</p>
 <h2>Cómo funciona</h2>
 <ol>

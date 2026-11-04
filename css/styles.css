@@ -766,3 +766,11 @@ body.fondo-inicio .pie-legal a, body.fondo-inicio .pie-legal .enlace-boton { col
 .portada-estatica a { color: var(--primario-oscuro); }
 .portada-estatica h1 { font-size: 1.7rem; margin: 1rem 0 .5rem; }
 .portada-estatica li { margin: .25rem 0; }
+.portada-estatica .pe-acciones { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
+.portada-estatica .pe-boton { display: inline-block; padding: .7rem 1.2rem; border-radius: 10px; background: var(--primario); color: #fff; font-weight: 700; text-decoration: none; }
+.portada-estatica .pe-boton.pe-secundario { background: var(--superficie); color: var(--texto); border: 1px solid var(--borde); }
+.portada-estatica .pe-cargando { display: none; align-items: center; gap: .6rem; padding: .7rem 1rem; border-radius: 10px; background: var(--superficie); border: 1px solid var(--borde); color: var(--texto-suave); }
+html.js .portada-estatica .pe-cargando { display: flex; }
+.pe-spinner { width: 1.1rem; height: 1.1rem; border: 3px solid var(--borde); border-top-color: var(--primario); border-radius: 50%; animation: pe-gira .8s linear infinite; flex: none; }
+@keyframes pe-gira { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) { .pe-spinner { animation-duration: 2.4s; } }
