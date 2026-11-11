@@ -394,6 +394,10 @@
       if (lim && mejor.tiempo > lim) avisos.push(`Se pasa del tiempo máximo (${mejor.tiempo} min > ${lim} min); el límite está en modo orientativo.`);
       asignacion.set(clave(slot), { recetaId: mejor.id, avisos });
     }
+    // 4) Frescos al principio de la semana: con la compra hecha al empezar, lo que antes se estropea (pescado, carne
+    //    picada, hojas…) va en los primeros días y lo de despensa al final. Solo se intercambian platos entre huecos del
+    //    mismo momento (comida con comida, cena con cena) y si la receta sigue cumpliendo los filtros en su nuevo día.
+    if (!fijos.size && !opciones.variedad) ordenarPorFrescura(slots, asignacion, cfg, clave);
     if (avisoRecientes) avisosGlobales.push("No había suficientes recetas sin usar en el periodo elegido; algunas se han repetido de menús anteriores.");
 
     for (const a of asignacion.values()) { const r = Recetas.porId(a.recetaId); if (r && requeridos.length) { const u = usaDe(r); if (u.length) a.usa = u; } }
@@ -406,6 +410,48 @@
     }
     const resultado = slots.map((s) => ({ ...s, ...(asignacion.get(clave(s)) || { recetaId: null, avisos: [] }) }));
     return { slots: resultado, avisos: avisosGlobales, raciones: racionesTotales(personas) };
+  };
+
+  /* Intercambia platos entre huecos para que la suma de «frescura × día» sea mínima, sin juntar el mismo día dos platos de
+     la misma proteína o categoría que antes no coincidían */
+  const ordenarPorFrescura = (slots, asignacion, cfg, clave) => {
+    const diasMenu = [...new Set(slots.map((s) => s.dia))];
+    if (diasMenu.length < 2) return;
+    const pos = (s) => diasMenu.indexOf(s.dia) / (diasMenu.length - 1);
+    const movibles = slots.filter((s) => { const a = asignacion.get(clave(s)); return a && a.recetaId && !a.obligatoria && !(a.avisos || []).length; });
+    const receta = (s) => Recetas.porId(asignacion.get(clave(s)).recetaId);
+    const fres = (r) => Math.min(1.5, (r.frescura || 0) / 150);
+    // choques del mismo día con el resto de platos de ese día (sin contar el propio hueco)
+    const choques = (r, s, salvo) => {
+      let c = 0;
+      for (const o of slots) {
+        if (o === s || o === salvo || o.dia !== s.dia) continue;
+        const a = asignacion.get(clave(o)), x = a && a.recetaId && Recetas.porId(a.recetaId);
+        if (!x) continue;
+        if (x.id === r.id) c += 3;
+        if (x.proteina === r.proteina) c += 1;
+        if (x.categoria === r.categoria) c += 0.5;
+      }
+      return c;
+    };
+    const coste = (r, s, salvo) => fres(r) * pos(s) * 3 + choques(r, s, salvo);
+    for (let vuelta = 0; vuelta < 6; vuelta++) {
+      let cambio = false;
+      for (let i = 0; i < movibles.length; i++) for (let j = i + 1; j < movibles.length; j++) {
+        const a = movibles[i], b = movibles[j];
+        if (a.momento !== b.momento || a.dia === b.dia) continue;
+        const ra = receta(a), rb = receta(b);
+        if (!ra || !rb || ra.frescura === rb.frescura) continue;
+        if (!elegible(ra, cfg, b.momento, b.dia) || !elegible(rb, cfg, a.momento, a.dia)) continue;
+        const antes = coste(ra, a, b) + coste(rb, b, a), despues = coste(ra, b, a) + coste(rb, a, b);
+        if (despues < antes - 0.05) {
+          const ka = clave(a), kb = clave(b), t = asignacion.get(ka);
+          asignacion.set(ka, asignacion.get(kb)); asignacion.set(kb, t);
+          cambio = true;
+        }
+      }
+      if (!cambio) break;
+    }
   };
 
   /* Regenerar un único hueco manteniendo el resto */

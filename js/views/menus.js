@@ -157,7 +157,7 @@
       for (const pas of lista.porPasillo) {
         const esBasico = pas.id === "basicos", enCasa = pas.id === "en-casa";
         doc.titulo3(pas.nombre);
-        for (const it of pas.items) doc.casilla(it.n.charAt(0).toUpperCase() + it.n.slice(1) + (it.opcional ? " (opcional)" : ""), Compra.textoCantidad(it), { suave: esBasico || enCasa });
+        pas.items.forEach((it, k) => doc.casilla(it.n.charAt(0).toUpperCase() + it.n.slice(1) + (it.opcional ? " (opcional)" : ""), Compra.textoCantidad(it), { suave: esBasico || enCasa, alterna: k % 2 === 1 }));
       }
 
       // 3. Recetas (una por página)
@@ -167,6 +167,11 @@
         const cat = Recetas.categoria(r.categoria), coc = Recetas.cocina(r.cocina), con = Recetas.contundencia(r.contundencia), cos = Recetas.coste(r.coste);
         doc.nuevaPagina();
         doc.destino(kSlot(s));
+        // Ingredientes en una tabla estrecha a la derecha; a su izquierda, el nombre, los datos y la preparación
+        doc.tablaDerecha(`Ingredientes (${String(raciones).replace(".", ",")} ${raciones === 1 ? "ración" : "raciones"})`, Compra.ordenarIngredientes(Compra.escalar(r, raciones)).map((ing) => {
+          const q = ing.q == null ? null : Compra.redondearReceta(ing.q, ing.u);
+          return { texto: ing.n.charAt(0).toUpperCase() + ing.n.slice(1) + (ing.opcional ? " (opcional)" : "") + (ing.nota ? " — " + ing.nota : ""), cantidad: ing.u === "al gusto" || q == null ? "al gusto" : Compra.fmtCantidad(q, ing.u), suave: !!ing.opcional };
+        }));
         doc.parrafo(`${Planificador.dia(s.dia).nombre.toUpperCase()} · ${s.momento === "comida" ? "COMIDA" : "CENA"}${s.obligatoria ? " · FIJA" : ""}`, { f: "F2", size: 8.5, col: doc.colores.suave, despues: 2 });
         doc.parrafo(r.nombre, { f: "F2", size: 18, col: doc.colores.acento, interlineado: 1.2, despues: 2 });
         if (r.subtitulo) doc.parrafo(r.subtitulo.charAt(0).toUpperCase() + r.subtitulo.slice(1), { f: "F3", size: 10.5, col: doc.colores.suave, despues: 4 });
@@ -175,17 +180,13 @@
         if (r.alergenos.length || r.alergenosOpcionales.length) doc.parrafo(`Contiene: ${r.alergenos.map(corto).join(", ") || "—"}${r.alergenosOpcionales.length ? ` · solo en opcionales: ${r.alergenosOpcionales.map(corto).join(", ")}` : ""}`, { size: 9, col: doc.colores.suave, despues: 0 });
         for (const x of Recetas.noAptaPara(r, menu.personas || [])) doc.parrafo(`Atención: no apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}).`, { f: "F2", size: 9, col: doc.colores.acento, despues: 0 });
         doc.enlaces([["Volver al plan", "plan"], ["Markdown de esta receta", "md-" + kSlot(s)]]);
-        doc.titulo3(`Ingredientes (${String(raciones).replace(".", ",")} ${raciones === 1 ? "ración" : "raciones"})`);
-        for (const ing of Compra.ordenarIngredientes(Compra.escalar(r, raciones))) {
-          const q = ing.q == null ? null : Compra.redondearReceta(ing.q, ing.u);
-          doc.casilla(ing.n + (ing.opcional ? " (opcional)" : "") + (ing.nota ? " — " + ing.nota : ""), ing.u === "al gusto" || q == null ? "al gusto" : Compra.fmtCantidad(q, ing.u), { size: 9.5 });
-        }
         doc.titulo3("Preparación");
         r.pasos.forEach((p, i) => doc.elemento(`${i + 1}.`, p, { size: 10 }));
         if (r.consejo) doc.caja(r.consejo, { titulo: "Consejo del cocinero:" });
         if (r.alternativa) doc.caja(r.alternativa, { titulo: "Versión alternativa:" });
         const n = r.nutricion || {};
         if (n.kcal) doc.parrafo(`Por ración (aprox.): ${n.kcal} kcal · ${n.prot} g proteína · ${n.hc} g hidratos · ${n.grasa} g grasa`, { size: 9, col: doc.colores.suave, despues: 0 });
+        doc.cerrarColumna();
       }
 
       // 4. Anexo Markdown

@@ -174,6 +174,46 @@
     return Math.round(g / (r.raciones || 2));
   };
 
+  /* Días que aguanta en casa un ingrediente fresco (orientativo), para colocar al principio de la semana lo que antes se
+     estropea: pescado y carne picada (2), carne y hojas, hierbas, setas o frutos rojos (3), verdura y lácteos frescos
+     (6), verdura dura (12); curados, huevos, despensa y congelados, mucho más */
+  const RE_VIDA = [
+    [/\b(atun|bonito) (fresco|rojo)\b|tortellini frescos|placas de lasana frescas/, 2],
+    [/^(arroz|pasta|quinoa|macarrones)\b.*cocid|caldo .*casero|^tofu (firme|sedoso)$|^brotes de soja$/, 4],
+  ];
+  const RE_CARNE_LARGA = /curad|cecina|jamon (serrano|iberico|curado)|speck|bresaola|botillo|ahumad|kielbasa|guanciale|confit|mortadela|frankfurt|^bacon$|morcilla|^lacon$/;
+  const RE_CARNE_CORTA = /picad|higad|asadura|callos|lengua|manitas|oreja|pollo|pavo|codorniz|pato|conejo|gallina|perdiz|pintada|picanton/;
+  const RE_VERDURA_CORTA = /lechuga|canonigos|rucula|berros|brotes|espinacas|albahaca|cilantro|perejil|menta|hierbabuena|eneldo|cebollino|estragon|salvia|romero fresco|tomillo fresco|frambuesa|fresa|arandanos|frutos rojos|cerezas|higo|setas|champinones|boletus|niscalos|rebozuelos|esparragos|verdolaga|acedera|ortigas|diente de leon|borraja|mazorca|guisantes frescos|habas|melocoton|nectarina|albaricoque|pak choi|cocid|asad|parte verde|cogollos|escarola|endibia|radicchio|uva/;
+  const RE_VERDURA_LARGA = /^col\b|repollo|lombarda|zanahoria|remolacha|nabo|chirivia|apionabo|colinabo|rabano|jengibre|limoncillo|hierba limon|galanga|apio|kale|calabaza|curcuma/;
+  const RE_LACTEO_FRESCO = /burrata|mozzarella|stracciatella|ricotta|requeson|queso (fresco|de burgos|crema|blanco)|nata|yogur|kefir|labneh|smetana|suero|paneer|tierno|claras|yema/;
+  const memoVida = new Map();
+  const vidaUtil = (n) => {
+    const k = Catalogo.normalizar(n);
+    if (memoVida.has(k)) return memoVida.get(k);
+    let v = Infinity;
+    const especial = RE_VIDA.find(([re]) => re.test(k));
+    const c = conservacionDe(n), p = Catalogo.pasilloDe(n);
+    if (especial) v = especial[1];
+    else if (c === "ambiente") v = 14;
+    else if (c === "nevera") {
+      if (p === "pescaderia") v = /ahumad|desalad/.test(k) ? 7 : 2;
+      else if (p === "carniceria") v = RE_CARNE_LARGA.test(k) ? 20 : /jamon cocido|lonchas|asad/.test(k) ? 5 : RE_CARNE_CORTA.test(k) ? 2 : 3;
+      else if (p === "frutas-verduras") v = RE_VERDURA_CORTA.test(k) ? 3 : RE_VERDURA_LARGA.test(k) ? 12 : 6;
+      else if (p === "lacteos-huevos") v = RE_LACTEO_FRESCO.test(k) ? 6 : /^huevo/.test(k) ? 21 : 30;
+      else v = 6;
+    }
+    memoVida.set(k, v);
+    return v;
+  };
+  /* Frescura: gramos por ración de lo que antes se estropea, ponderados por lo poco que aguanta (0 = nada perecedero) */
+  const PESO_VIDA = (v) => (v <= 2 ? 1 : v <= 3 ? 0.7 : v <= 4 ? 0.5 : v <= 6 ? 0.3 : v <= 12 ? 0.08 : 0);
+  const frescura = (r) => {
+    if (!window.Calorias) return 0;
+    let g = 0;
+    for (const i of r.ingredientes || []) if (!i.opcional) { const w = PESO_VIDA(vidaUtil(i.n)); if (w) g += w * (window.Calorias.gramosNetos(i) || 0); }
+    return Math.round(g / (r.raciones || 2));
+  };
+
   const enriquecer = (r, favs, negra) => {
     const grupos = new Set(), gruposFijos = new Set(); // gruposFijos: solo ingredientes no opcionales
     for (const ing of r.ingredientes || []) {
@@ -190,6 +230,7 @@
     r.necesidades = NECESIDADES.filter((n) => !n.calculada && etiq.includes(Catalogo.normalizar(n.etiqueta))).map((n) => n.id);
     if (bajoEnAcidoUrico(r)) r.necesidades.push("bajo-acido-urico");
     r.gramosNevera = gramosNevera(r);
+    r.frescura = frescura(r);
     if (r.gramosNevera <= 100) r.necesidades.push("de-despensa");
     r.grupos = [...grupos];
     // Alérgenos e intolerancias: los de ingredientes obligatorios y, aparte, los que solo aparecen en opcionales
@@ -247,7 +288,7 @@
 
   const guardar = (receta) => {
     const limpia = { ...receta };
-    for (const k of ["dieta", "grupos", "textoBusqueda", "_modificada", "favorita", "enListaNegra", "gramosNevera"]) delete limpia[k];
+    for (const k of ["dieta", "grupos", "textoBusqueda", "_modificada", "favorita", "enListaNegra", "gramosNevera", "frescura"]) delete limpia[k];
     if (limpia.nutricionDeclarada) { if (limpia.nutricion && limpia.nutricion.calculada) limpia.nutricion = limpia.nutricionDeclarada; delete limpia.nutricionDeclarada; }
     if (limpia.nutricion) delete limpia.nutricion.calculada;
     if (!limpia._coccionManual) delete limpia.coccion; delete limpia._coccionManual;
@@ -459,6 +500,6 @@
     CATEGORIAS, categoria, COCINAS, cocina, COCCIONES, coccion, CONTUNDENCIAS, contundencia, contundenciaPorKcal, COSTES, coste, ORIGENES, DIETAS, dietaInfo, NECESIDADES, MOMENTOS, DIFICULTADES, PROTEINAS,
     todas, porId, esSemilla, guardar, borrar, restaurar, restaurarTodas, ocultas, duplicar,
     esFavorita, enListaNegra, toggleFavorita, toggleListaNegra, usadasRecientemente, aMarkdown, copiarMarkdown,
-    paginaEstatica, conservacionDe, indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,
+    paginaEstatica, conservacionDe, vidaUtil, indiceIngredientes, todasEtiquetas, filtrar, conflictosVeto, invalidar, enriquecer, ingredientesCon, noAptaPara, listaNombres,
   };
 })();

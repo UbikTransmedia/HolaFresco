@@ -25,7 +25,11 @@
     let t = String(s == null ? "" : s);
     for (const [re, r] of SUSTITUTOS) t = t.replace(re, r);
     let out = "";
-    for (const ch of t) if (codigo(ch) != null) out += ch; else if (ch === "\n" || ch === "\t") out += ch === "\t" ? "  " : "\n";
+    for (const ch of t) {
+      if (codigo(ch) != null) out += ch;
+      else if (ch === "\n" || ch === "\t") out += ch === "\t" ? "  " : "\n";
+      else { const base = ch.normalize("NFD")[0]; if (base !== ch && codigo(base) != null) out += base; } // Ś → S, ź → z
+    }
     return out.replace(/(\S) {2,}/g, "$1 "); // une los huecos que dejan los emojis, sin tocar sangrías
   };
 
@@ -88,7 +92,7 @@
       this.titulo = opts.titulo || "Documento";
       this.autor = opts.autor || "HolaFresco";
       this.pie = opts.pie || this.titulo;
-      this.colores = { texto: "#1f1a16", suave: "#6b5f55", acento: opts.acento || "#b2461f", enlace: opts.enlace || "#1f4f8f", fondo: "#f3ece2", linea: "#cdbfae" };
+      this.colores = { texto: "#1f1a16", suave: "#6b5f55", acento: opts.acento || "#b2461f", enlace: opts.enlace || "#1f4f8f", fondo: "#f3ece2", linea: "#cdbfae", fila: "#f6f0e8" };
       this.paginas = [];
       this.destinos = {};
       this.marcadores = [];
@@ -121,11 +125,38 @@
     adjuntar(nombre, contenido, desc) { this.adjuntos.push({ nombre, bytes: new TextEncoder().encode(contenido), desc: desc || nombre }); }
     paginaDe(destino) { const d = this.destinos[destino]; return d ? d.pagina + 1 : "?"; }
 
+    /* Columna estrecha: mientras el texto esté a la altura de un bloque fijo a la derecha (la tabla de ingredientes),
+       las líneas usan solo el ancho que queda a su izquierda; por debajo, vuelven al ancho completo */
+    anchoDisponible(lh) {
+      const c = this.columna;
+      return c && c.pagina === this.paginas.length - 1 && this.y - lh * 0.5 > c.yFin - 4 ? c.ancho : ANCHO;
+    }
+    /* Ajuste de línea en flujo: cada línea se parte con el ancho disponible a su altura; pintar(línea, índice) */
+    fluir(s, f, size, lh, sangria, pintar) {
+      let i = 0;
+      const emitir = (l) => { this.y -= lh; pintar(l, i++); };
+      for (const parrafo of limpiar(s).split("\n")) {
+        const palabras = parrafo.split(/ +/);
+        let linea = "", max = null;
+        const abrir = () => { this.asegurar(lh); max = this.anchoDisponible(lh) - sangria; };
+        abrir();
+        for (let p of palabras) {
+          while (ancho(p, f, size) > max) { // palabra más larga que la línea
+            let corte = p.length;
+            while (corte > 1 && ancho(p.slice(0, corte), f, size) > max) corte--;
+            if (linea) { emitir(linea); linea = ""; abrir(); }
+            emitir(p.slice(0, corte)); p = p.slice(corte); abrir();
+          }
+          const prueba = linea ? linea + " " + p : p;
+          if (ancho(prueba, f, size) <= max) linea = prueba; else { emitir(linea); abrir(); linea = p; }
+        }
+        emitir(linea);
+      }
+    }
+
     /* Párrafo con ajuste de línea */
     parrafo(s, { f = "F1", size = 10, col, sangria = 0, interlineado = 1.38, despues = 4, x } = {}) {
-      const lin = partir(s, f, size, ANCHO - sangria);
-      const lh = size * interlineado;
-      for (const l of lin) { this.asegurar(lh); this.y -= lh; this.textoEn(l, (x != null ? x : M.izq) + sangria, this.y + size * 0.25, { f, size, col }); }
+      this.fluir(s, f, size, size * interlineado, sangria, (l) => this.textoEn(l, (x != null ? x : M.izq) + sangria, this.y + size * 0.25, { f, size, col }));
       this.y -= despues;
     }
     titulo1(s, { destino } = {}) { this.asegurar(60); if (destino) this.destino(destino); this.parrafo(s, { f: "F2", size: 20, col: this.colores.acento, interlineado: 1.2, despues: 6 }); }
@@ -134,21 +165,19 @@
 
     /* Lista numerada o con viñeta con sangría francesa */
     elemento(marca, s, { size = 10, sangria = 18, f = "F1", fMarca = "F2", despues = 3 } = {}) {
-      const lin = partir(s, f, size, ANCHO - sangria);
-      const lh = size * 1.38;
-      lin.forEach((l, i) => {
-        this.asegurar(lh); this.y -= lh;
+      this.fluir(s, f, size, size * 1.38, sangria, (l, i) => {
         if (i === 0) this.textoEn(marca, M.izq, this.y + size * 0.25, { f: fMarca, size, col: this.colores.acento });
         this.textoEn(l, M.izq + sangria, this.y + size * 0.25, { f, size });
       });
       this.y -= despues;
     }
     /* Casilla + texto + cantidad alineada a la derecha */
-    casilla(s, derecha, { size = 10, suave = false } = {}) {
+    casilla(s, derecha, { size = 10, suave = false, alterna = false } = {}) {
       const anchoDer = derecha ? ancho(limpiar(derecha), "F2", size) + 8 : 0;
       const lin = partir(s, "F1", size, ANCHO - 18 - anchoDer);
       const lh = size * 1.45;
       this.asegurar(lh * lin.length);
+      if (alterna) this.rect(M.izq - 3, this.y - lh * lin.length - 3, ANCHO + 6, lh * lin.length + 1, { relleno: this.colores.fila });
       lin.forEach((l, i) => {
         this.y -= lh;
         const base = this.y + size * 0.25;
@@ -161,14 +190,51 @@
       this.linea(M.izq + 16, this.y - 3, A4.w - M.der, this.y - 3, { grosor: 0.3 });
       this.y -= 1;
     }
+    /* Tabla de ingredientes alineada a la derecha, tan ancha como su contenido (una línea por celda) y con filas de
+       tono alterno. filas: [{ texto, cantidad, suave }]. Deja reservada la columna izquierda para el texto que siga
+       (this.columna) y devuelve su ancho. Si la tabla no cabe junto a una columna legible, se reduce la letra y, en
+       último caso, se parte el nombre. */
+    tablaDerecha(titulo, filas, { size = 9.5, minIzq = 210, hueco = 18 } = {}) {
+      const caja = 13; // casilla + separación
+      const medir = (sz) => {
+        const nom = Math.max(...filas.map((r) => ancho(limpiar(r.texto), "F1", sz)), 0);
+        const can = Math.max(...filas.map((r) => ancho(limpiar(r.cantidad || ""), "F2", sz)), 0);
+        return { nom, can, total: Math.max(ancho(limpiar(titulo), "F2", sz + 1.5) + 12, caja + nom + 14 + can + 12) };
+      };
+      const maxTabla = ANCHO - minIzq - hueco;
+      let sz = size, m = medir(sz);
+      while (m.total > maxTabla && sz > 8) { sz -= 0.25; m = medir(sz); }
+      const w = Math.min(m.total, maxTabla), nomMax = w - 12 - caja - 14 - m.can + 0.5; // +0,5: margen para el redondeo
+      const x = A4.w - M.der - w, lh = sz * 1.62, top = this.y;
+      // cabecera
+      this.rect(x, top - lh - 2, w, lh + 2, { relleno: this.colores.acento });
+      this.textoEn(titulo, x + 6, top - lh + sz * 0.3, { f: "F2", size: sz + 0.5, col: "#ffffff" });
+      let y = top - lh - 2;
+      filas.forEach((r, k) => {
+        const lin = partir(r.texto, "F1", sz, nomMax), alto = lh * lin.length;
+        if (k % 2) this.rect(x, y - alto, w, alto, { relleno: this.colores.fondo });
+        const base = y - lh + sz * 0.42;
+        this.rect(x + 6, base - 0.8, 7.5, 7.5, { trazo: this.colores.suave, grosor: 0.7 });
+        lin.forEach((l, i) => this.textoEn(l, x + 6 + caja, base - i * lh, { size: sz, col: r.suave ? this.colores.suave : this.colores.texto }));
+        if (r.cantidad) this.textoEn(r.cantidad, x + w - 6 - ancho(limpiar(r.cantidad), "F2", sz), base, { f: "F2", size: sz, col: r.suave ? this.colores.suave : this.colores.texto });
+        y -= alto;
+      });
+      this.linea(x, y, x + w, y, { col: this.colores.linea, grosor: 0.6 });
+      this.columna = { pagina: this.paginas.length - 1, yFin: y, ancho: x - hueco - M.izq };
+      return this.columna.ancho;
+    }
+    /* Fin de la columna estrecha: el flujo sigue por debajo de la tabla */
+    cerrarColumna() { const c = this.columna; if (c && c.pagina === this.paginas.length - 1 && this.y > c.yFin - 8) this.y = c.yFin - 8; this.columna = null; }
+
     /* Caja sombreada (consejos, avisos) */
     caja(s, { titulo, size = 9.5 } = {}) {
-      const lin = partir((titulo ? titulo + " " : "") + s, "F1", size, ANCHO - 20);
       const lh = size * 1.38;
+      let w = this.anchoDisponible(lh), lin = partir((titulo ? titulo + " " : "") + s, "F1", size, w - 20);
       const alto = lin.length * lh + 14;
+      if (this.y - alto - 4 < M.abajo) { this.nuevaPagina(); w = ANCHO; lin = partir((titulo ? titulo + " " : "") + s, "F1", size, w - 20); }
       this.asegurar(alto + 4);
       this.y -= 4;
-      this.rect(M.izq, this.y - alto, ANCHO, alto, { relleno: this.colores.fondo });
+      this.rect(M.izq, this.y - alto, w, alto, { relleno: this.colores.fondo });
       this.rect(M.izq, this.y - alto, 3, alto, { relleno: this.colores.acento });
       let y = this.y - 7;
       lin.forEach((l, i) => {
