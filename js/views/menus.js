@@ -107,7 +107,7 @@
       return L.join("\n").trim() + "\n";
     };
     const mdCompra = (nivel = 1) => { const a = ajustes(); return bajarTitulos(Compra.exportarTexto(menu, Compra.construir(menu), { formato: "markdown", incluirBasicos: a.incluirBasicos, marcados: menu.marcados || [] }), nivel - 2); };
-    /* --- Exportar a PDF: plan (índice enlazado) + lista de la compra + recetas + anexo Markdown --- */
+    /* --- Exportar a PDF: plan (índice enlazado) + lista de la compra + recetas + lista de la compra en Markdown --- */
     const exportarPDF = () => {
       const { Documento } = window.PDF;
       const doc = new Documento({ titulo: `${menu.nombre} · HolaFresco`, pie: `HolaFresco · ${menu.nombre}` });
@@ -116,18 +116,14 @@
       const lista = Compra.construir(menu);
       const a = ajustes();
       const quien = (menu.personas || []).map((p) => p.nombre).join(", ");
-      const mdComp = mdCompra(2), mdPl = mdPlan(2), mdRec = mdRecetas(2);
-      const completo = `# ${menu.nombre}\n\n${mdPl}\n${mdComp}\n${mdRec}`;
+      const mdLista = Compra.exportarTexto(menu, lista, { formato: "markdown", incluirBasicos: a.incluirBasicos });
 
       // Marcadores (índice lateral)
       doc.marcador("Plan de comidas", "plan");
       doc.marcador("Lista de la compra", "lista");
       const mRec = doc.marcador("Recetas", slots.length ? kSlot(slots[0]) : "plan");
       for (const s of slots) doc.marcador(`${Planificador.dia(s.dia).nombre} · ${s.momento === "comida" ? "Comida" : "Cena"}: ${Recetas.porId(s.recetaId).nombre}`, kSlot(s), mRec);
-      const mMd = doc.marcador("Markdown para copiar", "md");
-      doc.marcador("Plan de comidas (Markdown)", "md-plan", mMd);
-      doc.marcador("Lista de la compra (Markdown)", "md-lista", mMd);
-      doc.marcador("Recetas (Markdown)", slots.length ? "md-" + kSlot(slots[0]) : "md", mMd);
+      doc.marcador("Lista de la compra en Markdown", "md-lista");
 
       // 1. Portada + plan de comidas como índice
       doc.titulo1(menu.nombre, { destino: "plan" });
@@ -147,7 +143,7 @@
       doc.titulo2("Contenido");
       doc.filaIndice("", "Lista de la compra", "lista", { anchoEtiqueta: 0 });
       doc.filaIndice("", "Recetas", slots.length ? kSlot(slots[0]) : "plan", { anchoEtiqueta: 0 });
-      doc.filaIndice("", "Markdown para copiar (plan, lista y recetas)", "md", { anchoEtiqueta: 0 });
+      doc.filaIndice("", "Lista de la compra en Markdown, para copiar", "md-lista", { anchoEtiqueta: 0 });
 
       // 2. Lista de la compra
       doc.nuevaPagina();
@@ -179,7 +175,7 @@
         const corto = (id) => Catalogo.intolerancia(id).corto;
         if (r.alergenos.length || r.alergenosOpcionales.length) doc.parrafo(`Contiene: ${r.alergenos.map(corto).join(", ") || "—"}${r.alergenosOpcionales.length ? ` · solo en opcionales: ${r.alergenosOpcionales.map(corto).join(", ")}` : ""}`, { size: 9, col: doc.colores.suave, despues: 0 });
         for (const x of Recetas.noAptaPara(r, menu.personas || [])) doc.parrafo(`Atención: no apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}).`, { f: "F2", size: 9, col: doc.colores.acento, despues: 0 });
-        doc.enlaces([["Volver al plan", "plan"], ["Markdown de esta receta", "md-" + kSlot(s)]]);
+        doc.enlaces([["Volver al plan", "plan"]]);
         doc.titulo3("Preparación");
         r.pasos.forEach((p, i) => doc.elemento(`${i + 1}.`, p, { size: 10 }));
         if (r.consejo) doc.caja(r.consejo, { titulo: "Consejo del cocinero:" });
@@ -189,28 +185,14 @@
         doc.cerrarColumna();
       }
 
-      // 4. Anexo Markdown
+      // 4. Anexo: solo la lista de la compra en Markdown (las recetas ya van en sus páginas)
       doc.nuevaPagina();
-      doc.titulo1("Markdown para copiar", { destino: "md" });
-      doc.parrafo("Selecciona el texto de cada bloque y cópialo para pegarlo en Notion, Obsidian, Google Docs («Pegar desde Markdown»), Samsung Notes o cualquier editor. Los emojis no caben en las fuentes del PDF y aquí se omiten.", { size: 9.5, despues: 4 });
-      doc.caja("Este PDF lleva además el Markdown completo como ficheros adjuntos (menu-completo.md, plan-de-comidas.md, lista-de-la-compra.md y recetas.md), con emojis incluidos. Ábrelos desde el panel de adjuntos del visor (clip): Adobe Acrobat, Firefox, Okular, Evince… En Chrome o en el visor del móvil, copia el texto de esta sección.", { titulo: "Ficheros adjuntos:", size: 9 });
-      doc.titulo2("Plan de comidas", { destino: "md-plan" });
-      doc.enlaces([["Volver al plan", "plan"]]);
-      doc.mono(mdPlan(1));
-      doc.titulo2("Lista de la compra", { destino: "md-lista" });
-      doc.enlaces([["Volver a la lista", "lista"]]);
-      doc.mono(Compra.exportarTexto(menu, lista, { formato: "markdown", incluirBasicos: a.incluirBasicos }));
-      for (const s of slots) {
-        const r = Recetas.porId(s.recetaId);
-        doc.titulo2(r.nombre, { destino: "md-" + kSlot(s) });
-        doc.enlaces([["Volver a la receta", kSlot(s)], ["Volver al plan", "plan"]]);
-        doc.mono(Recetas.aMarkdown(r, s.raciones || menu.raciones));
-      }
-
-      doc.adjuntar("menu-completo.md", completo, "Plan, lista de la compra y recetas en Markdown");
-      doc.adjuntar("plan-de-comidas.md", mdPlan(1), "Plan de comidas en Markdown");
-      doc.adjuntar("lista-de-la-compra.md", Compra.exportarTexto(menu, lista, { formato: "markdown", incluirBasicos: a.incluirBasicos }), "Lista de la compra en Markdown");
-      doc.adjuntar("recetas.md", mdRecetas(1), "Todas las recetas en Markdown");
+      doc.titulo1("Lista de la compra en Markdown", { destino: "md-lista" });
+      doc.enlaces([["Volver a la lista", "lista"], ["Volver al plan", "plan"]]);
+      doc.parrafo("Selecciona el texto y cópialo para pegarlo en Notion, Obsidian, Google Docs («Pegar desde Markdown»), Samsung Notes o cualquier editor. Los emojis no caben en las fuentes del PDF y aquí se omiten.", { size: 9.5, despues: 4 });
+      doc.caja("Este PDF lleva además la lista como fichero adjunto (lista-de-la-compra.md), con emojis incluidos. Ábrelo desde el panel de adjuntos del visor (clip): Adobe Acrobat, Firefox, Okular, Evince… En Chrome o en el visor del móvil, copia el texto de esta página.", { titulo: "Fichero adjunto:", size: 9 });
+      doc.mono(mdLista);
+      doc.adjuntar("lista-de-la-compra.md", mdLista, "Lista de la compra en Markdown");
 
       const slug = Catalogo.normalizar(menu.nombre).replace(/[^a-z0-9ñ]+/g, "-").replace(/^-|-$/g, "") || "menu";
       UI.descargar(`${slug}.pdf`, doc.bytes(), "application/pdf");
