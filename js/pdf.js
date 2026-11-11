@@ -194,7 +194,7 @@
        tono alterno. filas: [{ texto, cantidad, suave }]. Deja reservada la columna izquierda para el texto que siga
        (this.columna) y devuelve su ancho. Si la tabla no cabe junto a una columna legible, se reduce la letra y, en
        último caso, se parte el nombre. */
-    tablaDerecha(titulo, filas, { size = 9.5, minIzq = 210, hueco = 18 } = {}) {
+    tablaDerecha(titulo, filas, { size = 9.5, minSize = 8, minIzq = 210, hueco = 18 } = {}) {
       const caja = 13; // casilla + separación
       const medir = (sz) => {
         const nom = Math.max(...filas.map((r) => ancho(limpiar(r.texto), "F1", sz)), 0);
@@ -203,7 +203,7 @@
       };
       const maxTabla = ANCHO - minIzq - hueco;
       let sz = size, m = medir(sz);
-      while (m.total > maxTabla && sz > 8) { sz -= 0.25; m = medir(sz); }
+      while (m.total > maxTabla && sz > minSize) { sz -= 0.25; m = medir(sz); }
       const w = Math.min(m.total, maxTabla), nomMax = w - 12 - caja - 14 - m.can + 0.5; // +0,5: margen para el redondeo
       const x = A4.w - M.der - w, lh = sz * 1.62, top = this.y;
       // cabecera
@@ -223,8 +223,9 @@
       this.columna = { pagina: this.paginas.length - 1, yFin: y, ancho: x - hueco - M.izq };
       return this.columna.ancho;
     }
-    /* Fin de la columna estrecha: el flujo sigue por debajo de la tabla */
-    cerrarColumna() { const c = this.columna; if (c && c.pagina === this.paginas.length - 1 && this.y > c.yFin - 8) this.y = c.yFin - 8; this.columna = null; }
+    /* Fin de la columna estrecha: el flujo sigue a ancho completo por debajo de la tabla y de lo que haya a su izquierda,
+       dejando un espacio */
+    cerrarColumna(espacio = 8) { const c = this.columna; if (c && c.pagina === this.paginas.length - 1) this.y = Math.min(this.y, c.yFin); this.y -= espacio; this.columna = null; }
 
     /* Caja sombreada (consejos, avisos) */
     caja(s, { titulo, size = 9.5 } = {}) {

@@ -163,26 +163,34 @@
         const cat = Recetas.categoria(r.categoria), coc = Recetas.cocina(r.cocina), con = Recetas.contundencia(r.contundencia), cos = Recetas.coste(r.coste);
         doc.nuevaPagina();
         doc.destino(kSlot(s));
-        // Ingredientes en una tabla estrecha a la derecha; a su izquierda, el nombre, los datos y la preparación
+        // Cabecera a todo el ancho: día y momento, y el nombre de la receta
+        doc.parrafo(`${Planificador.dia(s.dia).nombre.toUpperCase()} · ${s.momento === "comida" ? "COMIDA" : "CENA"}${s.obligatoria ? " · FIJA" : ""}`, { f: "F2", size: 8.5, col: doc.colores.suave, despues: 2 });
+        doc.parrafo(r.nombre, { f: "F2", size: 18, col: doc.colores.acento, interlineado: 1.2, despues: 10 });
+        // Dos columnas: a la derecha, los ingredientes (letra de 12 como mínimo); a la izquierda, los datos de la receta
         doc.tablaDerecha(`Ingredientes (${String(raciones).replace(".", ",")} ${raciones === 1 ? "ración" : "raciones"})`, Compra.ordenarIngredientes(Compra.escalar(r, raciones)).map((ing) => {
           const q = ing.q == null ? null : Compra.redondearReceta(ing.q, ing.u);
           return { texto: ing.n.charAt(0).toUpperCase() + ing.n.slice(1) + (ing.opcional ? " (opcional)" : "") + (ing.nota ? " — " + ing.nota : ""), cantidad: ing.u === "al gusto" || q == null ? "al gusto" : Compra.fmtCantidad(q, ing.u), suave: !!ing.opcional };
-        }));
-        doc.parrafo(`${Planificador.dia(s.dia).nombre.toUpperCase()} · ${s.momento === "comida" ? "COMIDA" : "CENA"}${s.obligatoria ? " · FIJA" : ""}`, { f: "F2", size: 8.5, col: doc.colores.suave, despues: 2 });
-        doc.parrafo(r.nombre, { f: "F2", size: 18, col: doc.colores.acento, interlineado: 1.2, despues: 2 });
-        if (r.subtitulo) doc.parrafo(r.subtitulo.charAt(0).toUpperCase() + r.subtitulo.slice(1), { f: "F3", size: 10.5, col: doc.colores.suave, despues: 4 });
-        doc.parrafo([cat.nombre, coc ? coc.nombre : null, `${r.tiempo} min`, `dificultad ${r.dificultad}`, con ? con.nombre : null, cos ? `coste ${cos.nombre.toLowerCase()}` : null].filter(Boolean).join(" · "), { size: 9, col: doc.colores.suave, despues: 0 });
+        }), { size: 12, minSize: 12, minIzq: 150 });
+        if (r.subtitulo) doc.parrafo(r.subtitulo.charAt(0).toUpperCase() + r.subtitulo.slice(1), { f: "F3", size: 11, col: doc.colores.suave, despues: 8 });
         const corto = (id) => Catalogo.intolerancia(id).corto;
-        if (r.alergenos.length || r.alergenosOpcionales.length) doc.parrafo(`Contiene: ${r.alergenos.map(corto).join(", ") || "—"}${r.alergenosOpcionales.length ? ` · solo en opcionales: ${r.alergenosOpcionales.map(corto).join(", ")}` : ""}`, { size: 9, col: doc.colores.suave, despues: 0 });
-        for (const x of Recetas.noAptaPara(r, menu.personas || [])) doc.parrafo(`Atención: no apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}).`, { f: "F2", size: 9, col: doc.colores.acento, despues: 0 });
+        const dato = (etq, valor) => { if (valor) doc.parrafo(`${etq}: ${valor}`, { size: 10, despues: 3 }); };
+        dato("Tipo", cat.nombre);
+        dato("Cocina", coc ? coc.nombre : null);
+        dato("Tiempo", `${r.tiempo} min`);
+        dato("Dificultad", r.dificultad);
+        dato("Contundencia", con ? con.nombre.toLowerCase() : null);
+        dato("Coste", cos ? cos.nombre.toLowerCase() : null);
+        if (r.alergenos.length || r.alergenosOpcionales.length) dato("Contiene", `${r.alergenos.map(corto).join(", ") || "—"}${r.alergenosOpcionales.length ? ` (solo en opcionales: ${r.alergenosOpcionales.map(corto).join(", ")})` : ""}`);
+        const n = r.nutricion || {};
+        if (n.kcal) dato("Por ración (aprox.)", `${n.kcal} kcal · ${n.prot} g proteína · ${n.hc} g hidratos · ${n.grasa} g grasa`);
+        for (const x of Recetas.noAptaPara(r, menu.personas || [])) doc.parrafo(`Atención: no apta para ${x.persona.nombre} (${x.intolerancias.map((t) => t.corto).join(", ")}).`, { f: "F2", size: 10, col: doc.colores.acento, despues: 3 });
         doc.enlaces([["Volver al plan", "plan"]]);
+        // El resto, a todo el ancho por debajo de las dos columnas
+        doc.cerrarColumna(18);
         doc.titulo3("Preparación");
         r.pasos.forEach((p, i) => doc.elemento(`${i + 1}.`, p, { size: 10 }));
         if (r.consejo) doc.caja(r.consejo, { titulo: "Consejo del cocinero:" });
         if (r.alternativa) doc.caja(r.alternativa, { titulo: "Versión alternativa:" });
-        const n = r.nutricion || {};
-        if (n.kcal) doc.parrafo(`Por ración (aprox.): ${n.kcal} kcal · ${n.prot} g proteína · ${n.hc} g hidratos · ${n.grasa} g grasa`, { size: 9, col: doc.colores.suave, despues: 0 });
-        doc.cerrarColumna();
       }
 
       // 4. Anexo: solo la lista de la compra en Markdown (las recetas ya van en sus páginas)
